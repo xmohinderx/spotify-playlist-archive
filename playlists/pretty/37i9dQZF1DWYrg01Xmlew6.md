@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Il meglio da Napoli e dalla scena campana\. Cover: Geolier, Luchè
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,433 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,546 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 40 | [ME STAJE APPENNENN' AMÒ](https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO](https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr) | 5:06 |
 | 41 | [Mi Regalo Mas Bonito \(con Peppe Soks & O'Tsunami\) \- Remix](https://open.spotify.com/track/1YbkSzTkIpQ743BrmdT1wH) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [ARMS](https://open.spotify.com/artist/3IXlXWmJSpytr7musHXIzI) | [Mi Regalo Mas Bonito \(con Peppe Soks & O'Tsunami\) \[Remix\]](https://open.spotify.com/album/2aKR0fJ0eCxMGstVCRnpNh) | 2:21 |
 | 42 | [Pelle D'Oca \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/3pnXrY3E0rP0cJ0KKzil0w) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [NO MONEY MORE LOVE](https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l) | 2:24 |
-| 43 | [Vida Loca](https://open.spotify.com/track/63WzPPR8lS0ibJeZvngg9A) | [Guerra](https://open.spotify.com/artist/4kEZMl8mZ5WX2fAQq6feTC) | [Vida Loca](https://open.spotify.com/album/4rLBnUhWRXUg8s1OOsWxNw) | 2:54 |
-| 44 | [Chanel](https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Chanel](https://open.spotify.com/album/69WeTXYxLFMrOKrCgYqTlR) | 3:06 |
+| 43 | [Chanel](https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Chanel](https://open.spotify.com/album/69WeTXYxLFMrOKrCgYqTlR) | 3:06 |
+| 44 | [WAVE](https://open.spotify.com/track/40WehEb4Lu7yItCp7AbNIj) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [CANTERA MACHETE, VOL\. II](https://open.spotify.com/album/41nzTTUD0063x7Te16AYau) | 1:17 |
 | 45 | [Chiamm'm](https://open.spotify.com/track/6kf8m42FQ1YB4KZOXdsnCo) | [Southboy](https://open.spotify.com/artist/5d4A9NzErxmra8zPzo2ckE), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Chiamm'm](https://open.spotify.com/album/416Zpbe6xnUU2mZn8HRyek) | 2:10 |
 | 46 | [Skyline](https://open.spotify.com/track/6h3Ygm8pThn9j2UYNfNuq6) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Skyline](https://open.spotify.com/album/7a33VKOjd8l4uSyci8lsEl) | 2:17 |
 | 47 | [TUTT E SBAGL](https://open.spotify.com/track/0buNokncaTlwjJR0LPOnG4) | [Armouann](https://open.spotify.com/artist/4CKFSinEpu2Pap0R3aw5q6) | [TUTT E SBAGL](https://open.spotify.com/album/2DkCCRODSWiDkQxXS9Hyx7) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Emirates \(feat\. Rocco Hunt\)](https://open.spotify.com/track/0qDJ4qOa1xisB7oMmJhD2n) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:24 |
 | 50 | [Doje Vote](https://open.spotify.com/track/6PupByuUnrfNgW1XowhNe7) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Doje Vote](https://open.spotify.com/album/2cgmzVomHZo5fH1A1O2WIW) | 2:51 |
 
-Snapshot ID: `MTY2NDk2NDYyMywwMDAwMDAwMGZjMDg1ZjdkYTIzOGNlMDU2MWI4N2M0NjJhYjU2OTI2`
+Snapshot ID: `MTY2NTEyNzMyMSwwMDAwMDAwMGI0MWUyNDBiNTJiZGY3ODA4ZGI1NDYyYzdjZDQyZWMy`

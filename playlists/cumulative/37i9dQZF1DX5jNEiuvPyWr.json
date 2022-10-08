@@ -756,6 +756,24 @@
     },
     {
       "album": {
+        "name": "La Fin",
+        "url": "https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef"
+      },
+      "artists": [
+        {
+          "name": "Koss",
+          "url": "https://open.spotify.com/artist/1cTINVmi2me8JBpCwR2K16"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194668,
+      "name": "La Fin",
+      "url": "https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY"
+    },
+    {
+      "album": {
         "name": "Le monde par ma fen\u00eatre",
         "url": "https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z"
       },

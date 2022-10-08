@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,575 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,596 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 78 | [好好愛著](https://open.spotify.com/track/2kwSEBJDF1awiH60TIPkHo) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [不如我們今天見](https://open.spotify.com/album/06mKCCEtowAqNlMFYahFjO) | 4:13 |
 | 79 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 |
 | 80 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 |
-| 81 | [北極星](https://open.spotify.com/track/2nZrbgv7AF7NbG5pVogGtb) | [梁嘉靖](https://open.spotify.com/artist/29XpDtSJTMMKR4BVKijsYz) | [北極星](https://open.spotify.com/album/3aPsQrlww2nz3SBE5zEkUQ) | 2:34 |
+| 81 | [北極星](https://open.spotify.com/track/2nZrbgv7AF7NbG5pVogGtb) | [JJ Neo](https://open.spotify.com/artist/4kADHO2hay9ZBo7Y0upMCu) | [北極星](https://open.spotify.com/album/3aPsQrlww2nz3SBE5zEkUQ) | 2:34 |
 | 82 | [异地恋](https://open.spotify.com/track/5ykvi50SErwHLHrkv6MzUw) | [菲道尔](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [异地恋](https://open.spotify.com/album/7nxV6vVOwDMl9Z0LiTUc3z) | 3:02 |
 | 83 | [窃](https://open.spotify.com/track/1Dkav0pUfCDl0dJkLtzgZU) | [Sunnee楊芸晴](https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj) | [窃](https://open.spotify.com/album/7KZr9OyNJe2QbGFcXiWe7H) | 4:38 |
 | 84 | [那時候的他 \- 東森電視自製戲劇《額外旅程》插曲](https://open.spotify.com/track/0QHKiEFU18I3ipMEmpyCL5) | [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [那時候的他 \(東森電視自製戲劇《額外旅程》插曲\)](https://open.spotify.com/album/2590FIyqdgbha6E1U5cMu0) | 4:38 |

@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Hyd
 
-435 songs - 1 day 2 hr 55 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+436 songs - 1 day 3 hr 0 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Don't Be So Hard on Your Own Beauty](https://open.spotify.com/track/2X2Qqr7oRqkRwNZfwFbcRL) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Don't Be So Hard on Your Own Beauty](https://open.spotify.com/album/0FBahmQKdy0LAUodpsl0hh) | 3:12 | 2021-10-08 | 2022-06-04 |
 | [Don't Break The Silence](https://open.spotify.com/track/7C8EwOaq0hox8OXwrXHyE2) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/1PCwiCVNp2V1Jcp8hSUEyB) | 1:44 | 2021-06-03 | 2022-04-19 |
 | [Don't Judge Me](https://open.spotify.com/track/2ixabSVbccs9np9r5CpbWW) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Don't Judge Me](https://open.spotify.com/album/12xYnvNkZWg4yPn2edO0cm) | 3:33 | 2021-06-03 | 2022-06-26 |
-| [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2021-06-03 |  |
+| [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2021-06-03 | 2022-10-08 |
 | [Doorman \- Vegyn Remix](https://open.spotify.com/track/0QyOGi3zEgYVO0PXt8avlA) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Doorman \(Vegyn Remix\)](https://open.spotify.com/album/50WllaBP6r9DWbXDXUxdZA) | 2:28 | 2021-06-11 | 2022-07-26 |
 | [Down By The Water](https://open.spotify.com/track/3kllktLUTSTC1nnXdb21G1) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Down By The Water](https://open.spotify.com/album/09K0K3ZShZXtXguGpFLtjL) | 2:47 | 2021-09-24 | 2022-07-29 |
 | [Down Since '07](https://open.spotify.com/track/1dmYjJ35vKDV72rptktSTu) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Down Since '07](https://open.spotify.com/album/7q17UkDMOymKG7HsphFwdR) | 1:37 | 2022-03-07 | 2022-06-01 |
@@ -197,6 +197,7 @@
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2021-06-03 |  |
 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 | 2021-06-03 |  |
 | [I'm On](https://open.spotify.com/track/0Jvo56KxP4t9dCxCpa9qRj) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I'm On](https://open.spotify.com/album/3kptKZRdNf94sV6gFveVYc) | 4:10 | 2021-06-03 | 2022-07-29 |
+| [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 |  |
 | [ilomilo](https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:36 | 2021-06-03 |  |
 | [In A Good Way](https://open.spotify.com/track/2KTIvRAAihIGm8FyhEKdxp) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [In A Good Way](https://open.spotify.com/album/3oRqV2J2IuvZYm51BTKnb5) | 3:43 | 2021-06-03 | 2022-07-26 |
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2021-06-03 |  |

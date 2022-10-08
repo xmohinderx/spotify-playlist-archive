@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 206786,
       "name": "Barefooted youth",
       "url": "https://open.spotify.com/track/2quEJ0O0lsvl46cyvCiiaJ"
@@ -2433,7 +2433,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 241653,
       "name": "Dancing queen",
       "url": "https://open.spotify.com/track/3kOLMqLWYXUPd9fKMOYbN3"
@@ -14056,6 +14056,24 @@
     },
     {
       "album": {
+        "name": "\ubc14\ubcf4 \uac19\uc740 \uc0ac\ub78c",
+        "url": "https://open.spotify.com/album/3XrJa2kkNDvkD0LMz7ECve"
+      },
+      "artists": [
+        {
+          "name": "YOYOMI",
+          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228172,
+      "name": "\ubc14\ubcf4 \uac19\uc740 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/1YGw2tcb8dsBtcIrZYlj5s"
+    },
+    {
+      "album": {
         "name": "\uba85\uc608\uc758 \uc804\ub2f9 \uac00\uc694\ubb34\ub300 3",
         "url": "https://open.spotify.com/album/4nHETWlobhoAmBSvvW31xG"
       },
@@ -14281,6 +14299,24 @@
       "duration_ms": 212133,
       "name": "\uc2dc\uce58\ubbf8",
       "url": "https://open.spotify.com/track/2ua2r4tgzsFfKlSkgLWpug"
+    },
+    {
+      "album": {
+        "name": "\uc2f1\uae00 2 \ubc99\uae00",
+        "url": "https://open.spotify.com/album/1Rt0xebO1UFGpnXP2AtzzU"
+      },
+      "artists": [
+        {
+          "name": "DooRi",
+          "url": "https://open.spotify.com/artist/7ni7Z9DysFM0rbMnpvyzfs"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "\uc2f1\uae00 2 \ubc99\uae00",
+      "url": "https://open.spotify.com/track/5yRSYLoDaJ3OnyYK9VXTJd"
     },
     {
       "album": {

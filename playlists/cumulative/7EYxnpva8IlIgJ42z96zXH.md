@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-495 songs - 1 day 2 hr 3 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
+496 songs - 1 day 2 hr 7 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-05-20 | 2022-06-25 |
 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 | 2021-11-26 | 2021-12-10 |
 | [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-12 | 2022-10-07 |
-| [Marco Polo](https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [AMELY](https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM) | [Marco Polo](https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux) | 2:36 | 2022-08-19 |  |
+| [Marco Polo](https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [AMELY](https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM) | [Marco Polo](https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux) | 2:36 | 2022-08-19 | 2022-10-08 |
 | [Mask Off](https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Mask Off](https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl) | 2:31 | 2022-08-12 |  |
 | [Me In The Middle](https://open.spotify.com/track/0q2gvD5W0dCBTGPWPxOqFi) | [SJUR](https://open.spotify.com/artist/1X6dfPmF8f5C5EW3WIGfvm), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Me In The Middle](https://open.spotify.com/album/0s9a4OUSx1ICBIpnt9kDQb) | 3:09 | 2021-02-06 | 2021-02-12 |
 | [Medicine \- Navos Remix](https://open.spotify.com/track/0G9JMGMWgxJG72BaZGAocL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Medicine \(Navos Remix\)](https://open.spotify.com/album/511JsjYoCHPcIccfXBVvp0) | 2:44 | 2021-04-24 | 2021-06-11 |
@@ -296,6 +296,7 @@
 | [Moon Groove](https://open.spotify.com/track/3adJKRdGrvuuuibXlDc6Sq) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/5jCwhehDfr3wOKkfVynIFd) | 2:49 | 2022-06-17 | 2022-07-30 |
 | [Morning \- Billen Ted Remix](https://open.spotify.com/track/64qOMCzbwD6yrgBYBPJMA3) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Morning \(Billen Ted Remix\)](https://open.spotify.com/album/5N9bzslQhj3XW8Apf7SSLW) | 2:26 | 2021-06-19 | 2021-08-06 |
 | [Move \- Edit](https://open.spotify.com/track/30lfF9ncaPUsZ5eWvE7m0i) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Move \(Edit\)](https://open.spotify.com/album/6Yr1YJzQRjBkxLqBmzgvvw) | 3:46 | 2021-08-06 | 2021-09-11 |
+| [My People](https://open.spotify.com/track/4DmsB3oMGtEkMLOEniSsoz) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [My People](https://open.spotify.com/album/5jYjKcj3aXqPUTSHgCSP4l) | 4:15 | 2022-10-07 |  |
 | [My Pony](https://open.spotify.com/track/3SFg8Bt5vl5ls9IOyGOClG) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/2URtZKPkMun0TM31i3AUq4) | 2:33 | 2022-04-12 | 2022-06-18 |
 | [My Purple iPod Nano \- salute Remix](https://open.spotify.com/track/0RoltIfGhqICXocqnAmxKx) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/3eWgRkW0XsVUTbHCrnTkJu) | 3:17 | 2022-05-13 | 2022-06-11 |
 | [Need It More](https://open.spotify.com/track/0JSfWPoLEvYUEujgvZx7hN) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [Pieces](https://open.spotify.com/album/5CrfCaxY2QnnDpXwZpD5N7) | 2:22 | 2021-05-18 | 2021-06-11 |

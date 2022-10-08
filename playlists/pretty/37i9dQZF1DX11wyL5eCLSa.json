@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Austin TV en portada.",
-  "num_followers": 131995,
+  "num_followers": 132063,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDY1MCwwMDAwMDAwMGVlNWZlNDlhZDFhOGY5MjMyNmZmYTQ2Y2E4M2ZlZDVi",
+  "snapshot_id": "MTY2NDUxMDY1MCwwMDAwMDAwMDMxN2I1MGVjMTlkYWQwNjNhZGU3MTk5MTE3ODE2NTNl",
   "tracks": [
     {
       "added_at": "2022-09-27 21:37:51",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/3Thy24e4jX5thZRcr9pt0u"
     },
     {
-      "added_at": "2022-08-19 01:13:45",
-      "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/7LHA2aY4SXeDTSiA5foAFa"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Se\u00f1ales",
-      "url": "https://open.spotify.com/track/4CgNNWpvkkMsMkJfSHOOll"
-    },
-    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "Sonidos De Karm\u00e1tica Resonancia",
@@ -679,6 +663,22 @@
       "duration_ms": 311720,
       "name": "SKR",
       "url": "https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ"
+    },
+    {
+      "added_at": "2022-08-19 01:13:45",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/7LHA2aY4SXeDTSiA5foAFa"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/4CgNNWpvkkMsMkJfSHOOll"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
     },
     {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "El Duelo",
-        "url": "https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
-    },
-    {
       "added_at": "2022-09-02 05:54:02",
       "album": {
         "name": "La \u00daltima Llamada",
@@ -819,6 +803,22 @@
       "duration_ms": 190654,
       "name": "Est\u00e1 Bien",
       "url": "https://open.spotify.com/track/7nNJjT0i00WGlpp4ELLEky"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "El Duelo",
+        "url": "https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 257466,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
+        "name": "HASTA SIEMPRE",
+        "url": "https://open.spotify.com/album/7DjQIfGX1CY1we4iaGJg0l"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "HASTA SIEMPRE",
+      "url": "https://open.spotify.com/track/6ApstFWbxEDlv05dvr89xQ"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
         "name": "La Historia Sin Fin",
         "url": "https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3"
       },
@@ -919,6 +935,26 @@
       "duration_ms": 177800,
       "name": "Sol@",
       "url": "https://open.spotify.com/track/6VtARaI3I2MMINgcP7wuxJ"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Brillando",
+        "url": "https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        },
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 271336,
+      "name": "Brillando",
+      "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
     },
     {
       "added_at": "2022-08-13 02:35:38",
@@ -943,26 +979,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Brillando",
-        "url": "https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6"
-      },
-      "artists": [
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        },
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 271336,
-      "name": "Brillando",
-      "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "Rock en espa\u00f1ol",
         "url": "https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 232120,
       "name": "Como T\u00fa (Magic Music Box)",
       "url": "https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "HASTA SIEMPRE",
-        "url": "https://open.spotify.com/album/7DjQIfGX1CY1we4iaGJg0l"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "HASTA SIEMPRE",
-      "url": "https://open.spotify.com/track/6ApstFWbxEDlv05dvr89xQ"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C"
     },
     {
-      "added_at": "2022-09-02 05:54:02",
-      "album": {
-        "name": "Vespa 97",
-        "url": "https://open.spotify.com/album/36s3QXnJ8J4XNA0W1ALHiR"
-      },
-      "artists": [
-        {
-          "name": "Axel Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH"
-        }
-      ],
-      "duration_ms": 148738,
-      "name": "Cuento de Brujas",
-      "url": "https://open.spotify.com/track/5MBmJKobRgVwJLScMUmo84"
-    },
-    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "Tu Tiempo",
@@ -1183,6 +1167,22 @@
       "duration_ms": 205400,
       "name": "Tu Tiempo",
       "url": "https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR"
+    },
+    {
+      "added_at": "2022-09-02 05:54:02",
+      "album": {
+        "name": "Vespa 97",
+        "url": "https://open.spotify.com/album/36s3QXnJ8J4XNA0W1ALHiR"
+      },
+      "artists": [
+        {
+          "name": "Axel Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH"
+        }
+      ],
+      "duration_ms": 148738,
+      "name": "Cuento de Brujas",
+      "url": "https://open.spotify.com/track/5MBmJKobRgVwJLScMUmo84"
     },
     {
       "added_at": "2022-08-19 01:13:45",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Los Flakos",
-        "url": "https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0"
+        "name": "Lejos de M\u00ed",
+        "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
       },
       "artists": [
         {
-          "name": "Los Flakos",
-          "url": "https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah"
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
         }
       ],
-      "duration_ms": 212185,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/6jW1BghId3ws6BFC2Sk8dk"
+      "duration_ms": 196630,
+      "name": "Lejos de M\u00ed",
+      "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
     },
     {
       "added_at": "2022-07-22 17:47:39",

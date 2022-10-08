@@ -3617,10 +3617,28 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 165440,
       "name": "Pressure (unplugged)",
       "url": "https://open.spotify.com/track/4GPY15g4dqJbhccyDEscVY"
+    },
+    {
+      "album": {
+        "name": "Pressure (unplugged)",
+        "url": "https://open.spotify.com/album/7cZgk2z7Pa38zSxgC21CWy"
+      },
+      "artists": [
+        {
+          "name": "Da Chick",
+          "url": "https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165440,
+      "name": "Pressure - Unplugged",
+      "url": "https://open.spotify.com/track/45huXaWrbt1A5mX2TYigQP"
     },
     {
       "album": {

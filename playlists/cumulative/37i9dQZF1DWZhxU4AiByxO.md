@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-234 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+235 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 | 2021-10-22 |  |
 | [Catchy Song \(feat\. T\-Pain & That Girl Lay Lay\)](https://open.spotify.com/track/17yOpPoiu2Ue962Do8LsdS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ) | [The LEGO Movie 2: The Second Part \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vUakEBYI3YXIoAHHRufrq) | 2:48 | 2022-07-28 |  |
 | [Catchy Song \(feat\. T\-Pain & That Girl Lay Lay\)](https://open.spotify.com/track/1JiTWss0EJ3u084OucEvMS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ) | [Catchy Song \(feat\. T\-Pain & That Girl lay Lay\) \[From The LEGO® Movie 2: The Second Part \- Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4Z31kcjkOvonaJO3NeZR6C) | 2:48 | 2021-10-22 | 2022-07-29 |
+| [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-07 |  |
 | [Cheap Thrills](https://open.spotify.com/track/2yZa7VMSMsVekXjCvvlWhr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP) | 3:07 | 2022-07-28 |  |
 | [Cheap Thrills](https://open.spotify.com/track/5MbaCozMxkXzx6nKWyufeA) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/18wL3gXfAxI4qUJTL6SD2o) | 3:07 | 2021-10-22 | 2022-07-29 |
 | [Cheerleader](https://open.spotify.com/track/3GBrT6nOYfVwjz5NfR5EPW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:37 | 2022-07-28 |  |

@@ -4,7 +4,7 @@
 
 > d4vd make anti pop.
 
-1,103 songs - 2 day 5 hr 34 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,105 songs - 2 day 5 hr 40 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [49er](https://open.spotify.com/track/5G9tovSOgzlqOSg2w06fY5) | [99 Neighbors](https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0) | [49er](https://open.spotify.com/album/688Jq2vpSmMS5ZbjTT0bW3) | 3:17 | 2021-08-07 | 2021-10-14 |
 | [5 minutes til dawn](https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [5 minutes til dawn](https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI) | 2:36 | 2022-06-10 | 2022-08-06 |
 | [5am](https://open.spotify.com/track/0zll7ar6NSz8VUN0gciDak) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC), [JOE L](https://open.spotify.com/artist/276rQ7r59LD3mS6oL5RMVb) | [5am](https://open.spotify.com/album/593CwiXVevpgpE30WGQqyp) | 2:42 | 2022-02-18 | 2022-04-10 |
+| [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 | 2022-10-07 |  |
 | [99](https://open.spotify.com/track/0tSODck0WpgVJH29GTNpp8) | [RILEY THE MUSICIAN](https://open.spotify.com/artist/16DcOXjCP2hheroOZ3dPMD) | [99](https://open.spotify.com/album/7fuUhTpZJssmFiEpyPtiAi) | 3:01 | 2021-02-20 | 2021-05-15 |
 | [99' pollen](https://open.spotify.com/track/5fFUfa9IruZpJfxaB5owcY) | [keni can fly](https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW) | [99' pollen](https://open.spotify.com/album/6L1riIGws8qozuRQJ0rmZi) | 3:11 | 2022-06-24 | 2022-08-06 |
 | [A Bitch Curious \(feat\. Sam Truth\)](https://open.spotify.com/track/1e1HFMTEfxwdJh8cCQmtD4) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 4:04 | 2021-04-03 | 2021-10-12 |
@@ -597,13 +598,14 @@
 | [MARINE](https://open.spotify.com/track/5O6890xm1qwbbmg2pTn5V6) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [ALL GIRLS GO TO HEAVEN](https://open.spotify.com/album/1QmZZE11VkUcOKEO9SJ8R4) | 3:22 | 2022-05-09 | 2022-06-01 |
 | [MARMALADE](https://open.spotify.com/track/7vdv0eDg178o0uUtGvRfm8) | [Donte Thomas](https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor), [Ki$](https://open.spotify.com/artist/1oaYpFkpJmfkE0IVBJkfnM) | [COLORS](https://open.spotify.com/album/2qhRG0jx3hR8GjZ6gpUagh) | 3:38 | 2020-10-13\* | 2020-11-03 |
 | [Mask Off \(Feelings\)](https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 3:06 | 2021-09-23 | 2022-03-01 |
+| [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 | 2022-10-07 |  |
 | [maybe not](https://open.spotify.com/track/1WnfHYAmjW9XwiCeLUpKLc) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [maybe not](https://open.spotify.com/album/1Q52MWeo7WqYYJnB8suIlL) | 2:42 | 2022-08-05 |  |
 | [Maybe Not](https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Maybe Not](https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25) | 2:50 | 2022-05-18 |  |
 | [MAZZA \(feat\. A$AP Rocky\)](https://open.spotify.com/track/5f7MdwR02i1Lxy9TLi80SA) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [MAZZA \(feat\. A$AP Rocky\)](https://open.spotify.com/album/5fAID5buWAhtqIdpVDwvar) | 2:51 | 2021-01-06 | 2021-02-20 |
 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 | 2022-04-15 | 2022-07-23 |
 | [Me and Your Boyfriend](https://open.spotify.com/track/2jjYn9ffMQme3IOHBn1FTV) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Me and Your Boyfriend](https://open.spotify.com/album/44HO5dHZ7GYmxDm7oMHHGu) | 2:06 | 2022-05-20 | 2022-08-06 |
 | [Meaningless](https://open.spotify.com/track/3iXr4JLYecnraGnwGBFHPr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:36 | 2022-03-11 | 2022-07-01 |
-| [meant2be](https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [meant2be](https://open.spotify.com/album/6cy7cQSqjGX4tdgOiYtbrY) | 3:13 | 2022-08-12 |  |
+| [meant2be](https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [meant2be](https://open.spotify.com/album/6cy7cQSqjGX4tdgOiYtbrY) | 3:13 | 2022-08-12 | 2022-10-08 |
 | [Meanwhile \(feat\. Jelani Blackman & Barrington Levy\)](https://open.spotify.com/track/4AiFMZD1Etlg9KfejqZ2bB) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Meanwhile EP](https://open.spotify.com/album/0q19TmDISPRbmRIZJyrEz6) | 3:08 | 2021-08-28 | 2021-10-16 |
 | [Medicine](https://open.spotify.com/track/15PQ1AVMbWalxyPJbI1fYi) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/3shKIYIXSdDc2yXETvrGPK) | 3:15 | 2022-06-03 | 2022-07-01 |
 | [MELODY](https://open.spotify.com/track/6WyFtGksVSqcA4nW37lV74) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [MELODY](https://open.spotify.com/album/3010O0T0Imh2k7wSbVqgZo) | 2:54 | 2022-05-27 | 2022-06-18 |
@@ -1073,7 +1075,7 @@
 | [Whiteclaw](https://open.spotify.com/track/6DpLbRHQLP3dJvz3khE3UE) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Hits Of Today](https://open.spotify.com/album/1jHO2EMilNQVl5JnMRtQU3) | 2:47 | 2022-08-19 | 2022-10-05 |
 | [whitegold](https://open.spotify.com/track/1xqLOYIMiNoCduM983ibjk) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [whitegold](https://open.spotify.com/album/1XRIpP2HiwRx1XjEM6CJGx) | 2:33 | 2022-05-09 | 2022-07-19 |
 | [Who Knows](https://open.spotify.com/track/5HZu1toEKuPx2Tuv6ABwdG) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Who Knows](https://open.spotify.com/album/4ePVajDN6Jjtq8sF9bc7il) | 4:17 | 2021-11-30 | 2021-12-11 |
-| [whose love](https://open.spotify.com/track/5NuABtgxyIFRZ3Y9PccU10) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [whose love](https://open.spotify.com/album/4KfAxRBT0Y3mjC1TspFEag) | 1:31 | 2022-06-10 |  |
+| [whose love](https://open.spotify.com/track/5NuABtgxyIFRZ3Y9PccU10) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [whose love](https://open.spotify.com/album/4KfAxRBT0Y3mjC1TspFEag) | 1:31 | 2022-06-10 | 2022-10-08 |
 | [WhoWho](https://open.spotify.com/track/68sThwPwwfp0Fb6zZ1ssWz) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [WhoWho](https://open.spotify.com/album/5DEOw8SSYtZGG3dbYEbLlJ) | 2:11 | 2020-10-13\* | 2021-05-03 |
 | [Wicked](https://open.spotify.com/track/5IqHdaox8fhgbexiZERTls) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze) | [Wicked](https://open.spotify.com/album/5uK7QoaqbiXkN5nMfz51qz) | 3:17 | 2021-09-19 | 2021-10-10 |
 | [Widdit](https://open.spotify.com/track/2xksvHleMQfe4V7XN5fJH9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Widdit](https://open.spotify.com/album/0ltqih4GxwPhCLZVIjag0o) | 2:31 | 2020-10-13\* | 2020-11-03 |

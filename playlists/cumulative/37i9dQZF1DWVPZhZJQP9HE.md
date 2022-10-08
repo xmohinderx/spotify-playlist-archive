@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhruv Vikram
 
-202 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+203 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Yaar Aval](https://open.spotify.com/track/3dMz1QpT8FmcIh8ERRmidI) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval](https://open.spotify.com/album/2Qc4Cb9CZRPZVYqgaqsYn1) | 3:10 | 2022-06-09 | 2022-07-29 |
 | [Yaar Solvaaro](https://open.spotify.com/track/6DFAhCjI8WXgEzjdZLBfwv) | [C.B Karty](https://open.spotify.com/artist/0q8QdG0mSd53lLe86M72ix), [Santhosh Subramanian](https://open.spotify.com/artist/7d4tFjDmt8IhOMtudYjIuu) | [Yaar Solvaaro](https://open.spotify.com/album/0DGEWRA09FNgXO3WwrIYy7) | 4:26 | 2022-08-12 |  |
 | [Yaaropole Neeyum Yaaropole Naanum \(From "Chota"\)](https://open.spotify.com/track/14K8atqpMOPHkqwSVECjZJ) | [P.S\. Ashwin](https://open.spotify.com/artist/0QeMt74YcTUUxJebGV58Vv), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Yaaropole Neeyum Yaaropole Naanum \(From "Chota"\)](https://open.spotify.com/album/4QF4CLBDzeconmu7xcwKTX) | 3:59 | 2022-04-04 | 2022-07-18 |
+| [Yaavum Dooram](https://open.spotify.com/track/2lJgbECznMqSoeLr9u0Dfq) | [Karthick Devaraj](https://open.spotify.com/artist/3ddyHcnuLRbU4EhCOvEI1N), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Uthara Pattathil](https://open.spotify.com/artist/2UkwObB1pDRMsqq0lQnSPu) | [Yaavum Dooram](https://open.spotify.com/album/2QN3nXN2namoXB6oKo3rN1) | 3:14 | 2022-10-07 |  |
 | [Yen Pulla](https://open.spotify.com/track/1KRSXgSrxbkbi1bOYRk0iP) | [Vishwanath Haveri](https://open.spotify.com/artist/1EHpGTni0ayOYRZTfXZ0Vo), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2) | [Yen Pulla](https://open.spotify.com/album/03ZbwAbnw2SuKzkmDE2e2Z) | 3:26 | 2022-08-14 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

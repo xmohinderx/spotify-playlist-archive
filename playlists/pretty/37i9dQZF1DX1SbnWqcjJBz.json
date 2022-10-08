@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 25731,
+  "num_followers": 25803,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA3NTA1OCwwMDAwMDAwMDE1NmY1ZTM4OTY2OGI1NDMyZTdhZDkzNzdkOTlmZTJk",
+  "snapshot_id": "MTY1MDA3NTA1OCwwMDAwMDAwMGE3ODY0NWI0ZWMxZmM2NzM4ODE5NmY3YjQ3ODgzOWFm",
   "tracks": [
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
+        "name": "TURN OFF THE LIGHT",
+        "url": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 197651,
+      "name": "There Will Be Blood",
+      "url": "https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
         "name": "Love You Like That",
         "url": "https://open.spotify.com/album/4bQ7I6MzchpBs3tJh1mwoW"
       },
@@ -1487,38 +1503,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "TURN OFF THE LIGHT",
-        "url": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 197651,
-      "name": "There Will Be Blood",
-      "url": "https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
-        "name": "We Don\u2019t Stop",
-        "url": "https://open.spotify.com/album/49COhQ043jM1vTH7VSFUlq"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 206866,
-      "name": "Joan of Arc on the Dance Floor",
-      "url": "https://open.spotify.com/track/7cYLxxt7szZ5tkOPVWZyfO"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 208973,
       "name": "4ever",
       "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "We Don\u2019t Stop",
+        "url": "https://open.spotify.com/album/49COhQ043jM1vTH7VSFUlq"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Joan of Arc on the Dance Floor",
+      "url": "https://open.spotify.com/track/7cYLxxt7szZ5tkOPVWZyfO"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Bop!",
-        "url": "https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9"
-      },
-      "artists": [
-        {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
-        }
-      ],
-      "duration_ms": 156581,
-      "name": "Bop!",
-      "url": "https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "What If",
         "url": "https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 243039,
       "name": "What If",
       "url": "https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Bop!",
+        "url": "https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "duration_ms": 156581,
+      "name": "Bop!",
+      "url": "https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "American Girl",
-        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie McKee",
-          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Dignity",
         "url": "https://open.spotify.com/album/2OD92YQZuME96A0b1aJzQF"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 181000,
       "name": "With Love",
       "url": "https://open.spotify.com/track/7DjTfU6kIcoXaAO02f5EOz"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
+        "name": "Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Slumber Party",
+      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
         "name": "Froot",
         "url": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
       },
@@ -2443,18 +2459,18 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Glory (Deluxe)",
-        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
+        "name": "Dedicated",
+        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Slumber Party",
-      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
+      "duration_ms": 200320,
+      "name": "Now That I Found You",
+      "url": "https://open.spotify.com/track/3dtp75StyEK5XeKraS5KiI"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2471,22 +2487,6 @@
       "duration_ms": 185920,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
-        "name": "Dedicated",
-        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 200320,
-      "name": "Now That I Found You",
-      "url": "https://open.spotify.com/track/3dtp75StyEK5XeKraS5KiI"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2543,18 +2543,18 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Dignity",
-        "url": "https://open.spotify.com/album/2OD92YQZuME96A0b1aJzQF"
+        "name": "Charli",
+        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
       "artists": [
         {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 250693,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/6MF6ZR5nTWFWii3eBlkS8b"
+      "duration_ms": 203133,
+      "name": "White Mercedes",
+      "url": "https://open.spotify.com/track/7fOFeVSyL18q7RiU6cnhiM"
     }
   ],
   "unique_name": "Deserved",

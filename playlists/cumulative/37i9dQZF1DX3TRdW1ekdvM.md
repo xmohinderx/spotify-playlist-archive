@@ -4,7 +4,7 @@
 
 > Perfect sleep riding Theta brain waves\. It's Science, it works!
 
-76 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/0k7IQIk85I1l06fbIplDhu)
+78 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/0k7IQIk85I1l06fbIplDhu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Binaural Theta 4 Hz](https://open.spotify.com/track/00JZ8gYC7ete4eCxHN3SJG) | [Relaxation Sleep Meditation](https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE) | [Binaural Beats and Isochronic Programs](https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR) | 2:00 | 2021-12-06 |  |
 | [Binaural Theta 4.5 Hz](https://open.spotify.com/track/0HFLWWzbYAKG5VNkDDzHUR) | [Relaxation Sleep Meditation](https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE) | [Binaural Beats and Isochronic Programs](https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR) | 2:00 | 2021-12-06 |  |
 | [Binaural Theta 5 Hz](https://open.spotify.com/track/0pUsqn9giNMySEhVoUvTG1) | [Relaxation Sleep Meditation](https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE) | [Binaural Beats and Isochronic Programs](https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR) | 2:00 | 2021-12-06 |  |
-| [Blanket of Water \(7hz Theta Waves\)](https://open.spotify.com/track/5lmSsieXEmbfLdVdluuY7z) | [Binaural Universe](https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v) | [Earth at Rest: Binaural Nature](https://open.spotify.com/album/7jCmGSMQoztCrgVndb5ID6) | 1:18 | 2021-12-06 |  |
+| [Blanket of Water \(7hz Theta Waves\)](https://open.spotify.com/track/0ZtBQWlA0s91nUvmtIzFkB) | [Binaural Universe](https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v) | [Earth at Rest: Binaural Nature](https://open.spotify.com/album/5uZjw4X6smJ2x9M7okSmIN) | 1:18 | 2022-09-01 |  |
+| [Blanket of Water \(7hz Theta Waves\)](https://open.spotify.com/track/5lmSsieXEmbfLdVdluuY7z) | [Binaural Universe](https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v) | [Earth at Rest: Binaural Nature](https://open.spotify.com/album/7jCmGSMQoztCrgVndb5ID6) | 1:18 | 2021-12-06 | 2022-10-08 |
 | [Calmer \(4 Hz Theta Binaural Beat\)](https://open.spotify.com/track/0F45YceUR0XowNHuo9PcQG) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Forest Meditation](https://open.spotify.com/album/0tWi31iHKcQQJZSiQMwCVZ) | 3:15 | 2021-12-06 |  |
 | [Codes of Light 6hz Theta](https://open.spotify.com/track/2MC5zmOUOQCE6UiHmNA4xj) | [Hagai A](https://open.spotify.com/artist/4P0srzvQWm4l1Z85vkTwQo) | [Codes of Light](https://open.spotify.com/album/5swlw6y7xtorw1scuowROI) | 10:00 | 2021-12-06 |  |
 | [Creator \(Theta Wave 5 Hz\)](https://open.spotify.com/track/05lezliRAdzCmakJ8bHjPA) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Obsidian \(Binaural Beat Remix\)](https://open.spotify.com/album/5MDw4nbZfhpreocqNAShM1) | 4:07 | 2021-12-06 |  |
@@ -60,7 +61,8 @@
 | [REM Therapy to Sleep](https://open.spotify.com/track/0IgIAMsTODKvDV5vNm3u0x) | [Deep Sleep Music Masters](https://open.spotify.com/artist/0mHGunFo1lqmeYSUriJr0U) | [Sleep Music: Delta Waves – Relaxing Music to Help You Sleep, Calm Background for Sleeping, Meditation & Relax](https://open.spotify.com/album/7FM9sIZ8z7sSAOx3hx79B8) | 3:55 | 2022-05-24 |  |
 | [Returning Life \(Rem Sleep Theta Waves\)](https://open.spotify.com/track/4hOvfoKh1LSxWgHm8j4SHn) | [Binaural Universe](https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v) | [Sinking into Infinity: Binaural Noise](https://open.spotify.com/album/5cKVsDj6cuICa1QU4dQNnK) | 1:40 | 2021-12-06 | 2022-10-07 |
 | [Returning Life \(Rem Sleep Theta Waves\)](https://open.spotify.com/track/52KTU3jYdzhfR4ZxvYQgdu) | [Binaural Universe](https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v) | [Sinking into Infinity: Binaural Noise](https://open.spotify.com/album/1Dz0LivjT8fX1VCWcSibWw) | 1:40 | 2022-09-01 |  |
-| [Soothing Showers \(7hz Theta Waves\)](https://open.spotify.com/track/6VGJUMifsQZEWx6Gg0dl0B) | [Binaural Universe](https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v) | [Earth at Rest: Binaural Nature](https://open.spotify.com/album/7jCmGSMQoztCrgVndb5ID6) | 1:11 | 2021-12-06 |  |
+| [Soothing Showers \(7hz Theta Waves\)](https://open.spotify.com/track/5Drs5nQjk7shCqbIK186hK) | [Binaural Universe](https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v) | [Earth at Rest: Binaural Nature](https://open.spotify.com/album/5uZjw4X6smJ2x9M7okSmIN) | 1:11 | 2022-09-01 |  |
+| [Soothing Showers \(7hz Theta Waves\)](https://open.spotify.com/track/6VGJUMifsQZEWx6Gg0dl0B) | [Binaural Universe](https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v) | [Earth at Rest: Binaural Nature](https://open.spotify.com/album/7jCmGSMQoztCrgVndb5ID6) | 1:11 | 2021-12-06 | 2022-10-08 |
 | [The Deepest Sleep](https://open.spotify.com/track/3Fo61cHvz9uQvGPzUppe2n) | [REM Sleep Inducing](https://open.spotify.com/artist/01ZfBC3GYyc7ST5g09CE6E) | [25 REM Sleep Frequencies: Delta Sleep Induction Sleepscape](https://open.spotify.com/album/54E6Uc3bkusuzKUpnkYJvd) | 4:14 | 2022-06-03 |  |
 | [Theta 4.5 Hz](https://open.spotify.com/track/1L2K0YLSfeKRAMOgvMwNtt) | [Brainwave Binaural Systems](https://open.spotify.com/artist/0wUzLDsBbnqu7Mqzg8fhWP) | [Deep States of Mind](https://open.spotify.com/album/0mYZcztVfxPLzJ4mPSH5cp) | 10:00 | 2021-12-06 |  |
 | [Theta 5.5 Hz: Brainwave Meditation Frequencies for Inner Guidance & Intuition](https://open.spotify.com/track/4dT8GziDdNMCGMDv68SpG6) | [Michael J\. Emery](https://open.spotify.com/artist/7aBoAIReXoYfaQoLCEL7ap) | [Theta 5.5 Hz: Brainwave Meditation Frequencies for Inner Guidance & Intuition](https://open.spotify.com/album/4N11YyCLhlkpFo7yVhEHxV) | 30:04 | 2021-12-06 |  |

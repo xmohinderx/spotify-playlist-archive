@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 6709,
+  "num_followers": 6729,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDE0OWVlZDdkYzVlOGUzODljODEyMzIzNmVhOGVkZWM4",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGZiZGM5MGE5MWUxYjA1MGUwNjlkNTEzZGJkMjMyM2Yy",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Survivor",
-        "url": "https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr"
+        "name": "Stronger For It",
+        "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
       },
       "artists": [
         {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
         }
       ],
-      "duration_ms": 410360,
-      "name": "Shake For Me",
-      "url": "https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN"
+      "duration_ms": 156773,
+      "name": "Whoop And Holler",
+      "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Stronger For It",
-        "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
+        "name": "Blues Survivor",
+        "url": "https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr"
       },
       "artists": [
         {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
         }
       ],
-      "duration_ms": 156773,
-      "name": "Whoop And Holler",
-      "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
+      "duration_ms": 410360,
+      "name": "Shake For Me",
+      "url": "https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN"
     }
   ],
   "unique_name": "Blues Party",

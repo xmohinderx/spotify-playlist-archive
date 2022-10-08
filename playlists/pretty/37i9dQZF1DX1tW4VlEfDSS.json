@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 331889,
+  "num_followers": 331923,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGM0MTQyMDRmNDgxYWQ5MmVhNjk5M2UzZDM0NmNiOGIz",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDg5ZGE5YTU2YjU4MDEzZmI2YzcwMmMwNDU2ZGQ4YmI0",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4M1Ge6mFbDrV1LdQFiVtRE"
+      },
+      "artists": [
+        {
+          "name": "Aevion",
+          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
+        }
+      ],
+      "duration_ms": 250862,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "Keep Me In The Dark (feat. Jim Junior)",
         "url": "https://open.spotify.com/album/0c7XA5RkZVU6Cbl4tfyP8M"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 187194,
       "name": "Keep Me In The Dark (feat. Jim Junior)",
       "url": "https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4M1Ge6mFbDrV1LdQFiVtRE"
-      },
-      "artists": [
-        {
-          "name": "Aevion",
-          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
-        }
-      ],
-      "duration_ms": 250862,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx"
     },
     {
       "added_at": "2022-03-11 16:22:05",

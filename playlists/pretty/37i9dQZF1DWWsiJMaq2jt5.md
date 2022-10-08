@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Marie, ZUZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,316 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,345 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HIDE AND SEEK](https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I) | [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ), [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [HIDE AND SEEK](https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY) | 3:02 |
 | 2 | [Dziewczyna z tatuażem](https://open.spotify.com/track/2Vj7I6BgiUEsCOI2gZiY5Q) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Dziewczyna z tatuażem](https://open.spotify.com/album/4lk4BJI6KHPfgVW1Mb28Re) | 5:04 |
-| 3 | [Monika \- Radio Edit](https://open.spotify.com/track/22TZkqpbGsLvXaGiSWWso6) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Monika \(Radio Edit\)](https://open.spotify.com/album/3uSNZkFYfyl83R8LCKoCpF) | 3:07 |
+| 3 | [Monika](https://open.spotify.com/track/22TZkqpbGsLvXaGiSWWso6) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Monika](https://open.spotify.com/album/3uSNZkFYfyl83R8LCKoCpF) | 3:07 |
 | 4 | [Nie tęsknię za nikim](https://open.spotify.com/track/4f7JhNi9rPoSF4PpkTWrzc) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Nie tęsknię za nikim](https://open.spotify.com/album/1t0kkJS2Db4pvc84wZtK1Q) | 1:45 |
 | 5 | [Bałtyk](https://open.spotify.com/track/4sdNp9sadfOhN7P2skTf2q) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Bałtyk](https://open.spotify.com/album/4h7XuT5SFsghsoGunqBbjp) | 3:27 |
 | 6 | [MIEJSCA](https://open.spotify.com/track/5h90iokIq0iTutieNrW9u0) | [Suzia](https://open.spotify.com/artist/5nNtMnFVruYrc8I0TMozNi) | [MIEJSCA](https://open.spotify.com/album/1H3EJbA1rGWpevebFi8Q4w) | 4:14 |

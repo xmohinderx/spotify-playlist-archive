@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Side e Mikush, thasup, Night Skinny, Medy, Rose Villain e tanti altri.
 
-729 songs - 1 day 9 hr 33 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+732 songs - 1 day 9 hr 41 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,8 +548,10 @@
 | [RainMan](https://open.spotify.com/track/0N02e1qf0mRMiJnRedzXKc) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [RainMan](https://open.spotify.com/album/5dYTGxy5K8H7RgD8xbxi5e) | 2:57 | 2022-08-26 | 2022-09-02 |
 | [RAP \(feat\. Rondodasosa, Sacky, Neima Ezza\)](https://open.spotify.com/track/4M8YEPfCBxN3fsZkatCCLz) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:35 | 2022-05-26 | 2022-06-17 |
 | [RapStar](https://open.spotify.com/track/3Emty7Nc9QUIuHRPcwopjA) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 2:47 | 2022-06-02 | 2022-06-24 |
+| [Rari](https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Rari](https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0) | 2:48 | 2022-10-07 |  |
 | [Rave](https://open.spotify.com/track/3ossfJyZFOoC89D96lQr3F) | [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [Rave](https://open.spotify.com/album/7LME162fcZwtPQlDEluKxf) | 2:51 | 2022-09-22 |  |
 | [Rebelde](https://open.spotify.com/track/3UNzocVUG1h0FI43jpTrP3) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Aurora](https://open.spotify.com/album/1RtfVjkDDIYDhIHOrL4MkV) | 2:32 | 2022-07-14 | 2022-07-29 |
+| [RED LIGHT](https://open.spotify.com/track/2iIWf5zuMKzFd7QHCwCk2Q) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Pico](https://open.spotify.com/artist/6sJUYlg9WoNpR5mL9VV49g) | [CANTERA MACHETE, VOL\. II](https://open.spotify.com/album/41nzTTUD0063x7Te16AYau) | 2:50 | 2022-10-07 |  |
 | [Regina del Block](https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Regina del Block](https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD) | 3:18 | 2022-08-04 | 2022-09-16 |
 | [Respiro \(ti ricordi di noi?\)](https://open.spotify.com/track/3FwarDyrUu4WLErrK7ZrIs) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Respiro \(ti ricordi di noi?\)](https://open.spotify.com/album/5RWA7IvGTu9KsuW4eEL7Op) | 2:16 | 2022-09-15 | 2022-09-30 |
 | [Resta Ancora Qui](https://open.spotify.com/track/0c7g2K0GXT8bHB6mR5iMFe) | [Bzi](https://open.spotify.com/artist/6ZipzRuDr7giQrO0CsmJER) | [Resta Ancora Qui](https://open.spotify.com/album/70unvnyvdhWWe1i0DYgPbn) | 3:40 | 2022-07-29 | 2022-08-13 |
@@ -655,6 +657,7 @@
 | [TANGA \(feat\. Kaydy Cain\)](https://open.spotify.com/track/0yri1TFpgo8UV4Hvh5WSNu) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Armageddon](https://open.spotify.com/album/1EIX7SM9G5apJAPLAyjiAq) | 2:09 | 2022-06-02 | 2022-06-23 |
 | [TAPPETO VOLANTE](https://open.spotify.com/track/7iSTM4ohW0oDdvhkkoe1Wn) | [Charles Muda](https://open.spotify.com/artist/3MF5fxi7CZh0UZL5mIyqzX) | [SMETTERE](https://open.spotify.com/album/7izZwresxb6Lmiv2yJVc5d) | 2:55 | 2022-07-07 | 2022-07-22 |
 | [Tardi insieme](https://open.spotify.com/track/0jyF2iogsnyhZd5BGFtics) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Tardi insieme](https://open.spotify.com/album/7d66CkPBNjrzsAVDpRbQvT) | 2:09 | 2022-05-12 | 2022-05-20 |
+| [Tchikita](https://open.spotify.com/track/3ztWRav85xIq8FUmBDr3cu) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Tchikita](https://open.spotify.com/album/4bCnf6PzUd47Wrhfz3OrUE) | 2:36 | 2022-10-07 |  |
 | [Te Quiero](https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Te Quiero](https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j) | 2:43 | 2022-07-21 | 2022-09-09 |
 | [TE STESSO](https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [TE STESSO](https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ) | 2:39 | 2022-10-06 |  |
 | [Tenere conto](https://open.spotify.com/track/4N7LPsWFruYR8bGLM96grV) | [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa) | [Tenere conto](https://open.spotify.com/album/4muUoDu0KQrEqdLqezozvh) | 3:00 | 2022-09-29 |  |

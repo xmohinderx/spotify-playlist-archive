@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 ### [EQUAL UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9ptRQF1dOxS)
 
-> Listen to women at full volume\. Cover: Nina Nesbitt
+> Listen to women at full volume\. Cover: Connie Constance
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,922 likes - 29 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,932 likes - 29 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 28 | [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 |
 | 29 | [Bored of Men](https://open.spotify.com/track/102QJAaJ7ZjfX7q3Muk5Gw) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Bored of Men](https://open.spotify.com/album/2ATYQWeZxbR6AUkcmZUOJp) | 3:01 |
 
-Snapshot ID: `MTY2NDk5OTU4NiwwMDAwMDAwMDFmZjhkZTEyYjM1ZDM4MGRiYTkxMDY0Nzk4MzljMTMy`
+Snapshot ID: `MTY2NTEzNzE5MSwwMDAwMDAwMGM3NWM5N2NjZWQ3YTQ0NjZhNGEwZTZjMTJlMzc4NjI4`

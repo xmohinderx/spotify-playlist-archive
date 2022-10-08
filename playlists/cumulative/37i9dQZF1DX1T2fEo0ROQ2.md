@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-339 songs - 17 hr 58 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+340 songs - 18 hr 0 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Better Together](https://open.spotify.com/track/5NMJEIxAhUWOle9bcY42u6) | [Minja Nielsen](https://open.spotify.com/artist/3jlEJrMzCUENPaNM3IZsBo) | [Better Together](https://open.spotify.com/album/7hBhGMqPcLPl5r8CmDI7ZW) | 2:46 | 2022-05-26 |  |
 | [Binaural Love](https://open.spotify.com/track/2DYW3nda24YTYuvyOzEIJx) | [Talia Walsh](https://open.spotify.com/artist/151t4GyUxOjwCrmTUuqYTM) | [Binaural Love](https://open.spotify.com/album/4WbCfFHrSUY4nwK3pgpN7a) | 1:52 | 2022-05-26 |  |
 | [Body & Soul](https://open.spotify.com/track/2reANGLp6a9iZvh1Q6qIS7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 | 2022-05-26 |  |
+| [Bound](https://open.spotify.com/track/3XQSFyFxgCGKOKRqtmAAMM) | [Miuna](https://open.spotify.com/artist/5RzVJFB7a7Xbd0sMx7gFH7) | [Shine On](https://open.spotify.com/album/24jlpflXVOUZlACOIbEmvn) | 2:24 | 2022-10-07 |  |
 | [Branches](https://open.spotify.com/track/33xdetONOFpuNr6J2AB2gZ) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Ripples](https://open.spotify.com/album/174WdSc7Cncl9KwFmF7mGd) | 3:36 | 2022-05-26 |  |
 | [Breath in the wild](https://open.spotify.com/track/0tUbZj0kg8zXSHLtwnovuB) | [Ion Mihutz](https://open.spotify.com/artist/6YTzCIrWAXP9KgZCU6O89m) | [Breath in the wild](https://open.spotify.com/album/5yuWZILlLQTDhgseEyR6uS) | 2:00 | 2022-05-26 |  |
 | [Breath Of Life](https://open.spotify.com/track/0whxteXpbXv6WUTOfAtmZb) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:34 | 2022-05-26 | 2022-07-29 |
@@ -306,7 +307,7 @@
 | [Tambo](https://open.spotify.com/track/1VSbOfZgq1QvuSg8s7F0tZ) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Tambo](https://open.spotify.com/album/2IBgAMSclg0n79MbD8a6sr) | 3:12 | 2022-09-30 |  |
 | [Tempered Moon](https://open.spotify.com/track/5cK8BiZ9mdqO4gQbdb4ZzM) | [Brent Dockery](https://open.spotify.com/artist/08G5ITlau5oxxn5DnIGhQ2) | [Tempered Moon](https://open.spotify.com/album/1tUhnUIDFje9mfl2IxGU0Y) | 3:40 | 2022-05-26 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
-| [The Deep Blue](https://open.spotify.com/track/3fPDwXNYVnj3ROLieCtOGR) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Distant Winds](https://open.spotify.com/album/1EhONt6PrP5KjE3ngU23kb) | 3:16 | 2022-05-26 |  |
+| [The Deep Blue](https://open.spotify.com/track/3fPDwXNYVnj3ROLieCtOGR) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Distant Winds](https://open.spotify.com/album/1EhONt6PrP5KjE3ngU23kb) | 3:16 | 2022-05-26 | 2022-10-08 |
 | [The Deepest Well](https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:14 | 2022-05-26 | 2022-08-16 |
 | [The Forest](https://open.spotify.com/track/4NId2w4cZ9D61Stbr79isY) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [The NIght Sky](https://open.spotify.com/album/1Si7otf4LNskpi7tmv8XfG) | 4:54 | 2022-05-26 |  |
 | [The Gift](https://open.spotify.com/track/1GF0zNrSjuQiw2Y16cYqnW) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [The Gift](https://open.spotify.com/album/1UjHHH07JQoG48ng4746ku) | 2:53 | 2022-05-26 |  |

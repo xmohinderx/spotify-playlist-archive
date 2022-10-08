@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-175 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
+176 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [STUPID \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hi, It's Me](https://open.spotify.com/album/5eKuModdAdZRmc51241r4D) | 2:47 | 2022-07-25 |  |
 | [Subatomic](https://open.spotify.com/track/6WYCFNz19DmDYGxk5wqLiz) | [Muo Duo](https://open.spotify.com/artist/2bpdb2V3w0oIYcMlUCp8cw), [Casshan](https://open.spotify.com/artist/1YopjlnLLy3uNvaTGULUpe), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Subatomic](https://open.spotify.com/album/6vyccqazzc4awpzXr4p428) | 3:22 | 2022-04-14 | 2022-05-14 |
 | [SUMO \| ZUMO](https://open.spotify.com/track/7EHAXZenBzmGCpccWCyg8z) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TA13OO](https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc) | 3:47 | 2022-06-17 |  |
-| [SUPERCALAFRAGIVICIOUS](https://open.spotify.com/track/5nU2Hi0QCmbtf1PgFfgw6c) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [SUPERCALAFRAGIVICIOUS](https://open.spotify.com/album/6FIAYIGvA008E0d4l6wvDx) | 1:46 | 2022-09-30 |  |
+| [SUPERCALAFRAGIVICIOUS](https://open.spotify.com/track/5nU2Hi0QCmbtf1PgFfgw6c) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [SUPERCALAFRAGIVICIOUS](https://open.spotify.com/album/6FIAYIGvA008E0d4l6wvDx) | 1:46 | 2022-09-30 | 2022-10-08 |
 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m) | 2:47 | 2022-03-29 |  |
 | [Surrender](https://open.spotify.com/track/2e4XSs7Y5r2lEV9bmOMVtO) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Lord Forgive Me](https://open.spotify.com/album/7BPn9yvoj98BdNOtE7L6nZ) | 3:32 | 2022-06-27 | 2022-07-29 |
 | [Take A Step Back](https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h) | 3:30 | 2022-03-29 |  |
@@ -168,6 +168,7 @@
 | [Team](https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y) | [Team](https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887) | 2:06 | 2022-04-14 |  |
 | [TEST ME](https://open.spotify.com/track/74Zanx9QoIRX0TV0wU7ScO) | [REZXREKT](https://open.spotify.com/artist/6V2diAw3yUuJlc6PMV398m) | [TEST ME](https://open.spotify.com/album/0o0jRR4q6TNC6rGLLFZLxN) | 0:47 | 2022-03-29 | 2022-07-27 |
 | [The Fall](https://open.spotify.com/track/47Zqh2WwmeDs9BK4FlK6tb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 2:18 | 2022-06-27 | 2022-07-01 |
+| [The Plug](https://open.spotify.com/track/39hVR792uDgkDS14wLWmBy) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [The Plug](https://open.spotify.com/album/0yf9wxPXrA8bP1yB4iFpAP) | 3:08 | 2022-10-08 |  |
 | [THERAPY!](https://open.spotify.com/track/0GAWAziokyaTDufed63rEh) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [THERAPY!](https://open.spotify.com/album/54dV3Js8IaKPHDtF7vi6mW) | 2:13 | 2022-03-29 | 2022-07-28 |
 | [UBER EATS](https://open.spotify.com/track/5Uv2YYRGuqQ9sjIJq7WZZU) | [Northside Hollow](https://open.spotify.com/artist/7CTwgcHGx4eMeP4YeW1lC5), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [UBER EATS](https://open.spotify.com/album/08WdgJ9VIl80uCj9LFmwaz) | 2:25 | 2022-06-24 | 2022-07-15 |
 | [Vaderz \(feat\. Bktherula\)](https://open.spotify.com/track/7qUqxnNtlBgeo8h5yzVd19) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Vaderz \(feat\. Bktherula\)](https://open.spotify.com/album/11K4TXQVAOi4BjaItkuJ1X) | 1:49 | 2022-06-24 | 2022-07-13 |

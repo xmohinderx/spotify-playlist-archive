@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu
 
-375 songs - 18 hr 7 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+376 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Schlimm ;\-\(](https://open.spotify.com/track/1KIJB0rE9mkyAtS3j9ZMXO) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [Schlimm ;\-\(](https://open.spotify.com/album/4hYqS4Nh7MvlfuoZ7Mx7ZG) | 2:29 | 2022-07-13 | 2022-07-20 |
 | [Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox) | [ilyproxy](https://open.spotify.com/artist/4wIBlvOhBSFNIAY7Gyht3h), [leander](https://open.spotify.com/artist/4vL5YP8WPnYnRHy2C64Ffx), [Hadesthegrim](https://open.spotify.com/artist/5zJRjAyQPqGD6TT2WwWCzf) | [Schnuffel](https://open.spotify.com/album/0OiurvRJpB36UMgVU2n2kp) | 3:15 | 2022-06-30 | 2022-07-05 |
 | [Schon gut](https://open.spotify.com/track/3XFbTdznmfjLogWvVJTrhc) | [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w) | [Schon gut](https://open.spotify.com/album/1eLgtW5knFtuzJUzD05i9q) | 2:18 | 2022-09-09 |  |
-| [Schöneberg/Kreuzberg \(feat\. Monk\)](https://open.spotify.com/track/35TlBvEYl8Ajm4kyzpOsI5) | [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE) | [Odyssee](https://open.spotify.com/album/4WSk2tUkJ3neziQQgW1xBO) | 2:51 | 2022-10-06 |  |
+| [Schöneberg/Kreuzberg](https://open.spotify.com/track/35TlBvEYl8Ajm4kyzpOsI5) | [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE) | [Odyssee](https://open.spotify.com/album/4WSk2tUkJ3neziQQgW1xBO) | 2:51 | 2022-10-06 |  |
 | [Secco Maracuja](https://open.spotify.com/track/3iATVzRm0E8scMQ7aWoAmh) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Themba](https://open.spotify.com/artist/3S4BtEcxyyMFyJpDy5GfV3), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [Secco Maracuja \(feat\. Themba\)](https://open.spotify.com/album/0U9DOcHfw3mKkWbh7TCtCH) | 2:39 | 2022-07-29 |  |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-06-13 |  |
 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 | 2022-09-01 | 2022-09-16 |
@@ -356,7 +356,7 @@
 | [Was du hast](https://open.spotify.com/track/2pT29PGyqqjIiJRMlKXjnQ) | [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT), [flowerboii](https://open.spotify.com/artist/5aKVNeiiEzFHZHKiPx5X9p), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [Was du hast](https://open.spotify.com/album/17ntfKAnK6mar23wDMWgx5) | 2:24 | 2022-07-21 | 2022-07-29 |
 | [WAS WEISST DU SCHON](https://open.spotify.com/track/0SXYACnlcWvqlHlfN8Y177) | [DXVE](https://open.spotify.com/artist/5WaWH4bt6sGHjuQaFYQAWJ) | [WAS WEISST DU SCHON](https://open.spotify.com/album/1stNLsegoUNT1ez4bOsQeQ) | 2:27 | 2022-07-07 | 2022-07-26 |
 | [washing off the blood](https://open.spotify.com/track/13L7MYNjVLkLqq1YnMn0IL) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [washing off the blood](https://open.spotify.com/album/4uksOCpMp8CM6UMA6B8AQf) | 2:54 | 2022-08-18 | 2022-09-02 |
-| [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-09-22 |  |
+| [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-09-22 | 2022-10-08 |
 | [We Are The People \- Southstar Remix](https://open.spotify.com/track/2e9GFQn2nNXTbnTl02U7YJ) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Matrix](https://open.spotify.com/album/68KqgAtY2T2J0jJS5hyCv9) | 3:58 | 2022-08-11 |  |
 | [We could have been so good together](https://open.spotify.com/track/4sxDA8NwmjV3sPfusOPIf6) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [We could have been so good together](https://open.spotify.com/album/0diS1N6ocYhy7f5RwzuOwe) | 4:58 | 2022-06-09 |  |
 | [We Found Love](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:35 | 2022-06-23 | 2022-07-22 |
@@ -383,5 +383,6 @@
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-09-01 | 2022-09-23 |
 | [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Fergy53](https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6) | [Zeit fliegt \(feat\. Fergy53\)](https://open.spotify.com/album/0LwhqOEMSOYTYJs3HluHrQ) | 2:14 | 2022-07-14 | 2022-07-26 |
 | [ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [ZUCKER](https://open.spotify.com/album/4DwIsVI6Ra9KC8zJX3A1v3) | 2:24 | 2022-07-21 |  |
+| [Zuhause](https://open.spotify.com/track/0jPrdybe6ZbQXHzSVfILxy) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Zuhause](https://open.spotify.com/album/2HSHbNpe5eQW7hgWOHWN2E) | 2:57 | 2022-10-07 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

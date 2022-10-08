@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 2964,
+  "num_followers": 2975,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDhmNTQwMjc4YjRiMzk0MWIyODYwYTJhNjk0ZmMwMGY5",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDhjMmEwMWIzOTk5Y2UxMDE1ZDQ5Y2I5OTcxZGFlNjRl",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -579,30 +579,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/18QmuHzqXYdN5T0y8K0Uon"
-      },
-      "artists": [
-        {
-          "name": "DJ Mykael V",
-          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "Starringo",
-          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
-        }
-      ],
-      "duration_ms": 163924,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0rsusVy37rWVeDGQ9fqOG7"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "The Lion King: The Gift [Deluxe Edition]",
         "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 272464,
       "name": "MOOD 4 EVA (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/6tbkOI2yzodPd7FsYcz5D3"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/18QmuHzqXYdN5T0y8K0Uon"
+      },
+      "artists": [
+        {
+          "name": "DJ Mykael V",
+          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Starringo",
+          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
+        }
+      ],
+      "duration_ms": 163924,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0rsusVy37rWVeDGQ9fqOG7"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT"
-      },
-      "artists": [
-        {
-          "name": "Swoope",
-          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
-        }
-      ],
-      "duration_ms": 156749,
-      "name": "Put In Work",
-      "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "WAITING",
         "url": "https://open.spotify.com/album/2oQ1qwYoczja6rQxwkVN6w"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 177230,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/7axHfZh6a7JQD8dmblDDmt"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT"
+      },
+      "artists": [
+        {
+          "name": "Swoope",
+          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
+        }
+      ],
+      "duration_ms": 156749,
+      "name": "Put In Work",
+      "url": "https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "NO GOOD",
-        "url": "https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl"
+        "name": "97",
+        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
       },
       "artists": [
         {
           "name": "Jon Keith",
           "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
         }
       ],
-      "duration_ms": 177530,
-      "name": "NO GOOD",
-      "url": "https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT"
+      "duration_ms": 175217,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1299,18 +1295,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "97",
-        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
+        "name": "NO GOOD",
+        "url": "https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl"
       },
       "artists": [
         {
           "name": "Jon Keith",
           "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
         }
       ],
-      "duration_ms": 175217,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
+      "duration_ms": 177530,
+      "name": "NO GOOD",
+      "url": "https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1371,26 +1371,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "CATCH",
-        "url": "https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ"
+        "name": "In the Garden",
+        "url": "https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf"
       },
       "artists": [
         {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+          "name": "Vonte Grace",
+          "url": "https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ"
         },
         {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
         }
       ],
-      "duration_ms": 193941,
-      "name": "Pray For Real",
-      "url": "https://open.spotify.com/track/6Wd1lJm7dCMMINB4QuvqZV"
+      "duration_ms": 220000,
+      "name": "In the Garden",
+      "url": "https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1411,22 +1407,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "In the Garden",
-        "url": "https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf"
+        "name": "CATCH",
+        "url": "https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ"
       },
       "artists": [
         {
-          "name": "Vonte Grace",
-          "url": "https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ"
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
         },
         {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 220000,
-      "name": "In the Garden",
-      "url": "https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT"
+      "duration_ms": 193941,
+      "name": "Pray For Real",
+      "url": "https://open.spotify.com/track/6Wd1lJm7dCMMINB4QuvqZV"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Way Up Above",
-        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
-      },
-      "artists": [
-        {
-          "name": "Sansone",
-          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
-        }
-      ],
-      "duration_ms": 167944,
-      "name": "With Me Now",
-      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 198095,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Way Up Above",
+        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
+      },
+      "artists": [
+        {
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+        }
+      ],
+      "duration_ms": 167944,
+      "name": "With Me Now",
+      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1907,22 +1907,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid"
+        "name": "i'm back",
+        "url": "https://open.spotify.com/album/3rru4mNxx77XvCPUME4Kxc"
       },
       "artists": [
         {
-          "name": "Joshua Luke Smith",
-          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
-        },
-        {
-          "name": "Wild Sons",
-          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
         }
       ],
-      "duration_ms": 198600,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP"
+      "duration_ms": 161101,
+      "name": "i'm back",
+      "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1951,26 +1947,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Fo' Rilly Flow",
-        "url": "https://open.spotify.com/album/4NYHAo56V6kokxfU2w80VF"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid"
       },
       "artists": [
         {
-          "name": "Scribe Music",
-          "url": "https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n"
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
         },
         {
-          "name": "Marc Stevens",
-          "url": "https://open.spotify.com/artist/1fmn2V2H1bqmwk9SCdnuCd"
-        },
-        {
-          "name": "Rapzilla",
-          "url": "https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav"
+          "name": "Wild Sons",
+          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
         }
       ],
-      "duration_ms": 174400,
-      "name": "Fo' Rilly Flow",
-      "url": "https://open.spotify.com/track/0h9O7fUWZFuVZLbec9f1Qz"
+      "duration_ms": 198600,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP"
     }
   ],
   "unique_name": "Blessings",

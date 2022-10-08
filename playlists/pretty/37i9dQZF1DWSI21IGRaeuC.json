@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 8753,
+  "num_followers": 8810,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGZhNDI4MzkyMTA4MDhjMzk2N2QxNWVmZDZjNDNiNDVk",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDI1MmZhOTM1NTdlNDE3OWViMmM3MWRkNWZhNDUzNGZm",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Really Really Hot",
+        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Really Really Hot",
+      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
+    },
+    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Snatch! OFF 071",
@@ -619,22 +635,6 @@
       "duration_ms": 186190,
       "name": "About The Music",
       "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Really Really Hot",
-        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
-      },
-      "artists": [
-        {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Really Really Hot",
-      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
       "added_at": "2022-06-03 18:11:27",

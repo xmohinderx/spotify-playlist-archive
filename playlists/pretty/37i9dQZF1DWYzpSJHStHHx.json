@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 470897,
+  "num_followers": 470991,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMGUzNGI1Y2Q1Nzk0NDk2MzU4NWIwN2U0NWJjNWEwYjA2",
+  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMGM1ZTE1NTRjMWUyYjE4MWUzNzBiNjQ1ZDA4NGIyYWE3",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Canary Islands",
-        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Canary Islands",
-      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Canary Islands",
+        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Canary Islands",
+      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Idle Labor",
-        "url": "https://open.spotify.com/album/3BTFGccaSVYAHsgBTOL423"
-      },
-      "artists": [
-        {
-          "name": "Craft Spells",
-          "url": "https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ"
-        }
-      ],
-      "duration_ms": 240608,
-      "name": "After the Moment",
-      "url": "https://open.spotify.com/track/6OONiDEd0JW4K5wcWxnRX7"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Tomorrow Is Alright",
         "url": "https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 199693,
       "name": "Too Young to Burn",
       "url": "https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Idle Labor",
+        "url": "https://open.spotify.com/album/3BTFGccaSVYAHsgBTOL423"
+      },
+      "artists": [
+        {
+          "name": "Craft Spells",
+          "url": "https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ"
+        }
+      ],
+      "duration_ms": 240608,
+      "name": "After the Moment",
+      "url": "https://open.spotify.com/track/6OONiDEd0JW4K5wcWxnRX7"
     },
     {
       "added_at": "2022-09-22 19:11:53",

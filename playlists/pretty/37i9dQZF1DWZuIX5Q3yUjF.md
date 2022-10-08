@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Ainè
+> Il meglio dell'R&B italiano\. Cover: AINÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,421 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,433 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 99 | [Qualcosa di Speciale](https://open.spotify.com/track/4o0fBO8aUszRidx4QAbnsf) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh) | [Qualcosa di speciale](https://open.spotify.com/album/5nLD2f5T4GZ57wUwB9efde) | 2:53 |
 | 100 | [In My Way \(chi sei\)](https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 2:14 |
 
-Snapshot ID: `MTY2NTA5MzY2MCwwMDAwMDAwMGQ0YThiZjcwYTJmZGNhNzhlMGE1NzgyNWUxYmRiYjBh`
+Snapshot ID: `MTY2NTE3NzcyMSwwMDAwMDAwMDA3ZWI4ZjVkYjFjZjA2M2U1NjBkYjkzNDc4NmQwOGMy`

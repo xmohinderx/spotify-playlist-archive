@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 
 > Jazz piano ballads to help you focus during the workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,889 likes - 206 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,982 likes - 206 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 | 205 | [Silverballaden](https://open.spotify.com/track/2x7nKKYQ7UBzZn2CC89fO6) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Destination Moon](https://open.spotify.com/album/2pINKWKTBiRtoF8PylcBjm) | 3:58 |
 | 206 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 |
 
-Snapshot ID: `MTY2NTA5MzY2MCwwMDAwMDAwMDQ3YWEwMTFmNTM3YzhjYmNiOGQ1ZjE2OWFhMmQyYmVk`
+Snapshot ID: `MTY2NTEzMDE5MiwwMDAwMDAwMGIzY2RkZjVkMjZlYmM4NjJjZjBhZTEzYTMyMzlhZGI5`

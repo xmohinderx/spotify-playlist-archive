@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4706,
+  "num_followers": 4710,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGE1Y2NmNDI2MWVjMGQ3YmQ5ODIyZDRkNmZiODhiOGM4",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDRlNGEyY2Y3MDg3NmI4OWI3MzMyY2RhYjY1M2VhY2M0",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 237231,
-      "name": "Raingurl",
-      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Slut Pop",
         "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 118153,
       "name": "Treat Me Like A Slut",
       "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 237231,
+      "name": "Raingurl",
+      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Patrick Cowley: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/20e1KcDovwLUFtSTvCDmyv"
+      },
+      "artists": [
+        {
+          "name": "Patrick Cowley",
+          "url": "https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO"
+        }
+      ],
+      "duration_ms": 337080,
+      "name": "Menergy",
+      "url": "https://open.spotify.com/track/7G0jq4sJ8oFfpfRzjFqeND"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 344000,
       "name": "Ecco la Notte",
       "url": "https://open.spotify.com/track/07NTvJ2DpPtQ23qTu1YWOq"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Patrick Cowley: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/20e1KcDovwLUFtSTvCDmyv"
-      },
-      "artists": [
-        {
-          "name": "Patrick Cowley",
-          "url": "https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO"
-        }
-      ],
-      "duration_ms": 337080,
-      "name": "Menergy",
-      "url": "https://open.spotify.com/track/7G0jq4sJ8oFfpfRzjFqeND"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Amore Hardcore",
+        "url": "https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Cicciolina",
+      "url": "https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "ON (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7ugDGtuJ346gPQaFVxcZrb"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Amore Hardcore",
-        "url": "https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw"
+        "name": "Perch\u00e9 piangi Palermo",
+        "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
         }
       ],
-      "duration_ms": 277714,
-      "name": "Cicciolina",
-      "url": "https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90"
+      "duration_ms": 349133,
+      "name": "Perch\u00e9 piangi Palermo",
+      "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -739,22 +755,6 @@
       "duration_ms": 217584,
       "name": "Satan in Love",
       "url": "https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Perch\u00e9 piangi Palermo",
-        "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 349133,
-      "name": "Perch\u00e9 piangi Palermo",
-      "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Beautiful Garbage (Remastered)",
+        "url": "https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 189687,
+      "name": "Androgyny",
+      "url": "https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "NYC2MIA (SOPHIE Remix)",
         "url": "https://open.spotify.com/album/1teM6b52vhiAbVONN3Lw3R"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Beautiful Garbage (Remastered)",
-        "url": "https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 189687,
-      "name": "Androgyny",
-      "url": "https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "'80s Pop #1's",
         "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
       },
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "See The Light",
         "url": "https://open.spotify.com/album/5luHZqbMOLFMaN8SsZs2z9"
       },
@@ -1011,6 +1027,22 @@
       "duration_ms": 299293,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7cOjZKdxgshxWgeGfE4m01"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Comet",
+        "url": "https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr"
+      },
+      "artists": [
+        {
+          "name": "L I M",
+          "url": "https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF"
+        }
+      ],
+      "duration_ms": 261795,
+      "name": "Comet",
+      "url": "https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1039,22 +1071,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Comet",
-        "url": "https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr"
-      },
-      "artists": [
-        {
-          "name": "L I M",
-          "url": "https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF"
-        }
-      ],
-      "duration_ms": 261795,
-      "name": "Comet",
-      "url": "https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Secret Weapons Part 12",
         "url": "https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 323853,
       "name": "Acid Gentle Moves",
       "url": "https://open.spotify.com/track/79PMfyJVpmvhRjVqlEQQNB"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Supino",
-          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1115,30 +1115,6 @@
       "duration_ms": 170000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/7gbtsFZWeMQLGYA6zwMfY2"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "CLUB TOPPERIA",
-        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "LA NI\u00d1A",
-          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
-        },
-        {
-          "name": "BigMama",
-          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "XTC (feat. LA NI\u00d1A & BigMama)",
-      "url": "https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1207,6 +1183,30 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "CLUB TOPPERIA",
+        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "LA NI\u00d1A",
+          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+        },
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "XTC (feat. LA NI\u00d1A & BigMama)",
+      "url": "https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Dulce de Leche (feat. M\u00a5SS KETA) [M\u00a5SS KETA remix]",
         "url": "https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "buco nero",
-        "url": "https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6"
-      },
-      "artists": [
-        {
-          "name": "Voodoo Kid",
-          "url": "https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk"
-        }
-      ],
-      "duration_ms": 144150,
-      "name": "buco nero",
-      "url": "https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Blue Songs",
         "url": "https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 363986,
       "name": "Painted Eyes - Original Mix",
       "url": "https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "buco nero",
+        "url": "https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Kid",
+          "url": "https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk"
+        }
+      ],
+      "duration_ms": 144150,
+      "name": "buco nero",
+      "url": "https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12"
     },
     {
       "added_at": "2022-09-08 22:01:00",

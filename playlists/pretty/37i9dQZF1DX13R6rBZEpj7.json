@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 176872,
+  "num_followers": 176971,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMDE5ZWY1NzI5ZDFhNzNjMDJhNWQ3ZDM0YTMzYzg5NTY0",
+  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMGIxOTk2N2ViNTdlYmI3NmNjMzAxZDg5MzFkMzEzZjc1",
   "tracks": [
     {
       "added_at": "2022-09-23 15:03:03",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Get Mad",
+        "url": "https://open.spotify.com/album/4OO0IkgyFv0EMMgiB3eD0f"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "Get Mad",
+      "url": "https://open.spotify.com/track/3DCBwvEQDnGoYVjdoTa6hI"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "Lighter (feat. KSI) [Shapes Remix]",
         "url": "https://open.spotify.com/album/3qKcrBnDpoJoGGdNUyi7d2"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 204096,
       "name": "Lighter (feat. KSI) - Shapes Remix",
       "url": "https://open.spotify.com/track/3SMyy85TGAxfH7NYu65ujO"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Get Mad",
-        "url": "https://open.spotify.com/album/4OO0IkgyFv0EMMgiB3eD0f"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "Get Mad",
-      "url": "https://open.spotify.com/track/3DCBwvEQDnGoYVjdoTa6hI"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -607,38 +607,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Barrington / Bodies",
-        "url": "https://open.spotify.com/album/5FWII16ZTq6HfCMvdpqCTQ"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "Barrington",
-      "url": "https://open.spotify.com/track/13UkLkxFcO890QCWwaYW9c"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
-      },
-      "artists": [
-        {
-          "name": "Samstone",
-          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
-        }
-      ],
-      "duration_ms": 223725,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd"
       },
@@ -659,6 +627,38 @@
       "duration_ms": 231555,
       "name": "Again",
       "url": "https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
+      },
+      "artists": [
+        {
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
+        }
+      ],
+      "duration_ms": 223725,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Barrington / Bodies",
+        "url": "https://open.spotify.com/album/5FWII16ZTq6HfCMvdpqCTQ"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "Barrington",
+      "url": "https://open.spotify.com/track/13UkLkxFcO890QCWwaYW9c"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -875,26 +875,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
-      },
-      "artists": [
-        {
-          "name": "Gecha",
-          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
-        },
-        {
-          "name": "3000 Bass",
-          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Flow (Habstrakt Remix)",
         "url": "https://open.spotify.com/album/2m7F7EZT7uXsPEvGwqvPuI"
       },
@@ -931,6 +911,26 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
+      },
+      "artists": [
+        {
+          "name": "Gecha",
+          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
+        },
+        {
+          "name": "3000 Bass",
+          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Hard Baller",
-        "url": "https://open.spotify.com/album/2B51oNisAJxOsYTXhjb9fI"
-      },
-      "artists": [
-        {
-          "name": "Biohzrd",
-          "url": "https://open.spotify.com/artist/7Jhx0C8MWbjdZdcraPbOSc"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Hard Baller",
-      "url": "https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 225245,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Hard Baller",
+        "url": "https://open.spotify.com/album/2B51oNisAJxOsYTXhjb9fI"
+      },
+      "artists": [
+        {
+          "name": "Biohzrd",
+          "url": "https://open.spotify.com/artist/7Jhx0C8MWbjdZdcraPbOSc"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Hard Baller",
+      "url": "https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1075,22 +1075,26 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Hard Hitters",
-        "url": "https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK"
+        "name": "Hot Flush",
+        "url": "https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn"
       },
       "artists": [
         {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+          "name": "My Nu Leng",
+          "url": "https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ"
         },
         {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
         }
       ],
-      "duration_ms": 232602,
-      "name": "Hard Hitters",
-      "url": "https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k"
+      "duration_ms": 317538,
+      "name": "Hot Flush",
+      "url": "https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1119,26 +1123,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Hot Flush",
-        "url": "https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn"
+        "name": "Hard Hitters",
+        "url": "https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK"
       },
       "artists": [
         {
-          "name": "My Nu Leng",
-          "url": "https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
         },
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
         }
       ],
-      "duration_ms": 317538,
-      "name": "Hot Flush",
-      "url": "https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225"
+      "duration_ms": 232602,
+      "name": "Hard Hitters",
+      "url": "https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Don't You Know",
-        "url": "https://open.spotify.com/album/5jbbD9G6JTkkRrRhgZ7fJt"
+        "name": "Amazon Prime",
+        "url": "https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9"
       },
       "artists": [
         {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        },
+        {
+          "name": "1st Born",
+          "url": "https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb"
         }
       ],
-      "duration_ms": 215282,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/3gArWjWhVzXjHDTDhArTVE"
+      "duration_ms": 160482,
+      "name": "Amazon Prime",
+      "url": "https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1231,22 +1235,18 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Amazon Prime",
-        "url": "https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9"
+        "name": "Don't You Know",
+        "url": "https://open.spotify.com/album/5jbbD9G6JTkkRrRhgZ7fJt"
       },
       "artists": [
         {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        },
-        {
-          "name": "1st Born",
-          "url": "https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb"
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
         }
       ],
-      "duration_ms": 160482,
-      "name": "Amazon Prime",
-      "url": "https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI"
+      "duration_ms": 215282,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/3gArWjWhVzXjHDTDhArTVE"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Live It Up",
-        "url": "https://open.spotify.com/album/23JOrfgEKJvYNrFCdSoTDw"
-      },
-      "artists": [
-        {
-          "name": "A.2.Z",
-          "url": "https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ"
-        }
-      ],
-      "duration_ms": 240004,
-      "name": "Live It Up",
-      "url": "https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
       },
@@ -1339,6 +1323,26 @@
       "duration_ms": 169846,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Perfect Crime",
+        "url": "https://open.spotify.com/album/6SKhGRv1ihw34UnldrZIbV"
+      },
+      "artists": [
+        {
+          "name": "Spence",
+          "url": "https://open.spotify.com/artist/12QXpIHNMNQzZaCfBTVx0L"
+        },
+        {
+          "name": "S-70",
+          "url": "https://open.spotify.com/artist/2ADNw1kE3nu2uXTtEodACQ"
+        }
+      ],
+      "duration_ms": 210001,
+      "name": "Perfect Crime",
+      "url": "https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J"
     }
   ],
   "unique_name": "Bassline Bangers",

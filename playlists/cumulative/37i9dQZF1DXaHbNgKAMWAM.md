@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-194 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+195 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 | 2022-06-09 |  |
 | [HOME](https://open.spotify.com/track/19wmQD19yr6piH6Uto8OSm) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [BROWN EYED SOUL 4th Regular Album ‘SOUL COOKE’](https://open.spotify.com/album/283nFxxtOCBUaiAC4OitCo) | 4:43 | 2022-05-11 | 2022-07-28 |
 | [I Always Love You](https://open.spotify.com/track/1JbUf8ma0z1xrpQxnJKssz) | [Gu seul i](https://open.spotify.com/artist/58wCBXOmVPsbvDjpjYjl47) | [I Always Love You](https://open.spotify.com/album/3w9XoUYhJaQSxMt9Wf0KPh) | 4:03 | 2022-05-11 | 2022-07-23 |
-| [I Guess I Like You](https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Poong, the Joseon Psychiatrist OST Part.2](https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz) | 3:29 | 2022-08-19 |  |
+| [I Guess I Like You](https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Poong, the Joseon Psychiatrist OST Part.2](https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz) | 3:29 | 2022-08-19 | 2022-10-08 |
 | [I Love U Forever](https://open.spotify.com/track/7jTZjdxWKwq495z7mzEvd3) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/4B4acomkAwBoTwBMDPLf1h) | 3:17 | 2022-07-08 | 2022-07-10 |
 | [I love you more than me](https://open.spotify.com/track/44TKhC1koCNrslLPmGKu4A) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:11 | 2022-05-11 | 2022-07-15 |
 | [I LUV U \(with Mirani\)](https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [I LUV U \(with Mirani\)](https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1) | 3:55 | 2022-07-08 |  |
@@ -133,6 +133,7 @@
 | [promise](https://open.spotify.com/track/6IHakeR5yzcnNIP2lBuJ0e) | [Jaeha Jeong](https://open.spotify.com/artist/6smIT6IalnLeu9BWwutlq1) | [promise](https://open.spotify.com/album/2AH3hVk3NtpcRvnRvsyAfh) | 3:50 | 2022-07-04 | 2022-07-29 |
 | [PUZZLE](https://open.spotify.com/track/1l3qnaenScIWpAyJRbjLmP) | [Sugarbowl](https://open.spotify.com/artist/0SzEYg3WelMs62HakSDhPH) | [PUZZLE](https://open.spotify.com/album/3E8XbM9gn0N2V5bkRaDDHA) | 3:31 | 2022-05-11 | 2022-07-27 |
 | [Real LOVE](https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:16 | 2022-07-04 |  |
+| [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 | 2022-10-08 |  |
 | [Right](https://open.spotify.com/track/4rqkl7cIZMZL6kBWox0D6B) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Right](https://open.spotify.com/album/3MmSYZityjpYQXOfCYiJrS) | 4:08 | 2022-05-11 | 2022-07-29 |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-11 | 2022-08-02 |
 | [Shall we dance tonight](https://open.spotify.com/track/7J7XWKFgpUqiq0sYnm0kBu) | [이정권](https://open.spotify.com/artist/2JTaMLHMmhuALiVj8vpGg9) | [Shall we dance tonight](https://open.spotify.com/album/6alu7CXqzSj3g45f8r8WBv) | 3:25 | 2022-06-13 | 2022-07-03 |

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Joe Flizzow
 
-99 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+101 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Hanya Mahukan Bye](https://open.spotify.com/track/3ZabJw9TfTN7w7ofCWOAfO) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Hanya Mahukan Bye](https://open.spotify.com/album/0HNyC70qPjhOZWOKQBlpDZ) | 2:50 | 2022-09-21 |  |
 | [Harum Sundal Malam](https://open.spotify.com/track/5Y5A2d8zVU62bONx0pck5o) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Harum Sundal Malam](https://open.spotify.com/album/2z7a3zoAL6BuzF7rypiCp5) | 3:33 | 2022-05-25 | 2022-07-28 |
 | [HATI](https://open.spotify.com/track/7qUclEieAYxZH07yl9BnnF) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [HATI](https://open.spotify.com/album/2ZjFUUNd76Fm1tInQHNF3N) | 3:26 | 2022-07-27 | 2022-09-01 |
-| [Hati Lain Di Hatimu](https://open.spotify.com/track/1ZtGsN1V5sRLcunXBQUDB6) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Hati Lain Di Hatimu](https://open.spotify.com/album/68A70lSJlv7cFYj8ulPV3C) | 4:18 | 2022-08-17 |  |
+| [Hati Lain Di Hatimu](https://open.spotify.com/track/1KXucjuiiz2NN2888Y132A) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Hati Lain Di Hatimu](https://open.spotify.com/album/5pJwDtvqjOBNT3qUbsBfvd) | 4:18 | 2022-10-05 |  |
+| [Hati Lain Di Hatimu](https://open.spotify.com/track/1ZtGsN1V5sRLcunXBQUDB6) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Hati Lain Di Hatimu](https://open.spotify.com/album/68A70lSJlv7cFYj8ulPV3C) | 4:18 | 2022-08-17 | 2022-10-08 |
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-05-25 |  |
 | [Hilang](https://open.spotify.com/track/5YJPHN7xlauOtmDqN5YRtX) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Hilang](https://open.spotify.com/album/75edk9IuOsxG4ydh0VloAb) | 3:27 | 2022-09-08 |  |
 | [Hingga Tua Bersama](https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Hingga Tua Bersama](https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR) | 4:30 | 2022-05-25 |  |
@@ -82,7 +83,8 @@
 | [Resah Kerinduan](https://open.spotify.com/track/1K8cHn6DX4FUtdI0wdx6md) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Resah Kerinduan](https://open.spotify.com/album/2IjeneKtJJ6WBd7XhlgMgw) | 4:14 | 2022-05-25 | 2022-08-18 |
 | [Rindu Setengah Mati](https://open.spotify.com/track/4NRbwtbSE7xikojPuG9HjK) | [Nidza Afham](https://open.spotify.com/artist/0zceqpBQTndQrTQiTnxZB9) | [Rindu Setengah Mati](https://open.spotify.com/album/5kdSL9VcYtWEIEP5VLXVmj) | 4:04 | 2022-05-25 | 2022-09-16 |
 | [Roman Picisan](https://open.spotify.com/track/4d3Oc82rj1hVPlNZvcZ3KB) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Kangen](https://open.spotify.com/album/1Nu57IYMONBk10GTTaVkt7) | 5:01 | 2022-05-25 | 2022-09-01 |
-| [Rumah Singgah](https://open.spotify.com/track/7th706Tw7ByAqOR9FMWXLg) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/7gVYaMTDC2GCbpswDSHWVT) | 4:06 | 2022-05-25 |  |
+| [Rumah Singgah](https://open.spotify.com/track/3w75Uvn1cojNlBhQoxpVP3) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/1shpGa8sRQWZqn9n5jX53o) | 4:06 | 2022-10-05 |  |
+| [Rumah Singgah](https://open.spotify.com/track/7th706Tw7ByAqOR9FMWXLg) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/7gVYaMTDC2GCbpswDSHWVT) | 4:06 | 2022-05-25 | 2022-10-08 |
 | [Saat Kau Pergi](https://open.spotify.com/track/60KyqCqx207IWtHxLpMZdz) | [Harry](https://open.spotify.com/artist/42Fi9dpzwjgV0yKkJZdjiT) | [Saat Kau Pergi](https://open.spotify.com/album/4Sf3yMxm2adH49CffAi7tE) | 3:58 | 2022-09-15 |  |
 | [Sahabat](https://open.spotify.com/track/3rjq1rRyoB9mlkiZaCjw5w) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD) | [Sahabat](https://open.spotify.com/album/3PbOq3PCQub4eGJ2f9z76L) | 4:05 | 2022-08-11 | 2022-09-29 |
 | [Sahabat Tak Akan Pergi](https://open.spotify.com/track/001u88QTr9GonmqeQNwQ0F) | [Betrand Peto Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c), [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Sahabat Tak Akan Pergi](https://open.spotify.com/album/40aoVFlkmBnfF3iau8mBVM) | 4:01 | 2022-05-25 | 2022-08-12 |

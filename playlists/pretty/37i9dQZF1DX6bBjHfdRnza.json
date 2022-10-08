@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Beltran, Artwork: Rewina Beshue.",
-  "num_followers": 133888,
+  "num_followers": 133950,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk4ODUzMCwwMDAwMDAwMDg5NjFiNWU5NDdiYWIyNWYzNGQwYWVmNTRlZDJjMmNk",
+  "snapshot_id": "MTY2NTE3MTAyMSwwMDAwMDAwMDE4M2UyNWU4MTQ0ODc4ZDIwOTQ4NjFhZTIzMTFmNWNj",
   "tracks": [
     {
       "added_at": "2022-09-28 16:00:00",
@@ -119,6 +119,22 @@
       "duration_ms": 272727,
       "name": "Frozen Time",
       "url": "https://open.spotify.com/track/04gmLKrBOaGYbEboof98rg"
+    },
+    {
+      "added_at": "2022-10-07 19:30:21",
+      "album": {
+        "name": "Opening Credits",
+        "url": "https://open.spotify.com/album/4513dqyPasD83ZR1dfg9hK"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 243008,
+      "name": "Opening Credits",
+      "url": "https://open.spotify.com/track/1H6fS2MCxuJIH23Dno7Nkq"
     },
     {
       "added_at": "2022-10-05 04:00:00",

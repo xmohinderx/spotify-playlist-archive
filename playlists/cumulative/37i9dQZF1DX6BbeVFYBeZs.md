@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-158 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+159 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 | 2022-06-17 |  |
 | [Sierra Blanca](https://open.spotify.com/track/7siStEUpB8qicWuum3Ly2u) | [Rosa Gonzales](https://open.spotify.com/artist/6E8WeGatw7QpqYZzLeqZyi) | [Sierra Blanca](https://open.spotify.com/album/4sAhmphKQOaGLsQqhsmem4) | 2:33 | 2022-06-17 |  |
 | [Silva](https://open.spotify.com/track/0OGklcrx4tR6kMuK4dDoK8) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Silva](https://open.spotify.com/album/3IvvUji5JDqhVyBk1PvU6V) | 1:50 | 2022-06-17 |  |
+| [Sofía](https://open.spotify.com/track/6VMtKaNm36Dty9QxZfWWO4) | [Roy De Paz](https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg) | [Sofía](https://open.spotify.com/album/6UAasZMdWOZf78BSSY6gkW) | 1:52 | 2022-10-07 |  |
 | [Sol de medianoche](https://open.spotify.com/track/1kA41wXyC5knLXtUHJYokH) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Sol de medianoche](https://open.spotify.com/album/6YDejeG2RxP2S6HidOS4Mq) | 2:11 | 2022-06-17 |  |
 | [Solitaria](https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Solitaria](https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF) | 2:16 | 2022-08-05 |  |
 | [Sombra](https://open.spotify.com/track/7vpF6W64XotHKOESMN7eKp) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Sombra](https://open.spotify.com/album/2BKmkEhOxgCUInScgtmcG0) | 1:42 | 2022-06-17 | 2022-08-18 |

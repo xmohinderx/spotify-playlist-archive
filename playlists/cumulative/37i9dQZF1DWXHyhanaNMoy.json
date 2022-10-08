@@ -202,6 +202,28 @@
     },
     {
       "album": {
+        "name": "Angela",
+        "url": "https://open.spotify.com/album/3kzuD7z8RqaTYIk9K3t9wH"
+      },
+      "artists": [
+        {
+          "name": "Ajay",
+          "url": "https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa"
+        },
+        {
+          "name": "Fuzeejasmine",
+          "url": "https://open.spotify.com/artist/51BQQDclzLAUbxx2VfIigc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184311,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/49dr6mikDXKsR6M9bTyCLt"
+    },
+    {
+      "album": {
         "name": "Back It Up",
         "url": "https://open.spotify.com/album/2wFD5x3z9UNYrlYfgZlhlf"
       },
@@ -1355,6 +1377,32 @@
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+    },
+    {
+      "album": {
+        "name": "Freak In The Night",
+        "url": "https://open.spotify.com/album/371xkAecyOFq9ANsACjbUg"
+      },
+      "artists": [
+        {
+          "name": "Masquraid",
+          "url": "https://open.spotify.com/artist/6FUddiIO2kIjYz2yvNfz6q"
+        },
+        {
+          "name": "Major Dreamin'",
+          "url": "https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG"
+        },
+        {
+          "name": "Pearl Ramos",
+          "url": "https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119984,
+      "name": "Freak In The Night",
+      "url": "https://open.spotify.com/track/6xrxbUdqaunHEAKMq2n0o5"
     },
     {
       "album": {
@@ -2627,6 +2675,24 @@
       "duration_ms": 153560,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX"
+    },
+    {
+      "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192320,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
     },
     {
       "album": {

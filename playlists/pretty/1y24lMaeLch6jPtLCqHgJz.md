@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,170 likes - 81 songs - 4 hr 15 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,165 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,10 +84,9 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 74 | [Monster](https://open.spotify.com/track/7KKKa4Y1x32MIGeb3MA34K) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Monster](https://open.spotify.com/album/1tInUyai2CNWOmuVFqdSRY) | 3:27 |
 | 75 | [Battlefield](https://open.spotify.com/track/4L8tAFBftTAOo5pjeXVW9g) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Battlefield](https://open.spotify.com/album/1mtzE0SF8NyrV0CT4NV8tj) | 3:00 |
 | 76 | [All My Life](https://open.spotify.com/track/7pSIzHh4E7v5TBa6DHEPba) | [Somero](https://open.spotify.com/artist/25QwEFukGdirO64kwGIwTR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [All My Life](https://open.spotify.com/album/63wRjrPw2IHWN53aeFLhQM) | 2:24 |
-| 77 | [Chasing Bliss](https://open.spotify.com/track/2D3aVWaHfXemcFgn9T50AK) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Chasing Bliss](https://open.spotify.com/album/4VvRpBgvISZ3DcSZp4fNqV) | 3:15 |
-| 78 | [The Way Out](https://open.spotify.com/track/1c9UrEdPVH8EGQeWJVI5Or) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Alkaz](https://open.spotify.com/artist/0kTZZdRDF3KIno7fdmLpss), [SweetState](https://open.spotify.com/artist/5wfV9K49DuuaFl1tLIwhLQ), [Eon Le Roux](https://open.spotify.com/artist/0JoJVRkKJ51VeD9XLjQD9D) | [The Way Out](https://open.spotify.com/album/0dEWPZuNgMDDFeWLetlOVh) | 3:13 |
-| 79 | [Apollo \- SICK INDIVIDUALS Remix](https://open.spotify.com/track/03PgbAWbsMhzaJc8uK3AyU) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Revealed 10 Year Anniversary Remixed](https://open.spotify.com/album/4Pn9DreQQj0WtcNqDeBc7S) | 3:33 |
-| 80 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 |
-| 81 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 |
+| 77 | [The Way Out](https://open.spotify.com/track/1c9UrEdPVH8EGQeWJVI5Or) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Alkaz](https://open.spotify.com/artist/0kTZZdRDF3KIno7fdmLpss), [SweetState](https://open.spotify.com/artist/5wfV9K49DuuaFl1tLIwhLQ), [Eon Le Roux](https://open.spotify.com/artist/0JoJVRkKJ51VeD9XLjQD9D) | [The Way Out](https://open.spotify.com/album/0dEWPZuNgMDDFeWLetlOVh) | 3:13 |
+| 78 | [Apollo \- SICK INDIVIDUALS Remix](https://open.spotify.com/track/03PgbAWbsMhzaJc8uK3AyU) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Revealed 10 Year Anniversary Remixed](https://open.spotify.com/album/4Pn9DreQQj0WtcNqDeBc7S) | 3:33 |
+| 79 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 |
+| 80 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 |
 
-Snapshot ID: `MjAxOCwyMDFjZDk1MjI2NzdkZGY2Y2JiZjA4NGFmODNhNGFmNzgxYWY1MmUz`
+Snapshot ID: `MjAyMSw4YWY4MTNkZGIxZWY2ZTE5Y2E2ODY4Njc2MmFjOGQxM2Q5OGZhMDNl`

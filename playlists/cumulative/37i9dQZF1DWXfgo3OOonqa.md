@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-605 songs - 1 day 3 hr 3 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+607 songs - 1 day 3 hr 9 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Internet \- Spotify Studio 100 Recording](https://open.spotify.com/track/1gnCpBKizZd2w23fb0eOS2) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Internet \(Spotify Studio 100 Recording\)](https://open.spotify.com/album/4U1ARXYplRDpLRth2YBocA) | 2:31 | 2022-02-10 |  |
 | [Intro B.D.E](https://open.spotify.com/track/45iPtsmZm34Oa6fmwtsyZG) | [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h) | [Gemini](https://open.spotify.com/album/0lalDWNxyKDSBrWcoA5uhU) | 1:37 | 2022-03-10 | 2022-04-08 |
 | [Issues i nirvana](https://open.spotify.com/track/0yTUAOtm3oMXidcXYMEYo3) | [CWOTAI](https://open.spotify.com/artist/5JVELXobPeVHNhy1VXeIyS), [Alex Lopesz](https://open.spotify.com/artist/7nJ49RC4Z3AM1cC4hzavDH) | [Issues i nirvana](https://open.spotify.com/album/6W6bccAYxtZirgIqIPIteK) | 3:17 | 2022-02-03 | 2022-02-22 |
+| [I’m Running](https://open.spotify.com/track/5676thUlxnSegZelsR5x0E) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [I’m Running](https://open.spotify.com/album/1IFL7FdW9Q9KN6uHGPJ071) | 3:14 | 2022-10-07 |  |
 | [J&D](https://open.spotify.com/track/4pxrY2jNvjG6FQu6v9d9df) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Rico Suave](https://open.spotify.com/album/5EQrIG9R04IuErE0CCkrI7) | 2:38 | 2022-05-12 | 2022-06-17 |
 | [Jag Antar](https://open.spotify.com/track/3ODGkTNHaprWShP9J4zdEX) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Jag Antar](https://open.spotify.com/album/6qqwuJu7WmMUvfW0tzVgdi) | 2:52 | 2022-03-19 | 2022-04-29 |
 | [Jag Ser](https://open.spotify.com/track/4WVnmY9eSn1u12ozgKTQVZ) | [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0) | [Jag Ser](https://open.spotify.com/album/1oZPx1IthX5PdLnaRBEZma) | 2:31 | 2021-12-16 | 2022-01-28 |
@@ -317,7 +318,7 @@
 | [Komplicerat](https://open.spotify.com/track/3RCbGcSsPFNn6NbFbLc8QT) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Komplicerat](https://open.spotify.com/album/2okfqXMmvxEi0VlNupJENP) | 2:19 | 2022-05-20 | 2022-09-16 |
 | [Koppla av](https://open.spotify.com/track/3MOiHZI4V8KaDdSaOSOVMQ) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:57 | 2022-06-07 | 2022-09-30 |
 | [Krona & Klave](https://open.spotify.com/track/61irpUdlLoK263JMaCYMRJ) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Krona & Klave](https://open.spotify.com/album/6suQQaqzcfkzo9T8HSHK2x) | 2:32 | 2022-05-20 | 2022-06-17 |
-| [Kung \- Freestyle](https://open.spotify.com/track/3E2ofx3tDrd18xX3faQm6E) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [Kung \(Freestyle\)](https://open.spotify.com/album/5hgkSY9spNFpdKA7RSpgAS) | 2:18 | 2022-09-08 |  |
+| [Kung \- Freestyle](https://open.spotify.com/track/3E2ofx3tDrd18xX3faQm6E) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [Kung \(Freestyle\)](https://open.spotify.com/album/5hgkSY9spNFpdKA7RSpgAS) | 2:18 | 2022-09-08 | 2022-10-08 |
 | [La boheme](https://open.spotify.com/track/4GMC1bODd0THzwC3R6b4l3) | [Schmarre](https://open.spotify.com/artist/6ichDOc1Is3mzHexDjl4v4) | [La boheme](https://open.spotify.com/album/3hWYuKiZf0ong8KH15eUCD) | 2:31 | 2022-02-25 | 2022-03-11 |
 | [La La La](https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [La La La](https://open.spotify.com/album/7MoHttJ87Iih7fEDFlaMeC) | 3:59 | 2022-02-17 | 2022-05-06 |
 | [LA LA LA](https://open.spotify.com/track/16DFk35kx3iqOWWlvXujvE) | [pJAY](https://open.spotify.com/artist/3q2wHS0NiGLdN4HyPTTBTU) | [LA LA LA](https://open.spotify.com/album/1SauuPQb8XcjLDkWApEtKf) | 2:52 | 2022-01-13 | 2022-02-18 |
@@ -408,7 +409,7 @@
 | [Närvaro](https://open.spotify.com/track/46NGCnt4LHBc7fJMBRye4Z) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Närvaro](https://open.spotify.com/album/6nnUu4Im9qLyuvDT0xp6WX) | 2:28 | 2022-07-07 | 2022-09-09 |
 | [Offside](https://open.spotify.com/track/68iZcSWAuoWVnmA7WKZy1K) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Offside](https://open.spotify.com/album/26HqefOZ5kw9YqCtFKq3n0) | 2:25 | 2022-02-03 | 2022-03-10 |
 | [OH OH](https://open.spotify.com/track/55wgQM8KMi2vExJ5v7mDwV) | [Fl4ppie](https://open.spotify.com/artist/2Mc2vYVF2Mta7gBwhgc716) | [OH OH](https://open.spotify.com/album/33qHqxfP0PfWjqKzfcUG3Q) | 2:27 | 2022-03-24 | 2022-04-08 |
-| [OK OK](https://open.spotify.com/track/56hQ9u1MRtv4XMRapoOjkD) | [Cicii](https://open.spotify.com/artist/5uf9F1Z86ckaBP5kCA2V9F) | [OK OK](https://open.spotify.com/album/6SFMkIgzarX3ZVjasmuOeF) | 2:19 | 2022-09-29 |  |
+| [OK OK](https://open.spotify.com/track/56hQ9u1MRtv4XMRapoOjkD) | [Cicii](https://open.spotify.com/artist/5uf9F1Z86ckaBP5kCA2V9F) | [OK OK](https://open.spotify.com/album/6SFMkIgzarX3ZVjasmuOeF) | 2:19 | 2022-09-29 | 2022-10-08 |
 | [Området](https://open.spotify.com/track/71jVx5fK7X3zwOXs6aXsCX) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [Området](https://open.spotify.com/album/4h86rIg3Evn1bmrhnRTHmI) | 2:35 | 2022-02-10 | 2022-03-26 |
 | [ON FIRE \(feat\. Ricky Rich\)](https://open.spotify.com/track/63oIpOHmjQ41v3bCJ8Ewl2) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [ON FIRE \(feat\. Ricky Rich\)](https://open.spotify.com/album/5ru2XlTYvPMrtxEq05KMGQ) | 3:03 | 2022-06-30 | 2022-07-30 |
 | [Oppboy](https://open.spotify.com/track/2WBiGFSO8gtB4pPmD0Ejgi) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [Drillogi 2](https://open.spotify.com/album/2Vb6P90zzl0ex09Vb5H9oS) | 2:17 | 2022-06-17 | 2022-08-19 |
@@ -436,6 +437,7 @@
 | [Platsen](https://open.spotify.com/track/2WLSkmxXfc78plQDoNUiGx) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Platsen](https://open.spotify.com/album/2uQbGKfLFdOnXeRoQnJ7rE) | 2:08 | 2022-01-27 | 2022-03-18 |
 | [Poezin E Djup](https://open.spotify.com/track/3iRv2FwS4HJrROpgovVMYP) | [Alee](https://open.spotify.com/artist/3d5JHcxMZE0BoTxbbax7SD) | [Poezin E Djup](https://open.spotify.com/album/2ZeXdUIK2GtxHkM2mLpU1a) | 2:09 | 2022-01-20 | 2022-02-18 |
 | [Police](https://open.spotify.com/track/3B903DhOIENm4wNq356KJj) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Police](https://open.spotify.com/album/23klDTxN5Qe2wuZ9ad1y37) | 2:43 | 2022-08-25 |  |
+| [Politik](https://open.spotify.com/track/1zWFof0FbjUCkY4rJ9s3fN) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [Politik](https://open.spotify.com/album/35JqPfpEGCGQhyMBRZFLvQ) | 2:40 | 2022-10-07 |  |
 | [Politrix 3](https://open.spotify.com/track/6dR9JEZAKwKlCQ4ilCDveT) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [PUSH3R](https://open.spotify.com/album/6Md0f1UAENAmSFkcaIVp9p) | 2:32 | 2021-12-16 | 2022-01-14 |
 | [Pompeji](https://open.spotify.com/track/34s3YjW9iYYAxlSjGYLD2x) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [POMPEJI / BEKVÄM \(B.C.D DELUXE\)](https://open.spotify.com/album/2RiDrpDQhhzg2DUyDenxNH) | 2:06 | 2022-02-25 | 2022-03-25 |
 | [Pon me](https://open.spotify.com/track/4mVTcZKPiJhxfTII8rnSM5) | [Madi Banja](https://open.spotify.com/artist/0LdzDrRc2RESpGqwyhbE3t) | [Pon me](https://open.spotify.com/album/4PcZ0vlvOr1fYOp8iaEPwp) | 3:19 | 2022-05-20 | 2022-06-10 |

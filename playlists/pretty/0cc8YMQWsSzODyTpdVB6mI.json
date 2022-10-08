@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43473,
+  "num_followers": 43496,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk3NCxiOWZjMTFjMjc3NjkzNmNhMDFhMjc4YzI3YjU2OTFkOWQ5YTA5YmQy",
+  "snapshot_id": "Mjk3NiwzMTJiZTgzNzJhYWFmYzE4YWYwNTY2YmVmMzAyMmVhYTE2MjUyNzNl",
   "tracks": [
+    {
+      "added_at": "2022-10-07 08:15:41",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/0ngsAnIsTVjlXzgRtJcLJg"
+      },
+      "artists": [
+        {
+          "name": "Ultraflex",
+          "url": "https://open.spotify.com/artist/0GX25ns6c6gNoBmZyb0Sqg"
+        }
+      ],
+      "duration_ms": 118597,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3g8OkwMxW6PJ4CWgEN6R1H"
+    },
     {
       "added_at": "2022-10-06 10:03:09",
       "album": {
@@ -415,22 +431,6 @@
       "duration_ms": 221000,
       "name": "AMBIANCE",
       "url": "https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo"
-    },
-    {
-      "added_at": "2022-07-15 09:23:34",
-      "album": {
-        "name": "We Are Shadows",
-        "url": "https://open.spotify.com/album/6f9UikQyxUq3sYTc6TY2aX"
-      },
-      "artists": [
-        {
-          "name": "PRESSYES",
-          "url": "https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop"
-        }
-      ],
-      "duration_ms": 219436,
-      "name": "We Are Shadows",
-      "url": "https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD"
     },
     {
       "added_at": "2021-11-05 15:47:43",

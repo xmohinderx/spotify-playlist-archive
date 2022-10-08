@@ -4,7 +4,7 @@
 
 > Slow jams for the passionate.
 
-155 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/4iNBaLqDGJZwIsNTocNOfF)
+156 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/4iNBaLqDGJZwIsNTocNOfF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Weekend](https://open.spotify.com/track/1iI9QCKcs3W5VW8oSTG8BS) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Weekend](https://open.spotify.com/album/3GvJ3TWhzD5H2kPMgSB98r) | 2:30 | 2021-11-09 | 2022-06-09 |
 | [What You Deserve \(Remix\)](https://open.spotify.com/track/7xSPwpcoOQ3upwGldVdZzv) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Big Femme Energy, Vol\. 1 \(Deluxe\)](https://open.spotify.com/album/0S0JqdIOvyZE1NnEIQSGYF) | 2:55 | 2022-04-15 | 2022-06-11 |
 | [What You Want](https://open.spotify.com/track/4YlJ86UEERz5yJB5bx4KUP) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Iconic](https://open.spotify.com/album/2qUVjXy8MeOvAO9qcNpdoR) | 3:27 | 2022-03-25 | 2022-04-21 |
-| [What's Good](https://open.spotify.com/track/1RcUrR3PzhZlKJBpMW2ql0) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [What's Good](https://open.spotify.com/album/3mN6MrBpyxQ1iBUdHhva8m) | 2:58 | 2022-06-24 |  |
+| [What's Good](https://open.spotify.com/track/1RcUrR3PzhZlKJBpMW2ql0) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [What's Good](https://open.spotify.com/album/3mN6MrBpyxQ1iBUdHhva8m) | 2:58 | 2022-06-24 | 2022-10-08 |
+| [What's Good](https://open.spotify.com/track/2MIQsg9hISoK6hnAX8YW7Y) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [What's Good](https://open.spotify.com/album/0jkuo1Nm4KJse4bnAi7We1) | 2:58 | 2022-07-15 |  |
 | [When You Love Someone feat\. H.E.R\. \(feat\. H.E.R.\)](https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [FWM](https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg) | 3:19 | 2021-11-09 |  |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 | 2022-07-15 |  |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL) | 3:29 | 2021-11-09 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,656 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,653 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 53 | [soda stain](https://open.spotify.com/track/3RbKJKBWHBBPkNZ3BaCKfj) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [soda stain](https://open.spotify.com/album/4ZEAc4gemVxICjPks2GyQD) | 1:56 |
 | 54 | [Mr\. Perfect Freestyle](https://open.spotify.com/track/02jWhQF2HoKq9EDTdfiwJG) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [Mr\. Perfect Freestyle](https://open.spotify.com/album/7L5pqnFd9CLUoSBXVKPCs7) | 2:36 |
 | 55 | [Desert Star](https://open.spotify.com/track/4uiF1V2eIPSMgR2V4smhCC) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Desert Star](https://open.spotify.com/album/68dJWfmQ7tPR3hXiWGIqCt) | 3:44 |
-| 56 | [PINCH ME](https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/3rOQe9CrRDdKdLHLzH4BNI) | 2:59 |
+| 56 | [PINCH ME](https://open.spotify.com/track/6uogFVMnfQbyA93hxEZhd1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/41U30ytGycUBqa4qrICXrn) | 2:59 |
 | 57 | [BACC WEST](https://open.spotify.com/track/4NPMw50wQZHINMjzGYs4xr) | [YSB Eli](https://open.spotify.com/artist/1oWGd65mQ43qogAn2pFQhM) | [BACC WEST](https://open.spotify.com/album/2bdeXHX9b5bE8KiuSdqdlt) | 2:28 |
 | 58 | [forest ave](https://open.spotify.com/track/5erRkajLz0wfz4VRks4adQ) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [forest ave](https://open.spotify.com/album/5Ii2RjeydX0L1D7DqPDjww) | 2:32 |
 | 59 | [Flew By You](https://open.spotify.com/track/3BpOgYL0N3Bv33cj8hQY8i) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Flew By You](https://open.spotify.com/album/2njyOqgiAfEPjfDaI8b7Nd) | 1:59 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MTY0NzM2NTY0OCwwMDAwMDAwMGJjYThiMTk3ZmEzYzk4MGQ5NjQwZTI1OTA5MTdjMTM4`
+Snapshot ID: `MTY0NzM2NTY0OCwwMDAwMDAwMGM4NDFjMWZiMmI1MmIzZTMwN2UyODliYzY4MzBkMGRm`

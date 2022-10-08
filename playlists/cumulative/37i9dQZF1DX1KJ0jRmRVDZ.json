@@ -1290,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Identity",
+        "url": "https://open.spotify.com/album/3WmF5fA11eq8wIjoj7Hmk0"
+      },
+      "artists": [
+        {
+          "name": "yupsilon",
+          "url": "https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161308,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/5MiihS6toSrDlwen3p6Slp"
+    },
+    {
+      "album": {
         "name": "INAZMA",
         "url": "https://open.spotify.com/album/6ahRrIWu33oElg0xP5Umsb"
       },
@@ -3611,7 +3629,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 161308,
       "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/6XREfc9wtfsmrod7iHVyz4"

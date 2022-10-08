@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-570 songs - 1 day 6 hr 49 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+571 songs - 1 day 6 hr 54 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Khyaal Rakhya Kar](https://open.spotify.com/track/2RKGtM8v2JM72Gyo1wLmgg) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Khyaal Rakhya Kar](https://open.spotify.com/album/6Ghe7DUVuvs6hCzCdz3prE) | 3:10 | 2021-12-02 | 2022-02-01 |
 | [Ki Kar Gaiyaan](https://open.spotify.com/track/5o0zH8goJNlBBgfZhmQL6k) | [Akriti Kakkar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ki Kar Gaiyaan](https://open.spotify.com/album/4q1rMKC7XSD07kNcTo9gcl) | 3:43 | 2022-01-28 | 2022-02-12 |
 | [Ki Karde Je](https://open.spotify.com/track/5DnZcwhgXYlUxGOMk348Sz) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 3:35 | 2022-02-03 | 2022-07-12 |
+| [Ki Likha](https://open.spotify.com/track/45FqDbFJkcg3jDqhqnvvmL) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ki Likha](https://open.spotify.com/album/51OFYw4DkH77r7GvldQjAq) | 4:26 | 2022-10-07 |  |
 | [Kill Kure](https://open.spotify.com/track/5Y6pohDxlWqRH69bDv5er4) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [Kill Kure](https://open.spotify.com/album/0PHp8FjClTq3VQNPbUpAXo) | 4:34 | 2022-01-17 | 2022-02-01 |
 | [King Queen](https://open.spotify.com/track/7idV9Nalvb7FbEcN5Qbtou) | [KB Bhangu](https://open.spotify.com/artist/1ckQY8GQZNvJBr1y9HP74r), [Sumirat Kaur](https://open.spotify.com/artist/0hAxNB52FTz62jLDbtG6eK) | [King Queen](https://open.spotify.com/album/43gOBtn2vMaDyPEQ1e08l0) | 3:20 | 2022-02-04 | 2022-02-12 |
 | [Kinne Sohne Lagde](https://open.spotify.com/track/1vuMd5EqT1CZhK8we8ENLJ) | [Devenderpal Singh](https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T), [Ruhi Sethi](https://open.spotify.com/artist/6VqAlXwwoDxGZTUgG0Sx2y) | [Kinne Sohne Lagde](https://open.spotify.com/album/4jWS2jTivJTZdfA2y90V3W) | 3:24 | 2022-05-31 | 2022-07-06 |

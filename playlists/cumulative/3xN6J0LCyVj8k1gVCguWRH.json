@@ -2306,6 +2306,24 @@
     },
     {
       "album": {
+        "name": "Average",
+        "url": "https://open.spotify.com/album/6W8ppczgwXKHeLuJK6xAvg"
+      },
+      "artists": [
+        {
+          "name": "Madison Olds",
+          "url": "https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130192,
+      "name": "Average",
+      "url": "https://open.spotify.com/track/5oGv0ZLflQyVEWWnZZ8rxf"
+    },
+    {
+      "album": {
         "name": "Aware",
         "url": "https://open.spotify.com/album/2xBFIZEL2319Ux8euBOopg"
       },
@@ -2469,6 +2487,24 @@
       "duration_ms": 156653,
       "name": "Back At It (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/144JN38I4ZAHGaza4i7NpG"
+    },
+    {
+      "album": {
+        "name": "back of my ford fiesta",
+        "url": "https://open.spotify.com/album/6pwlZ578cy01sL51nnYkw6"
+      },
+      "artists": [
+        {
+          "name": "sullfull",
+          "url": "https://open.spotify.com/artist/6WRrbmkFdQExYaS4uyrmTm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185688,
+      "name": "back of my ford fiesta",
+      "url": "https://open.spotify.com/track/4z1vqbZl7nPkvhapxbtWgD"
     },
     {
       "album": {
@@ -3508,6 +3544,24 @@
     },
     {
       "album": {
+        "name": "Folkstar",
+        "url": "https://open.spotify.com/album/32Z16a2c7e5xSNhKOouTrh"
+      },
+      "artists": [
+        {
+          "name": "Eddie Island",
+          "url": "https://open.spotify.com/artist/5qMzGxlkZQrc9W6GV7DjsV"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207580,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/0BOnnmk0vqxbX5UWfQKsw7"
+    },
+    {
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4Z8nTUdwp1urSSmiQBRyYZ"
       },
@@ -4495,6 +4549,24 @@
       "duration_ms": 219184,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/1ZOoPJGZjvKS5AtireyzuO"
+    },
+    {
+      "album": {
+        "name": "BUTTERFLY",
+        "url": "https://open.spotify.com/album/6HEt8niox5G4PYTK1JtfVW"
+      },
+      "artists": [
+        {
+          "name": "Kendall Raesunnie",
+          "url": "https://open.spotify.com/artist/72j13eu61qmDGfchFMiqF3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "BUTTERFLY",
+      "url": "https://open.spotify.com/track/4tfyKCyAtK8bqfJtuhfGT9"
     },
     {
       "album": {
@@ -7296,6 +7368,24 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0IzUNWsQuZPVncXMMx25AN"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1PMCaOsItHt7Wc02FCdpdv"
+    },
+    {
+      "album": {
         "name": "Dickmatized",
         "url": "https://open.spotify.com/album/6unvaNLlF9nTykepdlU6rJ"
       },
@@ -7333,6 +7423,28 @@
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "album": {
+        "name": "Die for You",
+        "url": "https://open.spotify.com/album/4otHT1biOmDo13MWqalrTd"
+      },
+      "artists": [
+        {
+          "name": "SEMM",
+          "url": "https://open.spotify.com/artist/6vVy716NqX11fVSRs2koLB"
+        },
+        {
+          "name": "Fyon",
+          "url": "https://open.spotify.com/artist/1OZo3RxWq8E0maQHpp9H6D"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167804,
+      "name": "Die for You",
+      "url": "https://open.spotify.com/track/12cxlpAkE58olr05BrYBtp"
     },
     {
       "album": {
@@ -9067,7 +9179,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 251289,
       "name": "Falling Out Of Orbit",
       "url": "https://open.spotify.com/track/7exGS5SzRgPlNxNTCFS0r9"
@@ -9259,6 +9371,24 @@
       "duration_ms": 162800,
       "name": "Feel",
       "url": "https://open.spotify.com/track/1uTzmyDOyV3ZmHEBqatKpF"
+    },
+    {
+      "album": {
+        "name": "FEEL A LOT",
+        "url": "https://open.spotify.com/album/7w4Cs4iKmSNzj1nzMIeyuE"
+      },
+      "artists": [
+        {
+          "name": "Ben Provencial",
+          "url": "https://open.spotify.com/artist/5weUjhew3mKsYMtwxB2a0h"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141660,
+      "name": "FEEL A LOT",
+      "url": "https://open.spotify.com/track/5apYVVhkB6pJlEDEcJtvyb"
     },
     {
       "album": {
@@ -12322,6 +12452,24 @@
     },
     {
       "album": {
+        "name": "Hearts Glow",
+        "url": "https://open.spotify.com/album/0BHPome5lPyvxfoUqavygd"
+      },
+      "artists": [
+        {
+          "name": "Paul Supreme",
+          "url": "https://open.spotify.com/artist/03uFiueCmkImPUuHgPgrLZ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174307,
+      "name": "Hearts Glow",
+      "url": "https://open.spotify.com/track/5WTMX9n4cVK7UUPFrn4Q2h"
+    },
+    {
+      "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/0cpv2QhabsuvPisUlfMjpS"
       },
@@ -14590,6 +14738,24 @@
     },
     {
       "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/5XZ7G9zMJi24jBlHPCvJov"
+      },
+      "artists": [
+        {
+          "name": "Yon Idy",
+          "url": "https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189416,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/71d0LLbBBL4jSSW6wEi46L"
+    },
+    {
+      "album": {
         "name": "Monotronic",
         "url": "https://open.spotify.com/album/04qJjkoONgBtVYXwwKX1hp"
       },
@@ -15253,7 +15419,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 249666,
       "name": "Jump",
       "url": "https://open.spotify.com/track/3ZQiZ9mNXzwYQQJFuZVyqk"
@@ -20144,6 +20310,24 @@
     },
     {
       "album": {
+        "name": "Never Knew",
+        "url": "https://open.spotify.com/album/1mVrlIa58dKPSs8OaBvcVd"
+      },
+      "artists": [
+        {
+          "name": "JAIV",
+          "url": "https://open.spotify.com/artist/177b3Utl38Ov1SoCZU995v"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218435,
+      "name": "Never Knew",
+      "url": "https://open.spotify.com/track/1St0yRnxCByKmapxXW52YI"
+    },
+    {
+      "album": {
         "name": "Never on My Own",
         "url": "https://open.spotify.com/album/72QsHJfe1wlfbMPV6F3euM"
       },
@@ -21221,6 +21405,24 @@
       "duration_ms": 278468,
       "name": "Oliver / Aberson: Look Inside",
       "url": "https://open.spotify.com/track/4f1tfjSHv1Rq5sdn0GaI2V"
+    },
+    {
+      "album": {
+        "name": "A Solas",
+        "url": "https://open.spotify.com/album/687b8aK51GhJRZXYqhEztK"
+      },
+      "artists": [
+        {
+          "name": "Will Kano",
+          "url": "https://open.spotify.com/artist/1CD8S1tlrCCCJbm4dokem3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Olvidarme De Ti",
+      "url": "https://open.spotify.com/track/6PWFDK3ujedxZHYiR2bz9c"
     },
     {
       "album": {
@@ -24249,6 +24451,28 @@
       "duration_ms": 252000,
       "name": "Said",
       "url": "https://open.spotify.com/track/2C3NqGue28mX7oBWKK4CdZ"
+    },
+    {
+      "album": {
+        "name": "Salma (Barney Cortez Remix)",
+        "url": "https://open.spotify.com/album/3mhFstXO9Qv6y0YZAnfiiP"
+      },
+      "artists": [
+        {
+          "name": "Yellow Shoots",
+          "url": "https://open.spotify.com/artist/57gksZVx15OLscjXSIuorY"
+        },
+        {
+          "name": "Barney Cortez",
+          "url": "https://open.spotify.com/artist/4wKwoVNNPlgxD8JP1P66IA"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "Salma - Barney Cortez Remix",
+      "url": "https://open.spotify.com/track/2YN7hp4ROM08dx1FA0HzUi"
     },
     {
       "album": {
@@ -28292,6 +28516,24 @@
     },
     {
       "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/00nTCUR6R7duQ6454Unt7t"
+      },
+      "artists": [
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/0lum4kcOxVNA63cg3AVP1D"
+    },
+    {
+      "album": {
         "name": "The Faithful",
         "url": "https://open.spotify.com/album/7gxaL0UFrpUtHreIc01fyb"
       },
@@ -29074,6 +29316,24 @@
     },
     {
       "album": {
+        "name": "Feeling Alright",
+        "url": "https://open.spotify.com/album/26Fk2l62DFiO1Npi5lOU8V"
+      },
+      "artists": [
+        {
+          "name": "Elephant Motel",
+          "url": "https://open.spotify.com/artist/0AYoGyLwbupLIZWNHbHHA8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Time Fly By",
+      "url": "https://open.spotify.com/track/7tOj7X95GbrYvayIZlWyYu"
+    },
+    {
+      "album": {
         "name": "Time Goes \"Bye\"",
         "url": "https://open.spotify.com/album/55FALUa466PtpCqbVDbalm"
       },
@@ -29603,6 +29863,24 @@
       "duration_ms": 257075,
       "name": "Trust Someone",
       "url": "https://open.spotify.com/track/2W5h3Vq7OqdyJovrnORqSZ"
+    },
+    {
+      "album": {
+        "name": "Truth and Desire",
+        "url": "https://open.spotify.com/album/4gwEhu0t5psIePibLNyxQP"
+      },
+      "artists": [
+        {
+          "name": "Qbanaa",
+          "url": "https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Truth and Desire",
+      "url": "https://open.spotify.com/track/6ApZAVtCIRIWJ1q0XXAd8W"
     },
     {
       "album": {
@@ -32855,6 +33133,28 @@
       "duration_ms": 218772,
       "name": "You're the Star",
       "url": "https://open.spotify.com/track/5w96vi5Kt3OC9F5MoEkzwP"
+    },
+    {
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/5pl5wOhWwAqUMh7a70UdDr"
+      },
+      "artists": [
+        {
+          "name": "Justin Frech",
+          "url": "https://open.spotify.com/artist/2uYe2yo7VRjf6qgBp1Zrkh"
+        },
+        {
+          "name": "Eliza Radyko",
+          "url": "https://open.spotify.com/artist/47GiE02r0mVikCEmiWixbQ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/7rTjUTMjFfhf4d6YfwXXwr"
     },
     {
       "album": {

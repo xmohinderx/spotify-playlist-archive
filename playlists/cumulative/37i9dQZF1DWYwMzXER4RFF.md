@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Viagra Boys
 
-287 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+288 songs - 17 hr 55 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Headroom](https://open.spotify.com/track/3vs2MlII33TgC5hAPZiUiu) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Headroom](https://open.spotify.com/album/0A7myLtAtp9gMhpoI2Zha7) | 3:06 | 2021-12-06 | 2022-07-28 |
 | [Heartbeat](https://open.spotify.com/track/3UtV7WLZvRZCH0oypoI402) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Heartbeat](https://open.spotify.com/album/5e9ByDXq4Q6XaPSbmyq2c0) | 3:27 | 2022-03-11 | 2022-04-13 |
 | [HEY HEY](https://open.spotify.com/track/7FNp8GWvT5Y0fg93c0fgkG) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [HEY HEY](https://open.spotify.com/album/0ddhsC5Bvt2ifpngs2p24c) | 3:26 | 2022-03-11 | 2022-07-10 |
+| [hollow scene](https://open.spotify.com/track/2hDt5BixP1kCcIbFUXbsjz) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [creeping speedwells](https://open.spotify.com/album/3IUJgohelfuoshLviTrYZC) | 3:03 | 2022-08-25 |  |
 | [hollow scene](https://open.spotify.com/track/3yZZhCSCVioLeUVPKs9mLI) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [hollow scene](https://open.spotify.com/album/6s5a4fG731JST484ZAsl5m) | 3:03 | 2021-12-06 | 2022-07-28 |
 | [Hollywood](https://open.spotify.com/track/7nhHhAK4luQGM6yxIAZcF4) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Hollywood](https://open.spotify.com/album/5HBRejbP2IlsqHNQDQb2oy) | 3:51 | 2021-12-06 | 2022-07-24 |
 | [Holy Smoke](https://open.spotify.com/track/3h1pKCq82AzewJHdJisElO) | [SLAP RASH](https://open.spotify.com/artist/5QHruUgCAsZJ9SfzvcoogM) | [Holy Smoke](https://open.spotify.com/album/1nayzHyYXMdlJFX9bMqnMr) | 3:40 | 2022-03-11 | 2022-04-21 |
@@ -261,7 +262,7 @@
 | [The Cleaner](https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Cleaner](https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo) | 7:33 | 2022-06-16 |  |
 | [The Dial](https://open.spotify.com/track/55AP1tUevnOiiyffOQYeDB) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Dial](https://open.spotify.com/album/1qp9czAYoODXQiiXp4Yjbb) | 5:10 | 2021-12-06 | 2022-07-28 |
 | [The Floor](https://open.spotify.com/track/0REgKKAS5YzPopio6hLQTx) | [Johnny Hunter](https://open.spotify.com/artist/4TvM3UVvqDRG51RaUeK5Qo) | [The Floor](https://open.spotify.com/album/6MdGJIND3zgupaPZ135eOc) | 3:16 | 2021-12-06 | 2022-07-22 |
-| [The Hype](https://open.spotify.com/track/0iDXZjWfvP5cq2uPZGMopG) | [Shopping](https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf) | [The Official Body](https://open.spotify.com/album/0UGj3rwdNVdSGKtiiquZoa) | 3:55 | 2022-06-16 |  |
+| [The Hype](https://open.spotify.com/track/0iDXZjWfvP5cq2uPZGMopG) | [Shopping](https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf) | [The Official Body](https://open.spotify.com/album/0UGj3rwdNVdSGKtiiquZoa) | 3:55 | 2022-06-16 | 2022-10-08 |
 | [The Hype](https://open.spotify.com/track/7zgfVkrjf2B9qWE1CUaXyr) | [Shopping](https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf) | [The Official Body](https://open.spotify.com/album/4CEqmpGgLXw879AIY9jBiI) | 3:55 | 2021-12-06 | 2022-07-27 |
 | [The Loser](https://open.spotify.com/track/7uVLrPYrICUJyFHX9vCSal) | [THUMPER](https://open.spotify.com/artist/1iMsLpQB3kldZ9s7pne7gP) | [The Loser](https://open.spotify.com/album/1o8QGaQl90YI8nEBnKzy6N) | 3:24 | 2022-03-11 | 2022-07-14 |
 | [The Spy Who Came In from the Cold](https://open.spotify.com/track/4ZnnSuZ3iZ0YpuSJ7SkSX1) | [Document](https://open.spotify.com/artist/3la0L81ZYVo9BpsOdzUaNc) | [The Spy Who Came In from the Cold](https://open.spotify.com/album/09pwWqBCXIbVof7jzrg9NM) | 4:37 | 2021-12-06 | 2022-07-26 |

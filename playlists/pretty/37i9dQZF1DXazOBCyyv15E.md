@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Sorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,630 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,659 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 4 | [Top Steppa](https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29) | 3:29 |
 | 5 | [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 |
 | 6 | [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 |
-| 7 | [BAD FRUIT\*](https://open.spotify.com/track/5QirdhgOB3p08AAyV2FT2k) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/7sVCyMEiulhdkWvRhZS8lp) | 3:26 |
+| 7 | [BAD FRUIT\*](https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:26 |
 | 8 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
 | 9 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
-| 10 | [Smoke and Fire](https://open.spotify.com/track/2OzufN5vywWP5gMRb2bkKm) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Smoke And Fire \(VTSS Remix\)](https://open.spotify.com/album/3spa4GdH5GBOmEId6gOOWm) | 3:39 |
+| 10 | [Smoke and Fire](https://open.spotify.com/track/2OzufN5vywWP5gMRb2bkKm) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Smoke And Fire](https://open.spotify.com/album/3spa4GdH5GBOmEId6gOOWm) | 3:39 |
 | 11 | [little things](https://open.spotify.com/track/01m94gvzukbNDEZGjjhx4R) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [little things](https://open.spotify.com/album/4VUImLdCRQZ7lDm8gqNrDL) | 2:45 |
 | 12 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 |
 | 13 | [Give Me A Reason](https://open.spotify.com/track/2ZCZc1R6mUTDKpy1O0rmTz) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Give Me A Reason](https://open.spotify.com/album/2Q3nPnB0WjJoWkJ25XB3SS) | 5:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 79 | [Hold My Wine](https://open.spotify.com/track/3M41VBmk1OHf0DNsBW4fSM) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Hold My Wine](https://open.spotify.com/album/1LbwnoUOmFjRdEUfkEXZaF) | 3:17 |
 | 80 | [Crying in the Club](https://open.spotify.com/track/440bHvLOgExwePapxmMtGI) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/3GuSAYm0w5TMJ6k0qeftwt) | 3:05 |
 
-Snapshot ID: `MTY2NTA5NzIwMCwwMDAwMDAwMDk5ZGRkNGEzNzEyMmQyYjgwZWFlOTFkYzI0YTM0YmNj`
+Snapshot ID: `MTY2NTE0NzEyNCwwMDAwMDAwMGFjMzFjYTdjNDQ2ZDA5NzBiYzhlNTkwYzJlZmQ5NWRl`

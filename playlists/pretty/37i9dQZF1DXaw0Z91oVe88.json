@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 1689,
+  "num_followers": 1696,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDllMDc2ODc1ZDNkMzNjM2QxOTMxMmE2YmU4MDFiMzgy",
+  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDJjZTU2OTY4YzdlZjQ0ZGE2Y2RlZDI3ZmQ5M2Q3MmFl",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "MERRY GO ROUND",
-        "url": "https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM"
-      },
-      "artists": [
-        {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "MERRY GO ROUND",
-      "url": "https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "Cold World",
         "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 208306,
       "name": "Cold World",
       "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "MERRY GO ROUND",
+        "url": "https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "MERRY GO ROUND",
+      "url": "https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "EVERYD4Y",
-        "url": "https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 221744,
-      "name": "RAINING",
-      "url": "https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "The Blowing",
         "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 190826,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "EVERYD4Y",
+        "url": "https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 221744,
+      "name": "RAINING",
+      "url": "https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+        "name": "#TUSM",
+        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
       },
       "artists": [
         {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
         }
       ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+      "duration_ms": 218902,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "#TUSM",
-        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
       "artists": [
         {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         }
       ],
-      "duration_ms": 218902,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71"
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2022-09-05 15:56:32",

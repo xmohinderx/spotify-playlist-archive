@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 770 likes - 85 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,811 likes - 85 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [\*〜アスタリスク〜](https://open.spotify.com/track/6MKOd8KDFzwpu8Vz6ccZU5) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [\*〜アスタリスク〜](https://open.spotify.com/album/3pkS4JGRAhXDI9kc9OouPH) | 4:15 |
-| 2 | [D\-tecnoLife](https://open.spotify.com/track/5Gd0Ge0KuIDF34HF0X2CYX) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [D\-tecnoLife](https://open.spotify.com/album/6ppa8cVg5a4GLPNJsyKBcr) | 3:53 |
-| 3 | [Number One \(vocal ver.\)](https://open.spotify.com/track/4BKetvTh5lMcIDlv9tYQgW) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 4:56 |
+| 2 | [Number One \(vocal ver.\)](https://open.spotify.com/track/4BKetvTh5lMcIDlv9tYQgW) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 4:56 |
+| 3 | [D\-tecnoLife](https://open.spotify.com/track/5Gd0Ge0KuIDF34HF0X2CYX) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [D\-tecnoLife](https://open.spotify.com/album/6ppa8cVg5a4GLPNJsyKBcr) | 3:53 |
 | 4 | [clavar la espada](https://open.spotify.com/track/4QRCdMTZegDH27rOUbOEFY) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 3:39 |
 | 5 | [一輪の花](https://open.spotify.com/track/1tlnwFt8rS8OgRl30xgUs3) | [HIGH and MIGHTY COLOR](https://open.spotify.com/artist/68vPeaQOlnY1aA3iBKCEpG) | [一輪の花](https://open.spotify.com/album/6aE2khy34s9yZo4kSGcZ0C) | 3:42 |
 | 6 | [TONIGHT,TONIGHT,TONIGHT](https://open.spotify.com/track/3Nq8bUC45N7u3NQ2EkFVZp) | [BEAT CRUSADERS](https://open.spotify.com/artist/30W3lzQdQnTAtkvJ9Rx21l) | [TONIGHT,TONIGHT,TONIGHT](https://open.spotify.com/album/52niPx7VX8RJM89WtqHK77) | 2:50 |
-| 7 | [never meant to belong](https://open.spotify.com/track/0CCt7uzp4MBYR85wugmkGa) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 5:26 |
-| 8 | [Rolling star](https://open.spotify.com/track/2Z4850ifGB2hDXtnoicpzd) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [Rolling star](https://open.spotify.com/album/0TAU4czk8somNU9Ms6tT08) | 3:10 |
-| 9 | [ALONES](https://open.spotify.com/track/0iy10nabE2s3PtReQqCGrY) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [ALONES](https://open.spotify.com/album/5naYuVLG3O0pRkknlgJ8zu) | 4:21 |
-| 10 | [アフターダーク](https://open.spotify.com/track/0Vi1fapWC79Y6B07IzOLKe) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [アフターダーク](https://open.spotify.com/album/18AQW3eQ8Gxa7up0hKujZt) | 3:13 |
-| 11 | [Nothing Can Be Explained \(vocal ver.\)](https://open.spotify.com/track/0XZV1dLrhHyWGFuv87U9ZZ) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 3:27 |
-| 12 | [CHU\-BURA](https://open.spotify.com/track/1QhuzdwZoBRosGL23nuO6N) | [KELUN](https://open.spotify.com/artist/6nteBNcTu3uxmOYz2Iro7o) | [CHU\-BURA](https://open.spotify.com/album/6MutdUcjr79lhdEDSpeOtM) | 4:34 |
-| 13 | [Velonica](https://open.spotify.com/track/0qsZemzQ2trp3wWTFneGK7) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [Velonica](https://open.spotify.com/album/6LTKJHWF8M5i7CJjsNbTtr) | 4:40 |
-| 14 | [少女S](https://open.spotify.com/track/52h36YHQlTnwRh3ChfJstO) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [少女S\[通常盤\]](https://open.spotify.com/album/3HtH55kg3nfkrsWug40v91) | 3:14 |
-| 15 | [アニマロッサ](https://open.spotify.com/track/499EmNfEbymVqb37Cyc8B1) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [アニマロッサ](https://open.spotify.com/album/7lPORJSusoy1pcESNm7qG6) | 4:33 |
-| 16 | [chAngE](https://open.spotify.com/track/4dW80zBgl9BfWxi5upKgt1) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [chAngE](https://open.spotify.com/album/1ZHD1VLdV9IiCOhCX7ebew) | 4:09 |
-| 17 | [battle ignition](https://open.spotify.com/track/6T6xEPaxr2vhZUx2Vriipb) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:15 |
+| 7 | [battle ignition](https://open.spotify.com/track/6T6xEPaxr2vhZUx2Vriipb) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:15 |
+| 8 | [never meant to belong](https://open.spotify.com/track/0CCt7uzp4MBYR85wugmkGa) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 5:26 |
+| 9 | [Nothing Can Be Explained \(vocal ver.\)](https://open.spotify.com/track/0XZV1dLrhHyWGFuv87U9ZZ) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 3:27 |
+| 10 | [Rolling star](https://open.spotify.com/track/2Z4850ifGB2hDXtnoicpzd) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [Rolling star](https://open.spotify.com/album/0TAU4czk8somNU9Ms6tT08) | 3:10 |
+| 11 | [ALONES](https://open.spotify.com/track/0iy10nabE2s3PtReQqCGrY) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [ALONES](https://open.spotify.com/album/5naYuVLG3O0pRkknlgJ8zu) | 4:21 |
+| 12 | [アフターダーク](https://open.spotify.com/track/0Vi1fapWC79Y6B07IzOLKe) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [アフターダーク](https://open.spotify.com/album/18AQW3eQ8Gxa7up0hKujZt) | 3:13 |
+| 13 | [CHU\-BURA](https://open.spotify.com/track/1QhuzdwZoBRosGL23nuO6N) | [KELUN](https://open.spotify.com/artist/6nteBNcTu3uxmOYz2Iro7o) | [CHU\-BURA](https://open.spotify.com/album/6MutdUcjr79lhdEDSpeOtM) | 4:34 |
+| 14 | [Velonica](https://open.spotify.com/track/0qsZemzQ2trp3wWTFneGK7) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [Velonica](https://open.spotify.com/album/6LTKJHWF8M5i7CJjsNbTtr) | 4:40 |
+| 15 | [少女S](https://open.spotify.com/track/52h36YHQlTnwRh3ChfJstO) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [少女S\[通常盤\]](https://open.spotify.com/album/3HtH55kg3nfkrsWug40v91) | 3:14 |
+| 16 | [アニマロッサ](https://open.spotify.com/track/499EmNfEbymVqb37Cyc8B1) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [アニマロッサ](https://open.spotify.com/album/7lPORJSusoy1pcESNm7qG6) | 4:33 |
+| 17 | [chAngE](https://open.spotify.com/track/4dW80zBgl9BfWxi5upKgt1) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [chAngE](https://open.spotify.com/album/1ZHD1VLdV9IiCOhCX7ebew) | 4:09 |
 | 18 | [storm center](https://open.spotify.com/track/7Ir9GcqSFOia9kDi0VA0DM) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:39 |
 | 19 | [乱舞のメロディ](https://open.spotify.com/track/3tlwwAlfCnL7f2Qt2LtDzX) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [乱舞のメロディ](https://open.spotify.com/album/7J3KR0nRDD31GGVDEBsrWG) | 3:53 |
 | 20 | [BLUE](https://open.spotify.com/track/4phLBzxRyYBTD2YxDUOJVD) | [Vivid](https://open.spotify.com/artist/0YL9iarD6vecICF3Yt3eOd) | [BLUE](https://open.spotify.com/album/787wjByNCZsg7koAlqO0AY) | 3:26 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 | 72 | [Always be with me in mind](https://open.spotify.com/track/1LHCYacwsOlAvYXagFZ4oZ) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH MEMORIES OF NOBODY Original Soundtrack](https://open.spotify.com/album/1MmE3q7RvR68CPYb5hdNrf) | 4:17 |
 | 73 | [光のロック](https://open.spotify.com/track/2Y7e5ZGMmNnjc55KonC6Hf) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [光のロック](https://open.spotify.com/album/7GE46fDbJyWuxIWGzpPdXV) | 4:06 |
 | 74 | [Treachery](https://open.spotify.com/track/6a7su3dkJJXidSuFiowJC2) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH The DiamondDust Rebellion Original Soundtrack](https://open.spotify.com/album/4meZrOeVxoej2MOhVo1suB) | 3:22 |
-| 75 | [invasion](https://open.spotify.com/track/5oI2M93Zr2TcFGqIyFuLJ1) | [ostbaby](https://open.spotify.com/artist/0OVFU89aj88ofzPqOeBwm2) | [ost vol 1](https://open.spotify.com/album/2Z4MhctNcFHwacDmWTzj9V) | 2:51 |
+| 75 | [Invasion](https://open.spotify.com/track/2tnd8PSXUGwoVX5WY2SU1B) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH The DiamondDust Rebellion Original Soundtrack](https://open.spotify.com/album/4meZrOeVxoej2MOhVo1suB) | 2:50 |
 | 76 | [今宵、月が見えずとも](https://open.spotify.com/track/0rNysp5uBt1r5eMKzTXeR2) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [今宵、月が見えずとも](https://open.spotify.com/album/2pRwJeh7LywvfsQ11SPx4M) | 4:16 |
 | 77 | [Stand Up Be Strong \(Pt\. I\)](https://open.spotify.com/track/72ipPCGWlVXLbh7rZNwh26) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH Fade to Black Original Soundtrack](https://open.spotify.com/album/7nF6pqES1y12VrEnXaGAdk) | 2:24 |
 | 78 | [Suite "Going Home" 1st Mouvement: Cello&Orchestra](https://open.spotify.com/track/2OfHtuzjLA2hYqOwM3K8YG) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH Fade to Black Original Soundtrack](https://open.spotify.com/album/7nF6pqES1y12VrEnXaGAdk) | 1:50 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 | 84 | ["Lucifers Dance" Pt\. C\_Opus1](https://open.spotify.com/track/38Xuwj65wMbRQ1o9vod1vc) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH 地獄篇 Original Soundtrack](https://open.spotify.com/album/2amXaDYmaBRSsWGhfRGEqZ) | 1:25 |
 | 85 | [La distancia para un duelo](https://open.spotify.com/track/3c391J2d1gnfL0qbjqbPA6) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:57 |
 
-Snapshot ID: `MTY2NTA2ODQwMCwwMDAwMDAwMGYyMjNkMzg0MDEwYTAzNjVkODYxZDQ3ODYyMTJjN2Qy`
+Snapshot ID: `MTY2NTEyMzg1OCwwMDAwMDAwMGI0ZTFjNjk2YjM3YmJjMDhhOThlMjM2NTllMDMwODVl`

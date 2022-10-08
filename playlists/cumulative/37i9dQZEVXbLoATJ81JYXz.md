@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,010 songs - 2 day 5 hr 17 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+1,011 songs - 2 day 5 hr 20 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [30 personer](https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [30 personer](https://open.spotify.com/album/5AH0bUliZFOouNs1xoDNZ1) | 2:49 | 2022-01-22 | 2022-03-01 |
 | [365](https://open.spotify.com/track/5pgOoj7TbVdJg2CQr7DY2B) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:29 | 2021-10-03 | 2021-10-11 |
 | [4](https://open.spotify.com/track/1SGweEqQ6DbMye9qAGSbq2) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 3:35 | 2022-05-28 | 2022-05-30 |
+| [4 grabbar](https://open.spotify.com/track/5BtXbZ4dArIaZka8pNzSp0) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [4 grabbar](https://open.spotify.com/album/482jRh8WulwsYwi4iiUwVa) | 2:24 | 2022-10-07 |  |
 | [458](https://open.spotify.com/track/6Eug49joEqS3HOrduV5TxD) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 3:06 | 2021-10-03 | 2021-10-17 |
 | [5AM](https://open.spotify.com/track/69eo1z40ivxcT5oMkX5peC) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wow 2](https://open.spotify.com/album/4KXjjprbUmEVaQfw0OERWW) | 3:48 | 2021-10-17 | 2021-10-31 |
 | [90\-talet](https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [90\-talet](https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn) | 2:56 | 2021-03-27\* | 2021-04-14 |
@@ -870,7 +871,7 @@
 | [TALLRIKAR](https://open.spotify.com/track/5zjNDusjYWILUVJ3yV6XZK) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [MYROR I BRALLAN](https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt) | 2:41 | 2022-02-05 | 2022-02-20 |
 | [TANKAR](https://open.spotify.com/track/6v4p9AaVYr1TSosk4XuEX4) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [TANKAR](https://open.spotify.com/album/2aMwW3DkqmhrdkyK5wQTp6) | 2:51 | 2021-10-31 | 2021-11-21 |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-10-01 |  |
-| [Tar hand om dig](https://open.spotify.com/track/2GcKDi81Fn68QAnwWV0E6j) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Tar hand om dig](https://open.spotify.com/album/2efLOVdyxvkHRcPjLXOHEv) | 3:06 | 2022-10-01 |  |
+| [Tar hand om dig](https://open.spotify.com/track/2GcKDi81Fn68QAnwWV0E6j) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Tar hand om dig](https://open.spotify.com/album/2efLOVdyxvkHRcPjLXOHEv) | 3:06 | 2022-10-01 | 2022-10-08 |
 | [Tarzan](https://open.spotify.com/track/3gUZ8NErOBEHrixX9Hkpdt) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [PRICELESS](https://open.spotify.com/album/6PxUXGR120hMiXAozmB29G) | 3:21 | 2021-03-27\* | 2021-03-27 |
 | [Team 2 much](https://open.spotify.com/track/7bSN1NwVdOTVNUKuwzj6ev) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Team 2 much](https://open.spotify.com/album/6QSDohjNFcchOA3sIZcJFY) | 2:43 | 2022-06-04 | 2022-06-19 |
 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 | 2021-07-18 | 2021-07-19 |

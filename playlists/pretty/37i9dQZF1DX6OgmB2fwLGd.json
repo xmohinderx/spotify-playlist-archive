@@ -1,13 +1,29 @@
 {
   "description": "The soundtrack to the internet. Cover: Yeat",
-  "num_followers": 1245181,
+  "num_followers": 1245807,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAxMTIxMCwwMDAwMDAwMGM0YjRjMTI1NTJmODIzOGRhMWJlY2VhZTAyMzg1Yzc3",
+  "snapshot_id": "MTY2NTEyODg4MCwwMDAwMDAwMDcwZjhlODNmY2RiODFhZTU4OWI5ODc5ZTdlMmI2ODlm",
   "tracks": [
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
+    },
     {
       "added_at": "2022-10-05 23:06:30",
       "album": {
@@ -49,40 +65,52 @@
       "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
     },
     {
-      "added_at": "2022-07-18 23:52:57",
+      "added_at": "2022-10-07 07:48:00",
       "album": {
-        "name": "AWKWARD FREESTYLE",
-        "url": "https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV"
-      },
-      "artists": [
-        {
-          "name": "Eem Triplin",
-          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
-        }
-      ],
-      "duration_ms": 127764,
-      "name": "AWKWARD FREESTYLE",
-      "url": "https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "BACK IN ACTION 3.0",
-        "url": "https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM"
+        "name": "Slide Den",
+        "url": "https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT"
       },
       "artists": [
         {
           "name": "midwxst",
           "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        },
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
         }
       ],
-      "duration_ms": 133136,
-      "name": "223's (feat. BabyTron)",
-      "url": "https://open.spotify.com/track/2Gn3xsO0hacXJy1Z2EHrgm"
+      "duration_ms": 175774,
+      "name": "Slide Den",
+      "url": "https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR"
+    },
+    {
+      "added_at": "2022-10-07 07:48:00",
+      "album": {
+        "name": "LANCEY OR LANCEY",
+        "url": "https://open.spotify.com/album/3alcAKi7iaI5b358FiqOWS"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "LANCEY OR LANCEY",
+      "url": "https://open.spotify.com/track/0r9dAIY2lowD2Ao1Fsrkk7"
+    },
+    {
+      "added_at": "2022-10-07 07:48:00",
+      "album": {
+        "name": "top gun",
+        "url": "https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 141133,
+      "name": "top gun",
+      "url": "https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq"
     },
     {
       "added_at": "2022-10-04 19:51:07",
@@ -103,22 +131,6 @@
       "duration_ms": 117000,
       "name": "KAPITOL DENIM",
       "url": "https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
     },
     {
       "added_at": "2022-07-16 17:02:15",
@@ -157,6 +169,46 @@
       "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
     },
     {
+      "added_at": "2022-07-18 23:52:57",
+      "album": {
+        "name": "AWKWARD FREESTYLE",
+        "url": "https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "duration_ms": 127764,
+      "name": "AWKWARD FREESTYLE",
+      "url": "https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2"
+    },
+    {
+      "added_at": "2022-10-07 07:48:00",
+      "album": {
+        "name": "EVERYBODY",
+        "url": "https://open.spotify.com/album/6JXeEy3qxi7BLLNJn9dRCH"
+      },
+      "artists": [
+        {
+          "name": "JIMMY EDGAR",
+          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
+        },
+        {
+          "name": "10k.Caash",
+          "url": "https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp"
+        },
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        }
+      ],
+      "duration_ms": 154318,
+      "name": "EVERYBODY",
+      "url": "https://open.spotify.com/track/5Q5RJCG2wLQO5Y6ZrGjuqE"
+    },
+    {
       "added_at": "2022-07-12 19:16:39",
       "album": {
         "name": "Hotel",
@@ -171,22 +223,6 @@
       "duration_ms": 155350,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF"
-    },
-    {
-      "added_at": "2022-09-12 19:59:46",
-      "album": {
-        "name": "Baby Shark",
-        "url": "https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ"
-      },
-      "artists": [
-        {
-          "name": "RALAN STYLES",
-          "url": "https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY"
-        }
-      ],
-      "duration_ms": 156059,
-      "name": "Baby Shark",
-      "url": "https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB"
     },
     {
       "added_at": "2022-09-09 18:16:09",
@@ -221,40 +257,56 @@
       "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
     },
     {
-      "added_at": "2022-06-17 17:10:01",
+      "added_at": "2022-10-07 07:48:00",
       "album": {
-        "name": "Die Young (feat. 347aidan)",
-        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
+        "name": "HABITS",
+        "url": "https://open.spotify.com/album/1Id0Mj1E6NyiwBmRjFskD9"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+          "name": "whiterosemoxie",
+          "url": "https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV"
         }
       ],
-      "duration_ms": 148816,
-      "name": "Die Young (feat. 347aidan)",
-      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+      "duration_ms": 170767,
+      "name": "CALL!",
+      "url": "https://open.spotify.com/track/6nGnG6NsO77qRkXa9eqDna"
     },
     {
-      "added_at": "2022-07-01 09:18:00",
+      "added_at": "2022-09-12 19:59:46",
       "album": {
-        "name": "Punk Tactics",
-        "url": "https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH"
+        "name": "Baby Shark",
+        "url": "https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ"
       },
       "artists": [
         {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+          "name": "RALAN STYLES",
+          "url": "https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY"
         }
       ],
-      "duration_ms": 143552,
-      "name": "Punk Tactics",
-      "url": "https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy"
+      "duration_ms": 156059,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "BACK IN ACTION 3.0",
+        "url": "https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 133136,
+      "name": "223's (feat. BabyTron)",
+      "url": "https://open.spotify.com/track/2Gn3xsO0hacXJy1Z2EHrgm"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -309,6 +361,22 @@
       "url": "https://open.spotify.com/track/03ThZweiBWFP8tOGsk6QMO"
     },
     {
+      "added_at": "2022-10-07 07:48:00",
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 157779,
+      "name": "G\u00ebt Busy",
+      "url": "https://open.spotify.com/track/20O48JTG6O46tPAuZbliRA"
+    },
+    {
       "added_at": "2022-08-31 03:01:24",
       "album": {
         "name": "you're a parasite",
@@ -347,22 +415,6 @@
       "duration_ms": 208539,
       "name": "Dump It Dummy (feat. 2rare)",
       "url": "https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
-        "name": "TURN IT UP",
-        "url": "https://open.spotify.com/album/6mdPxVCQqK8BssQRF0zNZh"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 202515,
-      "name": "TURN IT UP",
-      "url": "https://open.spotify.com/track/0uUljDsi9o1MXjReM6uLzz"
     },
     {
       "added_at": "2022-09-27 21:07:41",
@@ -415,34 +467,6 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
-        "name": "MIDNIGHT",
-        "url": "https://open.spotify.com/album/5l7cOhvgltRPUTJlkZlXee"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Matt Ox",
-          "url": "https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r"
-        }
-      ],
-      "duration_ms": 183410,
-      "name": "LOCK IT UP (feat. Yeat, midwxst & Matt Ox)",
-      "url": "https://open.spotify.com/track/3LkWdvgrJtFuM0ZoXKPlpH"
     },
     {
       "added_at": "2022-08-29 14:30:04",
@@ -547,6 +571,22 @@
       "duration_ms": 159452,
       "name": "Demon Time (feat. Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/1hE8iI3YK9x1VUBDtSzg3x"
+    },
+    {
+      "added_at": "2022-10-07 07:48:00",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/57Ns6doMMJBlNjy1nnYy4e"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/2CHVJkpUoIgz5vt8uX53gG"
     },
     {
       "added_at": "2022-07-22 07:00:00",
@@ -1655,22 +1695,6 @@
       "duration_ms": 137090,
       "name": "Prettiest Problem",
       "url": "https://open.spotify.com/track/4xJGDw3NuNpfzIluJjAoye"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
-        "name": "piccolo",
-        "url": "https://open.spotify.com/album/7mwlACYa6uAssuCnKPxHId"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 120133,
-      "name": "piccolo",
-      "url": "https://open.spotify.com/track/0b7C1NzdU4gz5CaNzBtuuk"
     },
     {
       "added_at": "2022-08-23 22:47:23",

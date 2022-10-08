@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 317834,
       "name": "Algae and Fungi part 2",
       "url": "https://open.spotify.com/track/0qveDw5Qx1zn1StsX81HvJ"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 193660,
       "name": "As Pale as a Pearl",
       "url": "https://open.spotify.com/track/06aJtZTTyz4gfBOKfhaNys"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 107133,
       "name": "As the Sun Kissed the Horizon",
       "url": "https://open.spotify.com/track/7k1SYL49hsMcFgIPsG0FmO"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 304831,
       "name": "Baby Satellite",
       "url": "https://open.spotify.com/track/0TvD9dSrJQ0T3ZNJjLep9Y"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 308175,
       "name": "Black Lamb and Grey Falcon",
       "url": "https://open.spotify.com/track/0lhkLqfUNI2B4eCpsp12B8"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 363903,
       "name": "Decryption",
       "url": "https://open.spotify.com/track/0xlN3TAg9tMkuALgL0bsno"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 259706,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/5xgAiOzfGQIDB4H12rnFbL"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 211052,
       "name": "Green Reflections",
       "url": "https://open.spotify.com/track/2IydONo9wzrZ7aQLQVzHf9"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 398306,
       "name": "Iberia Eterea",
       "url": "https://open.spotify.com/track/64O74NcCUUafwf3wmoVisX"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 413386,
       "name": "Journey To The Centre Of The First, Pt. 1",
       "url": "https://open.spotify.com/track/280pz3FHXp82OZzls1lyvH"
@@ -1005,6 +1005,24 @@
       "duration_ms": 331120,
       "name": "Joyo",
       "url": "https://open.spotify.com/track/75AKiSgU8tTI2z8J1Qf1IT"
+    },
+    {
+      "album": {
+        "name": "Patashnik 2",
+        "url": "https://open.spotify.com/album/04ANZprt8yrZI5Ht6SwXyV"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93500,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/6UAI6i1BLXg9bFODQIRAod"
     },
     {
       "album": {
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 410506,
       "name": "Katedra Botaniki",
       "url": "https://open.spotify.com/track/79QCazp5Yy0bmPx908uqbz"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 432600,
       "name": "Kobresia",
       "url": "https://open.spotify.com/track/5O6MFTh1rd9PeN8XEn1yCS"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 161706,
       "name": "Monju-1",
       "url": "https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 480866,
       "name": "Sendai-1",
       "url": "https://open.spotify.com/track/222FcNSefEQFkhSHAr1vI0"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 216000,
       "name": "Shruthi-12",
       "url": "https://open.spotify.com/track/5Pj97U0Th7h0vl6TknY4YN"
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 192855,
       "name": "Strigiformes",
       "url": "https://open.spotify.com/track/7a3CqfeqPJwP6GJWyAMncI"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 205432,
       "name": "Talking to Some Imaginary Person",
       "url": "https://open.spotify.com/track/1xcpQJjF2TLxzCmQIIZPyY"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 534430,
       "name": "The Shield",
       "url": "https://open.spotify.com/track/5dmviv6oMhKDHSUiI2AX0a"
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 291828,
       "name": "Too Fragile to Walk On",
       "url": "https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 498021,
       "name": "Tranquillizer",
       "url": "https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ"

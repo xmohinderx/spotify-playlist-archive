@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 166814,
+  "num_followers": 166899,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDg5ZjcxODY3OTg4YTQ4ZDQ1M2Q0MTZlNzFlNzY0ZjZi",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDc5YmUyMGEyMzdkN2FhZDM5NTI5YmMyNTVmZDZmN2U3",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -219,22 +219,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Death Knows Your Name",
-        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
-      },
-      "artists": [
-        {
-          "name": "The Hope Conspiracy",
-          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Animal Farm",
-      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Voice of Rebellion",
         "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 241343,
       "name": "Voice of Rebellion",
       "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Death Knows Your Name",
+        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
+      },
+      "artists": [
+        {
+          "name": "The Hope Conspiracy",
+          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -267,18 +267,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Forever True (1991-2001)",
-        "url": "https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh"
+        "name": "Cognicide",
+        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
       },
       "artists": [
         {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+          "name": "Western Addiction",
+          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
         }
       ],
-      "duration_ms": 231600,
-      "name": "Firestorm",
-      "url": "https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M"
+      "duration_ms": 97266,
+      "name": "Mailer, Meet Jim",
+      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -315,34 +315,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Cognicide",
-        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
+        "name": "Forever True (1991-2001)",
+        "url": "https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh"
       },
       "artists": [
         {
-          "name": "Western Addiction",
-          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
         }
       ],
-      "duration_ms": 97266,
-      "name": "Mailer, Meet Jim",
-      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "What Doesn't Kill You Will Make You Stronger",
-        "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
-      },
-      "artists": [
-        {
-          "name": "Candiria",
-          "url": "https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp"
-        }
-      ],
-      "duration_ms": 196720,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
+      "duration_ms": 231600,
+      "name": "Firestorm",
+      "url": "https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -363,18 +347,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Everything You Know",
-        "url": "https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx"
+        "name": "What Doesn't Kill You Will Make You Stronger",
+        "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
       },
       "artists": [
         {
-          "name": "Wisdom In Chains",
-          "url": "https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd"
+          "name": "Candiria",
+          "url": "https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp"
         }
       ],
-      "duration_ms": 203440,
-      "name": "Chasing the Dragon",
-      "url": "https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy"
+      "duration_ms": 196720,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -391,6 +375,22 @@
       "duration_ms": 156693,
       "name": "Thorn In My Side",
       "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Everything You Know",
+        "url": "https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx"
+      },
+      "artists": [
+        {
+          "name": "Wisdom In Chains",
+          "url": "https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Chasing the Dragon",
+      "url": "https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -427,18 +427,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+        "name": "For Those Who Were Crucified",
+        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
       },
       "artists": [
         {
-          "name": "Death Before Dishonor",
-          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+          "name": "All Out War",
+          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
         }
       ],
-      "duration_ms": 181226,
-      "name": "Break Through It All",
-      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
+      "duration_ms": 116173,
+      "name": "Burning Season",
+      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -459,6 +459,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Death Before Dishonor",
+          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Break Through It All",
+      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "In This Defiance",
         "url": "https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 147186,
       "name": "Blistered",
       "url": "https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "For Those Who Were Crucified",
-        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
-      },
-      "artists": [
-        {
-          "name": "All Out War",
-          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Burning Season",
-      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
-      },
-      "artists": [
-        {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
-        }
-      ],
-      "duration_ms": 144413,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Silence Is Betrayal",
         "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 53168,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Bulldog Edition",
+        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
+      },
+      "artists": [
+        {
+          "name": "Sheer Terror",
+          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+        }
+      ],
+      "duration_ms": 144413,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
     },
     {
       "added_at": "2020-12-08 15:12:11",

@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Jessie Reyez
 
-523 songs - 1 day 3 hr 27 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+525 songs - 1 day 3 hr 33 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Grow Up Tomorrow](https://open.spotify.com/track/6Anf5eqLfGEKoGy0iaKAOb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/12o1WJaINpfED7QgO1qR6A) | 3:12 | 2022-08-03 | 2022-09-09 |
 | [Gucci Store](https://open.spotify.com/track/1tQ6N1dQiXepKnjetWVsAc) | [Prado](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq) | [Gucci Store](https://open.spotify.com/album/3xxp6GqKMcwBT41XQmad9w) | 2:02 | 2022-06-01 | 2022-07-07 |
 | [GUCCI STORE](https://open.spotify.com/track/59kt49byEHeCA7lXDLolu0) | [Prado](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq) | [PRADO MONROE](https://open.spotify.com/album/1glnddunjz2TgTrx8wF3ZO) | 2:02 | 2022-02-02 | 2022-03-09 |
+| [HABIBI \(MY LOVE\)](https://open.spotify.com/track/7IZ5mUwsHLULx7vTHLzIHE) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [HABIBI \(MY LOVE\)](https://open.spotify.com/album/27wb1fwl2aMDdmoUOCaQY3) | 2:29 | 2022-10-07 |  |
 | [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 3:24 | 2022-06-01 | 2022-07-07 |
 | [happy for you](https://open.spotify.com/track/58JEM46kOOvgUGUS0O7tj5) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [MISS SICK WORLD](https://open.spotify.com/album/2vyaeH9ozMPm8wGDAHq4yf) | 3:00 | 2022-01-05 | 2022-02-03 |
 | [Happy With Me](https://open.spotify.com/track/5c26M7Mc2XFzvR1gBOJcIP) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Happy With Me](https://open.spotify.com/album/49Xy2MqV2IrfFEOiq8lOaG) | 2:24 | 2022-06-01 | 2022-07-07 |
@@ -519,6 +520,7 @@
 | [Where Did You Sleep Last Night?](https://open.spotify.com/track/3ctIwAIOQNaTucjcrcSoqO) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Where Did You Sleep Last Night?](https://open.spotify.com/album/6ACJ0s5zMeAGRWqklqoBj2) | 4:52 | 2022-08-03 | 2022-10-06 |
 | [Whiskey Ain't Working](https://open.spotify.com/track/570SMCquPnDBam4v2Myesq) | [Chelsie Young](https://open.spotify.com/artist/0gkihtfmb0Fjsu65gTe9L1) | [Whiskey Ain't Working](https://open.spotify.com/album/5xsv8Nbnfx1zbdERAvtoPN) | 3:28 | 2022-09-07 | 2022-10-06 |
 | [Whisky](https://open.spotify.com/track/5K3AIgBhm5WjJj1DMulK7v) | [Véronique Labbé](https://open.spotify.com/artist/5n2DEamuK1JpqzZDuGAYVQ) | [Honky Tonk Bar](https://open.spotify.com/album/5oAGE97uhvE7OKfffJYB7B) | 3:36 | 2022-09-07 | 2022-10-06 |
+| [Whitney](https://open.spotify.com/track/0zJBJSTeGKZuXOnVyFxkjd) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Whitney](https://open.spotify.com/album/61M0m1vZBq2Tj7m2R7dPKE) | 3:11 | 2022-10-07 |  |
 | [whose fault](https://open.spotify.com/track/24bEwSczFXVlFyqfAHQfls) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [whose fault](https://open.spotify.com/album/5XcLFnMT5SBsTVfAwm5Vl0) | 2:06 | 2022-06-01 | 2022-07-07 |
 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 | 2022-05-04 | 2022-06-01 |
 | [WISH U PICKED ME…](https://open.spotify.com/track/1jL1WlEx5i1mLxrNpYxN8Y) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [19 MASTERS](https://open.spotify.com/album/71XSXeqU8507mW0raHyeUN) | 2:45 | 2022-07-06 | 2022-08-04 |

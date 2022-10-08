@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc?si=tMVZ\_lNiSIiRlAkXEqcWXg">Khanyisa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,106 likes - 80 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,707 likes - 80 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover: Social Club Misfits",
+  "description": "The best of Christian Hip Hop today.  Cover: 1K Phew",
   "name": "The Flow",
   "published_playlist_ids": [
     "5C9jrTdmQ9Yxn8FPYTBuYY"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 181846,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB"
@@ -4012,6 +4012,28 @@
     },
     {
       "album": {
+        "name": "As I Am",
+        "url": "https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119209,
+      "name": "Father Abraham",
+      "url": "https://open.spotify.com/track/2luFEc1iqWhF21bdcbXpTR"
+    },
+    {
+      "album": {
         "name": "Father Forgive Us",
         "url": "https://open.spotify.com/album/5UdkDwxRkETEh4yVrbuCS3"
       },
@@ -5185,6 +5207,24 @@
       "duration_ms": 160000,
       "name": "Hard Life",
       "url": "https://open.spotify.com/track/1nwX36WCJWiPChGGIxswan"
+    },
+    {
+      "album": {
+        "name": "haters hate. (original version)",
+        "url": "https://open.spotify.com/album/5nWdF1gL5bKwN7kYANHhvH"
+      },
+      "artists": [
+        {
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193411,
+      "name": "haters hate. - original version",
+      "url": "https://open.spotify.com/track/1pU647a4qBFuZopQiDGyUM"
     },
     {
       "album": {
@@ -7661,7 +7701,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 158522,
       "name": "Mobbin'",
       "url": "https://open.spotify.com/track/0Zkf62cIbqiRhDMB2GYOaY"

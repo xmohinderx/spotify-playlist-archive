@@ -1464,6 +1464,28 @@
     },
     {
       "album": {
+        "name": "vendetta! (sped up)",
+        "url": "https://open.spotify.com/album/1GDSQLmbj33GGdfyl8hKw6"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91582,
+      "name": "vendetta! - sped up",
+      "url": "https://open.spotify.com/track/0D45ixbwxjkT4S7V1kpt5y"
+    },
+    {
+      "album": {
         "name": "Wannabe (Sped Up Version)",
         "url": "https://open.spotify.com/album/78cUelBdPNPOmQ5IumegJQ"
       },

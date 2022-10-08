@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 415608,
+  "num_followers": 415661,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGFmZGRmNTYzNTFiZGU4ZWFkODhhNWQ4MzRjYzhlNTE5",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDIyNmJlZGRkYWUzY2JkM2UxNWY5NTJkNTQzNmY4YWVj",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/6rVUQtUjLguzMmdCIcy1A4"
+      },
+      "artists": [
+        {
+          "name": "Ash Radford",
+          "url": "https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "She",
+      "url": "https://open.spotify.com/track/2QQl8r7xYRQgqRA1UOHjWH"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Lover's Game",
@@ -39,22 +55,6 @@
       "duration_ms": 169569,
       "name": "Lover's Game",
       "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -93,20 +93,20 @@
       "url": "https://open.spotify.com/track/0vOTVTfIG7e0FihbmfB72d"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "May Be the Last Time",
-        "url": "https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "John N\u00e9meth",
-          "url": "https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 215760,
-      "name": "The Last Time",
-      "url": "https://open.spotify.com/track/7MTUA6kke0Q1p86I2XQL34"
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -123,22 +123,6 @@
       "duration_ms": 197426,
       "name": "Hands To Myself",
       "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Wreckage, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/3TtOISH2vi1m9vR3xYlLS6"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 210546,
-      "name": "Dark Roses (Live From Sunset Sound)",
-      "url": "https://open.spotify.com/track/6U685GBNARP2yH1ZIsIui3"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -271,6 +255,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "aloha",
+        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 221476,
+      "name": "neve give up",
+      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Good To You",
         "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 248386,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "aloha",
-        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 221476,
-      "name": "neve give up",
-      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -413,22 +397,6 @@
       "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "stripped back (Stripped Back)",
@@ -443,6 +411,22 @@
       "duration_ms": 180500,
       "name": "Eastham Prison Farm Blues - Stripped Back",
       "url": "https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -477,6 +461,22 @@
       "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
     },
     {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Get Real High",
+        "url": "https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 247380,
+      "name": "Get Real High",
+      "url": "https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk"
+    },
+    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "TajMo",
@@ -495,22 +495,6 @@
       "duration_ms": 268346,
       "name": "Diving Duck Blues",
       "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Get Real High",
-        "url": "https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 247380,
-      "name": "Get Real High",
-      "url": "https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -613,22 +597,6 @@
       "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "That's How Love Is Made",
-        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "That's How Love Is Made",
-      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Rubber Factory",
@@ -643,6 +611,22 @@
       "duration_ms": 294933,
       "name": "The Lengths",
       "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "That's How Love Is Made",
+        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "That's How Love Is Made",
+      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -833,22 +817,6 @@
       "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "S\u00edminn+Spotify Session",
-        "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
-      },
-      "artists": [
-        {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
-        }
-      ],
-      "duration_ms": 352720,
-      "name": "Neon Experience - Live from Vatnagar\u00f0ar",
-      "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Thinking 'Bout Myself",
@@ -871,6 +839,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "S\u00edminn+Spotify Session",
+        "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "duration_ms": 352720,
+      "name": "Neon Experience - Live from Vatnagar\u00f0ar",
+      "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Colors (Acoustic)",
         "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
       },
@@ -883,22 +867,6 @@
       "duration_ms": 323008,
       "name": "Colors - Acoustic",
       "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -919,22 +887,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Black Hole Rainbow",
-        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 244536,
-      "name": "Unchained",
-      "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -947,6 +899,38 @@
       "duration_ms": 223490,
       "name": "Savior",
       "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Black Hole Rainbow",
+        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 244536,
+      "name": "Unchained",
+      "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1069,6 +1053,22 @@
       "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Have A Ball",
+        "url": "https://open.spotify.com/album/2DxhN63gMkdmNEMrCGn2AT"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 144985,
+      "name": "Have A Ball",
+      "url": "https://open.spotify.com/track/0M5ulWgUKiuyaVbs4h3jCI"
+    },
+    {
       "added_at": "2022-07-26 14:55:05",
       "album": {
         "name": "Bloodline Maintenance",
@@ -1083,22 +1083,6 @@
       "duration_ms": 187027,
       "name": "More Than Love",
       "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Shake the Roots",
-        "url": "https://open.spotify.com/album/4ZNwi2nsWvXS22Mzdh4Zrd"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        }
-      ],
-      "duration_ms": 217365,
-      "name": "Hard Learned",
-      "url": "https://open.spotify.com/track/4qVesVecQYAJE6e7Pkwpcz"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1117,20 +1101,20 @@
       "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Have A Ball",
-        "url": "https://open.spotify.com/album/2DxhN63gMkdmNEMrCGn2AT"
+        "name": "Shake the Roots",
+        "url": "https://open.spotify.com/album/4ZNwi2nsWvXS22Mzdh4Zrd"
       },
       "artists": [
         {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
         }
       ],
-      "duration_ms": 144985,
-      "name": "Have A Ball",
-      "url": "https://open.spotify.com/track/0M5ulWgUKiuyaVbs4h3jCI"
+      "duration_ms": 217365,
+      "name": "Hard Learned",
+      "url": "https://open.spotify.com/track/4qVesVecQYAJE6e7Pkwpcz"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 248590,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 144106,
+      "name": "Love Like There's No Tomorrow",
+      "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 144106,
-      "name": "Love Like There's No Tomorrow",
-      "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Made In Muscle Shoals Vol. 2",
@@ -1247,6 +1231,22 @@
       "duration_ms": 251528,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Introducing Junior Kimbrough",
+        "url": "https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD"
+      },
+      "artists": [
+        {
+          "name": "Junior Kimbrough",
+          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Feels so Bad - Previously Unreleased Take",
+      "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
     }
   ],
   "unique_name": "Blues Roots",

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 14014,
+  "num_followers": 14020,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGJhYTc3NzJiY2RiNDM1ZmE5YzNmNTFhOTFkODlhOWQ2",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGJlNzk1NTA5NmQ3ZWNkNDAzZjY3MmY5MDFmYjQyYTM5",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -755,8 +755,8 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tal Vez Ser\u00e1 Su Voz",
-        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
+        "name": "Patio De Tango",
+        "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
       "artists": [
         {
@@ -764,13 +764,29 @@
           "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
         },
         {
-          "name": "Orquesta El Arranque",
-          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
+          "name": "Brian Chambouleyron",
+          "url": "https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ"
+        },
+        {
+          "name": "Esteban Morgado",
+          "url": "https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl"
+        },
+        {
+          "name": "Damian Bolotin",
+          "url": "https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp"
+        },
+        {
+          "name": "Walter Castro",
+          "url": "https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG"
+        },
+        {
+          "name": "Mono Hurtado",
+          "url": "https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL"
         }
       ],
-      "duration_ms": 265679,
-      "name": "Tal vez ser\u00e1 su voz",
-      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
+      "duration_ms": 270791,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -939,8 +955,8 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Patio De Tango",
-        "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
+        "name": "Tal Vez Ser\u00e1 Su Voz",
+        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
       },
       "artists": [
         {
@@ -948,29 +964,13 @@
           "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
         },
         {
-          "name": "Brian Chambouleyron",
-          "url": "https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ"
-        },
-        {
-          "name": "Esteban Morgado",
-          "url": "https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl"
-        },
-        {
-          "name": "Damian Bolotin",
-          "url": "https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp"
-        },
-        {
-          "name": "Walter Castro",
-          "url": "https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG"
-        },
-        {
-          "name": "Mono Hurtado",
-          "url": "https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL"
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
         }
       ],
-      "duration_ms": 270791,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
+      "duration_ms": 265679,
+      "name": "Tal vez ser\u00e1 su voz",
+      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
     },
     {
       "added_at": "2022-07-08 03:00:00",

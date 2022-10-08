@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 美根
 
-2,146 songs - 5 day 11 hr 47 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+2,147 songs - 5 day 11 hr 50 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [ainome](https://open.spotify.com/track/5t1RcdN2BktSeqhKmzNeWL) | [Kaco](https://open.spotify.com/artist/5uWUJPAFWreFPks7f3wtMx) | [ainome](https://open.spotify.com/album/0SGNON6xaZc6jsxVx1LOhe) | 3:11 | 2022-08-23 | 2022-09-06 |
 | [AIR FOREST](https://open.spotify.com/track/6T1ttzHQKJFBeu2xBEG86R) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [JAZZY TOKEN](https://open.spotify.com/album/1DpL1XqsT7hI9EfxSxZUya) | 5:44 | 2022-07-25 | 2022-08-16 |
 | [Airride](https://open.spotify.com/track/0EacIYze2OP47UWmOBAmVB) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Airride](https://open.spotify.com/album/7MTn4tE9aED70gybfxYMBg) | 3:48 | 2022-05-24 | 2022-05-31 |
-| [Akizakura](https://open.spotify.com/track/2q4BkQVipIOaGkOVXVDinW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [Akizakura](https://open.spotify.com/album/1coZN5XonZPX90zeebHNHd) | 2:10 | 2022-10-03 |  |
+| [Akizakura](https://open.spotify.com/track/2q4BkQVipIOaGkOVXVDinW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [Akizakura](https://open.spotify.com/album/1coZN5XonZPX90zeebHNHd) | 2:10 | 2022-10-03 | 2022-10-08 |
+| [Akizakura](https://open.spotify.com/track/6N5ouLoG3ODV0U0oet9FnA) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [HELLO](https://open.spotify.com/album/1taPkLBMsmuofrmi3VSbPx) | 2:10 | 2022-10-03 |  |
 | [ALARM](https://open.spotify.com/track/0RBlWmNJRZAXolnF3VzULp) | [0am](https://open.spotify.com/artist/5y1AqWocona4stBLsBw1UJ) | [ALARM](https://open.spotify.com/album/1ZncqPMatxoKGtUkCPTaKE) | 2:50 | 2021-11-03 | 2022-03-15 |
 | [Alice](https://open.spotify.com/track/07obnzaY3wUzar0JKqJrNf) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:34 | 2022-07-11 | 2022-07-19 |
 | [ALIEE](https://open.spotify.com/track/2i7L558BSrX2o34r6H39hQ) | [TEENAGER SEX LESS](https://open.spotify.com/artist/6KgFnEhjYuiurNHGEoYCYn) | [TEENAGER SEX LESS](https://open.spotify.com/album/3w32PYK5jO7TW1TdMF2Ew9) | 5:26 | 2022-06-07 | 2022-06-15 |

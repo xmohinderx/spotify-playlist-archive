@@ -1537,7 +1537,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 145676,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
@@ -2829,6 +2829,24 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "album": {
+        "name": "Weisses Herz",
+        "url": "https://open.spotify.com/album/3TGzhEgQ0A1ijA6bnyrsJH"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Bei Nacht",
+      "url": "https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM"
     },
     {
       "album": {
@@ -23747,7 +23765,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 166160,
       "name": "Tokyo Drift",
       "url": "https://open.spotify.com/track/41KH81gnVWhIESbCRYluOQ"
@@ -23765,7 +23783,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 134093,
       "name": "Tourlife.mp3",
       "url": "https://open.spotify.com/track/7vkq044gRCCrEhThIHvbI7"

@@ -2244,6 +2244,24 @@
     },
     {
       "album": {
+        "name": "I Can\u2019t (Re:WIND 4MEN Vol.02)",
+        "url": "https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250053,
+      "name": "I Can\u2019t",
+      "url": "https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH"
+    },
+    {
+      "album": {
         "name": "RETRO",
         "url": "https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N"
       },
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 207306,
       "name": "I wish you'd listened (feat. Lee Ru DA)",
       "url": "https://open.spotify.com/track/3RL5PDEDxBxIGG9AKOc9Jy"
@@ -5059,7 +5077,7 @@
           "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
         }
       ],
-      "date_added": "2022-10-06",
+      "date_added": "2022-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216000,

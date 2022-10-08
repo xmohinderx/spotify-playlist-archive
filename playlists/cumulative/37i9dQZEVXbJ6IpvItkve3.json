@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 191937,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 229173,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -2773,7 +2773,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Lie Like This",
       "url": "https://open.spotify.com/track/0Vza8xv9EmTgei0HxLO8L3"
@@ -3943,7 +3943,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -3961,7 +3961,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
@@ -4117,7 +4117,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
@@ -5993,7 +5993,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 142084,
       "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05d9\u05e9\u05df \u05e2\u05dc \u05d6\u05d4",
       "url": "https://open.spotify.com/track/4N8FwcfRTju02qsgn9Mcl8"
@@ -6193,7 +6193,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 233027,
       "name": "\u05d1\u05e1\u05d5\u05e3 \u05e0\u05e8\u05e7\u05d5\u05d3",
       "url": "https://open.spotify.com/track/1quBoxh2fvPsy4f0ZBLf46"
@@ -6215,7 +6215,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 313253,
       "name": "\u05d1\u05e1\u05d9\u05d1\u05d5\u05d1",
       "url": "https://open.spotify.com/track/5RnhWaP5VD3eJN3J0chPmh"
@@ -6273,7 +6273,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 174738,
       "name": "\u05d1\u05e9\u05d5\u05e8\u05d5\u05ea \u05d8\u05d5\u05d1\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5dUG9RrLElsi2sxJAhVUZJ"
@@ -6725,10 +6725,32 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 182649,
       "name": "\u05d6\u05d0\u05ea \u05e9\u05de\u05e2\u05dc \u05dc\u05db\u05dc \u05d4\u05de\u05e6\u05d5\u05e4\u05d4",
       "url": "https://open.spotify.com/track/41ixRSaHxKY4dGcCccPz5A"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05db\u05d5\u05db\u05d1 \u05d4\u05d1\u05d0 2022",
+        "url": "https://open.spotify.com/album/2D9iRbmdxBvpwOBszYO6R8"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05d5\u05e4\u05d9\u05d4 \u05d9\u05d3\u05d9\u05d3\u05d9\u05d4",
+          "url": "https://open.spotify.com/artist/0rHxmqmqlCy0dQs0UqRq9q"
+        },
+        {
+          "name": "\u05d4\u05db\u05d5\u05db\u05d1 \u05d4\u05d1\u05d0",
+          "url": "https://open.spotify.com/artist/5vzETUgvElb2xfKJ1e0VHN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182649,
+      "name": "\u05d6\u05d0\u05ea \u05e9\u05de\u05e2\u05dc \u05dc\u05db\u05dc \u05d4\u05de\u05e6\u05d5\u05e4\u05d4",
+      "url": "https://open.spotify.com/track/4CLQRHj24bq6QVR0Fkmg1u"
     },
     {
       "album": {
@@ -7297,7 +7319,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 165960,
       "name": "\u05db\u05d0\u05dc\u05d5 \u05de\u05d9\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/0n2BeC9E0M7fC2jbKBYetu"
@@ -7517,7 +7539,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 155219,
       "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
       "url": "https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft"
@@ -8309,7 +8331,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 192660,
       "name": "\u05de\u05dc\u05db\u05ea \u05d4\u05e8\u05d7\u05d1\u05d4",
       "url": "https://open.spotify.com/track/1Dus0KytptzGZvzfAnTcfG"
@@ -10069,7 +10091,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 173500,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05e9\u05dc\u05da",
       "url": "https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB"

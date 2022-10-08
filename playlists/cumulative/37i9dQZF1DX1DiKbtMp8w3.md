@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-226 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
+229 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,14 +12,15 @@
 | [24 Years Old of You](https://open.spotify.com/track/5EdGni8Sgu75BdLyv5mSUT) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Into Innerverse](https://open.spotify.com/album/0YCxq2nT2BLL9vSCsQEFNX) | 4:32 | 2022-08-12 |  |
 | [4ever](https://open.spotify.com/track/4RruzeifOuoFvZwziK2EuR) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [4ever](https://open.spotify.com/album/2fU7ZbfCCwb77CVsGwhECU) | 3:32 | 2022-08-12 |  |
 | [60’S CARDIN](https://open.spotify.com/track/3JYqt9ADvBsou2pDrpmAZj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [HAUTE COUTURE](https://open.spotify.com/album/5FNUoh29ai75zh2ugcDrKe) | 3:17 | 2022-08-12 |  |
-| [7000RPM](https://open.spotify.com/track/3byuqFayS7CCWFKJxJOLap) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SUPER BAND 2 \- Episode.13](https://open.spotify.com/album/60Cd1kNJrfYdK9ej3iolpx) | 5:41 | 2022-09-06 |  |
+| [7000RPM](https://open.spotify.com/track/3byuqFayS7CCWFKJxJOLap) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SUPER BAND 2 \- Episode.13](https://open.spotify.com/album/60Cd1kNJrfYdK9ej3iolpx) | 5:41 | 2022-09-06 | 2022-10-08 |
+| [7000RPM](https://open.spotify.com/track/4qAyjztX1XDEO1LNJdW6NZ) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 5:41 | 2022-10-07 |  |
 | [9](https://open.spotify.com/track/2giPJrNbuvd5aJkLnMrcrv) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 4:05 | 2022-08-12 |  |
 | [A Day of Mercury](https://open.spotify.com/track/0ZnSRfXEfg5PpgY9WtJrXO) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Enlightenment](https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D) | 5:10 | 2022-08-25 |  |
 | [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 | 2022-08-12 |  |
 | [A thought on an autumn night](https://open.spotify.com/track/4YaKlkNVJNbrIqN82EKFsQ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [JANNABI's Small Pieces l](https://open.spotify.com/album/39YkUaoy7BMzsFvGGMwugk) | 3:07 | 2022-10-06 |  |
 | [Akarui Mirai](https://open.spotify.com/track/0Sigob3quryvB4L59nga0j) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [fam fam](https://open.spotify.com/album/1SBCieSwAZCs2d2ryUXlmQ) | 3:53 | 2022-09-06 |  |
 | [AlokDalok](https://open.spotify.com/track/1Z5s7mb71LPjsPEELTypbY) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Ex\-Girlfriend Club \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6UmJ77UqXsoGkyVpQdQYNW) | 3:03 | 2022-10-06 |  |
-| [an untrustworthy promise](https://open.spotify.com/track/4lSpqM6GXznSMMYzJ1nKZa) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let It Rain](https://open.spotify.com/album/6t1raUERDLYB8Xk0vc4HKY) | 4:55 | 2022-08-25 |  |
+| [an untrustworthy promise](https://open.spotify.com/track/4lSpqM6GXznSMMYzJ1nKZa) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let It Rain](https://open.spotify.com/album/6t1raUERDLYB8Xk0vc4HKY) | 4:55 | 2022-08-25 | 2022-10-08 |
 | [As Above So Below](https://open.spotify.com/track/3LuVwFkWHOKMIxqrdh5di9) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Enlightenment](https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D) | 5:14 | 2022-10-06 |  |
 | [Baby I Need You](https://open.spotify.com/track/4KU23Zay3Q1W0c0yJCNczH) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Pole Dance](https://open.spotify.com/album/2PYqZxuc86lS0DtCCh1sB7) | 3:21 | 2022-10-06 |  |
 | [bad dreams](https://open.spotify.com/track/0EtiFHvYwpcaxYC5Y0EHTm) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:52 | 2022-10-06 |  |
@@ -152,7 +153,8 @@
 | [POOL\(Feat\. Sumin\)](https://open.spotify.com/track/3fCZKucLEtLkTLtRUZrfkG) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [POOL\[pu:l\]](https://open.spotify.com/album/4qIn1bOjIOsvHOs7WGPloF) | 3:47 | 2022-08-25 |  |
 | [Pop Pa La Jak](https://open.spotify.com/track/07Q5d0rEP9tXCnvbsQVxnf) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep Looking at the Window](https://open.spotify.com/album/4ujNlhHT0WFcfN2wrprJds) | 4:40 | 2022-08-25 |  |
 | [Prince](https://open.spotify.com/track/0tcsDZ43YgMJQGL8uBBziF) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Prince](https://open.spotify.com/album/1qp1JzVgo7prqBw5mhEla2) | 3:44 | 2022-10-06 |  |
-| [Ready to fly](https://open.spotify.com/track/4UZN8L3SnpXj3HGuRwzF1O) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SUPER BAND 2 \- Episode.14](https://open.spotify.com/album/2gir8gMdlpIkinnc061A3j) | 6:18 | 2022-09-06 |  |
+| [Ready to fly](https://open.spotify.com/track/4UZN8L3SnpXj3HGuRwzF1O) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SUPER BAND 2 \- Episode.14](https://open.spotify.com/album/2gir8gMdlpIkinnc061A3j) | 6:18 | 2022-09-06 | 2022-10-08 |
+| [Ready to fly](https://open.spotify.com/track/5ttYMsI4n49mPY8rAfHyrR) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.14](https://open.spotify.com/album/4MemrlNUxUB6pAntLarfwA) | 6:18 | 2022-10-07 |  |
 | [Ricotta Cheese Salad](https://open.spotify.com/track/6NUGpenOkCz6YPUbm2F4ic) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Prince](https://open.spotify.com/album/1qp1JzVgo7prqBw5mhEla2) | 3:14 | 2022-10-06 |  |
 | [Sand](https://open.spotify.com/track/1VcqBhuVXWFvA6HIWuGCPV) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/0SMqZWfB4WQkCJugCjbWnH) | 3:45 | 2022-09-06 |  |
 | [Saturday Night Fever](https://open.spotify.com/track/0TTxQr8bXlG43A2lHzKhKB) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU) | [Midnight Cinderella](https://open.spotify.com/album/1GsitueEuLgKyoPftXpgFx) | 4:03 | 2022-08-25 |  |
@@ -183,6 +185,7 @@
 | [THORNAPPLE\(쏜애플\) \- Stage Comment 1](https://open.spotify.com/track/6sAxXZbYnu8zdLJUoaRF39) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:39 | 2022-10-06 |  |
 | [THORNAPPLE\(쏜애플\) \- Stage Comment 2](https://open.spotify.com/track/7E8Z0oOsZHlCmkyBJg6iZc) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 1:06 | 2022-10-06 |  |
 | [Time Out](https://open.spotify.com/track/3NW79QWH1WCQdIofrvM1Ph) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:44 | 2022-10-06 |  |
+| [Time Walking on Memories](https://open.spotify.com/track/6XkrfYmgPGSvgufoivTQgj) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let’s Part](https://open.spotify.com/album/1gtx8gQjltBxIWjmk87QpB) | 6:29 | 2022-10-07 |  |
 | [Tunnel \(With KARDI\)](https://open.spotify.com/track/2sa1g3kg5YZ38ljNXgka0R) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9), [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Bulgasal: Immortal Souls \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/5EihymcBwn2WRu1RQ7RxW9) | 3:59 | 2022-09-06 |  |
 | [Turn It Up](https://open.spotify.com/track/6wFKwkqFmB3SJcJ7dCodMp) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Electric Jungle](https://open.spotify.com/album/1aIyeNpu0Z2tKtOfIjSZp0) | 0:59 | 2022-08-12 |  |
 | [Twilight](https://open.spotify.com/track/6cVJX9UtgpKipNUCjpPJG8) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Twilight](https://open.spotify.com/album/4JMRCWEQ9RGYs1ta3YWU5c) | 4:43 | 2022-08-12 |  |

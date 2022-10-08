@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Sobs \(Singapore\)
 
-418 songs - 1 day 1 hr 0 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+419 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [No Real Place](https://open.spotify.com/track/1XpPV3WNz7ExOAIDgcaeLB) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj) | 2:51 | 2022-05-12 | 2022-06-03 |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-26 | 2022-06-10 |
 | [Non\-Satisfaction](https://open.spotify.com/track/2JBKto9PeVMKcgnYuMVRX6) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Non\-Satisfaction](https://open.spotify.com/album/5FMycpbu55cMAWprBG4qm6) | 3:39 | 2022-04-14 | 2022-05-20 |
+| [November Blue](https://open.spotify.com/track/1rVHGgB6wbPqFgsMcBYbYL) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/1efuRhREYd3lBKa3HV1DyN) | 4:02 | 2022-10-06 |  |
 | [Nuggets](https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Nuggets](https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1) | 4:10 | 2022-04-21 | 2022-06-10 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-05-19 | 2022-07-22 |
 | [on & on](https://open.spotify.com/track/2z60665qOaXrUcFIVIB9yj) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [on & on](https://open.spotify.com/album/2fInwWeb0bggsmMeUSAYbv) | 2:48 | 2022-03-24 | 2022-04-22 |
@@ -373,7 +374,7 @@
 | [Wheel Chain](https://open.spotify.com/track/5AH2ZIew9FtFDaR9nIEIlx) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Wheel Chain](https://open.spotify.com/album/1L1wtYJgBdEsRwqp4To6P1) | 4:23 | 2022-09-01 |  |
 | [When I Dream of Grapes Turning Blue](https://open.spotify.com/track/1kBZCCJpZGooNNALj2LcKt) | [So It Goes H.K](https://open.spotify.com/artist/20CPqsSBGSEECOrIakaBQT) | [Three](https://open.spotify.com/album/7vuIX2SrGXFpDAccHaFW8g) | 4:20 | 2022-06-16 | 2022-07-29 |
 | [When Reasons End](https://open.spotify.com/track/4y2iVcECRxIa9eyDPP0nYD) | [Ghost Fever](https://open.spotify.com/artist/1ZmDucAM1OEaljYZ1W4SLY) | [Here Comes The Neighbor](https://open.spotify.com/album/5tAYvG42QsTDsaaaxOQbLp) | 4:18 | 2022-05-19 | 2022-07-08 |
-| [When You Come Around](https://open.spotify.com/track/3hLG4hwrDkQuFCebaEUE5m) | [Sleep Shelter](https://open.spotify.com/artist/5QgDB4A06vPxUinNTsyc97) | [When You Come Around](https://open.spotify.com/album/5om3DzK3YFD8ohDnbQpILu) | 3:30 | 2022-10-06 |  |
+| [When You Come Around](https://open.spotify.com/track/3hLG4hwrDkQuFCebaEUE5m) | [Sleep Shelter](https://open.spotify.com/artist/5QgDB4A06vPxUinNTsyc97) | [When You Come Around](https://open.spotify.com/album/5om3DzK3YFD8ohDnbQpILu) | 3:30 | 2022-10-06 | 2022-10-08 |
 | [Wherever the Wind Blows](https://open.spotify.com/track/3rcUdlMn6YQx8Byr511yo9) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Aquilo](https://open.spotify.com/album/3w8Rdn8i5qPGKVPURtvi42) | 3:28 | 2022-07-14 | 2022-07-22 |
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-03-31 | 2022-05-07 |
 | [Why Say Why](https://open.spotify.com/track/7rVCdOGWg1tEZylPxAUEXN) | [SAMMii](https://open.spotify.com/artist/1QFyA2fQ8oYPgn6Mih9mrc) | [Making Me Sick!](https://open.spotify.com/album/63pRwAidDd1EtsJimLsWlz) | 3:04 | 2022-03-31 | 2022-05-07 |

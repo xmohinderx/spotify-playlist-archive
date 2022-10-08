@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 57207,
+  "num_followers": 57211,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDdmZDVkZmFmZWJkZGVmM2U3YzI1YzI4NTM0NzdhNzdm",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMGUzNjJlMjY2NTQyNDJhYWE1NGY3MDI2OTJhNDQ4YTVi",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Scouting For Girls (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV"
-      },
-      "artists": [
-        {
-          "name": "Scouting For Girls",
-          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "She's So Lovely",
-      "url": "https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 193373,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Scouting For Girls (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV"
+      },
+      "artists": [
+        {
+          "name": "Scouting For Girls",
+          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "She's So Lovely",
+      "url": "https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/566D06wiMbyLObuhYOPFM5"
-      },
-      "artists": [
-        {
-          "name": "Kite",
-          "url": "https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW"
-        }
-      ],
-      "duration_ms": 205087,
-      "name": "Jonny Boy",
-      "url": "https://open.spotify.com/track/1TWtyAi8boF1JbzWpFMChL"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Shotter's Nation",
         "url": "https://open.spotify.com/album/3riBfJ503oK9oDH4TRXWfF"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 161400,
       "name": "Delivery",
       "url": "https://open.spotify.com/track/5T9ir6tlqhhbKVzIC0ssbs"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/566D06wiMbyLObuhYOPFM5"
+      },
+      "artists": [
+        {
+          "name": "Kite",
+          "url": "https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW"
+        }
+      ],
+      "duration_ms": 205087,
+      "name": "Jonny Boy",
+      "url": "https://open.spotify.com/track/1TWtyAi8boF1JbzWpFMChL"
     }
   ],
   "unique_name": "Spela Shoreline!",

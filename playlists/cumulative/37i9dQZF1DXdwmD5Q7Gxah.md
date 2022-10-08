@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: maya hawke
 
-1,868 songs - 4 day 3 hr 57 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,873 songs - 4 day 4 hr 12 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Drink The Lake](https://open.spotify.com/track/66ODte3X9Uk7ON85hnDNmw) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Drink The Lake](https://open.spotify.com/album/111JuJ9c9okr6iskmC7DR3) | 3:15 | 2021-01-12 | 2021-03-06 |
 | [drinking games](https://open.spotify.com/track/2i51VkwbZDKMrt9Kgv4jut) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [yikes!](https://open.spotify.com/album/7MMhGXIuHsVNqck2wTf8kZ) | 3:20 | 2020-03-25 | 2021-03-06 |
 | [Drippin](https://open.spotify.com/track/3jrwHtyJcMhlSYVKYFh3WR) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Drippin](https://open.spotify.com/album/7j88wN5MZfc9MXsUzfGH3J) | 2:01 | 2020-09-25 | 2020-11-11 |
+| [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 | 2022-10-07 |  |
 | [Drive \(Los Angeles\)](https://open.spotify.com/track/1CnIgXRdASWJDYISXmEQs1) | [Lolawolf](https://open.spotify.com/artist/6ABaV7mB6WIZKgfEEtWCf8) | [Drive \(Los Angeles\)](https://open.spotify.com/album/7McfH7dB7smpVIZOnmpEyi) | 3:53 | 2019-10-11 | 2019-10-25 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-06 | 2021-03-16 |
 | [Drowning](https://open.spotify.com/track/33eHFA6m1rtXJHmT2DE9DT) | [Shrink](https://open.spotify.com/artist/01W8fjvGNifH2wxLoHjEmm) | [Drowning](https://open.spotify.com/album/7eamJMNBOaTHVbSEIOyOgL) | 3:01 | 2020-10-30 | 2021-01-12 |
@@ -605,6 +606,7 @@
 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 | 2021-08-05 | 2021-11-13 |
 | [forever&more](https://open.spotify.com/track/0UMFm4ndFr3PH5VsVYnCNG) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [forever&more](https://open.spotify.com/album/2ox1YSN2qTOg170HnzqqI3) | 2:55 | 2021-07-23 | 2022-01-08 |
 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 | 2021-05-12 | 2021-08-14 |
+| [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 | 2022-10-07 |  |
 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 | 2019-10-25 | 2020-01-10 |
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-05-15 | 2022-04-09 |
 | [FRANKIE MUNIZ](https://open.spotify.com/track/1E8O2FNVuBRkXdS33iULOV) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [FRANKIE MUNIZ](https://open.spotify.com/album/6uSQN4AgIUSdhU3tjNgg5v) | 3:38 | 2020-09-25 | 2021-01-12 |
@@ -954,6 +956,7 @@
 | [Let Me Feel Low \(feat\. Miloe\)](https://open.spotify.com/track/2WgtDonid49ziQ1jORmrES) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Let Me Feel Low \(feat\. Miloe\)](https://open.spotify.com/album/22EgoSZsZ2WEEZKXaXCum6) | 4:35 | 2020-11-13 | 2021-01-12 |
 | [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 | 2022-07-15 | 2022-07-30 |
 | [Let's Stay Inside](https://open.spotify.com/track/1UActoM8Vnkm9gWpyQ3B1q) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Let's Stay Inside](https://open.spotify.com/album/5rjIWveExGjmzfRXx2Ysw4) | 2:20 | 2020-04-24 | 2020-05-22 |
+| [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-10-08 |  |
 | [Level Head](https://open.spotify.com/track/5lBsVrEkjH2a76DG6ZFeLp) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Level Head](https://open.spotify.com/album/2ejrBQwJFtyCepDGw0KfKA) | 3:58 | 2020-11-18 | 2021-01-12 |
 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 | 2021-06-11 | 2021-06-18 |
 | [Lied](https://open.spotify.com/track/2zMam0ako2pjGgN8jKtypU) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Lied](https://open.spotify.com/album/6UKZqCRQx6FgJNYihzbJa3) | 2:58 | 2020-08-15 | 2020-12-23 |
@@ -1053,6 +1056,7 @@
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2021-05-27 | 2021-08-14 |
 | [Marlboro Nights](https://open.spotify.com/track/7mX1juiy9zR3MM2K39Sa7r) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/7ueKMDjY7NMf2gAIW3niqK) | 1:08 | 2019-08-02 | 2019-11-14 |
 | [Martha](https://open.spotify.com/track/75QoXqTlvBwuITzow9egCB) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time \(Remastered\)](https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb) | 4:28 | 2021-07-31 | 2021-08-12 |
+| [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 | 2022-10-07 |  |
 | [Matilda](https://open.spotify.com/track/3aA5fk4c6a7e5HM4rJqkSF) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:48 | 2022-05-27 | 2022-06-22 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-20 | 2022-06-22 |
 | [Maybe](https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Maybe](https://open.spotify.com/album/2XtDVJNzLpqWD1KpzgePzb) | 3:00 | 2021-10-16 | 2021-12-02 |
@@ -1616,6 +1620,7 @@
 | [swings](https://open.spotify.com/track/3DXU5SEncAI1HwfB9LBLFT) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [swings](https://open.spotify.com/album/1um37UiJus9Fl3nyZKbaQK) | 2:22 | 2020-04-09 | 2020-05-28 |
 | [Switched Up](https://open.spotify.com/track/2qtJUSJmPz5mkVhFHrtCd7) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Switched Up](https://open.spotify.com/album/0iFATJZnvd79HAORAKhhTg) | 2:26 | 2020-02-21 | 2020-05-29 |
 | [SYNCOPATE](https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SYNCOPATE](https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL) | 1:58 | 2021-09-15 | 2021-12-02 |
+| [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 | 2022-10-08 |  |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-04-28 | 2022-01-08 |
 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 | 2019-07-30\* | 2019-09-14 |
 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 | 2020-12-23 | 2020-12-31 |

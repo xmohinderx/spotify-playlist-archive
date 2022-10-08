@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-369 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+370 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Las Aguas](https://open.spotify.com/track/2UxLDnjULwrVw99Bkgv6Fu) | [Bosques](https://open.spotify.com/artist/7tyJ5HvQArW2FlxO9MKa89) | [Invocación](https://open.spotify.com/album/1dHH6lfeps2fuhZpvEfu0y) | 2:48 | 2022-07-01 | 2022-07-23 |
 | [Las Horas](https://open.spotify.com/track/6abYXckpkTk1tYFEJ6CW2s) | [Basual](https://open.spotify.com/artist/0RB7VDmgFkpoW9jLMArj9y) | [Las Horas / Lovercraft](https://open.spotify.com/album/38AfLq1iFJJLajO5z5nh5h) | 4:37 | 2022-07-15 | 2022-07-28 |
 | [Las panteritas](https://open.spotify.com/track/2AOSgtCDzQqObVxl4QYkze) | [New Rusia a la Vinagrét](https://open.spotify.com/artist/4sfEXTGcqTAuKcMFNsdPtk) | [Cerrillos Siempre Estuvo Cerca](https://open.spotify.com/album/4JFSOFWhiJDgtROjEU57Dy) | 2:45 | 2022-07-15 | 2022-07-19 |
+| [LATAS](https://open.spotify.com/track/6CidWSzeGzBIz82eS4sG4m) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [LATAS](https://open.spotify.com/album/3oDPZk5VVbahXJSq0HVhat) | 2:36 | 2022-10-07 |  |
 | [Lejos del Centro](https://open.spotify.com/track/0i5OleWNfQ1QcYeDk64toc) | [Matilda](https://open.spotify.com/artist/7AX0qiF0IDK5rHWOFmUuJM), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Lejos del Centro](https://open.spotify.com/album/5C6R87Z3R4gOoxukmJOnQX) | 3:54 | 2022-07-15 | 2022-07-26 |
 | [Lisbeth](https://open.spotify.com/track/6S5z8N2yTM8Ofm2b72K6Ji) | [Trama](https://open.spotify.com/artist/50MfaRBfrDJIFOKwdigjy4) | [De Pequeñas Luces y Recuerdos Que Se Lleva el Mar](https://open.spotify.com/album/0pOo6JBybWLsmcWWO3bPrW) | 4:10 | 2022-07-01 | 2022-07-15 |
 | [Llega llega llega](https://open.spotify.com/track/2lOCxL2Z9fNjKD9FsOi3sS) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Llega llega llega](https://open.spotify.com/album/4lH8Eq18PK6DufmL7BK3k1) | 3:40 | 2022-06-03 |  |
@@ -331,7 +332,7 @@
 | [Tanto Azúcar](https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Lapso](https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU) | 3:05 | 2022-06-03 | 2022-07-29 |
 | [Te Paso por Tonto](https://open.spotify.com/track/15EDp9LxLLXOi676o1eBS9) | [Pablo Neptuno](https://open.spotify.com/artist/3wcvDHkiKo11isqS7yvjyG) | [Te Paso por Tonto](https://open.spotify.com/album/54fmEsADMtYIiiMJDRkSKP) | 2:17 | 2022-07-01 | 2022-07-24 |
 | [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-06-03 |  |
-| [Tiembla](https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5) | 3:36 | 2022-07-01 |  |
+| [Tiembla](https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5) | 3:36 | 2022-07-01 | 2022-10-08 |
 | [Tiempo Compartido](https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Tiempo Compartido](https://open.spotify.com/album/75nbafNyS33ripWC6dOXKz) | 5:43 | 2022-07-15 |  |
 | [TIEMPO PERFECTO](https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [EN EL CIELO](https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc) | 2:41 | 2022-07-01 | 2022-07-29 |
 | [tití](https://open.spotify.com/track/7KTjV2dfbwLzl9u9O9lf1q) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [tití koi](https://open.spotify.com/album/59XcZGcub84oYnnnsN2Xsq) | 3:44 | 2022-07-01 | 2022-07-24 |

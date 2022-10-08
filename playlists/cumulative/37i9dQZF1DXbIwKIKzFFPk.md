@@ -4,7 +4,7 @@
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-85 songs - 5 hr 9 min - not published yet
+86 songs - 5 hr 12 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [HARUKAZE](https://open.spotify.com/track/3JmGjD1CvAlGHCRNaIvxzu) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [HARUKAZE\[初回盤B\]](https://open.spotify.com/album/7IBREg7fthhMXXgN1H5x9e) | 4:38 | 2022-10-06 |  |
 | [here to stay](https://open.spotify.com/track/1wlXoXzUuwQP67zATlqt4E) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 2](https://open.spotify.com/album/7mBXCZN24RI8iWDkpWooag) | 3:00 | 2022-10-06 |  |
 | [Into The Fire](https://open.spotify.com/track/10xPIeghCJh727kuIF9r0L) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH MEMORIES OF NOBODY Original Soundtrack](https://open.spotify.com/album/1MmE3q7RvR68CPYb5hdNrf) | 4:38 | 2022-10-06 |  |
-| [invasion](https://open.spotify.com/track/5oI2M93Zr2TcFGqIyFuLJ1) | [ostbaby](https://open.spotify.com/artist/0OVFU89aj88ofzPqOeBwm2) | [ost vol 1](https://open.spotify.com/album/2Z4MhctNcFHwacDmWTzj9V) | 2:51 | 2022-10-06 |  |
+| [invasion](https://open.spotify.com/track/5oI2M93Zr2TcFGqIyFuLJ1) | [ostbaby](https://open.spotify.com/artist/0OVFU89aj88ofzPqOeBwm2) | [ost vol 1](https://open.spotify.com/album/2Z4MhctNcFHwacDmWTzj9V) | 2:51 | 2022-10-06 | 2022-10-08 |
+| [Invasion](https://open.spotify.com/track/2tnd8PSXUGwoVX5WY2SU1B) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH The DiamondDust Rebellion Original Soundtrack](https://open.spotify.com/album/4meZrOeVxoej2MOhVo1suB) | 2:50 | 2022-10-07 |  |
 | [La distancia para un duelo](https://open.spotify.com/track/3c391J2d1gnfL0qbjqbPA6) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:57 | 2022-10-06 |  |
 | [Last Moment](https://open.spotify.com/track/5wM8OgQU0rKTWybimowiIP) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Last Moment](https://open.spotify.com/album/19FNKMf9PJC3yf2uCMoN20) | 3:11 | 2022-10-06 |  |
 | [LIFE](https://open.spotify.com/track/1BFTK2ODlocCHKGKGwcJNr) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [LIFE](https://open.spotify.com/album/1zvQbIQuOKyAe6wxJM7TjA) | 4:03 | 2022-10-06 |  |

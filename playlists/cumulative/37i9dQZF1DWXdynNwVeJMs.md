@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-116 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+117 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Pigeons](https://open.spotify.com/track/5feVFAGv8aOhz7zFUczpUr) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Pigeons](https://open.spotify.com/album/5O1WgrvNp2LPu9LWHL6XPD) | 4:38 | 2022-09-08 | 2022-09-16 |
 | [Portal](https://open.spotify.com/track/2kyEGIQlE4W2UXbgJk30Vd) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Portal](https://open.spotify.com/album/0UyQ9R0WB9N4ncFbI2xKMs) | 4:18 | 2022-09-08 |  |
 | [Prospect](https://open.spotify.com/track/2Bf6F6mWOEjI8HxcaHPUEZ) | [ROSHIMA](https://open.spotify.com/artist/1ESM3iS4CDpxrVcRYvzJxN), [Jan Morez](https://open.spotify.com/artist/4MRRTWCvkHzfw953JHybmz), [Glenn Deveron](https://open.spotify.com/artist/3CSRC3GUnVsTgobvO8AZ7w) | [Prospect](https://open.spotify.com/album/7Cy5dDz0PkdI4JoisX1P9E) | 2:09 | 2022-09-08 |  |
+| [Quanked](https://open.spotify.com/track/4ScsbA64TjlH2szHkAW8Kz) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:02 | 2022-10-07 |  |
 | [Rake](https://open.spotify.com/track/4Zg32wHgWeBMfuuxNEBJea) | [Bert Dockx](https://open.spotify.com/artist/0nD5LTV5BZ6Dl7BbjGpHv1) | [Transit](https://open.spotify.com/album/58J5Tg7SnhkUcJsweg8xE0) | 6:13 | 2022-09-08 |  |
 | [Reflet](https://open.spotify.com/track/7bTgbkJmcJ11R0yqVC8qFg) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/3rCk8CngEX5UIxpWgh4WgI) | 5:42 | 2022-09-08 | 2022-09-25 |
 | [Reflet](https://open.spotify.com/track/7tNYzBbufvOtKyRcw0vPqd) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 5:42 | 2022-09-15 |  |

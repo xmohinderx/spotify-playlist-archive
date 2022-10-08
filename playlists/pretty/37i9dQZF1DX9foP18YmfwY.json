@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Thiago Brado",
-  "num_followers": 277378,
+  "num_followers": 277435,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMGVmNDBlOTc1NDVkNjA0OTMyNTc4MGIwMjkxZGEwZWI4",
+  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMGNiNjg5MTA1NjZiYzlkNTJhNTBmMmRhODM2Mzk3NDY0",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+        "name": "Se Eu Tenho o Hoje",
+        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
       },
       "artists": [
         {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
         }
       ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
+      "duration_ms": 327961,
+      "name": "Se Eu Tenho o Hoje",
+      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Se Eu Tenho o Hoje",
-        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
       },
       "artists": [
         {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 327961,
-      "name": "Se Eu Tenho o Hoje",
-      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Tempus",
-        "url": "https://open.spotify.com/album/4GCaOR1DHhb8C2lEb3IeBZ"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        },
-        {
-          "name": "Deise Jacinto",
-          "url": "https://open.spotify.com/artist/4MKdB4n6ofqjgX4xsZo4ZA"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Lugar Seguro",
-      "url": "https://open.spotify.com/track/0KOccOeboK6L7mbh3y7sKc"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "J\u00e1 Deu Certo",
         "url": "https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 276885,
       "name": "J\u00e1 Deu Certo",
       "url": "https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Tempus",
+        "url": "https://open.spotify.com/album/4GCaOR1DHhb8C2lEb3IeBZ"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        },
+        {
+          "name": "Deise Jacinto",
+          "url": "https://open.spotify.com/artist/4MKdB4n6ofqjgX4xsZo4ZA"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Lugar Seguro",
+      "url": "https://open.spotify.com/track/0KOccOeboK6L7mbh3y7sKc"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Seja Bem-Vindo Jesus",
+        "url": "https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua"
+      },
+      "artists": [
+        {
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+        }
+      ],
+      "duration_ms": 310704,
+      "name": "Seja Bem-Vindo Jesus",
+      "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Irm\u00e3o Jesus",
         "url": "https://open.spotify.com/album/1rRJBSjPCLvdyYWdzoKVfK"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 330082,
       "name": "Irm\u00e3o Jesus",
       "url": "https://open.spotify.com/track/78Jh1AhTQ7wBaogRBY3LWN"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Seja Bem-Vindo Jesus",
-        "url": "https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua"
-      },
-      "artists": [
-        {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
-        }
-      ],
-      "duration_ms": 310704,
-      "name": "Seja Bem-Vindo Jesus",
-      "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
     },
     {
       "added_at": "2022-09-02 03:00:00",

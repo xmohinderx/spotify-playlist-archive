@@ -2,9 +2,9 @@
 
 ### [Grass Roots](https://open.spotify.com/playlist/37i9dQZF1DXa2HpTqP3clz)
 
-> Hear the latest releases from bluegrass and string bands alike\. Cover: Tray Wellington
+> Hear the latest releases from bluegrass and string bands alike\. Cover: Billy Strings
 
-374 songs - 22 hr 37 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
+375 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [I’ve Been A Long Time Leavin' \(But I’ll Be A Long Time Gone\)](https://open.spotify.com/track/1xITcjwUzUJL4zoZmBB0PZ) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Universal Favorite](https://open.spotify.com/album/72BjHzwfZXDbxm1HuiXcAo) | 2:49 | 2021-12-17 | 2022-07-17 |
 | [Jenny Put the Kettle On](https://open.spotify.com/track/1vHYLSFXktaPllAwMj4bmJ) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/6IG1OlL4Z6fV3zh0hRGqIc) | 2:00 | 2022-08-26 | 2022-10-06 |
 | [Jeremiah](https://open.spotify.com/track/6fQJurzJ7mB8VTRppbg8t7) | [Clint Roberts](https://open.spotify.com/artist/5OVHqPoHGsbQnMuLvLP0gd) | [Jeremiah](https://open.spotify.com/album/05AgUadKLcXpXwwNmwhPfC) | 3:24 | 2022-04-29 | 2022-05-08 |
-| [John](https://open.spotify.com/track/611n0K4uwT68HQSYUN7FQC) | [Wood & Wire](https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX) | [John](https://open.spotify.com/album/5pm6q0j3jSQAki4Oa2SjSV) | 2:55 | 2021-12-17 |  |
+| [John](https://open.spotify.com/track/611n0K4uwT68HQSYUN7FQC) | [Wood & Wire](https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX) | [John](https://open.spotify.com/album/5pm6q0j3jSQAki4Oa2SjSV) | 2:55 | 2021-12-17 | 2022-10-08 |
 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 | 2022-07-22 |  |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Keys](https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG) | [Clyde and the Milltailers](https://open.spotify.com/artist/7zBpuTvYYgN8A4KA6PnzUA) | [Gone](https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ) | 3:00 | 2022-06-17 | 2022-06-26 |
@@ -190,6 +190,7 @@
 | [Little Secret](https://open.spotify.com/track/1IgkAf46sgDipKF1VpEWUC) | [The Alex Leach Band](https://open.spotify.com/artist/02qBfrRhdA5NWqqukQgdIC) | [Little Secret](https://open.spotify.com/album/7gYbhoBdr8S47xllxyAHGA) | 3:03 | 2022-04-29 | 2022-07-12 |
 | [Live the Dream](https://open.spotify.com/track/2f64sXdXeIZHKHtAdYcZ2p) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh), [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Live the Dream](https://open.spotify.com/album/0TxDZ0xlSYgwtS0Erao5iS) | 2:52 | 2022-08-11 |  |
 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 | 2021-12-17 |  |
+| [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 | 2022-10-07 |  |
 | [Long Violent History](https://open.spotify.com/track/4Bu4aJ7xLdIeRnD69pFBXU) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Long Violent History](https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s) | 3:10 | 2021-12-17 |  |
 | [Lookout Mountain](https://open.spotify.com/track/4z2nsV1z5gQU4UBXtUoOCG) | [Unspoken Tradition](https://open.spotify.com/artist/1ffmxtCun2OgtqJlvlanQv) | [Lookout Mountain](https://open.spotify.com/album/2po8HVjL3Nvvgehs0A8Nlp) | 3:48 | 2022-02-11 | 2022-06-01 |
 | [Love Along the Way](https://open.spotify.com/track/0JKRJhLhtbsZFnyvk17Aid) | [Joe Troop](https://open.spotify.com/artist/6ZEEjgoF57Fa8eh2aXGoNa), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Borrowed Time](https://open.spotify.com/album/3kH6Zv3RT7JmoyOtpdcU2X) | 3:05 | 2022-01-21 | 2022-07-27 |

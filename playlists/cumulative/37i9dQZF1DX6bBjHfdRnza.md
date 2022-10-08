@@ -4,7 +4,7 @@
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Beltran, Artwork: Rewina Beshue.
 
-790 songs - 2 day 7 hr 20 min - [published](https://open.spotify.com/playlist/4dKpDBG1y7h8bfA4dbtQPc)
+791 songs - 2 day 7 hr 24 min - [published](https://open.spotify.com/playlist/4dKpDBG1y7h8bfA4dbtQPc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [One More Chance](https://open.spotify.com/track/2fs9HGUstxf0r1nbUsX9pr) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e) | [One More Chance](https://open.spotify.com/album/0Br04dEwKsxbvjQnBKqKC5) | 4:09 | 2022-04-27 | 2022-05-19 |
 | [One Night in North Glasgow](https://open.spotify.com/track/495G6HU8agMEPjNKycw9AD) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Met Her at Bäreneck](https://open.spotify.com/album/5rkxbByPKYXQjHPF2wpCTs) | 5:37 | 2022-04-27 | 2022-06-16 |
 | [Only One](https://open.spotify.com/track/5Br2lALprhGROTlRMlGK4b) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv) | [Only One](https://open.spotify.com/album/3P0NuVwkbjgRJWAeYIbPqi) | 4:10 | 2022-09-07 | 2022-09-29 |
+| [Opening Credits](https://open.spotify.com/track/1H6fS2MCxuJIH23Dno7Nkq) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Opening Credits](https://open.spotify.com/album/4513dqyPasD83ZR1dfg9hK) | 4:03 | 2022-10-07 |  |
 | [Opposite](https://open.spotify.com/track/6DCK3mzdQ6dDRRUcRThBVx) | [Terrence & Phillip](https://open.spotify.com/artist/5q2WPPNeP0hin3yY74up1G) | [Opposite](https://open.spotify.com/album/1ueTsLNosx9BvJpMHCBqgx) | 3:40 | 2022-06-08 | 2022-07-21 |
 | [Orgone](https://open.spotify.com/track/3Xy96rDEulTSUlZonBPtp0) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Give Me Monaco](https://open.spotify.com/artist/3bb7Zscs7LiGtqtzVJ7pYy), [Emily Marks](https://open.spotify.com/artist/1sMMH7GkHrs33QBYdh8D64) | [Orgone](https://open.spotify.com/album/6mw1bJn80BY9WdMrtTJkBI) | 5:11 | 2022-01-26 | 2022-03-10 |
 | [Palma](https://open.spotify.com/track/25xCDpudKgR3fKpAoJpDSY) | [jaakob](https://open.spotify.com/artist/3UzlexNjM9XmG3Fb3O6Enb) | [Palma](https://open.spotify.com/album/1AvJKmHJIWQq0kh8ZUNx7I) | 3:04 | 2022-05-31 | 2022-08-11 |

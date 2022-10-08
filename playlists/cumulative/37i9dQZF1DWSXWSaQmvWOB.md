@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-561 songs - 1 day 10 hr 22 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+562 songs - 1 day 10 hr 25 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Imagine](https://open.spotify.com/track/3twYhdFChj2gHF0PZzDkHV) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 2\)](https://open.spotify.com/album/6i6aGouu4Zr6BAcSGJI5JT) | 3:41 | 2022-07-28 | 2022-09-23 |
 | [Imagine \[Feat\. PJ\]](https://open.spotify.com/track/2MntSatbcikLjKbpJoPgVV) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Imagine \[Feat\. PJ\]](https://open.spotify.com/album/5lMP421zrGKA48fUtdaDp0) | 3:41 | 2021-07-02 | 2022-07-29 |
 | [In Contemplation of Clair’s Scent \- Edit](https://open.spotify.com/track/6evizKGLv223qG5hpReBWy) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [In Contemplation of Clair’s Scent](https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb) | 2:50 | 2022-07-21 | 2022-10-04 |
+| [In My Mind](https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS) | [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [In My Mind](https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i) | 3:25 | 2022-09-30 |  |
 | [In the Air](https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc) | 4:12 | 2020-04-14 | 2021-09-24 |
 | [In Time You'll See](https://open.spotify.com/track/4zqhpVOEeNmlcJul331Oww) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [In Time You’ll See](https://open.spotify.com/album/70YPiQYnwbUDraYw5i3AnC) | 3:12 | 2022-04-01 | 2022-07-22 |
 | [In Your Head](https://open.spotify.com/track/6ICR8w1QJVh2vgKPj326W9) | [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [In Your Head](https://open.spotify.com/album/1MQ9lqM791VaRYnAyJepQ3) | 2:57 | 2020-10-30 | 2021-07-02 |
@@ -255,7 +256,7 @@
 | [June](https://open.spotify.com/track/1BVwzG4gamzvYVRljS1Z8n) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [June](https://open.spotify.com/album/5A4MJXAGdqWx6Kn08hZxVI) | 2:48 | 2020-03-25\* | 2020-11-20 |
 | [Junk Food](https://open.spotify.com/track/6GeOYkWj4UtdJTvYaWaGks) | [Seravince](https://open.spotify.com/artist/5krzClygw7uTipKY9eYhTU), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Junk Love](https://open.spotify.com/album/5NHG1BrDHT6rm8TIwsyutx) | 5:17 | 2020-03-25\* | 2020-04-24 |
 | [just a boy](https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg) | 3:05 | 2020-03-27 | 2020-11-20 |
-| [Just for the Day](https://open.spotify.com/track/0QmULc4I1zVKUU9BoI2dqd) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Just for the Day](https://open.spotify.com/album/3DTiE4gQOSaKuMTVvc5amh) | 3:37 | 2022-09-29 |  |
+| [Just for the Day](https://open.spotify.com/track/0QmULc4I1zVKUU9BoI2dqd) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Just for the Day](https://open.spotify.com/album/3DTiE4gQOSaKuMTVvc5amh) | 3:37 | 2022-09-29 | 2022-10-08 |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-09-22 |  |
 | [Kick It to Me](https://open.spotify.com/track/5omukHtcJduzkSfOlze4iB) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [The Good Life](https://open.spotify.com/album/2xCZSSa0kfIJFDhQR8bYar) | 6:27 | 2021-03-06 | 2022-04-29 |
 | [Kiss Or Go Crazy](https://open.spotify.com/track/1fSuXOsllO02JXjcSsBw8A) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq) | [Kiss Or Go Crazy](https://open.spotify.com/album/5nCKVXSxUEHtQoUNLXMnBz) | 2:49 | 2022-02-03 | 2022-07-26 |

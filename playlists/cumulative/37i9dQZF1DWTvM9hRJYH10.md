@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Madeline Merlo
 
-230 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+231 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [LOVERBOY](https://open.spotify.com/track/2QRUzQzXQ7GEZRe9rA9WbL) | [Jody Chappell](https://open.spotify.com/artist/7C3byYIVDoWA1JExCcwQMK) | [LOVERBOY](https://open.spotify.com/album/2NbqvUAyCV2KaQeE32M41m) | 3:19 | 2021-12-31 | 2022-02-12 |
 | [Lucky Me](https://open.spotify.com/track/6dkKeMSmezjgacxO4SaxuZ) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Lucky Me](https://open.spotify.com/album/1LfLPB9XWHNwksW1r0JjhU) | 3:27 | 2021-12-31 | 2022-10-03 |
 | [Lucky Me](https://open.spotify.com/track/0Xn2Omp7qVusyoTRCNp3Y7) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Dreamers](https://open.spotify.com/album/6T9I7BtWTwPIJQwbmE6sel) | 3:35 | 2022-09-30 |  |
-| [Made 4](https://open.spotify.com/track/4D3ncJSklJygckj0iLb5q7) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Made 4](https://open.spotify.com/album/0Wjel1zCGyyNdt1ofyi4OL) | 2:49 | 2022-08-19 |  |
+| [Made 4](https://open.spotify.com/track/3gEBsL6Z7BBAbi1Ajyoqhz) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Made 4](https://open.spotify.com/album/30LUVX6hFMmieW3evMB6FR) | 2:49 | 2022-10-07 |  |
+| [Made 4](https://open.spotify.com/track/4D3ncJSklJygckj0iLb5q7) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Made 4](https://open.spotify.com/album/0Wjel1zCGyyNdt1ofyi4OL) | 2:49 | 2022-08-19 | 2022-10-08 |
 | [Make It Past Georgia](https://open.spotify.com/track/2jt5TmTYrmdr46cGHrcFjq) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Make It Past Georgia](https://open.spotify.com/album/7z68pYfdYT9aRs15woSgh1) | 3:21 | 2021-12-31 | 2022-07-29 |
 | [Make It Past Georgia](https://open.spotify.com/track/7aRVF1U72PPCTJiSX2vRpd) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 3:21 | 2022-07-22 |  |
 | [Makeup Is Expensive](https://open.spotify.com/track/00JNpfynO2Y9VWhIJkmrlE) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Makeup Is Expensive](https://open.spotify.com/album/5pGYbtCiSeuqTu9J4Digmw) | 3:18 | 2021-12-31 |  |

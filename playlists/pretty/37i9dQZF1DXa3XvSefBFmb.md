@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas portuguesas, como Nena, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,751 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,790 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 36 | [Dizer Adeus É Tão Triste](https://open.spotify.com/track/7KHbte0W5XsEhSel6HMW04) | [Teresa da Câmara](https://open.spotify.com/artist/3F27GHBz1nQXWRekD1s9vM) | [Lugares](https://open.spotify.com/album/481gruEtrN9zjE8vOwRMjc) | 3:27 |
 | 37 | [Os Loucos](https://open.spotify.com/track/0SCwQXFpKJFc2UrP1CnvU8) | [Solange Silva](https://open.spotify.com/artist/3Gd0VQZB0rY0HCfpSUGQNc) | [Solange](https://open.spotify.com/album/4HsX2RsYOI5WxwP1gBS035) | 3:01 |
 | 38 | [Paraíso](https://open.spotify.com/track/2aqjj2C8ZWnHbw31TIkZcQ) | [Tasman Edge](https://open.spotify.com/artist/50caqmkFJTqVSKMYvjmEK7), [Rita Senhor](https://open.spotify.com/artist/76YPktW3HuXfS1ls2vcswZ) | [Paraíso](https://open.spotify.com/album/25TldDXVcA50rwT7IF7dSm) | 3:21 |
-| 39 | [Pressure \(unplugged\)](https://open.spotify.com/track/4GPY15g4dqJbhccyDEscVY) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Pressure \(unplugged\)](https://open.spotify.com/album/12E8Bz8SrAEHaoCdJ46LII) | 2:45 |
+| 39 | [Pressure \- Unplugged](https://open.spotify.com/track/45huXaWrbt1A5mX2TYigQP) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Pressure \(unplugged\)](https://open.spotify.com/album/7cZgk2z7Pa38zSxgC21CWy) | 2:45 |
 | 40 | [O Que Eu Dei](https://open.spotify.com/track/776IuuCe9Mx5sRN1hs4aIB) | [Maria Castro](https://open.spotify.com/artist/1e8vbPF60YDUTdHwUQUz6p) | [O Que Eu Dei](https://open.spotify.com/album/3MGxYe94PGdYNTGwCXYsa7) | 3:33 |
 | 41 | [Fala Só](https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ) | [Yola Araújo](https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm) | [Fala Só](https://open.spotify.com/album/2nlMuBZsxGpcPRnpb8hYjr) | 3:17 |
 | 42 | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/track/3elqH6YbzTGQtlYdlmIbZC) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/album/3srSDFJhgwBetFxmT1nvgM) | 3:31 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 50 | [Bem Perto](https://open.spotify.com/track/7JNtgj9GCVlhUC4oGyR90u) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Bem Perto](https://open.spotify.com/album/64mVaFwyn0iMAd2xV1Y9xH) | 3:11 |
 | 51 | [Barco Negro \- Live In Japan](https://open.spotify.com/track/7cOt0FxNrUM4EVtqVXUlSh) | [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [Amália Rodrigues Live In Japan \(2022 Edition\)](https://open.spotify.com/album/5bjeDouS3uV4Vz0TnQq3yp) | 5:14 |
 
-Snapshot ID: `MTY2NDkyNDQwMCwwMDAwMDAwMDZmZGE4NDM2MDUyMDFiMzI2YjMyMTZiMDUwMzM1MTNm`
+Snapshot ID: `MTY2NDkyNDQwMCwwMDAwMDAwMGEyNDRiZTExNDBmZjU1ZGJiZTRlMTQ4ZWE0MGZkY2Zl`

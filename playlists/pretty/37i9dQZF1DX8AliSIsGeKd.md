@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Schlepp Geist
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,399 likes - 80 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,548 likes - 80 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 44 | [Hours and Hours](https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Hours and Hours](https://open.spotify.com/album/4doUhaVPZ5BbnemJ5Pp4Df) | 4:05 |
 | 45 | [Green Rework](https://open.spotify.com/track/6dDHMXEY5Vm2yXakvnwALO) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Green Rework](https://open.spotify.com/album/1qtJVVV0QmXTWzIv0FCif4) | 7:13 |
 | 46 | [Shaded](https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Shaded](https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp) | 4:50 |
-| 47 | [Move](https://open.spotify.com/track/213VZ9lPNKykn3cLrmYkKf) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Move](https://open.spotify.com/album/51SyEa6HlrLkINwbNnmGhg) | 5:25 |
+| 47 | [Move](https://open.spotify.com/track/0fouEhRoo3FApnQPIXKgOY) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Move](https://open.spotify.com/album/2O1q3IboqaR8KEDRy2cDRc) | 5:25 |
 | 48 | [Little Treasure \(Contour 3\)](https://open.spotify.com/track/5ylczvXq66th3ra7um4imD) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Little Treasure \(Contour 3\)](https://open.spotify.com/album/4921jiDIusc0Iy7yrXj2lN) | 5:58 |
 | 49 | [Saga](https://open.spotify.com/track/1hDxkKzbsElp9gLC45JKum) | [F\-Rontal](https://open.spotify.com/artist/7xcEuNcEPzlYUuAKyqfJMS) | [Saga](https://open.spotify.com/album/1leTxQKRYH37ibTqBVax66) | 7:42 |
 | 50 | [Wanderlust \- Jack Rush Remix](https://open.spotify.com/track/0WvKqnN0kWtTSJrnXRcFCk) | [Schoonebeek](https://open.spotify.com/artist/0s3vpUpz6x99aBoH6FksO2), [Dejago](https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C), [John Lenin](https://open.spotify.com/artist/7jxvgrk7kNnUykaVtGgBe0), [Jack Rush](https://open.spotify.com/artist/6bjnZQLPrTOmZSQ6nJ7rkj) | [Wanderlust \(Jack Rush Remix\)](https://open.spotify.com/album/5yi2iCi7qNW8qy0atFaoN1) | 4:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 79 | [Phobia](https://open.spotify.com/track/5F7hQ1QAb3Q6QNwxGUMQXU) | [Rampue](https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv) | [Phobia](https://open.spotify.com/album/2prHbKENbnHD0hThZlcrQQ) | 5:51 |
 | 80 | [Always Something](https://open.spotify.com/track/3f0OOLWLpdeDUp3vxv6GEj) | [Manqo](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ) | [Always Something](https://open.spotify.com/album/5vP4jUDdZDqdlQDMroMVJi) | 3:36 |
 
-Snapshot ID: `MTY2NTA5NTIwMCwwMDAwMDAwMGVlOWIzZGFjZGQ1MDg3MTdlYTExZTJiMTc1NjFlNTY2`
+Snapshot ID: `MTY2NTA5NTIwMCwwMDAwMDAwMGMxYTlmNzkzMTMwNjg1NTU3NjA0Zjk2NDU1MDNmNjg5`

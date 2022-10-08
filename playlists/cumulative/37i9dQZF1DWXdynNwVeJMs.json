@@ -1672,6 +1672,24 @@
     },
     {
       "album": {
+        "name": "Ever-changing Light",
+        "url": "https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA"
+      },
+      "artists": [
+        {
+          "name": "Lucid Lucia",
+          "url": "https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Quanked",
+      "url": "https://open.spotify.com/track/4ScsbA64TjlH2szHkAW8Kz"
+    },
+    {
+      "album": {
         "name": "Transit",
         "url": "https://open.spotify.com/album/58J5Tg7SnhkUcJsweg8xE0"
       },

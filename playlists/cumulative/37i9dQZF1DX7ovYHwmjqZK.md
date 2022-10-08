@@ -2,7 +2,7 @@
 
 ### [Café Bossa](https://open.spotify.com/playlist/37i9dQZF1DX7ovYHwmjqZK)
 
-> Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento
+> Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento\. Foto: Yamandu Costa
 
 117 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/6irLJVar0NJeoObqheLojG)
 

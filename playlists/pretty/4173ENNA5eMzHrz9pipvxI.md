@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Voost
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,331 likes - 36 songs - 1 hr 45 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,343 likes - 36 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 3 | [Feel Good](https://open.spotify.com/track/3ZFBPl6PJegBAVdvcz8DQf) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Feel Good](https://open.spotify.com/album/094Iwf7oYz9afqYEmc4TY8) | 2:56 |
 | 4 | [Deep Blue](https://open.spotify.com/track/6N64uP2GdgSjC1AAx4Y8J2) | [jaakob](https://open.spotify.com/artist/3UzlexNjM9XmG3Fb3O6Enb) | [Deep Blue](https://open.spotify.com/album/6P41WRzxaUDfKxbLCQeKtn) | 3:05 |
 | 5 | [Juicy Flute](https://open.spotify.com/track/050Y5VPOnhoRWXN2GTQQZi) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Juicy Flute](https://open.spotify.com/album/6UtmzXnBFTzPMsKDU5rffy) | 2:43 |
-| 6 | [Not Your Only One \(feat\. Becky Smith\)](https://open.spotify.com/track/6KG0qI1fDqLgFf7eL7MbDq) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Becky Smith](https://open.spotify.com/artist/0vZ5aE71uYu6LeasrWtmzu) | [Not Your Only One \(feat\. Becky Smith\)](https://open.spotify.com/album/1WdOaivRmcTw8rpRZkLywm) | 2:36 |
+| 6 | [Not Your Only One \(feat\. Becky Smith\)](https://open.spotify.com/track/6KG0qI1fDqLgFf7eL7MbDq) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Becky Smith](https://open.spotify.com/artist/27S7Je1MzN41dhBiMffYrA) | [Not Your Only One \(feat\. Becky Smith\)](https://open.spotify.com/album/1WdOaivRmcTw8rpRZkLywm) | 2:36 |
 | 7 | [Burn The House](https://open.spotify.com/track/3Jn8pHsJ0kBHHThwiEXppr) | [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P) | [Burn The House](https://open.spotify.com/album/0AauMrb24qw9KJLsBS2LA6) | 2:28 |
 | 8 | [Clear All Patterns](https://open.spotify.com/track/50UXg7yCe3Xsen1eXMfZSl) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Kurt Caesar](https://open.spotify.com/artist/5DbfurR8NTQj0fdFCqjVne) | [Clear All Patterns](https://open.spotify.com/album/0olPObVYoUXz01HB1VjgwP) | 4:09 |
 | 9 | [Keep On Dancing](https://open.spotify.com/track/2uvgpxlSsPsYHmOVptgvWr) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Kelvin River](https://open.spotify.com/artist/1KsrymyXUKgsUIfJdsbMiK), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Keep On Dancing](https://open.spotify.com/album/3znwPAtGYz0jfQECIzB9Z2) | 3:04 |

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-504 songs - 22 hr 31 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+505 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [Hey J](https://open.spotify.com/track/0wmINFeBlnKKQ4Eb6RhSSe) | [Hama](https://open.spotify.com/artist/2mkZla5mSMjsk6BRgWGOHr) | [Hey J](https://open.spotify.com/album/31ZQnyL40TaWNQDOjH9XIX) | 3:35 | 2021-12-23 | 2022-07-05 |
 | [Higher Protein](https://open.spotify.com/track/5uzSHqZl7wqY4L4UBRLzde) | [PURE](https://open.spotify.com/artist/2u8Sm9jSnMvbZNUjsbeZIM), [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [an/tunes](https://open.spotify.com/artist/727ZLZhPSKwb7qPw91oCD0) | [Higher Protein](https://open.spotify.com/album/6admNcl5NFzP0mLJRZcnyX) | 2:32 | 2022-01-13 | 2022-04-17 |
 | [Himawari](https://open.spotify.com/track/0Db8jbxnMBkB5kO72uIjEJ) | [Kogane](https://open.spotify.com/artist/6d9pWmFd3oZE3tKQVfgkmM) | [Himawari](https://open.spotify.com/album/28tmfRGaerhsZg6lusXnL9) | 4:34 | 2021-12-23 | 2022-02-11 |
-| [Home](https://open.spotify.com/track/3wysWXmxGlyI6IiY3prpYK) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/3Tye56Yi85arJp0l5LT6IC) | 3:44 | 2022-10-06 |  |
+| [Home](https://open.spotify.com/track/3wysWXmxGlyI6IiY3prpYK) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/3Tye56Yi85arJp0l5LT6IC) | 3:44 | 2022-10-06 | 2022-10-08 |
+| [Home](https://open.spotify.com/track/4sSfjd21b8ipFXaJfM5mV0) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 3:44 | 2022-10-06 |  |
 | [Home \- Rain Ver.](https://open.spotify.com/track/0mWOdDrz7awswEe7ppzVpO) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Nostalgic Rain](https://open.spotify.com/album/2Npx9E4iJAg08fHM5sIZf5) | 2:15 | 2022-08-11 |  |
 | [Home Is Home](https://open.spotify.com/track/1D1IDEaFX3RnA99wUnWrJv) | [PURE](https://open.spotify.com/artist/2u8Sm9jSnMvbZNUjsbeZIM) | [Home Is Home](https://open.spotify.com/album/4xyxg9DxzajDy72lw8kcIG) | 2:34 | 2022-03-31 | 2022-04-21 |
 | [Hot Chocolate](https://open.spotify.com/track/2GvqwmeGmbWHPnyYF7nQ7O) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's Penny Candy Store \#1](https://open.spotify.com/album/65zDuJRom3CMxP56XSPAM9) | 2:11 | 2022-02-03 | 2022-04-11 |

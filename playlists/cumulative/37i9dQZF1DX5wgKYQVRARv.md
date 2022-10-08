@@ -2,9 +2,9 @@
 
 ### [Progressive Metal](https://open.spotify.com/playlist/37i9dQZF1DX5wgKYQVRARv)
 
-> Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
+> Fresh and recent tracks from the world of Prog Metal\. Cover: Dance Gavin Dance
 
-551 songs - 2 day 0 hr 3 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+552 songs - 2 day 0 hr 9 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Collapse](https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:12 | 2022-07-13 |  |
 | [Colours](https://open.spotify.com/track/0NkFLNlM82YJ1SXRHUn543) | [Voyager](https://open.spotify.com/artist/16fltNcwTM5V9rnxIlcha4) | [Colours](https://open.spotify.com/album/1EBPNfgBB7eIj688x8HULF) | 4:04 | 2021-12-17 | 2022-07-29 |
 | [Come Alive](https://open.spotify.com/track/7zFcWdYvXTSO95T4ixAIN0) | [Virtual Symmetry](https://open.spotify.com/artist/3NC1AdGQMaRiX7s49I4vJy) | [Come Alive](https://open.spotify.com/album/6ZYjeVNoj0bkERomSoE06g) | 6:25 | 2022-07-01 | 2022-09-05 |
+| [Complex](https://open.spotify.com/track/3HtmYWiBa8y2CCYFJye6Yw) | [Threshold](https://open.spotify.com/artist/7KTRbZ1YTch5oXQOmQTStM) | [Complex](https://open.spotify.com/album/37YEbW5Pi7qeQKqf4gMIbV) | 5:50 | 2022-10-07 |  |
 | [Computer Eyes](https://open.spotify.com/track/1vKwCrbb0cgm56zrIa4WJq) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [Timeline](https://open.spotify.com/album/5fzem17HhdK8JvbQ5VssDU) | 7:17 | 2021-12-17 | 2022-01-29 |
 | [Condemned to the Gallows](https://open.spotify.com/track/26zVufX9OHnePGHVj58x69) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Condemned to the Gallows](https://open.spotify.com/album/6zT7A9hiGNmmSn9wBIzWoC) | 6:34 | 2021-12-17 | 2022-01-17 |
 | [Counterfeit](https://open.spotify.com/track/56DpxldmWlbxESQ3g7J4Ij) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Cloudburst](https://open.spotify.com/album/0uTemOj24WSMxUs4R6Ab4x) | 3:34 | 2022-07-13 | 2022-09-30 |
@@ -235,7 +236,7 @@
 | [Into the Fall](https://open.spotify.com/track/7rWczgig0np2zhmR6CyzMF) | [Ancestors](https://open.spotify.com/artist/4aGLoZx4GdlR6fqtmY7rNV) | [Suspended in Reflections](https://open.spotify.com/album/5gWycJLVfdSFcDYGU5IvP2) | 5:07 | 2021-12-17 | 2022-01-13 |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |
 | [Into the Void](https://open.spotify.com/track/1C2jP3FEsr9GMcsK5iP0Nx) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Into the Void](https://open.spotify.com/album/72BRKpCblIAaj0xTU608rJ) | 5:00 | 2021-12-17 | 2022-07-01 |
-| [Introspect](https://open.spotify.com/track/7IOrnVq2Hj4elIXzvWp8ua) | [Johari](https://open.spotify.com/artist/7Bu90tRyNrQvmkf0Xqggfe), [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Introspect](https://open.spotify.com/album/6QRDCjmfPTvCuzIyblURXv) | 4:18 | 2022-01-07 |  |
+| [Introspect](https://open.spotify.com/track/7IOrnVq2Hj4elIXzvWp8ua) | [Johari](https://open.spotify.com/artist/7Bu90tRyNrQvmkf0Xqggfe), [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Introspect](https://open.spotify.com/album/6QRDCjmfPTvCuzIyblURXv) | 4:18 | 2022-01-07 | 2022-10-08 |
 | [Invincible](https://open.spotify.com/track/53J9ZOQ0ezFytsEi6AWlSr) | [Seventh Wonder](https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0) | [The Testament](https://open.spotify.com/album/6teXtF5T7zmF49lqjnwtW8) | 3:39 | 2022-07-08 |  |
 | [Invisible Enemy](https://open.spotify.com/track/4gSokjaAfP1W9NTfkolzdJ) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Phantom Anthem](https://open.spotify.com/album/5raPbxzLIp6YJTN5jyyT2f) | 4:37 | 2022-07-13 |  |
 | [Invisible Monster](https://open.spotify.com/track/6l2ql6PfoDuaTtcjjPYGFL) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Invisible Monster](https://open.spotify.com/album/1p1GZyBV8zsBEW9I0LBQX7) | 6:30 | 2021-12-17 |  |

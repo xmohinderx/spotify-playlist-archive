@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 11703,
+  "num_followers": 11709,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMDg2ODE3MGUwN2QyMzRkZDc3YzViOTJmNThiYWMzYzg0",
+  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMGExNWIwNzRmZjk4NTUzMTYwNGRmZDQ0NDI1MzI3Yzk3",
   "tracks": [
     {
       "added_at": "2020-11-25 03:15:55",
@@ -611,6 +611,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Leylines",
+        "url": "https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "Harmonize",
+      "url": "https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Heroin and Helicopters",
         "url": "https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1"
       },
@@ -643,6 +659,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Take Your Power Back",
+        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
+      },
+      "artists": [
+        {
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+        }
+      ],
+      "duration_ms": 207485,
+      "name": "Lifeguard",
+      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Road Goes All Night",
         "url": "https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D"
       },
@@ -659,18 +691,18 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Take Your Power Back",
-        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
+        "name": "Stay Human Vol. II",
+        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
       },
       "artists": [
         {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
         }
       ],
-      "duration_ms": 207485,
-      "name": "Lifeguard",
-      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
+      "duration_ms": 169689,
+      "name": "Just to Say I Love You",
+      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -691,22 +723,6 @@
       "duration_ms": 262174,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "Stay Human Vol. II",
-        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 169689,
-      "name": "Just to Say I Love You",
-      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -839,22 +855,6 @@
       "duration_ms": 260171,
       "name": "Uneven Days",
       "url": "https://open.spotify.com/track/5NQhbua3fjGBeIUDDq1ozD"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "Leylines",
-        "url": "https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "Harmonize",
-      "url": "https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh"
     }
   ],
   "unique_name": "Peace Of Mind",

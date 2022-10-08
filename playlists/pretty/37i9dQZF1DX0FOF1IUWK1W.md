@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Gustavo Mioto com Mari Fernandez e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,884,217 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,886,086 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 |
 | 50 | [Nem Namorado e Nem Ficante \- Ao Vivo](https://open.spotify.com/track/5djAifHOVqTUDP61DCx8ti) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Nem Namorado e Nem Ficante \(Ao Vivo\)](https://open.spotify.com/album/715RY4qPqtYvtoYKaRCFpZ) | 2:46 |
 
-Snapshot ID: `MTY2NTA2ODQwMCwwMDAwMDAwMDRlYmY4MTVlMjNhNzA4MzQwYzBkMzQxOTc0ZDI4MmJk`
+Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMDVkM2RjZTI5MzU3NTM4NmVjYjljYmYyN2JmNDU5NmY5`

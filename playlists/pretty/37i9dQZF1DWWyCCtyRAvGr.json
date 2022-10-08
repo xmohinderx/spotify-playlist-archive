@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 121011,
+  "num_followers": 121173,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk3MzA4NCwwMDAwMDAwMDg2Yjc2ODQwYmI0N2M3M2Y2N2M4MzI1YTQxY2NhZmY0",
+  "snapshot_id": "MTY2NDk3MzA4NCwwMDAwMDAwMDdmZTkxZmRjZjM4NTAyOGYwODdkNjk0YTIyMmY4NDhk",
   "tracks": [
     {
       "added_at": "2022-10-03 13:21:37",
@@ -671,6 +671,26 @@
     {
       "added_at": "2022-10-03 13:21:37",
       "album": {
+        "name": "The Blues Don't Lie",
+        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Follow The Money (feat. James Taylor)",
+      "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
+    },
+    {
+      "added_at": "2022-10-03 13:21:37",
+      "album": {
         "name": "How Blue Can You Get",
         "url": "https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 436213,
       "name": "How Blue Can You Get",
       "url": "https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0"
-    },
-    {
-      "added_at": "2022-10-03 13:21:37",
-      "album": {
-        "name": "Traveler's Blues",
-        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 347360,
-      "name": "Ball and Chain",
-      "url": "https://open.spotify.com/track/5JrKfqQFOTwksNVdAUSF4b"
     },
     {
       "added_at": "2022-10-03 13:21:37",
@@ -723,22 +723,22 @@
     {
       "added_at": "2022-10-03 13:21:37",
       "album": {
-        "name": "The Blues Don't Lie",
-        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
+        "name": "Traveler's Blues",
+        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
         },
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Follow The Money (feat. James Taylor)",
-      "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
+      "duration_ms": 347360,
+      "name": "Ball and Chain",
+      "url": "https://open.spotify.com/track/5JrKfqQFOTwksNVdAUSF4b"
     },
     {
       "added_at": "2022-10-03 13:21:37",
@@ -807,6 +807,26 @@
     {
       "added_at": "2022-10-03 13:21:37",
       "album": {
+        "name": "Push The Blues Away",
+        "url": "https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC"
+      },
+      "artists": [
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        },
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "duration_ms": 187447,
+      "name": "Something With Feel",
+      "url": "https://open.spotify.com/track/6MAuL12Qbgkv5DpaZL4cZO"
+    },
+    {
+      "added_at": "2022-10-03 13:21:37",
+      "album": {
         "name": "The Right Time",
         "url": "https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 280360,
       "name": "This Time I'm Gone For Good",
       "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
-    },
-    {
-      "added_at": "2022-10-03 13:21:37",
-      "album": {
-        "name": "Push The Blues Away",
-        "url": "https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC"
-      },
-      "artists": [
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
-        },
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        }
-      ],
-      "duration_ms": 187447,
-      "name": "Something With Feel",
-      "url": "https://open.spotify.com/track/6MAuL12Qbgkv5DpaZL4cZO"
     }
   ],
   "unique_name": "Blues on the Rocks",

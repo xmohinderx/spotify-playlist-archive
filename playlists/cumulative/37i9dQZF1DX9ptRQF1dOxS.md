@@ -2,7 +2,7 @@
 
 ### [EQUAL UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9ptRQF1dOxS)
 
-> Listen to women at full volume\. Cover: Nina Nesbitt
+> Listen to women at full volume\. Cover: Connie Constance
 
 440 songs - 1 day 1 hr 14 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
 

@@ -4786,6 +4786,24 @@
     },
     {
       "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/6MDA7d0uRob3kJv6tb5BRy"
+      },
+      "artists": [
+        {
+          "name": "Leat'eq",
+          "url": "https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4V7Pr4MiVJBsjQahcEEbKS"
+    },
+    {
+      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/2i3hlAf4hXlgQFF9copmNN"
       },

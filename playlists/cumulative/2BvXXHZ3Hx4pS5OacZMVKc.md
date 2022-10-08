@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-197 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+198 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Sweet](https://open.spotify.com/track/7zheGycYrMgijrwtHEGsu5) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [MAZAN](https://open.spotify.com/artist/0y0mNvcQKUUsbRlOcekXG4) | [Sweet](https://open.spotify.com/album/3JiNug3c3xJbvhIGHzuBcl) | 2:40 | 2022-10-04 |  |
 | [Symbolism pt\. III](https://open.spotify.com/track/3j9repS7j0ic94QnkmBWow) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Symbolism pt\. III](https://open.spotify.com/album/2W3HSyUgF9aoXOUIxB5xyx) | 4:06 | 2022-08-12 | 2022-08-19 |
 | [Take It Easy \- DNB Edit](https://open.spotify.com/track/0ixRU1IxaGqqPR6b4dUtek) | [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU), [Mia Vaile](https://open.spotify.com/artist/38SIErfZNd7u2qlIzFeZqm) | [Take It Easy \(DNB Edit\)](https://open.spotify.com/album/2U4tG5P74xLImzIen1UFa3) | 3:24 | 2022-06-17 |  |
+| [Take It or Leave It](https://open.spotify.com/track/02Jm97ALc0atbXRpiwCLba) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn), [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Take It or Leave It](https://open.spotify.com/album/10F8ssQIhAa8r6fNM63bcL) | 2:46 | 2022-10-07 |  |
 | [Take Me](https://open.spotify.com/track/1w7rP4pnAMKrqzUvXzYm4N) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Take Me](https://open.spotify.com/album/1dn6xT7eVtBBzwRtOVdOn4) | 3:13 | 2022-04-23 |  |
 | [Take Me Away](https://open.spotify.com/track/5TaN8tKUze7Mxk2xFhgIud) | [NATSUMI](https://open.spotify.com/artist/7DCltfdFTL9tQFRM9KXPuz) | [Take Me Away](https://open.spotify.com/album/2DhfIfaRMwomT29376ejzP) | 2:54 | 2022-02-03 | 2022-09-15 |
 | [Take You Home](https://open.spotify.com/track/73aaclqbUGL3q6YJqphuMq) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [Take You Home](https://open.spotify.com/album/41uqT8wCaNKApdGZdI0YpF) | 2:46 | 2022-02-03 | 2022-07-12 |

@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14288,
+  "num_followers": 14303,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDg3YTM2MWQ1ODhmODc4ZmZkN2JhZjZiYjgzYTg1NmMw",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDBlM2I1NzFmMTg4NGEyNTEyYjhhZjhlNzYxMjI1OWU4",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -657,26 +657,6 @@
       "url": "https://open.spotify.com/track/4xpTM1MCKhY91OGiOhHNf5"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Talamanca (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/35w6yEBEB6zabCzMmrI1Hi"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 175119,
-      "name": "Talamanca - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/6kZnMNLj1MnIJTM98yHsz5"
-    },
-    {
       "added_at": "2021-07-30 04:00:00",
       "album": {
         "name": "Neon Jungle Remixes",
@@ -695,6 +675,26 @@
       "duration_ms": 249919,
       "name": "Neon Jungle - Lane 8 Remix",
       "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Talamanca (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/35w6yEBEB6zabCzMmrI1Hi"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 175119,
+      "name": "Talamanca - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/6kZnMNLj1MnIJTM98yHsz5"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 265570,
-      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 279685,
       "name": "Pump the Brakes - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 265570,
+      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1059,6 +1059,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "BED (Joel Corry VIP Mix)",
+        "url": "https://open.spotify.com/album/7LQyP0CttZ5pgZeM112RHT"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 179078,
+      "name": "BED - Joel Corry VIP Mix",
+      "url": "https://open.spotify.com/track/4pyUjXNoZuDXVB9ath5wkT"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Scare Me (feat. KSHMR & Karra) [Chico Rose Remix]",
         "url": "https://open.spotify.com/album/0mCZ56iVnJ33wPxfRBPGcO"
       },
@@ -1087,30 +1111,6 @@
       "duration_ms": 142593,
       "name": "Scare Me (feat. KSHMR & Karra) - Chico Rose Remix",
       "url": "https://open.spotify.com/track/2bynw6Zc1Er7Zf9qm0ayDP"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "BED (Joel Corry VIP Mix)",
-        "url": "https://open.spotify.com/album/7LQyP0CttZ5pgZeM112RHT"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 179078,
-      "name": "BED - Joel Corry VIP Mix",
-      "url": "https://open.spotify.com/track/4pyUjXNoZuDXVB9ath5wkT"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Free Your Body (Noizu Remix)",
-        "url": "https://open.spotify.com/album/2huZSD1rl3OePdo2y6in6t"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 228070,
-      "name": "Free Your Body - Noizu Remix",
-      "url": "https://open.spotify.com/track/1XcPgQVOzNYHIQ9LBjU10p"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Love Line (with Tinashe) [HUGEL Remix]",
         "url": "https://open.spotify.com/album/0uYAo4XuwGXdsPQaWDcmqb"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 145638,
       "name": "Love Line (with Tinashe) - HUGEL Remix",
       "url": "https://open.spotify.com/track/5JLJspwJ2bV0MHQw5zTdsj"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Free Your Body (Noizu Remix)",
+        "url": "https://open.spotify.com/album/2huZSD1rl3OePdo2y6in6t"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 228070,
+      "name": "Free Your Body - Noizu Remix",
+      "url": "https://open.spotify.com/track/1XcPgQVOzNYHIQ9LBjU10p"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Stars Align (The Remixes)",
-        "url": "https://open.spotify.com/album/3GxU98ArKcm5NVeANn9QSX"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        },
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 174759,
-      "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
-      "url": "https://open.spotify.com/track/5XXNwkFGSRcv8Gw2hOngBB"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Higher (feat. iann dior) [VIZE Remix]",
         "url": "https://open.spotify.com/album/4DLOoRFic472ZCoVyZih5J"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 151820,
       "name": "Higher (feat. iann dior) - VIZE Remix",
       "url": "https://open.spotify.com/track/7AY9zVsDed72P0CytpQpL3"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Stars Align (The Remixes)",
+        "url": "https://open.spotify.com/album/3GxU98ArKcm5NVeANn9QSX"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 174759,
+      "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
+      "url": "https://open.spotify.com/track/5XXNwkFGSRcv8Gw2hOngBB"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1899,30 +1899,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Nobody (Devault Remix)",
-        "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Catello",
-          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
-        },
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 259286,
-      "name": "Nobody - Devault Remix",
-      "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "My Feelings",
         "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
       },
@@ -1943,6 +1919,30 @@
       "duration_ms": 181922,
       "name": "My Feelings - Mokita Remix",
       "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Nobody (Devault Remix)",
+        "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Catello",
+          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 259286,
+      "name": "Nobody - Devault Remix",
+      "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Views of a Room",
-        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        }
-      ],
-      "duration_ms": 373890,
-      "name": "Babel - Maceo Plex Remix",
-      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "1 Day 2 Nights (Billen Ted Remix)",
         "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
       },
@@ -2131,22 +2111,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+        "name": "Views of a Room",
+        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
         },
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
         }
       ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
+      "duration_ms": 373890,
+      "name": "Babel - Maceo Plex Remix",
+      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2167,6 +2147,26 @@
       "duration_ms": 209959,
       "name": "Purple Hat - KC Lights Remix",
       "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2323,26 +2323,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
-      },
-      "artists": [
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Jaiye (Aluna and Sigag Lauren Remix)",
         "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
@@ -2363,6 +2343,26 @@
       "duration_ms": 221032,
       "name": "Jaiye (Aluna and Sigag Lauren Remix)",
       "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 美根
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,195 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,215 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 49 | [青に咲く花](https://open.spotify.com/track/0D1D5pNoOcHzgFH4YFVl6l) | [ザ・モアイズユー](https://open.spotify.com/artist/3IS1kmgNsXkKAhX7bBGr5C) | [青に咲く花](https://open.spotify.com/album/4x5yTcYBl5MJKGevXo1ojV) | 4:22 |
 | 50 | [ねぇよな](https://open.spotify.com/track/7vS5bHgo0RWKAYl2fnnH66) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [ねぇよな](https://open.spotify.com/album/2U6LZRTdPmnyM8gZzK0Xuq) | 2:40 |
 | 51 | [COMEBACK \-愛しき破片\-](https://open.spotify.com/track/7Mgn8p0451fAjylZny6ABK) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [COMEBACK \-愛しき破片\-](https://open.spotify.com/album/1kIuGGIYH31Y9ev3q2DmA3) | 4:26 |
-| 52 | [Akizakura](https://open.spotify.com/track/2q4BkQVipIOaGkOVXVDinW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [Akizakura](https://open.spotify.com/album/1coZN5XonZPX90zeebHNHd) | 2:10 |
+| 52 | [Akizakura](https://open.spotify.com/track/6N5ouLoG3ODV0U0oet9FnA) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [HELLO](https://open.spotify.com/album/1taPkLBMsmuofrmi3VSbPx) | 2:10 |
 | 53 | [Antithesis Kisama \-kai\-](https://open.spotify.com/track/0OmfaGcA7apk49uVlzmWwC) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Antithesis Kisama \-kai\-](https://open.spotify.com/album/7Fe8AR257yKmXZfM7osje4) | 3:13 |
 | 54 | [Hood](https://open.spotify.com/track/2uAHX7asfwBUDWf5TWahCo) | [G over](https://open.spotify.com/artist/7sJ2Az7V9sP0i4dN7fh8zp) | [Hood](https://open.spotify.com/album/5Skaxkp43qjAZxNpe7HUp4) | 4:13 |
 | 55 | [Laika](https://open.spotify.com/track/5xA3rEBFUN7AaBKDWLoRES) | [Yuri Yuki](https://open.spotify.com/artist/3lBBdJs6hYYfPmG4DeJ91k) | [Laika](https://open.spotify.com/album/1ZDvVoXC2Qi4yYK4obgUsU) | 4:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [大人なんだから](https://open.spotify.com/track/2okQ2nnHXjB43bsDs2EMSw) | [Lilla Flicka](https://open.spotify.com/artist/3micaqXD3IfdIBJV1WdVlV), [新音楽制作工房](https://open.spotify.com/artist/1z776vCwcm2F8ddQJWA4H8) | [大人なんだから](https://open.spotify.com/album/0roLcvRsv2xaNTsHz2ZMYH) | 4:46 |
 | 80 | [WORLD GROOVE 3rd.chapter \- main message](https://open.spotify.com/track/51TXAX6tcwb9ezYkeWSbet) | [TRF](https://open.spotify.com/artist/74UwkYjA5WAPyrTYFO3mW9) | [WORLD GROOVE](https://open.spotify.com/album/0sObqoToUo9FDX2Yjh1jYk) | 6:47 |
 
-Snapshot ID: `MTY2NDgwOTIwMCwwMDAwMDAwMDVjNDRiMThlNjg3ZTUxNTJmNDliZDNjOWY5ZGI0NjZh`
+Snapshot ID: `MTY2NDgwOTIwMCwwMDAwMDAwMGE2MTY0ZGU2NDZkYzFlZjZkYzkxODJiYzZmNDQzN2I5`

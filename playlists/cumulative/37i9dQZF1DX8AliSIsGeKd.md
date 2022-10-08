@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Schlepp Geist
 
-842 songs - 3 day 5 hr 42 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+843 songs - 3 day 5 hr 47 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,8 @@
 | [MORE LOVE](https://open.spotify.com/track/3KJGNYQuE80AZ63x1QWlE7) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE LOVE](https://open.spotify.com/album/1gK6Yfs4kPhbHn1JvAGMfT) | 4:36 | 2022-04-14 | 2022-04-22 |
 | [Morning Sky](https://open.spotify.com/track/3h3c5dCyMUuaC5rtyCaw6J) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj) | [Morning Sky](https://open.spotify.com/album/31ggIgNopLR0JgwFjJwgYx) | 4:41 | 2022-06-02 | 2022-06-24 |
 | [Mountain Girl](https://open.spotify.com/track/54DpJYvljuWYNTe4jLKl1N) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61) | [Mountain Girl](https://open.spotify.com/album/49WjDUNyZSnWfsj9hkZnU3) | 6:57 | 2022-06-02 | 2022-06-17 |
-| [Move](https://open.spotify.com/track/213VZ9lPNKykn3cLrmYkKf) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Move](https://open.spotify.com/album/51SyEa6HlrLkINwbNnmGhg) | 5:25 | 2022-09-22 |  |
+| [Move](https://open.spotify.com/track/0fouEhRoo3FApnQPIXKgOY) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Move](https://open.spotify.com/album/2O1q3IboqaR8KEDRy2cDRc) | 5:25 | 2022-10-06 |  |
+| [Move](https://open.spotify.com/track/213VZ9lPNKykn3cLrmYkKf) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Move](https://open.spotify.com/album/51SyEa6HlrLkINwbNnmGhg) | 5:25 | 2022-09-22 | 2022-10-08 |
 | [Moving a Mountain](https://open.spotify.com/track/4X3C5BK834jOAnmLxu5KJW) | [Oberst & Buchner](https://open.spotify.com/artist/6c6I6loLZeoagmF9nfAXJw) | [Moving a Mountain](https://open.spotify.com/album/5mZPMMGTqnotFNHHs6XpsW) | 6:54 | 2022-08-04 | 2022-08-19 |
 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 | 2022-05-12 | 2022-06-03 |
 | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/track/5noZKtZK2JZsGK8JlUiVeB) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/album/2tAqZzvr2JODFIr70Gkfd4) | 5:43 | 2022-06-30 | 2022-07-15 |

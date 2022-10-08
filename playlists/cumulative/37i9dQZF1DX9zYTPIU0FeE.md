@@ -4,14 +4,15 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7?si=VPuHoz8NQiOVNcui\-WWOzA">The Brother Moves On</a>
 
-82 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
+83 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/0ANwIIMXAUMCahITjRSDWI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Night in D.C](https://open.spotify.com/track/1cUBc1b5n74f4fzH4ol93o) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Two Sides,One Mirror](https://open.spotify.com/album/3cRaqxp2N4Bmw8m7jwGF3v) | 4:23 | 2022-04-28 |  |
 | [ABANTU](https://open.spotify.com/track/49tt0RR7huvZTezOjRXpdP) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 5:04 | 2022-04-28 |  |
 | [African Ontology](https://open.spotify.com/track/56Se3mc2uBst7dLCe3qiwX) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Revision](https://open.spotify.com/album/54kfgK7hTKoAWTSSmZoC3I) | 7:41 | 2022-04-28 |  |
-| [Airport Terminal](https://open.spotify.com/track/7EYPZaZRPWHFh6k8ltg43c) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and the Politics of Memory](https://open.spotify.com/album/14ZKx2M8Jb8ydk7XQUfmBf) | 5:47 | 2022-04-28 |  |
+| [Airport Terminal](https://open.spotify.com/track/7EYPZaZRPWHFh6k8ltg43c) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and the Politics of Memory](https://open.spotify.com/album/14ZKx2M8Jb8ydk7XQUfmBf) | 5:47 | 2022-04-28 | 2022-10-08 |
+| [Airport Terminal](https://open.spotify.com/track/2jnZIpOYHfgk49nb4qdH1m) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and The Politics of Memory](https://open.spotify.com/album/4LDBC7za9NUCEJNKkGCdnL) | 5:51 | 2022-04-28 |  |
 | [Amathongo](https://open.spotify.com/track/2jUqVDtYIJWd3baszNjZkF) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Amathongo](https://open.spotify.com/album/26o5fNnGz2qfoCuhWrAvW8) | 6:26 | 2022-04-28 |  |
 | [Amazing Grace](https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Blk Elijah & The Children of Meroë](https://open.spotify.com/album/2HUrxmQV5x6i6FQTr6950S) | 7:06 | 2022-07-07 |  |
 | [Aunty B \- Live](https://open.spotify.com/track/4B0SAa1Qh18m6LkRRUqtCE) | [Keenan Ahrends](https://open.spotify.com/artist/6ESm50MFOfkEqAaWEgVKiQ) | [Perseverance: Live at the Bird's Eye](https://open.spotify.com/album/5ALMv6JHL1KO7SVaeilQiD) | 8:00 | 2022-05-12 |  |

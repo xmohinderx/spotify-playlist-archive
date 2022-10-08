@@ -1,12 +1,12 @@
 {
   "description": "canto de tristeza porque lo nuestro termin\u00f3 ",
-  "num_followers": 41545,
+  "num_followers": 41608,
   "original_name": "perd\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4NDI1MywwMDAwMDAwMGU5MjlmNDM0MGI4ZDdjZDAwOTQ5ZDgwY2FiNGEwYjZk",
+  "snapshot_id": "MTY1OTQ4NDI1MywwMDAwMDAwMGFjZTFlMTRmMDY0ZGQyOWY3ZDM4OGNlNWIyOTM5ODU1",
   "tracks": [
     {
       "added_at": "2022-08-02 23:50:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Aunque Ahora Est\u00e9s Con \u00c9l",
-        "url": "https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Aunque Ahora Est\u00e9s Con \u00c9l",
-      "url": "https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
         "name": "Viento A Favor",
         "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 250226,
       "name": "Te Voy a Perder",
       "url": "https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
+        "name": "Aunque Ahora Est\u00e9s Con \u00c9l",
+        "url": "https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Aunque Ahora Est\u00e9s Con \u00c9l",
+      "url": "https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0"
     },
     {
       "added_at": "2022-08-02 23:50:53",

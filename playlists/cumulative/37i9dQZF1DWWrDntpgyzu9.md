@@ -2,7 +2,7 @@
 
 ### [Cantando no Chuveiro](https://open.spotify.com/playlist/37i9dQZF1DWWrDntpgyzu9)
 
-> Solte a voz no chuveiro e liberte o cantor dentro de você!
+> Solte a voz no chuveiro e liberte o cantor dentro de você! Foto: IZA
 
 142 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/1zsveXP4y3EfVZQZKneD0e)
 

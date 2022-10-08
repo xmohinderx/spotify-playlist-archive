@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas portuguesas, como Nena, com o volume no máximo.
 
-256 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
+257 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Pousa O Teu Livro](https://open.spotify.com/track/0Vvf0GGQobVhdTlfYcNPEX) | [Ana Stilwell](https://open.spotify.com/artist/1Uk8RuBRNnqUIgrC2DAM2x) | [Pousa O Teu Livro](https://open.spotify.com/album/3QFWtzXGeTWfbm3u9Jx5Ft) | 2:56 | 2022-04-05 | 2022-06-01 |
 | [poço](https://open.spotify.com/track/0WKdswXK8JutnxKvBxVTIE) | [redoma](https://open.spotify.com/artist/0GY7wkYtCMtRC31RueQtyr) | [parte](https://open.spotify.com/album/3BlYm5gSOBYtt7P5UODgBW) | 3:10 | 2022-04-05 | 2022-07-06 |
 | [Praia do Rosa](https://open.spotify.com/track/5v51LRyonhsnScW06ql0Fv) | [Inês Bispo](https://open.spotify.com/artist/6pFehvqhKKnRTP0EP060RZ) | [Praia do Rosa](https://open.spotify.com/album/4ZNOmZG7k0Kc8PWBXMtcyQ) | 2:47 | 2021-12-08 | 2022-03-08 |
-| [Pressure \(unplugged\)](https://open.spotify.com/track/4GPY15g4dqJbhccyDEscVY) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Pressure \(unplugged\)](https://open.spotify.com/album/12E8Bz8SrAEHaoCdJ46LII) | 2:45 | 2022-09-06 |  |
+| [Pressure \(unplugged\)](https://open.spotify.com/track/4GPY15g4dqJbhccyDEscVY) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Pressure \(unplugged\)](https://open.spotify.com/album/12E8Bz8SrAEHaoCdJ46LII) | 2:45 | 2022-09-06 | 2022-10-08 |
+| [Pressure \- Unplugged](https://open.spotify.com/track/45huXaWrbt1A5mX2TYigQP) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Pressure \(unplugged\)](https://open.spotify.com/album/7cZgk2z7Pa38zSxgC21CWy) | 2:45 | 2022-10-04 |  |
 | [Primavera](https://open.spotify.com/track/3u2IaE26vA6NYFPXioYsu2) | [Mariana Cortesão](https://open.spotify.com/artist/3SDCsDkaKp4ufaOh4gRMjG) | [Primavera](https://open.spotify.com/album/7AvfOTf4qr0CguKbMfXdXP) | 4:06 | 2022-05-03 | 2022-07-06 |
 | [Primeiro Andar](https://open.spotify.com/track/5j5UNlT7BlJkp1OL37If1x) | [Yinb](https://open.spotify.com/artist/2KmhbuIqupCuWoDpTidzrV), [Momma T](https://open.spotify.com/artist/2RwEXHPEe17Ekap37t6BBs) | [Primeiro Andar](https://open.spotify.com/album/6gwgtt8MWoQpYiHiVtzNfJ) | 3:06 | 2022-05-31 | 2022-09-07 |
 | [Prédio mais alto](https://open.spotify.com/track/5VX9b8P0zFPo7nvZpyTEVM) | [A garota não](https://open.spotify.com/artist/7uCICyVlZh7EL1y4QLbNi0) | [2 de abril](https://open.spotify.com/album/0TAFFWyxduS8KwOKqrOLHv) | 5:54 | 2022-05-03 | 2022-08-03 |

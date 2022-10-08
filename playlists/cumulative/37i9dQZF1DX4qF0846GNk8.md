@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> الغلاف: عصام صاصا
 
-92 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+93 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,13 +81,14 @@
 | [محدش يقولي يا خويا](https://open.spotify.com/track/5WMk2uxBimKwASfmSLW4v6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [محدش يقولي يا خويا](https://open.spotify.com/album/4mE3FVSR0PDqA7rodta9Sk) | 3:20 | 2022-02-16 |  |
 | [مسجون حزين](https://open.spotify.com/track/0TxEBrs9Py9uOxwOSYBROV) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مسجون حزين](https://open.spotify.com/album/5bCHHycTY8di9iZoGO6hYI) | 4:24 | 2021-12-16 |  |
 | [مظبوط](https://open.spotify.com/track/7o0hlHMqHRDytYnYF7wYIa) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [مظبوط](https://open.spotify.com/album/0DXCelQ2rGcnuZjWPAOil6) | 3:45 | 2022-06-02 | 2022-07-31 |
-| [ملقتش حد قالي مالك](https://open.spotify.com/track/2rJ6FZ0LQjHCxg0Pi8B4Vl) | [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [ملقتش حد قالي مالك](https://open.spotify.com/album/6DTMAHdk6AOs4sdKLLOyNi) | 3:41 | 2022-01-10 |  |
+| [ملقتش حد قالي مالك](https://open.spotify.com/track/2rJ6FZ0LQjHCxg0Pi8B4Vl) | [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [ملقتش حد قالي مالك](https://open.spotify.com/album/6DTMAHdk6AOs4sdKLLOyNi) | 3:41 | 2022-01-10 | 2022-10-08 |
 | [ممنوع حد يقرب منك](https://open.spotify.com/track/746Q5YMgrPz2tLACl93ZPl) | [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG), [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [ممنوع حد يقرب منك](https://open.spotify.com/album/2gNEIBS4gLkGKlZuzDDwZx) | 4:15 | 2021-12-16 |  |
 | [مهرجان اخرس عمك جالك \( مالك يا صاحبي احكيلي \- خلوني ابقي شيطان \)](https://open.spotify.com/track/7HwAJD7l8JhAJtlKDYBY0F) | [حلقولو](https://open.spotify.com/artist/7b9HTYLzKkHgp3qaC6mr4V), [الدوجرى](https://open.spotify.com/artist/5qxlcrQWyPwEwdZ3PDFe2X) | [مهرجان اخرس عمك جالك \( مالك يا صاحبي احكيلي \- خلوني ابقي شيطان \)](https://open.spotify.com/album/2wvuf3nTDEhD2kZivp7LjS) | 5:44 | 2022-07-19 |  |
 | [مهرجان اخواتى](https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Zoka](https://open.spotify.com/artist/18foZksTwFHJIDFX9mBO2H), [Shehta Karika](https://open.spotify.com/artist/5D9oikZ4ncJETBXgLhXSdv) | [مهرجان اخواتى](https://open.spotify.com/album/2kUP4HUqHWNslusZ6Ly5w4) | 2:39 | 2021-12-16 | 2022-01-11 |
 | [مهرجان اسكت يا قلبي](https://open.spotify.com/track/3bpMAr3KaaAm7YrAp8K9XD) | [Eslam Nabawy](https://open.spotify.com/artist/4msLeWosAtlqUnbOu7K0bk) | [مهرجان اسكت يا قلبي](https://open.spotify.com/album/3oyReWYuMccCmyqaJMIpGF) | 3:36 | 2021-12-16 | 2022-01-11 |
 | [مهرجان كده خلصت](https://open.spotify.com/track/6CvFpZn8hZQsjZg8e38pSM) | [Shaima El Mghrby](https://open.spotify.com/artist/4ISuS0WVMBbemeaLxNSszD) | [مهرجان كده خلصت](https://open.spotify.com/album/5HImvzUJHxV4n2mBBTUSrT) | 3:15 | 2021-12-16 |  |
 | [موديل باريس](https://open.spotify.com/track/1ezuOtgC76D3bRaDhrqu3S) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [موديل باريس](https://open.spotify.com/album/28rAKLhpEsCkz1A5nK02NG) | 3:17 | 2021-12-16 |  |
+| [ندمان يا باشا عارف انى غلطان](https://open.spotify.com/track/65m44BVw6gFWS9ep5hkjg9) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ندمان عارف يا باشا اني انا غلطان](https://open.spotify.com/album/2sazOwQENSqmf0TWo5oww7) | 4:15 | 2022-10-07 |  |
 | [نفسي ثم نفسي](https://open.spotify.com/track/361NL1PciW2K8iDsR0YRJj) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl), [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx) | [نفسي ثم نفسي](https://open.spotify.com/album/044urXR20UqWyDbYmQ7moP) | 4:04 | 2021-12-16 | 2022-02-25 |
 | [هل تعلم ان المصلحه](https://open.spotify.com/track/4dbEBMii9RAuklJe8QQu6i) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هل تعلم ان المصلحه](https://open.spotify.com/album/08D2FBmma4ZQWHICYpqywb) | 6:20 | 2022-01-10 | 2022-07-20 |
 | [هلا انا جيت تريح يلا](https://open.spotify.com/track/17H3IfzbBDHZQsR49cCqkA) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI) | [هلا انا جيت تريح يلا](https://open.spotify.com/album/2HaoiAQBLEzr6b7b5BQXl5) | 6:25 | 2022-07-19 |  |

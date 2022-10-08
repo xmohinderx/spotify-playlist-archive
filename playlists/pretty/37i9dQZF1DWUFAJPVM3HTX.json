@@ -1,12 +1,12 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Avenoir",
-  "num_followers": 166907,
+  "num_followers": 166989,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk1MzI2MCwwMDAwMDAwMGEzZTQ4OTZlY2YwODI5NTE2YWI3YzE3ZDBkNTczOWYy",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDJlMDA5OGEwZTJiZGIyNmMwMzkxMWNjNDk0MjNiNmM3",
   "tracks": [
     {
       "added_at": "2022-10-05 07:01:00",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/2OR6sDdibyxWVQaYlbk7k1"
     },
     {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "In My Bag",
+        "url": "https://open.spotify.com/album/4FhbBoVs9JuN2pHR2vhhzG"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/1zaPLv9PlpndUpmw1I24e8"
+    },
+    {
       "added_at": "2022-10-05 07:01:00",
       "album": {
         "name": "RIDE",
@@ -279,6 +295,22 @@
       "duration_ms": 184777,
       "name": "Torn",
       "url": "https://open.spotify.com/track/7C46gSLCsIBYRZVywr5Bno"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "mama's little girl (hate the world)",
+        "url": "https://open.spotify.com/album/5hLjQiJjtCmNa805N15UpO"
+      },
+      "artists": [
+        {
+          "name": "Sie",
+          "url": "https://open.spotify.com/artist/4hs7Io6w7BHOxlbtOIjGH1"
+        }
+      ],
+      "duration_ms": 125062,
+      "name": "mama's little girl (hate the world)",
+      "url": "https://open.spotify.com/track/2DvtkayNBAvN0nJVbQf5Zc"
     },
     {
       "added_at": "2022-10-05 07:01:00",

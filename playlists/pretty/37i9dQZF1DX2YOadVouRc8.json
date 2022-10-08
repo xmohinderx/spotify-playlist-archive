@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 7865,
+  "num_followers": 7879,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxOTIxMiwwMDAwMDAwMDdiYWJkZmZiYTYyMDNhZjRkM2VmYWE3NjU2ZDBhZWUx",
+  "snapshot_id": "MTY2NDUxOTIxMiwwMDAwMDAwMDE2ZDU0MjJiMjkwZDA0NGQxOTJiZWQ0NGUyMDI5ZWUz",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
     },
     {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "FOR MY BABY",
+        "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "FOR MY BABY",
+      "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Confident",
@@ -591,22 +607,6 @@
       "duration_ms": 185619,
       "name": "Confident",
       "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "FOR MY BABY",
-        "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "FOR MY BABY",
-      "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
     },
     {
       "added_at": "2022-08-18 23:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "ROOTS",
-        "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 258577,
-      "name": "Osondu",
-      "url": "https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Rosemary",
         "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 188760,
       "name": "Rosemary",
       "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "ROOTS",
+        "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 258577,
+      "name": "Osondu",
+      "url": "https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/49NEv35Vtyq3x1VKO8vszr"
+      },
+      "artists": [
+        {
+          "name": "Ronehi",
+          "url": "https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv"
+        },
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/719tWjaCn54N9rCD8tgtDG"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Jump On It (REMIX)",
         "url": "https://open.spotify.com/album/3JI4J8tbDetUugD4Dn7CU8"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 165981,
       "name": "Jump On It - Sut\u00e9 Iwar Remix",
       "url": "https://open.spotify.com/track/6lpkLT4vmzTAyDJA8SF5bF"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/49NEv35Vtyq3x1VKO8vszr"
-      },
-      "artists": [
-        {
-          "name": "Ronehi",
-          "url": "https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv"
-        },
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/719tWjaCn54N9rCD8tgtDG"
     },
     {
       "added_at": "2022-09-30 06:26:52",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "4 Play",
-        "url": "https://open.spotify.com/album/3Ms9uKVOdEp42Y9cZeZukQ"
-      },
-      "artists": [
-        {
-          "name": "Eugy",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 143248,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/3ewBGRjaqmMCkTmyzk3yVw"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Adua (Remix)",
         "url": "https://open.spotify.com/album/1qkEUpHPioAcOlMjDkEGLV"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "4 Play",
+        "url": "https://open.spotify.com/album/3Ms9uKVOdEp42Y9cZeZukQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 143248,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/3ewBGRjaqmMCkTmyzk3yVw"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Streets",
         "url": "https://open.spotify.com/album/1goCePe21K8C2PtUJ5ylFa"
       },
@@ -1267,6 +1267,26 @@
       "duration_ms": 166517,
       "name": "Streets",
       "url": "https://open.spotify.com/track/17EfS2HABo1TrvP0IeXWZ4"
+    },
+    {
+      "added_at": "2022-09-30 06:26:52",
+      "album": {
+        "name": "Spring to Summer",
+        "url": "https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo"
+      },
+      "artists": [
+        {
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        },
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 254326,
+      "name": "Suga Candy",
+      "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1379,26 +1399,6 @@
       "duration_ms": 149311,
       "name": "loving is harder",
       "url": "https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy"
-    },
-    {
-      "added_at": "2022-09-30 06:26:52",
-      "album": {
-        "name": "Spring to Summer",
-        "url": "https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo"
-      },
-      "artists": [
-        {
-          "name": "Mopao Mumu",
-          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
-        },
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 254326,
-      "name": "Suga Candy",
-      "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
     },
     {
       "added_at": "2022-09-09 09:23:49",

@@ -4,7 +4,7 @@
 
 > Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: HYNN\(박혜원\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-340 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
+341 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [I \(feat\. MINSEO\)](https://open.spotify.com/track/0OmPQqX1CajqAZ4MkBz6tb) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [I \(feat\. MINSEO\)](https://open.spotify.com/album/7wcgA4iskyzVb8s4w7St3e) | 4:00 | 2021-12-20 | 2022-07-29 |
 | [I can't forget you](https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [If You Wish Upon Me OST Part.3](https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9) | 3:38 | 2022-08-19 |  |
 | [I Can't Help It \(Prod\. Jungkey\)](https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can't Help It](https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd) | 3:44 | 2022-09-21 |  |
+| [I Can’t](https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can’t \(Re:WIND 4MEN Vol.02\)](https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6) | 4:10 | 2022-10-08 |  |
 | [I Don't Want](https://open.spotify.com/track/3aNsBkmdh6MO8UkLd42BUA) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 3:43 | 2022-01-14 | 2022-04-16 |
 | [I hate you](https://open.spotify.com/track/4cuvGQEBMIWnGBQu9yLgOh) | [ZOIN](https://open.spotify.com/artist/6piQESINjWBSElYa126dD7) | [I hate you](https://open.spotify.com/album/0p4tIoEV2Z60mUexJyY4SD) | 3:56 | 2022-03-31 | 2022-06-07 |
 | [I hope](https://open.spotify.com/track/5ylBPTi0o2plQ4sFrhzd0s) | [Cheon Dan Bi](https://open.spotify.com/artist/2AqxU4G8A5RoUMtIiKfHcQ) | [I hope](https://open.spotify.com/album/3rw63CsSL39xUhvW2yuEx2) | 3:50 | 2022-05-13 | 2022-05-18 |
@@ -137,7 +138,7 @@
 | [I See You \(Feat\. Dongha\)](https://open.spotify.com/track/7ukwiVFOiH3Jh8ETip7qk9) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dongha](https://open.spotify.com/artist/21lne80DCBNegTOiqPBweb) | [New Edition 26](https://open.spotify.com/album/2dCX0b8Ixb4L1ys0ti0yRa) | 4:45 | 2021-12-20 | 2022-07-14 |
 | [I still can't believe it](https://open.spotify.com/track/74GRNRNGzmV6v9PC7nCCDR) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Bravo, My Life \(Original Soundtrack\), Pt.34](https://open.spotify.com/album/4C9xyKM41a9DLqCWqewSSJ) | 4:16 | 2022-08-18 | 2022-10-06 |
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 | 2021-12-20 |  |
-| [I wish you'd listened \(feat\. Lee Ru DA\)](https://open.spotify.com/track/3RL5PDEDxBxIGG9AKOc9Jy) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [E\-RUDA](https://open.spotify.com/artist/7FkKA3VUA7OwgZFMF4G8Cz) | [I wish you'd listened](https://open.spotify.com/album/5ndgTVQxyMTz1P1uFmBsP2) | 3:27 | 2022-08-18 |  |
+| [I wish you'd listened \(feat\. Lee Ru DA\)](https://open.spotify.com/track/3RL5PDEDxBxIGG9AKOc9Jy) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [E\-RUDA](https://open.spotify.com/artist/7FkKA3VUA7OwgZFMF4G8Cz) | [I wish you'd listened](https://open.spotify.com/album/5ndgTVQxyMTz1P1uFmBsP2) | 3:27 | 2022-08-18 | 2022-10-08 |
 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 | 2021-12-20 |  |
 | [If You](https://open.spotify.com/track/38O4krdJIyvMIjFRP7u9OY) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [If You](https://open.spotify.com/album/2crxI7Z1EmYHQqgsX3qjl2) | 3:07 | 2022-04-01 | 2022-04-19 |
 | [If you were.](https://open.spotify.com/track/1z7iHdFB9B2RudJJsqoIb8) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [ONE MIND 3](https://open.spotify.com/album/6M5jzARlZqnZhUqMXuzriG) | 4:24 | 2022-03-24 | 2022-04-16 |
@@ -277,7 +278,7 @@
 | [The Only Star](https://open.spotify.com/track/4fNzkjJzuV3By2FRrl38yE) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be Myself](https://open.spotify.com/album/2Ew3wpXdMGdw5FYVNQvm6L) | 3:52 | 2022-03-29 | 2022-04-17 |
 | [The Snowman](https://open.spotify.com/track/5QBOylNG7y0dob40NZxF9p) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/2jb2k5LTycuATa7UjogpPg) | 3:56 | 2021-12-20 | 2022-07-27 |
 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 | 2022-07-25 |  |
-| [The Story of Us](https://open.spotify.com/track/6cctzaLrogzkESYTZeA01k) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Story of Us](https://open.spotify.com/album/7LcIGYNw1hu9bUYqChopBy) | 3:36 | 2022-10-06 |  |
+| [The Story of Us](https://open.spotify.com/track/6cctzaLrogzkESYTZeA01k) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Story of Us](https://open.spotify.com/album/7LcIGYNw1hu9bUYqChopBy) | 3:36 | 2022-10-05 |  |
 | [The Wanderer \(Monthly Project 2019 December Yoon Jong Shin\)](https://open.spotify.com/track/7lMX3RTGeURaRNG7R6Bbe0) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [The Wanderer \(Monthly Project 2019 December Yoon Jong Shin\)](https://open.spotify.com/album/5Kt7dTIo1VBdubpXuFANvr) | 5:22 | 2022-03-24 | 2022-04-17 |
 | [The Wind Blows](https://open.spotify.com/track/1PssUYQxZqXz673rilqMvZ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Sing Forest Part.1](https://open.spotify.com/album/53wnkkDyLjZLpdRBR9iP0i) | 3:48 | 2022-04-01 | 2022-07-14 |
 | [The Word](https://open.spotify.com/track/69XGqdtKexbf8W9Khs3XA7) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [From The Island](https://open.spotify.com/album/3tYXM2RUje2peApyIWNERR) | 3:49 | 2022-03-24 | 2022-05-30 |

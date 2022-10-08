@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-95 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
+97 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Invitation \(Live\)](https://open.spotify.com/track/4010xdHiZB4pa8IvEYjQmb) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh) | [In Harmony \(Live\)](https://open.spotify.com/album/26YRLzA8FZdZcUD8jpc0uL) | 8:02 | 2021-11-26 |  |
 | [It's Only a Paper Moon](https://open.spotify.com/track/3HWnu9PXY8qeu2PYmZPala) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t), [The Jazz Messengers](https://open.spotify.com/artist/4oMI5jKhAOEg3T8HIY3HxI) | [Art Blakey](https://open.spotify.com/album/6mQz7swTvd0JzIDEdjZC7a) | 11:59 | 2022-04-08 |  |
 | [Juan](https://open.spotify.com/track/1q3Z0ZRmjLK32PvTFT9u2P) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [The Wynton Marsalis Quartet Live At Blues Alley](https://open.spotify.com/album/1LPznJ8gbsnXp3kWdMm9wd) | 7:33 | 2021-11-12 |  |
+| [Keiko's Birthday March \- Live at Pookie's Pub, 1967](https://open.spotify.com/track/3MSUAw9uYQ85vsJqrnh6WW) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Keiko's Birthday March \(Live at Pookie's Pub, 1967\)](https://open.spotify.com/album/7h87oqgzri0jSb7eLTO3ow) | 21:12 | 2022-10-07 |  |
 | [Köln, January 24, 1975, Pt\. I \- Live](https://open.spotify.com/track/0T4KV1pj8as2xvdHZAP5ae) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 26:01 | 2021-11-12 |  |
 | [Latino Suite \- Live](https://open.spotify.com/track/39d6rn4ftwAGaEOjDVqDdg) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr), [Freddie Hubbard Quartet](https://open.spotify.com/artist/2BP1CjtFdJwjtS082ptpSJ) | [Live at Fabrik Hamburg 1986](https://open.spotify.com/album/57TC45obhfyPmfCpoE9NcK) | 14:36 | 2022-04-08 |  |
 | [Love Is For Real \- Live in New York City, February 8, 1975](https://open.spotify.com/track/2T2VyRuyVlYt4uzy8ALJm6) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Love Is For Real \(Live in New York City, February 8, 1975\)](https://open.spotify.com/album/6YrBa9ZMQN2DkvvQAFaxFM) | 4:41 | 2022-02-18 |  |
@@ -60,6 +61,7 @@
 | [Medley: Vertical Invader / Seventh Arrow / T.H\. / Doctor Honoris Causa \- Live](https://open.spotify.com/track/5Eg09OqI1LB9P9EcozE2Mt) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Live in Tokyo](https://open.spotify.com/album/0k2LseDR9ZTqlIeGt6t05u) | 26:11 | 2021-11-12 |  |
 | [Monaco \- Set 1 / Live From Cafe Bohemia/1956](https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [The Complete 'Round About Midnight At The Cafe Bohemia \(Live\)](https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0) | 5:38 | 2021-11-12 |  |
 | [Ms\. Angelou \- Live](https://open.spotify.com/track/2aSiGeZ9qoYgdASyvzmOLl) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Inside Straight](https://open.spotify.com/artist/7MtmFTvuto2LZ3I9y4Gd96) | [Live at the Village Vanguard](https://open.spotify.com/album/1RZBIIFd5NYufxARh6yyWy) | 10:02 | 2021-11-26 |  |
+| [My One and Only Love \- Live](https://open.spotify.com/track/6eO4Uudsw3t79uCQJFtrta) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Live at Fabrik, Hamburg, 1987](https://open.spotify.com/album/3zV3pERmVFEntiv4j9MCKB) | 10:12 | 2022-10-07 |  |
 | [No More Shadows](https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Nightconcert](https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96) | 5:33 | 2021-12-01 |  |
 | [Nostalgia \- Live \- Montreux Jazz Festival 1984](https://open.spotify.com/track/7HdfzKSUAoOhRskgsqlLR9) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [John McLaughlin: The Montreux Years \(Live\)](https://open.spotify.com/album/2UvZBqkvuu6VfvnPpsNHn3) | 11:18 | 2022-03-04 |  |
 | [Okonkole' Y Trompa \- Live in Japan 1982](https://open.spotify.com/track/1JTyErCbO6j5gPDSvJRJpg) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Twins Live In Japan 1982](https://open.spotify.com/album/77E3yGa6D6O5HJRuK90KyG) | 6:55 | 2021-11-12 | 2022-07-29 |

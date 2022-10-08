@@ -2,7 +2,7 @@
 
 ### [Cafezinho](https://open.spotify.com/playlist/37i9dQZF1DWV6hddfqLW3Z)
 
-> Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
+> Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento\. Foto: Rodrigo Alarcon
 
 73 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/2txnfCn2Tfn6YDwFVJ5nKs)
 

@@ -2,7 +2,7 @@
 
 ### [Manhã Relax](https://open.spotify.com/playlist/37i9dQZF1DX47UHGK8zGt8)
 
-> Músicas calminhas pra começar o dia bem relax.
+> Músicas calminhas pra começar o dia bem relax\. Foto: Juliette
 
 175 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/3Prl0c7SA1E9u4rw7chWDq)
 
@@ -151,7 +151,7 @@
 | [Some](https://open.spotify.com/track/0lKXNXRcX25Zklg0OHpqBQ) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Some](https://open.spotify.com/album/0igq8To2LQ8LhCI4dUgMCM) | 3:13 | 2022-04-01 | 2022-04-19 |
 | [Talvez](https://open.spotify.com/track/4DTttAJhLbK1BgDGkkt4mz) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Tom Veloso](https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu) | [Talvez](https://open.spotify.com/album/3PUFPJuGMM6r5l2XpovLTz) | 3:38 | 2022-04-01 | 2022-04-21 |
 | [Tarde Em Itapuã](https://open.spotify.com/track/3TRHygiPoNih7jevgh7gPb) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mais Vinicius, Por Favor \(Volume 2\)](https://open.spotify.com/album/49kaXj81OvKvYJl8pyIOI0) | 4:53 | 2022-04-01 | 2022-04-18 |
-| [Te amar é massa demais](https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 4:04 | 2022-02-18 | 2022-10-06 |
+| [Te amar é massa demais](https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 4:04 | 2022-02-18 |  |
 | [Te Faço um Cafuné](https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné](https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0) | 3:47 | 2022-04-01 |  |
 | [Tempo Pra Amar](https://open.spotify.com/track/2MW6kL56OoNjtJFS0Kx1tf) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:31 | 2022-04-01 | 2022-06-05 |
 | [Tenha do Seu Lado](https://open.spotify.com/track/7iRxsuKe44yvOYMypoBnzs) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Tenha Do Seu Lado](https://open.spotify.com/album/3xbo5AXOm0UgWVt71j52d3) | 3:22 | 2022-02-18 | 2022-07-29 |
@@ -169,7 +169,7 @@
 | [Verdadeiro Amor \- Studio Sessions](https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Milk Box](https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z) | 4:21 | 2022-02-18 | 2022-07-29 |
 | [Vilarejo](https://open.spotify.com/track/4TEVYGrLOKCpZtdFl7RtcS) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/0RkhMpjAwTFKQgEY3gUl47) | 3:29 | 2022-02-18 | 2022-07-29 |
 | [Vilarejo](https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 3:29 | 2022-06-24 |  |
-| [Vilão](https://open.spotify.com/track/1sza7qeTDLiwXE4OjRJNXt) | [Castel](https://open.spotify.com/artist/4RTi9WT73fsYrGnYZRneJf), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [XAN](https://open.spotify.com/artist/2cMza1RvA2IKw4oFvs8YTS) | [Vilão](https://open.spotify.com/album/0Z2ttWpaxmj3eut3OlxQX9) | 4:36 | 2022-09-02 |  |
+| [Vilão](https://open.spotify.com/track/1sza7qeTDLiwXE4OjRJNXt) | [Castel](https://open.spotify.com/artist/4RTi9WT73fsYrGnYZRneJf), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [XAN](https://open.spotify.com/artist/2cMza1RvA2IKw4oFvs8YTS) | [Vilão](https://open.spotify.com/album/0Z2ttWpaxmj3eut3OlxQX9) | 4:36 | 2022-09-02 | 2022-10-08 |
 | [Você Me Pergunta](https://open.spotify.com/track/5dLGgdtMSSthUP5mJxmazN) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Você Me Pergunta](https://open.spotify.com/album/4mrWGbExP66DZb4lwcWdGm) | 3:54 | 2022-04-01 | 2022-04-21 |
 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 | 2022-04-01 | 2022-04-18 |
 | [você vai gostar de mim](https://open.spotify.com/track/7HsnCQcbbgou7ZFb8n4kZ8) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [você vai gostar de mim](https://open.spotify.com/album/7jDRuADZZM08Uq83BBQnuj) | 3:07 | 2022-02-18 | 2022-07-29 |

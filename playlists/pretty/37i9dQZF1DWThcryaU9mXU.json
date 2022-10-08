@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.\n",
-  "num_followers": 26497,
+  "num_followers": 26564,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkzMDU3MSwwMDAwMDAwMDJjYTUxMWI5Nzk0NmJiM2RlMGY0OTRhZTNmYTZkNDQz",
+  "snapshot_id": "MTY2MDkzMDU3MSwwMDAwMDAwMDA2MGVhYTQ4NjgzMzk2MDM0ZWIxMmM3ZDJkYmY1Mjky",
   "tracks": [
     {
       "added_at": "2022-08-19 17:36:11",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 350520,
-      "name": "Waiting For The Dawn",
-      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
         "name": "All Blues",
         "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 274088,
       "name": "Same Old Blues",
       "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 208732,
-      "name": "It Serves Me Right to Suffer - Remastered",
-      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
         "name": "Live At The Regal",
         "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 158333,
       "name": "Help The Poor",
       "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 208732,
+      "name": "It Serves Me Right to Suffer - Remastered",
+      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+        "name": "Driving Wheel",
+        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
       },
       "artists": [
         {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
         }
       ],
-      "duration_ms": 156040,
-      "name": "I Need Love So Bad",
-      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
+      "duration_ms": 134573,
+      "name": "Someone Broke This Heart Of Mine",
+      "url": "https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h"
     }
   ],
   "unique_name": "Just Me and the Blues",

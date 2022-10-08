@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Blondshell, Artwork: Robin Clifford Ellis
 
-924 songs - 2 day 2 hr 15 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+926 songs - 2 day 2 hr 21 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,6 +575,7 @@
 | [Notice Me](https://open.spotify.com/track/4PtFDCacnfDbbHDpMCm0I5) | [Streeter Pool](https://open.spotify.com/artist/3jTkSpIX9zsl9wPwxLMvU3) | [Nothing Is Forever](https://open.spotify.com/album/6T1ZaSjEgIdTR1hxRg7cJR) | 4:15 | 2022-04-27 | 2022-05-26 |
 | [NOTLOVENOTLOVE](https://open.spotify.com/track/2ff1udjxCRpzwvYqd4vmNX) | [Common People Like You](https://open.spotify.com/artist/485LFmKmOvxKT55DHC3Njm) | [For The Greater Good](https://open.spotify.com/album/1AWPMwxr52Fq7Bst7EYXbd) | 4:05 | 2022-02-02 | 2022-03-17 |
 | [Nowhere](https://open.spotify.com/track/4LLzmSCHHtwYtqCCKfMUSO) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [Nowhere](https://open.spotify.com/album/13kxeJXf5oidt7ofOm0R9D) | 2:08 | 2022-04-06 | 2022-04-27 |
+| [numb](https://open.spotify.com/track/4UxltzDET5LODuyjWZKBn9) | [charlø](https://open.spotify.com/artist/22qQyx2tJ9Eyj6pbxBH1WH) | [numb](https://open.spotify.com/album/5xzs9ak1g3dVuNacT3qtlA) | 2:50 | 2022-10-08 |  |
 | [numb](https://open.spotify.com/track/6J8ipImd151GDPbitfUir2) | [redhorse](https://open.spotify.com/artist/1maxPRllLq3HwNvtDb1jMV), [spoder](https://open.spotify.com/artist/50GPsRE2AOKEfje0ExMleX) | [numb](https://open.spotify.com/album/2AoAWX6pcnzW64oTPT7olq) | 2:58 | 2022-04-27 | 2022-05-12 |
 | [Number 02](https://open.spotify.com/track/7vdP0BcWUqgfvegWW72xz1) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Number 02](https://open.spotify.com/album/6Dq1zSdqpsZHkII0fhM0Mq) | 2:18 | 2022-04-12 | 2022-05-05 |
 | [NYC Ate Your Soul](https://open.spotify.com/track/3cdioZTs8qcI2tjIs1m2Ux) | [Boyu](https://open.spotify.com/artist/7eaiR8THwt8A77v0IZQHm9) | [NYC Ate Your Soul](https://open.spotify.com/album/6JQC0PJOsTxbKqWIkadMwU) | 2:53 | 2022-04-12 | 2022-05-05 |
@@ -871,6 +872,7 @@
 | [us, married](https://open.spotify.com/track/2iFfJOi81lZVnBwRnR6kOv) | [Holy Pinto](https://open.spotify.com/artist/4twuCR6nus4Z5xwf6u2hWN) | [us, married](https://open.spotify.com/album/5SWmRqCMH7j6D5DR9G6nj7) | 3:48 | 2022-09-28 |  |
 | [Vanish](https://open.spotify.com/track/7epg2WffKZL79Hm1P16p5v) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Vanish](https://open.spotify.com/album/5fWgAep1WpZeafJCRpbxhO) | 4:04 | 2022-01-12 | 2022-02-10 |
 | [Vegas](https://open.spotify.com/track/4sjqR16V0sXJ26WlrC2Llk) | [The Let Go](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [Vegas](https://open.spotify.com/album/0c6bbJ2dKB8ojrBjOX4h6e) | 3:20 | 2022-03-22 | 2022-04-27 |
+| [Venice](https://open.spotify.com/track/5qXKMdG8tnd0sHKb3qbwtQ) | [Modern Love Child](https://open.spotify.com/artist/5Re1DTCxspDf57qk07YOAP), [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn) | [Venice](https://open.spotify.com/album/5RVHwpFUEkbcsghk2M9tIt) | 3:20 | 2022-10-08 |  |
 | [Vices](https://open.spotify.com/track/3WeoM8LvxOeabU83YK5WAL) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [Vices](https://open.spotify.com/album/4IGwRw7IL1bTJEspJSzMeo) | 4:35 | 2021-12-01 | 2022-01-13 |
 | [VIII\. Handle It](https://open.spotify.com/track/3dCEeEnpGK4IdYTEvpWyRp) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [VIII\. Handle It](https://open.spotify.com/album/5gQhsCFCKvNpWwXnReYMOV) | 2:32 | 2022-06-29 | 2022-08-04 |
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-12-01 | 2022-01-13 |
@@ -903,7 +905,7 @@
 | [what's the point?](https://open.spotify.com/track/36JswMmEuEdg878LHsuUnc) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [a love letter to the moments spent outside](https://open.spotify.com/album/4R6Cz3ASQXTOALvohpyJic) | 3:40 | 2021-12-01 | 2022-01-13 |
 | [Where Were You](https://open.spotify.com/track/4lI4Q0EMFksyN79hx5DPbP) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/5RPP8SOWq7CJjwnkC1odTb) | 3:25 | 2021-10-19 | 2022-01-13 |
 | [White Bull](https://open.spotify.com/track/0IccRMgBoBgaPskjh1yphV) | [Emily Yacina](https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47) | [White Bull](https://open.spotify.com/album/6At5GoLyqEQMO7TIYqwxJF) | 2:59 | 2022-06-15 | 2022-06-30 |
-| [Who I Am](https://open.spotify.com/track/4cf0sdzluZA6ppzfBy9OJC) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Who I Am](https://open.spotify.com/album/4rMockboJGpCTFhKij2KWM) | 3:27 | 2022-09-06 |  |
+| [Who I Am](https://open.spotify.com/track/4cf0sdzluZA6ppzfBy9OJC) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Who I Am](https://open.spotify.com/album/4rMockboJGpCTFhKij2KWM) | 3:27 | 2022-09-06 | 2022-10-08 |
 | [Will](https://open.spotify.com/track/095yKla5Kd5llODkGjgNze) | [Evangeline](https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ) | [Will](https://open.spotify.com/album/5r5hUEdm1NE5RzHRaiXZ9Y) | 3:17 | 2022-07-27 | 2022-09-29 |
 | [Will We Ever Come Down?](https://open.spotify.com/track/620y9QCydsAJvkfJcvXyjC) | [Ramsey the Fourth](https://open.spotify.com/artist/7KBDBiNPH6TqBilJMWaJxf) | [Will We Ever Come Down?](https://open.spotify.com/album/2BNxvMFratBc7sZtbpsvDF) | 4:15 | 2022-07-27 | 2022-09-01 |
 | [Wino](https://open.spotify.com/track/4OTaZsEq0sFOqq6Z5aOj8A) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Wino](https://open.spotify.com/album/7nRUyhlshGiaNXAf6zrv1z) | 3:31 | 2022-02-09 | 2022-03-17 |
@@ -930,7 +932,7 @@
 | [Your Apartment](https://open.spotify.com/track/1t8GRcn04CDdsUKcgxfftL) | [Real Fake Flowers](https://open.spotify.com/artist/1KmYvsdeVPuhqn5dXPnMbP) | [Your Apartment](https://open.spotify.com/album/0BzsqYJMwH20PuNKrwcK3U) | 3:24 | 2022-07-15 | 2022-08-04 |
 | [Your Ex, Man](https://open.spotify.com/track/0HAgvXAdgn5JVUSWEfVCN5) | [Hank](https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf) | [Your Ex, Man](https://open.spotify.com/album/0SAHHUoAU2h9rAF3HNzSYE) | 3:30 | 2022-08-31 |  |
 | [Youth Disaster](https://open.spotify.com/track/4apiK6MzpIWYhd7SeBWBOG) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf) | [Youth Disaster](https://open.spotify.com/album/0g9ozbaaQNc2SnV3pyaXH4) | 3:27 | 2022-03-02 | 2022-03-17 |
-| [À présent](https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [À présent](https://open.spotify.com/album/4yCghmiyhqVae5mRq402br) | 4:51 | 2022-08-31 |  |
+| [À présent](https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [À présent](https://open.spotify.com/album/4yCghmiyhqVae5mRq402br) | 4:51 | 2022-08-31 | 2022-10-08 |
 | [爱的大巴 \(Love Bus\)](https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [爱的大巴 \(Love Bus\)](https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu) | 4:31 | 2022-07-06 | 2022-08-05 |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

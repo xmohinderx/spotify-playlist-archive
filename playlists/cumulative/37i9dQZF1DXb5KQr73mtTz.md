@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-201 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/1BjnPhemiZQgRsPsVy0WZP)
+202 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/1BjnPhemiZQgRsPsVy0WZP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Forgetting You](https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr) | 3:12 | 2022-05-11 |  |
 | [Friend](https://open.spotify.com/track/2HrjeWdeVfsirD8koeg8yv) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw), [Mingyu Cho](https://open.spotify.com/artist/3zYE0PPOZSmJ14JkguaZp9) | [Friend](https://open.spotify.com/album/0oed3VSqXFkIZ3RFBd10mU) | 3:44 | 2022-05-11 | 2022-07-22 |
 | [fuxx, that, shit](https://open.spotify.com/track/2TCZu4rVZBeu12rTjiBhz6) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [My fuxxxxx romance 01](https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc) | 4:06 | 2022-05-11 | 2022-06-20 |
-| [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2022-07-08 |  |
+| [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2022-07-08 | 2022-10-08 |
 | [Good old days](https://open.spotify.com/track/5Kh4U2f0W2Kz7zRilOMwth) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [Good old days](https://open.spotify.com/album/6X25SlTOwDCA7bxvMZfsoo) | 3:52 | 2022-05-11 | 2022-06-09 |
 | [Good to love](https://open.spotify.com/track/2gEgyhriipvqBJYR9ha68i) | [The Brothers](https://open.spotify.com/artist/4cca1jneSmmm9K1uXTQaUc) | [Good to love](https://open.spotify.com/album/7E9IUx9DJNCRavqWjGi9nH) | 3:56 | 2022-05-11 | 2022-06-29 |
 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 | 2022-05-11 |  |
@@ -166,6 +166,7 @@
 | [Starlight](https://open.spotify.com/track/60qrOUUJdPwH7ofxPMRZ11) | [We Young](https://open.spotify.com/artist/2KWA8WGIcCPLNX6HnPMnS4) | [Starlight](https://open.spotify.com/album/0D0h30fTGAWlzKwxPfY2PX) | 3:43 | 2022-05-11 | 2022-06-02 |
 | [Stay](https://open.spotify.com/track/7LETz5EPzwbgh92VSOPBA6) | [Ways](https://open.spotify.com/artist/6IjY9gwwbF1bFVMJHMKRjP) | [Stay](https://open.spotify.com/album/0rWN85pSXc2ikHlRlHkL8X) | 3:47 | 2022-05-11 | 2022-07-12 |
 | [Stay With Me](https://open.spotify.com/track/1ZIV3CqxbSvtR3IvAlSiOt) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [YOOK SUNGJAE](https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 4:41 | 2022-05-11 | 2022-07-29 |
+| [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-08 |  |
 | [Still missing you](https://open.spotify.com/track/0F1PK0NJ8eXuiWpKqj98Wb) | [성수진](https://open.spotify.com/artist/0OyeB2uBQh9X9M3GDQQE9i), [Oh Byung Gil](https://open.spotify.com/artist/6QpMGEnmeKLgFR8cYIcArY) | [Still missing you](https://open.spotify.com/album/0B6nfZgWV4UGdHawgPGTBq) | 4:02 | 2022-05-11 | 2022-07-13 |
 | [Swing](https://open.spotify.com/track/3gbsbv5jaDOlkZ5ftOoUK7) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Nene](https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K) | [play ground](https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle) | 4:25 | 2022-06-13 | 2022-07-20 |
 | [Thank you for Goodbye](https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Thank you for Goodbye](https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3) | 4:13 | 2022-05-11 |  |

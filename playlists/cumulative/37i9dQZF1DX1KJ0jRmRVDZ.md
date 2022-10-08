@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-499 songs - 1 day 4 hr 35 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+500 songs - 1 day 4 hr 38 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [I love](https://open.spotify.com/track/07VP4xggoHfRA8SlBzCVdf) | [リリぴ](https://open.spotify.com/artist/7mk9NIekDtJcmkHuW0YGeF) | [I love](https://open.spotify.com/album/4uphoezlkDioeHAEw5DICI) | 2:23 | 2022-09-14 | 2022-09-21 |
 | [ia](https://open.spotify.com/track/0Gh8WFwlECOD2v57zF15Nn) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/3hfq2hcMkXGUl6tewG5yQT) | 4:14 | 2022-07-28 | 2022-08-17 |
 | [ia](https://open.spotify.com/track/2mnUQfzbAM5KLLL6vjhlpG) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8) | 4:14 | 2022-07-14 | 2022-07-29 |
+| [Identity](https://open.spotify.com/track/5MiihS6toSrDlwen3p6Slp) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [Identity](https://open.spotify.com/album/3WmF5fA11eq8wIjoj7Hmk0) | 2:41 | 2022-10-06 |  |
 | [INAZMA](https://open.spotify.com/track/3POLsjox8STfaKN7p1no44) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [INAZMA](https://open.spotify.com/album/6ahRrIWu33oElg0xP5Umsb) | 3:31 | 2022-06-13 | 2022-07-10 |
 | [Inger](https://open.spotify.com/track/1WzN9onrPMWcuQR0ICNLfc) | [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Inger](https://open.spotify.com/album/3JgzRDP8LFJMdIcHX2v9oZ) | 3:17 | 2022-09-27 | 2022-10-05 |
 | [Iranaiyo](https://open.spotify.com/track/2PKkqRTNxb7G9I7qGmsKkk) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Iranaiyo](https://open.spotify.com/album/2D7UMajfJXb0iy9hx6ktiJ) | 2:46 | 2022-07-28 | 2022-08-05 |
@@ -192,7 +193,7 @@
 | [わかっちゃない](https://open.spotify.com/track/4YeIIZMSR9q7FiwvmArXRf) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [あたし](https://open.spotify.com/artist/7cXVvrtPmYeDXGSSTvOoSU), [zumiTa](https://open.spotify.com/artist/4qfY0emX2FXwiTnLkeGBlz) | [わかっちゃない](https://open.spotify.com/album/4EHFREZ659VNRAAT1Y92y6) | 2:48 | 2022-08-25 | 2022-08-31 |
 | [わたしの線香](https://open.spotify.com/track/15ekICXVvIVyOV7YWuaC6H) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [羽生まゐご](https://open.spotify.com/artist/7neUaeCzIILoPHd24HahXq) | [わたしの線香](https://open.spotify.com/album/5867dlntyJxmzY4zRf6MZG) | 2:34 | 2022-06-16 | 2022-07-24 |
 | [わっかんない](https://open.spotify.com/track/3zRN9O8Ii2YRzY1ChrsWGk) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [わっかんない](https://open.spotify.com/album/72QwYrFpmR1eEnLRbo3XKm) | 3:48 | 2022-07-07 | 2022-07-27 |
-| [アイデンティティ](https://open.spotify.com/track/6XREfc9wtfsmrod7iHVyz4) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [アイデンティティ](https://open.spotify.com/album/7ABk4YwEoiYyzrJJ85MHjF) | 2:41 | 2022-10-06 |  |
+| [アイデンティティ](https://open.spotify.com/track/6XREfc9wtfsmrod7iHVyz4) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [アイデンティティ](https://open.spotify.com/album/7ABk4YwEoiYyzrJJ85MHjF) | 2:41 | 2022-10-06 | 2022-10-08 |
 | [アイ独リ論 \-self cover\-](https://open.spotify.com/track/72SQo5lOWxjx0QmVR45kwv) | [ノラ](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj) | [アイ独リ論 \-self cover\-](https://open.spotify.com/album/5fApnTEkwBPHQZKToboLqw) | 2:56 | 2022-06-28 | 2022-06-30 |
 | [アオイナツ](https://open.spotify.com/track/4zUesyooUI2QpxAetqDWgT) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [アオイナツ](https://open.spotify.com/album/4AAnOSns0SjRqE7BB6WmB9) | 4:03 | 2022-07-21 | 2022-07-23 |
 | [アオイハル](https://open.spotify.com/track/5SAM5ms9HkCUcOFE7Cfib5) | [ミセカイ](https://open.spotify.com/artist/0CPZbUqRC7ZymVB0SKsMIi) | [アオイハル](https://open.spotify.com/album/6pJUfEsJ7a3ExT5modeFbM) | 2:58 | 2022-09-20 | 2022-09-22 |

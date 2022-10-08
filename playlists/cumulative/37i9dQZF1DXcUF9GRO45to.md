@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-199 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/16ojsYsGmxEyBlFo3lFArf)
+200 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/16ojsYsGmxEyBlFo3lFArf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,11 +172,12 @@
 | [Split Tongue](https://open.spotify.com/track/4AJWyrvgYnwXJVnCUrBEYe) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Sentimental](https://open.spotify.com/album/4vT2Fz8FEQMrKfuBoykbNO) | 1:41 | 2021-12-15 |  |
 | [Stay Close To Me](https://open.spotify.com/track/58pV7RsaDG3rj2K3US9vJb) | [Mat Bastard](https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB) | [LOOV](https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8) | 2:45 | 2022-06-30 |  |
 | [Stay Close To Me](https://open.spotify.com/track/5GoywaDrYsNK1o6JkYuhoa) | [Mat Bastard](https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB) | [LOOV](https://open.spotify.com/album/75O2sBD92mL8Gfn2qIoFY7) | 2:45 | 2021-12-15 | 2022-07-21 |
-| [Stepping On Snails](https://open.spotify.com/track/7ogd6ybezUKwYxeLWb2nvB) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Stepping On Snails](https://open.spotify.com/album/44swoQuSZ9KEMCUrVld286) | 4:21 | 2021-12-15 |  |
+| [Stepping On Snails](https://open.spotify.com/track/7ogd6ybezUKwYxeLWb2nvB) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Stepping On Snails](https://open.spotify.com/album/44swoQuSZ9KEMCUrVld286) | 4:21 | 2021-12-15 | 2022-10-08 |
 | [Stick It Out](https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Hara](https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU) | 3:24 | 2021-12-15 |  |
 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 | 2022-06-30 |  |
 | [Sunrise](https://open.spotify.com/track/5zDnFCQy804gmYYe02VZ9F) | [Decasia](https://open.spotify.com/artist/7HuU0xtOHlU4CPZs4sGoUW) | [Sunrise](https://open.spotify.com/album/0uZPHLJrKG5hv8bS6BCPe8) | 6:05 | 2022-04-04 | 2022-07-14 |
 | [Survived the Great Flood](https://open.spotify.com/track/3x6uWv7tdpJz4vPS2eqBhg) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/5acWZQPiULxgupTkAIdWbw) | 3:42 | 2021-12-31 | 2022-06-23 |
+| [Survived the Great Flood](https://open.spotify.com/track/7GURR3G9Me29ZusRHTOrGH) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4) | 3:42 | 2022-09-22 |  |
 | [Table Rase](https://open.spotify.com/track/0RBl420LKwGUT7sNrpVKyL) | [Vain Valkyries](https://open.spotify.com/artist/2NMfkZdWVg1LFSQRYMoAI7) | [Table Rase](https://open.spotify.com/album/54gxfYyDvacEMuoDDss6iy) | 2:45 | 2021-12-15 | 2022-07-28 |
 | [Take Care](https://open.spotify.com/track/5o9nbtXxh9fZA1poDIAUUQ) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [Take Care](https://open.spotify.com/album/2sSdRAK1iqkEHju1RXi1Au) | 3:22 | 2022-01-27 | 2022-07-28 |
 | [Take It](https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV) | [Teacup Monster](https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW) | [Take It or Leave It](https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR) | 3:58 | 2021-12-31 |  |

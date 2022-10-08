@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Ainè
+> Il meglio dell'R&B italiano\. Cover: AINÉ
 
 186 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 

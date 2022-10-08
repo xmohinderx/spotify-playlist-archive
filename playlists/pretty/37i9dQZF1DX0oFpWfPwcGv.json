@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 29884,
+  "num_followers": 29946,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDZmNGRiNGE5M2Y1Yzk3NmMyNmI4YzA5MDk2OWY0ZTgw",
+  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDEzMmMxY2I4NGVhMGRhM2UyZjcxZDdiNWFhZTJlYmNj",
   "tracks": [
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
-      },
-      "artists": [
-        {
-          "name": "Ms. (Sharon) Ridley",
-          "url": "https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz"
-        }
-      ],
-      "duration_ms": 388920,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "The Essential Evelyn \"Champagne\" King",
         "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
       },
@@ -1103,22 +1087,6 @@
       "duration_ms": 391693,
       "name": "Shame - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1139,6 +1107,38 @@
       "duration_ms": 377405,
       "name": "Dance A Little Bit Closer - 12\" Mix",
       "url": "https://open.spotify.com/track/3cwMDPUQ0Y8PQSg68HV2Fn"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
+      },
+      "artists": [
+        {
+          "name": "Ms. (Sharon) Ridley",
+          "url": "https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz"
+        }
+      ],
+      "duration_ms": 388920,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "Slippin' and Dippin' (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
+      },
+      "artists": [
+        {
+          "name": "Coffee",
+          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
+        }
+      ],
+      "duration_ms": 460880,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Stay Free",
         "url": "https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 322480,
       "name": "Stay Free",
       "url": "https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Slippin' and Dippin' (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
-      },
-      "artists": [
-        {
-          "name": "Coffee",
-          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
-        }
-      ],
-      "duration_ms": 460880,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7"
     },
     {
       "added_at": "2022-09-12 22:27:59",

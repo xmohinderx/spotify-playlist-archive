@@ -2,7 +2,7 @@
 
 ### [Lazy Afternoon](https://open.spotify.com/playlist/37i9dQZF1DX7QUXSrhM7mI)
 
-> It's 3pm and we've peaced out for the day.
+> The soundtrack to snuggling on the sofa, scrolling.
 
 113 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/3gZOIKvsBM5WJ1qvKLnFBv)
 

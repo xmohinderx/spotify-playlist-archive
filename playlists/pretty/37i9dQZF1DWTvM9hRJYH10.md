@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Madeline Merlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,260 likes - 145 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,259 likes - 145 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 30 | [Casual](https://open.spotify.com/track/5gDMFKZB0BT42aDJB0AGPI) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Casual](https://open.spotify.com/album/5biFk4V11QxQO2J8Q9kMmr) | 2:43 |
 | 31 | [Better With A Girl](https://open.spotify.com/track/1AhqYT646NhyThWhi3xX3r) | [Bella Raye](https://open.spotify.com/artist/0vOWMBQMjtApMkFJKEi0AX) | [Better With A Girl](https://open.spotify.com/album/2E1SORtryE4hbLVd5oQ8wd) | 3:01 |
 | 32 | [Stone Harbor](https://open.spotify.com/track/7gTcD9zdcjHTRBnrpAQwbD) | [Holdyn Barder](https://open.spotify.com/artist/6PIHqwkUR98s655qDrXMeo) | [Stone Harbor](https://open.spotify.com/album/4k95Vi7LSRuJIQJUih6yoV) | 3:46 |
-| 33 | [Made 4](https://open.spotify.com/track/4D3ncJSklJygckj0iLb5q7) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Made 4](https://open.spotify.com/album/0Wjel1zCGyyNdt1ofyi4OL) | 2:49 |
+| 33 | [Made 4](https://open.spotify.com/track/3gEBsL6Z7BBAbi1Ajyoqhz) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Made 4](https://open.spotify.com/album/30LUVX6hFMmieW3evMB6FR) | 2:49 |
 | 34 | [Bird Dog](https://open.spotify.com/track/27W4Reg4xwQIlQkDffGqc2) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Bird Dog](https://open.spotify.com/album/6kjkKqlGi96MSKcdP8Ayv8) | 3:34 |
 | 35 | [Fireworks](https://open.spotify.com/track/3Y7omwsDJdFCPnfzrlU4J6) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Fireworks](https://open.spotify.com/album/1jjaT5DFXEu1bJUEiH6k5a) | 3:09 |
 | 36 | [By You](https://open.spotify.com/track/0K37EIkIJ4MOAm7vje4Li9) | [Temecula Road](https://open.spotify.com/artist/6NBjdxIPyMnOSmkkwd5UZT) | [By You](https://open.spotify.com/album/7ugbAKwRlYfLsZBnKVSCCk) | 3:01 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 144 | [That Summer](https://open.spotify.com/track/4eb7VLZEQhNo10TnJDQmCx) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [That Summer](https://open.spotify.com/album/37fZJrMmfyGdPgBupuXKLo) | 3:04 |
 | 145 | [Pieces](https://open.spotify.com/track/5h0xfskqYqiDYG4jc8EMyb) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Pieces](https://open.spotify.com/album/5FyigvplnzcKCIfAzvVAA9) | 3:07 |
 
-Snapshot ID: `MTY2NDU0NDI4MywwMDAwMDAwMDdlYjViODcyMTRhZjVkNDg3YTE4N2M3ZDQxY2UwNWNi`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGM2MmNhNmQ5NWE1MDE1OWEwNGE3NzhlOTBkNThmNjg4`

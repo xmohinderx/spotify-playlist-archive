@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Alvvays on cover!",
-  "num_followers": 20471,
+  "num_followers": 20494,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAxMDA3NSwwMDAwMDAwMGI1NjViN2NkZTY2MmVmMDM0NDU5NjY2MDdmMDdjZDQ5",
+  "snapshot_id": "MTY2NTAxMDA3NSwwMDAwMDAwMDM2NWU2OTVkYTM5NDVmNDM0YTAwMWQ4NGYxYzJiOGI4",
   "tracks": [
     {
       "added_at": "2022-09-29 00:07:21",
@@ -835,18 +835,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Deafcult",
-        "url": "https://open.spotify.com/album/6dPwwV3dTTa7P4isGGBXvy"
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
       },
       "artists": [
         {
-          "name": "Deafcult",
-          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
         }
       ],
-      "duration_ms": 189531,
-      "name": "Akira",
-      "url": "https://open.spotify.com/track/5etys3p3H0qRDscHy7eWKc"
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 318800,
       "name": "23",
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Deafcult",
+        "url": "https://open.spotify.com/album/6dPwwV3dTTa7P4isGGBXvy"
+      },
+      "artists": [
+        {
+          "name": "Deafcult",
+          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
+        }
+      ],
+      "duration_ms": 189531,
+      "name": "Akira",
+      "url": "https://open.spotify.com/track/5etys3p3H0qRDscHy7eWKc"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd"
     },
     {
-      "added_at": "2022-04-22 18:11:35",
-      "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 270226,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "The Great Dismal",
@@ -1039,6 +1023,22 @@
       "duration_ms": 230437,
       "name": "Catch a Fade",
       "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
+    },
+    {
+      "added_at": "2022-04-22 18:11:35",
+      "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN"
     },
     {
       "added_at": "2022-05-03 02:08:01",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
-      },
-      "artists": [
-        {
-          "name": "Astrobrite",
-          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "crasher",
-      "url": "https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/5RvCTlW4viz8e0ysvQCD9n"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 297418,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
+      },
+      "artists": [
+        {
+          "name": "Astrobrite",
+          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "crasher",
+      "url": "https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1205,20 +1205,20 @@
       "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-06-20 23:05:31",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
       },
       "artists": [
         {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
         }
       ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+      "duration_ms": 386604,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1237,20 +1237,20 @@
       "url": "https://open.spotify.com/track/0Gz3IknZYVtHaZ0w6CyVMl"
     },
     {
-      "added_at": "2022-06-20 23:05:31",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
       "artists": [
         {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
         }
       ],
-      "duration_ms": 386604,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1349,6 +1349,22 @@
       "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Miserable Miracles",
+        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 272498,
+      "name": "Dance AM",
+      "url": "https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS"
+    },
+    {
       "added_at": "2022-01-21 14:06:58",
       "album": {
         "name": "Famously Alive",
@@ -1367,34 +1383,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Miserable Miracles",
-        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
+        "name": "Pica",
+        "url": "https://open.spotify.com/album/0Sc94Sz2dTR9H6kNgle0pr"
       },
       "artists": [
         {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+          "name": "Bloodslide",
+          "url": "https://open.spotify.com/artist/6xMS9dPnwVh8EnGusumqaz"
         }
       ],
-      "duration_ms": 272498,
-      "name": "Dance AM",
-      "url": "https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Auras",
-        "url": "https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq"
-      },
-      "artists": [
-        {
-          "name": "Deafcult",
-          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
-        }
-      ],
-      "duration_ms": 248186,
-      "name": "Lemonade Beauty",
-      "url": "https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz"
+      "duration_ms": 311912,
+      "name": "Pica",
+      "url": "https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Pica",
-        "url": "https://open.spotify.com/album/0Sc94Sz2dTR9H6kNgle0pr"
+        "name": "Auras",
+        "url": "https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq"
       },
       "artists": [
         {
-          "name": "Bloodslide",
-          "url": "https://open.spotify.com/artist/6xMS9dPnwVh8EnGusumqaz"
+          "name": "Deafcult",
+          "url": "https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp"
         }
       ],
-      "duration_ms": 311912,
-      "name": "Pica",
-      "url": "https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF"
+      "duration_ms": 248186,
+      "name": "Lemonade Beauty",
+      "url": "https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "Spring and by Summer Fall",
+      "url": "https://open.spotify.com/track/3plzNcg0RAtFKTR3y7uPRy"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
       },
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+        "name": "Fast N All",
+        "url": "https://open.spotify.com/album/7LI9UujQD4ub49YNQCfssN"
       },
       "artists": [
         {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
         }
       ],
-      "duration_ms": 255573,
-      "name": "Spring and by Summer Fall",
-      "url": "https://open.spotify.com/track/3plzNcg0RAtFKTR3y7uPRy"
+      "duration_ms": 231696,
+      "name": "Fast N All",
+      "url": "https://open.spotify.com/track/0E6A5gwmEulCFPewEGpJIx"
     },
     {
       "added_at": "2022-06-08 02:28:33",
@@ -1655,22 +1671,6 @@
       "duration_ms": 192600,
       "name": "dad",
       "url": "https://open.spotify.com/track/5TpE5xJ9mrD5IwaeLHi7bi"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Fast N All",
-        "url": "https://open.spotify.com/album/7LI9UujQD4ub49YNQCfssN"
-      },
-      "artists": [
-        {
-          "name": "Enumclaw",
-          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
-        }
-      ],
-      "duration_ms": 231696,
-      "name": "Fast N All",
-      "url": "https://open.spotify.com/track/0E6A5gwmEulCFPewEGpJIx"
     },
     {
       "added_at": "2021-10-19 01:47:29",

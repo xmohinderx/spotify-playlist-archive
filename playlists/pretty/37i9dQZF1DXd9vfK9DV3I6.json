@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 202930,
+  "num_followers": 203143,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA1MzIwMywwMDAwMDAwMGM0YWJjZjU2NDY3NWU3OWJkODJkNTI0OGMyOTQ5ZWM4",
+  "snapshot_id": "MTY2NTA1MzIwMywwMDAwMDAwMGI2ZjNiMGQzNmQ1OTY1NjgxYWYyYTExM2NjOTVlZGEx",
   "tracks": [
     {
       "added_at": "2022-10-05 07:59:42",
@@ -243,6 +243,26 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/24kHYMHVm3cFlvNS1ru9Qv"
+      },
+      "artists": [
+        {
+          "name": "Parah Dice",
+          "url": "https://open.spotify.com/artist/4QBEmbwSxLlo6RIGlFyn1o"
+        },
+        {
+          "name": "Brianna",
+          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 185689,
       "name": "Schhh",
       "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/24kHYMHVm3cFlvNS1ru9Qv"
-      },
-      "artists": [
-        {
-          "name": "Parah Dice",
-          "url": "https://open.spotify.com/artist/4QBEmbwSxLlo6RIGlFyn1o"
-        },
-        {
-          "name": "Brianna",
-          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -355,30 +355,6 @@
       "duration_ms": 172216,
       "name": "My Name Is Tokyo",
       "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
-        "name": "In Control (feat. Selin)",
-        "url": "https://open.spotify.com/album/1B68g8b4wpedNDvvQLAoCe"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Ali Arutan",
-          "url": "https://open.spotify.com/artist/40Hr91B6wn9pO83Gj0JMrP"
-        },
-        {
-          "name": "Selin",
-          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
-        }
-      ],
-      "duration_ms": 179232,
-      "name": "In Control (feat. Selin)",
-      "url": "https://open.spotify.com/track/4WNcduiCmDNfmTEz7JvmLv"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -467,6 +443,30 @@
       "duration_ms": 438674,
       "name": "Dle Yaman (116 Deep Mix)",
       "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
+        "name": "In Control (feat. Selin)",
+        "url": "https://open.spotify.com/album/1B68g8b4wpedNDvvQLAoCe"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Ali Arutan",
+          "url": "https://open.spotify.com/artist/40Hr91B6wn9pO83Gj0JMrP"
+        },
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "duration_ms": 179232,
+      "name": "In Control (feat. Selin)",
+      "url": "https://open.spotify.com/track/4WNcduiCmDNfmTEz7JvmLv"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 314336,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
         "name": "Che Danestam (Seventh Soul Remix)",
         "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 506666,
       "name": "Che Danestam - Seventh Soul Remix",
       "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 314336,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
-        "name": "Ormila",
-        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
-      },
-      "artists": [
-        {
-          "name": "Majed Zane",
-          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
-        },
-        {
-          "name": "Sam Abdullah",
-          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
-        }
-      ],
-      "duration_ms": 298867,
-      "name": "Ormila",
-      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/61uVxj8RLLQfkF584hWAqb"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 260000,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
+        "name": "Ormila",
+        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
+      },
+      "artists": [
+        {
+          "name": "Majed Zane",
+          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
+        },
+        {
+          "name": "Sam Abdullah",
+          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
+        }
+      ],
+      "duration_ms": 298867,
+      "name": "Ormila",
+      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/60pdlSEWhFUir3fyCuqo0Y"
+      },
+      "artists": [
+        {
+          "name": "Frauble",
+          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7oElCR8kjz4BX2uvwwtTTT"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
         "name": "Roots LP",
         "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 224262,
       "name": "Mra ou Mermora",
       "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/60pdlSEWhFUir3fyCuqo0Y"
-      },
-      "artists": [
-        {
-          "name": "Frauble",
-          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7oElCR8kjz4BX2uvwwtTTT"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
-        "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
-        "url": "https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i"
-      },
-      "artists": [
-        {
-          "name": "Bukahara",
-          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 276299,
-      "name": "Shibren - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/7ieZnG0KXZvhleSzWDxoyP"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
         "name": "Isla Bonita",
         "url": "https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 181000,
       "name": "Isla Bonita - Radio Edit",
       "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
+        "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
+        "url": "https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i"
+      },
+      "artists": [
+        {
+          "name": "Bukahara",
+          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 276299,
+      "name": "Shibren - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/7ieZnG0KXZvhleSzWDxoyP"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
         "name": "Route 55",
         "url": "https://open.spotify.com/album/1iXUuIQpSnzUZcSUGRvjgR"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 278778,
       "name": "Route 55",
       "url": "https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -1967,38 +1967,6 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
-        "name": "Oud Imperial",
-        "url": "https://open.spotify.com/album/7khYH0dkJQYr557uLisMal"
-      },
-      "artists": [
-        {
-          "name": "Michael Simon",
-          "url": "https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj"
-        }
-      ],
-      "duration_ms": 516000,
-      "name": "Oud Imperial",
-      "url": "https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/1nqNVBXnqnVTE3WToXUKqG"
-      },
-      "artists": [
-        {
-          "name": "Ronna Riva",
-          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
-        }
-      ],
-      "duration_ms": 193808,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/3nhRbqeV3DpVPXHVL6cO9v"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
         "name": "Three Wise Monkeys",
         "url": "https://open.spotify.com/album/30cXN71kK6LFGH7OBIUkXJ"
       },
@@ -2015,6 +1983,22 @@
       "duration_ms": 253000,
       "name": "Mizaru",
       "url": "https://open.spotify.com/track/0KcO9fZg4t4iEX2Ug0hvrY"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
+        "name": "Oud Imperial",
+        "url": "https://open.spotify.com/album/7khYH0dkJQYr557uLisMal"
+      },
+      "artists": [
+        {
+          "name": "Michael Simon",
+          "url": "https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj"
+        }
+      ],
+      "duration_ms": 516000,
+      "name": "Oud Imperial",
+      "url": "https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -2059,6 +2043,42 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/1nqNVBXnqnVTE3WToXUKqG"
+      },
+      "artists": [
+        {
+          "name": "Ronna Riva",
+          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
+        }
+      ],
+      "duration_ms": 193808,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/3nhRbqeV3DpVPXHVL6cO9v"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
+        "name": "Angelic",
+        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
+      },
+      "artists": [
+        {
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
+        },
+        {
+          "name": "Ikonnya",
+          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
+        }
+      ],
+      "duration_ms": 269378,
+      "name": "Angelic",
+      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
         "name": "Yasmine",
         "url": "https://open.spotify.com/album/7o6S5sfdr8dsTL79AjLgQs"
       },
@@ -2095,26 +2115,6 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
-        "name": "Angelic",
-        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "Ikonnya",
-          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
-        }
-      ],
-      "duration_ms": 269378,
-      "name": "Angelic",
-      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
         "name": "Ramla",
         "url": "https://open.spotify.com/album/63Hvj5DivROjnPWxaCYVik"
       },
@@ -2131,22 +2131,22 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
-        "name": "The Long March (Remix)",
-        "url": "https://open.spotify.com/album/1tFWncTkrPbL7eklHcNgR5"
+        "name": "Mandala",
+        "url": "https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi"
       },
       "artists": [
         {
-          "name": "Le Trio Joubran",
-          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+          "name": "Fady x Mina",
+          "url": "https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL"
         },
         {
-          "name": "Valentin Mussou",
-          "url": "https://open.spotify.com/artist/6RwAD59ilMvWSnrNqzlRI6"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
         }
       ],
-      "duration_ms": 304091,
-      "name": "The Long March - Remix",
-      "url": "https://open.spotify.com/track/3Ufh9OCrtsLGduyRDPvn1P"
+      "duration_ms": 237215,
+      "name": "Mandala",
+      "url": "https://open.spotify.com/track/4UzqxyDxCMbT5BvbmHT3yR"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -2171,22 +2171,22 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
-        "name": "Mandala",
-        "url": "https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi"
+        "name": "The Long March (Remix)",
+        "url": "https://open.spotify.com/album/1tFWncTkrPbL7eklHcNgR5"
       },
       "artists": [
         {
-          "name": "Fady x Mina",
-          "url": "https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL"
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
         },
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+          "name": "Valentin Mussou",
+          "url": "https://open.spotify.com/artist/6RwAD59ilMvWSnrNqzlRI6"
         }
       ],
-      "duration_ms": 237215,
-      "name": "Mandala",
-      "url": "https://open.spotify.com/track/4UzqxyDxCMbT5BvbmHT3yR"
+      "duration_ms": 304091,
+      "name": "The Long March - Remix",
+      "url": "https://open.spotify.com/track/3Ufh9OCrtsLGduyRDPvn1P"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
+        "name": "Stair at the light",
+        "url": "https://open.spotify.com/album/6km2pCJjykmNZ5abb6mYaZ"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Stair at the light",
+      "url": "https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
         "name": "Lalai",
         "url": "https://open.spotify.com/album/3wOQ7OS70pSBJ5GHHf9JG3"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 187779,
       "name": "Anatolian Vibe",
       "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
-        "name": "Stair at the light",
-        "url": "https://open.spotify.com/album/6km2pCJjykmNZ5abb6mYaZ"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Stair at the light",
-      "url": "https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
-        "name": "Khayyam",
-        "url": "https://open.spotify.com/album/0hx3o4Hft3utx1kKA9AVcJ"
-      },
-      "artists": [
-        {
-          "name": "Jugurtha",
-          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
-        }
-      ],
-      "duration_ms": 681500,
-      "name": "Khayyam",
-      "url": "https://open.spotify.com/track/5XOYEJ3qSGxbZvRQEQVOYn"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
         "name": "DayBreak Ft. Behrooz Shiri",
         "url": "https://open.spotify.com/album/2RBZ8NbEoccZBVr2arOrU4"
       },
@@ -2563,18 +2547,18 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
-        "name": "Solstice Sessions",
-        "url": "https://open.spotify.com/album/5YGsgeAWN6BoU7qyN1rMDI"
+        "name": "Khayyam",
+        "url": "https://open.spotify.com/album/0hx3o4Hft3utx1kKA9AVcJ"
       },
       "artists": [
         {
-          "name": "The Soul Brothers",
-          "url": "https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn"
+          "name": "Jugurtha",
+          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
         }
       ],
-      "duration_ms": 434533,
-      "name": "Moultan",
-      "url": "https://open.spotify.com/track/2V4giP3TtCaxCdjvJTfj2E"
+      "duration_ms": 681500,
+      "name": "Khayyam",
+      "url": "https://open.spotify.com/track/5XOYEJ3qSGxbZvRQEQVOYn"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -2591,6 +2575,22 @@
       "duration_ms": 312125,
       "name": "Arabian Soul",
       "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
+        "name": "Solstice Sessions",
+        "url": "https://open.spotify.com/album/5YGsgeAWN6BoU7qyN1rMDI"
+      },
+      "artists": [
+        {
+          "name": "The Soul Brothers",
+          "url": "https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn"
+        }
+      ],
+      "duration_ms": 434533,
+      "name": "Moultan",
+      "url": "https://open.spotify.com/track/2V4giP3TtCaxCdjvJTfj2E"
     },
     {
       "added_at": "2022-10-05 07:59:42",
@@ -2707,22 +2707,6 @@
     {
       "added_at": "2022-10-05 07:59:42",
       "album": {
-        "name": "Oh Lor My Love",
-        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Oh Lor My Love",
-      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
-    },
-    {
-      "added_at": "2022-10-05 07:59:42",
-      "album": {
         "name": "Sahra On The Moon",
         "url": "https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7"
       },
@@ -2739,6 +2723,22 @@
       "duration_ms": 159272,
       "name": "Sahra On The Moon",
       "url": "https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr"
+    },
+    {
+      "added_at": "2022-10-05 07:59:42",
+      "album": {
+        "name": "Oh Lor My Love",
+        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Oh Lor My Love",
+      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
     },
     {
       "added_at": "2022-10-05 07:59:42",

@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Meat Loaf\n",
-  "num_followers": 1064942,
+  "num_followers": 1065133,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMDE4MywwMDAwMDAwMDQ0NzNjMzg2ZjU5ZDhlMTU0ZTYyZjI2YjdhY2E2Yzhk",
+  "snapshot_id": "MTY2MzAxMDE4MywwMDAwMDAwMGI5OTM0OGRkOWE1NTg2MTQyMjAwODBlYjViMjgzNjE3",
   "tracks": [
     {
       "added_at": "2022-09-12 19:16:23",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 300146,
-      "name": "Who's Crying Now",
-      "url": "https://open.spotify.com/track/5IK2FtuC0qmHHam9sWFxUI"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Dirty Rotten Filthy Stinking Rich",
         "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 236866,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 300146,
+      "name": "Who's Crying Now",
+      "url": "https://open.spotify.com/track/5IK2FtuC0qmHHam9sWFxUI"
     },
     {
       "added_at": "2022-09-12 19:16:23",

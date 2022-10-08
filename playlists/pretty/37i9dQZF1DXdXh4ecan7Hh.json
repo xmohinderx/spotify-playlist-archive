@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Ingrid Andress",
-  "num_followers": 109170,
+  "num_followers": 109182,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA1NzE2NCwwMDAwMDAwMDE3MWVkNDVkMzVkM2FkMmZhY2EyM2RkOTQwN2I3ODIz",
+  "snapshot_id": "MTY2MjA1NzE2NCwwMDAwMDAwMGE2MmU4MGI4YzQ3OTc0NTgzOTE0N2U0YzllNGNmMDMy",
   "tracks": [
     {
       "added_at": "2022-05-25 15:22:18",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-05-25 15:22:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
         "name": "The Devil\u2019s Still Down in Georgia",
         "url": "https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 193702,
       "name": "The Devil\u2019s Still Down in Georgia",
       "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -760,22 +760,6 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 201332,
-      "name": "Never Comin Down - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
       "artists": [
@@ -787,6 +771,22 @@
       "duration_ms": 193115,
       "name": "Miss Me More - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 201332,
+      "name": "Never Comin Down - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA"
     },
     {
       "added_at": "2022-05-25 15:22:18",

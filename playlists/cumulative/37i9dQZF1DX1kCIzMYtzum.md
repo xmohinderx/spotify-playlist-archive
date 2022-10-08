@@ -4,7 +4,7 @@
 
 > The latest hits from your favourite festival legends\. Peace, love, unity, respect\. 💗
 
-298 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/3QJ3qDsL9JOXl4UUUMkXwN)
+299 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/3QJ3qDsL9JOXl4UUUMkXwN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Fly With Us](https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Fly With Us](https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0) | 4:08 | 2021-09-17 | 2022-01-29 |
 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 | 2022-03-25 |  |
 | [Forever Alive](https://open.spotify.com/track/1yFuObxGNWiCFzHNcZOJt1) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Forever Alive](https://open.spotify.com/album/3snb4hL3dBpX81UsoKjFUX) | 3:01 | 2022-03-18 | 2022-04-18 |
-| [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-10-26 |  |
+| [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-10-26 | 2022-10-08 |
 | [Forget You](https://open.spotify.com/track/5yo9aAVvgiINP2lowSXP5Y) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Jimmy Clash](https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb) | [Forget You](https://open.spotify.com/album/52ZSrn0YqEzPtIlzpQjhv3) | 2:45 | 2022-03-18 | 2022-04-18 |
 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 | 2022-05-06 |  |
 | [Friendly Fires](https://open.spotify.com/track/7mY5rHx11vyazThG8xIBzO) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Dani Poppitt](https://open.spotify.com/artist/2fSGqh4BJpl0T1LHtd9TQ8) | [Friendly Fires](https://open.spotify.com/album/5DSqWQweJZuWicITrNXwOA) | 4:52 | 2021-06-04 | 2022-07-25 |
@@ -110,6 +110,7 @@
 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 | 2022-03-18 | 2022-08-06 |
 | [Higher Power \- Tiësto Remix](https://open.spotify.com/track/04zCkONaIDxTx2gDjV1yCd) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Higher Power \(Tiësto Remix\)](https://open.spotify.com/album/31uapL5Q92IadPRWycdPKK) | 3:49 | 2021-06-04 | 2022-04-21 |
 | [Hold On \- Club Mix](https://open.spotify.com/track/44qubmCUZ8SxHCHCWQPnWo) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Hold On \(Club Mix\)](https://open.spotify.com/album/53X7MSCwuZh1dtDvqtV2wF) | 3:09 | 2022-03-18 | 2022-04-20 |
+| [Hot Summer Nights](https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Hot Summer Nights](https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ) | 2:38 | 2022-09-09 |  |
 | [Human Heart](https://open.spotify.com/track/6XuH09i1ICYTCf1M2cJ7iS) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Human Heart](https://open.spotify.com/album/6reTUuhN0jU0IDylfPLqOc) | 2:13 | 2022-03-18 | 2022-07-18 |
 | [Human Touch](https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Human Touch](https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm) | 2:25 | 2022-01-28 | 2022-07-27 |
 | [Hurts Like This](https://open.spotify.com/track/0jitsmziKMI9MpzENnB0Tc) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Fallen Embers \(Deluxe Version\)](https://open.spotify.com/album/0KgcBsDY5uFt4EaG3roI3x) | 3:58 | 2021-10-22 | 2022-07-28 |

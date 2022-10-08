@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-187 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+188 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Crazy Out There](https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Crazy Out There](https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l) | 3:14 | 2021-11-19 |  |
 | [Cream Soda](https://open.spotify.com/track/1HVrQh0RCA0H2cFb82Kje9) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Cream Soda](https://open.spotify.com/album/1UGvlg6mOmKlpTq3EruTSL) | 3:04 | 2021-08-27 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/3VerYSeA9fDRLDCpb9JzSW) | [Dirty Honkers](https://open.spotify.com/artist/2WbG0sHo7zvYLCFPFSAXXJ) | [Dance With Me](https://open.spotify.com/album/7lDfxkmVcUMefYHtk0hD9T) | 3:34 | 2020-10-30 | 2022-07-26 |
-| [Day & Night](https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Day & Night](https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE) | 4:07 | 2020-10-30 |  |
+| [Day & Night](https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Day & Night](https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE) | 4:07 | 2020-10-30 | 2022-10-08 |
 | [Delight](https://open.spotify.com/track/36kaImsnzRzsU6L4cvWP6s) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Octavia Rose](https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9) | [Delight](https://open.spotify.com/album/61jQJZcSYFp8Qm6zNJoy6m) | 5:44 | 2020-10-30 |  |
 | [Demon Kitty Rag \- Electro Swing Version](https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR) | [Tori & Dean](https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX) | [Demon Kitty Rag \(Electro Swing Version\)](https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ) | 3:35 | 2020-11-20 |  |
 | [Different \- Glenn Gatsby Remix](https://open.spotify.com/track/3ALptdYunDogaaogaVx6Mp) | [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Different \(Glenn Gatsby Remix\)](https://open.spotify.com/album/4RLUDNllrSV4ayYibJfJiw) | 2:24 | 2022-08-26 |  |
@@ -166,6 +166,7 @@
 | [Taking You with Me](https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Taking You with Me](https://open.spotify.com/album/4AUmtmKPvKPUjTe93Gy0oj) | 3:19 | 2021-05-28 | 2022-08-27 |
 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/6ptpOr9mCnqingjjObKd12) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh) | [The Cat Came Back](https://open.spotify.com/album/3NMJ7yVpUcwwE5alueef9V) | 2:53 | 2020-10-30 | 2022-07-20 |
 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh), [Bdd](https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY) | [The Cat Came Back](https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx) | 2:53 | 2020-10-30 |  |
+| [The Good Old Days](https://open.spotify.com/track/5Rt5BHMHFhGko7v8JObIID) | [Moonlight Breakfast](https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp) | [The Good Old Days](https://open.spotify.com/album/0g4RooAJphJMSLPVHcD4BY) | 3:12 | 2022-10-07 |  |
 | [The Jungle Jive](https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [Bongo Chic](https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052) | 3:51 | 2021-02-19 |  |
 | [The Little Man Who Wasn't There](https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [The Little Man Who Wasn't There](https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX) | 3:26 | 2020-10-30 |  |
 | [To the Bat Cave](https://open.spotify.com/track/5QQrPVZv6mlJ7rB3UEoZck) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [To the Bat Cave](https://open.spotify.com/album/1XmrRxz3esoXTEzIoWVp79) | 3:46 | 2020-10-30 | 2022-07-29 |

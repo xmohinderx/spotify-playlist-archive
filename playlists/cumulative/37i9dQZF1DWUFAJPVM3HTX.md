@@ -4,7 +4,7 @@
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Avenoir
 
-746 songs - 1 day 14 hr 57 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+748 songs - 1 day 15 hr 1 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [illusions](https://open.spotify.com/track/0XplRkuNJ1pG0j4Gz9Iu0D) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [illusions](https://open.spotify.com/album/72zl9QKEnc7TKAx9Y1IWmO) | 3:44 | 2022-09-21 |  |
 | [Imagine That](https://open.spotify.com/track/4of2R3xAsBXGr5QZxF3bag) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Imagine That](https://open.spotify.com/album/569WNyO5TCXAmsdEGJ8RLx) | 3:19 | 2022-03-23 | 2022-04-14 |
 | [Imposter Syndrome](https://open.spotify.com/track/2k3iawF2fQ0uQrN77YnSIW) | [Taliwhoah](https://open.spotify.com/artist/69SXADQsOhdGkhPGslLhBT) | [Imposter Syndrome](https://open.spotify.com/album/7KvEpMWRvFWivNAcmPNEdR) | 4:19 | 2022-04-27 | 2022-07-02 |
+| [In My Bag](https://open.spotify.com/track/1zaPLv9PlpndUpmw1I24e8) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [In My Bag](https://open.spotify.com/album/4FhbBoVs9JuN2pHR2vhhzG) | 2:25 | 2022-10-07 |  |
 | [In My Bed](https://open.spotify.com/track/3AXPn6A34rJcdwl59Xor4g) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [In My Bed](https://open.spotify.com/album/7Dw7n5YeIAb1IQ5klyRIae) | 3:45 | 2022-08-10 | 2022-09-18 |
 | [In My Head](https://open.spotify.com/track/4eTle2lZoO0A1har4Ut5KL) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [In My Head](https://open.spotify.com/album/7qD8nZcGU5V98FU3LSSbHU) | 3:52 | 2022-09-01 |  |
 | [In Tha Night](https://open.spotify.com/track/6VqUphE1PE1OzSAvfsIcUC) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [In Tha Night](https://open.spotify.com/album/0PRAxft5EAqModwcGbsb8T) | 2:54 | 2022-05-11 | 2022-07-02 |
@@ -422,6 +423,7 @@
 | [Make Me Wanna](https://open.spotify.com/track/6lUdO1HngiAK2ewWVAEkKK) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL) | [Don't Wanna Be Famous](https://open.spotify.com/album/7JmUksfbJ3rAbMmtI2W216) | 3:16 | 2022-01-12 | 2022-02-17 |
 | [Make You Mine](https://open.spotify.com/track/2Upn2NeU2VAvIrfANP4CS6) | [SIM](https://open.spotify.com/artist/49cYRyJqMfx33HovvcHmJM) | [Make You Mine](https://open.spotify.com/album/3wMClxjoyzHr3dvM3JTV1q) | 3:32 | 2021-12-01 | 2022-01-13 |
 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 | 2022-06-09 | 2022-08-20 |
+| [mama's little girl \(hate the world\)](https://open.spotify.com/track/2DvtkayNBAvN0nJVbQf5Zc) | [Sie](https://open.spotify.com/artist/4hs7Io6w7BHOxlbtOIjGH1) | [mama's little girl \(hate the world\)](https://open.spotify.com/album/5hLjQiJjtCmNa805N15UpO) | 2:05 | 2022-10-07 |  |
 | [Mantra \(Sun Girl\)](https://open.spotify.com/track/5tbrZaNIgsrqYBkeZK6P0z) | [Hana Ni](https://open.spotify.com/artist/4m3Qqp9y7vGY0aWQEDpiIm) | [Everything Is Temporary](https://open.spotify.com/album/04keX1f4o1cPwp9oSBcqeb) | 5:25 | 2021-12-01 | 2022-01-13 |
 | [Marvin \- A COLORS SHOW](https://open.spotify.com/track/23XcjGXBJgeb6aLDb0ctKI) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB) | [Marvin \- A COLORS SHOW](https://open.spotify.com/album/6Ellw4Bij0X79QNjWoX8dM) | 2:44 | 2022-03-16 | 2022-05-12 |
 | [Maybe](https://open.spotify.com/track/5ScaS6Mo99bBAwmdiwXuXf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/6ysPJXcTmoFKU3SUmbghZE) | 3:28 | 2022-09-28 |  |

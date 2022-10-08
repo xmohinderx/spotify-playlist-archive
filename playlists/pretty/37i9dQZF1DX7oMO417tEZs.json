@@ -1,13 +1,77 @@
 {
-  "description": "Proudly marching to the beat of their own drum. Cover: EKKSTACY",
-  "num_followers": 133265,
+  "description": "Proudly marching to the beat of their own drum. Cover: Planet Giza",
+  "num_followers": 133310,
   "original_name": "Outliers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgyOTY1MSwwMDAwMDAwMDI0YzgyZTgxNzE5ZWMwNmYzODZjMWYzMTM2YTRhNDc2",
+  "snapshot_id": "MTY2NTExNTUwMiwwMDAwMDAwMDYyN2EzNGJhYWJiYTk3OWI5NzI3ZmMwZGUxNzJlODhl",
   "tracks": [
+    {
+      "added_at": "2022-10-07 04:05:02",
+      "album": {
+        "name": "Das U",
+        "url": "https://open.spotify.com/album/18WfOTopPutbLshJTL2Mgf"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 135445,
+      "name": "Das U",
+      "url": "https://open.spotify.com/track/3zN3TNLf2BHR9889yhofot"
+    },
+    {
+      "added_at": "2022-10-07 04:05:02",
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 199876,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/4g8jAI4REmgqoE9aDZwFZi"
+    },
+    {
+      "added_at": "2022-10-03 20:40:51",
+      "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 132625,
+      "name": "Shlut",
+      "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
+    },
+    {
+      "added_at": "2022-10-07 04:05:02",
+      "album": {
+        "name": "HotMom.com",
+        "url": "https://open.spotify.com/album/7m4p607UjRClyEYBjPr2GN"
+      },
+      "artists": [
+        {
+          "name": "Oscar Louis",
+          "url": "https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK"
+        }
+      ],
+      "duration_ms": 144269,
+      "name": "HotMom.com",
+      "url": "https://open.spotify.com/track/6leIMUV6IC5hQEvwPPdsrK"
+    },
     {
       "added_at": "2022-10-03 20:40:51",
       "album": {
@@ -31,66 +95,18 @@
     {
       "added_at": "2022-10-03 20:40:51",
       "album": {
-        "name": "Flowers - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4hwZPcU2qtjyKiPeqfeY32"
+        "name": "Natural Brown Prom Queen",
+        "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN"
       },
       "artists": [
         {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
         }
       ],
-      "duration_ms": 193751,
-      "name": "Flowers - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5Oaj9RHokwxfV184bjReH9"
-    },
-    {
-      "added_at": "2022-10-03 20:40:51",
-      "album": {
-        "name": "misery",
-        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "im so happy",
-      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
-    },
-    {
-      "added_at": "2022-10-03 20:40:51",
-      "album": {
-        "name": "Nymph",
-        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 132625,
-      "name": "Shlut",
-      "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
-    },
-    {
-      "added_at": "2022-10-03 20:40:51",
-      "album": {
-        "name": "jams 2",
-        "url": "https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 69051,
-      "name": "daydream",
-      "url": "https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7"
+      "duration_ms": 157466,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc"
     },
     {
       "added_at": "2022-10-03 20:40:51",
@@ -111,6 +127,90 @@
       "duration_ms": 282053,
       "name": "Willing To Trust (with Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22"
+    },
+    {
+      "added_at": "2022-10-07 04:05:02",
+      "album": {
+        "name": "again",
+        "url": "https://open.spotify.com/album/7fM8bSojWxNGXQFfFqsqmZ"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "again",
+      "url": "https://open.spotify.com/track/22suMDhP7SweqGcCmbBOmK"
+    },
+    {
+      "added_at": "2022-10-03 20:40:51",
+      "album": {
+        "name": "misery",
+        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "im so happy",
+      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
+    },
+    {
+      "added_at": "2022-10-07 04:05:02",
+      "album": {
+        "name": "Everything Eventually Ends",
+        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Everything Eventually Ends",
+      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+    },
+    {
+      "added_at": "2022-10-07 04:05:02",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/3eAGjyRLCiqf7Iwtgm6WDa"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5IX0QZ6B7dgur3SUg7v3oO"
+    },
+    {
+      "added_at": "2022-10-03 20:40:51",
+      "album": {
+        "name": "jams 2",
+        "url": "https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 69051,
+      "name": "daydream",
+      "url": "https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7"
     },
     {
       "added_at": "2022-10-03 20:40:51",
@@ -211,22 +311,6 @@
     {
       "added_at": "2022-10-03 20:40:51",
       "album": {
-        "name": "Natural Brown Prom Queen",
-        "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc"
-    },
-    {
-      "added_at": "2022-10-03 20:40:51",
-      "album": {
         "name": "Jos\u00e9 Louis And The Paradox Of Love",
         "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
       },
@@ -243,22 +327,6 @@
       "duration_ms": 184946,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
-    },
-    {
-      "added_at": "2022-10-03 20:40:51",
-      "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/6ZZQHyJpjPW9jFhHXgXR1I"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 187564,
-      "name": "Arrow",
-      "url": "https://open.spotify.com/track/7k0KWTgeElluItD61B9aYc"
     },
     {
       "added_at": "2022-10-03 20:40:51",
@@ -1015,26 +1083,6 @@
     {
       "added_at": "2022-10-03 20:40:51",
       "album": {
-        "name": "SD2 (Deluxe)",
-        "url": "https://open.spotify.com/album/3bouWm92sQdr7gT0IACxV9"
-      },
-      "artists": [
-        {
-          "name": "Ramriddlz",
-          "url": "https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY"
-        },
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 182385,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/3CrjWgbJm6M1wseXpCbTuw"
-    },
-    {
-      "added_at": "2022-10-03 20:40:51",
-      "album": {
         "name": "Got Em (Sango Remix)",
         "url": "https://open.spotify.com/album/5OukqaLZOrocuTI29rBiuO"
       },
@@ -1639,26 +1687,6 @@
     {
       "added_at": "2022-10-03 20:40:51",
       "album": {
-        "name": "French Lessons",
-        "url": "https://open.spotify.com/album/74his8uiVxHifiOmpSsu9T"
-      },
-      "artists": [
-        {
-          "name": "Mykki Blanco",
-          "url": "https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr"
-        },
-        {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
-        }
-      ],
-      "duration_ms": 205024,
-      "name": "French Lessons",
-      "url": "https://open.spotify.com/track/6inD5TxljZkdnWDF6SvrZB"
-    },
-    {
-      "added_at": "2022-10-03 20:40:51",
-      "album": {
         "name": "Relay",
         "url": "https://open.spotify.com/album/56EaBbe1nuA5GNfn8i68O5"
       },
@@ -1699,26 +1727,6 @@
     {
       "added_at": "2022-10-03 20:40:51",
       "album": {
-        "name": "Don't Trip",
-        "url": "https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB"
-      },
-      "artists": [
-        {
-          "name": "Aquakultre",
-          "url": "https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus"
-        },
-        {
-          "name": "Trobiz",
-          "url": "https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Africvillean Funk",
-      "url": "https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn"
-    },
-    {
-      "added_at": "2022-10-03 20:40:51",
-      "album": {
         "name": "on my own",
         "url": "https://open.spotify.com/album/2dFXJzRJK5UpWFJoNlEaMs"
       },
@@ -1755,30 +1763,6 @@
     {
       "added_at": "2022-10-03 20:40:51",
       "album": {
-        "name": "Beep",
-        "url": "https://open.spotify.com/album/43FECz43FmUI2lCoyGQAND"
-      },
-      "artists": [
-        {
-          "name": "Dave B.",
-          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
-        },
-        {
-          "name": "Jaywop",
-          "url": "https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9"
-        },
-        {
-          "name": "Da-P",
-          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
-        }
-      ],
-      "duration_ms": 171219,
-      "name": "Beep",
-      "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
-    },
-    {
-      "added_at": "2022-10-03 20:40:51",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4rubgFY3CcvXg0dqQd18LH"
       },
@@ -1791,22 +1775,6 @@
       "duration_ms": 268159,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0z7mJ4dACjuoBqH7RC3mbm"
-    },
-    {
-      "added_at": "2022-10-03 20:40:51",
-      "album": {
-        "name": "HOMIESEXUAL",
-        "url": "https://open.spotify.com/album/1GizLvxskEaHjMzsgWeecv"
-      },
-      "artists": [
-        {
-          "name": "NADUH",
-          "url": "https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "FPE 11:11",
-      "url": "https://open.spotify.com/track/1eFuSvCfqYKOIaF1xncZjz"
     },
     {
       "added_at": "2022-10-03 20:40:51",

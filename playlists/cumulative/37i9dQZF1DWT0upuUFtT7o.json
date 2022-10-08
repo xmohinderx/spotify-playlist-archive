@@ -10367,6 +10367,24 @@
     {
       "album": {
         "name": "numb",
+        "url": "https://open.spotify.com/album/5xzs9ak1g3dVuNacT3qtlA"
+      },
+      "artists": [
+        {
+          "name": "charl\u00f8",
+          "url": "https://open.spotify.com/artist/22qQyx2tJ9Eyj6pbxBH1WH"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "numb",
+      "url": "https://open.spotify.com/track/4UxltzDET5LODuyjWZKBn9"
+    },
+    {
+      "album": {
+        "name": "numb",
         "url": "https://open.spotify.com/album/2AoAWX6pcnzW64oTPT7olq"
       },
       "artists": [
@@ -15814,6 +15832,28 @@
     },
     {
       "album": {
+        "name": "Venice",
+        "url": "https://open.spotify.com/album/5RVHwpFUEkbcsghk2M9tIt"
+      },
+      "artists": [
+        {
+          "name": "Modern Love Child",
+          "url": "https://open.spotify.com/artist/5Re1DTCxspDf57qk07YOAP"
+        },
+        {
+          "name": "Ben Kweller",
+          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200074,
+      "name": "Venice",
+      "url": "https://open.spotify.com/track/5qXKMdG8tnd0sHKb3qbwtQ"
+    },
+    {
+      "album": {
         "name": "Vices",
         "url": "https://open.spotify.com/album/4IGwRw7IL1bTJEspJSzMeo"
       },
@@ -16405,7 +16445,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 207000,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/4cf0sdzluZA6ppzfBy9OJC"
@@ -16895,7 +16935,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 291220,
       "name": "\u00c0 pr\u00e9sent",
       "url": "https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L"

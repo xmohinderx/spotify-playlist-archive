@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Luxembourg.
 
-751 songs - 1 day 16 hr 6 min - [published](https://open.spotify.com/playlist/0YNt2rlDx7K55Onz4ARGVq)
+752 songs - 1 day 16 hr 11 min - [published](https://open.spotify.com/playlist/0YNt2rlDx7K55Onz4ARGVq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-24 |
 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2021-07-11 | 2022-01-08 |
 | [LOW LIFE](https://open.spotify.com/track/3IjfWBZrBISpcLhIMY44T6) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [LOW LIFE](https://open.spotify.com/album/5neGbwZNt8CBqWB3eP0hHV) | 2:27 | 2021-03-27\* | 2021-04-26 |
+| [Luxembourg City](https://open.spotify.com/track/5O7O4n706M7NCdfV7iygm1) | [Bezza](https://open.spotify.com/artist/0MfPlLNDak7ZuAIbxzbzde), [C.D.S 13 El Niño](https://open.spotify.com/artist/2z31MZaeGLYoytawUEtoP0), [Skaymen](https://open.spotify.com/artist/1U9LphshaB4FShZbi7dWOq), [Mc Santos](https://open.spotify.com/artist/6SltrPvlTgDlX3UYksPcwG), [Bandii](https://open.spotify.com/artist/0fboZQxoSfWQiSIcgQg5VW), [Ferow](https://open.spotify.com/artist/0KeGyOyqGem91ATZDq7NDK), [Karekz](https://open.spotify.com/artist/3FgeZVvyZMDnZrGTo3MUSv), [Raime](https://open.spotify.com/artist/2A5d1n2pC54Ks3HR1kNWEu), [Nixo](https://open.spotify.com/artist/0gKz850UFSfv8IZWKsSJgS) | [Luxembourg City](https://open.spotify.com/album/54Jn8fHfYMS8M5Jcyn5i6b) | 4:46 | 2022-10-07 |  |
 | [L’enfer](https://open.spotify.com/track/1CsuHmKOfCYxPoO4xjlAWV) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:09 | 2022-03-05 | 2022-04-04 |
 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 | 2022-02-22 | 2022-03-06 |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-06-12 |
@@ -644,7 +645,7 @@
 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-09-17 | 2022-10-02 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-17 | 2022-09-26 |
 | [SUVs](https://open.spotify.com/track/01I8aPBUJIMzCtHsCVvmq5) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [SUVs](https://open.spotify.com/album/6dYHhV1ES2wfdoxvWXI5Ld) | 2:42 | 2021-12-05 | 2021-12-11 |
-| [SUVs](https://open.spotify.com/track/5E2JcyolDstvqZ0PNpT3pS) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 2:42 | 2022-10-01 |  |
+| [SUVs](https://open.spotify.com/track/5E2JcyolDstvqZ0PNpT3pS) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 2:42 | 2022-10-01 | 2022-10-08 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-09-21 |  |
 | [Sweet Dreams](https://open.spotify.com/track/0nhpIArxtiEIF0jJ8az2c9) | [Grant Kemp](https://open.spotify.com/artist/7bLG8G4lmQKRRU0EnYTIhf) | [Sweet Dreams](https://open.spotify.com/album/3C6w3aqngqqEmPpgjxht3m) | 3:06 | 2022-09-25 | 2022-09-27 |
 | [Sweet Dreams](https://open.spotify.com/track/5Pp64isQvPVgptiOdS9Kcn) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Sweet Dreams](https://open.spotify.com/album/78qLX2ToMCHZfYokHOC2GJ) | 3:15 | 2022-03-09 | 2022-03-14 |
@@ -672,7 +673,7 @@
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2022-01-01 | 2022-05-29 |
 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 | 2022-06-17 | 2022-06-19 |
 | [Ticket](https://open.spotify.com/track/4GBZ441sYKCc1vbZUi05vp) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV) | [BAM BAM](https://open.spotify.com/album/4Dz7LOUDNEwFDYFGu7iiIq) | 3:47 | 2022-07-18 | 2022-07-20 |
-| [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-09-17 | 2022-10-07 |
+| [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-09-17 |  |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-28 |
 | [TO THE](https://open.spotify.com/track/3kvm9xedJN0uVx9kFmcFdf) | [GoldSkull](https://open.spotify.com/artist/13GA8qxVLDZs0oh1zZ872C) | [TO THE](https://open.spotify.com/album/2CZxED1GDIM7fV6ODe6rMf) | 2:32 | 2022-01-01 | 2022-01-08 |
 | [TO THE MOON](https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn) | [TO THE MOON](https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt) | 2:32 | 2021-12-23 | 2022-02-23 |

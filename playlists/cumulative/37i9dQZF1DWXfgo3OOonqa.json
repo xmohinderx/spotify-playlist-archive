@@ -5568,6 +5568,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m Running",
+        "url": "https://open.spotify.com/album/1IFL7FdW9Q9KN6uHGPJ071"
+      },
+      "artists": [
+        {
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194412,
+      "name": "I\u2019m Running",
+      "url": "https://open.spotify.com/track/5676thUlxnSegZelsR5x0E"
+    },
+    {
+      "album": {
         "name": "Rico Suave",
         "url": "https://open.spotify.com/album/5EQrIG9R04IuErE0CCkrI7"
       },
@@ -6233,7 +6251,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 138000,
       "name": "Kung - Freestyle",
       "url": "https://open.spotify.com/track/3E2ofx3tDrd18xX3faQm6E"
@@ -8119,7 +8137,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 139396,
       "name": "OK OK",
       "url": "https://open.spotify.com/track/56hQ9u1MRtv4XMRapoOjkD"
@@ -8665,6 +8683,24 @@
       "duration_ms": 163333,
       "name": "Police",
       "url": "https://open.spotify.com/track/3B903DhOIENm4wNq356KJj"
+    },
+    {
+      "album": {
+        "name": "Politik",
+        "url": "https://open.spotify.com/album/35JqPfpEGCGQhyMBRZFLvQ"
+      },
+      "artists": [
+        {
+          "name": "2M",
+          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160225,
+      "name": "Politik",
+      "url": "https://open.spotify.com/track/1zWFof0FbjUCkY4rJ9s3fN"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Sofi Mata en portada.",
-  "num_followers": 51436,
+  "num_followers": 51485,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2Mzg3NywwMDAwMDAwMGVhZjI4YjU3MjhhMWM5MjBiY2JhMTYyOGM3NDdiMjU0",
+  "snapshot_id": "MTY2Mzk2Mzg3NywwMDAwMDAwMDk1MzdkZDI0MjU1NTg2NDJlMTI3Mzg2YmVhYTIyNTFl",
   "tracks": [
     {
       "added_at": "2022-09-23 20:11:17",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/4oz9KbvSo3SQOhHITyYhT2"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 169541,
+      "name": "Yo Soy",
+      "url": "https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i"
+    },
+    {
+      "added_at": "2022-09-23 20:11:17",
+      "album": {
         "name": "Marea (feat. legallyrxx)",
         "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
-    },
-    {
-      "added_at": "2022-09-23 20:11:17",
-      "album": {
-        "name": "Yo Soy",
-        "url": "https://open.spotify.com/album/4oz9KbvSo3SQOhHITyYhT2"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 169541,
-      "name": "Yo Soy",
-      "url": "https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i"
     },
     {
       "added_at": "2022-09-23 20:11:17",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
-        "name": "Tan Bonita",
-        "url": "https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G"
-    },
-    {
-      "added_at": "2022-09-23 20:11:17",
-      "album": {
         "name": "Chihiro",
         "url": "https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 219822,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m"
+    },
+    {
+      "added_at": "2022-09-23 20:11:17",
+      "album": {
+        "name": "Tan Bonita",
+        "url": "https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G"
     },
     {
       "added_at": "2022-09-23 20:11:17",

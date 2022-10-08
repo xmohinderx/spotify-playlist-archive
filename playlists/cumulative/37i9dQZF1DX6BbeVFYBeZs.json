@@ -2178,6 +2178,24 @@
     },
     {
       "album": {
+        "name": "Sof\u00eda",
+        "url": "https://open.spotify.com/album/6UAasZMdWOZf78BSSY6gkW"
+      },
+      "artists": [
+        {
+          "name": "Roy De Paz",
+          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112800,
+      "name": "Sof\u00eda",
+      "url": "https://open.spotify.com/track/6VMtKaNm36Dty9QxZfWWO4"
+    },
+    {
+      "album": {
         "name": "Sol de medianoche",
         "url": "https://open.spotify.com/album/6YDejeG2RxP2S6HidOS4Mq"
       },

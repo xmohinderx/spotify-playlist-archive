@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,303 likes - 225 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,334 likes - 225 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,17 +144,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 134 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 |
 | 135 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 |
 | 136 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 |
-| 137 | [Ocean of Light](https://open.spotify.com/track/3OMAINkoHuBJcLu7R39Q6P) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Escaping Gravity](https://open.spotify.com/album/0jnaBGk3e6LxiFjh2Sa1rO) | 4:58 |
+| 137 | [Time Walking on Memories](https://open.spotify.com/track/6XkrfYmgPGSvgufoivTQgj) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let’s Part](https://open.spotify.com/album/1gtx8gQjltBxIWjmk87QpB) | 6:29 |
 | 138 | [Stay](https://open.spotify.com/track/0FKCn2juc9oNNAwrdFaanq) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let It Rain](https://open.spotify.com/album/6t1raUERDLYB8Xk0vc4HKY) | 3:39 |
-| 139 | [an untrustworthy promise](https://open.spotify.com/track/4lSpqM6GXznSMMYzJ1nKZa) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let It Rain](https://open.spotify.com/album/6t1raUERDLYB8Xk0vc4HKY) | 4:55 |
+| 139 | [Ocean of Light](https://open.spotify.com/track/3OMAINkoHuBJcLu7R39Q6P) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Escaping Gravity](https://open.spotify.com/album/0jnaBGk3e6LxiFjh2Sa1rO) | 4:58 |
 | 140 | [Grace](https://open.spotify.com/track/6hpWk3kV9phxtzxbzzXmIF) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 4:05 |
 | 141 | [Don't Stop](https://open.spotify.com/track/2SMfatKkQhQiEJhuka4L3N) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 3:59 |
 | 142 | [Moondance](https://open.spotify.com/track/4XdPF9OekZ1fuoNLjwuN69) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Vivid](https://open.spotify.com/album/0qpYN6nZdr4CCp8Jj3EVPz) | 3:21 |
 | 143 | [Sand](https://open.spotify.com/track/1VcqBhuVXWFvA6HIWuGCPV) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/0SMqZWfB4WQkCJugCjbWnH) | 3:45 |
 | 144 | [Clementine](https://open.spotify.com/track/0XrOG2I7stfgSx8CPzsTPL) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/0SMqZWfB4WQkCJugCjbWnH) | 2:23 |
 | 145 | [Gureumi](https://open.spotify.com/track/1IAE1TN9H3WKoIG6FqpuM7) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/0SMqZWfB4WQkCJugCjbWnH) | 4:09 |
-| 146 | [7000RPM](https://open.spotify.com/track/3byuqFayS7CCWFKJxJOLap) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SUPER BAND 2 \- Episode.13](https://open.spotify.com/album/60Cd1kNJrfYdK9ej3iolpx) | 5:41 |
-| 147 | [Ready to fly](https://open.spotify.com/track/4UZN8L3SnpXj3HGuRwzF1O) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SUPER BAND 2 \- Episode.14](https://open.spotify.com/album/2gir8gMdlpIkinnc061A3j) | 6:18 |
+| 146 | [7000RPM](https://open.spotify.com/track/4qAyjztX1XDEO1LNJdW6NZ) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 5:41 |
+| 147 | [Ready to fly](https://open.spotify.com/track/5ttYMsI4n49mPY8rAfHyrR) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.14](https://open.spotify.com/album/4MemrlNUxUB6pAntLarfwA) | 6:18 |
 | 148 | [Tunnel \(With KARDI\)](https://open.spotify.com/track/2sa1g3kg5YZ38ljNXgka0R) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9), [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Bulgasal: Immortal Souls \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/5EihymcBwn2WRu1RQ7RxW9) | 3:59 |
 | 149 | [flower's gaze](https://open.spotify.com/track/1IxApabQY9g6Ivg1og5vsP) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [one's youth](https://open.spotify.com/album/2xauBFfVTnRXMNGSR8kvZI) | 3:59 |
 | 150 | [세상이 멈췄다](https://open.spotify.com/track/4uIMRGoLwO8U7GqVyGAVGF) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [세상이 멈췄다](https://open.spotify.com/album/1hxgamJJM9oQqoYbX6VDm3) | 3:51 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MTY2NTA0MDE0NSwwMDAwMDAwMDEzMjI4NmZhMjdlYzUzZjlkZGJmNjE5OTQwNmI3ODY5`
+Snapshot ID: `MTY2NTE1NzQwNCwwMDAwMDAwMGYyYWUwNWYxNzgyNTQwMjA2ZDRiOTJmZjI0MjBkMDQ4`

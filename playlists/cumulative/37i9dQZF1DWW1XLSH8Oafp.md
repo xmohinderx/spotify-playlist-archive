@@ -2,7 +2,7 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring venbee
+> ur on the list bb 🪐 featuring nia archives
 
 400 songs - 23 hr 10 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 

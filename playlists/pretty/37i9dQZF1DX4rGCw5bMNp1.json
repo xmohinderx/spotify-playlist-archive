@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 115389,
+  "num_followers": 115456,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGYzNTA3NmQ3ZmFmZjExNWExNTZiN2Q5YzM4ZGVmOGEy",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDYwZDIyMDRjYmM4OWJmZDQ1NWJlZGI5M2I0OTRkMGIx",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -203,22 +203,6 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY"
-      },
-      "artists": [
-        {
-          "name": "Mighty Joe Young",
-          "url": "https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
         "name": "Masters Of Modern Blues",
         "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 217120,
       "name": "Dark Road",
       "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY"
+      },
+      "artists": [
+        {
+          "name": "Mighty Joe Young",
+          "url": "https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC"
     },
     {
       "added_at": "2018-02-27 18:08:29",

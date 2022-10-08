@@ -2,9 +2,9 @@
 
 ### [Gigantes do Rap Nacional](https://open.spotify.com/playlist/37i9dQZF1DXaljDe6fISR1)
 
-> Ouça grandes MCs do hip hop nacional\. Foto: 509\-E
+> Ouça grandes MCs do hip hop nacional\. Foto: MV Bill, Kmila CDD
 
-87 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
+88 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/3Vek6VBsc7NcLQeMTqdUQc) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/7bqvleTPBX8DqrGfNmEUPX) | 3:49 | 2022-03-11 | 2022-07-29 |
 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:49 | 2022-04-22 |  |
 | [Bilhete 2.0](https://open.spotify.com/track/23DMhYv6WjRmIRck1Uwjev) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:43 | 2022-03-11 |  |
+| [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/track/4ZZSTRy9eugd4v9falGoMs) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv) | [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/album/5e1VkQhetJMWxRb77LGPCj) | 3:10 | 2022-10-07 |  |
 | [Canão Foi Tão Bom](https://open.spotify.com/track/2XdblGYWcBnelh5Xq6yK3j) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Lakers](https://open.spotify.com/artist/7xBPUbBNVmZ35PyE1HkQQH), [Instituto](https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o), [Ganjaman](https://open.spotify.com/artist/79mxlrrJVr1pRtuTfHIgQK) | [Sabotage](https://open.spotify.com/album/54fqpmy2k6wjUGdPSxN8Me) | 5:30 | 2022-03-11 | 2022-07-29 |
 | [Canão Foi Tão Bom](https://open.spotify.com/track/0bqNG1CGfhfE7iy6Fk5wG8) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Lakers](https://open.spotify.com/artist/7xBPUbBNVmZ35PyE1HkQQH), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Instituto](https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o), [Ganjaman](https://open.spotify.com/artist/79mxlrrJVr1pRtuTfHIgQK) | [Sabotage](https://open.spotify.com/album/78FGMj1ZqjV8J8AgKcej93) | 5:30 | 2022-04-22 |  |
 | [Capítulo 4, Versículo 3](https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 8:06 | 2022-03-11 |  |

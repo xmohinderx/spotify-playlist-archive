@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
 
-259 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
+260 songs - 17 hr 27 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2021-12-24 | 2022-09-10 |
 | [Te Mentiría \(Versión Cuarteto\)](https://open.spotify.com/track/7o3AnZAepnOd46KYzgpAMf) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría \(Versión Cuarteto\)](https://open.spotify.com/album/3Es15bUlmBVcCH8RpPsEjH) | 3:33 | 2021-12-24 |  |
 | [Te Olvidaré \- En Vivo](https://open.spotify.com/track/4rc4JtQET33dBoiUnpXudm) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Olvidaré \(En Vivo\)](https://open.spotify.com/album/4CBSfAj78zjg0JqIK9iKug) | 2:14 | 2022-07-15 | 2022-08-19 |
-| [Te perdiste mi amor](https://open.spotify.com/track/79pz16ngfYU2iZV0dvj3QU) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Dejando Huellas](https://open.spotify.com/album/5iLLVzBNgzEjgvU0AZbVl8) | 3:12 | 2021-12-24 |  |
+| [Te perdiste mi amor](https://open.spotify.com/track/79pz16ngfYU2iZV0dvj3QU) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Dejando Huellas](https://open.spotify.com/album/5iLLVzBNgzEjgvU0AZbVl8) | 3:12 | 2021-12-24 | 2022-10-08 |
 | [Te Pido Perdon](https://open.spotify.com/track/5mVKmmkGvftY88sm3tocch) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Sin Limites](https://open.spotify.com/album/35G5JSWM0oAFzTfXJK9Hti) | 3:06 | 2021-12-24 | 2022-07-29 |
 | [Te Pido Perdon](https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 3:06 | 2022-07-22 |  |
 | [Te pido que la dejes](https://open.spotify.com/track/0cH2nR2ISmkLVW7e7ogTYw) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Inigualable](https://open.spotify.com/album/1Yq5RNlCkTE1sygpnEstl9) | 4:43 | 2021-12-24 |  |
@@ -253,6 +253,7 @@
 | [Universo Paralelo](https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:37 | 2022-01-10 |  |
 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz) | [Banda Registrada](https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA) | [Ni Lo Pienses](https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y) | 4:14 | 2021-12-24 |  |
 | [Ven](https://open.spotify.com/track/3axliHUavA0Qj6AIywW7Da) | [La Zurda Cuartetera](https://open.spotify.com/artist/6EXCBQQwljseAZdJOoW54H) | [Ven](https://open.spotify.com/album/3gsz5gaSjXtEaKzmmLkMbO) | 3:27 | 2022-01-14 | 2022-04-19 |
+| [Vicio](https://open.spotify.com/track/4avWPQJolmD6y5FvgGvMfK) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Vicio](https://open.spotify.com/album/25XUWGcDwEpHZQWVclRWTK) | 3:07 | 2022-10-07 |  |
 | [Violeta \- En Vivo](https://open.spotify.com/track/1P9e8yl4rjXHOXbKisiQnk) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto \(En Vivo\)](https://open.spotify.com/album/1pUilOVG5oNszWZ0KiXgEC) | 1:08 | 2022-06-17 | 2022-09-03 |
 | [Viuda a los 20](https://open.spotify.com/track/0dXehysNVTVWkBVxfVkUh9) | [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Un Sueño Hecho Realidad](https://open.spotify.com/album/5QTCqQJpABAHRghnawZP7p) | 3:11 | 2021-12-24 |  |
 | [Volverás a mi cama](https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm), [Fabián Show](https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH) | [Volverás a mi cama](https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV) | 3:12 | 2022-01-07 |  |

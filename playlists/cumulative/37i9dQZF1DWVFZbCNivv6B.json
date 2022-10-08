@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 285378,
       "name": "Ah\u00ed Nac\u00ed",
       "url": "https://open.spotify.com/track/721PP2J5zjvLgZB2dd2jEr"
@@ -229,6 +229,24 @@
       "duration_ms": 199000,
       "name": "Aka Entre el Humo",
       "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
+    },
+    {
+      "album": {
+        "name": "Alguien Te Mira",
+        "url": "https://open.spotify.com/album/5d0pikE95glm6lwr6bJ0V4"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299706,
+      "name": "Alguien Te Mira",
+      "url": "https://open.spotify.com/track/2HeAEO5IN1vivStyO8h2Ta"
     },
     {
       "album": {
@@ -1528,6 +1546,28 @@
     },
     {
       "album": {
+        "name": "FLYHOUSE",
+        "url": "https://open.spotify.com/album/62tX9heOl30wrHisOiL1FU"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "EXCE$OS",
+      "url": "https://open.spotify.com/track/4PYAx3eimCXOxsx7aVdMEP"
+    },
+    {
+      "album": {
         "name": "Eyeliner de Katana",
         "url": "https://open.spotify.com/album/7yiB0Lc8603bb6mrz8SDJW"
       },
@@ -2071,7 +2111,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 211500,
       "name": "Llegue Pa Hacer Billetes",
       "url": "https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT"
@@ -2969,6 +3009,24 @@
       "duration_ms": 226280,
       "name": "Pesadilla en el Cielo",
       "url": "https://open.spotify.com/track/1Ca6Oy2hd13ZlGTvmXgAGH"
+    },
+    {
+      "album": {
+        "name": "Plomo y Plata",
+        "url": "https://open.spotify.com/album/7kwiAPqSAKihXEwQDbTFIp"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Plomo y Plata",
+      "url": "https://open.spotify.com/track/7iJPXWF72xnwgsaadOHpnC"
     },
     {
       "album": {
@@ -3953,7 +4011,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-08",
       "duration_ms": 240000,
       "name": "Soy Asi",
       "url": "https://open.spotify.com/track/1VNMggElvX8fUMew6v2ZIr"
@@ -4517,12 +4575,12 @@
       },
       "artists": [
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
         },
         {
           "name": "Doom Deca",
@@ -4605,6 +4663,28 @@
       "duration_ms": 218231,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"
+    },
+    {
+      "album": {
+        "name": "Ya Se Dio",
+        "url": "https://open.spotify.com/album/2lzCrGODpZnuNyIdCuHyzz"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Ya Se Dio",
+      "url": "https://open.spotify.com/track/2Uo1WNqTEnxjhylSpPhOAX"
     },
     {
       "album": {

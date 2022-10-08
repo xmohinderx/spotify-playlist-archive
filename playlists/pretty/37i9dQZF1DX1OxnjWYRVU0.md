@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,674 likes - 342 songs - 15 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,806 likes - 342 songs - 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 17 | [Everytime We Touch](https://open.spotify.com/track/3GHVBPMCBK125Z0g5N8aBz) | [Frank Moody](https://open.spotify.com/artist/0ZL2OZFfHk4BiwnnPKsD3e), [Sam Giancana](https://open.spotify.com/artist/6jJ3jEaGTuUHfBI6ndwAnI), [Round Light](https://open.spotify.com/artist/3Fww7SwFqe9RvMQlfeYhef) | [Everytime We Touch](https://open.spotify.com/album/55Ix923tDdUj2F86APGpoj) | 2:37 |
 | 18 | [Running Up That Hill](https://open.spotify.com/track/19bd9C4chs2pqC5Yvot3V4) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ), [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Running Up That Hill](https://open.spotify.com/album/1dAlYiRKyMXDZDpp99z99c) | 2:18 |
 | 19 | [P.I.M.P\. \- HEDEGAARD Remix](https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [DARK MATTER](https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg) | 2:54 |
-| 20 | [Worth It](https://open.spotify.com/track/2g5CTJ1G3e8GPG6m0iGtFr) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Nightcore](https://open.spotify.com/artist/77t00lrU1uk65snqAdoPnt), [Speed Sounds](https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm) | [Worth It](https://open.spotify.com/album/74FlFbZ0TVF9sBZm6HIwxi) | 2:20 |
+| 20 | [Worth It](https://open.spotify.com/track/2g5CTJ1G3e8GPG6m0iGtFr) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Nightcore](https://open.spotify.com/artist/2VFmqjzPxWhNY7YeYMuKPN), [Speed Sounds](https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm) | [Worth It](https://open.spotify.com/album/74FlFbZ0TVF9sBZm6HIwxi) | 2:20 |
 | 21 | [Summertime Sadness \(ft\. LoLo Rachelle\)](https://open.spotify.com/track/6xUiHpq8015RRN13lQnxcl) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [LoLo Rachelle](https://open.spotify.com/artist/6n8kKKocJKrqXmDWwHsys4) | [Summertime Sadness \(ft\. LoLo Rachelle\)](https://open.spotify.com/album/34PkkzbeNyMmrmr8MV23Qv) | 2:45 |
 | 22 | [Sandstorm](https://open.spotify.com/track/7y4tJW2HkfMWNKf4HAECZT) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz) | [Sandstorm](https://open.spotify.com/album/2HU6E0dRXBfytbvDrUwWcx) | 2:26 |
 | 23 | [Believe](https://open.spotify.com/track/45jg6psGr92hI1mM3w7RFh) | [UNDRESSD](https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [Believe](https://open.spotify.com/album/3Y17xOghjHVxaUVzeeozNM) | 3:10 |

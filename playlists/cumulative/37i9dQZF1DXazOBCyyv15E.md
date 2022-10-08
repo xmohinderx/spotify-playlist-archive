@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Sorry
 
-1,091 songs - 2 day 16 hr 51 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,092 songs - 2 day 16 hr 54 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Babybrown](https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Elevator Music](https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW) | 2:18 | 2022-09-01 |  |
 | [BACK ON TOP \(feat\. Griff\)](https://open.spotify.com/track/4WwfMajCmOe3ApD9eF5B15) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [BACK ON TOP \(feat\. Griff\)](https://open.spotify.com/album/5bAoNisJV6KVdJ3puwJ54B) | 2:53 | 2021-10-08 | 2021-10-22 |
 | [Bad Friday](https://open.spotify.com/track/6sWnt5FMTlcgSe2xkYpszP) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Bad Friday](https://open.spotify.com/album/7AdWplLlKwLEW3Jln1pJLW) | 3:11 | 2022-02-11 | 2022-03-18 |
-| [BAD FRUIT\*](https://open.spotify.com/track/5QirdhgOB3p08AAyV2FT2k) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/7sVCyMEiulhdkWvRhZS8lp) | 3:26 | 2022-10-06 |  |
+| [BAD FRUIT\*](https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:26 | 2022-10-06 |  |
+| [BAD FRUIT\*](https://open.spotify.com/track/5QirdhgOB3p08AAyV2FT2k) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/7sVCyMEiulhdkWvRhZS8lp) | 3:26 | 2022-10-06 | 2022-10-08 |
 | [Bad Habits](https://open.spotify.com/track/0AXX12AKjWI0EqIdu3MKIc) | [scott is okay](https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK) | [Bad Habits](https://open.spotify.com/album/5mT9j7LI0QTcyoRfooPjlB) | 1:57 | 2022-03-04 | 2022-04-29 |
 | [Bad Hair Day](https://open.spotify.com/track/7y94fuu62F1LvWcPz2CYEt) | [Francis Lung](https://open.spotify.com/artist/5zQhRSqJxTbROSMJtGCXYN) | [Bad Hair Day](https://open.spotify.com/album/6ML8qi2lysnDvinhIGtIJx) | 2:58 | 2021-02-26 | 2021-04-23 |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-02-04 | 2022-03-18 |
@@ -850,7 +851,7 @@
 | [Sleep Today](https://open.spotify.com/track/4hxpK9cICSx6WZX1t11Tqq) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Sleep Today](https://open.spotify.com/album/2RcDxtDY6p9BXcEZE55trl) | 3:56 | 2020-11-13 | 2021-01-15 |
 | [Slow Song \(feat\. Kasien\)](https://open.spotify.com/track/0Tt2eXERda6NIp8GTThyFO) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [Slow Song \(feat\. Kasien\)](https://open.spotify.com/album/0654CJQBHuYuCzKLb9ak0A) | 3:17 | 2021-05-21 | 2021-06-04 |
 | [Small Ghosts](https://open.spotify.com/track/6zFqu6VWpbpO36qr9QkH4G) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [5 Songs For The Dysphoric](https://open.spotify.com/album/6ope4Z98ybMP7ayuCSLDNl) | 3:27 | 2021-02-26 | 2021-03-26 |
-| [Smoke and Fire](https://open.spotify.com/track/2OzufN5vywWP5gMRb2bkKm) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Smoke And Fire \(VTSS Remix\)](https://open.spotify.com/album/3spa4GdH5GBOmEId6gOOWm) | 3:39 | 2022-09-29 |  |
+| [Smoke and Fire](https://open.spotify.com/track/2OzufN5vywWP5gMRb2bkKm) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Smoke And Fire](https://open.spotify.com/album/3spa4GdH5GBOmEId6gOOWm) | 3:39 | 2022-09-29 |  |
 | [Smoke Hole \- Edit](https://open.spotify.com/track/63ajBqgNVFVtkE7vhyBkny) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Smoke Hole](https://open.spotify.com/album/1TJpngFnTnOBmFbl1FqyOK) | 2:47 | 2021-02-06 | 2021-03-19 |
 | [Smoke Without Fire](https://open.spotify.com/track/7w9K4WglRRMRe1Q1OR7YP7) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC) | [Smoke Without Fire](https://open.spotify.com/album/3QJGxFuz5jQ1VPZwLcEAY9) | 4:00 | 2021-02-06 | 2021-04-23 |
 | [Snow Globes](https://open.spotify.com/track/3OM2VlABYKmzQRFVJuiQMy) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Snow Globes](https://open.spotify.com/album/1cdB6veqHH2BhCURbjNV5s) | 9:13 | 2022-01-21 | 2022-02-25 |
