@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Sorry
 
-1,092 songs - 2 day 16 hr 54 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,093 songs - 2 day 16 hr 57 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,7 +664,8 @@
 | [Never Mind](https://open.spotify.com/track/7AsR6M00PcFOQP5Nh9xgTN) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Never Mind](https://open.spotify.com/album/6Ur41GEY7xj5EM3bUYUm57) | 3:36 | 2022-09-22 |  |
 | [Never Seen You Dance](https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Never Seen You Dance](https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6) | 4:48 | 2022-07-28 | 2022-09-23 |
 | [Neverland](https://open.spotify.com/track/7MeQGVoZEyol99EadwbBFN) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Neverland](https://open.spotify.com/album/6QipvBed5y4lifalcQ4CwO) | 4:15 | 2021-10-29 | 2022-02-04 |
-| [New Gen](https://open.spotify.com/track/7xMQHQdWKeI9g6mf33OFcE) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [New Gen](https://open.spotify.com/album/1eiKiydXTyESi3t63W0FLW) | 3:15 | 2022-05-05 |  |
+| [New Gen](https://open.spotify.com/track/0e9NEV4tJjKUUrVSPyRdcB) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Romance in Great Britain](https://open.spotify.com/album/3gL5sXknuYa2VCjr5bA5UT) | 3:15 | 2022-10-06 |  |
+| [New Gen](https://open.spotify.com/track/7xMQHQdWKeI9g6mf33OFcE) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [New Gen](https://open.spotify.com/album/1eiKiydXTyESi3t63W0FLW) | 3:15 | 2022-05-05 | 2022-10-09 |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2022-09-01 |  |
 | [New Guilty Pleasure](https://open.spotify.com/track/0emV4zIiboZfkofxOX0KDQ) | [Tom Vek](https://open.spotify.com/artist/4dGVRIf2xj0JhawVheLiOI) | [New Guilty Pleasure](https://open.spotify.com/album/29whFjeSyjiiduiXumkM48) | 6:31 | 2022-07-07 | 2022-09-16 |
 | [New Romance](https://open.spotify.com/track/5ZhBx7W9rigl2vuRdT27rq) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/4uGklcCyzOko2IOYtMzUNg) | 4:12 | 2021-12-10 | 2022-02-11 |

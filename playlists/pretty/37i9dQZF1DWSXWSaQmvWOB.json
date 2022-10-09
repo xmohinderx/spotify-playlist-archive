@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Adi Oasis",
-  "num_followers": 422166,
+  "num_followers": 422322,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzMzgwMiwwMDAwMDAwMDI2ZDQyYmYxMTdjYmYwNzBiNzI2YmYxZmM4NDAyZDFl",
+  "snapshot_id": "MTY2NTEzMzgwMiwwMDAwMDAwMGM2NzA0ODg1ZjdhMDAzNDI4ZmJjNTQ4NTg2ODdjOTM5",
   "tracks": [
     {
       "added_at": "2022-09-30 08:22:23",
@@ -259,26 +259,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "a-okay",
-        "url": "https://open.spotify.com/album/0WF2rsNICGVdMoXOqpWfPK"
-      },
-      "artists": [
-        {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "Abhi The Nomad",
-          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "a-okay",
-      "url": "https://open.spotify.com/track/70I8nlO75XOU0IPXcnT5gj"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "Crescent Moon",
         "url": "https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "a-okay",
+        "url": "https://open.spotify.com/album/0WF2rsNICGVdMoXOqpWfPK"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "a-okay",
+      "url": "https://open.spotify.com/track/70I8nlO75XOU0IPXcnT5gj"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -475,26 +475,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 223633,
-      "name": "Take Time (feat. Tobe Nwigwe)",
-      "url": "https://open.spotify.com/track/2qNYATpU3BmfQTAldXoNOi"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "Sage Motel",
         "url": "https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 232493,
       "name": "Sage Motel",
       "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 223633,
+      "name": "Take Time (feat. Tobe Nwigwe)",
+      "url": "https://open.spotify.com/track/2qNYATpU3BmfQTAldXoNOi"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
         "name": "Hills",
         "url": "https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Just Like You Used To",
-        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
+        "name": "Dead Inside Shuffle",
+        "url": "https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
         }
       ],
-      "duration_ms": 188155,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
+      "duration_ms": 200000,
+      "name": "Dead Inside Shuffle",
+      "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -583,22 +599,6 @@
       "duration_ms": 174636,
       "name": "Good Morning Gorgeous (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
-        "name": "Dead Inside Shuffle",
-        "url": "https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6"
-      },
-      "artists": [
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Dead Inside Shuffle",
-      "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Pills",
-        "url": "https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw"
-      },
-      "artists": [
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Pills - Single Version",
-      "url": "https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "The Spoon",
         "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Why Try",
-        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
+        "name": "Pills",
+        "url": "https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw"
       },
       "artists": [
         {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
         }
       ],
-      "duration_ms": 215852,
-      "name": "Why Try",
-      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
+      "duration_ms": 178133,
+      "name": "Pills - Single Version",
+      "url": "https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -743,18 +727,18 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Operation Funk",
-        "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
+        "name": "Why Try",
+        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
       },
       "artists": [
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
         }
       ],
-      "duration_ms": 276401,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
+      "duration_ms": 215852,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -775,6 +759,22 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
+        "name": "Operation Funk",
+        "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 276401,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
         "name": "Never Forget My Love",
         "url": "https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 245290,
-      "name": "Defection",
-      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "No Tears In My Champagne",
         "url": "https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 136644,
       "name": "Liar",
       "url": "https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 245290,
+      "name": "Defection",
+      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
+        "name": "Feel It Comin",
+        "url": "https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "duration_ms": 205685,
+      "name": "Feel It Comin - Single Version",
+      "url": "https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
         "name": "What If? / Leave It",
         "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Feel It Comin",
-        "url": "https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h"
-      },
-      "artists": [
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
-        }
-      ],
-      "duration_ms": 205685,
-      "name": "Feel It Comin - Single Version",
-      "url": "https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "Loving You Is Easy",
         "url": "https://open.spotify.com/album/0pAufedG5sDBUANDnE7IAX"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 209500,
       "name": "Loving You Is Easy",
       "url": "https://open.spotify.com/track/4fARowx7Swbgt8TYaKhK2a"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
-        "name": "Horsepower For The Streets",
-        "url": "https://open.spotify.com/album/2B4mjZa5ewqU79nzU981eO"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Jeremiah",
-          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
-        }
-      ],
-      "duration_ms": 143040,
-      "name": "Horsepower For The Streets",
-      "url": "https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -951,6 +935,22 @@
       "duration_ms": 191604,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Horsepower For The Streets",
+        "url": "https://open.spotify.com/album/2B4mjZa5ewqU79nzU981eO"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Jeremiah",
+          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
+        }
+      ],
+      "duration_ms": 143040,
+      "name": "Horsepower For The Streets",
+      "url": "https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5pg0D8LLGsWG0wwI8xxgWO"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 189667,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/5Jr1eGcMKChuU0gQdxeF5b"
       },
@@ -1015,6 +1031,22 @@
       "duration_ms": 252253,
       "name": "Go",
       "url": "https://open.spotify.com/track/2VXoiz9P6W9jG48Gv3bTHO"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 204592,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1051,34 +1083,18 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
+        "name": "CUBE",
+        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
       },
       "artists": [
         {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+          "name": "Tha\u00efs Lona",
+          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
         }
       ],
-      "duration_ms": 204592,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/5pg0D8LLGsWG0wwI8xxgWO"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 189667,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx"
+      "duration_ms": 257040,
+      "name": "B.N.D",
+      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1095,22 +1111,6 @@
       "duration_ms": 169986,
       "name": "Pure Gold",
       "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
-        "name": "CUBE",
-        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
-      },
-      "artists": [
-        {
-          "name": "Tha\u00efs Lona",
-          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
-        }
-      ],
-      "duration_ms": 257040,
-      "name": "B.N.D",
-      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
+        "name": "L.A.B V",
+        "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 310960,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7ITaZ7T8roiZPN35uhX2FC"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
         "name": "Piece of Me",
         "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 268013,
       "name": "inside out",
       "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
-        "name": "L.A.B V",
-        "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 310960,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7ITaZ7T8roiZPN35uhX2FC"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 192724,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "no sleep in LA",
         "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
       },
@@ -1447,22 +1431,18 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Summer in Amsterdam",
-        "url": "https://open.spotify.com/album/41oCea6cFoAFT5ws1c5Dm1"
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG"
       },
       "artists": [
         {
-          "name": "Benjamin Fro",
-          "url": "https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6"
-        },
-        {
-          "name": "Noa Lauryn",
-          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
         }
       ],
-      "duration_ms": 210019,
-      "name": "Summer in Amsterdam",
-      "url": "https://open.spotify.com/track/1AdwbV9TaiLct5zKaLpiqB"
+      "duration_ms": 192724,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1487,18 +1467,22 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Leave It All Behind",
-        "url": "https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh"
+        "name": "Summer in Amsterdam",
+        "url": "https://open.spotify.com/album/41oCea6cFoAFT5ws1c5Dm1"
       },
       "artists": [
         {
-          "name": "Bumpy",
-          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
+          "name": "Benjamin Fro",
+          "url": "https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6"
+        },
+        {
+          "name": "Noa Lauryn",
+          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
         }
       ],
-      "duration_ms": 235353,
-      "name": "Leave It All Behind",
-      "url": "https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST"
+      "duration_ms": 210019,
+      "name": "Summer in Amsterdam",
+      "url": "https://open.spotify.com/track/1AdwbV9TaiLct5zKaLpiqB"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
+        "name": "Leave It All Behind",
+        "url": "https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh"
+      },
+      "artists": [
+        {
+          "name": "Bumpy",
+          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
+        }
+      ],
+      "duration_ms": 235353,
+      "name": "Leave It All Behind",
+      "url": "https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
         "name": "Like Neptune",
         "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 279453,
       "name": "deeper",
       "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
+      },
+      "artists": [
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        }
+      ],
+      "duration_ms": 205625,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Feels So Good (Don\u2019t It)",
-        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
-      },
-      "artists": [
-        {
-          "name": "Secret Rendezvous",
-          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
-        }
-      ],
-      "duration_ms": 209524,
-      "name": "Feels So Good Don\u2019t It",
-      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "Come Around",
         "url": "https://open.spotify.com/album/3TPOOljJFpM8dtCv7glSFQ"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 186200,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/7AEEEVNZCENxzU4J2V6Ah9"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Feels So Good (Don\u2019t It)",
+        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
+      },
+      "artists": [
+        {
+          "name": "Secret Rendezvous",
+          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
+        }
+      ],
+      "duration_ms": 209524,
+      "name": "Feels So Good Don\u2019t It",
+      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1707,22 +1723,6 @@
       "duration_ms": 154072,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/0gqi6ZMHHEGUHjtlsR8hrA"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
-      },
-      "artists": [
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        }
-      ],
-      "duration_ms": 205625,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
     },
     {
       "added_at": "2022-09-30 08:22:23",

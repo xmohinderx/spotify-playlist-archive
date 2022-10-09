@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Featuring Major Lazer.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,536 likes - 200 songs - 10 hr 33 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,525 likes - 200 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 5 | [No Limit](https://open.spotify.com/track/5U6PQ4fJo1yyTvmpvdcq3L) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [No Limit](https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV) | 3:27 |
 | 6 | [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 |
 | 7 | [DON'T YOU WORRY \(Farruko Remix\) \(with Farruko, David Guetta & Shakira\)](https://open.spotify.com/track/6Qk9crrlslodQnHqhCmjtC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY \(Farruko Remix\) \(with Farruko, David Guetta & Shakira\)](https://open.spotify.com/album/2aCT4cP1qg9NhPLvSg48N5) | 3:25 |
-| 8 | [Dance The Night Away \(feat\. Alessia Labate\)](https://open.spotify.com/track/5GVcIqP2LW6Fqlb9Pz3eWI) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Dance The Night Away \(feat\. Alessia Labate\)](https://open.spotify.com/album/7mCR5vdsGIwPRfqlQ8uaDt) | 2:31 |
+| 8 | [Dance The Night Away \(feat\. Alessia Labate\)](https://open.spotify.com/track/5GVcIqP2LW6Fqlb9Pz3eWI) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Dance The Night Away \(feat\. Alessia Labate\)](https://open.spotify.com/album/7mCR5vdsGIwPRfqlQ8uaDt) | 2:30 |
 | 9 | [Why Are You Here \(feat\. Violet Days\)](https://open.spotify.com/track/1PrGlhmvAFjYyIiRDiKv0q) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [The Old Days](https://open.spotify.com/album/4VAog91t9To2gujuttmguG) | 3:21 |
 | 10 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 |
 | 11 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 |

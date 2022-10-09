@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Magnolia Park
 
-849 songs - 1 day 21 hr 17 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+850 songs - 1 day 21 hr 19 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -763,7 +763,8 @@
 | [this might be our last december](https://open.spotify.com/track/0vKSOTSPy2SgcChNoBR77c) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [just in case the world ends](https://open.spotify.com/album/3X1H1Xq8rAcMQUE27sSSzi) | 3:26 | 2022-05-06 | 2022-06-25 |
 | [Three Chords](https://open.spotify.com/track/2jgTCZyFY6ZqhyIcSwpuWk) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Three Chords](https://open.spotify.com/album/4ksvsvLoQ7DwjMwDS3Uyvt) | 3:47 | 2021-11-19 | 2022-02-19 |
 | [Three Chords](https://open.spotify.com/track/5UZS4MsPlUYmdPTh7wQVSD) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 3:47 | 2022-02-18 | 2022-05-20 |
-| [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 |  |
+| [THREE HEADS\*](https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 | 2022-10-07 |  |
+| [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 | 2022-10-09 |
 | [Thunder](https://open.spotify.com/track/3Ox1FeECWvX8BmwXLLEJKY) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Thunder](https://open.spotify.com/album/5jSQOUFKYWTsnAKpLsesib) | 4:23 | 2022-07-15 | 2022-08-20 |
 | [Thursday](https://open.spotify.com/track/6vb55aYjtf4DirjVFPJpKz) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 2:22 | 2022-09-16 |  |
 | [Tidal River](https://open.spotify.com/track/1B6nqx7K8pvhyZMiGusS9J) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Tidal River](https://open.spotify.com/album/7CXBgilBzgYsjuv5VINrjv) | 4:26 | 2022-03-11 | 2022-05-14 |

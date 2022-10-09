@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Rina Sawayama",
-  "num_followers": 847160,
+  "num_followers": 847130,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkwMjgwMCwwMDAwMDAwMDcwMjk0NzVhMWM3MjhhNmEyOWM2MDVkYTBhZjllNzUy",
+  "snapshot_id": "MTY2NDkwMjgwMCwwMDAwMDAwMGU0MWRlNzAxMDY5NTNhMWZkNmNmNmE3ODVhYTZhMzY2",
   "tracks": [
     {
       "added_at": "2022-10-04 17:00:00",
@@ -343,18 +343,22 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "Die Together",
-        "url": "https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB"
+        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
+        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
       "artists": [
         {
-          "name": "Amanda Tenfjord",
-          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
         }
       ],
-      "duration_ms": 175466,
-      "name": "Die Together",
-      "url": "https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM"
+      "duration_ms": 189000,
+      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
+      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -375,22 +379,18 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
-        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
+        "name": "Die Together",
+        "url": "https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          "name": "Amanda Tenfjord",
+          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
-      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
+      "duration_ms": 175466,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -487,42 +487,6 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "IL FUMO UCCIDE",
-        "url": "https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU"
-      },
-      "artists": [
-        {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
-        }
-      ],
-      "duration_ms": 185100,
-      "name": "IL FUMO UCCIDE",
-      "url": "https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
-        "name": "AMAN",
-        "url": "https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5"
-      },
-      "artists": [
-        {
-          "name": "Amanda Tenfjord",
-          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
-        },
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        }
-      ],
-      "duration_ms": 190962,
-      "name": "AMAN",
-      "url": "https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
         "name": "Gold Rush",
         "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
       },
@@ -551,6 +515,42 @@
       "duration_ms": 169600,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
+        "name": "AMAN",
+        "url": "https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5"
+      },
+      "artists": [
+        {
+          "name": "Amanda Tenfjord",
+          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
+        },
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "duration_ms": 190962,
+      "name": "AMAN",
+      "url": "https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
+        "name": "IL FUMO UCCIDE",
+        "url": "https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU"
+      },
+      "artists": [
+        {
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+        }
+      ],
+      "duration_ms": 185100,
+      "name": "IL FUMO UCCIDE",
+      "url": "https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -587,7 +587,7 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "Passo a Passo",
+        "name": "passo a passo",
         "url": "https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj"
       },
       "artists": [
@@ -597,7 +597,7 @@
         }
       ],
       "duration_ms": 219166,
-      "name": "Passo a Passo",
+      "name": "passo a passo",
       "url": "https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC"
     },
     {
@@ -663,6 +663,22 @@
       "duration_ms": 205114,
       "name": "\u0646\u062d\u0646\u0648\u062d",
       "url": "https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
+        "name": "Rari",
+        "url": "https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 168190,
+      "name": "Rari",
+      "url": "https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -735,22 +751,6 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 163601,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -799,22 +815,6 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "\u6728\u982d\u4eba\u7684\u98db\u884c",
-        "url": "https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV"
-      },
-      "artists": [
-        {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
-        }
-      ],
-      "duration_ms": 190967,
-      "name": "\u6728\u982d\u4eba\u7684\u98db\u884c",
-      "url": "https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
         "name": "Nereye G\u00f6msem?",
         "url": "https://open.spotify.com/album/4L4pTQbsLkzPJWUogZTw05"
       },
@@ -831,18 +831,38 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "An kapou kapou m' agapas",
-        "url": "https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J"
+        "name": "HIDE AND SEEK",
+        "url": "https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY"
       },
       "artists": [
         {
-          "name": "Stefania",
-          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
+          "name": "ZUZA",
+          "url": "https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ"
+        },
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
         }
       ],
-      "duration_ms": 192972,
-      "name": "An kapou kapou m' agapas",
-      "url": "https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1"
+      "duration_ms": 182622,
+      "name": "HIDE AND SEEK",
+      "url": "https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
+        "name": "\u6728\u982d\u4eba\u7684\u98db\u884c",
+        "url": "https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV"
+      },
+      "artists": [
+        {
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+        }
+      ],
+      "duration_ms": 190967,
+      "name": "\u6728\u982d\u4eba\u7684\u98db\u884c",
+      "url": "https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -859,6 +879,22 @@
       "duration_ms": 216792,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/0zVDBpbaqYg7lmBfAdX75p"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
+        "name": "An kapou kapou m' agapas",
+        "url": "https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
+        }
+      ],
+      "duration_ms": 192972,
+      "name": "An kapou kapou m' agapas",
+      "url": "https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -931,22 +967,6 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "Kalimutan",
-        "url": "https://open.spotify.com/album/4abIbIvI6BG7uRdrUocI1D"
-      },
-      "artists": [
-        {
-          "name": "dia mat\u00e9",
-          "url": "https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Kalimutan",
-      "url": "https://open.spotify.com/track/1degd7Nhtw4z6zt8y6KwDZ"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
         "name": "Milkshake",
         "url": "https://open.spotify.com/album/1T9A30JUrolQtPiDHxwDiG"
       },
@@ -959,6 +979,22 @@
       "duration_ms": 222484,
       "name": "Milkshake",
       "url": "https://open.spotify.com/track/1l2vMP0Cov7ogJOF2l6MXm"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
+        "name": "Kalimutan",
+        "url": "https://open.spotify.com/album/4abIbIvI6BG7uRdrUocI1D"
+      },
+      "artists": [
+        {
+          "name": "dia mat\u00e9",
+          "url": "https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "Kalimutan",
+      "url": "https://open.spotify.com/track/1degd7Nhtw4z6zt8y6KwDZ"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -995,26 +1031,6 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "HIDE AND SEEK",
-        "url": "https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY"
-      },
-      "artists": [
-        {
-          "name": "ZUZA",
-          "url": "https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ"
-        },
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
-        }
-      ],
-      "duration_ms": 182622,
-      "name": "HIDE AND SEEK",
-      "url": "https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
         "name": "\u5fc3\u52d5 (2018\u9304\u97f3\u68da\u73fe\u5834\u7248)",
         "url": "https://open.spotify.com/album/2hV8CBsMjmliBi5jUL151T"
       },
@@ -1047,6 +1063,22 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs"
+      },
+      "artists": [
+        {
+          "name": "ALLY",
+          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
         "name": "Chakra Sacro",
         "url": "https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R"
       },
@@ -1063,38 +1095,6 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "Mukhtasir Baatein",
-        "url": "https://open.spotify.com/album/5nOZtgjx1yZ7xZUQk69pKo"
-      },
-      "artists": [
-        {
-          "name": "Eva B",
-          "url": "https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Mukhtasir Baatein",
-      "url": "https://open.spotify.com/track/0SFzTBfG9UgdFGMc2KJD8y"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
-        "name": "Rari",
-        "url": "https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 168190,
-      "name": "Rari",
-      "url": "https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/3rsmCfSkLjDUcjSembmp3S"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 160903,
       "name": "Tudu Tudu Tu",
       "url": "https://open.spotify.com/track/4FOCWMx3Xl36xlEQoEYmpn"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
+        "name": "Mukhtasir Baatein",
+        "url": "https://open.spotify.com/album/5nOZtgjx1yZ7xZUQk69pKo"
+      },
+      "artists": [
+        {
+          "name": "Eva B",
+          "url": "https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Mukhtasir Baatein",
+      "url": "https://open.spotify.com/track/0SFzTBfG9UgdFGMc2KJD8y"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 252941,
       "name": "\u00cdch K\u1ef7 - English Version",
       "url": "https://open.spotify.com/track/6IKUk2SPpMOhrhbcURl0Zj"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs"
-      },
-      "artists": [
-        {
-          "name": "ALLY",
-          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr"
     },
     {
       "added_at": "2022-10-04 17:00:00",

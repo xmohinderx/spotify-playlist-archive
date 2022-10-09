@@ -4,7 +4,7 @@
 
 > New music from Charlie Puth \(pictured\), Nickelback, Quavo & Takeoff, Rêve and more!
 
-4,120 songs - 9 day 3 hr 29 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+4,121 songs - 9 day 3 hr 32 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Afraid To Love](https://open.spotify.com/track/0p1cSoBK2iGy3NRCUDCgYs) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Afraid To Love](https://open.spotify.com/album/4oTyTcvgXWAceOKX9LtspZ) | 3:56 | 2022-03-04 | 2022-03-12 |
 | [Africvillean Funk](https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Africvillean Funk](https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN) | 3:12 | 2022-07-01 | 2022-07-09 |
 | [After Hours](https://open.spotify.com/track/6HkiqAVf6Toddwhdx6eSQH) | [Sasha Laine](https://open.spotify.com/artist/3sRMEOaDBUHliAsdHN70Wt) | [After Hours](https://open.spotify.com/album/1jjpxM8v3B9ud5xnogc0Zr) | 2:45 | 2022-01-07 | 2022-01-15 |
-| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 |  |
+| [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-07 |  |
+| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-10-09 |
 | [After This](https://open.spotify.com/track/3Kd0urrDZd1gU3SrPiUkH9) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [After This / Certain Father / Hold](https://open.spotify.com/album/2gOS81x3Vems2Tcb8ctFaa) | 4:00 | 2022-10-07 |  |
 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 | 2022-08-26 | 2022-09-03 |
 | [Afterlife](https://open.spotify.com/track/0FBzoIIRHpb81roPMjpkBX) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Afterlife](https://open.spotify.com/album/0BkdK9cU6sEjKfpQxhRm9i) | 2:53 | 2022-02-11 | 2022-02-19 |
@@ -3803,7 +3804,7 @@
 | [Vince Carter](https://open.spotify.com/track/7FcxQ0Vo80VLmj2bbI4PDu) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Vince Carter](https://open.spotify.com/album/27Ov0gmzsleAzK9hH2VEUm) | 3:29 | 2022-10-07 |  |
 | [Vinyl Days \(feat\. DJ Premier\)](https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Vinyl Days](https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1) | 4:42 | 2022-05-20 | 2022-05-28 |
 | [Violence](https://open.spotify.com/track/06r4k5ncgrDmgrf9mlncR4) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Violence](https://open.spotify.com/album/0fwBR8BraCZRRlmX8sS4H3) | 3:54 | 2022-06-24 | 2022-07-02 |
-| [Violet](https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/645MRWJlInqgZv3DlIJz7B) | [Violet](https://open.spotify.com/album/6TasXkUMVr3cFnrerHhlVj) | 2:02 | 2022-10-07 |  |
+| [Violet](https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Violet](https://open.spotify.com/album/6TasXkUMVr3cFnrerHhlVj) | 2:02 | 2022-10-07 |  |
 | [VIP](https://open.spotify.com/track/6NCJTDAQsOErJGv7mhdvsB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [VIP](https://open.spotify.com/album/4CwFdN37OjqRPYh4nri0w2) | 2:27 | 2022-09-23 | 2022-10-01 |
 | [Vitamins](https://open.spotify.com/track/1b4bVlE2c1Sef4IXDrTiEf) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Vitamins](https://open.spotify.com/album/5OmRWEVKq80g4fPdsARTS5) | 2:28 | 2022-04-01 | 2022-04-09 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-03 | 2022-06-11 |

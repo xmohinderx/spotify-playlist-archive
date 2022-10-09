@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: D.O.D &amp; Raphaella
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,267 likes - 150 songs - 7 hr 42 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,290 likes - 150 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 12 | [Live On Love](https://open.spotify.com/track/5ScYUv4grVUOvOECp6TiKZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Live On Love](https://open.spotify.com/album/6FoPkqK70wBaMbL3glpMWR) | 2:51 |
 | 13 | [I Feel You Everywhere \(Antibodies\)](https://open.spotify.com/track/5ARaZug8wImCAm23KIqvwT) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [I Feel You Everywhere \(Antibodies\)](https://open.spotify.com/album/2HOODjF6x99Icb8BBe62VG) | 3:10 |
 | 14 | [Those Eyes](https://open.spotify.com/track/4KqA0GwEKbc96WyfIZn3SV) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Those Eyes](https://open.spotify.com/album/58RPXRvxMszS1tfbeBjht0) | 2:42 |
-| 15 | [Break The Silence](https://open.spotify.com/track/7sRQpJTP2b8jRde8IsaPWm) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Break The Silence](https://open.spotify.com/album/36VWkKMQrDQoY4PAiBXFBq) | 2:31 |
+| 15 | [Break The Silence](https://open.spotify.com/track/7sRQpJTP2b8jRde8IsaPWm) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Break The Silence](https://open.spotify.com/album/36VWkKMQrDQoY4PAiBXFBq) | 2:32 |
 | 16 | [Told You](https://open.spotify.com/track/25IWOBNRnaBP1DYxhvte3Y) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [QG](https://open.spotify.com/artist/2MtpoQ7X39CySVKyTPcTde) | [Fundamentals](https://open.spotify.com/album/3Fg2bjkd8gLAhJAV5w9800) | 2:31 |
 | 17 | [Lifeline](https://open.spotify.com/track/4tvDQfaM3ZJMrQbLA13RNm) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Lifeline](https://open.spotify.com/album/3TgepwNI0HXrFMPfQom2B7) | 3:38 |
 | 18 | [Greece 2000](https://open.spotify.com/track/115fW9TaRrv9yI3gSfJ1Cj) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Armada Music \- ADE 2022](https://open.spotify.com/album/1jBe7xcFd9Z6plS4nGDyMs) | 3:27 |

@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 121173,
+  "num_followers": 121438,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk3MzA4NCwwMDAwMDAwMDdmZTkxZmRjZjM4NTAyOGYwODdkNjk0YTIyMmY4NDhk",
+  "snapshot_id": "MTY2NDk3MzA4NCwwMDAwMDAwMDk5NGU5ZTAyY2NlYjc0ZWQ4NDA3YTc3OWU0YTQwZWFm",
   "tracks": [
     {
       "added_at": "2022-10-03 13:21:37",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-10-03 13:21:37",
       "album": {
-        "name": "Hung Down Head",
-        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
-    },
-    {
-      "added_at": "2022-10-03 13:21:37",
-      "album": {
         "name": "Blacksnake Blues",
         "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 674000,
       "name": "Blacksnake Blues",
       "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+    },
+    {
+      "added_at": "2022-10-03 13:21:37",
+      "album": {
+        "name": "Hung Down Head",
+        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
     },
     {
       "added_at": "2022-10-03 13:21:37",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-10-03 13:21:37",
       "album": {
-        "name": "His Best: The Electric B.B. King (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 309373,
-      "name": "Don't Answer The Door",
-      "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
-    },
-    {
-      "added_at": "2022-10-03 13:21:37",
-      "album": {
         "name": "The Blues Don't Lie",
         "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 222000,
       "name": "Follow The Money (feat. James Taylor)",
       "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
+    },
+    {
+      "added_at": "2022-10-03 13:21:37",
+      "album": {
+        "name": "His Best: The Electric B.B. King (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 309373,
+      "name": "Don't Answer The Door",
+      "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
     },
     {
       "added_at": "2022-10-03 13:21:37",

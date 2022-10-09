@@ -1290,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Ever-changing Light",
+        "url": "https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA"
+      },
+      "artists": [
+        {
+          "name": "Lucid Lucia",
+          "url": "https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "Mumpsimus",
+      "url": "https://open.spotify.com/track/1jv1v75OhCe82Xtulem3h3"
+    },
+    {
+      "album": {
         "name": "Reminiscence",
         "url": "https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU"
       },
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 261213,
       "name": "Mumpsimus",
       "url": "https://open.spotify.com/track/3vDDo27qTtttNNYc2WICKp"
@@ -1744,6 +1762,24 @@
     },
     {
       "album": {
+        "name": "Ever-changing Light",
+        "url": "https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA"
+      },
+      "artists": [
+        {
+          "name": "Lucid Lucia",
+          "url": "https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268280,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj"
+    },
+    {
+      "album": {
         "name": "Reminiscence",
         "url": "https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU"
       },
@@ -1755,7 +1791,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 271041,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: LF SYSTEM
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,340 likes - 92 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,501 likes - 92 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 84 | [Supersonic](https://open.spotify.com/track/7f44pADg4CUXc27t4qfYe6) | [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT) | [Supersonic](https://open.spotify.com/album/5L3PgHlSfk65OsqXsjC4CQ) | 2:43 |
 | 85 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 3:48 |
 | 86 | [How It Feels](https://open.spotify.com/track/1YTzo41VV6ja39GPmONFM7) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [How It Feels](https://open.spotify.com/album/2GAvjkJOgFuMqyRVI9D0F1) | 3:36 |
-| 87 | [Handy Mandy](https://open.spotify.com/track/52ws5R7Sx8pdF0v2gIYxpf) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Handy Mandy](https://open.spotify.com/album/1Ibr0zn1p2Djko0Ggt6cSC) | 3:32 |
+| 87 | [Handy Mandy](https://open.spotify.com/track/4AHsskVgF4kW6ZLvC5Gmlv) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Handy Mandy \(TIBASKO Remix\)](https://open.spotify.com/album/5zBX60h3UAnFXgTXlMSrFo) | 3:32 |
 | 88 | [Don't Hurt Me Baby](https://open.spotify.com/track/7ez7Ld3pAXLa7QWgnr5a1e) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [Don't Hurt Me Baby](https://open.spotify.com/album/1N7dPvx7bzIGyD7XSwejT8) | 2:24 |
 | 89 | [Eventide in Orbit](https://open.spotify.com/track/3m1Z6IK6pCXs5jOydBlUAT) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Eventide in Orbit](https://open.spotify.com/album/0ZEzDscqxvp1Kp02aEtK8p) | 6:46 |
 | 90 | [Make You Mine](https://open.spotify.com/track/2hLHtZpEnyL2ADzTrEj6Bh) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Make You Mine](https://open.spotify.com/album/28827URdQxyx99FNfzbwQY) | 2:21 |
 | 91 | [Unusual](https://open.spotify.com/track/4ZNhYJ1LLd4m6ZZ6aZ2eFn) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Unusual](https://open.spotify.com/album/5wyTGzXZJvp4Wc8nJ8IvHF) | 3:17 |
 | 92 | [Fits Together](https://open.spotify.com/track/6TQoD0YJbQxfVCVVDXLjNO) | [Cassy](https://open.spotify.com/artist/7JNP0OcJnBFXQWixpWmb5V) | [Fits Together](https://open.spotify.com/album/1R0D5PSIQ8kmSsqBjNe8TN) | 4:35 |
 
-Snapshot ID: `MTY2NTE1MzU0NywwMDAwMDAwMGZiZTU4M2Q1MGFlOTVhMDJhZGY5MjBlMTA3MWRmMzVi`
+Snapshot ID: `MTY2NTE1MzU0NywwMDAwMDAwMGZlYWU0OTliMGZmYTVmZjBjYTUwM2VmZjg4NjI3ODQ1`

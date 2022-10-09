@@ -4,7 +4,7 @@
 
 > Recordando a los ídolos de la música de banda\. En portada: Cuisillos de Arturo Macías
 
-176 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/5xo43YFgTgjm6e7jZuAu4U)
+177 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/5xo43YFgTgjm6e7jZuAu4U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Compárame](https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 3:45 | 2021-10-22 |  |
 | [Corazon Malherido](https://open.spotify.com/track/3FKdokPDcC8f40RXO5x68b) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuerdate De Mi](https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey) | 2:33 | 2021-10-22 | 2022-07-21 |
 | [Creo Estar Sonañdo](https://open.spotify.com/track/27PgKTLK5fZovvx4qR43MS) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Ranchero y Mucho Más](https://open.spotify.com/album/22V4Ns9jAEuymbDB6hGrFD) | 2:43 | 2021-10-22 | 2022-07-29 |
-| [Creo Estar Soñando](https://open.spotify.com/track/1NGqwMt7E6g7D4b7Fywkcu) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/4ljRe6ASjOEUrEl5ElNwH4) | 2:43 | 2021-10-22 |  |
+| [Creo Estar Soñando](https://open.spotify.com/track/1NGqwMt7E6g7D4b7Fywkcu) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/4ljRe6ASjOEUrEl5ElNwH4) | 2:43 | 2021-10-22 | 2022-10-09 |
+| [Creo Estar Soñando](https://open.spotify.com/track/6LOJGtfyJW14lMEj06qxQZ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 2:43 | 2021-10-22 |  |
 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/355sdIGsNoFpGz5hqLL6EA) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Cuando Los Hombres Lloran](https://open.spotify.com/album/0wL6K5Tee6JIF3rxBv9GH2) | 2:16 | 2021-10-22 | 2022-07-18 |
 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:30 | 2021-10-22 |  |
 | [Cuatro Rosas](https://open.spotify.com/track/4MNshDc0FgyiddMjlGbeCV) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Volver a Verte](https://open.spotify.com/album/7Fr4KyfCljns3TO7M0gS1S) | 4:08 | 2021-10-22 |  |

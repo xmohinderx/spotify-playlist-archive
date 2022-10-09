@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Bad Gyal.",
-  "num_followers": 506214,
+  "num_followers": 506367,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDRlNDk5ZmUwZDljYmM3ZTU0MjZiYTkwODg2NGVlY2I3",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDVhYWQ0ZWVkMzMwNTU0OWZkMGU4ZmMxMTVlZDE1MDE5",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -119,7 +119,7 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "TORO",
+        "name": "Toro",
         "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
       },
       "artists": [
@@ -539,22 +539,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Ande Con Quien Ande",
-        "url": "https://open.spotify.com/album/1HUkl1Q80b9VhGWBfY37RW"
+        "name": "Luces De Ne\u00f3n",
+        "url": "https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS"
       },
       "artists": [
         {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
         }
       ],
-      "duration_ms": 208734,
-      "name": "Ande Con Quien Ande",
-      "url": "https://open.spotify.com/track/6AizmGCrFRQHru1Qf8WKoJ"
+      "duration_ms": 219789,
+      "name": "Luces De Ne\u00f3n",
+      "url": "https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -655,18 +651,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Luces De Ne\u00f3n",
-        "url": "https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS"
+        "name": "Ande Con Quien Ande",
+        "url": "https://open.spotify.com/album/1HUkl1Q80b9VhGWBfY37RW"
       },
       "artists": [
         {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
         }
       ],
-      "duration_ms": 219789,
-      "name": "Luces De Ne\u00f3n",
-      "url": "https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I"
+      "duration_ms": 208734,
+      "name": "Ande Con Quien Ande",
+      "url": "https://open.spotify.com/track/6AizmGCrFRQHru1Qf8WKoJ"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Bad Bichi",
-        "url": "https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "Bad Bichi",
-      "url": "https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Contacto",
         "url": "https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 197333,
       "name": "Contacto",
       "url": "https://open.spotify.com/track/60UZ3rIcDkjoN5i2aZalNh"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Bad Bichi",
+        "url": "https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "Bad Bichi",
+      "url": "https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "TERMINAMOS",
-        "url": "https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
-        }
-      ],
-      "duration_ms": 157927,
-      "name": "TERMINAMOS",
-      "url": "https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Tu Lo Tienes (feat. YOVNGCHIMI)",
         "url": "https://open.spotify.com/album/51JvtglRteGeqbA0j6UciV"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 177787,
       "name": "Tu Lo Tienes (feat. YOVNGCHIMI)",
       "url": "https://open.spotify.com/track/4WvUzMxcub8CWjvHyMuEXu"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "TERMINAMOS",
+        "url": "https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
+        }
+      ],
+      "duration_ms": 157927,
+      "name": "TERMINAMOS",
+      "url": "https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL"
     },
     {
       "added_at": "2022-10-07 04:01:00",

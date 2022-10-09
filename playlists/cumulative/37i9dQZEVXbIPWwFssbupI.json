@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -2039,7 +2039,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 138786,
       "name": "BECTE",
       "url": "https://open.spotify.com/track/0Fqpx84jq1cK3pDtPvTFyM"
@@ -6277,7 +6277,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 168877,
       "name": "Filtr\u00e9",
       "url": "https://open.spotify.com/track/7eb7JIRN6HKpedFSDGd4yI"
@@ -7403,7 +7403,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 178866,
       "name": "Hasarder",
       "url": "https://open.spotify.com/track/6V40xLcDlYwZpz3oKIVNhL"
@@ -9313,7 +9313,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 221149,
       "name": "La goffa Lolita",
       "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
@@ -10563,10 +10563,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 146118,
       "name": "Lola",
       "url": "https://open.spotify.com/track/15Cdh1RxOdlaFUm24ifnKH"
+    },
+    {
+      "album": {
+        "name": "Mentalit\u00e9 (Part.1)",
+        "url": "https://open.spotify.com/album/1fLfmnXNbu9crr25QC3esR"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146133,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/43vjYTKZg8R5LsuITJ4wVu"
     },
     {
       "album": {
@@ -11995,7 +12013,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 192920,
       "name": "Mode AV (feat. Niska & Gazo)",
       "url": "https://open.spotify.com/track/5b8HD1dJDuPawgS5FjSC2q"
@@ -15951,7 +15969,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 156862,
       "name": "Selfie",
       "url": "https://open.spotify.com/track/7pZayfJlwlHulmzt0xUN9m"
@@ -18261,7 +18279,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 241160,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/5QowMIujytktMDC8pktNXH"

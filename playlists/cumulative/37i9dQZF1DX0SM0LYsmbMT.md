@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,049 songs - 4 day 22 hr 6 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,050 songs - 4 day 22 hr 8 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Bolivia](https://open.spotify.com/track/0rCMCvrYA4LKXFKdUSyseQ) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Bolivia](https://open.spotify.com/album/0sAapPHnSeEDZBDIP6diAg) | 2:36 | 2022-05-12 | 2022-09-23 |
 | [Bolivian Rapsody](https://open.spotify.com/track/3uaHhFnvUCUBYVLihXAWLp) | [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [In Memory of Freedom](https://open.spotify.com/album/2bKoJrFSai2hEE0MtABUHH) | 2:09 | 2022-03-24 | 2022-04-22 |
 | [Bonsai](https://open.spotify.com/track/6tt5Fvt9EI9NRD5K10W2Mw) | [lazy oscar](https://open.spotify.com/artist/4r6mPOhHkANNhAi65EHsue) | [Bonsai](https://open.spotify.com/album/4Mvl0LgPQy03GH0wrFQ0Pa) | 2:13 | 2020-10-03 | 2021-05-14 |
+| [Bonsai Garden](https://open.spotify.com/track/4BWaechBN4YaXZQ8AAjE6J) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Bonsai Garden](https://open.spotify.com/album/4iArf5PjTgihAHH9PmEFtP) | 1:54 | 2022-10-06 |  |
 | [Bonzai View](https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [Bonzai View](https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j) | 3:32 | 2021-10-10 | 2021-11-12 |
 | [Boreal](https://open.spotify.com/track/46Y4Qz8yPvrWsg1iKSe9ZN) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Boreal](https://open.spotify.com/album/0Y2wem1kHX7RXOQn11595y) | 3:12 | 2019-09-06 | 2020-03-04 |
 | [Bossa Sportiva](https://open.spotify.com/track/6CxvXUtRMMHKX19t1PyBD9) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Bossa Sportiva](https://open.spotify.com/album/63WOuJ8v84T98OC1W2ZgLE) | 2:06 | 2021-03-02 | 2021-04-23 |
@@ -1955,7 +1956,7 @@
 | [Out for a Stroll](https://open.spotify.com/track/52uThjP5ZMRijeBTKUMUkS) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Out for a Stroll](https://open.spotify.com/album/0LGnwyI6nxYH6ZHbyYtoDZ) | 3:42 | 2021-07-16 |  |
 | [Out of Control](https://open.spotify.com/track/6W9dqUFACWHDsOwPbP1zgY) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Selected Archive \(1996 \- 2002\) \- No\. 1](https://open.spotify.com/album/07IRxfnUIHMMxqPfu4c0o8) | 1:48 | 2021-07-20 | 2021-08-10 |
 | [Out The Blue \- Beat Edit](https://open.spotify.com/track/0C0YfH9QJ0vh0p4yQyjZyU) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Out The Blue \(Beat Edit\)](https://open.spotify.com/album/4cjeF3pTkT8til7510bCSp) | 1:30 | 2021-10-02 | 2021-10-16 |
-| [Outlands](https://open.spotify.com/track/55qLhh9X1MS3cB0wwbFUDs) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Outlands](https://open.spotify.com/album/3BQYqCDyafQR7vSBTuh9Uw) | 2:21 | 2021-11-16 |  |
+| [Outlands](https://open.spotify.com/track/55qLhh9X1MS3cB0wwbFUDs) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Outlands](https://open.spotify.com/album/3BQYqCDyafQR7vSBTuh9Uw) | 2:21 | 2021-11-16 | 2022-10-09 |
 | [Outside](https://open.spotify.com/track/32Im8GJNaMFWj9zU1qGuea) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Outside](https://open.spotify.com/album/3PjCUt75pI9OhwRUTHFg3U) | 2:23 | 2021-04-03 | 2021-08-27 |
 | [Outside](https://open.spotify.com/track/3JaRXKH30Mv6aJIWEyMN8N) | [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ), [pantology](https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0) | [Outside](https://open.spotify.com/album/7uJz1F0aSu4xUh695YYhpl) | 2:20 | 2021-04-30 | 2022-01-21 |
 | [Ouzo](https://open.spotify.com/track/5Db0SABxiQNHZmhJHl2Vyg) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Ouzo](https://open.spotify.com/album/7bWEYetNaUxTwxLf66h84b) | 2:04 | 2019-07-26 | 2019-11-29 |

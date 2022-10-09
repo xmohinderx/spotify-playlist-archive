@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Counterparts
 
-1,841 songs - 5 day 4 hr 8 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+1,842 songs - 5 day 4 hr 11 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -998,7 +998,8 @@
 | [Master the Hurricane](https://open.spotify.com/track/2Gaf3wScOJRll2j2eBB7Uy) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Master the Hurricane](https://open.spotify.com/album/02dWOZprnwjXGkggw6Fwz4) | 7:18 | 2022-05-13 | 2022-05-20 |
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-04-15 | 2022-04-22 |
 | [May It Be](https://open.spotify.com/track/4dxT3byfL0g1mlPjHxk18d) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI), [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [May It Be](https://open.spotify.com/album/3CopkuccqoeUUM8havVeNh) | 4:08 | 2022-03-03 | 2022-03-11 |
-| [Mayhem](https://open.spotify.com/track/6SjbKwKlHkMaBVEKXSg2jm) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Mayhem](https://open.spotify.com/album/55oZwJArtyJsJkrM5duv7R) | 3:24 | 2022-10-07 |  |
+| [Mayhem](https://open.spotify.com/track/23yBGHE1vMQfnuIoBKwy5k) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Mayhem](https://open.spotify.com/album/5ZG4Vedew1HIw1B6aWnzKa) | 3:24 | 2022-10-07 |  |
+| [Mayhem](https://open.spotify.com/track/6SjbKwKlHkMaBVEKXSg2jm) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Mayhem](https://open.spotify.com/album/55oZwJArtyJsJkrM5duv7R) | 3:24 | 2022-10-07 | 2022-10-09 |
 | [Maze](https://open.spotify.com/track/6LQGFOnhxtwg6nMLAClRpU) | [The Curse Of Millhaven](https://open.spotify.com/artist/4dEspvH4VdeB7mydiXLqVJ) | [Maze](https://open.spotify.com/album/4Halk2TofQHaMbB2KIfW9w) | 4:19 | 2022-06-06 | 2022-06-10 |
 | [Me](https://open.spotify.com/track/2HB0RLSCaKALpRHFw7PcOy) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Me](https://open.spotify.com/album/31mSLNzuht2DJbhiOzQa9o) | 3:21 | 2022-10-07 |  |
 | [Me, My Demons & I](https://open.spotify.com/track/6GcFySxXGTkuI9AFseYiJn) | [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [Me, My Demons & I](https://open.spotify.com/album/3cxbse9n6uBKv1nGq1PIOP) | 3:00 | 2022-04-22 | 2022-04-29 |
@@ -1348,7 +1349,7 @@
 | [Shadow](https://open.spotify.com/track/36VzVdJWZgpfyjxqS91JeS) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Shadow](https://open.spotify.com/album/5V9EPlNksqsh3zYGtFJe4t) | 3:48 | 2022-08-12 | 2022-08-20 |
 | [Shadow Haven \(feat\. Dan Swanö\)](https://open.spotify.com/track/16qJ81EuOnsulSqVpnm3rb) | [MMXX](https://open.spotify.com/artist/2Qp0bhUIN30oKiyG0RyUcx), [Dan Swanö](https://open.spotify.com/artist/29S5Wdq7vN7hY5qZGCuj8E) | [Shadow Haven](https://open.spotify.com/album/5fWJXEUgobd37oKwgeZ6wv) | 5:14 | 2022-10-07 |  |
 | [Shadow Moses](https://open.spotify.com/track/6QRD0pxdY3lsJMxQ2wBmnW) | [Jordan Radvansky](https://open.spotify.com/artist/3Le6vKQViu4syjJZW3JPgf), [Tyler Tate](https://open.spotify.com/artist/3baugBmuysZfJ05TUCGOwM) | [Shadow Moses](https://open.spotify.com/album/0d6uzZ1misuPf1zL0E7Ic1) | 3:49 | 2022-04-15 | 2022-04-22 |
-| [Shadowminds \- Ihsahn Remix](https://open.spotify.com/track/2119jVEL7SOHyXxvBjaZrc) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka), [Ihsahn](https://open.spotify.com/artist/4CIBQae2TuQxnqdkwtmJ4p) | [Shadowminds \(Ihsahn Remix\)](https://open.spotify.com/album/6II3pspzSsH0VeqqVIm0tv) | 3:54 | 2022-10-07 |  |
+| [Shadowminds \- Ihsahn Remix](https://open.spotify.com/track/2119jVEL7SOHyXxvBjaZrc) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Shadowminds \(Ihsahn Remix\)](https://open.spotify.com/album/6II3pspzSsH0VeqqVIm0tv) | 3:54 | 2022-10-07 |  |
 | [Shadows in Time](https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Shadows in Time](https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT) | 3:44 | 2022-08-05 | 2022-08-13 |
 | [Shady AF \(feat\. rexi XO\)](https://open.spotify.com/track/1XtI9W6aCfJwS1dt1wrpqF) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0), [rexi XO](https://open.spotify.com/artist/6uWvr6H5EPxrkAfU3LlSUd) | [Shady AF \(feat\. rexi XO\)](https://open.spotify.com/album/34l3oJFfig2FYlJ1OEwDGd) | 2:57 | 2022-05-13 | 2022-05-20 |
 | [Shaken \(not stirred\)](https://open.spotify.com/track/0xv7FSJPlVXBabtxOtMtHA) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Shaken \(not stirred\)](https://open.spotify.com/album/3pDXkhMOLNggMubMljdkRJ) | 5:19 | 2022-09-02 | 2022-09-10 |

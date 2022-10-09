@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Flyboiz
 
-418 songs - 23 hr 44 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
+419 songs - 23 hr 47 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Bingo](https://open.spotify.com/track/47X4qwJQYEB6fhMID6phUx) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [444 Paradise "Encerrado, No Enterrado"](https://open.spotify.com/album/1mdbJt88iwqkl0zEMGA8XH) | 3:35 | 2022-01-06 | 2022-05-14 |
 | [Birthday](https://open.spotify.com/track/6MxzJX0iNzr7jzANKbufku) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY) | [El Odioso](https://open.spotify.com/album/5yNtkTEHrmnKO15aHPocKO) | 2:50 | 2022-10-07 |  |
 | [Borracho Gacho](https://open.spotify.com/track/3fy4CajqticmYK5wXYF9lE) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Borracho Gacho](https://open.spotify.com/album/4X4JTvyX4cdx1bktVeGwJI) | 2:46 | 2022-01-06 | 2022-01-20 |
-| [Brillo](https://open.spotify.com/track/0kHS60aDOHYi4Z6W1HvP0o) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT) | [Brillo](https://open.spotify.com/album/43y4fdgRCeUlGxLLq4jBfO) | 3:03 | 2022-05-13 |  |
+| [Brillo](https://open.spotify.com/track/1qvnAuPUVH5c6wAOmJiZlM) | [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT), [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be) | [Brillo](https://open.spotify.com/album/12hIXLsjLvgy3L8P0QrVv6) | 3:03 | 2022-10-07 |  |
+| [Brillo](https://open.spotify.com/track/0kHS60aDOHYi4Z6W1HvP0o) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT) | [Brillo](https://open.spotify.com/album/43y4fdgRCeUlGxLLq4jBfO) | 3:03 | 2022-05-13 | 2022-10-09 |
 | [Brindis](https://open.spotify.com/track/6YcdB0kRFCSMOojS0EbVPR) | [A.M.Vicious](https://open.spotify.com/artist/1VDJuCTCYsiTvNYfdr3NUV), [Harlay](https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus) | [The Wave](https://open.spotify.com/album/15oqcyablsJuQykhPOvb0f) | 2:26 | 2022-02-02 | 2022-05-09 |
 | [Buen Viaje](https://open.spotify.com/track/3Rmu4NKTTjJvScgZaKkMJG) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit 1](https://open.spotify.com/album/3jwk8uhUhfJj56MuBZYBlm) | 2:50 | 2022-01-19 |  |
 | [Bulletproof](https://open.spotify.com/track/5F5d2SNc5MiJd0XZ4R6G4q) | [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq), [JD Asere](https://open.spotify.com/artist/54MH1AfZsVLacop0Wxzn7V), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Bulletproof](https://open.spotify.com/album/30eFS7kdBoX3LS0j8UCN4I) | 3:02 | 2022-01-19 | 2022-07-29 |

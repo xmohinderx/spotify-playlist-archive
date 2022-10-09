@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-309 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+310 songs - 19 hr 16 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/track/35UpVtlZ5nbxH2nw0of9ST) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/album/47vZuuUWplGpIYvBZGUj4s) | 4:18 | 2021-09-02 |  |
 | [Perfectly Out Of Place](https://open.spotify.com/track/1ogk8gkNwRw9iHONH2CAna) | [Dreams We've Had](https://open.spotify.com/artist/5LkgVE79AHNZN7kMukfJFv) | [Perfectly Out Of Place](https://open.spotify.com/album/0Z4R2r8QIaAV2pQF9tbgsa) | 4:53 | 2019-11-19\* | 2020-12-11 |
 | [Pharmacist](https://open.spotify.com/track/2Ccis7gEx0Obkn5rniQdIj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/64JNhi1z2dWvcvKY37z2BQ) | 2:04 | 2022-07-06 | 2022-07-29 |
-| [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-06 |  |
+| [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-06 | 2022-10-09 |
+| [Pharmacist](https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:04 | 2022-07-06 |  |
 | [Picnic In The Rain](https://open.spotify.com/track/3FenxrOYkVI0qlQuW0AWyz) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Picnic In The Rain](https://open.spotify.com/album/4v5lvDQMTrgTbbaYvCw0TF) | 3:15 | 2022-07-06 | 2022-07-29 |
 | [Picnic In The Rain](https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 3:15 | 2022-07-06 |  |
 | [Pixel Affection](https://open.spotify.com/track/46IEYjzyS37lltLLCDJbC0) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Pixel Affection](https://open.spotify.com/album/6293U8X30osYTMXgFpVnub) | 3:39 | 2019-11-19\* | 2020-12-22 |

@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Viva Suecia en portada.
 
-397 songs - 1 day 0 hr 16 min - [published](https://open.spotify.com/playlist/1BUAq3Aj6U4yuWSfhY1mrl)
+398 songs - 1 day 0 hr 20 min - [published](https://open.spotify.com/playlist/1BUAq3Aj6U4yuWSfhY1mrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,8 @@
 | [Rayos y Truenos](https://open.spotify.com/track/5FbkBpZi0BYNIkl6qSRwru) | [Alberto & Garcia](https://open.spotify.com/artist/5BKyujkSrDiZtHyRGtVJx6) | [Rayos y Truenos](https://open.spotify.com/album/0YgS60iAW48gTpC7WFHo6G) | 3:49 | 2022-09-16 | 2022-10-08 |
 | [Raíz \(Sinfónico en Vivo\)](https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 4:07 | 2022-08-12 | 2022-08-20 |
 | [Rebelde](https://open.spotify.com/track/1WR8dDGCMnFYVfdVdGEAAT) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Rockea Bien Duro](https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN) | 3:38 | 2022-08-19 | 2022-09-10 |
-| [Recuerdos Desechables](https://open.spotify.com/track/6KaUMpDH30LNmBhiLcMUtC) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/4uUZcwxBslFK0F4gT7fDcf) | 3:30 | 2022-10-07 |  |
+| [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 | 2022-10-07 |  |
+| [Recuerdos Desechables](https://open.spotify.com/track/6KaUMpDH30LNmBhiLcMUtC) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/4uUZcwxBslFK0F4gT7fDcf) | 3:30 | 2022-10-07 | 2022-10-09 |
 | [Remaches](https://open.spotify.com/track/0OaxDjNTiPFgpH6YnxFU7E) | [Manu Pozzi](https://open.spotify.com/artist/0CjS0CI9NnpXEhaS1FHJD0), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Remaches](https://open.spotify.com/album/6QLaSAT1pVCEp9K77OClTB) | 3:27 | 2022-06-24 | 2022-07-02 |
 | [Remera](https://open.spotify.com/track/0TRuSKE4Bg12qdFi2oZVHG) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE), [Francisco Lago](https://open.spotify.com/artist/3vBvFZBnjjDdjV35dDvL9L) | [Remera](https://open.spotify.com/album/0K4fJa7MxlrX46oCOymaxY) | 3:33 | 2022-09-02 | 2022-09-10 |
 | [Rescatame](https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Rescatame](https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl) | 4:11 | 2022-10-07 |  |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,009 likes - 60 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,135 likes - 60 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Always Free \(Live in Austin\)](https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends \(Live in Austin\)](https://open.spotify.com/album/3FnXv4h5TBWXo7ccTftiUj) | 7:36 |
 | 2 | [Empty Promises \(Live\)](https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises \(Live\)](https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9) | 7:49 |
 | 3 | [Can’t You See What You’re Doing To Me \- Live](https://open.spotify.com/track/30TXv4AUCnTxZeSWADR9m1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Can’t You See What You’re Doing To Me \(Live\)](https://open.spotify.com/album/7opwCaMs2Kjfp3p5vCnI4X) | 6:13 |
-| 4 | [Gravity \- Live at the House of Blues, Chicago, Illinois, September 22, 2005](https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [TRY! \- Live In Concert](https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz) | 5:49 |
+| 4 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
 | 5 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
-| 6 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
+| 6 | [Gravity \- Live at the House of Blues, Chicago, Illinois, September 22, 2005](https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [TRY! \- Live In Concert](https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz) | 5:49 |
 | 7 | [River of Tears \- Live at Staples Center, Los Angeles, CA, 8/18 \- 19/2001](https://open.spotify.com/track/4BuUr1VLpSndHMPHhtQoYP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [One More Car, One More Rider](https://open.spotify.com/album/2NxnSpRW6vvDbCBoJkb5gC) | 8:59 |
 | 8 | [Walk In My Shadow \- Live](https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk In My Shadow \(Live\)](https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT) | 4:29 |
 | 9 | [Why Me \- Live](https://open.spotify.com/track/1xap6bAZwxNGs1hIYwEzWw) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Feel So Good: Albert Cummings Live](https://open.spotify.com/album/1eiDms6tFvFwd4tNdTRnPm) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
 | 60 | [Soul Salvation \- Live](https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Recorded Live in Lafayette](https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9) | 4:32 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDI3MWJiMDZkMTA3ZThkMGIyZjFlNTExOTFkMTlkMGY5`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGU0NGFhN2UzYjAwNDI5NjUzMTlmOTA2MmZiNjg3Nzhj`

@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning\" ",
-  "num_followers": 871494,
+  "num_followers": 875888,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA2NzA3MywwMDAwMDAwMDAxNDYyMTM3ZjRiM2RhYTNkZWRmMjYyYjhjNjQ3N2Yy",
+  "snapshot_id": "MTY2NTA2NzA3MywwMDAwMDAwMGRmZjJiYjQ4MWIyZWJiYTlmMzYwYjVhOTlmYzBmZGVl",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
-      "added_at": "2022-10-08 01:17:48",
+      "added_at": "2022-10-09 19:53:46",
       "album": {
         "name": "we fell in love in october / forget her",
         "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5iwOkLRedNpGvymiknisHn"
     },
     {
-      "added_at": "2022-10-08 01:17:48",
+      "added_at": "2022-10-09 19:53:46",
       "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
     },
     {
-      "added_at": "2022-10-08 01:17:48",
+      "added_at": "2022-10-09 19:53:46",
       "album": {
         "name": "F.O.O.F.",
         "url": "https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z"
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "complex (demo)",
-        "url": "https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 256107,
-      "name": "complex (demo)",
-      "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "at least i'm pretty",
         "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 106800,
       "name": "at least i'm pretty",
       "url": "https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "complex (demo)",
+        "url": "https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 256107,
+      "name": "complex (demo)",
+      "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 277676,
       "name": "Moon Song",
       "url": "https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "We'll Never Have Sex",
-        "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 99620,
-      "name": "We'll Never Have Sex",
-      "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Trick",
         "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 197733,
       "name": "Mary",
       "url": "https://open.spotify.com/track/5T0Ib1Hjhsua7qbGTczU7j"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "We'll Never Have Sex",
+        "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 99620,
+      "name": "We'll Never Have Sex",
+      "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
     },
     {
       "added_at": "2022-09-23 04:00:00",

@@ -863,10 +863,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 179320,
       "name": "Pull It Off",
       "url": "https://open.spotify.com/track/3jyc4v8gMVYOmNaG6aiKvu"
+    },
+    {
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200360,
+      "name": "Rockstars",
+      "url": "https://open.spotify.com/track/0BzL36GgqMKCyeW6j6JzzD"
     },
     {
       "album": {

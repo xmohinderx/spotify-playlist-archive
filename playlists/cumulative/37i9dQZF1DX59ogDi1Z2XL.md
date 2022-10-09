@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Snotty Nose Rez Kids 🧡
 
-571 songs - 1 day 2 hr 55 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
+572 songs - 1 day 2 hr 59 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-17 |  |
 | [JOSHUA DESERT](https://open.spotify.com/track/6ZBXzvN3ZPXsJBxDFNOA4t) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [JOSHUA DESERT](https://open.spotify.com/album/6vrMNLdP0mkpMIwk7Gnvoi) | 3:00 | 2022-04-15 | 2022-05-07 |
 | [Juice](https://open.spotify.com/track/7F0vG9Iygq00mmlzsDltM5) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [Juice](https://open.spotify.com/album/3cHMUPKv4O5wkvonGQO24o) | 2:30 | 2022-01-07 | 2022-05-07 |
-| [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 | 2022-04-22 |  |
+| [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 | 2022-04-22 | 2022-10-09 |
+| [Jupiter & Mars](https://open.spotify.com/track/1qJlpodv8hEJGmhdo3NERe) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/7JczLjVoMsk8fG9pJz0MPT) | 3:16 | 2022-10-07 |  |
 | [K.H.W.K.](https://open.spotify.com/track/0dfe2OZq92uMjhBRgtHsNd) | [Why G](https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [K.H.W.K.](https://open.spotify.com/album/7lSBWG8wceGjO71xjvGLdj) | 2:25 | 2022-03-04 | 2022-08-13 |
 | [Keep Your Heart Right](https://open.spotify.com/track/6oprCZaoP5mzwBD3B4OfOO) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [Keep Your Heart Right](https://open.spotify.com/album/0H1pCge7x7YFlvWaijqjIy) | 1:54 | 2022-02-18 | 2022-03-05 |
 | [KENNEDY RD FREESTYLE](https://open.spotify.com/track/6QPebOX69IeJC0VnMVp6ub) | [Jimmy Brickz](https://open.spotify.com/artist/6IpnhdUI0JNSmk1w5hcBwq) | [KENNEDY RD FREESTYLE](https://open.spotify.com/album/1PyKbX1hW7Sml6cTqSCxfc) | 3:12 | 2022-04-22 | 2022-05-20 |

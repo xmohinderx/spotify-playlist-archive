@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu
 
-376 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+377 songs - 18 hr 12 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [FUXK \(feat\. Ski Mask the Slump God\)](https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:40 | 2022-06-09 | 2022-06-14 |
 | [Geh](https://open.spotify.com/track/6dv5yQ79APCCIrAo7gDnSK) | [SAIM x CAN](https://open.spotify.com/artist/4YUesmru7Xm84LGTBKVBSc) | [Geh](https://open.spotify.com/album/4lhs4ssXVWMW8GuEWI7tJC) | 2:09 | 2022-07-11 | 2022-07-29 |
 | [Genesis](https://open.spotify.com/track/2UbMJbQq6G0TJnmnubgolV) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:42 | 2022-08-01 | 2022-08-12 |
-| [Genug von dir](https://open.spotify.com/track/1MLurEsyykUHYr2BUheeaz) | [Rojas](https://open.spotify.com/artist/5BBMBWZzGLBRGVn8G0XZY1) | [Genug von dir](https://open.spotify.com/album/4ljegebVR6pKgfE2OgULdk) | 2:29 | 2022-07-21 |  |
+| [Genug von dir](https://open.spotify.com/track/1MLurEsyykUHYr2BUheeaz) | [Rojas](https://open.spotify.com/artist/5BBMBWZzGLBRGVn8G0XZY1) | [Genug von dir](https://open.spotify.com/album/4ljegebVR6pKgfE2OgULdk) | 2:29 | 2022-07-21 | 2022-10-09 |
+| [Genug von dir](https://open.spotify.com/track/7EMAXqufsn0uZIS91TuEDM) | [Rojas](https://open.spotify.com/artist/5BBMBWZzGLBRGVn8G0XZY1) | [Genug von dir](https://open.spotify.com/album/5MKU4q5E3TwE4H80qmktii) | 2:29 | 2022-10-07 |  |
 | [Giftig](https://open.spotify.com/track/69hi7EaJMbzSnEFoWrzrKy) | [Tommyn](https://open.spotify.com/artist/4bKMWpArwutcuzKitMc4ug) | [Giftig](https://open.spotify.com/album/2oUgnNxtcPynysaTQKPkZw) | 2:32 | 2022-07-04 | 2022-08-05 |
 | [GL +3](https://open.spotify.com/track/5liQ5heZoAB6ohWhpdVWPa) | [YUGO](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2), [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [GL +3](https://open.spotify.com/album/0JBJEu7kyFBmygxp9l1KO1) | 2:39 | 2022-06-09 | 2022-07-15 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-20 | 2022-07-01 |

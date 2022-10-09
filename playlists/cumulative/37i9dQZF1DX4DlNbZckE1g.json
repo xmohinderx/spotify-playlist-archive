@@ -1367,7 +1367,7 @@
     {
       "album": {
         "name": "Preview",
-        "url": "https://open.spotify.com/album/082t32AlaNDWXw3uxBMTlV"
+        "url": "https://open.spotify.com/album/1qxC2XCw1DWFmbU3bYttfv"
       },
       "artists": [
         {
@@ -1378,6 +1378,24 @@
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198002,
+      "name": "Preview",
+      "url": "https://open.spotify.com/track/2T0kfQqtxcJuBbyJc6k97U"
+    },
+    {
+      "album": {
+        "name": "Preview",
+        "url": "https://open.spotify.com/album/082t32AlaNDWXw3uxBMTlV"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
       "duration_ms": 198002,
       "name": "Preview",
       "url": "https://open.spotify.com/track/4XwgwuC4nFaq602YAebfZP"

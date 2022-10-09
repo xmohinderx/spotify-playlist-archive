@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 185333,
       "name": "Ando Bien Tumbado",
       "url": "https://open.spotify.com/track/3tQCYIGiq4ToBUIBCcI3mJ"
@@ -437,6 +437,24 @@
       "duration_ms": 167626,
       "name": "Carritos de palo",
       "url": "https://open.spotify.com/track/3oM3BRjkt5Mdqrg4p2SBgo"
+    },
+    {
+      "album": {
+        "name": "Casa en Llamas",
+        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194403,
+      "name": "Casa en Llamas",
+      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
     },
     {
       "album": {
@@ -2056,7 +2074,7 @@
     },
     {
       "album": {
-        "name": "Santa Mota",
+        "name": "Santa Mota (En Vivo)",
         "url": "https://open.spotify.com/album/4gZDZx4fVRYgUCnpJVBl9o"
       },
       "artists": [

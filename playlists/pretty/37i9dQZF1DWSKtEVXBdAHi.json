@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27069,
+  "num_followers": 27071,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDI0YmRhNjRmNmJmYWI1YTI5NWJkNjViYzNmYzY4YTZl",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGU0YWNhNzk3MDlkM2VmMTQwNTJlZGRlN2MyMTZjYWVl",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -436,7 +436,7 @@
           "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         },
         {
-          "name": "SHY Martin",
+          "name": "shy martin",
           "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
@@ -499,6 +499,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe"
+      },
+      "artists": [
+        {
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+        }
+      ],
+      "duration_ms": 168946,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Close To Me (feat. Swae Lee)",
         "url": "https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 182623,
       "name": "Close To Me (with Diplo) (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe"
-      },
-      "artists": [
-        {
-          "name": "Virginia To Vegas",
-          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
-        }
-      ],
-      "duration_ms": 168946,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
     },
     {
       "added_at": "2020-02-18 13:31:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Austin Snell, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,015 likes - 127 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,062 likes - 127 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 102 | [All Hat](https://open.spotify.com/track/2WBZWCbh1cUJu3miYp8CiA) | [Savannah Rae](https://open.spotify.com/artist/0MCORpw49PaeUUsSZwH0pw) | [All Hat](https://open.spotify.com/album/0JuJIbThQpkpv2NllnSunW) | 3:59 |
 | 103 | [Why'd We Break Up Again](https://open.spotify.com/track/6JtzwtwvQZQNuiE24hfa70) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Why'd We Break Up Again](https://open.spotify.com/album/03HyGyw92jUKihdIZVjgZF) | 2:49 |
 | 104 | [Persuaded](https://open.spotify.com/track/6fzxepyqFmXAisfP5nwt0X) | [Taryn Papa](https://open.spotify.com/artist/6Ej5v1jyKVKWQ9qdBkPMBW) | [Persuaded](https://open.spotify.com/album/6aThivvmUG5durIZPxhAmf) | 3:32 |
-| 105 | [Go](https://open.spotify.com/track/3kyHMlCc1zGQQNhCN0c1mf) | [Jackson Truluck](https://open.spotify.com/artist/6ASULhBeCegPAPAvT6PO9u) | [Carolina](https://open.spotify.com/album/32AvenUw700HfE0dXOGsge) | 3:37 |
+| 105 | [Go](https://open.spotify.com/track/3kyHMlCc1zGQQNhCN0c1mf) | [Jackson Truluck](https://open.spotify.com/artist/2gETucPJLLjIMddrNoawUM) | [Carolina](https://open.spotify.com/album/32AvenUw700HfE0dXOGsge) | 3:37 |
 | 106 | [Tears Into Diamonds](https://open.spotify.com/track/5dtXowL59yX3eM4UU9ueIn) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Tears Into Diamonds](https://open.spotify.com/album/2E4CVxbLU09uSaVS2GtjuQ) | 3:15 |
 | 107 | [Stay In School](https://open.spotify.com/track/4rjVyKsOopSYMHVoOapfTM) | [Pennington](https://open.spotify.com/artist/3gkZCtoUt7VX6kahLkkQxR) | [Stay In School](https://open.spotify.com/album/6m3cTyG0QY5TOynv49u9cz) | 3:14 |
 | 108 | [September](https://open.spotify.com/track/7yQFs634RR25erKuynFVch) | [Cameron Hobbs](https://open.spotify.com/artist/0W9UKG9O3JmCttukc9n0KJ) | [September](https://open.spotify.com/album/5XXM9iaMq46XdPrCbWTmz3) | 3:07 |

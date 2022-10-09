@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Lila Tirando a Violeta Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,267 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,372 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 16 | [The Ruthless Act](https://open.spotify.com/track/4ClCH5JRIt5WhQkgVuEqRa) | [Aleksandra Słyż](https://open.spotify.com/artist/0UJZX50pgYvYyvyqh6L2dM) | [A Vibrant Touch](https://open.spotify.com/album/07bl534D7KDaBCZsUL5q9M) | 11:46 |
 | 17 | [Batterie Fragile, Pt\. I](https://open.spotify.com/track/534EivFC0qEhcxHRWPM4gh) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Batterie Fragile](https://open.spotify.com/album/3scNDAyLKA4T6tdTBYM8I1) | 14:30 |
 | 18 | [This Continuous Spectrum](https://open.spotify.com/track/1FsbjSt2No83JReQ6wKk9l) | [Jessica Moss](https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n) | [Galaxy Heart](https://open.spotify.com/album/2ukv6orp6lcGR52Nw9OVsW) | 3:32 |
-| 19 | [Valerio \#1](https://open.spotify.com/track/3Viq2cCaVZEQAZzi3tCe7n) | [Valerio Bulla](https://open.spotify.com/artist/54U1mqZrb49HOlarT1GpOm), [Riccardo Studer](https://open.spotify.com/artist/7E6AoVtUIqgpmMUeuw6wmK) | [Valerio Bulla](https://open.spotify.com/album/25J2VAQ7dKsJ3nqSxes41F) | 2:16 |
+| 19 | [Valerio \#1](https://open.spotify.com/track/3Viq2cCaVZEQAZzi3tCe7n) | [Valerio Bulla](https://open.spotify.com/artist/54U1mqZrb49HOlarT1GpOm) | [Valerio Bulla](https://open.spotify.com/album/25J2VAQ7dKsJ3nqSxes41F) | 2:16 |
 | 20 | [Waking](https://open.spotify.com/track/1BArfEJsfdQ1MsgMpYIe4r) | [Aphir](https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4) | [Pomegranate Tree](https://open.spotify.com/album/3U9SXVT4dkgkuWaL8tAbQu) | 2:55 |
 | 21 | [Walkman Pt\. 1](https://open.spotify.com/track/62CiCqLfybeGgeSULT71fQ) | [Boosta](https://open.spotify.com/artist/4eAIdHGQgy9ahe3cyoFW71) | [Post Piano Session \(Tape 1\)](https://open.spotify.com/album/1m2j1ufkyBhcwVy8PEmoAu) | 8:10 |
 | 22 | [Tenía Razón](https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Tenía Razón](https://open.spotify.com/album/3PJCE4qTFbyW9XXFyR0wO9) | 2:53 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 42 | [Order](https://open.spotify.com/track/475IphfrYFRjHxnPHBnLX1) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/1fFU85M8LbkuMS28rHI3zn) | 2:18 |
 | 43 | [Liquid Planta Seeds](https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Cosmic Planta](https://open.spotify.com/album/4wVoG2nw1uzxfsY8mD3ard) | 3:24 |
 | 44 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
-| 45 | [Revenge](https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [Fiber](https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj) | 7:14 |
-| 46 | [To The Room](https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT) | [Gabe Gurnsey](https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu) | [To The Room](https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ) | 5:14 |
-| 47 | [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 |
-| 48 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 |
+| 45 | [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 |
+| 46 | [Revenge](https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [Fiber](https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj) | 7:14 |
+| 47 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 |
+| 48 | [To The Room](https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT) | [Gabe Gurnsey](https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu) | [To The Room](https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ) | 5:14 |
 | 49 | [Sleeping Tiger on the Bund 蓄势待发 \- Flora Wong Remix](https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy), [Flora Wong](https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu) | [Sleeping Tiger on the Bund 蓄势待发 \(Flora Wong Remix\)](https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov) | 3:21 |
 | 50 | [DOG](https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 1:44 |
 
-Snapshot ID: `MTY2NDkzMjM5OCwwMDAwMDAwMGVlOGQ3M2YzYzFmZDU1NDdlN2QwNDk2ZGYzNzY2YTgw`
+Snapshot ID: `MTY2NDkzMjM5OCwwMDAwMDAwMDQyZTRiODNmMDE4OGY5YWQ3NmY4NTBiZGZkNjk5NTJm`

@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-208 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
+209 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 | 2022-09-30 |  |
 | [Source of Wind](https://open.spotify.com/track/0T07s204fGJju5AXG66q9T) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Amulet](https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl) | 3:05 | 2022-01-12 |  |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-01-12 |  |
-| [Spiritual Pressure](https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Somniac](https://open.spotify.com/album/48GvOvNvTmpGpBekXqL5mX) | 2:50 | 2022-01-12 |  |
+| [Spiritual Pressure](https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Somniac](https://open.spotify.com/album/48GvOvNvTmpGpBekXqL5mX) | 2:50 | 2022-01-12 | 2022-10-09 |
 | [Split Desire](https://open.spotify.com/track/3d2DiXpatpWMKqE6BxrJy1) | [Natural X](https://open.spotify.com/artist/1zP2l8li9yQDtXVsTRMMPu) | [Spiritual Conquest](https://open.spotify.com/album/4EAbmQe5oFYMSBE6izl7xk) | 3:15 | 2022-04-13 | 2022-04-21 |
 | [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-06-24 |  |
 | [Stars Above](https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1) | [Gazebo Clouds](https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx) | [Partly Cloudy](https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03) | 3:43 | 2022-01-12 |  |
@@ -190,6 +190,7 @@
 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 | 2022-02-01 |  |
 | [Stream Of Consciousness](https://open.spotify.com/track/2OcirqlSNj6JgEfqp3FrdV) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Stream Of Consciousness](https://open.spotify.com/album/1NsfijePewYqh84KibLhCg) | 3:00 | 2022-01-12 | 2022-07-22 |
 | [Sunset](https://open.spotify.com/track/3P2pLABar0mO9HflyyYejL) | [I Am Dive](https://open.spotify.com/artist/180w2uyYADEWUjdsmioUyB) | [Music For Silent Running](https://open.spotify.com/album/6FaThzHWGq9qWWO194host) | 3:11 | 2022-04-13 | 2022-04-21 |
+| [Svävar Fritt](https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Svävar Fritt](https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu) | 3:04 | 2022-10-07 |  |
 | [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 | 2022-01-19 | 2022-05-06 |
 | [Tallkrona](https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Tallkrona](https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz) | 4:19 | 2022-01-12 |  |
 | [The Age of the Earth](https://open.spotify.com/track/3vDKBXhismlvnpXbm9DAdc) | [Complex Reality](https://open.spotify.com/artist/54UfHu4bjwDkdRTAOqv8On) | [Shadow of a Dream](https://open.spotify.com/album/524MOGt13RV5XLpZp3dnMQ) | 3:19 | 2022-04-13 | 2022-04-21 |

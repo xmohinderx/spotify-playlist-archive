@@ -4,7 +4,7 @@
 
 > Alternative meets electronic\. Cover: Sub Urban + BENEE
 
-196 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
+197 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [August](https://open.spotify.com/track/3ZQ3kDvbNYIZI4uR1qQHII) | [Intelligency](https://open.spotify.com/artist/6DdgtZYlUGNzjqkdCqvmfB) | [August](https://open.spotify.com/album/489NxMGW2HZko650E8fi8x) | 2:59 | 2020-08-17 | 2022-04-21 |
 | [Back from the Dead](https://open.spotify.com/track/19bWcmH61AXuZqRjmLyBcZ) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Back from the Dead](https://open.spotify.com/album/0CjoPYfnPVGQ3KCen5uuku) | 2:59 | 2022-05-30 |  |
 | [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 | 2021-08-13 | 2022-07-29 |
-| [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 | 2021-11-12 |  |
+| [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 | 2021-11-12 | 2022-10-09 |
 | [Behaviour](https://open.spotify.com/track/08VUmUWFeWtXjfswYufGXQ) | [Glove](https://open.spotify.com/artist/4QbWweBoGYV4uFUQZeK1cy) | [Behaviour](https://open.spotify.com/album/2t3NoK6VU6iH91Uo2A38NC) | 3:55 | 2021-07-23 | 2022-07-28 |
 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 | 2021-08-06 |  |
 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 | 2020-11-24 | 2022-07-29 |
@@ -67,6 +67,7 @@
 | [Feel Alive](https://open.spotify.com/track/3A7MuetzfV2cDtLZbEmXMw) | [USS \(Ubiquitous Synergy Seeker\)](https://open.spotify.com/artist/2gWNtwxO5mOAmjE8EWw2qt) | [Feel Alive](https://open.spotify.com/album/0YL8dobBzKj2V1lcx4tTKV) | 3:46 | 2020-11-27 | 2022-07-29 |
 | [Feel It](https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:51 | 2022-06-17 |  |
 | [Feel Real Pretty](https://open.spotify.com/track/2nRcQbL9FZYFii3fFLKPSp) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty \(Remixes\)](https://open.spotify.com/album/5uM5JzzgYV0obfBY4Ebm2b) | 3:03 | 2022-06-17 | 2022-09-18 |
+| [Feel Real Pretty](https://open.spotify.com/track/3RcoIYZ9HOJ8nhKLRV9c4e) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/6zLwTLoaEO41zOMSY64MSD) | 3:03 | 2022-06-17 |  |
 | [Feel Real Pretty](https://open.spotify.com/track/58L9BLQuOAwAzHhCvTpp3l) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/0m2MtmlY7kOaQq5cVAg4DN) | 3:03 | 2020-08-17 | 2022-08-26 |
 | [Fighter](https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:36 | 2022-04-01 |  |
 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2020-08-17 |  |

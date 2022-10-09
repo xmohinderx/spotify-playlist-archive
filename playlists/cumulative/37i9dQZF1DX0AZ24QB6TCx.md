@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-221 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
+222 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Finja](https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Finja](https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg) | 3:38 | 2021-12-23 |  |
 | [Fire](https://open.spotify.com/track/0bnNVbXfCqJHjoJZ4r5dOD) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [Fire](https://open.spotify.com/album/6littGm4Q5kOOsirkJf21S) | 5:30 | 2021-12-23 | 2022-06-21 |
 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 | 2022-04-04 |  |
+| [Fjord](https://open.spotify.com/track/0wCQhh8ltakGjamI3nVcAG) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Fjord](https://open.spotify.com/album/2XXMsYAGzFFWXjX0dbTtaS) | 4:10 | 2022-10-07 |  |
 | [Fjäll](https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Fjäll](https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1) | 5:15 | 2022-09-09 |  |
 | [Follow \(Extended Mix\)](https://open.spotify.com/track/7eMdP75WNeu2y8VpKzmfYX) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Follow](https://open.spotify.com/album/5lOpduLiv7Cexz1YUWtk5w) | 4:56 | 2021-12-23 |  |
 | [Follow the Light \- Monkey Safari Remix](https://open.spotify.com/track/7k5PvrXwrqHywiAv4Tr75I) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp), [VARS](https://open.spotify.com/artist/7dqsxiqiRG5upZhT4bTBd1), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Follow the Light](https://open.spotify.com/album/6EHwa2mEEpPHZKrp12IBWN) | 6:07 | 2021-12-23 | 2022-07-28 |
@@ -180,7 +181,7 @@
 | [Scarabaeus](https://open.spotify.com/track/6Zsf3CnoOS8X4r6ibSGHcv) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Scarabaeus](https://open.spotify.com/album/4KVeQGG3FaPTNXZDtzvPUF) | 5:21 | 2022-01-14 | 2022-07-29 |
 | [Selbst](https://open.spotify.com/track/7zrGXNJu4nPoNQji9j8DcB) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Selbst](https://open.spotify.com/album/3uRBuLPxKD7vA97mlGkjB1) | 5:23 | 2021-12-23 | 2022-07-29 |
 | [Silence](https://open.spotify.com/track/4Y3dT7vcHTluw7f5adyHGx) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Space Food](https://open.spotify.com/artist/26N57YIjcZ0h3GDamTf9qn), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Silence](https://open.spotify.com/album/3ZvKGHY6QFlrgJbDdrA15t) | 6:10 | 2022-01-21 | 2022-07-08 |
-| [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 | 2021-12-23 |  |
+| [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 | 2021-12-23 | 2022-10-09 |
 | [Sky Is the Limit \- Edit](https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7) | [Westbam/ML](https://open.spotify.com/artist/0bIvvfPnM3YeHeORD57sAE), [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Sky Is the Limit](https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby) | 3:43 | 2021-12-23 | 2022-08-13 |
 | [Solar Detroit](https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Solar Detroit](https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk) | 8:06 | 2022-08-12 | 2022-10-06 |
 | [Sold Out](https://open.spotify.com/track/58nwhfE8ddy4lzQyntZoeG) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm) | [Sold Out](https://open.spotify.com/album/47pSSs06IIjDngoxwuCs7E) | 3:26 | 2022-04-04 | 2022-05-23 |

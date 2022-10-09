@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Sorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,659 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,718 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 18 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
 | 19 | [What's Your Poison?](https://open.spotify.com/track/4qIPEkoL8k5UX6CzsjAXMl) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [What's Your Poison?](https://open.spotify.com/album/5jzF5g9IC2WZ7dcodz3uBc) | 3:12 |
 | 20 | [Noodle Poodle](https://open.spotify.com/track/5Dt4AAF4DAiPOXA7StJw9C) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Noodle Poodle](https://open.spotify.com/album/4Yttcr64MtYTglzlAfO2OH) | 3:44 |
-| 21 | [New Gen](https://open.spotify.com/track/7xMQHQdWKeI9g6mf33OFcE) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [New Gen](https://open.spotify.com/album/1eiKiydXTyESi3t63W0FLW) | 3:15 |
+| 21 | [New Gen](https://open.spotify.com/track/0e9NEV4tJjKUUrVSPyRdcB) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Romance in Great Britain](https://open.spotify.com/album/3gL5sXknuYa2VCjr5bA5UT) | 3:15 |
 | 22 | [Forever Is Too Long](https://open.spotify.com/track/0EH1NRDT9U59ZfiuJL78XN) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [Forever Is Too Long](https://open.spotify.com/album/5bUHhNVlJkZOVA51BKX04x) | 4:10 |
 | 23 | [Cdbaby<3](https://open.spotify.com/track/3YK3HLHO3srCfx8nJZjD89) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3](https://open.spotify.com/album/3WHzz4ZNuKHGZLoQoJsq7V) | 2:42 |
 | 24 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 79 | [Hold My Wine](https://open.spotify.com/track/3M41VBmk1OHf0DNsBW4fSM) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Hold My Wine](https://open.spotify.com/album/1LbwnoUOmFjRdEUfkEXZaF) | 3:17 |
 | 80 | [Crying in the Club](https://open.spotify.com/track/440bHvLOgExwePapxmMtGI) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/3GuSAYm0w5TMJ6k0qeftwt) | 3:05 |
 
-Snapshot ID: `MTY2NTE0NzEyNCwwMDAwMDAwMGFjMzFjYTdjNDQ2ZDA5NzBiYzhlNTkwYzJlZmQ5NWRl`
+Snapshot ID: `MTY2NTE0NzEyNCwwMDAwMDAwMDJjNzc3NmM2YmM5MzdiZTgzM2YwMGM4NDllMmEwNDFk`

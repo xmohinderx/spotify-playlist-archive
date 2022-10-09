@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Ace Hashimoto Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,161 likes - 80 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,250 likes - 80 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 7 | [Ta confiance](https://open.spotify.com/track/15I9lqolpj7AgRaLD8bETA) | [Kham Meslien](https://open.spotify.com/artist/3QhhX2z9QPnigL2PPANC0m) | [Fantômes..\. Futurs](https://open.spotify.com/album/1D9axOGORyXV8UuM1ukX5n) | 5:15 |
 | 8 | [MokyJoky](https://open.spotify.com/track/25oIWxf1YlAF6zqlpQOJ80) | [Sir Bradley](https://open.spotify.com/artist/0wa1HrVQHRNvAiYhTwgMLe) | [MokyJoky](https://open.spotify.com/album/7JuDIpKJkEWJX8SdiSmGof) | 5:36 |
 | 9 | [Moonwalker](https://open.spotify.com/track/78VDriPgetlag0FY6kgkuV) | [KAU trio.](https://open.spotify.com/artist/0QufSADwyBdi8P2dDCtJF9) | [Moonwalker](https://open.spotify.com/album/6HRc7M7gG85tpNdITJ7w9R) | 3:40 |
-| 10 | [A Past Summer Vibe](https://open.spotify.com/track/20ONdZdf6zvFtL0I3kmnIw) | [The Sound Buryer](https://open.spotify.com/artist/71NFBd6F1agF6jheappe1t), [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w) | [A Past Summer Vibe](https://open.spotify.com/album/598LEKSJDmsHKgfC9HZVPj) | 3:40 |
+| 10 | [A Past Summer Vibe](https://open.spotify.com/track/20ONdZdf6zvFtL0I3kmnIw) | [The Sound Buryer](https://open.spotify.com/artist/0JSHiE1hDezG6ykv9LZaji), [The Pocket Queen](https://open.spotify.com/artist/5WU2k8bDgZAPORpn5Lm7nA) | [A Past Summer Vibe](https://open.spotify.com/album/598LEKSJDmsHKgfC9HZVPj) | 3:40 |
 | 11 | [far away](https://open.spotify.com/track/01rdAAQeUa1PQDD6YBoEY6) | [Apneumo](https://open.spotify.com/artist/4pd2vMniXFGmAXS3NQxIaR) | [atmosphere between](https://open.spotify.com/album/6d8RaZUZ37zRIjf1x5KOad) | 3:51 |
 | 12 | [Eronel](https://open.spotify.com/track/7dlFqpfkzAfVJNMu44WMqF) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Konarski & Standards](https://open.spotify.com/album/2dj69o8yltikLhY0a0afam) | 5:51 |
 | 13 | [Woodfired](https://open.spotify.com/track/3VxNeKzvfUhDG7YUPtQ6IB) | [Foshe](https://open.spotify.com/artist/0KCuUspc7QtrKkeTqXGHKZ) | [Rhonda's](https://open.spotify.com/album/1hOpZ6KnLd4EqFHvAfr6gg) | 5:55 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 31 | [5/9](https://open.spotify.com/track/7JDfFma6aHSXURzmnSRDRy) | [Queen Colobus](https://open.spotify.com/artist/6jE90Mqza69qXCUzscUTbt) | [5/9](https://open.spotify.com/album/0eWnTY5MmcLisyUrElQP6Q) | 4:58 |
 | 32 | [Looking Back](https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Looking Back / Paint It Black](https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH) | 3:41 |
 | 33 | [CHAKA](https://open.spotify.com/track/5wV9FLiFmM4xuNYAnF6Qro) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [CHAKA](https://open.spotify.com/album/5eREI7NsOWXCJ4ZOthqBZn) | 5:11 |
-| 34 | [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 |
+| 34 | [Reminiscence](https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:28 |
 | 35 | [Rainbow Road](https://open.spotify.com/track/6Wler9nmWRa9Ll4edPFGAB) | [Pastor Rex](https://open.spotify.com/artist/2yMD1aI3z9lOKhhVmZu11h), [Big M8](https://open.spotify.com/artist/1RtJyKxsJnpjouDrh3DTbv) | [Rainbow Road](https://open.spotify.com/album/5m6SOOSpjAI1hu7VVRh5fa) | 1:55 |
 | 36 | [Terrigal](https://open.spotify.com/track/3yccNLYXxEY3MONXXm9wIk) | [Foshe](https://open.spotify.com/artist/0KCuUspc7QtrKkeTqXGHKZ) | [Rhonda's](https://open.spotify.com/album/1hOpZ6KnLd4EqFHvAfr6gg) | 5:45 |
 | 37 | [Intro](https://open.spotify.com/track/0SiLR8SvPyeLFYLMmuITqe) | [Harvey Gold](https://open.spotify.com/artist/57KJutvAkU48J9BwfYpi6p) | [The Gold Vein](https://open.spotify.com/album/6ekqlVVVqPkBPeeUhAOy8w) | 0:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 79 | [Rush](https://open.spotify.com/track/5sD62sGY6Tq4Ll0ZsYdpgw) | [Franziska Loos](https://open.spotify.com/artist/2kRdxixo3sYS0W1MMxacCt) | [Rush](https://open.spotify.com/album/3yPPNNzWggiRLVigWDszhp) | 7:10 |
 | 80 | [Silhouettes](https://open.spotify.com/track/6WsJQKZ8ac2offKUVR33ji) | [Dougie Stu](https://open.spotify.com/artist/31rKKCEt98VDAxC4nxNHY1) | [Silhouettes](https://open.spotify.com/album/5fVHwE49tInDvD7G6vlJvg) | 4:18 |
 
-Snapshot ID: `MTY2NDk0MjQwMCwwMDAwMDAwMDMwYWQ4MmQ1Y2E4YTEyNTk1YTJlODYwZmM0ZTEwZDNj`
+Snapshot ID: `MTY2NDk0MjQwMCwwMDAwMDAwMGFmN2NlN2JjZjU5ZWFiMWQ0NzIyMzk0NGZhNzhhMGY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,492 likes - 101 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,510 likes - 101 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 10 | [Wessel](https://open.spotify.com/track/1qpwLKM8ipm4V21h3eXuuU) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 5:03 |
 | 11 | [Marshland IV \- Rays](https://open.spotify.com/track/1hLmjGsHWA5I2lTHIR9qoi) | [don Marsh V](https://open.spotify.com/artist/2YCbuLwPm1iABWCnpvTOuh) | [Marshland IV \- Rays](https://open.spotify.com/album/734QCAnoqrOPCbxUCHBmyT) | 7:24 |
 | 12 | [Alles hier hetzelfde](https://open.spotify.com/track/4s3tKQwPJhy5oJHvXnAQQN) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Alles hier hetzelfde](https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2) | 6:11 |
-| 13 | [Mumpsimus](https://open.spotify.com/track/3vDDo27qTtttNNYc2WICKp) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:21 |
+| 13 | [Mumpsimus](https://open.spotify.com/track/1jv1v75OhCe82Xtulem3h3) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:21 |
 | 14 | [Tzatzìki](https://open.spotify.com/track/5gXfrzXhcaIW2RQ4nuQODG) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Mammoet](https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI) | 6:31 |
-| 15 | [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 |
+| 15 | [Reminiscence](https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:28 |
 | 16 | [Auburn](https://open.spotify.com/track/52NXnWXFTTsd4YK4foqL5Y) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 3:46 |
 | 17 | [Bitcoins](https://open.spotify.com/track/1qMOqqSRssiThb0XUSDyvz) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:22 |
 | 18 | [Meshnada](https://open.spotify.com/track/4CvohkP6MgXHZtvDDQqnL2) | [VENTILATEUR](https://open.spotify.com/artist/1ysLLF8knGo0MnhPn1bDaf) | [Meshnada](https://open.spotify.com/album/4cdXg1ezUqgqO7gAgCJnuh) | 5:09 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 100 | [TinniT \- Edit](https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q) | [MDCIII](https://open.spotify.com/artist/1zjbmsA3Mq02lYg0Bk0YCU) | [TinniT](https://open.spotify.com/album/23AsEykb1SeQ2vBZ5Or0gm) | 4:26 |
 | 101 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 |
 
-Snapshot ID: `MTY2NTE1MDkwMiwwMDAwMDAwMDdmYWJkYjljZDVkZGYzN2YyYjVmN2E0YzdjMmVlOTMz`
+Snapshot ID: `MTY2NTE1MDkwMiwwMDAwMDAwMGE4OTJkNjBjYzc0MjZjYjFkNDdhMmY3ZWIyMzgzYTk5`

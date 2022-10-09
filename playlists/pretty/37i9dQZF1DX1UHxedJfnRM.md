@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,294 likes - 80 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,495 likes - 80 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

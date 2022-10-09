@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Justin Quiles & Carin Leon.",
-  "num_followers": 261464,
+  "num_followers": 261621,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1ODI4MiwwMDAwMDAwMGM3ZDRlZjBlMTA4ZjBhMjJlODkyODAyOTZkZGVmMDcz",
+  "snapshot_id": "MTY2NTE1ODI4MiwwMDAwMDAwMDlmNWM1OTZmZmI4NDIxYjM0ZjRlOGUzYjk5NjEwY2Zk",
   "tracks": [
     {
       "added_at": "2022-10-07 15:58:02",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4kuI9JizuvIwuCLjq9OKS1"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Buscando un Amor",
+      "url": "https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
         "name": "No Estamos Tan Locos",
         "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 206354,
       "name": "No Estamos Tan Locos",
       "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4kuI9JizuvIwuCLjq9OKS1"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Buscando un Amor",
-      "url": "https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
-      },
-      "artists": [
-        {
-          "name": "Destiny Rogers",
-          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Volver a Casa",
         "url": "https://open.spotify.com/album/2xMEHlXjvlU6SoCogDKK5E"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 173310,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
+      },
+      "artists": [
+        {
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Eso Que Ten\u00e9s",
-        "url": "https://open.spotify.com/album/1pxZEhOLNWgKYgCUUqOjSZ"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 164412,
-      "name": "Eso Que Ten\u00e9s",
-      "url": "https://open.spotify.com/track/48Qj2SZJpEJ9ToXwcyJBhC"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "J*DER",
         "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 127661,
       "name": "J*DER",
       "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Eso Que Ten\u00e9s",
+        "url": "https://open.spotify.com/album/1pxZEhOLNWgKYgCUUqOjSZ"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 164412,
+      "name": "Eso Que Ten\u00e9s",
+      "url": "https://open.spotify.com/track/48Qj2SZJpEJ9ToXwcyJBhC"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov"
+        "name": "Freno",
+        "url": "https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 181240,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5"
+      "duration_ms": 214173,
+      "name": "Freno",
+      "url": "https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1215,6 +1215,22 @@
       "duration_ms": 146128,
       "name": "Brindar\u00e9",
       "url": "https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1247,22 +1263,6 @@
       "duration_ms": 189578,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/6kZ5XoJ4z0VShTtJcsboRl"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
-        "name": "Freno",
-        "url": "https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 214173,
-      "name": "Freno",
-      "url": "https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "NOSE",
-        "url": "https://open.spotify.com/album/2Bfs6ekarPGL93Rvtrjzkm"
-      },
-      "artists": [
-        {
-          "name": "La Gabi",
-          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "NOSE",
-      "url": "https://open.spotify.com/track/5xCCO1GYwnC0Pwt0CgNC2z"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/0sqJ5bv1E0u9OXKF5PP6mm"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 156893,
       "name": "Party",
       "url": "https://open.spotify.com/track/69xB9y3BNxx9oCHXL86f3b"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "NOSE",
+        "url": "https://open.spotify.com/album/2Bfs6ekarPGL93Rvtrjzkm"
+      },
+      "artists": [
+        {
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "NOSE",
+      "url": "https://open.spotify.com/track/5xCCO1GYwnC0Pwt0CgNC2z"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
+        "name": "FWEGO",
+        "url": "https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt"
+      },
+      "artists": [
+        {
+          "name": "Nani",
+          "url": "https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "FWEGO",
+      "url": "https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/7o6ioPhQuKgadO9XLjVMgX"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 146511,
       "name": "Burning",
       "url": "https://open.spotify.com/track/5Y182K8LZYZW1XGUAare73"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
-        "name": "FWEGO",
-        "url": "https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt"
-      },
-      "artists": [
-        {
-          "name": "Nani",
-          "url": "https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "FWEGO",
-      "url": "https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Celular",
-        "url": "https://open.spotify.com/album/596veIoeFm89apz1MbGoNE"
-      },
-      "artists": [
-        {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Celular",
-      "url": "https://open.spotify.com/track/52SOOJbQK43ThZpzJPkjbQ"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Dile",
         "url": "https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 180000,
       "name": "Dile",
       "url": "https://open.spotify.com/track/1S5z1vCwZ02Bv4HniQiYlu"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Celular",
+        "url": "https://open.spotify.com/album/596veIoeFm89apz1MbGoNE"
+      },
+      "artists": [
+        {
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Celular",
+      "url": "https://open.spotify.com/track/52SOOJbQK43ThZpzJPkjbQ"
     },
     {
       "added_at": "2022-10-07 15:58:02",

@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 415661,
+  "num_followers": 415754,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDIyNmJlZGRkYWUzY2JkM2UxNWY5NTJkNTQzNmY4YWVj",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGYxZDQ3M2Q0YTc2ZDA3NjJlODJiZDdlNTEzMjJkYTc0",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
     },
     {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+    },
+    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Thinking 'Bout Myself",
@@ -853,22 +869,6 @@
       "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Colors (Acoustic)",
-        "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 323008,
-      "name": "Colors - Acoustic",
-      "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Face Your Fear",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+        "name": "Colors (Acoustic)",
+        "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
       },
       "artists": [
         {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+      "duration_ms": 323008,
+      "name": "Colors - Acoustic",
+      "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -915,6 +915,26 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Leftover Feelings",
+        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 205115,
+      "name": "Long Black Electric Cadillac",
+      "url": "https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -947,26 +967,6 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Leftover Feelings",
-        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 205115,
-      "name": "Long Black Electric Cadillac",
-      "url": "https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1005,20 +1005,20 @@
       "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
+      "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/1dUzfaYpBcr4s8yCg8IpYD"
+        "name": "Down to the River",
+        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
       },
       "artists": [
         {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 170440,
-      "name": "Black Widow",
-      "url": "https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ"
+      "duration_ms": 231253,
+      "name": "Down to the River",
+      "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1037,20 +1037,20 @@
       "url": "https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Down to the River",
-        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
+        "name": "Black Widow",
+        "url": "https://open.spotify.com/album/1dUzfaYpBcr4s8yCg8IpYD"
       },
       "artists": [
         {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 231253,
-      "name": "Down to the River",
-      "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
+      "duration_ms": 170440,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Shake the Roots",
-        "url": "https://open.spotify.com/album/4ZNwi2nsWvXS22Mzdh4Zrd"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        }
-      ],
-      "duration_ms": 217365,
-      "name": "Hard Learned",
-      "url": "https://open.spotify.com/track/4qVesVecQYAJE6e7Pkwpcz"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Undercover Bros.",
@@ -1133,20 +1117,20 @@
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
+      "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+        "name": "Shake the Roots",
+        "url": "https://open.spotify.com/album/4ZNwi2nsWvXS22Mzdh4Zrd"
       },
       "artists": [
         {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
         }
       ],
-      "duration_ms": 144106,
-      "name": "Love Like There's No Tomorrow",
-      "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
+      "duration_ms": 217365,
+      "name": "Hard Learned",
+      "url": "https://open.spotify.com/track/4qVesVecQYAJE6e7Pkwpcz"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 144106,
+      "name": "Love Like There's No Tomorrow",
+      "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "U kin B the Sun",
         "url": "https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Cypress Grove",
-        "url": "https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy \"Duck\" Holmes",
-          "url": "https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D"
-        }
-      ],
-      "duration_ms": 251528,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Introducing Junior Kimbrough",
         "url": "https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 137413,
       "name": "Feels so Bad - Previously Unreleased Take",
       "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Cypress Grove",
+        "url": "https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy \"Duck\" Holmes",
+          "url": "https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D"
+        }
+      ],
+      "duration_ms": 251528,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA"
     }
   ],
   "unique_name": "Blues Roots",

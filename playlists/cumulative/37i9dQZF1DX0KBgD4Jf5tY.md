@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:0LD8RSks9BHCIxqeTOdnAh">chenopsia</a>
+> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:032syoAKbxdyWFRlyk0PJv">Paride</a>
 
 382 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 

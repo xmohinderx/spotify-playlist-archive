@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 169353,
+  "num_followers": 169369,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDAzMDhiNTZkNDZhNmVlYjZkMTQyOGQ2NjEwOGEwOTFl",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDAwM2E0NzQ1YmU2YzI4NDhlMWJmYTBmYmVlNzljOTdh",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Love Spin",
-        "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
-      },
-      "artists": [
-        {
-          "name": "Debbie Davies",
-          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Handle Me with Care",
         "url": "https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 435426,
       "name": "Handle Me with Care",
       "url": "https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Love Spin",
+        "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
+      },
+      "artists": [
+        {
+          "name": "Debbie Davies",
+          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
     },
     {
       "added_at": "2022-03-08 14:01:09",

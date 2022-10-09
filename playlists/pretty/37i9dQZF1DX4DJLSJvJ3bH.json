@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 59854,
+  "num_followers": 59873,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI2MjAyNiwwMDAwMDAwMGRjOWNlYTdlYmUzYWQxNjNhOGM0NWU5Y2NmMWQ0ZDI4",
+  "snapshot_id": "MTY2NDI2MjAyNiwwMDAwMDAwMDBlNjM3ZTk3NDEyZTY1MzRkM2VmNDU4NGUzODQ5MmRm",
   "tracks": [
     {
       "added_at": "2022-09-27 07:00:26",
@@ -623,22 +623,18 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+        "name": "I Wish It Would Snow",
+        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Fred Waring & The Pennsylvanians",
-          "url": "https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC"
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
         }
       ],
-      "duration_ms": 185626,
-      "name": "The Little Drummer Boy",
-      "url": "https://open.spotify.com/track/7vZXx451PBO88CM7e3oSOL"
+      "duration_ms": 165596,
+      "name": "I Wish It Would Snow",
+      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -655,22 +651,6 @@
       "duration_ms": 137880,
       "name": "Christmas Island",
       "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
-        "name": "I Wish It Would Snow",
-        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 165596,
-      "name": "I Wish It Would Snow",
-      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -707,22 +687,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
-      },
-      "artists": [
-        {
-          "name": "Matt Belsante",
-          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
-        }
-      ],
-      "duration_ms": 266586,
-      "name": "Baby It's Cold Outside",
-      "url": "https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "An Oscar Peterson Christmas",
         "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
       },
@@ -735,6 +699,22 @@
       "duration_ms": 220133,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/6pctt0uFOGc7NxJvzwIv1x"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
+      },
+      "artists": [
+        {
+          "name": "Matt Belsante",
+          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
+        }
+      ],
+      "duration_ms": 266586,
+      "name": "Baby It's Cold Outside",
+      "url": "https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -831,6 +811,22 @@
       "duration_ms": 213889,
       "name": "Make Me a Present of You",
       "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "Away In a Manger",
+        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
+      },
+      "artists": [
+        {
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+        }
+      ],
+      "duration_ms": 69541,
+      "name": "Away In a Manger",
+      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -991,22 +987,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "Away In a Manger",
-        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
-      },
-      "artists": [
-        {
-          "name": "Tannenbaum Trio",
-          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
-        }
-      ],
-      "duration_ms": 69541,
-      "name": "Away In a Manger",
-      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "Have Yourself a Soulful Little Christmas",
         "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
       },
@@ -1059,22 +1039,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "More Sounds Of Christmas",
-        "url": "https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
       },
@@ -1087,6 +1051,22 @@
       "duration_ms": 255066,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/0nxosnLTwGiqImmRa9tWqb"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "More Sounds Of Christmas",
+        "url": "https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -1123,22 +1103,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Beautiful, Altogether",
-      "url": "https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "Jazz For Joy: A Verve Christmas Album",
         "url": "https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc"
       },
@@ -1159,6 +1123,22 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Beautiful, Altogether",
+      "url": "https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
         "name": "The Time of the Year",
         "url": "https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8"
       },
@@ -1175,22 +1155,6 @@
     {
       "added_at": "2022-09-27 07:00:26",
       "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 309453,
-      "name": "A Toast to Friends",
-      "url": "https://open.spotify.com/track/3UzsKmSvlmLtQupgAoUfbZ"
-    },
-    {
-      "added_at": "2022-09-27 07:00:26",
-      "album": {
         "name": "Let's Share Christmas",
         "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
@@ -1203,6 +1167,22 @@
       "duration_ms": 235866,
       "name": "Let's Share Christmas",
       "url": "https://open.spotify.com/track/2aQiM3ffmt5QzSzU5FxtPm"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "duration_ms": 309453,
+      "name": "A Toast to Friends",
+      "url": "https://open.spotify.com/track/3UzsKmSvlmLtQupgAoUfbZ"
     },
     {
       "added_at": "2022-09-27 07:00:26",
@@ -1251,6 +1231,26 @@
       "duration_ms": 235106,
       "name": "Ring The Bells",
       "url": "https://open.spotify.com/track/6cMTdYjGTUxqqoHQtJXoWA"
+    },
+    {
+      "added_at": "2022-09-27 07:00:26",
+      "album": {
+        "name": "XMAS",
+        "url": "https://open.spotify.com/album/07gcCXuyT2NDA7LrmKPTz7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Fred Waring & The Pennsylvanians",
+          "url": "https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC"
+        }
+      ],
+      "duration_ms": 184373,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5rVzhhZwZpclUXEp0V16TQ"
     }
   ],
   "unique_name": "Jazzy Christmas Dinner",

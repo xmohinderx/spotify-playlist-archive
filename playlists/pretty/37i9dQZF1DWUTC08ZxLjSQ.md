@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Yvzid, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 719 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 752 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 19 | [start again](https://open.spotify.com/track/33XOL8guHAws71hVhQLYiC) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [start again](https://open.spotify.com/album/7b2pfkpByTUXX0rGbKICpl) | 2:33 |
 | 20 | [Bye Bye](https://open.spotify.com/track/4hwAXMumToo9gB29mY65TV) | [Sandra Sahi](https://open.spotify.com/artist/6vsINxrcRKcYHdOvruIgfy) | [Bye Bye](https://open.spotify.com/album/4Tk57fBzUK6VOLXExtFWFe) | 2:29 |
 | 21 | [Words](https://open.spotify.com/track/675Tylxj87tk6TGGubnmT4) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Words](https://open.spotify.com/album/3qUeC7YPgYsC38OjSkZ7vK) | 6:37 |
-| 22 | [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 |
+| 22 | [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/0t2z174ebyjYSPHy7Yzgb9) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 |
 | 23 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 |
 | 24 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 |
 | 25 | [Bin Nass](https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0) | [Sofco](https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0), [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Bin Nass](https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P) | 3:58 |

@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Charlie Puth
 
-13,382 songs - 32 day 0 hr 13 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+13,383 songs - 32 day 0 hr 17 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8251,7 +8251,8 @@
 | [Nothing's the Same](https://open.spotify.com/track/3NllHdYknM2F6UxxGevXWc) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Nothing's the Same](https://open.spotify.com/album/00yIpdpC0O5UFewLz6boJh) | 2:55 | 2020-12-11 | 2020-12-18 |
 | [Nova](https://open.spotify.com/track/2Kug3VHRFc7EYPgWPb9sCW) | [Young Cocoa](https://open.spotify.com/artist/3rdJ1bFvwgZw2XZkimg5dW) | [Nova](https://open.spotify.com/album/1AvDLKpoPqATFd1B99ZOdz) | 2:25 | 2022-05-19 | 2022-05-27 |
 | [Novacane](https://open.spotify.com/track/4dpB2DGhRfxbsbqCyxsKi1) | [Alysha Ridwan](https://open.spotify.com/artist/2divqL5ztMYdbU8PguBHxC) | [Novacane](https://open.spotify.com/album/0N4lMcPnDAgXEXF0yVTdJ4) | 2:56 | 2022-01-27 | 2022-02-04 |
-| [November Blue](https://open.spotify.com/track/1rVHGgB6wbPqFgsMcBYbYL) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/1efuRhREYd3lBKa3HV1DyN) | 4:02 | 2022-10-06 |  |
+| [November Blue](https://open.spotify.com/track/0PVVLuxXLWf4Sw7zjV6rd8) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/3ApfPiXonK9F6KiJQSeYeN) | 4:02 | 2022-10-06 |  |
+| [November Blue](https://open.spotify.com/track/1rVHGgB6wbPqFgsMcBYbYL) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/1efuRhREYd3lBKa3HV1DyN) | 4:02 | 2022-10-06 | 2022-10-09 |
 | [November the 2nd](https://open.spotify.com/track/4RX3P79CX2a8EYNgM9WdVW) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [November the 2nd](https://open.spotify.com/album/4xNVcVUGiuRsf4o8LCDTud) | 1:59 | 2021-07-02 | 2021-07-09 |
 | [NOW](https://open.spotify.com/track/7l3OQbWE1gvd4204aEgAz8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [NOW](https://open.spotify.com/album/3NHkP3gcAOBUX3mg5sUYew) | 3:02 | 2020-09-18 | 2020-09-25 |
 | [NOW AND FOREVER \- From I Need Romance รักใช่ไหมที่หัวใจต้องการ Series](https://open.spotify.com/track/6RcFPOaWhlRgTGsAfeDYEF) | [Karn The Parkinson](https://open.spotify.com/artist/1UMfdxvORXvo2fJSG6QZu0) | [NOW AND FOREVER \(From I Need Romance รักใช่ไหมที่หัวใจต้องการ Series\)](https://open.spotify.com/album/3n0bf14DWY4etGLuvp9XFk) | 3:27 | 2021-05-21 | 2021-05-28 |
@@ -8810,7 +8811,7 @@
 | [Penyintas](https://open.spotify.com/track/4MTvbp5mb7TKTxkLaGSBmo) | [Safaluna](https://open.spotify.com/artist/6HRi54SOSWdHB8ds9IMieH) | [Penyintas](https://open.spotify.com/album/2uYXtW1CTBhsSFCl6bsedE) | 4:34 | 2021-09-17 | 2021-09-24 |
 | [People disappear here](https://open.spotify.com/track/76gkzHEZKCrHwXqv4JsE1o) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/1p2rkkve941Ic11dfzfrJD) | 4:07 | 2022-01-06 | 2022-01-14 |
 | [People I Don't Know](https://open.spotify.com/track/67LVked2xWltlu5POH71gk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework](https://open.spotify.com/album/0bfTjB1kRloRZt6LWJYj6t) | 2:05 | 2020-08-30 | 2020-09-04 |
-| [People Pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [People Pleaser / Sleep At Night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2022-10-06 |  |
+| [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2022-10-06 |  |
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2021-07-16 | 2021-07-23 |
 | [People Wither](https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Warping Youth](https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN) | 5:11 | 2020-06-29 | 2020-07-03 |
 | [Pepatah](https://open.spotify.com/track/0ZFSWJ0dPnjhHmVr9o6WhO) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Pepatah](https://open.spotify.com/album/35fWupDGznkOl6nZpgquiK) | 4:08 | 2021-11-26 | 2021-12-03 |

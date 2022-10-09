@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Amapola",
-  "num_followers": 126322,
+  "num_followers": 126352,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGM3ODk5ZjdjNGMxNTlmNDliMTczM2I1ZjFiNjQwZDk2",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGZjNzFhNDFlNDZlZTRkNzdiZGI2NTNiNmI0MmMyZmY5",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "en diciembre (me haces falta)",
-        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 237261,
-      "name": "en diciembre (me haces falta)",
-      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Mango Negro",
         "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 265005,
       "name": "Nudo",
       "url": "https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "en diciembre (me haces falta)",
+        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 237261,
+      "name": "en diciembre (me haces falta)",
+      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Retazos de Diciembre",
+        "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Retazos de Diciembre",
+      "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Fachada Continua",
         "url": "https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 246349,
       "name": "Fachada Continua",
       "url": "https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Retazos de Diciembre",
-        "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Retazos de Diciembre",
-      "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Mi querida tempestad (en un vaso de agua)",
-        "url": "https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D"
-      },
-      "artists": [
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "Mi querida tempestad (en un vaso de agua)",
-      "url": "https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Mi querida tempestad (en un vaso de agua)",
+        "url": "https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D"
+      },
+      "artists": [
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Mi querida tempestad (en un vaso de agua)",
+      "url": "https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/4xFkB2ZPujTA2EPCIHVgr9"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 266936,
+      "name": "Negaci\u00f3n",
+      "url": "https://open.spotify.com/track/2f0RBeCZ2lP3Ql0T53w2Er"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Noches Perdidas",
         "url": "https://open.spotify.com/album/2sGMCd4mkocvnD1DwlbWCR"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/4xFkB2ZPujTA2EPCIHVgr9"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 266936,
-      "name": "Negaci\u00f3n",
-      "url": "https://open.spotify.com/track/2f0RBeCZ2lP3Ql0T53w2Er"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Fricativa Velar Sorda",
         "url": "https://open.spotify.com/album/1cZZy68qh5SJKjeC6uHLka"
       },
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/3tahunuQxPmrmEdzGimH3V"
+        "name": "SAMURAI",
+        "url": "https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f"
       },
       "artists": [
         {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+          "name": "K-efe",
+          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
         }
       ],
-      "duration_ms": 228828,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn"
+      "duration_ms": 200963,
+      "name": "SAMURAI",
+      "url": "https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "SAMURAI",
-        "url": "https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f"
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/3tahunuQxPmrmEdzGimH3V"
       },
       "artists": [
         {
-          "name": "K-efe",
-          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
         }
       ],
-      "duration_ms": 200963,
-      "name": "SAMURAI",
-      "url": "https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7"
+      "duration_ms": 228828,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1187,6 +1187,22 @@
       "duration_ms": 239960,
       "name": "Me Fu\u00ed a Caminar",
       "url": "https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "celebi",
+        "url": "https://open.spotify.com/album/1wxZMEUQty3adE3Rnxxm9Z"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 190167,
+      "name": "celebi",
+      "url": "https://open.spotify.com/track/6c0Y2pH3EN8XfNc1YJALPr"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1231,22 +1247,6 @@
       "duration_ms": 270279,
       "name": "Entre las Sombras",
       "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "celebi",
-        "url": "https://open.spotify.com/album/1wxZMEUQty3adE3Rnxxm9Z"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 190167,
-      "name": "celebi",
-      "url": "https://open.spotify.com/track/6c0Y2pH3EN8XfNc1YJALPr"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "despacito",
-        "url": "https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 193002,
-      "name": "despacito",
-      "url": "https://open.spotify.com/track/2LPnCqJb4Impa4hOvU0qjK"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Amor De Metro",
         "url": "https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 135325,
       "name": "Amor De Metro",
       "url": "https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "despacito",
+        "url": "https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 193002,
+      "name": "despacito",
+      "url": "https://open.spotify.com/track/2LPnCqJb4Impa4hOvU0qjK"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1559,58 +1559,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE"
-      },
-      "artists": [
-        {
-          "name": "Hausi Kuta",
-          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
-        },
-        {
-          "name": "Nicole Bunout",
-          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
-        }
-      ],
-      "duration_ms": 232342,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Fuego Con Ust\u00e9",
-        "url": "https://open.spotify.com/album/2g5WlfBZw4SFaiODjojCJg"
-      },
-      "artists": [
-        {
-          "name": "Glo Herrera",
-          "url": "https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57"
-        }
-      ],
-      "duration_ms": 185770,
-      "name": "Fuego Con Ust\u00e9",
-      "url": "https://open.spotify.com/track/6XPvJuPBuoSlPH2nmNQgNU"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "A Toda Velocidad",
-        "url": "https://open.spotify.com/album/17mxHCWw5TEPMOhlxp1Pml"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 170668,
-      "name": "A Toda Velocidad",
-      "url": "https://open.spotify.com/track/556qCMc5Jvqc6i1NVMMJ5b"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "nopidomucho (feat. Francisco Victoria)",
         "url": "https://open.spotify.com/album/7sfenIXF6Q5TTEDXnBae2q"
       },
@@ -1631,6 +1579,58 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE"
+      },
+      "artists": [
+        {
+          "name": "Hausi Kuta",
+          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
+        },
+        {
+          "name": "Nicole Bunout",
+          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
+        }
+      ],
+      "duration_ms": 232342,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "A Toda Velocidad",
+        "url": "https://open.spotify.com/album/17mxHCWw5TEPMOhlxp1Pml"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 170668,
+      "name": "A Toda Velocidad",
+      "url": "https://open.spotify.com/track/556qCMc5Jvqc6i1NVMMJ5b"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Fuego Con Ust\u00e9",
+        "url": "https://open.spotify.com/album/2g5WlfBZw4SFaiODjojCJg"
+      },
+      "artists": [
+        {
+          "name": "Glo Herrera",
+          "url": "https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57"
+        }
+      ],
+      "duration_ms": 185770,
+      "name": "Fuego Con Ust\u00e9",
+      "url": "https://open.spotify.com/track/6XPvJuPBuoSlPH2nmNQgNU"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Maldita Canci\u00f3n de Amor",
         "url": "https://open.spotify.com/album/30Nej0tlaXSbJrahd70YLm"
       },
@@ -1647,22 +1647,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Miraflor",
-        "url": "https://open.spotify.com/album/1SZpLRbjijkts5toPVJ4HZ"
+        "name": "El Mal",
+        "url": "https://open.spotify.com/album/7kv61d3Oun6YZoEsftlmze"
       },
       "artists": [
         {
-          "name": "Felics",
-          "url": "https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l"
+          "name": "Super Especial",
+          "url": "https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1"
         },
         {
-          "name": "Los D\u00edas Silvestres",
-          "url": "https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff"
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
         }
       ],
-      "duration_ms": 358792,
-      "name": "Miraflor",
-      "url": "https://open.spotify.com/track/3yYcOSB0WVJkpx1wgyOTVg"
+      "duration_ms": 210115,
+      "name": "El Mal",
+      "url": "https://open.spotify.com/track/1VPBvMQdRpwuCVwXogxPAc"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1687,22 +1687,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "El Mal",
-        "url": "https://open.spotify.com/album/7kv61d3Oun6YZoEsftlmze"
+        "name": "Miraflor",
+        "url": "https://open.spotify.com/album/1SZpLRbjijkts5toPVJ4HZ"
       },
       "artists": [
         {
-          "name": "Super Especial",
-          "url": "https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1"
+          "name": "Felics",
+          "url": "https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l"
         },
         {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+          "name": "Los D\u00edas Silvestres",
+          "url": "https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff"
         }
       ],
-      "duration_ms": 210115,
-      "name": "El Mal",
-      "url": "https://open.spotify.com/track/1VPBvMQdRpwuCVwXogxPAc"
+      "duration_ms": 358792,
+      "name": "Miraflor",
+      "url": "https://open.spotify.com/track/3yYcOSB0WVJkpx1wgyOTVg"
     },
     {
       "added_at": "2022-10-07 03:00:00",

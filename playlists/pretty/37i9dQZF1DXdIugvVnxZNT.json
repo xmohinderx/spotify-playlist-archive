@@ -1,12 +1,12 @@
 {
   "description": "Haz que tu coraz\u00f3n lata m\u00e1s alto con los beats de estos temas de amor EDM.",
-  "num_followers": 48590,
+  "num_followers": 48617,
   "original_name": "EDM LUV <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzcwNDY1MiwwMDAwMDAwMDQwMTMxNjAwZmYxOTQyNzYzNDI1OTc5NjkzMWMyNGVl",
+  "snapshot_id": "MTY2MzcwNDY1MiwwMDAwMDAwMGE0ODE4NDAyMTkwNzAzNWMyOTA1ZDViNTU3NGIwODA2",
   "tracks": [
     {
       "added_at": "2022-09-20 20:10:52",
@@ -703,18 +703,22 @@
     {
       "added_at": "2022-09-20 20:10:52",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 301373,
-      "name": "Digital Love",
-      "url": "https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym"
+      "duration_ms": 240000,
+      "name": "I Want You To Know",
+      "url": "https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP"
     },
     {
       "added_at": "2022-09-20 20:10:52",
@@ -743,22 +747,18 @@
     {
       "added_at": "2022-09-20 20:10:52",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 240000,
-      "name": "I Want You To Know",
-      "url": "https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP"
+      "duration_ms": 301373,
+      "name": "Digital Love",
+      "url": "https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym"
     },
     {
       "added_at": "2022-09-20 20:10:52",

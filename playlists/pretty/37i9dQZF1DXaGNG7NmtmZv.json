@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 166899,
+  "num_followers": 167024,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDc5YmUyMGEyMzdkN2FhZDM5NTI5YmMyNTVmZDZmN2U3",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGU0NWE0NjA4ZWE2NzcwMTJjY2RjNzFhODJjZTUxM2Ji",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Scratch the Surface",
-        "url": "https://open.spotify.com/album/64ZNLvblppwORqskxoMbG1"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Step Down",
-      "url": "https://open.spotify.com/track/6DE037vHREtIRYjqzZ8fkf"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "The Current Will Carry Us",
         "url": "https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 236746,
       "name": "The Disconnect",
       "url": "https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Scratch the Surface",
+        "url": "https://open.spotify.com/album/64ZNLvblppwORqskxoMbG1"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Step Down",
+      "url": "https://open.spotify.com/track/6DE037vHREtIRYjqzZ8fkf"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Death Knows Your Name",
-        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
-      },
-      "artists": [
-        {
-          "name": "The Hope Conspiracy",
-          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Animal Farm",
-      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Check Your People",
         "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "This Is Just the Beginning",
-        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
+        "name": "Death Knows Your Name",
+        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
       },
       "artists": [
         {
-          "name": "Kill Your Idols",
-          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
+          "name": "The Hope Conspiracy",
+          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
         }
       ],
-      "duration_ms": 96053,
-      "name": "Can't Take It Away",
-      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
+      "duration_ms": 220413,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -327,6 +311,22 @@
       "duration_ms": 231600,
       "name": "Firestorm",
       "url": "https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "This Is Just the Beginning",
+        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
+      },
+      "artists": [
+        {
+          "name": "Kill Your Idols",
+          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
+        }
+      ],
+      "duration_ms": 96053,
+      "name": "Can't Take It Away",
+      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Vision of Disorder",
-        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
-      },
-      "artists": [
-        {
-          "name": "Vision Of Disorder",
-          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "For Those Who Were Crucified",
         "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 116173,
       "name": "Burning Season",
       "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Vision of Disorder",
+        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
+      },
+      "artists": [
+        {
+          "name": "Vision Of Disorder",
+          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Give Blood",
-        "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
-      },
-      "artists": [
-        {
-          "name": "Bane",
-          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "Some Came Running",
-      "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 121706,
       "name": "New York City",
       "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Give Blood",
+        "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
+      },
+      "artists": [
+        {
+          "name": "Bane",
+          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
+        }
+      ],
+      "duration_ms": 157213,
+      "name": "Some Came Running",
+      "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
     },
     {
       "added_at": "2020-12-08 15:12:11",

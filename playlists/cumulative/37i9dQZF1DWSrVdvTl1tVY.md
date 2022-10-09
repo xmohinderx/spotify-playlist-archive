@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: LF SYSTEM
 
-351 songs - 21 hr 13 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+352 songs - 21 hr 17 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Got Me \(feat\. Julia Stone\)](https://open.spotify.com/track/7kUvMTkyNN8inOr53NQAVC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 4:23 | 2021-12-17 | 2022-01-21 |
 | [GRUUV](https://open.spotify.com/track/6iwUBX2iTWRjHtBAGdqS0M) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq) | [GRUUV](https://open.spotify.com/album/2e859r4BJfvAO68g5iX38N) | 3:50 | 2022-03-11 | 2022-07-08 |
 | [Hair Like You](https://open.spotify.com/track/7ilG2HpVcH3WtdKaF3i1dV) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Hair Like You](https://open.spotify.com/album/1kJyFB0uMNl8xKDPKiWPlV) | 2:58 | 2022-07-06 | 2022-10-01 |
-| [Handy Mandy](https://open.spotify.com/track/52ws5R7Sx8pdF0v2gIYxpf) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Handy Mandy](https://open.spotify.com/album/1Ibr0zn1p2Djko0Ggt6cSC) | 3:32 | 2022-08-05 |  |
+| [Handy Mandy](https://open.spotify.com/track/4AHsskVgF4kW6ZLvC5Gmlv) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Handy Mandy \(TIBASKO Remix\)](https://open.spotify.com/album/5zBX60h3UAnFXgTXlMSrFo) | 3:32 | 2022-10-07 |  |
+| [Handy Mandy](https://open.spotify.com/track/52ws5R7Sx8pdF0v2gIYxpf) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Handy Mandy](https://open.spotify.com/album/1Ibr0zn1p2Djko0Ggt6cSC) | 3:32 | 2022-08-05 | 2022-10-09 |
 | [Handy Work](https://open.spotify.com/track/1AXDyDxGiXpAUQb5UmTLu8) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Handy Work](https://open.spotify.com/album/2G67wbm29gUteqjfqEFxhL) | 6:11 | 2021-12-17 | 2022-01-07 |
 | [Hannah \(The Sun\)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah \(The Sun\)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 | 2021-12-17 | 2022-02-18 |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-04-08 | 2022-08-12 |

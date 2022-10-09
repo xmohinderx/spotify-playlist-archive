@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,334 likes - 225 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,380 likes - 225 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,7 +200,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 190 | [Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/1Bzyh2PDRbIR1Q1A8u3U9b) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 3:23 |
 | 191 | [Dancing in the rain](https://open.spotify.com/track/3d28TKE1fVNrG7D4xH7Q7k) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 3:43 |
 | 192 | [COBALT](https://open.spotify.com/track/28ZZvL8qrT4kSCb6imjaUa) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 4:32 |
-| 193 | [Far away](https://open.spotify.com/track/7CnILy2C8eB74SLa4NkVY7) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [SUPER BAND 2 \- Episode.14](https://open.spotify.com/album/2gir8gMdlpIkinnc061A3j) | 6:22 |
+| 193 | [항해\(Far away\)](https://open.spotify.com/track/2mPbK7MvB81iCKbT36634f) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [SuperBand2 \- Episode.14](https://open.spotify.com/album/4MemrlNUxUB6pAntLarfwA) | 6:22 |
 | 194 | [MOBYDICK](https://open.spotify.com/track/4BQqh5sZc3ccOKOX8XFZaw) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [MOBYDICK](https://open.spotify.com/album/159FCS8IXCZeknsgCEEVnl) | 3:31 |
 | 195 | [Get Out](https://open.spotify.com/track/6rN0zooodUhaTrNM5MlT8L) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [MOBYDICK](https://open.spotify.com/album/159FCS8IXCZeknsgCEEVnl) | 3:16 |
 | 196 | [Nam Khang](https://open.spotify.com/track/4ZzSW7CyhdAqrIFRdQ2Lee) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep Looking at the Window](https://open.spotify.com/album/4ujNlhHT0WFcfN2wrprJds) | 6:57 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MTY2NTE1NzQwNCwwMDAwMDAwMGYyYWUwNWYxNzgyNTQwMjA2ZDRiOTJmZjI0MjBkMDQ4`
+Snapshot ID: `MTY2NTE1NzQwNCwwMDAwMDAwMDJlNjJiNDg3NGI4NWE5MDMwZjljZjE1MGVhMjZlNjU2`

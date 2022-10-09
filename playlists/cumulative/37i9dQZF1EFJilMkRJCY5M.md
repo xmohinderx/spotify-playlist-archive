@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-73 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/0gxAW1q4I1g7VVKmDKFea6)
+74 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/0gxAW1q4I1g7VVKmDKFea6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [I Love You Now Change](https://open.spotify.com/track/5L1aDYN5u5OBOUCGhrK3pU) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0d1akoTwbEMgNi9gGuG0ZI) | 3:25 | 2022-05-29 |  |
 | [I'm Sorry](https://open.spotify.com/track/3TOIDYFbn2NJYZhUHW4Q6j) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:43 | 2022-05-29 |  |
 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 | 2022-05-29 |  |
+| [If You Only Knew](https://open.spotify.com/track/1Sa8stvZa1DDMXWirp34XB) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [If You Only Knew](https://open.spotify.com/album/0QYjygDiIDvVRdicdoTrvk) | 3:32 | 2022-10-08 |  |
 | [In The Middle](https://open.spotify.com/track/6qnvjsMmlxf4TPfbD53ybj) | [The Mamas](https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ) | [In The Middle](https://open.spotify.com/album/0AndLLhclP9WoLEsXVWipw) | 3:03 | 2022-05-29 |  |
 | [Keep in Touch](https://open.spotify.com/track/4G3U1mkd1x0qYYzVAcV4rY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [TWENTYTWENTY](https://open.spotify.com/album/13j0Kg7NR6uwvE1TEXlNQi) | 3:02 | 2022-05-29 |  |
 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 | 2022-05-29 |  |

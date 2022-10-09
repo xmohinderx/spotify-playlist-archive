@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Ringnes-Ronny",
-  "num_followers": 89066,
+  "num_followers": 89145,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5MzYwMCwwMDAwMDAwMDUxNjVlOGVjZmU4M2YzNjM3YWY2ZWMyMGE2Mjk4NWIx",
+  "snapshot_id": "MTY2NTA5MzYwMCwwMDAwMDAwMGIwODE2NzUzNDEzMDE3YWY0MWRjMzZkOGZmOTc1YzAx",
   "tracks": [
     {
       "added_at": "2022-10-06 22:00:00",
@@ -318,6 +318,10 @@
         {
           "name": "Albatraoz",
           "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "Karen",
+          "url": "https://open.spotify.com/artist/5e1ekj5rPqXgSRF4gZw7cO"
         }
       ],
       "duration_ms": 135227,
@@ -407,26 +411,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Den Samme J\u00e6vla Sangen",
-        "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
-      },
-      "artists": [
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        },
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Den Samme J\u00e6vla Sangen",
-      "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
         "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
       },
@@ -447,6 +431,26 @@
       "duration_ms": 140245,
       "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
       "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Den Samme J\u00e6vla Sangen",
+        "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Den Samme J\u00e6vla Sangen",
+      "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -586,6 +590,10 @@
         {
           "name": "Albatraoz",
           "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/5QhqVrbqXPUJzI8nY0ft7M"
         }
       ],
       "duration_ms": 136100,
@@ -615,6 +623,22 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
+        "name": "Sju Fjell",
+        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 178171,
+      "name": "Sju Fjell",
+      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
         "name": "Den fineste Tesla\u00b4n",
         "url": "https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th"
       },
@@ -635,22 +659,6 @@
       "duration_ms": 184377,
       "name": "Den fineste Tesla\u00b4n",
       "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Sju Fjell",
-        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 178171,
-      "name": "Sju Fjell",
-      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -723,18 +731,18 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "N\u00e5 Koser Vi Oss",
-        "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
+        "name": "R\u00f6d Chevrolet",
+        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
       },
       "artists": [
         {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
         }
       ],
-      "duration_ms": 169466,
-      "name": "N\u00e5 Koser Vi Oss",
-      "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
+      "duration_ms": 222533,
+      "name": "Det regnar och regnar",
+      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -759,18 +767,18 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "R\u00f6d Chevrolet",
-        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
+        "name": "N\u00e5 Koser Vi Oss",
+        "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
       },
       "artists": [
         {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Det regnar och regnar",
-      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
+      "duration_ms": 169466,
+      "name": "N\u00e5 Koser Vi Oss",
+      "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -859,22 +867,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
-        "url": "https://open.spotify.com/album/2pDbtRGzSNxwqt4PFGB9bm"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
-      "url": "https://open.spotify.com/track/2bO1TODqaomL2OduuDKSGZ"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "FREDAG",
         "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
       },
@@ -895,6 +887,22 @@
       "duration_ms": 168398,
       "name": "FREDAG",
       "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
+        "url": "https://open.spotify.com/album/2pDbtRGzSNxwqt4PFGB9bm"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
+      "url": "https://open.spotify.com/track/2bO1TODqaomL2OduuDKSGZ"
     },
     {
       "added_at": "2022-10-06 22:00:00",

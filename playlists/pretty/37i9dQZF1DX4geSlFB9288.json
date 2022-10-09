@@ -1,12 +1,12 @@
 {
   "description": "Indie music to keep your gaming session properly soundtracked. ",
-  "num_followers": 435647,
+  "num_followers": 437590,
   "original_name": "Indie Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA3ODU1NiwwMDAwMDAwMDBjZWYxYjBmOTY0OTQzMmY1ZTI1NGMxOTg1YTVjZmZj",
+  "snapshot_id": "MTY2NTA3ODU1NiwwMDAwMDAwMDkxNTkyN2I2ZDFmZmUyYjE1MDJkMmEyNDZjYmU3MjYx",
   "tracks": [
     {
       "added_at": "2022-10-06 17:48:24",
@@ -91,18 +91,22 @@
     {
       "added_at": "2022-10-06 17:48:24",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+        "name": "lovely (with Khalid)",
+        "url": "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK"
       },
       "artists": [
         {
           "name": "Billie Eilish",
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 298899,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
+      "duration_ms": 200185,
+      "name": "lovely (with Khalid)",
+      "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
     },
     {
       "added_at": "2022-10-06 17:48:24",
@@ -235,22 +239,18 @@
     {
       "added_at": "2022-10-06 17:48:24",
       "album": {
-        "name": "lovely (with Khalid)",
-        "url": "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK"
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
       "artists": [
         {
           "name": "Billie Eilish",
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 200185,
-      "name": "lovely (with Khalid)",
-      "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
+      "duration_ms": 298899,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
     },
     {
       "added_at": "2022-10-06 17:48:24",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-10-06 17:48:24",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
-    },
-    {
-      "added_at": "2022-10-06 17:48:24",
-      "album": {
         "name": "Shut up My Moms Calling",
         "url": "https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 164571,
       "name": "Shut up My Moms Calling",
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
+    },
+    {
+      "added_at": "2022-10-06 17:48:24",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
     },
     {
       "added_at": "2022-10-06 17:48:24",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-10-06 17:48:24",
       "album": {
-        "name": "I Feel Fantastic",
-        "url": "https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "I Feel Fantastic",
-      "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
-    },
-    {
-      "added_at": "2022-10-06 17:48:24",
-      "album": {
         "name": "Greek Tragedy (Oliver Nelson TikTok Remix)",
         "url": "https://open.spotify.com/album/1UglarHubZKdQNBzRLF7dt"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 306428,
       "name": "Greek Tragedy - Oliver Nelson TikTok Remix",
       "url": "https://open.spotify.com/track/64rqvMhAPLLEag310IG3z9"
+    },
+    {
+      "added_at": "2022-10-06 17:48:24",
+      "album": {
+        "name": "I Feel Fantastic",
+        "url": "https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "I Feel Fantastic",
+      "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
     },
     {
       "added_at": "2022-10-06 17:48:24",
@@ -1617,7 +1617,7 @@
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
-      "added_at": "2022-10-08 01:33:27",
+      "added_at": "2022-10-09 20:09:14",
       "album": {
         "name": "Soft Boy",
         "url": "https://open.spotify.com/album/7nTQSfMt2TSeUR0xOxjBG4"

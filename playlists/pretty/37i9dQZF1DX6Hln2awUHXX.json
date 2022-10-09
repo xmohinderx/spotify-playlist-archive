@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 78092,
+  "num_followers": 78166,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMGY1OTgyM2M3NmMwODk4ZTc0ZjczNGQ1OTcxMTQwMGVj",
+  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMDg2ZGZhMDY0MDU0NWZiNTcyNmI3YzExMWI1MmQwM2Mx",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -315,6 +315,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner, R.: Orchestral Highlights From Operas",
+        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Lohengrin, Act III: Prelude",
+      "url": "https://open.spotify.com/track/3MZIf4i9hAEPMYNu0Gbl77"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: G\u00f6tterd\u00e4mmerung, WWV 86D",
         "url": "https://open.spotify.com/album/2BwDETrPtINRoAI1aLS26m"
       },
@@ -363,30 +387,6 @@
       "duration_ms": 446133,
       "name": "Tristan und Isolde / Act 3: \"Mild und leise wie er l\u00e4chelt\"",
       "url": "https://open.spotify.com/track/4SkJKfnGhQCikozqxyNXjP"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner, R.: Orchestral Highlights From Operas",
-        "url": "https://open.spotify.com/album/4X6uFJUvxxP1RbDmW1oh8T"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Lohengrin, Act III: Prelude",
-      "url": "https://open.spotify.com/track/3MZIf4i9hAEPMYNu0Gbl77"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -595,30 +595,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
-        "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Netherlands Radio Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5DNIeOqK0YF4H6o3GM2k6C"
-        },
-        {
-          "name": "Edo de Waart",
-          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
-        }
-      ],
-      "duration_ms": 846253,
-      "name": "Symphony in C Major: II. Andante ma non troppo, un poco maestoso",
-      "url": "https://open.spotify.com/track/63LuatqjEm6RW3i469H4W0"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Das Rheingold, WWV 86A",
         "url": "https://open.spotify.com/album/5QgIRR2Ilw8dZ3OotAbiRV"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 105360,
       "name": "Das Rheingold, WWV 86A, Scene 4: Scene 4: Abendlich strahlt der Sonne Auge (Wotan)",
       "url": "https://open.spotify.com/track/0R5AmHvOSbLhn4UNgjVbbB"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
+        "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Netherlands Radio Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5DNIeOqK0YF4H6o3GM2k6C"
+        },
+        {
+          "name": "Edo de Waart",
+          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
+        }
+      ],
+      "duration_ms": 846253,
+      "name": "Symphony in C Major: II. Andante ma non troppo, un poco maestoso",
+      "url": "https://open.spotify.com/track/63LuatqjEm6RW3i469H4W0"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1691,6 +1691,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/4GG15POfzCComI77zzBMax"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        }
+      ],
+      "duration_ms": 345840,
+      "name": "Die Meistersinger von N\u00fcrnberg, Act 3: Prelude (Orchester)",
+      "url": "https://open.spotify.com/track/58UIVzDAEgoergclBlyr4M"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner",
         "url": "https://open.spotify.com/album/0OENAdXCax4531VruXRCO9"
       },
@@ -1715,30 +1739,6 @@
       "duration_ms": 191960,
       "name": "Wesendonck Lieder, WWV 91: Der Engel",
       "url": "https://open.spotify.com/track/1mtAr7Xmo6OB1enxCfKYiw"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/4GG15POfzCComI77zzBMax"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        }
-      ],
-      "duration_ms": 345840,
-      "name": "Die Meistersinger von N\u00fcrnberg, Act 3: Prelude (Orchester)",
-      "url": "https://open.spotify.com/track/58UIVzDAEgoergclBlyr4M"
     },
     {
       "added_at": "2022-06-28 08:58:25",

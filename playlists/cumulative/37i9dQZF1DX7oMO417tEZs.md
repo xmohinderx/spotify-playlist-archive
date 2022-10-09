@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: Planet Giza
 
-517 songs - 1 day 4 hr 51 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+518 songs - 1 day 4 hr 53 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Hummingbird](https://open.spotify.com/track/4I0KjYxuQtNov6MHuuL6zt) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy) | [Hummingbird](https://open.spotify.com/album/4s1FfyvuF0u8WntCqgTdn8) | 3:16 | 2022-03-25 | 2022-04-29 |
 | [Hypernormalization](https://open.spotify.com/track/1dKoVCoteyPXu1OQA2h7LN) | [Rich Aucoin](https://open.spotify.com/artist/2XwFZjlnvpwnZSO8QbKErQ) | [Hypernormalization](https://open.spotify.com/album/2qnGhvs13gUZnASxlGmMiK) | 4:09 | 2022-05-13 | 2022-07-23 |
 | [i could die](https://open.spotify.com/track/3M94jcrpYyJpMDkvoriPYC) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i could die](https://open.spotify.com/album/4qZnP5lDjnUhm9p8doZJBo) | 2:35 | 2022-05-06 | 2022-07-23 |
+| [i don't care \- bonus track](https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/7AWw0QFEj9pezKu5hu1l4j) | 2:40 | 2022-10-08 |  |
 | [I Don't Wanna Hang](https://open.spotify.com/track/6sSMdueWm4eICidC9W6ujU) | [Cola H.](https://open.spotify.com/artist/4bUIemhzXV37xcUk9lGh5T) | [I Don't Wanna Hang](https://open.spotify.com/album/0pBNs5Hd0d5WmGc1axEIRT) | 3:44 | 2022-02-18 | 2022-03-26 |
 | [i forgive you](https://open.spotify.com/track/0aBcn1Jvmo8vKbAxQjJ1ZY) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [i forgive you](https://open.spotify.com/album/3mIA7UGPBnEXKUzhd6VlzV) | 1:33 | 2022-05-06 | 2022-06-18 |
 | [i gave you everything](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i gave you everything](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 | 2022-06-03 | 2022-09-10 |

@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 309795,
+  "num_followers": 310235,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMDFiNGYyODk3MTM4ZTE3YmM4MjEyYjZkNmU1NmVkZGU0",
+  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMDE3NzhmZWFhYzk0MDNjMDE3MDlkMTk2Mzg1ZTAzYzYx",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Sings Heart Songs",
-        "url": "https://open.spotify.com/album/0426RVFAsCAeiUcCOq0J1V"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 123466,
-      "name": "Kiss an Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/37GWhu8R61gTStMvVQfDuE"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Coat Of Many Colors",
         "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 183666,
       "name": "Coat of Many Colors",
       "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Sings Heart Songs",
+        "url": "https://open.spotify.com/album/0426RVFAsCAeiUcCOq0J1V"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 123466,
+      "name": "Kiss an Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/37GWhu8R61gTStMvVQfDuE"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
-      },
-      "artists": [
-        {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Don't Come Home A Drinkin' (With Lovin' On Your Mind)",
         "url": "https://open.spotify.com/album/32fTx9DYJWjenQSMoI22Dq"
       },
@@ -847,26 +831,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 216573,
-      "name": "Wildflowers - 2015 Remaster",
-      "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
+      "duration_ms": 200493,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -919,6 +895,30 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Wildflowers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "Sentimentally Yours",
         "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "I Will Stand By You - The Essential Collection",
-        "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 256333,
-      "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
-      "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "The Oak Ridge Boys Have Arrived",
         "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
       },
@@ -983,22 +967,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Ultimate Dolly Parton",
-        "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
+        "name": "I Will Stand By You - The Essential Collection",
+        "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
         }
       ],
-      "duration_ms": 249293,
-      "name": "Islands In the Stream",
-      "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
+      "duration_ms": 256333,
+      "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
+      "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1131,6 +1111,26 @@
       "duration_ms": 155040,
       "name": "Sea of Heartbreak",
       "url": "https://open.spotify.com/track/0xERMvJD8djz1ZBjPSRLvM"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Ultimate Dolly Parton",
+        "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "Islands In the Stream",
+      "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "When I Dream",
+        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "Talking In Your Sleep",
+      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "Walking the Line",
         "url": "https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 286066,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "When I Dream",
-        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "Talking In Your Sleep",
-      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Old Hippie",
-      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Kitty Wells\u2019 Country Hit Parade",
         "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 152866,
       "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
       "url": "https://open.spotify.com/track/5qYp7YDkLAaSd1nBWejkAD"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Old Hippie",
+      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
+        "name": "Golden Hits - The World's Most Famous Auctioneer",
+        "url": "https://open.spotify.com/album/3IyHmxJjlrb7doDbGJ14h6"
       },
       "artists": [
         {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+          "name": "Leroy Van Dyke",
+          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
         }
       ],
-      "duration_ms": 241026,
-      "name": "Sunday In the South",
-      "url": "https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP"
+      "duration_ms": 168333,
+      "name": "The Auctioneer",
+      "url": "https://open.spotify.com/track/6dlti8kcKyzkkPrnGp7FN7"
     }
   ],
   "unique_name": "Classic Country Drive",

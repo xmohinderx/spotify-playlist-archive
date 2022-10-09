@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 176971,
+  "num_followers": 177088,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMGIxOTk2N2ViNTdlYmI3NmNjMzAxZDg5MzFkMzEzZjc1",
+  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMGEyMjM1MWFjMWU2MDYwNWFiMTY3NzhjNTI0OTNlNThj",
   "tracks": [
     {
       "added_at": "2022-09-23 15:03:03",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Feel So Free",
+        "url": "https://open.spotify.com/album/6bxI8Jmu1EPzT2uVdJCog5"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 198882,
+      "name": "Feel So Free",
+      "url": "https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "Never",
         "url": "https://open.spotify.com/album/7u24MlEFH8OrFG3RI0pMr5"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 206500,
       "name": "Never",
       "url": "https://open.spotify.com/track/43NLj97L6PQUQ05HyZJmQZ"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Feel So Free",
-        "url": "https://open.spotify.com/album/6bxI8Jmu1EPzT2uVdJCog5"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 198882,
-      "name": "Feel So Free",
-      "url": "https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Hard Baller",
-        "url": "https://open.spotify.com/album/2B51oNisAJxOsYTXhjb9fI"
-      },
-      "artists": [
-        {
-          "name": "Biohzrd",
-          "url": "https://open.spotify.com/artist/7Jhx0C8MWbjdZdcraPbOSc"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Hard Baller",
-      "url": "https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "U Get Me",
-        "url": "https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko"
+        "name": "Hard Baller",
+        "url": "https://open.spotify.com/album/2B51oNisAJxOsYTXhjb9fI"
       },
       "artists": [
         {
-          "name": "Livsey",
-          "url": "https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL"
+          "name": "Biohzrd",
+          "url": "https://open.spotify.com/artist/7Jhx0C8MWbjdZdcraPbOSc"
         }
       ],
-      "duration_ms": 322206,
-      "name": "U Get Me",
-      "url": "https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG"
+      "duration_ms": 217142,
+      "name": "Hard Baller",
+      "url": "https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1071,6 +1055,22 @@
       "duration_ms": 270461,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "U Get Me",
+        "url": "https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko"
+      },
+      "artists": [
+        {
+          "name": "Livsey",
+          "url": "https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL"
+        }
+      ],
+      "duration_ms": 322206,
+      "name": "U Get Me",
+      "url": "https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "Amazon Prime",
         "url": "https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9"
       },
@@ -1219,38 +1235,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6"
-      },
-      "artists": [
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        }
-      ],
-      "duration_ms": 193384,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Don't You Know",
-        "url": "https://open.spotify.com/album/5jbbD9G6JTkkRrRhgZ7fJt"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 215282,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/3gArWjWhVzXjHDTDhArTVE"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Got A Groove",
-        "url": "https://open.spotify.com/album/6IOBv6pqhN8eHLJfKJ1Xcd"
+        "name": "Don't You Know",
+        "url": "https://open.spotify.com/album/5jbbD9G6JTkkRrRhgZ7fJt"
       },
       "artists": [
         {
-          "name": "Bassboy",
-          "url": "https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy"
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
         }
       ],
-      "duration_ms": 271602,
-      "name": "Got A Groove",
-      "url": "https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC"
+      "duration_ms": 215282,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/3gArWjWhVzXjHDTDhArTVE"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Got A Groove",
+        "url": "https://open.spotify.com/album/6IOBv6pqhN8eHLJfKJ1Xcd"
+      },
+      "artists": [
+        {
+          "name": "Bassboy",
+          "url": "https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy"
+        }
+      ],
+      "duration_ms": 271602,
+      "name": "Got A Groove",
+      "url": "https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
       },
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Perfect Crime",
-        "url": "https://open.spotify.com/album/6SKhGRv1ihw34UnldrZIbV"
+        "name": "Wanna Freak",
+        "url": "https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh"
       },
       "artists": [
         {
-          "name": "Spence",
-          "url": "https://open.spotify.com/artist/12QXpIHNMNQzZaCfBTVx0L"
-        },
-        {
-          "name": "S-70",
-          "url": "https://open.spotify.com/artist/2ADNw1kE3nu2uXTtEodACQ"
+          "name": "Cajama",
+          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
         }
       ],
-      "duration_ms": 210001,
-      "name": "Perfect Crime",
-      "url": "https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J"
+      "duration_ms": 188307,
+      "name": "Wanna Freak",
+      "url": "https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q"
     }
   ],
   "unique_name": "Bassline Bangers",

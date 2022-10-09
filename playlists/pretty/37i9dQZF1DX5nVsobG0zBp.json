@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 32086,
+  "num_followers": 32164,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5MzYwMCwwMDAwMDAwMGNmMGE2MDRkOTY3YWQ3ZGRjMjdlZDhiNzg5NzVjMzEz",
+  "snapshot_id": "MTY2NTA5MzYwMCwwMDAwMDAwMDk0ZDRjNTk2ZjBiYmUyNmIxZDExMjhhMzljMTkwMzUx",
   "tracks": [
     {
       "added_at": "2022-10-06 22:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        }
+      ],
+      "duration_ms": 278211,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
         "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
         "url": "https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 209882,
       "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
       "url": "https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
-      },
-      "artists": [
-        {
-          "name": "Myles 6ix",
-          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
-        }
-      ],
-      "duration_ms": 278211,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
     },
     {
       "added_at": "2022-10-06 22:00:00",

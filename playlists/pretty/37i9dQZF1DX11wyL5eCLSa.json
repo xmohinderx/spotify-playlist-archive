@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Austin TV en portada.",
-  "num_followers": 132063,
+  "num_followers": 132148,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDY1MCwwMDAwMDAwMDMxN2I1MGVjMTlkYWQwNjNhZGU3MTk5MTE3ODE2NTNl",
+  "snapshot_id": "MTY2NDUxMDY1MCwwMDAwMDAwMGRhZjQwNGE1NGM2NzM5OGYyM2Q5NTlkNzc5MWQ1M2Y4",
   "tracks": [
     {
       "added_at": "2022-09-27 21:37:51",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq"
     },
     {
-      "added_at": "2022-08-05 19:18:55",
-      "album": {
-        "name": "Sigilos y Decretos",
-        "url": "https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11"
-      },
-      "artists": [
-        {
-          "name": "Prismatic Shapes",
-          "url": "https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Acto de Fe",
-      "url": "https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C"
-    },
-    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "Tu Tiempo",
@@ -1167,6 +1151,22 @@
       "duration_ms": 205400,
       "name": "Tu Tiempo",
       "url": "https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR"
+    },
+    {
+      "added_at": "2022-08-05 19:18:55",
+      "album": {
+        "name": "Sigilos y Decretos",
+        "url": "https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11"
+      },
+      "artists": [
+        {
+          "name": "Prismatic Shapes",
+          "url": "https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Acto de Fe",
+      "url": "https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C"
     },
     {
       "added_at": "2022-09-02 05:54:02",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/3zN9HAyFx7yrw4wf7mmuD6"
     },
     {
-      "added_at": "2022-08-09 02:12:39",
-      "album": {
-        "name": "Demasiado Bien",
-        "url": "https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR"
-      },
-      "artists": [
-        {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
-        }
-      ],
-      "duration_ms": 219707,
-      "name": "Demasiado Bien",
-      "url": "https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B"
-    },
-    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "Lejos de M\u00ed",
@@ -1231,6 +1215,22 @@
       "duration_ms": 196630,
       "name": "Lejos de M\u00ed",
       "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
+    },
+    {
+      "added_at": "2022-08-09 02:12:39",
+      "album": {
+        "name": "Demasiado Bien",
+        "url": "https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "duration_ms": 219707,
+      "name": "Demasiado Bien",
+      "url": "https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B"
     },
     {
       "added_at": "2022-07-22 17:47:39",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Ozuna, Jowell y Randy, Kali Uchis, Charlie Puth, Monsieur Periné, y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,365 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,524 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 |
-| 2 | [TORO](https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [TORO](https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2) | 4:14 |
+| 2 | [TORO](https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Toro](https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2) | 4:14 |
 | 3 | [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 |
 | 4 | [La Unica](https://open.spotify.com/track/1VAYxguLGwy4NpnLMSh8R9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Unica](https://open.spotify.com/album/7MUPz6QaXyT6CBZCHoQcjX) | 2:29 |
 | 5 | [Una y Mil Veces](https://open.spotify.com/track/2QFxZNTECGz7uGd7me4dzH) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Una y Mil Veces](https://open.spotify.com/album/7ixHyWCOz4NvKbHMLi1P8K) | 3:19 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 38 | [LIBRE](https://open.spotify.com/track/2iJmDPTEQV5EBAH5R8EN8G) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l) | [LIBRE](https://open.spotify.com/album/5B6pWgnGyKyJlgj0R9szdi) | 4:51 |
 | 39 | [7 De Octubre](https://open.spotify.com/track/3A4WD7JkJWq0PgzoVXq337) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [7 De Octubre](https://open.spotify.com/album/0yC4zTvFMwnsK6RxhLSt7u) | 2:30 |
 | 40 | [Siempre, Siempre](https://open.spotify.com/track/5plvv8syDsIhX1kCDbXeN0) | [Supersilverhaze](https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw) | [Siempre, Siempre](https://open.spotify.com/album/6dd04pwejgOG0WWROX7lgH) | 3:52 |
-| 41 | [Recuerdos Desechables](https://open.spotify.com/track/6KaUMpDH30LNmBhiLcMUtC) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/4uUZcwxBslFK0F4gT7fDcf) | 3:30 |
+| 41 | [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 |
 | 42 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:05 |
 | 43 | [snow angels](https://open.spotify.com/track/4tyD9sivpD8NGM8KEEabAl) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume two](https://open.spotify.com/album/4k9Mz7WO4U1rx3JIRF3iFz) | 3:30 |
 | 44 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 |
 | 45 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
 | 46 | [One Night](https://open.spotify.com/track/4R1jaW2mVVct5MU29o6Ysr) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/2CKqapMPL6O0T8cqvFmyVz) | 3:49 |
-| 47 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 |
+| 47 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 |
 | 48 | [Randall Flagg](https://open.spotify.com/track/4eRoGhykyQCIzhOaFf35zX) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Magic Hour](https://open.spotify.com/album/4SjIdmDhVUA1eunwERtgPv) | 3:39 |
 | 49 | [What They Call Us](https://open.spotify.com/track/4r7bIvlgghaidRNJghhs3o) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What They Call Us](https://open.spotify.com/album/67rERGR5WbUsR5baHR8wIR) | 4:27 |
 | 50 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
 
-Snapshot ID: `MTY2NTExODgwMCwwMDAwMDAwMDAwMzA0YThkODc0ZTJiMmVkM2ZmNTNlZTEzMTE0ZmRh`
+Snapshot ID: `MTY2NTExODgwMCwwMDAwMDAwMGI3YjJhOWQyZmE3Y2Q0N2JkOTY3YWI5Y2Y3YjMzY2Y1`

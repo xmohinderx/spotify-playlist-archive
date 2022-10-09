@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Sofi Mata en portada.",
-  "num_followers": 51485,
+  "num_followers": 51584,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2Mzg3NywwMDAwMDAwMDk1MzdkZDI0MjU1NTg2NDJlMTI3Mzg2YmVhYTIyNTFl",
+  "snapshot_id": "MTY2Mzk2Mzg3NywwMDAwMDAwMDg4OTMzZTk4NDk4ODhjNTIyMmZlZjg1YjAzZTc3ZTMz",
   "tracks": [
     {
       "added_at": "2022-09-23 20:11:17",
@@ -87,26 +87,18 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 204414,
-      "name": "La Ni\u00f1a de la Escuela",
-      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2022-09-23 20:11:17",
@@ -127,18 +119,26 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+      "duration_ms": 204414,
+      "name": "La Ni\u00f1a de la Escuela",
+      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
       "added_at": "2022-09-23 20:11:17",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
-        "name": "Aunque Digan",
-        "url": "https://open.spotify.com/album/4yfVjYikNqAH8liyfw3n7K"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Aunque Digan",
-      "url": "https://open.spotify.com/track/5BJVD5vb0XEpugqc2EzImr"
-    },
-    {
-      "added_at": "2022-09-23 20:11:17",
-      "album": {
         "name": "Morena Mujer",
         "url": "https://open.spotify.com/album/52Enkie6zGmASAECzepRp1"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 174666,
       "name": "Morena Mujer",
       "url": "https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm"
+    },
+    {
+      "added_at": "2022-09-23 20:11:17",
+      "album": {
+        "name": "Aunque Digan",
+        "url": "https://open.spotify.com/album/4yfVjYikNqAH8liyfw3n7K"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Aunque Digan",
+      "url": "https://open.spotify.com/track/5BJVD5vb0XEpugqc2EzImr"
     },
     {
       "added_at": "2022-09-23 20:11:17",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
-        "name": "Tan Bonita",
-        "url": "https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G"
-    },
-    {
-      "added_at": "2022-09-23 20:11:17",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 194122,
       "name": "Siempre T\u00fa",
       "url": "https://open.spotify.com/track/6LUouQmwcFQQgjkL4jsxUh"
+    },
+    {
+      "added_at": "2022-09-23 20:11:17",
+      "album": {
+        "name": "Tan Bonita",
+        "url": "https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G"
     },
     {
       "added_at": "2022-09-23 20:11:17",

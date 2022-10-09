@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-251 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
+252 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Breakup Season](https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Breakup Season](https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY) | 3:12 | 2022-09-26 |  |
 | [Breakup Season \(feat\. Samm Henshaw\)](https://open.spotify.com/track/5b0AY8ZEWEzePJolcjsBWA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Breakup Season \(feat\. Samm Henshaw\)](https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz) | 3:12 | 2022-06-06 | 2022-09-20 |
 | [bruised](https://open.spotify.com/track/4WOLFyu5hAc5mgosw0i2Zq) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [bruised](https://open.spotify.com/album/0I4kXJE3TX5QpPkI2gpPsM) | 3:54 | 2022-06-06 | 2022-07-29 |
-| [Build](https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Build](https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh) | 4:07 | 2022-07-25 |  |
+| [Build](https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Build](https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh) | 4:07 | 2022-07-25 | 2022-10-09 |
 | [Built That Way](https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:19 | 2022-07-25 |  |
 | [Butter](https://open.spotify.com/track/3EEuwWeuAOUoIF007rgxKc) | [Stef Aranas](https://open.spotify.com/artist/741S9vc1M279OomvdEsFhg), [Euge](https://open.spotify.com/artist/5CBJbqzgxNF3DvnAXBM1wJ) | [Palate Cleanser](https://open.spotify.com/album/5RE6SssXWIva5ZrwHsIBMh) | 3:38 | 2022-06-06 | 2022-07-29 |
 | [butterfly](https://open.spotify.com/track/7IAB5IIQ0qKMM6Cnc8JPhE) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [butterfly](https://open.spotify.com/album/3x0aQ3AzXp4YNDV0ybmlq6) | 3:00 | 2022-06-06 | 2022-07-29 |
@@ -74,6 +74,7 @@
 | [drunk](https://open.spotify.com/track/3KkVd7Xg0jCAZSOatzQ6Td) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [drunk](https://open.spotify.com/album/14vqR57z8khZzYex37NVg9) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2022-07-25 |  |
 | [Dummy](https://open.spotify.com/track/5JbwQffYY41WnmZiRw39aw) | [Julian Jacob](https://open.spotify.com/artist/3hF7qPC3gzhtfaKANEhKB9) | [Dummy](https://open.spotify.com/album/4mvX5gtx89KvTmjGKS3YUK) | 3:03 | 2022-06-20 | 2022-06-28 |
+| [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2022-10-03 |  |
 | [end of summer](https://open.spotify.com/track/41Y2sKD6964zZsVKcVdfIA) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Nathania](https://open.spotify.com/artist/3GGFoDJb13etkq2DgQ4cMw) | [end of summer](https://open.spotify.com/album/0cPA5U89O8Zq7lS258nRSt) | 3:05 | 2022-07-04 | 2022-07-24 |
 | [Escape](https://open.spotify.com/track/0Rio1XB0bbSmUXSMZdwBx2) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable EP](https://open.spotify.com/album/5YYiz5bHi70KHeaMJwbIXw) | 3:15 | 2022-06-20 | 2022-06-26 |
 | [Eyes](https://open.spotify.com/track/4dxtD1otvF1JdycGwCK9ns) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj), [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw) | [Vivid](https://open.spotify.com/album/6xdFPvtm4YKclLHnWxFLJM) | 2:58 | 2022-06-06 | 2022-07-29 |

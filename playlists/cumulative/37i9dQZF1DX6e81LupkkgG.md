@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios\. Foto: Khalid
 
-169 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
+170 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/77CETNz3OnGknxn7YVBmE8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [EVERYDAY](https://open.spotify.com/track/4KNIWyhvOB0MrMEtxWkcN2) | [Julia Svacinna](https://open.spotify.com/artist/4OJZRqsMCFV8EAgoqL5AEE) | [EVERYDAY](https://open.spotify.com/album/5nd1xFh4o9yg7F80osBWVW) | 2:39 | 2022-03-16 | 2022-04-29 |
 | [Factor In](https://open.spotify.com/track/1jSsZv7ln3hhPhSoFTkV2R) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Factor In](https://open.spotify.com/album/0YMEgUXRjLiiEb2EYeRwni) | 3:27 | 2022-02-18 |  |
 | [Fall On Me](https://open.spotify.com/track/3t7PAG8ByriTrDNWSDCP1x) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Fall On Me](https://open.spotify.com/album/0cwzKIL9ELh2HwvMashfV5) | 4:23 | 2022-02-18 |  |
-| [Figure It Out](https://open.spotify.com/track/0l8F1nPfNpM31EepvocvwY) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [The Good & The Bad](https://open.spotify.com/album/19HUwMGdjDSb7AnO2UXFIM) | 3:06 | 2022-07-22 |  |
+| [Figure It Out](https://open.spotify.com/track/0l8F1nPfNpM31EepvocvwY) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [The Good & The Bad](https://open.spotify.com/album/19HUwMGdjDSb7AnO2UXFIM) | 3:06 | 2022-07-22 | 2022-10-09 |
 | [Figure It Out](https://open.spotify.com/track/6Q2KW0g6N0GzmG1MBCNms3) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Figure It Out](https://open.spotify.com/album/6M0yuAiE4hilGW0FBLyLBV) | 3:06 | 2022-02-18 | 2022-07-29 |
 | [Finally // beautiful stranger](https://open.spotify.com/track/5YvcUK2eXJ2OllqDuEg18S) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Finally // beautiful stranger](https://open.spotify.com/album/30MFzDqEWHe5v0XUsGGUJF) | 3:41 | 2022-02-18 |  |
 | [For Now](https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [For Now](https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA) | 3:31 | 2022-02-18 |  |
@@ -139,6 +139,7 @@
 | [Still Have Me](https://open.spotify.com/track/6SBJ2XHc4jm6Abqt7zocMz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Have Me](https://open.spotify.com/album/5mbrUlvluQ5kVKYKj0aRNc) | 3:23 | 2022-02-18 |  |
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2022-02-18 |  |
 | [Summer Rain \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 2:44 | 2022-02-18 |  |
+| [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-07 |  |
 | [Temporal \- A COLORS SHOW](https://open.spotify.com/track/3vL3QZ96wB8Qj4XdIzMHoX) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [Temporal \- A COLORS SHOW](https://open.spotify.com/album/4MVp03pCiFYstD68MziSTH) | 2:43 | 2022-02-18 | 2022-03-26 |
 | [Teu sim, mas não\. \(feat\. Pedro Calais\)](https://open.spotify.com/track/2ySHbwdxA32udzny7hlULo) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Pedro Calais](https://open.spotify.com/artist/5txRGZfNQ81RUk5G90Iqez) | [Teu sim, mas não\. \(feat\. Pedro Calais\)](https://open.spotify.com/album/6PZyMzlh4wTtUqO0NJzlUv) | 3:21 | 2022-07-22 | 2022-09-24 |
 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 | 2022-07-22 | 2022-08-13 |

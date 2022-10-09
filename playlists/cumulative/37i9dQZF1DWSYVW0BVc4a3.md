@@ -4,7 +4,7 @@
 
 > Rave season is upon us\. Cover: Golden Features
 
-183 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+184 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-08-18 |  |
 | [Looking at Your Pager \- Solomun Remix](https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Looking At Your Pager \(Solomun Remix\)](https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u) | 4:28 | 2022-09-01 |  |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-08-18 |  |
-| [Luv 4 Real](https://open.spotify.com/track/54PGeitLMNZPRjA0Bhf6im) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [KASPERG](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8) | [Luv 4 Real](https://open.spotify.com/album/1jxJnzx5RSlWbTfFUNV8de) | 2:14 | 2022-09-22 |  |
+| [Luv 4 Real](https://open.spotify.com/track/54PGeitLMNZPRjA0Bhf6im) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [KASPERG](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8) | [Luv 4 Real](https://open.spotify.com/album/1jxJnzx5RSlWbTfFUNV8de) | 2:14 | 2022-09-22 | 2022-10-09 |
 | [Make It Happen \- Dom Dolla Remix](https://open.spotify.com/track/3zSjRyDLwVWIZXEFZB6nUF) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Surrender \(Remixes\)](https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3) | 4:27 | 2022-08-18 |  |
 | [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-18 | 2022-09-24 |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-08-18 | 2022-08-20 |
@@ -190,6 +190,7 @@
 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 | 2022-08-18 | 2022-09-23 |
 | [You & Me](https://open.spotify.com/track/5FHaHD7FMSPgOvYhuVgae2) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [You & Me](https://open.spotify.com/album/451gAJbsqc71BlBePvKdS3) | 4:31 | 2022-08-18 | 2022-09-16 |
 | [You Run](https://open.spotify.com/track/02crxEctxfT2l3q1DsM9m2) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [You Run](https://open.spotify.com/album/0TYWnfGE7HspkqdLQLA0vD) | 5:54 | 2022-08-18 |  |
+| [Zone 1 \(24 Hours\)](https://open.spotify.com/track/0WBT2NT0p99t8c77aJGQUp) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: f1 racer & locked in \| Zone 1 \(24 Hours\)](https://open.spotify.com/album/3EHJQYoofSblgWCRqlvNRk) | 5:26 | 2022-10-07 |  |
 | [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-01 |  |
 
 \*This playlist was first scraped on 2022-08-19. Prior content cannot be recovered.

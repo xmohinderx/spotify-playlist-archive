@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Mac Júlia e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,155 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,173 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 47 | [Festa do Pijama](https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:19 |
 | 48 | [Baile de Máscaras \(Recarnaval\)](https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW) | [SIM SIM SIM](https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx) | 5:03 |
 | 49 | [Matemática](https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:14 |
-| 50 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
-| 51 | [Eu Fico](https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Bendito Rolê](https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH) | 3:05 |
+| 50 | [Eu Fico](https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Bendito Rolê](https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH) | 3:05 |
+| 51 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
 | 52 | [De Novo](https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Luísa Nascim](https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Tombc](https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6) | [De Novo](https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ) | 2:15 |
-| 53 | [Prata Amor](https://open.spotify.com/track/3aiKlNW8MgZFzA3cGsaJWJ) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC), [Rafa Pinta](https://open.spotify.com/artist/4LMwHoEPgxu0nFRG9tpYa6), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Prata Amor](https://open.spotify.com/album/4IhqAxEhLk3FezafiOBaZU) | 2:38 |
-| 54 | [poderia ser pior](https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [poderia ser pior](https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O) | 2:52 |
+| 53 | [poderia ser pior](https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [poderia ser pior](https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O) | 2:52 |
+| 54 | [Prata Amor](https://open.spotify.com/track/3aiKlNW8MgZFzA3cGsaJWJ) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC), [Rafa Pinta](https://open.spotify.com/artist/4LMwHoEPgxu0nFRG9tpYa6), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Prata Amor](https://open.spotify.com/album/4IhqAxEhLk3FezafiOBaZU) | 2:38 |
 | 55 | [Carta Que Não Diz](https://open.spotify.com/track/2iXQ3CYVGQihlFpWCDDmJM) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Carta Que Não Diz](https://open.spotify.com/album/3gK51ZgTFMiFHekQKRUUNX) | 3:11 |
 | 56 | [Fogo](https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc) | [Young Piva](https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Encruzilhada](https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk) | 2:31 |
 | 57 | [Me liga](https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Me liga](https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7) | 2:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [Devagarin](https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Devagarin](https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F) | 2:34 |
 | 60 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 |
 
-Snapshot ID: `MTY2NTExMTc4MCwwMDAwMDAwMGUyNjY3YTk3YzIyODI2NDEyOThhM2Q3OWU2YmRmMjg2`
+Snapshot ID: `MTY2NTExMTc4MCwwMDAwMDAwMDM4NzkyODc3MTg5N2NjNWQxYzZmNDY1MTg3MzRjM2Jl`

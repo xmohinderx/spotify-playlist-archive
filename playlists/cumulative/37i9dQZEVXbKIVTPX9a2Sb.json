@@ -2170,6 +2170,24 @@
     },
     {
       "album": {
+        "name": "boo",
+        "url": "https://open.spotify.com/album/7lftEfEMOUnny2WDWHSI0N"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "boo",
+      "url": "https://open.spotify.com/track/03oSPzvckEJOYFjQ3ITduH"
+    },
+    {
+      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
       },
@@ -5431,7 +5449,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -6113,7 +6131,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 250000,
       "name": "Hey G!",
       "url": "https://open.spotify.com/track/1i6Q39TzaIp6EkJL9k51qd"
@@ -9764,6 +9782,28 @@
     },
     {
       "album": {
+        "name": "mhm",
+        "url": "https://open.spotify.com/album/3SAvFQ2dRiXgZz3hbowNVy"
+      },
+      "artists": [
+        {
+          "name": "WEN",
+          "url": "https://open.spotify.com/artist/4521qGQWk4pQU8lvGgjNUx"
+        },
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140133,
+      "name": "mhm",
+      "url": "https://open.spotify.com/track/3I8HRjgOKJmJ3t3JT1bgH9"
+    },
+    {
+      "album": {
         "name": "Miami Vice",
         "url": "https://open.spotify.com/album/3pH4g78UzRUsaOlRKDmJ2z"
       },
@@ -12323,7 +12363,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 174196,
       "name": "Piato\u010dek",
       "url": "https://open.spotify.com/track/0S4R6vsr5MlIJyOutUjHd3"
@@ -12447,7 +12487,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 210000,
       "name": "POD DRN",
       "url": "https://open.spotify.com/track/1QJr9gqb6wqumAkLBHcJCq"
@@ -13497,7 +13537,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -15479,7 +15519,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 181192,
       "name": "S\u00e9rum",
       "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
@@ -15860,6 +15900,24 @@
     },
     {
       "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -15973,7 +16031,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 206432,
       "name": "To neni hra",
       "url": "https://open.spotify.com/track/5mC6tVYVscr1YR4zD6p94h"

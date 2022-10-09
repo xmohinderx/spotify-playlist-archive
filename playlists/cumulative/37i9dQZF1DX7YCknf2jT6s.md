@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Theon Cross
 
-538 songs - 1 day 20 hr 0 min - [published](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
+539 songs - 1 day 20 hr 5 min - [published](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,8 @@
 | [Never Ending](https://open.spotify.com/track/5XUoyLhnHj8PQVQWogLHv8) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [トリオピック 〜激闘の記録〜](https://open.spotify.com/album/7lcqOb9nm6NaPFRF9b02fK) | 2:51 | 2022-02-18 | 2022-03-05 |
 | [NEW JUICE](https://open.spotify.com/track/33w565e67DOq4RgLhpffXE) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG) | [NEW JUICE](https://open.spotify.com/album/5bzTjGyPa8kHwLjvXHmTTs) | 2:57 | 2022-04-29 | 2022-05-14 |
 | [Next Stop](https://open.spotify.com/track/0xWvC0sXy50OhLr2f8lZTV) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Next Stop](https://open.spotify.com/album/5PnsHCt16798AKmngcZMBP) | 6:41 | 2022-02-25 | 2022-03-18 |
-| [Night Bird](https://open.spotify.com/track/2qmiyvlEN9QUlNOt5Rj9a4) | [Niels Vincentz](https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I), [Jacob Artved](https://open.spotify.com/artist/5d3accwB8PpQbK9ajwv1Re) | [Night Bird](https://open.spotify.com/album/6UPREuxi5epxjvgdX7h0vj) | 5:43 | 2022-09-16 |  |
+| [Night Bird](https://open.spotify.com/track/2qmiyvlEN9QUlNOt5Rj9a4) | [Niels Vincentz](https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I), [Jacob Artved](https://open.spotify.com/artist/5d3accwB8PpQbK9ajwv1Re) | [Night Bird](https://open.spotify.com/album/6UPREuxi5epxjvgdX7h0vj) | 5:43 | 2022-09-16 | 2022-10-09 |
+| [Night Bird](https://open.spotify.com/track/62ufBtxbDCupKZaXwiLEiB) | [Niels Vincentz](https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I), [Jacob Artved](https://open.spotify.com/artist/5d3accwB8PpQbK9ajwv1Re) | [Something for Someone](https://open.spotify.com/album/5OYPRSfs4ak55n3v17n9Ds) | 5:43 | 2022-09-16 |  |
 | [Nitrogen](https://open.spotify.com/track/7cWaxBeit7ohfyVnNGUP3m) | [Mika Krstic](https://open.spotify.com/artist/3fs2IhOduiLzt9jlN7YEC2) | [Nitrogen](https://open.spotify.com/album/7eHgfsNkxLGgnuF01yH1Na) | 4:27 | 2022-10-07 |  |
 | [Noam](https://open.spotify.com/track/3HYHagZGinnjSfdDPOTgAg) | [Oded Tzur](https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Petros Klampanis](https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Noam](https://open.spotify.com/album/7vHi4PfaQLjzhgs66R73eN) | 6:37 | 2022-04-15 | 2022-06-25 |
 | [Normal](https://open.spotify.com/track/21LPdnK8KHB0G23Jsrxc7X) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Normal](https://open.spotify.com/album/7cMwT9KvJki2cxMjU7mJD1) | 5:56 | 2022-09-02 | 2022-09-24 |

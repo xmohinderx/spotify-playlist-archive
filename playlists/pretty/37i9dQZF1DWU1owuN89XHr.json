@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 249620,
+  "num_followers": 249712,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDg5Yzg2ZWE5OGNmNzBiMDFiYzBhZTVlM2VmOWZlZjMz",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDhhOTE4NGZhNzNmYjc3MTIxMGUzNmZkMzRjNmE4YjMy",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Milagritos",
+        "url": "https://open.spotify.com/album/3ZNrH33J08oFN8H6DkVI1M"
+      },
+      "artists": [
+        {
+          "name": "3 de Copas",
+          "url": "https://open.spotify.com/artist/4Zwwo4j8jNzdv89HPPfRCy"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "Tu Fantasma",
+      "url": "https://open.spotify.com/track/70H4C8Q4HFjWC3kHNdpT79"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Milagritos",
-        "url": "https://open.spotify.com/album/3ZNrH33J08oFN8H6DkVI1M"
-      },
-      "artists": [
-        {
-          "name": "3 de Copas",
-          "url": "https://open.spotify.com/artist/4Zwwo4j8jNzdv89HPPfRCy"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "Tu Fantasma",
-      "url": "https://open.spotify.com/track/70H4C8Q4HFjWC3kHNdpT79"
     },
     {
       "added_at": "2021-07-29 16:46:05",

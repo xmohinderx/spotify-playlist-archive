@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 115456,
+  "num_followers": 115567,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDYwZDIyMDRjYmM4OWJmZDQ1NWJlZGI5M2I0OTRkMGIx",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDQyMDQ5NzI4ZGZiMGNmZDE2ZDQwNzdmYTE2OTM4MDE0",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -331,22 +331,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Living Chicago Blues, Vol. 1",
-        "url": "https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu"
-      },
-      "artists": [
-        {
-          "name": "Eddie Shaw",
-          "url": "https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Sittin' On Top Of The World",
-      "url": "https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "I Am The Blues",
         "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 400760,
       "name": "I Can't Quit You, Baby",
       "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 1",
+        "url": "https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu"
+      },
+      "artists": [
+        {
+          "name": "Eddie Shaw",
+          "url": "https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -395,22 +395,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Luther \"Guitar Junior\" Johnson",
-          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Somebody Have Mercy",
-      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 164080,
       "name": "Ice Cream Man",
       "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Luther \"Guitar Junior\" Johnson",
+          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Somebody Have Mercy",
+      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
     },
     {
       "added_at": "2016-03-21 20:31:35",

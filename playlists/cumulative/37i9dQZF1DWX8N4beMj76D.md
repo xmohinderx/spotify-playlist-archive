@@ -4,7 +4,7 @@
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-74 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/7kKSsbzwq02y4ei5QnK9pz)
+75 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/7kKSsbzwq02y4ei5QnK9pz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bird On A Wire](https://open.spotify.com/track/7gPOHdd9ATgveYMpxcSdZQ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American Recordings](https://open.spotify.com/album/3yrnapvgTqeYGZKPxozcUl) | 4:01 | 2018-12-06 | 2022-07-29 |
 | [Bird on a Wire](https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Hymns of the 49th Parallel](https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX) | 4:28 | 2018-12-06 |  |
 | [Bird On The Wire](https://open.spotify.com/track/3UvXtf3ZXjmFDB3QSY4iXL) | [Dave Van Ronk](https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz) | [The Mayor Of MacDougal Street: Rarities 1957\-1969](https://open.spotify.com/album/7ppsSKyut4ssQyxbju7itg) | 3:29 | 2018-12-06 | 2022-07-29 |
-| [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 | 2018-12-06 |  |
+| [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 | 2018-12-06 | 2022-10-09 |
 | [Chelsea Hotel \#2](https://open.spotify.com/track/368ezT8KnV9L3so0wlz8v2) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/34UsK0W106eCfrfJ2s3KNN) | 3:35 | 2018-12-06 | 2022-07-25 |
 | [Chelsea Hotel No\. 2](https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:45 | 2018-12-06 |  |
 | [Choices \- Live at Christchurch Soundcheck, 2013](https://open.spotify.com/track/6E5SfanYXrXyRgeUobIeWQ) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Can't Forget: A Souvenir of the Grand Tour](https://open.spotify.com/album/7yUDBh0Q2IjPctdv5pFP6b) | 3:31 | 2018-12-06 | 2022-07-29 |
@@ -82,5 +82,6 @@
 | [Who By Fire](https://open.spotify.com/track/706Fe7B2pM3nC5IFGjp5EQ) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Songs I Love Vol.1](https://open.spotify.com/album/6Vo8N124C1PP8kTXhICyyP) | 3:00 | 2018-12-06 | 2022-07-29 |
 | [Who by Fire \(feat\. Jenn Grant\)](https://open.spotify.com/track/1HrWXSbm7z0qykZCxBn4CT) | [Buck 65](https://open.spotify.com/artist/6jbuMVAvWgoPxEb1wMglyz) | [20 ODD YEARS](https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj) | 3:35 | 2018-12-06 |  |
 | [You Know Who I Am](https://open.spotify.com/track/2XGxZZpv8pae2CY18mVK6P) | [Cass Elliot](https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk) | [The Complete Cass Elliot Solo Collection 1968\-71](https://open.spotify.com/album/2TUNlZmOj0mzu9oLR9D3Gb) | 4:03 | 2018-12-06 | 2022-07-27 |
+| [You Want It Darker \(feat\. Iggy Pop\)](https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [You Want It Darker](https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp) | 5:04 | 2022-10-07 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

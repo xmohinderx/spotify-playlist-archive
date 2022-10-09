@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Joe Flizzow
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,289 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,469 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 8 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 |
 | 9 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 |
 | 10 | [Mungkin Ini Adalah Lagu Yang Paling Sedih Pernah Ku Buat](https://open.spotify.com/track/1auMsAG9X5RSDu8UuJayIs) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO), [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [Mungkin Ini Adalah Lagu Yang Paling Sedih Pernah Ku Buat](https://open.spotify.com/album/3IrwzNwKbQh1tE9ug53hnz) | 3:02 |
-| 11 | [Bertahan Terluka](https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo) | 4:00 |
+| 11 | [Bertahan Terluka](https://open.spotify.com/track/6gNG7O2IlMYUXAcCDwQrPT) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/4UQ6dWSVD4lZUoA6KJzp5d) | 4:00 |
 | 12 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 |
 | 13 | [Kecewa](https://open.spotify.com/track/5kulMDqE2C0uCVUQ8X1Lby) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Kecewa](https://open.spotify.com/album/2f8y8MJAXRwq9G100DWIYH) | 3:21 |
 | 14 | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Payung \(From "Abang Long Fadil 3"\)](https://open.spotify.com/track/0ghWT2H4sSI5nZtHwY4iwn) | [Elizabeth Tan](https://open.spotify.com/artist/17bFKNQu8Ov9bwgUzMygRH), [Zizan Razak](https://open.spotify.com/artist/7GkUskIBOKpJRyzpE7WQBD) | [Payung \(From "Abang Long Fadil 3"\)](https://open.spotify.com/album/75akGypxmqSOFLgMfmIHGO) | 3:23 |
 | 50 | [Isteri](https://open.spotify.com/track/1H50k7ZiylQVuuVOYIvlZr) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Isteri](https://open.spotify.com/album/31hFm4Jh0q1LS4oQSO7EhN) | 2:44 |
 
-Snapshot ID: `MTY2NDk4Mjk3MCwwMDAwMDAwMDNmYWZjNTA3NmQ3YTVmZTMxMGEwYTI4NTU2NzI0NmNk`
+Snapshot ID: `MTY2NDk4Mjk3MCwwMDAwMDAwMDI3ZDA1MDVlNzMzNDQ0YzM2NTE3OTkwOGEwMzNiYTZk`

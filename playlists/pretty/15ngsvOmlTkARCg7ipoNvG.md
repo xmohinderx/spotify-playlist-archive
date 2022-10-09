@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/15ngsvOmlTkARCg7ipoNvG.md) - [plain]
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-[IW Music](https://open.spotify.com/user/ikwong1979) - 19,302 likes - 838 songs - 19 hr 45 min
+[IW Music](https://open.spotify.com/user/ikwong1979) - 19,301 likes - 838 songs - 19 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,7 +225,7 @@ pretty - [cumulative](/playlists/cumulative/15ngsvOmlTkARCg7ipoNvG.md) - [plain]
 | 215 | [Staying With You](https://open.spotify.com/track/7H53TRynOJ1UVldh4iBVg6) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Nostalgic, Vol\. 2](https://open.spotify.com/album/0ZpYIReXZsftPNnwQsNEF9) | 1:09 |
 | 216 | [Looking Up At The Stars](https://open.spotify.com/track/5sVFFFRqTv7TdhqOaQUg3J) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spaces To See](https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI) | 1:09 |
 | 217 | [Patience And Hope](https://open.spotify.com/track/1Scfz6anlCdK9BdnVNHrii) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 |
-| 218 | [Autumn Morning](https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Morning](https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8) | 1:02 |
+| 218 | [Autumn Morning](https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj) | [Slow Rising Hope](https://open.spotify.com/artist/7JnGgoEO148fKVqZzxpS94) | [Autumn Morning](https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8) | 1:02 |
 | 219 | [Saturday Night Stars](https://open.spotify.com/track/6bfRhRKJjmuKPQLi7k6Oph) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace](https://open.spotify.com/album/79RFghU00Bo4qMQOfx8ygk) | 1:08 |
 | 220 | [Long Long Ago Lullaby](https://open.spotify.com/track/1qSKM237rmanD12Y0BKppR) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Resting For Now](https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P) | 1:03 |
 | 221 | [Your Kindness \- Cello Version](https://open.spotify.com/track/7AJTYoDgAMs4lPukdiTH5Z) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Your Kindness](https://open.spotify.com/album/7kLxTeMirMNm7bhBaNGM1C) | 1:02 |

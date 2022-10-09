@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:house\">House</a> music lives here. United in one house. Cover: Mau P",
-  "num_followers": 1689617,
+  "num_followers": 1690708,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDA2N2Q4ZTA3NzIwYmM1OGE5Mjg5ZjFjYzBlMTAwZThm",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGRmZjNiYjU3MmRjYmVkMjkxZGFkMTgwMDI5ZDdlODhi",
   "tracks": [
     {
       "added_at": "2022-07-18 16:40:14",
@@ -801,6 +801,26 @@
       "url": "https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt"
     },
     {
+      "added_at": "2022-08-23 16:47:20",
+      "album": {
+        "name": "People Ain't Dancing (feat. Kah-Lo)",
+        "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
+      },
+      "artists": [
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 154859,
+      "name": "People Ain't Dancing (feat. Kah-Lo)",
+      "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
+    },
+    {
       "added_at": "2022-05-27 11:57:28",
       "album": {
         "name": "Disconnected",
@@ -837,24 +857,24 @@
       "url": "https://open.spotify.com/track/697HW34FLNURvRAbSieICv"
     },
     {
-      "added_at": "2022-08-23 16:47:20",
+      "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "People Ain't Dancing (feat. Kah-Lo)",
-        "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F"
       },
       "artists": [
         {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
         },
         {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
         }
       ],
-      "duration_ms": 154859,
-      "name": "People Ain't Dancing (feat. Kah-Lo)",
-      "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
+      "duration_ms": 154761,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -875,26 +895,6 @@
       "duration_ms": 191612,
       "name": "More Love",
       "url": "https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE"
-      },
-      "artists": [
-        {
-          "name": "Jethro Heston",
-          "url": "https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj"
-        }
-      ],
-      "duration_ms": 156209,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp"
-    },
-    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Let You Do This",
@@ -1087,6 +1071,22 @@
       "duration_ms": 202281,
       "name": "Let You Do This (with Buy Now)",
       "url": "https://open.spotify.com/track/5OlgbvkngYf6dibaafcqcO"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE"
+      },
+      "artists": [
+        {
+          "name": "Jethro Heston",
+          "url": "https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj"
+        }
+      ],
+      "duration_ms": 156209,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1139,30 +1139,6 @@
       "duration_ms": 168200,
       "name": "079",
       "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "You & I (Emily Nash Remix)",
-        "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        },
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "You & I - Emily Nash Remix",
-      "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1223,6 +1199,30 @@
       "duration_ms": 149455,
       "name": "Nightjar (feat. SHELLS)",
       "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "You & I (Emily Nash Remix)",
+        "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        },
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "You & I - Emily Nash Remix",
+      "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1409,6 +1409,22 @@
       "url": "https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Trompeta",
+        "url": "https://open.spotify.com/album/3fyDFUE6R0Q8TdFHC5q2nz"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Trompeta",
+      "url": "https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv"
+    },
+    {
       "added_at": "2022-05-27 11:57:28",
       "album": {
         "name": "Tripasia",
@@ -1451,22 +1467,6 @@
       "duration_ms": 142334,
       "name": "Be My One",
       "url": "https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Trompeta",
-        "url": "https://open.spotify.com/album/3fyDFUE6R0Q8TdFHC5q2nz"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Trompeta",
-      "url": "https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1525,24 +1525,20 @@
       "url": "https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
+      "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Chemical Embrace",
-        "url": "https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS"
+        "name": "Love You Like That",
+        "url": "https://open.spotify.com/album/47Nuvze924yiqkfwcXkcTT"
       },
       "artists": [
         {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        },
-        {
-          "name": "Olivia Sebastianelli",
-          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         }
       ],
-      "duration_ms": 192405,
-      "name": "Chemical Embrace",
-      "url": "https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R"
+      "duration_ms": 175000,
+      "name": "Love You Like That",
+      "url": "https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1567,6 +1563,26 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Chemical Embrace",
+        "url": "https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "duration_ms": 192405,
+      "name": "Chemical Embrace",
+      "url": "https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Love You Like That",
-        "url": "https://open.spotify.com/album/47Nuvze924yiqkfwcXkcTT"
+        "name": "Dancing Clich\u00e9",
+        "url": "https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Love You Like That",
-      "url": "https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5"
+      "duration_ms": 152669,
+      "name": "Dancing Clich\u00e9",
+      "url": "https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1631,22 +1647,6 @@
       "duration_ms": 202943,
       "name": "Shake My Booty",
       "url": "https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Dancing Clich\u00e9",
-        "url": "https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 152669,
-      "name": "Dancing Clich\u00e9",
-      "url": "https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
+        "name": "In Chicago",
+        "url": "https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 186686,
+      "name": "In Chicago",
+      "url": "https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/1LYnqAYDUa6vsj8IwraI9J"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 165853,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/54C72WBiGX5leus7p8y418"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "In Chicago",
-        "url": "https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 186686,
-      "name": "In Chicago",
-      "url": "https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG"
     },
     {
       "added_at": "2022-05-27 11:57:28",

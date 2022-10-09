@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42595,
+  "num_followers": 42619,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGEyYTg0MzJhOTRhYTk1NWUzMGRhODJlNDQxMjRmNmZh",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDdiMmQ2Njk5NDllNDU0NWQyNTAxMDY1YTI2YmE2MDM2",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -315,26 +315,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "When the Well Runs Dry",
-        "url": "https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ"
-      },
-      "artists": [
-        {
-          "name": "Liv Douglas",
-          "url": "https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73"
-        },
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "When the Well Runs Dry",
-      "url": "https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "When the Well Runs Dry",
+        "url": "https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ"
+      },
+      "artists": [
+        {
+          "name": "Liv Douglas",
+          "url": "https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73"
+        },
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "When the Well Runs Dry",
+      "url": "https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Sweet Water",
-        "url": "https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q"
-      },
-      "artists": [
-        {
-          "name": "Beach Chapel",
-          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Sweet Water",
-      "url": "https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Hollows",
-        "url": "https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l"
+        "name": "Sweet Water",
+        "url": "https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q"
       },
       "artists": [
         {
-          "name": "Lion & Bear",
-          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
+          "name": "Beach Chapel",
+          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
         }
       ],
-      "duration_ms": 266169,
-      "name": "Held by Your Love",
-      "url": "https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK"
+      "duration_ms": 249066,
+      "name": "Sweet Water",
+      "url": "https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -603,6 +587,22 @@
       "duration_ms": 294780,
       "name": "Loved by You",
       "url": "https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Hollows",
+        "url": "https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l"
+      },
+      "artists": [
+        {
+          "name": "Lion & Bear",
+          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
+        }
+      ],
+      "duration_ms": 266169,
+      "name": "Held by Your Love",
+      "url": "https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64"
       },
@@ -911,22 +895,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Never Grow Tired",
-        "url": "https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M"
-      },
-      "artists": [
-        {
-          "name": "The Evidence",
-          "url": "https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe"
-        }
-      ],
-      "duration_ms": 261736,
-      "name": "Never Grow Tired",
-      "url": "https://open.spotify.com/track/68m3fFj8up50boqi077Yr8"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN"
       },
@@ -939,6 +907,38 @@
       "duration_ms": 320003,
       "name": "Trust",
       "url": "https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Never Grow Tired",
+        "url": "https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M"
+      },
+      "artists": [
+        {
+          "name": "The Evidence",
+          "url": "https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe"
+        }
+      ],
+      "duration_ms": 261736,
+      "name": "Never Grow Tired",
+      "url": "https://open.spotify.com/track/68m3fFj8up50boqi077Yr8"
     },
     {
       "added_at": "2020-12-18 06:02:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,342 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,341 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 45 | [For Real](https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 3:51 |
 | 46 | [I've Gotta Be Me](https://open.spotify.com/track/19I5aPSNdfo86gMAekHWxT) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [I've Gotta Be Me](https://open.spotify.com/album/7HZxoITz0x1fCsNQKrXoqD) | 2:56 |
 | 47 | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/track/2Eowpnfjs5iXP8OLToAOYA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5E6dG2q42szysfESYn40FL) | 3:01 |
-| 48 | [If You See Her, Say Hello \- Take 1](https://open.spotify.com/track/6cLewsHaYRcexjUMJapSdR) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [More Blood, More Tracks: The Bootleg Series, Vol\. 14 \(Sampler\)](https://open.spotify.com/album/5faKzawYFUfk3IRRe6ERXl) | 3:57 |
-| 49 | [At the End of the Day](https://open.spotify.com/track/4my3EKKyF3ASnJ7OPHTBUl) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Gilbert O'Sullivan](https://open.spotify.com/album/147bBWdV1tgPQ5pabOzQF4) | 3:11 |
+| 48 | [At the End of the Day](https://open.spotify.com/track/4my3EKKyF3ASnJ7OPHTBUl) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Gilbert O'Sullivan](https://open.spotify.com/album/147bBWdV1tgPQ5pabOzQF4) | 3:11 |
+| 49 | [If You See Her, Say Hello \- Take 1](https://open.spotify.com/track/6cLewsHaYRcexjUMJapSdR) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [More Blood, More Tracks: The Bootleg Series, Vol\. 14 \(Sampler\)](https://open.spotify.com/album/5faKzawYFUfk3IRRe6ERXl) | 3:57 |
 | 50 | [We Were Beautiful](https://open.spotify.com/track/7xkcFfIfRWPbdiuUU2jvZG) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Chip Tooth Smile](https://open.spotify.com/album/0vCpM6bbidKly1aRrf8wmz) | 2:55 |
 | 51 | [Dominoes](https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 5:02 |
 | 52 | [Four Leaf Clover \- Edit](https://open.spotify.com/track/7aq4RmtNftNpqUaeoZb5ao) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Four Leaf Clover \(Edit\)](https://open.spotify.com/album/1oCxUmpYZvKbka1mENWf4C) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Shine A Light](https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO) | 3:26 |
 | 60 | [Fuh You](https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Fuh You](https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U) | 3:23 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDg3MDYzM2MyNWIwODkwOTY5MmQ2OGU1N2NmMGI0ZTdi`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMGU1OWU1MjVhZjBhZWE2M2Y1YjNlMDYzMzUxZTg4ODcy`

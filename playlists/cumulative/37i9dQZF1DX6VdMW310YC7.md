@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,342 songs - 3 day 21 hr 8 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,343 songs - 3 day 21 hr 12 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -910,6 +910,7 @@
 | [Pattern](https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Pattern](https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG) | 4:12 | 2022-04-01 |  |
 | [PCH](https://open.spotify.com/track/3JsnAcVZxSzraNojV2rysg) | [Middle Child](https://open.spotify.com/artist/2hp8yAzOnYRUFMCdot9tzN) | [PCH](https://open.spotify.com/album/63vdqcftyz2avO5EdhH6JO) | 3:51 | 2020-07-03 | 2020-10-09 |
 | [Pearly](https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Pearly](https://open.spotify.com/album/2NcfxAHWAIfCknd3OFPqNF) | 3:59 | 2021-09-17 | 2022-07-28 |
+| [Perfect Mistake](https://open.spotify.com/track/39xbjWMhqIpPZVT0V4uDSh) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Perfect Mistakes](https://open.spotify.com/album/2ImjAATcpj7FOT4f3XTxlp) | 4:13 | 2022-10-07 |  |
 | [Petal Dance](https://open.spotify.com/track/62O40xq82udtEfBYeWdAN8) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Petal Dance](https://open.spotify.com/album/62WzNA7gboQydhAvDadrxg) | 3:49 | 2022-02-25 | 2022-07-29 |
 | [Phases](https://open.spotify.com/track/48tG7uIxXQiHdLBxeMaPas) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Phases](https://open.spotify.com/album/4uwa6SjrcRZ4TyVfGmIPh8) | 4:08 | 2021-01-29 | 2021-08-28 |
 | [Phenomena](https://open.spotify.com/track/54zvf1ijj3jRbFSc31O0t1) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Phenomena](https://open.spotify.com/album/6gSz4SL2no6tAqEaWfwnp4) | 3:20 | 2021-04-21 | 2022-06-15 |
@@ -1074,7 +1075,7 @@
 | [Solis Occasum](https://open.spotify.com/track/7jWUSD8WyNSbjoYHHo2XbJ) | [Tommy Loude](https://open.spotify.com/artist/1Tw4EeFgfssOA3CHXCSkvF) | [Chill Executive Officer \(CEO\), Vol\. 11 \[Selected by Maykel Piron\]](https://open.spotify.com/album/6qfsHKnJVaxuUqEN5CzTDh) | 2:58 | 2021-08-06 | 2022-06-13 |
 | [Solo](https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Solo](https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th) | 4:53 | 2022-04-08 | 2022-07-14 |
 | [Someday](https://open.spotify.com/track/4BRBz1TAfigZMHIIJCl9db) | [Tom B.](https://open.spotify.com/artist/6iClQdT3zvN5ejsyNhsL0U) | [Someday](https://open.spotify.com/album/0WeeKRjLWppwosu0jtzTBo) | 3:03 | 2020-03-20 | 2021-01-11 |
-| [Someone](https://open.spotify.com/track/01rAwlFDrRT2FzimFTXrKB) | [Nectr](https://open.spotify.com/artist/3jJ4ftbuJR4j8F6DVjwt82), [Charlz](https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv) | [Someone](https://open.spotify.com/album/665Kn8KRZGKweEwvX5NUY0) | 3:56 | 2020-08-06 |  |
+| [Someone](https://open.spotify.com/track/01rAwlFDrRT2FzimFTXrKB) | [Nectr](https://open.spotify.com/artist/3jJ4ftbuJR4j8F6DVjwt82), [Charlz](https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv) | [Someone](https://open.spotify.com/album/665Kn8KRZGKweEwvX5NUY0) | 3:56 | 2020-08-06 | 2022-10-09 |
 | [Someone Who Needs Me \- Bolier Remix Edit](https://open.spotify.com/track/2zvDQoWd68sbkDOpETp8Nk) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD) | [Someone Who Needs Me \(The Remixes\)](https://open.spotify.com/album/51uoyq0WbfRU046nifhOgV) | 2:53 | 2020-06-12 | 2020-07-03 |
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2022-03-04 |  |
 | [Something About You \(with Rudimental\)](https://open.spotify.com/track/3hYdai5p5sQ3vAmHQ6uaK6) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\)](https://open.spotify.com/album/0yFCgpwcC2AMcbEkRTgl31) | 3:23 | 2020-03-17 | 2020-07-03 |

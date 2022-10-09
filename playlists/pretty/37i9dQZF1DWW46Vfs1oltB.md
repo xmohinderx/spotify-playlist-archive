@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: Dynamic Duo\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: 다이나믹 듀오\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,765 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,866 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 5 | [TTFU](https://open.spotify.com/track/2Ijm5CQ4Y24lS0Zi7oK6hj) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [TTFU](https://open.spotify.com/album/5K6d8lB7dP9CNXv9LPR1nN) | 3:40 |
 | 6 | [ZOMBIES](https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:04 |
 | 7 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 |
-| 8 | [Rollin' \(Prod\. GroovyRoom\)](https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [GEMINI](https://open.spotify.com/artist/15JJozqz7SJSBQYI1gY340), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Rollin'](https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU) | 3:09 |
+| 8 | [Rollin' \(Prod\. GroovyRoom\)](https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Rollin'](https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU) | 3:09 |
 | 9 | [God's Science \- Remix](https://open.spotify.com/track/11zGLobOQ8mseZToc54RLr) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [God's Science](https://open.spotify.com/album/3GfRA7uHVRHVjt1FDHZHgd) | 3:21 |
 | 10 | [KrOWN\_pH\-1](https://open.spotify.com/track/2bBzD97St8k4eZnyqc3lrT) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KrOWN Audio liner](https://open.spotify.com/album/6u7MpErvD0bXspFMTI1hMz) | 0:02 |
 | 11 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 |

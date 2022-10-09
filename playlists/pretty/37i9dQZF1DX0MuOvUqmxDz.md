@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\.  Cover: Brett Eldredge
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,863 likes - 142 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,880 likes - 142 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 82 | [Mango Tree](https://open.spotify.com/track/2GxiYTsbcIbVHIUYOYRM4t) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:41 |
 | 83 | [Under The Mistletoe](https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Under The Mistletoe](https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U) | 3:45 |
 | 84 | [Silent Night](https://open.spotify.com/track/13GZEjxchVtGEkaAJt2FH1) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [Silent Night](https://open.spotify.com/album/05Sbvc0xkm1IzJSDnPq32E) | 1:42 |
-| 85 | [Silver Bells \- Spotify Singles](https://open.spotify.com/track/2pR9egtFKNDMm18zGfif0l) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Silver Bells \- Spotify Singles](https://open.spotify.com/album/5nvYEOcMNKiZSfCISL4rzv) | 3:21 |
+| 85 | [Silver Bells \- Spotify Singles](https://open.spotify.com/track/2pR9egtFKNDMm18zGfif0l) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Silver Bells \(Spotify Singles\)](https://open.spotify.com/album/5nvYEOcMNKiZSfCISL4rzv) | 3:21 |
 | 86 | [White Christmas](https://open.spotify.com/track/5XdtbNJcOIYc2pLMaQdCmQ) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Unwrapped \- EP](https://open.spotify.com/album/5UxCYp9ugSxlZtp7TIaJoV) | 3:24 |
 | 87 | [Snow Place Like Home](https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Snow Place Like Home](https://open.spotify.com/album/7dhOMOFSDR1kNvknQCbhJ8) | 3:20 |
 | 88 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/3hrl7X2gSOJtTrK8qFpPHF) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/2GaVIPbClrBg756B7NZret) | 3:06 |

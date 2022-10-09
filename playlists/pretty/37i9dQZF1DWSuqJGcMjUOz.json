@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2112,
+  "num_followers": 2114,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDZmMzY3NDFhNDI5YWIyN2UzY2YxNTUxOGIwOWYzZWUz",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGZlNTRiMzJlODdlMGQyZWNlMThlZTZjODc3MTljYTA0",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Abri de fortune (pour fin du monde)",
-        "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Corde \u00e0 linge",
-      "url": "https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "40 Degr\u00e9s",
         "url": "https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 160182,
       "name": "#DMTS",
       "url": "https://open.spotify.com/track/5g1OQq1LdPiPaRUgFKFvW3"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Abri de fortune (pour fin du monde)",
+        "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Corde \u00e0 linge",
+      "url": "https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Petite nature",
-        "url": "https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4"
-      },
-      "artists": [
-        {
-          "name": "\u00c9mile Bilodeau",
-          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
-        }
-      ],
-      "duration_ms": 248826,
-      "name": "La jungle du capital",
-      "url": "https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Blue Volvo",
         "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 251228,
       "name": "Xoxo",
       "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Petite nature",
+        "url": "https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Bilodeau",
+          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
+        }
+      ],
+      "duration_ms": 248826,
+      "name": "La jungle du capital",
+      "url": "https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Je me souviens",
-        "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
-      },
-      "artists": [
-        {
-          "name": "Samian",
-          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
-        }
-      ],
-      "duration_ms": 189027,
-      "name": "Je me souviens",
-      "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Poup\u00e9e Russe",
         "url": "https://open.spotify.com/album/5tY1P4kKvOPwipS8q0jbCD"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Je me souviens",
+        "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
+      },
+      "artists": [
+        {
+          "name": "Samian",
+          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
+        }
+      ],
+      "duration_ms": 189027,
+      "name": "Je me souviens",
+      "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Encre rose",
         "url": "https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Concorde",
-        "url": "https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U"
-      },
-      "artists": [
-        {
-          "name": "Le Couleur",
-          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
-        }
-      ],
-      "duration_ms": 241771,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/3orSSi6T6c7Uxitep6TdVw"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Tout est parfait : acte un",
         "url": "https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 169080,
       "name": "Arr\u00eate de danser",
       "url": "https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Concorde",
+        "url": "https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "duration_ms": 241771,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/3orSSi6T6c7Uxitep6TdVw"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Br\u00fbler des condos",
-        "url": "https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk"
-      },
-      "artists": [
-        {
-          "name": "Dope.Gng",
-          "url": "https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Br\u00fbler des condos",
-      "url": "https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Fauve",
         "url": "https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 253274,
       "name": "Je t\u2019aime",
       "url": "https://open.spotify.com/track/4qywUTrv0kO4e5Gr8rvZbE"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Br\u00fbler des condos",
+        "url": "https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk"
+      },
+      "artists": [
+        {
+          "name": "Dope.Gng",
+          "url": "https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Br\u00fbler des condos",
+      "url": "https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2022",

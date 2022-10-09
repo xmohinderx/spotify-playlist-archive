@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 74945,
+  "num_followers": 75411,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDNiZTliYTFmZWYyNGQ3Mjc1MTNmZjdiMTI5YzRiMjYw",
+  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDFmMGQwNDVjM2RiZDc4YzJmOWJlY2RlYzMzODczYTgx",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
+        "name": "Laid",
+        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
         "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
         "url": "https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 206946,
       "name": "Harness Your Hopes - B-side",
       "url": "https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
-        "name": "Laid",
-        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Pleased to Meet Me (Expanded)",
-        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
-      },
-      "artists": [
-        {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Can't Hardly Wait - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "The Modern Lovers",
         "url": "https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 236533,
       "name": "Only Happy When It Rains",
       "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Pleased to Meet Me (Expanded)",
+        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Can't Hardly Wait - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/2TTAPkrGQQOZkaUTUlt21Q"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Mic City Sons",
         "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "24 Hour Revenge Therapy (Remastered)",
-        "url": "https://open.spotify.com/album/3n1jTsW0E5gEsiftAFx3N6"
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
       },
       "artists": [
         {
-          "name": "Jawbreaker",
-          "url": "https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV"
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
         }
       ],
-      "duration_ms": 115120,
-      "name": "Boxcar",
-      "url": "https://open.spotify.com/track/43Jwg6NHpaYYJmGlPEdHol"
+      "duration_ms": 199466,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/2TTAPkrGQQOZkaUTUlt21Q"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1535,6 +1519,22 @@
       "duration_ms": 230973,
       "name": "Shady Lane",
       "url": "https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "24 Hour Revenge Therapy (Remastered)",
+        "url": "https://open.spotify.com/album/3n1jTsW0E5gEsiftAFx3N6"
+      },
+      "artists": [
+        {
+          "name": "Jawbreaker",
+          "url": "https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV"
+        }
+      ],
+      "duration_ms": 115120,
+      "name": "Boxcar",
+      "url": "https://open.spotify.com/track/43Jwg6NHpaYYJmGlPEdHol"
     },
     {
       "added_at": "2022-05-30 14:05:21",

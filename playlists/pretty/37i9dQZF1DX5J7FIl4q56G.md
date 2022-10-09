@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Counterparts
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,364 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,529 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 33 | [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 |
 | 34 | [Back In Time](https://open.spotify.com/track/3mypSOb00d9QT15ktbffPz) | [Perkele](https://open.spotify.com/artist/6tchRzwnjHlOGnFt1Dh9cF) | [Back In Time](https://open.spotify.com/album/3jdnuQA0EZcF66og7IwrDH) | 2:41 |
 | 35 | [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 |
-| 36 | [Mayhem](https://open.spotify.com/track/6SjbKwKlHkMaBVEKXSg2jm) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Mayhem](https://open.spotify.com/album/55oZwJArtyJsJkrM5duv7R) | 3:24 |
-| 37 | [Shadowminds \- Ihsahn Remix](https://open.spotify.com/track/2119jVEL7SOHyXxvBjaZrc) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka), [Ihsahn](https://open.spotify.com/artist/4CIBQae2TuQxnqdkwtmJ4p) | [Shadowminds \(Ihsahn Remix\)](https://open.spotify.com/album/6II3pspzSsH0VeqqVIm0tv) | 3:54 |
+| 36 | [Mayhem](https://open.spotify.com/track/23yBGHE1vMQfnuIoBKwy5k) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Mayhem](https://open.spotify.com/album/5ZG4Vedew1HIw1B6aWnzKa) | 3:24 |
+| 37 | [Shadowminds \- Ihsahn Remix](https://open.spotify.com/track/2119jVEL7SOHyXxvBjaZrc) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Shadowminds \(Ihsahn Remix\)](https://open.spotify.com/album/6II3pspzSsH0VeqqVIm0tv) | 3:54 |
 | 38 | [From Hollow Words](https://open.spotify.com/track/7c5aXn4zw0wKzBGEmuoOiP) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Sven De Caluwe](https://open.spotify.com/artist/6PnAHo4VtceG6H8Ma0trmd) | [From Hollow Words](https://open.spotify.com/album/2cIshtTABV96F8tpWTTCOD) | 3:54 |
 | 39 | [Good Day to Be a Bad Guy](https://open.spotify.com/track/1iUdrgwP2axNjWhlzjVgUH) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Good Day to Be a Bad Guy](https://open.spotify.com/album/4m5wnR3JDdXMAwmA5ZBNjf) | 3:51 |
 | 40 | [Bloodsucker](https://open.spotify.com/track/1E2jGfNMzJWwbD6gcwjmCk) | [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Bloodsucker](https://open.spotify.com/album/3RGIvgfjCpmHDnh7jz5nUD) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Warriors](https://open.spotify.com/track/076NaJ29oWZdjo5Sbs0piR) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Warriors](https://open.spotify.com/album/4nV3V4jyyLal42HZBHGNAQ) | 3:55 |
 | 50 | [Flower Children](https://open.spotify.com/track/7tUsRVvLDgYl6XP1ysAToj) | [The Offering](https://open.spotify.com/artist/69gpxGPOo7OguSCeHSlO9C) | [Flower Children](https://open.spotify.com/album/5zmrJLR8LsFMnUY4NTfwUz) | 6:24 |
 
-Snapshot ID: `MTY2NTE1MDU5MiwwMDAwMDAwMGM4NzlmZjhmN2U5ZWE0ZTE5NzQ4ZTlmNjMxZTZjNDJi`
+Snapshot ID: `MTY2NTE1MDU5MiwwMDAwMDAwMDc5ZDljM2U5ZTE0M2ZhODczOGE4MDFiMWRhNzg4ZmQx`

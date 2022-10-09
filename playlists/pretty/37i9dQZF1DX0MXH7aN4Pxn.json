@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 688334,
+  "num_followers": 688319,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDc1MGNjMmNiNjJlZDM2ZTliMzE0MjlhZDA4MTg2YjIw",
+  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDdkZjRlZTRjNjYwMDk4MDRkZmYwOGE0ZDY3Yzk1MDZj",
   "tracks": [
     {
       "added_at": "2022-08-22 17:56:05",
@@ -751,26 +751,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "While The World Was Burning",
-        "url": "https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 176867,
-      "name": "Roses - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Bad Habits (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 194331,
       "name": "Bad Habits - MEDUZA Remix",
       "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "While The World Was Burning",
+        "url": "https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 176867,
+      "name": "Roses - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        }
-      ],
-      "duration_ms": 150991,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Talamanca",
         "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 186727,
       "name": "Talamanca",
       "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "duration_ms": 150991,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
+        "name": "Mad Love (Remixes)",
+        "url": "https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Blinkie",
+          "url": "https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "Mad Love - Blinkie Remix",
+      "url": "https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
         "name": "Love Tonight (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/1X71912aX0L37dW0eW3QgE"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 208536,
       "name": "Love Tonight - Vintage Culture & Kiko Franco Remix Edit",
       "url": "https://open.spotify.com/track/53ICqRSyTfhrrvNwVSP6am"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Mad Love (Remixes)",
-        "url": "https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Blinkie",
-          "url": "https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "Mad Love - Blinkie Remix",
-      "url": "https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
+        "name": "Don't Need Love",
+        "url": "https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Don\u2019t Need Love (with GRACEY)",
+      "url": "https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
         "name": "You & I (Emily Nash Remix)",
         "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
       },
@@ -1411,22 +1431,18 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Don't Need Love",
-        "url": "https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN"
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
       },
       "artists": [
         {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        },
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
         }
       ],
-      "duration_ms": 195480,
-      "name": "Don\u2019t Need Love (with GRACEY)",
-      "url": "https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI"
+      "duration_ms": 150635,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1483,42 +1499,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Pump It Up",
-        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 150635,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "We Come 1",
-        "url": "https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW"
-      },
-      "artists": [
-        {
-          "name": "Ben Nicky",
-          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
-        },
-        {
-          "name": "Distorted Dreams",
-          "url": "https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "We Come 1",
-      "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Flowers (feat. Jaykae and MALIKA)",
         "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 197209,
       "name": "Flowers (feat. Jaykae and MALIKA)",
       "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "We Come 1",
+        "url": "https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW"
+      },
+      "artists": [
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Distorted Dreams",
+          "url": "https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "We Come 1",
+      "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Pump the Brakes",
-        "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 220581,
-      "name": "Pump the Brakes",
-      "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "I Don\u2019t Wanna Know",
         "url": "https://open.spotify.com/album/5tnwqNjGJpYhDOCwQ5EQP0"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 165093,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Pump the Brakes",
+        "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 220581,
+      "name": "Pump the Brakes",
+      "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/55kAr1O53DgjDiEdM0E8fc"
-      },
-      "artists": [
-        {
-          "name": "Jack Fowler",
-          "url": "https://open.spotify.com/artist/5JpqaGiRxnYKrmys8Oh8oO"
-        },
-        {
-          "name": "Tom Zanetti",
-          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Foolish (feat. Tom Zanetti)",
-      "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
         "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
         "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 250280,
       "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/55kAr1O53DgjDiEdM0E8fc"
+      },
+      "artists": [
+        {
+          "name": "Jack Fowler",
+          "url": "https://open.spotify.com/artist/5JpqaGiRxnYKrmys8Oh8oO"
+        },
+        {
+          "name": "Tom Zanetti",
+          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Foolish (feat. Tom Zanetti)",
+      "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
     },
     {
       "added_at": "2022-08-22 17:56:05",

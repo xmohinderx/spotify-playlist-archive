@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,007 likes - 107 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,042 likes - 107 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 |
 | 2 | [Innocence and Sadness](https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 4:12 |
-| 3 | [People Pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [People Pleaser / Sleep At Night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
+| 3 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
 | 4 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
 | 5 | [Hångel på balkongen](https://open.spotify.com/track/33KHgQ8oGWLDzaspxM4T4Y) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Hångel på balkongen](https://open.spotify.com/album/4QWKG2cuH8lyuC8NwUtkc3) | 2:49 |
 | 6 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 75 | [Själens skrubbsår](https://open.spotify.com/track/6Me92bDgUge3mxrMwkAn6g) | [Hans Dixgård](https://open.spotify.com/artist/5gkQjwvmV6sN7RykpXyitz), [Malin Holmlin](https://open.spotify.com/artist/2zohmZ7CwsAQM96kdfHppm), [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT), [Malmö Symphony Orchestra](https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc) | [Själens skrubbsår](https://open.spotify.com/album/4R2bj1eZW3gj7B8SJmaMfA) | 2:58 |
 | 76 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 |
 | 77 | [Me](https://open.spotify.com/track/2HB0RLSCaKALpRHFw7PcOy) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Me](https://open.spotify.com/album/31mSLNzuht2DJbhiOzQa9o) | 3:21 |
-| 78 | [Höstens Färger](https://open.spotify.com/track/5yGzgLyda3YWoH8IkqWa4D) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Höstens Färger](https://open.spotify.com/album/66ok1nFBZt6soIAww5X59F) | 3:30 |
+| 78 | [Höstens Färger](https://open.spotify.com/track/2IEnciELvWqja3WWzld89F) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [En Är För Mycket och Tusen Aldrig Nog](https://open.spotify.com/album/4g1OnRFT1Lo8uPbq1j53IZ) | 3:30 |
 | 79 | [Fasta klippa](https://open.spotify.com/track/299Dp2WtEiTPLUV3owgf4i) | [Pugh Rogefeldt](https://open.spotify.com/artist/22Wo43V44RtrpJZsjeI9EA) | [Fasta klippa](https://open.spotify.com/album/55u8i2qYxuNWoMUh4U0RJ7) | 3:39 |
 | 80 | [One Step Forward One Step Back](https://open.spotify.com/track/5IfppKf3iQZpcIrJ9IMqb4) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ) | [One Step Forward One Step Back](https://open.spotify.com/album/3GBMoEqYWur0B18AB6wD3B) | 3:38 |
 | 81 | [Afraid to be Loved](https://open.spotify.com/track/4G25xUhUF0SbIHcPA7JkjG) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [Afraid to be Loved](https://open.spotify.com/album/2rzHSVny2uANrTUT6fhOBH) | 1:59 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 106 | [Annah \(jag ska följa dig\)](https://open.spotify.com/track/3K01FB1LcATfzPdNDRERnO) | [Broder Henrik Rapp](https://open.spotify.com/artist/0z0GxlztUceFk4AezQcF3Y) | [Det som söndrar](https://open.spotify.com/album/1BvFaCeIyZSASttFl3aq5g) | 3:45 |
 | 107 | [Do The Dance](https://open.spotify.com/track/7KH8IMHpgrWV1Hi8sRoa4m) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Do The Dance](https://open.spotify.com/album/1zO5VoC7hYn3Tm1kIcvsWd) | 3:14 |
 
-Snapshot ID: `MTY2NTE1MjU4MiwwMDAwMDAwMDU1ZWFkODYwYzI1ZTUxNmI0MjA3YmJlNmVjMDE0NDQy`
+Snapshot ID: `MTY2NTE1MjU4MiwwMDAwMDAwMDJkYzFjY2FmMjkwYWI4ZGEwZDQ2ZTY5MmRhNGEyNzY3`

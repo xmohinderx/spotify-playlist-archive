@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-117 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+119 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Meshnada](https://open.spotify.com/track/4CvohkP6MgXHZtvDDQqnL2) | [VENTILATEUR](https://open.spotify.com/artist/1ysLLF8knGo0MnhPn1bDaf) | [Meshnada](https://open.spotify.com/album/4cdXg1ezUqgqO7gAgCJnuh) | 5:09 | 2022-09-08 |  |
 | [Monkey Burns Lab](https://open.spotify.com/track/09wFS50QSqlwF8YvKvdxVO) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Breakout](https://open.spotify.com/album/4223UDnLtfRY2w6JQzi2Dg) | 5:19 | 2022-09-08 |  |
 | [Moody Soft](https://open.spotify.com/track/4sCso2tE97IQYQDxO6sGfl) | [Libertino Live Band](https://open.spotify.com/artist/4dob1Ok3CLKjDWKBv3lpi9) | [Moody](https://open.spotify.com/album/4myf8khR0BLCRzksEq5plK) | 3:56 | 2022-09-08 |  |
-| [Mumpsimus](https://open.spotify.com/track/3vDDo27qTtttNNYc2WICKp) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:21 | 2022-09-15 |  |
+| [Mumpsimus](https://open.spotify.com/track/1jv1v75OhCe82Xtulem3h3) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:21 | 2022-10-07 |  |
+| [Mumpsimus](https://open.spotify.com/track/3vDDo27qTtttNNYc2WICKp) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:21 | 2022-09-15 | 2022-10-09 |
 | [Mumpsimus](https://open.spotify.com/track/7rtqxc9XHdKMuXtMx5pE4E) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Mumpsimus](https://open.spotify.com/album/522FzSPIqNqXVxhr7A3MmK) | 4:21 | 2022-09-08 | 2022-09-26 |
 | [Murmur](https://open.spotify.com/track/5df3MATNvijZnmPik9Kbb9) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc), [Murat Ertel](https://open.spotify.com/artist/0xL4lPu0avBlTeNCXUA5B5), [Esma Ertel](https://open.spotify.com/artist/7vE5ljGnXMDMHrdAIhJIuQ) | [Simurg](https://open.spotify.com/album/1NmwJIHYJzfmgGi7XcdtKQ) | 5:07 | 2022-09-08 |  |
 | [Nebula](https://open.spotify.com/track/3KAlACCWFTqhqYSDCt3ReO) | [Alex Koo](https://open.spotify.com/artist/1sR6UagoDJiGkAjTmMITg0), [Attila Gyárfás](https://open.spotify.com/artist/2evqpNR4DDSHiUxGMokRJI), [Ralph Alessi](https://open.spotify.com/artist/2yHcAgHAPUdUhVuiIWWcba) | [Nebula](https://open.spotify.com/album/2MJS0DePEXAG9WXJhAsmzC) | 5:45 | 2022-09-08 |  |
@@ -98,7 +99,8 @@
 | [Rake](https://open.spotify.com/track/4Zg32wHgWeBMfuuxNEBJea) | [Bert Dockx](https://open.spotify.com/artist/0nD5LTV5BZ6Dl7BbjGpHv1) | [Transit](https://open.spotify.com/album/58J5Tg7SnhkUcJsweg8xE0) | 6:13 | 2022-09-08 |  |
 | [Reflet](https://open.spotify.com/track/7bTgbkJmcJ11R0yqVC8qFg) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/3rCk8CngEX5UIxpWgh4WgI) | 5:42 | 2022-09-08 | 2022-09-25 |
 | [Reflet](https://open.spotify.com/track/7tNYzBbufvOtKyRcw0vPqd) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 5:42 | 2022-09-15 |  |
-| [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 | 2022-09-15 |  |
+| [Reminiscence](https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:28 | 2022-10-07 |  |
+| [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 | 2022-09-15 | 2022-10-09 |
 | [Rhymes On Our Mind](https://open.spotify.com/track/4Ry0Lk8vLR3avAZpYbw6tp) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Gulliver](https://open.spotify.com/album/6gMzMxSQ5zwlOtlfuEFo5h) | 5:59 | 2022-09-15 |  |
 | [Rhymes On Our Mind](https://open.spotify.com/track/6EJUuDETlcuLn76NNLc3Ey) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Rhymes On Our Mind](https://open.spotify.com/album/0rpq83kd4ptF8dTyBHu39b) | 5:59 | 2022-09-08 | 2022-09-25 |
 | [Rostfrei](https://open.spotify.com/track/6hmuL1lUUd10z0SxMANUO1) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Klein Gevaarlijk Afval](https://open.spotify.com/album/3Mbm4tvDYbzC9FzaQ340LZ) | 2:31 | 2022-09-08 |  |

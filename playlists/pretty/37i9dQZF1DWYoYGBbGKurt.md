@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,568 likes - 516 songs - 20 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,828 likes - 516 songs - 20 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,7 +174,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 164 | [Rouge](https://open.spotify.com/track/1lN2jh8QRVL6GGABvu1r85) | [lil frenchie](https://open.spotify.com/artist/1VomLPCcUmzUWELhpgxHZ1), [KASE](https://open.spotify.com/artist/6iI4o333BU6MmImw2N1NJs) | [Rouge](https://open.spotify.com/album/67gIgw57mXwZ6MyGuS3f8S) | 2:33 |
 | 165 | [Not Yet](https://open.spotify.com/track/4m1NVJidXSrWzHlmU2jZ3q) | [Aphrow](https://open.spotify.com/artist/5r6e4n1Ux36kMlRJSqeMPr), [Lonesome Flatpicker](https://open.spotify.com/artist/3BNqADxDEtOTBx2lXCkBau) | [Not Yet](https://open.spotify.com/album/5C45OcqrVqsVky9hPovdff) | 3:00 |
 | 166 | [delta dawn](https://open.spotify.com/track/4p6oXrDJ3bohCgq7Wx0SrY) | [majic](https://open.spotify.com/artist/5sNthmyXtGakNigg1xxlMS) | [delta dawn](https://open.spotify.com/album/1T90Hqsk11EObyb5CLonMW) | 1:42 |
-| 167 | [A Chilly Walk](https://open.spotify.com/track/3cXIoOfLcBrZBQeK6EAbkW) | [KioKo](https://open.spotify.com/artist/1QCUosyjrXG8kXxVpnSRgi) | [A Chilly Walk](https://open.spotify.com/album/5skJKE3FVI3pIIBLjJdXEx) | 2:39 |
+| 167 | [A Chilly Walk](https://open.spotify.com/track/3cXIoOfLcBrZBQeK6EAbkW) | [KioKo](https://open.spotify.com/artist/56ajbmmFp29sfSCaMcQ2Z0) | [A Chilly Walk](https://open.spotify.com/album/5skJKE3FVI3pIIBLjJdXEx) | 2:39 |
 | 168 | [Light Speed](https://open.spotify.com/track/7o2WbIZGxzMNFDHfKzwZzI) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Light Speed](https://open.spotify.com/album/64js7ISZsF7N9wjSAHVYon) | 2:29 |
 | 169 | [When The Munchies Kick In](https://open.spotify.com/track/0wzGAPcom8TszabAP0HeXL) | [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj) | [Chillin' On My Couch](https://open.spotify.com/album/6ioC4jqTkMXCi4IO68sEdu) | 2:18 |
 | 170 | [Microland](https://open.spotify.com/track/5dV3ZhlZgTGeMW6NyGUtVK) | [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV), [Ultramarinblau](https://open.spotify.com/artist/0ZzVsShp5a93vikX006voH) | [Microland](https://open.spotify.com/album/1UW9nrQFux33xKvnJF0uu4) | 1:55 |

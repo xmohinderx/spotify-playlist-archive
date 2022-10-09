@@ -1,12 +1,12 @@
 {
   "description": "2013 highlights from the home of indie music.",
-  "num_followers": 39207,
+  "num_followers": 39296,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ1MiwwMDAwMDAwMDA0ZmM2OTRkMmZkOWUxOGZhMDgwODQyN2JlM2I3ZTY0",
+  "snapshot_id": "MTY1MDkxNjQ1MiwwMDAwMDAwMDMzNWZkMDNlY2Q4NmQ5Nzg4OGY2MmI2ZGI1ZmNkOWZi",
   "tracks": [
     {
       "added_at": "2021-09-02 08:24:19",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Cupid Deluxe",
-        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "You're Not Good Enough",
-      "url": "https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 274200,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Cupid Deluxe",
+        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "You're Not Good Enough",
+      "url": "https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Melophobia",
-        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "Take It or Leave It",
-      "url": "https://open.spotify.com/track/43O3Iu8mDJy10i6k8SVRXX"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Dear Miss Lonelyhearts",
         "url": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 180133,
       "name": "Miracle Mile",
       "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "Take It or Leave It",
+      "url": "https://open.spotify.com/track/43O3Iu8mDJy10i6k8SVRXX"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "Atomic Man",
-      "url": "https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Thr!!!er",
         "url": "https://open.spotify.com/album/3ywERU9rVKEpCQE50fQOgM"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 227066,
       "name": "Even When The Water's Cold",
       "url": "https://open.spotify.com/track/2UjEyfnKzaY7qpBEeESJjv"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "Atomic Man",
+      "url": "https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X"
     },
     {
       "added_at": "2021-09-02 08:24:19",

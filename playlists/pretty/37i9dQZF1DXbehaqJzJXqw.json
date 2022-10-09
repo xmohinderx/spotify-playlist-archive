@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 175843,
+  "num_followers": 176924,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzMDkxNCwwMDAwMDAwMDUzNmM0NjZjNjU2YTkyYWY0MzVhZGM2ZGJkMWM4YTBj",
+  "snapshot_id": "MTY2NTEzMDkxNCwwMDAwMDAwMGZjNDM1ZmU0NjVmZGU2OTM4ZmIyOTZmNTE1M2Y0MzU3",
   "tracks": [
     {
       "added_at": "2022-10-07 08:21:54",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-10-07 08:21:54",
       "album": {
+        "name": "Le premier bonheur du jour (Remastered)",
+        "url": "https://open.spotify.com/album/1FkZQWdx8y9ZeaBZwHA6iR"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 110588,
+      "name": "Le premier bonheur du jour - Remastered",
+      "url": "https://open.spotify.com/track/69b0LLpQ926WY9blYcJAKb"
+    },
+    {
+      "added_at": "2022-10-07 08:21:54",
+      "album": {
         "name": "Trenet",
         "url": "https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 174773,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
-    },
-    {
-      "added_at": "2022-10-07 08:21:54",
-      "album": {
-        "name": "Le premier bonheur du jour (Remastered)",
-        "url": "https://open.spotify.com/album/1FkZQWdx8y9ZeaBZwHA6iR"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 110588,
-      "name": "Le premier bonheur du jour - Remastered",
-      "url": "https://open.spotify.com/track/69b0LLpQ926WY9blYcJAKb"
     },
     {
       "added_at": "2022-10-07 08:21:54",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-07 08:21:54",
       "album": {
-        "name": "Chante Prevert",
-        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Les feuilles mortes",
-      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
-    },
-    {
-      "added_at": "2022-10-07 08:21:54",
-      "album": {
         "name": "My Gentleman Friend",
         "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 247666,
       "name": "On N'a Pas Besoin",
       "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
+    },
+    {
+      "added_at": "2022-10-07 08:21:54",
+      "album": {
+        "name": "Chante Prevert",
+        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Les feuilles mortes",
+      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
     },
     {
       "added_at": "2022-10-07 08:21:54",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-10-07 08:21:54",
       "album": {
-        "name": "10 chansons pour l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
+        "name": "Motifs",
+        "url": "https://open.spotify.com/album/6pVrBCOoISxJxv5BQoaYe0"
       },
       "artists": [
         {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
         }
       ],
-      "duration_ms": 169143,
-      "name": "Quand on s'balade",
-      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
+      "duration_ms": 210560,
+      "name": "High Low In",
+      "url": "https://open.spotify.com/track/6LAIuS6A5qBqFP41FEQnsY"
     },
     {
       "added_at": "2022-10-07 08:21:54",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-10-07 08:21:54",
       "album": {
-        "name": "Motifs",
-        "url": "https://open.spotify.com/album/6pVrBCOoISxJxv5BQoaYe0"
+        "name": "10 chansons pour l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
       },
       "artists": [
         {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
         }
       ],
-      "duration_ms": 210560,
-      "name": "High Low In",
-      "url": "https://open.spotify.com/track/6LAIuS6A5qBqFP41FEQnsY"
+      "duration_ms": 169143,
+      "name": "Quand on s'balade",
+      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
     },
     {
       "added_at": "2022-10-07 08:21:54",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-10-07 08:21:54",
       "album": {
+        "name": "De La Chanson Et Puis C'Est Tout...",
+        "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
+      },
+      "artists": [
+        {
+          "name": "Makali",
+          "url": "https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "Il Faut Du Temps Au Temps",
+      "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
+    },
+    {
+      "added_at": "2022-10-07 08:21:54",
+      "album": {
         "name": "Soir\u00e9e",
         "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 146306,
       "name": "Baudelaire",
       "url": "https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT"
-    },
-    {
-      "added_at": "2022-10-07 08:21:54",
-      "album": {
-        "name": "De La Chanson Et Puis C'Est Tout...",
-        "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
-      },
-      "artists": [
-        {
-          "name": "Makali",
-          "url": "https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "Il Faut Du Temps Au Temps",
-      "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
     },
     {
       "added_at": "2022-10-07 08:21:54",
@@ -1363,22 +1363,18 @@
     {
       "added_at": "2022-10-07 08:21:54",
       "album": {
-        "name": "Chante Vian et Higelin",
-        "url": "https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy"
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
       "artists": [
         {
-          "name": "Jacques Higelin",
-          "url": "https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum"
-        },
-        {
-          "name": "Brigitte Fontaine",
-          "url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 141306,
-      "name": "La Grippe",
-      "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
+      "duration_ms": 134693,
+      "name": "Ces Petits Riens",
+      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
     },
     {
       "added_at": "2022-10-07 08:21:54",
@@ -1399,22 +1395,6 @@
     {
       "added_at": "2022-10-07 08:21:54",
       "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "Ces Petits Riens",
-      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
-    },
-    {
-      "added_at": "2022-10-07 08:21:54",
-      "album": {
         "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
         "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 193586,
       "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
       "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
+    },
+    {
+      "added_at": "2022-10-07 08:21:54",
+      "album": {
+        "name": "Chante Vian et Higelin",
+        "url": "https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy"
+      },
+      "artists": [
+        {
+          "name": "Jacques Higelin",
+          "url": "https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum"
+        },
+        {
+          "name": "Brigitte Fontaine",
+          "url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
+        }
+      ],
+      "duration_ms": 141306,
+      "name": "La Grippe",
+      "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
     },
     {
       "added_at": "2022-10-07 08:21:54",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-10-07 08:21:54",
       "album": {
-        "name": "Quelqu'un m'a dit",
-        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "Chanson triste",
-      "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
-    },
-    {
-      "added_at": "2022-10-07 08:21:54",
-      "album": {
         "name": "Paris Blues",
         "url": "https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 222840,
       "name": "Nuages - Studio recording",
       "url": "https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM"
+    },
+    {
+      "added_at": "2022-10-07 08:21:54",
+      "album": {
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
     },
     {
       "added_at": "2022-10-07 08:21:54",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-10-07 08:21:54",
       "album": {
-        "name": "Chambre Avec Vue",
-        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 234066,
-      "name": "Aime moi",
-      "url": "https://open.spotify.com/track/2reLiqBW2EfejTe7OixGmT"
-    },
-    {
-      "added_at": "2022-10-07 08:21:54",
-      "album": {
         "name": "Dans la peau",
         "url": "https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 132280,
       "name": "Brigitte dit vrai",
       "url": "https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3"
+    },
+    {
+      "added_at": "2022-10-07 08:21:54",
+      "album": {
+        "name": "Chambre Avec Vue",
+        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 234066,
+      "name": "Aime moi",
+      "url": "https://open.spotify.com/track/2reLiqBW2EfejTe7OixGmT"
     },
     {
       "added_at": "2022-10-07 08:21:54",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2022-10-07 08:21:54",
       "album": {
-        "name": "Quelqu'un m'a dit",
-        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+        "name": "Les deux guitares",
+        "url": "https://open.spotify.com/album/6boO8YNFqiJfu8IQUDCKAC"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 242120,
-      "name": "La noy\u00e9e",
-      "url": "https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene"
+      "duration_ms": 221413,
+      "name": "Tu t'laisses aller",
+      "url": "https://open.spotify.com/track/1zv0wKzFiSguxypzw67DgN"
     }
   ],
   "unique_name": "French Jazz Caf\u00e9",

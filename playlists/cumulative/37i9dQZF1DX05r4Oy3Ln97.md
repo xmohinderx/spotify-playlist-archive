@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-193 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/6NDzsmnIYKIFzcUbiNvjdZ)
+194 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/6NDzsmnIYKIFzcUbiNvjdZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [High Tide](https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Dream Dimension](https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ) | 3:40 | 2022-05-26 |  |
 | [Higher](https://open.spotify.com/track/49AmxcPnsET8xC6vJWSsbo) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Higher](https://open.spotify.com/album/4x3pCrvcEGfyminaEhY9uQ) | 2:58 | 2021-10-29 | 2022-03-26 |
 | [Hit Me Up](https://open.spotify.com/track/2TG5LZkJS71E4ps1MbwmZU) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Hit Me Up](https://open.spotify.com/album/0HRiQafCjGq8QXF3snhiI1) | 3:06 | 2021-10-29 | 2022-07-24 |
+| [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 | 2022-09-30 |  |
 | [Hold U \(feat\. James Tone\)](https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [James Tone](https://open.spotify.com/artist/5s5zRZUXDZnNcqVdWlHDkC) | [Hold U \(feat\. James Tone\)](https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB) | 3:28 | 2022-04-08 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5) | [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Home](https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR) | 3:45 | 2022-09-09 |  |
 | [Human](https://open.spotify.com/track/4TpPSDtJGuD51E66sWrxmd) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Human](https://open.spotify.com/album/7kvzygcfZ2c2ndMxhi92uo) | 2:25 | 2021-10-29 |  |
@@ -119,7 +120,7 @@
 | [Midnight Waves](https://open.spotify.com/track/6C9ZOJVzjZAQ9Hk7URLRqO) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Papaya Island](https://open.spotify.com/album/7y8NL266HSryni6nAYmdHK) | 4:49 | 2021-10-29 | 2022-01-22 |
 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 | 2021-10-29 |  |
 | [Money](https://open.spotify.com/track/43XjZ7NUKfht6cv1hGdXKW) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Money](https://open.spotify.com/album/73mea9eTMTIvs9EVuQGKz7) | 2:58 | 2022-05-26 | 2022-07-22 |
-| [Money Trees](https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Money Trees](https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP) | 2:46 | 2022-04-29 |  |
+| [Money Trees](https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Money Trees](https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP) | 2:46 | 2022-04-29 | 2022-10-09 |
 | [Moonlight](https://open.spotify.com/track/5ycuH4IVcbiubxosObIPhw) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Moonlight](https://open.spotify.com/album/4GU0ggvEBJ6RuoSjNuFM3l) | 2:07 | 2022-07-01 |  |
 | [Mount Fuji](https://open.spotify.com/track/358JLcp3eGCfjlCvzoK00w) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Mount Fuji](https://open.spotify.com/album/6fHyZw6fyIM27wXqStn0sI) | 2:39 | 2021-10-29 | 2022-06-03 |
 | [My Alibi](https://open.spotify.com/track/7qouDrj5jN3SuW8QwRpZad) | [Nervz](https://open.spotify.com/artist/3EaSGNhCzrL0bAnlgwAfQj), [Alex Bleiziffer](https://open.spotify.com/artist/4m4oCILPIc9FPM01PcsE5J), [Hoop Records](https://open.spotify.com/artist/47Ad2VIyZw89AWmkM9QtSc) | [My Alibi](https://open.spotify.com/album/0GI1UvUaqBHYxqN2tljV53) | 3:44 | 2021-10-29 | 2022-04-21 |

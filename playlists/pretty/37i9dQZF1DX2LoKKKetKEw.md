@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,826 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,048 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 28 | [Lay Low](https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Lay Low](https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd) | 2:54 |
 | 29 | [Unguilty Pleasure](https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Unguilty Pleasure](https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0) | 3:13 |
 | 30 | [Akorede](https://open.spotify.com/track/6nNnOZRV4X5rxMMivAItDp) | [TB1](https://open.spotify.com/artist/79nV5xcc87fTQ2T527OqAG), [Kelly Lyon](https://open.spotify.com/artist/4ifitpTpp7bzrEyxkHuFmj), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Akorede](https://open.spotify.com/album/60OHPdjGHgbHZBwBQVnlyE) | 4:00 |
-| 31 | [Ike](https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ike](https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU) | 3:49 |
-| 32 | [GOD'S LOVE](https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [GOD'S LOVE](https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP) | 2:17 |
+| 31 | [GOD'S LOVE](https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [GOD'S LOVE](https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP) | 2:17 |
+| 32 | [Ike](https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ike](https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU) | 3:49 |
 | 33 | [Still Blessed](https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Nathanael](https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs) | [Still Blessed](https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt) | 2:55 |
 | 34 | [On God](https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [On God](https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0) | 3:44 |
 | 35 | [Pepper Dem](https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Pepper Dem](https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW) | 2:48 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 54 | [No Stress](https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z) | [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn), [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl) | [No Stress](https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL) | 3:20 |
 | 55 | [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 |
 
-Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMGFmOTk4OWYzYWJkZTJhODY1YWVmMDFjM2IzZmQ5NDZi`
+Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMDExOWI1NTk5ZWZhMTFjMjAzOWFmMTVjYjU5NDcwNGZh`

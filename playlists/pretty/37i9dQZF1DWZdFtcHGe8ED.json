@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Slayer",
-  "num_followers": 476916,
+  "num_followers": 477121,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDkzMWI4YWY5YzZjNWZmNzg4MDc1OTRjZDlmMjE3YTg1",
+  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDU5MWFlN2JmNWEwMzhmZTYzMmRjYjQ1YjVhODAxYjVm",
   "tracks": [
     {
       "added_at": "2022-09-09 13:00:00",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
     },
     {
-      "added_at": "2022-10-08 01:24:15",
+      "added_at": "2022-10-09 19:59:46",
       "album": {
         "name": "Seven Words",
         "url": "https://open.spotify.com/album/0K1aAagoaaplNXP2vHRSkM"
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Point Of No Return EP",
-        "url": "https://open.spotify.com/album/6diYp1uiFuHfCbbapfIC6y"
-      },
-      "artists": [
-        {
-          "name": "Havok",
-          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Point Of No Return",
-      "url": "https://open.spotify.com/track/5YJILvImepN7U7Vonz2VkB"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Untouchable Glory",
         "url": "https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 166929,
       "name": "Ninja Untouchables/Untouchable Glory",
       "url": "https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Point Of No Return EP",
+        "url": "https://open.spotify.com/album/6diYp1uiFuHfCbbapfIC6y"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/5YJILvImepN7U7Vonz2VkB"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Woe to the Vanquished",
-        "url": "https://open.spotify.com/album/5cs1TbegYyGYlQyeN12ErL"
-      },
-      "artists": [
-        {
-          "name": "Warbringer",
-          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Remain Violent",
-      "url": "https://open.spotify.com/track/2CXrH4eUWhusFmDk3PWpKX"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Thrash Zone",
         "url": "https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
+        "name": "Woe to the Vanquished",
+        "url": "https://open.spotify.com/album/5cs1TbegYyGYlQyeN12ErL"
+      },
+      "artists": [
+        {
+          "name": "Warbringer",
+          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Remain Violent",
+      "url": "https://open.spotify.com/track/2CXrH4eUWhusFmDk3PWpKX"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 250723,
       "name": "Soul Sacrifice",
       "url": "https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Speed Between the Lines",
+        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
+      },
+      "artists": [
+        {
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "666Teen",
+      "url": "https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -839,22 +855,6 @@
       "duration_ms": 392066,
       "name": "Night of the Witch",
       "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
-        "name": "Speed Between the Lines",
-        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
-      },
-      "artists": [
-        {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "666Teen",
-      "url": "https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "The New Order",
-        "url": "https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Into the Pit",
-      "url": "https://open.spotify.com/track/5bv551r1rJZxuJBVAuuW4w"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "No Absolution",
         "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 167800,
       "name": "Nuke The Cross",
       "url": "https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "The New Order",
+        "url": "https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Into the Pit",
+      "url": "https://open.spotify.com/track/5bv551r1rJZxuJBVAuuW4w"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Power And Pain",
-        "url": "https://open.spotify.com/album/3yMXMihmwUHEXHc8K3Q2Kq"
-      },
-      "artists": [
-        {
-          "name": "Whiplash",
-          "url": "https://open.spotify.com/artist/1VZpDV00MljTrkukEHFKqZ"
-        }
-      ],
-      "duration_ms": 210986,
-      "name": "Last Man Alive",
-      "url": "https://open.spotify.com/track/1Ks2UecuMS4C0XVjNhtz0w"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Heavy Metal Maniac",
         "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
+        "name": "Power And Pain",
+        "url": "https://open.spotify.com/album/3yMXMihmwUHEXHc8K3Q2Kq"
+      },
+      "artists": [
+        {
+          "name": "Whiplash",
+          "url": "https://open.spotify.com/artist/1VZpDV00MljTrkukEHFKqZ"
+        }
+      ],
+      "duration_ms": 210986,
+      "name": "Last Man Alive",
+      "url": "https://open.spotify.com/track/1Ks2UecuMS4C0XVjNhtz0w"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 202146,
       "name": "Sin",
       "url": "https://open.spotify.com/track/4bFwNDLo9IeqHQ0iqFEaUA"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
-        "name": "Forbidden Evil",
-        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
-      },
-      "artists": [
-        {
-          "name": "Forbidden",
-          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
-        }
-      ],
-      "duration_ms": 384853,
-      "name": "Through Eyes of Glass",
-      "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
+        "name": "Forbidden Evil",
+        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+      },
+      "artists": [
+        {
+          "name": "Forbidden",
+          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+        }
+      ],
+      "duration_ms": 384853,
+      "name": "Through Eyes of Glass",
+      "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
         "name": "Do-Over",
         "url": "https://open.spotify.com/album/1zndMZYyzhEbEVe4I9fB4D"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Eternal Nightmare",
-        "url": "https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH"
+        "name": "Speed Between the Lines",
+        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
       },
       "artists": [
         {
-          "name": "Vio-Lence",
-          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
         }
       ],
-      "duration_ms": 370400,
-      "name": "Eternal Nightmare",
-      "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
+      "duration_ms": 230560,
+      "name": "Give Me Leather",
+      "url": "https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Speed Between the Lines",
-        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
+        "name": "Eternal Nightmare",
+        "url": "https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH"
       },
       "artists": [
         {
-          "name": "Gama Bomb",
-          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
+          "name": "Vio-Lence",
+          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
         }
       ],
-      "duration_ms": 230560,
-      "name": "Give Me Leather",
-      "url": "https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8"
+      "duration_ms": 370400,
+      "name": "Eternal Nightmare",
+      "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Chemical Exposure",
-        "url": "https://open.spotify.com/album/7pWX1741ZblBq93ZAEPLQT"
-      },
-      "artists": [
-        {
-          "name": "Sadus",
-          "url": "https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "Certain Death",
-      "url": "https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Generation Antichrist",
         "url": "https://open.spotify.com/album/6cXwP33CAtgEZ83syWTrWj"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 278400,
       "name": "Strike Fast Strike Hard",
       "url": "https://open.spotify.com/track/0h6sUQTO9bDmM8AdAiKxfG"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Chemical Exposure",
+        "url": "https://open.spotify.com/album/7pWX1741ZblBq93ZAEPLQT"
+      },
+      "artists": [
+        {
+          "name": "Sadus",
+          "url": "https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu"
+        }
+      ],
+      "duration_ms": 254826,
+      "name": "Certain Death",
+      "url": "https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Ignorance & Surf Nicaragua",
-        "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
+        "name": "Perpetual Chaos",
+        "url": "https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY"
       },
       "artists": [
         {
-          "name": "Sacred Reich",
-          "url": "https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH"
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
         }
       ],
-      "duration_ms": 264506,
-      "name": "Death Squad",
-      "url": "https://open.spotify.com/track/6HxVWqnbWUiKimNRPz1K8l"
+      "duration_ms": 219242,
+      "name": "Perpetual Chaos",
+      "url": "https://open.spotify.com/track/0twaN8lzgWZVbBBBWJsEkh"
     }
   ],
   "unique_name": "Thrashers",

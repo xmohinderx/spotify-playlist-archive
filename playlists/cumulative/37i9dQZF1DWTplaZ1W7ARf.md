@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: Lil Tjay
 
-139 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
+140 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Benz Truck](https://open.spotify.com/track/1hiyJ4CYoH3Cve19V7ZYoa) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Benz Truck](https://open.spotify.com/album/4U6veERIAILg0hKBck8R2x) | 3:06 | 2022-06-10 |  |
 | [Best End](https://open.spotify.com/track/2y7qBvh9NqMRdQrLICIsiC) | [Lul Bob](https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj) | [Best End](https://open.spotify.com/album/2QLjvhGJ9p8ZspwhhOYj8v) | 2:25 | 2022-02-18 | 2022-08-27 |
 | [Bigger Jeans \(feat\. NoCap\)](https://open.spotify.com/track/0B3iyAwE81D2weW8MrwE7h) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Family & Mula](https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa) | 4:09 | 2022-10-07 |  |
-| [Blood Boy](https://open.spotify.com/track/3Mk9L0W0T3ubitZjaYOC8w) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Blood Boy](https://open.spotify.com/album/0hnSyql4qfnASDuxO58g2p) | 2:26 | 2022-08-05 |  |
+| [Blood Boy](https://open.spotify.com/track/3Mk9L0W0T3ubitZjaYOC8w) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Blood Boy](https://open.spotify.com/album/0hnSyql4qfnASDuxO58g2p) | 2:26 | 2022-08-05 | 2022-10-09 |
+| [Blood Boy](https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:29 | 2022-08-05 |  |
 | [Blues \(feat\. Future\)](https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blues](https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2) | 2:25 | 2022-09-16 |  |
 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 | 2022-05-06 |  |
 | [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 | 2022-08-26 | 2022-09-10 |

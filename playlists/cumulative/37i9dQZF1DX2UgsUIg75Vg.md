@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Amaria
 
-447 songs - 1 day 1 hr 51 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
+448 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [ANGEL](https://open.spotify.com/track/4mgSk2zxeT03FLtSlnzxwt) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:39 | 2022-07-08 |  |
 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 | 2022-09-09 |  |
 | [Anxiety \(Burlinda’s Theme\)](https://open.spotify.com/track/1fEkrXY5RLeVZ7kMDzGUVb) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 4:05 | 2022-01-24 | 2022-07-09 |
+| [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/0wKCjEaixgpLA20mMEi2px) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 | 2022-10-08 |  |
 | [At Least We Tried](https://open.spotify.com/track/6vykq1FmiHr7e5CPyPyHX4) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:32 | 2022-07-08 |  |
 | [At Your Worst](https://open.spotify.com/track/48Y7zjtKY22gn9xRWnaiDh) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 3:26 | 2021-07-10 | 2022-03-12 |
 | [Automatic](https://open.spotify.com/track/5z9SJ1K7B7cSlnmNp3DMjV) | [The Bonfyre](https://open.spotify.com/artist/4oIGrMYn1N1xPNYVXcaEZJ) | [Ready To Love](https://open.spotify.com/album/5Kmuhk7kKQkobguAK3VyLf) | 2:37 | 2019-07-10\* | 2019-07-13 |

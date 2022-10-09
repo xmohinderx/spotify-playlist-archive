@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Yahritza Y Su Esencia & Ivan Cornejo.
 
-2,459 songs - 5 day 10 hr 21 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,460 songs - 5 day 10 hr 25 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1876,7 +1876,8 @@
 | [Rebelde](https://open.spotify.com/track/1WR8dDGCMnFYVfdVdGEAAT) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Rockea Bien Duro](https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN) | 3:38 | 2022-08-19 | 2022-08-27 |
 | [Recuerdos](https://open.spotify.com/track/7vCLgLfLpkdGPS1WWcZ68b) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF) | [Recuerdos](https://open.spotify.com/album/4mijeewc6g2Lo7jGnFCRAx) | 3:11 | 2022-03-04 | 2022-03-12 |
 | [Recuerdos](https://open.spotify.com/track/6O2d7tBZq2CMyNXVuwmvpM) | [Yoryi One](https://open.spotify.com/artist/5zs1gJhToaxfV8pEmeIKqX), [Zaeed](https://open.spotify.com/artist/6oKe9ykerZRf9ghCORfjbQ) | [Esto es Música para el Mundo](https://open.spotify.com/album/7mFSAGhh93NvztMVDKq4q8) | 3:05 | 2022-05-27 | 2022-06-04 |
-| [Recuerdos Desechables](https://open.spotify.com/track/6KaUMpDH30LNmBhiLcMUtC) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/4uUZcwxBslFK0F4gT7fDcf) | 3:30 | 2022-10-07 |  |
+| [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 | 2022-10-07 |  |
+| [Recuerdos Desechables](https://open.spotify.com/track/6KaUMpDH30LNmBhiLcMUtC) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/4uUZcwxBslFK0F4gT7fDcf) | 3:30 | 2022-10-07 | 2022-10-09 |
 | [Recuerdos Que Torturan](https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Recuerdos Que Torturan](https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L) | 3:30 | 2022-04-29 | 2022-05-07 |
 | [red lights](https://open.spotify.com/track/6W1cbc5OckeWNreDCpKBsM) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [red lights](https://open.spotify.com/album/3GdyNso28AiWmDgaoBDads) | 2:50 | 2022-08-05 | 2022-08-13 |
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2022-03-25 | 2022-04-02 |
@@ -2224,7 +2225,7 @@
 | [too good to be true](https://open.spotify.com/track/4DtPemed93VqdvI0mTw9VG) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [too good to be true](https://open.spotify.com/album/3GYLubZssZWahip1mUSzKR) | 2:32 | 2022-09-23 | 2022-10-01 |
 | [TOP MODEL](https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [TOP MODEL](https://open.spotify.com/album/78jgM3gvcgqdo6dJn42Fij) | 3:08 | 2021-12-24 | 2022-01-08 |
 | [Top Now \- Remix](https://open.spotify.com/track/5pg8n5K83tM320TKseOtI4) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Rvsell](https://open.spotify.com/artist/2xmDu3PEOUDICr2OpoKXUj), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Top Now \(Remix\)](https://open.spotify.com/album/7mKTboQGrtZDy1vDvr3VRc) | 3:53 | 2022-06-24 | 2022-07-02 |
-| [TORO](https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [TORO](https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2) | 4:14 | 2022-10-07 |  |
+| [TORO](https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Toro](https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2) | 4:14 | 2022-10-07 |  |
 | [Tos](https://open.spotify.com/track/5oE3AGKAGWNfTqOsYn4bHJ) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Tos](https://open.spotify.com/album/2JEquzUq4DFw2agD2Gj5zE) | 2:38 | 2022-03-04 | 2022-03-12 |
 | [Totua](https://open.spotify.com/track/1kyIayxUJgM46TA35E2bGw) | [Jodosky](https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua), [Chris Rowz](https://open.spotify.com/artist/7qktL2Rro5DbQ13FFD81TE) | [Totua](https://open.spotify.com/album/2hiwyZaXH4Y5eEwytCkcQT) | 3:08 | 2022-02-04 | 2022-02-12 |
 | [Toxic](https://open.spotify.com/track/0hNFItiR6gG6HggDP8yxyj) | [Lenay](https://open.spotify.com/artist/4NGQEs8rzLgKe5VbNqiV3D) | [Toxic](https://open.spotify.com/album/4M9iAW1b6ko9riHb1utBDD) | 2:41 | 2022-07-15 | 2022-07-23 |

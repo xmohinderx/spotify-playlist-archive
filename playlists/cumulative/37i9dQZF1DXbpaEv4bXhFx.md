@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-188 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
+189 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 | 2022-06-20 | 2022-07-29 |
 | [Blurred](https://open.spotify.com/track/0H165WAu4RXTmfImjSss1l) | [Halsoon](https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG) | [Blurred](https://open.spotify.com/album/4w1HNyFb86LwPEenptdChK) | 2:43 | 2022-06-29 | 2022-07-03 |
 | [broccoli](https://open.spotify.com/track/4yEVzCcmAnXteIXnxvJa2K) | [MC Sniper](https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74) | [broccoli](https://open.spotify.com/album/75YETlrUfCEA2CMyCaPfzZ) | 4:47 | 2022-06-20 | 2022-07-17 |
+| [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-09 |  |
 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 | 2022-07-08 |  |
 | [CHU EOG SOG EUI GEU DAI](https://open.spotify.com/track/6agkU1MMsm2EUMBk4zWM3A) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [\[Vol.132\] You Hee yul's Sketchbook With you : 85th Voice 'Sketchbook X Whee In'](https://open.spotify.com/album/22zuZZ7OXmFjh2WE9beLz8) | 3:46 | 2022-06-29 | 2022-07-25 |
 | [Chumbung Chumbung Symphony 첨벙첨벙 심포니](https://open.spotify.com/track/6Kjo9igXXhXSDWVn8fEXPm) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/6Ch8yUEj27zS31qWjlm7SJ) | 4:47 | 2022-07-04 | 2022-07-12 |
@@ -84,7 +85,7 @@
 | [Letter](https://open.spotify.com/track/0ITMEO0clDcUSmoYkf2JsI) | [th!nk](https://open.spotify.com/artist/6wkbcJFYb6g2k5nUsyu7t3) | [Letter](https://open.spotify.com/album/2UpSNHpmHjtNVuVVKYfuSF) | 3:46 | 2022-07-22 | 2022-07-28 |
 | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/track/1oeGqU7j0HEyK19gty0SUY) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4), [HENG](https://open.spotify.com/artist/2P47IsuTElx3uXm1vKWh2N) | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/album/5EIwnlCXNwajZpFC6o0tJ8) | 3:28 | 2022-06-20 | 2022-07-29 |
 | [Lonesome](https://open.spotify.com/track/0QSVJ6VrjlEY7iw6jOEnBv) | [zai.ro](https://open.spotify.com/artist/6HbvERy3ULYCot6g8Sp2ol) | [Lonesome](https://open.spotify.com/album/3Yz8zD0Uw4x3PfvCeLhAYC) | 4:51 | 2022-06-20 | 2022-07-28 |
-| [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 | 2022-07-04 |  |
+| [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 | 2022-07-04 | 2022-10-09 |
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-20 | 2022-07-29 |
 | [Love Each Other](https://open.spotify.com/track/1MAWAwi7CQDZyZuIsjgIa2) | [HAEDEUN](https://open.spotify.com/artist/2cWWliWQ6Ziim9v8RKK9SI) | [Love Each Other](https://open.spotify.com/album/2lugWah96q2znqUjsoZyb3) | 4:05 | 2022-06-29 | 2022-07-26 |
 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 | 2022-07-22 | 2022-08-14 |

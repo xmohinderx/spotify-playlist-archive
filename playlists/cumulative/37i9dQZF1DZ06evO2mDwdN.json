@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 167653,
       "name": "Blue Star",
       "url": "https://open.spotify.com/track/3BHoKIJfUJu4LVcToxObiA"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 218554,
       "name": "Cry Together - Live",
       "url": "https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 212000,
       "name": "For the Love of Money - Rerecorded",
       "url": "https://open.spotify.com/track/4sU1jX3muKTtgKC9ToDRPo"
@@ -466,6 +466,32 @@
     },
     {
       "album": {
+        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288693,
+      "name": "I Hope That We Can Be Together Soon - Live",
+      "url": "https://open.spotify.com/track/3lOtLeKb5DSyOROzldhUTz"
+    },
+    {
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -499,7 +525,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 322146,
       "name": "I Really Love You",
       "url": "https://open.spotify.com/track/4nr9biIV72ZDo4fWJADCBM"
@@ -773,7 +799,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 290613,
       "name": "It All Depends On You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3Hy8XnWjOEl4bjFmigA1Fr"
@@ -795,7 +821,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 326853,
       "name": "It's All Because of a Woman (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0xhrVgS6P9jXvi38FiTWFq"
@@ -905,7 +931,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 205780,
       "name": "Love Is Like A Baseball Game - Live",
       "url": "https://open.spotify.com/track/76oOHuxPuW0FZ1q0CbWsak"
@@ -941,7 +967,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 161986,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/6fjTzzc7pe2d60RIzEr0fG"
@@ -1223,7 +1249,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
@@ -1259,7 +1285,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 263360,
       "name": "This Is The Love",
       "url": "https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk"
@@ -1303,7 +1329,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 279426,
       "name": "To Be True (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"

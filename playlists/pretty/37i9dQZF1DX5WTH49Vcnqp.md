@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > If it's indie and it's hot, it's here\. Cover: LEISURE
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,399 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,472 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 96 | [Maybe I'm In Love With You \(feat\. Talib Kweli\)](https://open.spotify.com/track/4EooqGOIIQTCKnMRYiD5QX) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Maybe I'm In Love With You \(feat\. Talib Kweli\)](https://open.spotify.com/album/70go944oz7DxTvoVv7GnLs) | 3:28 |
 | 97 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 |
 | 98 | [Till The World's Awake](https://open.spotify.com/track/4hedQVjhX9bdo7DAUDWtex) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Till The World's Awake](https://open.spotify.com/album/0uR7oNjEFBRJPhvRbzufJP) | 3:28 |
-| 99 | [Medicine](https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts) | [J4](https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW) | [Medicine](https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP) | 3:13 |
+| 99 | [Medicine](https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts) | [J4eva](https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW) | [Medicine](https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP) | 3:13 |
 | 100 | [Country Club](https://open.spotify.com/track/6nqKsUL0Fd3BQsmQYbh8Zb) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Country Club](https://open.spotify.com/album/5ZcyqQiRVvPMbz6wSnPZY0) | 3:29 |
 | 101 | [Don't Wanna See You Down](https://open.spotify.com/track/0dRT0xytWgkjufsBxavQQH) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Don't Wanna See You Down](https://open.spotify.com/album/61apFO26VhHNA0RadiFgls) | 2:28 |
 

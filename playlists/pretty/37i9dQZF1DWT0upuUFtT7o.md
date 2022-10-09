@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Blondshell, Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,203 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,296 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 70 | [Sunscreen](https://open.spotify.com/track/2bMaGaVedzuLragkMjbPeS) | [Booshell](https://open.spotify.com/artist/1gFHHF3QyQxjbbKXV3qLu9), [Charm on the beat](https://open.spotify.com/artist/2PAputxnXRLw2RtF8MIrFD) | [Sunscreen](https://open.spotify.com/album/77OpzfBjErs49FzgegI6cZ) | 3:18 |
 | 71 | [Last Time](https://open.spotify.com/track/00xQAdsovq47HhsyPOdfi6) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [33](https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7) | 3:41 |
 | 72 | [Hey](https://open.spotify.com/track/7rBNJKnqq8m717RsTOsJQi) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Hey](https://open.spotify.com/album/4kiVwF4algaMfLFsqmM0SW) | 3:08 |
-| 73 | [Medicine](https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts) | [J4](https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW) | [Medicine](https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP) | 3:13 |
+| 73 | [Medicine](https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts) | [J4eva](https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW) | [Medicine](https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP) | 3:13 |
 | 74 | [Solo](https://open.spotify.com/track/0U3uS22zJwNgT8Zfj8qazh) | [Julian Julian](https://open.spotify.com/artist/2ybJ6LN0Flw0puQaTbOL9p) | [Solo](https://open.spotify.com/album/00H2kofTJ1dTuAsukAPGch) | 2:04 |
 | 75 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 |
 

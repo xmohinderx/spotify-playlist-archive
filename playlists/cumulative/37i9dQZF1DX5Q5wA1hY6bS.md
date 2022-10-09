@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-426 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
+427 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/1JBI629TZ4Y1b4kQkDesCo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Don't Let It Get You Down](https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza) | 3:20 | 2022-05-27 |  |
 | [Don't Let It Get You Down](https://open.spotify.com/track/72BlyfR0zO3NWcLZQ1ARcK) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/0y15X0ndhcjtGZQmr4apR6) | 3:20 | 2019-05-26\* | 2021-10-14 |
 | [Don't Say](https://open.spotify.com/track/2kCQe2koRNHNdOtOxyKhaO) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5H8Bt6wNnU0DvxVybUQI5k) | 3:21 | 2020-03-09 | 2022-07-29 |
-| [Don't Say](https://open.spotify.com/track/41bZyIzMjq7wx5JxJbc0Dl) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5zjEdsCxqIh5e3q3yPSbl3) | 3:24 | 2022-05-27 |  |
+| [Don't Say](https://open.spotify.com/track/41bZyIzMjq7wx5JxJbc0Dl) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5zjEdsCxqIh5e3q3yPSbl3) | 3:24 | 2022-05-27 | 2022-10-09 |
 | [Don't You Cry For Me](https://open.spotify.com/track/6fhEYtnORqxaEoxSrMH2bx) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Don't You Cry For Me](https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs) | 4:16 | 2019-05-26\* | 2019-12-25 |
 | [Dope Queen Blues](https://open.spotify.com/track/5FixijSOYM02IlrVTGm0Z8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Silences](https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3) | 3:06 | 2020-03-09 | 2020-09-05 |
 | [Dream Within a Dream](https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Dream Within a Dream](https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx) | 2:48 | 2020-03-09 | 2020-09-05 |
@@ -382,6 +382,7 @@
 | [Third of May / Ōdaigahara \- Edit](https://open.spotify.com/track/3Q3LbqfjDhWjmyYeirHfDe) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Third of May / Ōdaigahara \(Edit\)](https://open.spotify.com/album/4ch37agV9poERen5tOVHrb) | 4:02 | 2019-05-29 | 2019-10-26 |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/0s7rK6ZBik5I0t1gxSVQRg) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Thirteen Sad Farewells](https://open.spotify.com/album/57MGwnhweNo0KT82u4fdmK) | 2:45 | 2019-06-22 | 2021-02-04 |
 | [Thirteen Sad Farewells](https://open.spotify.com/track/4ddQlwDGMpXylyxbYvPRab) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/7h2UPCT7JKl8wFZZtZJtzE) | 2:45 | 2020-11-11 | 2022-04-21 |
+| [Thirteen Sad Farewells](https://open.spotify.com/track/4hcEsAXv3vAcUsRT4Tgd1H) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/3uphRkVItHVdeK9EVStwiM) | 2:45 | 2022-05-27 |  |
 | [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 | 2022-05-27 |  |
 | [Thirty](https://open.spotify.com/track/4zP4mkNgtK75UsscbVsVyZ) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Thirty](https://open.spotify.com/album/4y3zrJympvQWVLfVGAe626) | 3:40 | 2020-03-09 | 2022-07-29 |
 | [Time Honored Tradition](https://open.spotify.com/track/4XqD2pfvBycih1dHLbW2rG) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 3:16 | 2020-03-09 | 2020-09-05 |

@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-4,563 songs - 9 day 22 hr 34 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
+4,564 songs - 9 day 22 hr 37 min - [published](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1876,7 +1876,8 @@
 | [Hög standard](https://open.spotify.com/track/2oI1UE2nDpG3HHH6mgNI2T) | [Frej Larsson](https://open.spotify.com/artist/3B2Q6VDxVx3WMP620Nk4GH), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [Hög standard](https://open.spotify.com/album/34jzgahrTBFdJ9lOQLaSso) | 2:38 | 2021-12-17 | 2021-12-24 |
 | [Höghusdrömmar](https://open.spotify.com/track/1LOeNFopjoNVYVpbKWjH2m) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Höghusdrömmar/070\-xxxx xxx](https://open.spotify.com/album/6LH0TF7elitnmWQ5n0znPb) | 2:23 | 2022-03-17 | 2022-03-25 |
 | [Hörnet](https://open.spotify.com/track/01uI9VO72RAcAQA8E01Qbq) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Hörnet](https://open.spotify.com/album/3b9yiYuzsFKgExHdHNmzpR) | 3:25 | 2022-03-04 | 2022-03-11 |
-| [Höstens Färger](https://open.spotify.com/track/5yGzgLyda3YWoH8IkqWa4D) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Höstens Färger](https://open.spotify.com/album/66ok1nFBZt6soIAww5X59F) | 3:30 | 2022-10-06 |  |
+| [Höstens Färger](https://open.spotify.com/track/2IEnciELvWqja3WWzld89F) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [En Är För Mycket och Tusen Aldrig Nog](https://open.spotify.com/album/4g1OnRFT1Lo8uPbq1j53IZ) | 3:30 | 2022-10-07 |  |
+| [Höstens Färger](https://open.spotify.com/track/5yGzgLyda3YWoH8IkqWa4D) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Höstens Färger](https://open.spotify.com/album/66ok1nFBZt6soIAww5X59F) | 3:30 | 2022-10-06 | 2022-10-09 |
 | [I Ain't No Miracle Worker](https://open.spotify.com/track/2Q3s6igTT6jjcXoabZtvH9) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Through The Eyes Of...](https://open.spotify.com/album/5p4mUlWV7fiPwRqQkKqMgg) | 3:24 | 2022-06-23 | 2022-07-01 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-12 | 2022-05-20 |
 | [I Am That Thirst](https://open.spotify.com/track/6haPL5fAuRJ25u2E9PQyQx) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [I Am That Thirst](https://open.spotify.com/album/7hw65PGHpBFnDcZRdT3VBr) | 4:40 | 2022-03-24 | 2022-04-01 |
@@ -3058,7 +3059,7 @@
 | [Pengar Bänga](https://open.spotify.com/track/0wZjEtjXpkoO3PGjCsvF3Y) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:07 | 2022-04-28 | 2022-05-06 |
 | [People \(with The Knocks\)](https://open.spotify.com/track/3ZTsdSVrRJCTOnuXHpHK0w) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 3:44 | 2022-03-17 | 2022-03-25 |
 | [People disappear here](https://open.spotify.com/track/7h5CR4nRDXUwuTKw66T5Nx) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH) | 4:07 | 2022-01-06 | 2022-01-14 |
-| [People Pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [People Pleaser / Sleep At Night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2022-10-06 |  |
+| [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2022-10-06 |  |
 | [Perfect](https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Perfect](https://open.spotify.com/album/6GNFZBEpeXZq5zMMIVzCmh) | 2:48 | 2022-02-03 | 2022-02-11 |
 | [Perfect](https://open.spotify.com/track/6sTehPCbnGG0AwlceuDlrZ) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Perfect](https://open.spotify.com/album/7dsiNxCveQ61JKtarwTM7L) | 2:19 | 2022-07-08 | 2022-07-15 |
 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-05-26 | 2022-06-03 |

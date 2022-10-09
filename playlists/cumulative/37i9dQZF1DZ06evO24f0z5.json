@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 198855,
       "name": "Amor",
       "url": "https://open.spotify.com/track/5wleH1Q7TtVP81uDoCztKd"
@@ -149,6 +149,24 @@
       "duration_ms": 205750,
       "name": "Cada quien",
       "url": "https://open.spotify.com/track/7rD8eGGIOy2G5yxWlmiQH3"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213453,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/4QrpejsTZZ17A9wbpct57e"
     },
     {
       "album": {
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 183103,
       "name": "Esa luz",
       "url": "https://open.spotify.com/track/7oybXXuWUzWRZ7SP9swASq"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 224597,
       "name": "Inconmensurable",
       "url": "https://open.spotify.com/track/42iZRiHTAXU0LFMzIgPLSc"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 218600,
       "name": "Me levante",
       "url": "https://open.spotify.com/track/7bx8WLFijf42bIDJ7jJQy6"

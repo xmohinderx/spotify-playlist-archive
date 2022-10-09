@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,472 likes - 510 songs - 19 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 992,956 likes - 510 songs - 19 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,7 +221,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 211 | [Parades](https://open.spotify.com/track/2ApTu6hFTnNI4OgspbovcK) | [Maxømøa](https://open.spotify.com/artist/2XfqCD3Rlv8LxJ0p05QNXa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [Parades](https://open.spotify.com/album/31LiiyocxjrRlfQS5jRoPx) | 2:17 |
 | 212 | [Open All Night](https://open.spotify.com/track/6Dt6AytHdXimlTCONkV95z) | [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF) | [Open All Night](https://open.spotify.com/album/1QcHc5DY3LS2MZNMhlgjCz) | 2:50 |
 | 213 | [Slow Down](https://open.spotify.com/track/152uFhDdcN9JZlD8B9S8rq) | [Max Wilman](https://open.spotify.com/artist/1Z6xW9vdFuGcaVhxLOGRTl) | [Slow Down](https://open.spotify.com/album/2J2b3QMHkQF5Ysm0fhE6rT) | 2:15 |
-| 214 | [Maya](https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ) | [Niña](https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2) | 2:02 |
+| 214 | [Maya](https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Niña](https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2) | 2:02 |
 | 215 | [Daydreaming](https://open.spotify.com/track/4EON13xU5v3CsQG6C5BZcO) | [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0), [Chiljalo](https://open.spotify.com/artist/5FshA6iHVcvQYwaPafaWjO) | [Daydreaming](https://open.spotify.com/album/7DbRuyDxuJTVIIUKvPFgb9) | 2:33 |
 | 216 | [Ricochet](https://open.spotify.com/track/3a5cfttZFZ20nfTvzZ462L) | [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Ricochet](https://open.spotify.com/album/6boX8DHQXaCfF1rF1ph4Bz) | 2:44 |
 | 217 | [walking in the light](https://open.spotify.com/track/2MKpYuTzUu89iDvK5tDwo0) | [SeraphRiTT](https://open.spotify.com/artist/7BgcmldrVrhfzD1w86FUXN), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [walking in the light](https://open.spotify.com/album/1jVXDPje9FR00uKMHDpV0n) | 2:02 |

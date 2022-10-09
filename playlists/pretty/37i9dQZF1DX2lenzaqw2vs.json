@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123888,
+  "num_followers": 123887,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDM3ZmZhN2VhYjc4ODI4YmQ0NjEyODgzYWVjZTkxMDZl",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDVjZjY2OTJiODhlZmQyMWU1MGI4NjY3MjQ2ZWNlYWU2",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "No Effort",
-        "url": "https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "No Effort",
-      "url": "https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 146786,
       "name": "En El Olvido",
       "url": "https://open.spotify.com/track/46j76ZoimljoNL55h26U70"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "No Effort",
+        "url": "https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "No Effort",
+      "url": "https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "D.I.V.A",
-        "url": "https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh"
-      },
-      "artists": [
-        {
-          "name": "La Divaza",
-          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "D.I.V.A",
-      "url": "https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 225879,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "D.I.V.A",
+        "url": "https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh"
+      },
+      "artists": [
+        {
+          "name": "La Divaza",
+          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "D.I.V.A",
+      "url": "https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2007,6 +2007,30 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "J\u00c1J\u00c1 \u00c9Q\u00da\u00cdSD\u00c9 (Distop\u00eda Aburrida)",
+        "url": "https://open.spotify.com/album/7bULGrCZjsDzXmXuvDoxbj"
+      },
+      "artists": [
+        {
+          "name": "PUTOCHINOMARIC\u00d3N",
+          "url": "https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf"
+        },
+        {
+          "name": "Chenta Tsai",
+          "url": "https://open.spotify.com/artist/7BRP5V0xT5jrR0rfGuZb3p"
+        },
+        {
+          "name": "Tami T",
+          "url": "https://open.spotify.com/artist/1rlC0qRy1Ndg2uAoFoFlyJ"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "Rubberhand",
+      "url": "https://open.spotify.com/track/09t1pMoR2CAJLzbIC3AhYp"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Jap\u00f3n",
         "url": "https://open.spotify.com/album/60BmITlB7uljEtTmzDTiSU"
       },
@@ -2051,30 +2075,6 @@
       "duration_ms": 190209,
       "name": "Toy en la Calle",
       "url": "https://open.spotify.com/track/7LWqY2F8ACMsVY0R778xMs"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "J\u00c1J\u00c1 \u00c9Q\u00da\u00cdSD\u00c9 (Distop\u00eda Aburrida)",
-        "url": "https://open.spotify.com/album/7bULGrCZjsDzXmXuvDoxbj"
-      },
-      "artists": [
-        {
-          "name": "PUTOCHINOMARIC\u00d3N",
-          "url": "https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf"
-        },
-        {
-          "name": "Chenta Tsai",
-          "url": "https://open.spotify.com/artist/7BRP5V0xT5jrR0rfGuZb3p"
-        },
-        {
-          "name": "Tami T",
-          "url": "https://open.spotify.com/artist/1rlC0qRy1Ndg2uAoFoFlyJ"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "Rubberhand",
-      "url": "https://open.spotify.com/track/09t1pMoR2CAJLzbIC3AhYp"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Toy en la calle 90'",
-        "url": "https://open.spotify.com/album/6Ma1rCv2N5w2DpQ7IKxq0s"
-      },
-      "artists": [
-        {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        }
-      ],
-      "duration_ms": 167385,
-      "name": "Toy en la calle 90' - Pomper\u00f3 Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7gGZFs8zmZvG52xLEzUKwV"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Elefantes en el Mar",
         "url": "https://open.spotify.com/album/2CQW55VTC6eZj6JCo5gXxq"
       },
@@ -2243,6 +2227,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Toy en la calle 90'",
+        "url": "https://open.spotify.com/album/6Ma1rCv2N5w2DpQ7IKxq0s"
+      },
+      "artists": [
+        {
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+        }
+      ],
+      "duration_ms": 167385,
+      "name": "Toy en la calle 90' - Pomper\u00f3 Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7gGZFs8zmZvG52xLEzUKwV"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Pill\u00e1ndome",
         "url": "https://open.spotify.com/album/7g5KQmVTD7mtQSNWoO9S94"
       },
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Soy Asi",
+        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fret",
+          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
+        }
+      ],
+      "duration_ms": 232362,
+      "name": "Soy Asi",
+      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "TODOELORO",
         "url": "https://open.spotify.com/album/6i7YAlim3n93EXo4UQj8YD"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 171500,
       "name": "TODOELORO",
       "url": "https://open.spotify.com/track/3jSwGrzDjeTIgCEsxSCUkl"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Soy Asi",
-        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
-      },
-      "artists": [
-        {
-          "name": "Kevin Fret",
-          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
-        }
-      ],
-      "duration_ms": 232362,
-      "name": "Soy Asi",
-      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
     },
     {
       "added_at": "2022-07-05 19:20:04",

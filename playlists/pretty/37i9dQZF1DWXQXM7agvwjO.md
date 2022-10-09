@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Sobs \(Singapore\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,876 likes - 74 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,944 likes - 74 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 7 | [In my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 |
 | 8 | [daydream](https://open.spotify.com/track/5QsaZbHC7scH5i7UdCYNip) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [daydream](https://open.spotify.com/album/07yuPYTf3qC2d5Olk0xYwf) | 3:26 |
 | 9 | [A Dream of Wings](https://open.spotify.com/track/4WOSqKjvEJfkzM7I2UfVMV) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [A Dream of Wings](https://open.spotify.com/album/4dIl9q8HabZF7ZJ0UdCZa9) | 3:24 |
-| 10 | [November Blue](https://open.spotify.com/track/1rVHGgB6wbPqFgsMcBYbYL) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/1efuRhREYd3lBKa3HV1DyN) | 4:02 |
+| 10 | [November Blue](https://open.spotify.com/track/0PVVLuxXLWf4Sw7zjV6rd8) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/3ApfPiXonK9F6KiJQSeYeN) | 4:02 |
 | 11 | [Have A Break!](https://open.spotify.com/track/3tbq7cimDQYHvfV8LQIgEX) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Have A Break!](https://open.spotify.com/album/3rjU1R2gOxdIf4TiGudtJV) | 3:05 |
 | 12 | [Flying Bobs](https://open.spotify.com/track/7by74pjKw8FxKatW0l92Mf) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEEN TROUBLES](https://open.spotify.com/album/1KCSoihLiF0x66tJyQ6VbE) | 4:02 |
 | 13 | [Honestly](https://open.spotify.com/track/09PLEiRIRz7RhQmZSX2iE7) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honestly](https://open.spotify.com/album/0BR7eudQY2ly2t99WLuJ4b) | 3:18 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 73 | [OUT OF YOU](https://open.spotify.com/track/7vMcexHRs6bnRaIAWNjXtG) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [OUT OF YOU](https://open.spotify.com/album/5N0wdGbzWYwVcc3S8tYX2h) | 3:28 |
 | 74 | [沒關係 it’s okay!!](https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [沒關係 it’s okay!!](https://open.spotify.com/album/5w3yXSuQASET0SIpfmH43X) | 3:11 |
 
-Snapshot ID: `MTY2NTA3NTYxMSwwMDAwMDAwMGJkNzViZGMzNWQ5ZjkxYjJhN2ZjNGNkMWFkZDYxOWZm`
+Snapshot ID: `MTY2NTA3NTYxMSwwMDAwMDAwMGQ5ODA3MDU1NDQ0ZTllZTI4OWFhYTgzYmQ4MjE1Mjll`

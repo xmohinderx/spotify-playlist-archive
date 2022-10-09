@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-460 songs - 1 day 4 hr 21 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
+461 songs - 1 day 4 hr 24 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Fall Into You](https://open.spotify.com/track/7a8bzyInoCja0iFe31uucM) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Fall Into You](https://open.spotify.com/album/6JTLfvfLyLEq2E1PB5pSwS) | 3:24 | 2021-12-17 |  |
 | [Falling](https://open.spotify.com/track/4zOSUnrmTMOQejyyluCZh3) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Osa Blu](https://open.spotify.com/artist/7wlPdryKXRY9IRxB00iPKo) | [Falling](https://open.spotify.com/album/4vr03HehxNm5c3h4q5QoPq) | 4:13 | 2021-12-17 | 2022-02-26 |
 | [Falling](https://open.spotify.com/track/5LI0pkjDAZa4nHGh32LImr) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Falling](https://open.spotify.com/album/4fcuj6nj9Fq6CVquHVTRSJ) | 3:51 | 2022-08-12 |  |
-| [Fears In The Fire](https://open.spotify.com/track/19PH9jGNbIx64MbF7Uy7kT) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/3llafdDDlOUL0fu3a50xjs) | 2:37 | 2022-09-23 |  |
+| [Fears In The Fire](https://open.spotify.com/track/19PH9jGNbIx64MbF7Uy7kT) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/3llafdDDlOUL0fu3a50xjs) | 2:37 | 2022-09-23 | 2022-10-09 |
 | [Feel Alive](https://open.spotify.com/track/1PuV3bBaTdRTETZl0w55Ua) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Dave Neven](https://open.spotify.com/artist/3nmkZFOvLJkwj6r54ievPs) | [Feel Alive](https://open.spotify.com/album/61PlRXPL4DaxCwMJI8HbEQ) | 4:01 | 2022-08-12 |  |
 | [Feel The Rain](https://open.spotify.com/track/6cXuTXqe24QmUB4afxgiUe) | [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3) | [Feel The Rain](https://open.spotify.com/album/2hHez1jeKZ7Aa0EhbJoGhW) | 3:24 | 2022-05-13 | 2022-05-16 |
 | [Feels Like Home](https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [Feels Like Home](https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG) | 4:26 | 2022-09-02 |  |
@@ -237,6 +237,7 @@
 | [Live For Tonight \- Scorz Remix](https://open.spotify.com/track/4RHFjle9srlZWXn7mjEpcj) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07), [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn) | [Live For Tonight \(Scorz Remix\)](https://open.spotify.com/album/0fEYcXAlwni1fUkT6v7LAr) | 2:40 | 2021-12-17 |  |
 | [Lockdown Heart](https://open.spotify.com/track/1h4veLWNE7ICl6cgSiBFOn) | [Ana Criado](https://open.spotify.com/artist/74wwiRVGGmTpYiU2l1olVU) | [Lockdown Heart](https://open.spotify.com/album/7GBUwO9gG4F1PV1j7dC7Cv) | 3:30 | 2022-04-01 | 2022-05-22 |
 | [Lonely Soul \- Radio Edit](https://open.spotify.com/track/33dzDNwMRgVUNmGRPCy4Hx) | [Eugenio Tokarev](https://open.spotify.com/artist/0ExSQUT5mJ2vFIBe7GqLM4), [Beatsole](https://open.spotify.com/artist/6Gs2jNsD9XkEYUJZOSx4qk), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [Lonely Soul](https://open.spotify.com/album/6o1ysH7IGH6xu1EOIsV0bp) | 3:18 | 2022-06-24 | 2022-07-20 |
+| [Lonely With You](https://open.spotify.com/track/4Y5FAQrTSqI2mlDF5i8lTi) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Lonely With You](https://open.spotify.com/album/37VdhrfrONjJFL21OinnZv) | 3:25 | 2022-10-07 |  |
 | [Lose Myself](https://open.spotify.com/track/0pFzgiigPzwQVkFp1Qoiau) | [Alex Wright](https://open.spotify.com/artist/1HISmBbcSh433t6pCYdaJI), [Nitrous Oxide](https://open.spotify.com/artist/0UJQXkmx6GjqUxugf7zzkR), [Tiff Lacey](https://open.spotify.com/artist/6wmyaMNIjZ26DmwgQDWKoE) | [Lose Myself](https://open.spotify.com/album/5w2RTmb6Kt6KWnndX7CVxJ) | 4:18 | 2022-05-27 | 2022-07-09 |
 | [Losing My Mind \- Paul van Dyk Remix](https://open.spotify.com/track/4lyv5DcEawgHmMxmv6rj2x) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [Losing My Mind \(Paul van Dyk Remix\)](https://open.spotify.com/album/12HNaEe12RQqh9qsSlQqZM) | 3:53 | 2022-02-25 |  |
 | [Lost In a State](https://open.spotify.com/track/0vqRqS1tOrinagdeUxOl1e) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [Lost In a State](https://open.spotify.com/album/0yiFy4EFdF4XwfqMirmnDh) | 4:02 | 2021-12-17 | 2022-08-27 |

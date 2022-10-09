@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,859 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,963 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 37 | [Playinwitme \(Remix\) \[feat\. Jay Park\]](https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Playinwitme \(Remix\) \[feat\. Jay Park\]](https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT) | 3:13 |
 | 38 | [Thuggin 4 My Baby](https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Thuggin 4 My Baby](https://open.spotify.com/album/05yZdaFZebreNpWGOssmsl) | 3:24 |
 | 39 | [Gotta Go](https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Golden](https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H1GHR : BLUE TAPE](https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ) | 3:14 |
-| 40 | [Out Of Place](https://open.spotify.com/track/0Hfpa8a41cdLKDtDotbFbe) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everybody Sucks](https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l) | 3:29 |
-| 41 | [Dior Socks](https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy) | [Jay Loud](https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dior Socks](https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw) | 3:33 |
+| 40 | [Dior Socks](https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy) | [Jay Loud](https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dior Socks](https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw) | 3:33 |
+| 41 | [Out Of Place](https://open.spotify.com/track/0Hfpa8a41cdLKDtDotbFbe) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everybody Sucks](https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l) | 3:29 |
 | 42 | [No Gravity \(Prod\. Jay Park & DJ Wegun & WOOGIE & GroovyRoom\)](https://open.spotify.com/track/1gUFxP5qGhfDemzaJjkrDb) | [Part Time Cooks](https://open.spotify.com/artist/51e7K2KFkHECVO460ruq8L), [MBA](https://open.spotify.com/artist/0c6EF9zv5mQX7pkyrPawKS), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [SignHere episode1](https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh) | 4:18 |
 | 43 | [Came Up \(feat\. Jay Park\)](https://open.spotify.com/track/3IkYQjapZOMnWhMq8bXVMp) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [B.A.R.S](https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [B.A.R.S, Vol\. 1](https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO) | 3:00 |
 | 44 | [Twist The Plot](https://open.spotify.com/track/22AUepm772KRmj5jRoaK4V) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everybody Sucks](https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Metronome](https://open.spotify.com/track/3rtOtOEXkzo6tjEfr1IrqZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Evolution](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 3:58 |
 | 100 | [All Day \(Flex\) \[Prod\. by OkayJJack\]](https://open.spotify.com/track/5FbiD78OtBrsaX8KP5DmDP) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [Nothing Matters](https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn) | 3:39 |
 
-Snapshot ID: `MTY2MDgzMzI3MiwwMDAwMDAwMGY0ODU2YjUzYmY0OTk5ZjJkN2UyZGEyZTg0M2UzODQ2`
+Snapshot ID: `MTY2MDgzMzI3MiwwMDAwMDAwMDUyYTM2MThhMjQ0MzgwZDc2ZmEyN2IzNmY3NTcxZmM2`

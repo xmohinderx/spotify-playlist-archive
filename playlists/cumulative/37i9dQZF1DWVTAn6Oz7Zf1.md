@@ -4,7 +4,7 @@
 
 > Cerchi energie e buona musica? Prova con la nostra playlist!
 
-169 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/1MD1xnD0LanKfsaqIIX4F0)
+170 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/1MD1xnD0LanKfsaqIIX4F0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [If There is Love](https://open.spotify.com/track/5ngkOLKzDPNoYEXN0snzq3) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [If There is Love](https://open.spotify.com/album/5pfpy8N2przMVV6cOqiDAe) | 2:35 | 2022-05-06 | 2022-07-29 |
 | [Inside Out](https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Inside Out](https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH) | 2:40 | 2022-05-06 | 2022-07-29 |
 | [Jaguwawa](https://open.spotify.com/track/3BP4lwzKXSJNwiPaffklWE) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD) | [Jaguwawa](https://open.spotify.com/album/3rV60ADTCBj0XfttpbpmTT) | 2:59 | 2022-06-10 | 2022-07-28 |
-| [Juliet & Romeo](https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Juliet & Romeo](https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh) | 3:24 | 2022-07-26 |  |
+| [Juliet & Romeo](https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Juliet & Romeo](https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh) | 3:24 | 2022-07-26 | 2022-10-09 |
 | [Just Saying](https://open.spotify.com/track/7KNwOK2WTnwFn2x5WgkRLC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Just Saying](https://open.spotify.com/album/6nKl2xSHPMMJkS9XfaEF6z) | 2:52 | 2022-05-20 | 2022-06-08 |
 | [Kiss Me](https://open.spotify.com/track/4RG63cZOJT5njECPKYMhUU) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Kiss Me](https://open.spotify.com/album/2JjNir4llRSfPKJRKxOaZ9) | 2:29 | 2022-05-06 | 2022-07-27 |
 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 | 2022-05-06 | 2022-06-23 |
@@ -144,6 +144,7 @@
 | [Safe With Me \(with Audrey Mika\)](https://open.spotify.com/track/6Skh3CBum0pZw9TOr7FQnX) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Safe With Me \(with Audrey Mika\)](https://open.spotify.com/album/2qBzKbaRm9IXomwL7jMdM7) | 3:25 | 2022-07-26 |  |
 | [Satellite \(feat\. Arinn\)](https://open.spotify.com/track/0NAjsPwvBwJKs0p2RL4GeM) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Arinn](https://open.spotify.com/artist/7nM52sn64aU3P5Dm3HMcA8) | [Satellite \(feat\. Arinn\)](https://open.spotify.com/album/2gJy9PdFV2FUWh5SsX9pXw) | 2:43 | 2022-06-20 | 2022-07-28 |
 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 | 2022-05-06 |  |
+| [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 | 2022-10-07 |  |
 | [SCARS](https://open.spotify.com/track/2WuYnh05YeOU3LQ9ayWOVh) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [DAMANTE](https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ) | [SCARS](https://open.spotify.com/album/5Iw6Vei8AjSApCmbsXp5tj) | 2:42 | 2022-06-10 | 2022-07-29 |
 | [Send Me Your Love](https://open.spotify.com/track/6tbzIubCGJITl85mBCIvgH) | [Gromee](https://open.spotify.com/artist/2oRTLExi1ct74cVtfAwfhV), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Tiny Sparks](https://open.spotify.com/album/2utQ29E4RCASpiC8wKAqGK) | 2:47 | 2022-05-06 | 2022-07-29 |
 | [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 | 2022-07-15 | 2022-07-17 |

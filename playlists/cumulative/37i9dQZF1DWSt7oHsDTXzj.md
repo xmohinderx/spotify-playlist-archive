@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-154 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+155 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [baby jesus is nobody's baby now](https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/54ech4ihgHD7emD0ucycog) | 3:35 | 2021-11-12 | 2022-07-29 |
 | [baby jesus is nobody's baby now](https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R) | 3:35 | 2021-11-12 |  |
 | [Blue Christmas \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/526s5K8K8MP5FG5HkZ6BOa) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Blue Christmas \(Recorded at Electric Lady Studios NYC, 2020\)](https://open.spotify.com/album/6wlrfgJzGa9aU01nSYHI2t) | 2:27 | 2021-11-12 | 2022-07-18 |
-| [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 | 2021-11-15 |  |
+| [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 | 2021-11-15 | 2022-10-09 |
 | [Boxing Day Blues](https://open.spotify.com/track/35v1C5DdDBUEvdAJTEqrfz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit And Think, And Sometimes I Just Sit \(Deluxe Digital Album\)](https://open.spotify.com/album/5hnsoChBkdtGlLrvU3uBAO) | 3:02 | 2021-11-15 | 2022-07-29 |
 | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff) | 2:47 | 2021-11-12 | 2022-07-28 |
 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 | 2021-11-12 |  |
@@ -120,6 +120,7 @@
 | [Pink Xmas Tree](https://open.spotify.com/track/4CUon9bxIwVXCG9CdJlvOS) | [Jagged Jaw](https://open.spotify.com/artist/3Es6oUz3zUC5IZDRRhcRxG) | [Pink Xmas Tree](https://open.spotify.com/album/4ttCLHM3YmqgYPB58w4SWU) | 3:20 | 2021-11-12 | 2022-06-07 |
 | [pumpkin bread](https://open.spotify.com/track/603mAqHBigy7cueil9FxJf) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [pumpkin bread](https://open.spotify.com/album/1Bm7slaDsarcd8ZinmA9py) | 2:57 | 2022-01-07 | 2022-09-26 |
 | [Red River Rock](https://open.spotify.com/track/52EcieQczA1KKZ9ed5P7J8) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Red River Rock](https://open.spotify.com/album/2oF0Uy7bSrLNm2GiCvZStu) | 2:09 | 2022-01-07 | 2022-07-29 |
+| [Rise Up Shepherd](https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i) | 2:27 | 2021-11-12 |  |
 | [Rise Up Shepherd](https://open.spotify.com/track/4wgOnJQFLmSv6rIdErrJmp) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/4ZxYdejwPFlkjDX47OHAke) | 2:27 | 2021-11-12 | 2022-07-14 |
 | [Santa Baby \- Recorded at Strongroom Studios London](https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Santa Baby \(Recorded at Strongroom Studios London\)](https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ) | 2:43 | 2021-11-12 | 2022-07-29 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5pzEgKArztxeQZmFfnSsBE) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Everything Is Christmas](https://open.spotify.com/album/2jl6Yn3j1xfN6GWDoSMbHn) | 3:27 | 2021-11-12 | 2022-07-29 |

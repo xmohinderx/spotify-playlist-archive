@@ -4,7 +4,7 @@
 
 > 
 
-654 songs - 1 day 19 hr 57 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+655 songs - 1 day 20 hr 0 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Mighty Wings \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/32SckiFOYb8bwYewY51WA7) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 3:51 | 2022-06-01 |  |
 | [Milk It](https://open.spotify.com/track/4rtZtLpriBscg7zta3TZxp) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:54 | 2019-05-29 |  |
 | [Mind Games \- Remastered 2010](https://open.spotify.com/track/3QmUhaY5KZiOuaUH8H71LG) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Mind Games](https://open.spotify.com/album/2GoiwFkRtErx0CHn6zaFJu) | 4:13 | 2019-08-01 |  |
+| [Mobius Trip](https://open.spotify.com/track/1bgTHTsCYkQVzZEJUks8la) | [H.P\. Lovecraft](https://open.spotify.com/artist/6VF7eMgoQIHyufTkib3Fff) | [H\. P\. Lovecraft II](https://open.spotify.com/album/0O0jxEVJruecYXTCQ8tNNj) | 2:44 | 2022-10-09 |  |
 | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/track/5zZWKugaE2ZmnZN77HVfUH) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Slaves](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/album/1QwJwcvJ9wiYfGxwk6YZOy) | 3:41 | 2020-01-31 |  |
 | [Mona Lisas And Mad Hatters](https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:00 | 2020-01-20 |  |
 | [Monkey Gone to Heaven](https://open.spotify.com/track/1lFC3sMgOcDrVzNh8zXRnl) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:57 | 2020-10-17 |  |

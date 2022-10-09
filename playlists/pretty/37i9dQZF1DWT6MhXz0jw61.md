@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Symba
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,980 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,322 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 16 | [BACH TO BACH \(with Dave East\)](https://open.spotify.com/track/4EuMKVhCd9cS7J19KDGDBn) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [BACH TO BACH](https://open.spotify.com/album/1o1D1FTWvq4XDVwABTNPg0) | 2:54 |
 | 17 | [Fuchsia & Green](https://open.spotify.com/track/6LgjbZGexOVNBoKFk9gww4) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Church](https://open.spotify.com/album/198XzYmyK8nPLHKRhFl3Z7) | 3:37 |
 | 18 | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/track/1pRkGgpQGX6nr8PrO1NMIs) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Cheat Codes](https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy) | 4:41 |
-| 19 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
+| 19 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
 | 20 | [Bidding War](https://open.spotify.com/track/66kGv0aBlCByLdNvpDkfCi) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Bidding War](https://open.spotify.com/album/4kIyTYa9PPAoSwR5NnVE59) | 3:12 |
 | 21 | [Summer Goodbye](https://open.spotify.com/track/5IMH03AnrfH2KUxPyrrrLR) | [Steelo](https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Summer Goodbye](https://open.spotify.com/album/5biF1S1UbF2RbseSGbuBCf) | 2:47 |
 | 22 | [Switch Up](https://open.spotify.com/track/6qyg5FzGDrmlADB85bM3mm) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Switch Up](https://open.spotify.com/album/0XZORXXb5RM7aPAmIqdMOq) | 3:34 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 79 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 |
 | 80 | [Johnny P's Caddy](https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Johnny P's Caddy](https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM) | 3:45 |
 | 81 | [EAST POINT PRAYER](https://open.spotify.com/track/0mTWyEt0taYEFpUfAyjqmf) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 3:37 |
-| 82 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 |
+| 82 | [Jupiter & Mars](https://open.spotify.com/track/1qJlpodv8hEJGmhdo3NERe) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/7JczLjVoMsk8fG9pJz0MPT) | 3:16 |
 | 83 | [keep my cool](https://open.spotify.com/track/0C7XJaaDmmrf3jJjjvaMES) | [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [keep my cool](https://open.spotify.com/album/5NRxfb3kyVCr6Kl3rtXoqa) | 1:30 |
 | 84 | [Stressed \(with Wallo267\)](https://open.spotify.com/track/5M6ow9HqYJhIL3FOt8QlCb) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Wallo267](https://open.spotify.com/artist/4CDHyGh4gnewa65FSdKNG1) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 5:20 |
 | 85 | [Open Air](https://open.spotify.com/track/5JURxzoZ0r9FP6N01XRAAi) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [The Tonight Show](https://open.spotify.com/track/79gAYrZvmDIXbFSwL7CFGh) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Tonight Show](https://open.spotify.com/album/5ksF6gcExZaqPrqhTKzaDM) | 2:28 |
 | 100 | [Circumstances](https://open.spotify.com/track/5AnyUq0QkIQPrmysUe5bYD) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Circumstances](https://open.spotify.com/album/14qunYehq5fAbj8oAtpWVn) | 4:35 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDAwODBmMjdmMGQyYzJhZDZiMzhlOTcyM2Q2OGE3ZmI0`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDk0N2IwZmMxNGQ5M2Y5OTM0ZTRlYzg4NjIzOWU3YzBh`

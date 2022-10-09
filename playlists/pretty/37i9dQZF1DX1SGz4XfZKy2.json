@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 60437,
+  "num_followers": 60514,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMDkyYjIyYWU5YjY2NzU1NmIyNDJhZmRjYzY5Y2YwZWQ3",
+  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMGQ1MjE0Yjc0NTBiZmEzZGFjODA0YzkxNjI1M2M4NmZj",
   "tracks": [
     {
       "added_at": "2021-02-15 11:04:36",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "G\u0101h\u0101n",
-        "url": "https://open.spotify.com/album/1dQrbLuCi32Zg6IxURIOrY"
-      },
-      "artists": [
-        {
-          "name": "Yasamin Shahhosseini",
-          "url": "https://open.spotify.com/artist/5zflvLbYdud5Isb6hFLFWl"
-        }
-      ],
-      "duration_ms": 480626,
-      "name": "First G\u0101h",
-      "url": "https://open.spotify.com/track/2v6wZhaijSRK8fRpBhVfHa"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "Hejar",
         "url": "https://open.spotify.com/album/0giBUefTGbBy8QZ6hKOyCo"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 185200,
       "name": "Tare Tanha",
       "url": "https://open.spotify.com/track/3wq6LqC40TuXAbdPapGK9Q"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "G\u0101h\u0101n",
+        "url": "https://open.spotify.com/album/1dQrbLuCi32Zg6IxURIOrY"
+      },
+      "artists": [
+        {
+          "name": "Yasamin Shahhosseini",
+          "url": "https://open.spotify.com/artist/5zflvLbYdud5Isb6hFLFWl"
+        }
+      ],
+      "duration_ms": 480626,
+      "name": "First G\u0101h",
+      "url": "https://open.spotify.com/track/2v6wZhaijSRK8fRpBhVfHa"
     },
     {
       "added_at": "2021-02-15 11:04:36",

@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 127053,
       "name": "Completa",
       "url": "https://open.spotify.com/track/6mCzElWVPTZMNPA2jjbFuJ"
@@ -2201,7 +2201,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 182602,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6Y5aTqQNbr0LLtxcIXMCH4"
@@ -2423,7 +2423,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 174153,
       "name": "Cumbiaton Mexa",
       "url": "https://open.spotify.com/track/0BakJchpLPMO9eVYW6V6k7"
@@ -2977,7 +2977,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 156021,
       "name": "Diablita",
       "url": "https://open.spotify.com/track/7jux0dIxYi7emKlkAD2bS2"
@@ -3203,7 +3203,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 137823,
       "name": "Duelo",
       "url": "https://open.spotify.com/track/6fZAPx7wPQmVOK5hMJiHzG"
@@ -6122,6 +6122,24 @@
     },
     {
       "album": {
+        "name": "Las Cartas",
+        "url": "https://open.spotify.com/album/7fctld92LQsFJrmqliUMYu"
+      },
+      "artists": [
+        {
+          "name": "Kamm",
+          "url": "https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212456,
+      "name": "Las Cartas",
+      "url": "https://open.spotify.com/track/1pOa85FwiJcbwyYTQFAZUM"
+    },
+    {
+      "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
@@ -6163,6 +6181,24 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
+    },
+    {
+      "album": {
+        "name": "Lebron en el Bameso",
+        "url": "https://open.spotify.com/album/2YJWdjMXCNc0mu0VsCQ3h3"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208320,
+      "name": "Lebron en el Bameso",
+      "url": "https://open.spotify.com/track/2aWCcyGIG4ia5vlWIDKn7i"
     },
     {
       "album": {
@@ -6469,7 +6505,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 184625,
       "name": "Lo Prieto",
       "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
@@ -7182,6 +7218,24 @@
     },
     {
       "album": {
+        "name": "Me Vas a Recordar",
+        "url": "https://open.spotify.com/album/5JI9jg1HEOYoKLqBOsU8Pc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rojo",
+          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190749,
+      "name": "Me Vas a Recordar",
+      "url": "https://open.spotify.com/track/5oL6fZD5C2Yhw2jiiV2vIW"
+    },
+    {
+      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -7281,7 +7335,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 176285,
       "name": "Mi Area",
       "url": "https://open.spotify.com/track/1w0oaaPLWVXGJWtUrYjuO8"
@@ -8582,6 +8636,28 @@
     },
     {
       "album": {
+        "name": "Paso la Pagina",
+        "url": "https://open.spotify.com/album/71jB0wvXwHzQh9YyV9VVGf"
+      },
+      "artists": [
+        {
+          "name": "Wanton chulito",
+          "url": "https://open.spotify.com/artist/2Y8dw810oc7wqr6D0eWrJp"
+        },
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Paso la Pagina",
+      "url": "https://open.spotify.com/track/4vhkNGw7umKMPz3fxi7lZ4"
+    },
+    {
+      "album": {
         "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
         "url": "https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5"
       },
@@ -9694,6 +9770,28 @@
     },
     {
       "album": {
+        "name": "Roce",
+        "url": "https://open.spotify.com/album/2naWs0HQGnkjaUfwlV78av"
+      },
+      "artists": [
+        {
+          "name": "Chris Jonex",
+          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
+        },
+        {
+          "name": "Bimbo el Oso Ma\u00f1oso",
+          "url": "https://open.spotify.com/artist/2P5WbTImnPSJQV4ZbQuQZ3"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Roce",
+      "url": "https://open.spotify.com/track/5M8sNlIjRkalIwXm0sjhx1"
+    },
+    {
+      "album": {
         "name": "Rochy RD X Anuel AA (LOS ILLUMINATY) [Radio Edit]",
         "url": "https://open.spotify.com/album/3o0AXFonj6LxXS7Lk5dyao"
       },
@@ -9745,7 +9843,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 189302,
       "name": "Rulay",
       "url": "https://open.spotify.com/track/7mLJiuLlh6v8Hz5PfYfOTh"
@@ -12002,6 +12100,28 @@
     },
     {
       "album": {
+        "name": "Una Morena",
+        "url": "https://open.spotify.com/album/1DApU1LgwY4LLNb6PtmxSK"
+      },
+      "artists": [
+        {
+          "name": "TDA Papi",
+          "url": "https://open.spotify.com/artist/3gthjmP4998NIbsk126ltK"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Una Morena",
+      "url": "https://open.spotify.com/track/3bJrHqKHhQ10oU8CVaZtmY"
+    },
+    {
+      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -12261,7 +12381,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 273474,
       "name": "Volando - Remix",
       "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
@@ -12607,7 +12727,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 194750,
       "name": "Yo Vivo Mi Vida",
       "url": "https://open.spotify.com/track/2FILi8VnFqZlMhKjnrAEtK"

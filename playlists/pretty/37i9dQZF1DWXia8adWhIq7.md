@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gabriela Gomes
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,563 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,603 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 27 | [meu lugar](https://open.spotify.com/track/7ipxdnPLb7NnkEqAjAAfJK) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [meu lugar](https://open.spotify.com/album/4q0wzcfAqJH6kgTPdz4Cfw) | 4:10 |
 | 28 | [É de Coração](https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [É de Coração](https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4) | 3:16 |
 | 29 | [Eu Não Sei Viver Sem Deus](https://open.spotify.com/track/4Qv4gxwa4xeQQ2K3wHItrR) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:41 |
-| 30 | [Levanto um Aleluia](https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS) | [Anna Fernandes](https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Levanto um Aleluia](https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U) | 3:53 |
-| 31 | [Teu Amor Me Consome](https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw) | [Guerreiros da Fé](https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL) | [Teu Amor Me Consome](https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr) | 3:46 |
+| 30 | [Teu Amor Me Consome](https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw) | [Guerreiros da Fé](https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL) | [Teu Amor Me Consome](https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr) | 3:46 |
+| 31 | [Levanto um Aleluia](https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS) | [Anna Fernandes](https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Levanto um Aleluia](https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U) | 3:53 |
 | 32 | [Ao Teu Lado \- Acústico](https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Ao Teu Lado \(Acústico\)](https://open.spotify.com/album/0u1E6iC4UA69cVBHFSBkjk) | 3:42 |
 | 33 | [Apenas Canção](https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Apenas Canção](https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg) | 4:26 |
 | 34 | [Simplicidade](https://open.spotify.com/track/0yf88EGCVK7LAgGDvUsibf) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Simplicidade](https://open.spotify.com/album/3JlvrhhuCDxlKOHIdzt4y3) | 4:48 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 44 | [Asas](https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Asas](https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC) | 3:37 |
 | 45 | [Agora](https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Agora](https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn) | 3:16 |
 | 46 | [Só o Começo](https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Gustavo Barrinovo](https://open.spotify.com/artist/2EFtQmnZjBUhu3YQJJaElL) | [Só o Começo](https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO) | 4:44 |
-| 47 | [Plano B](https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n) | 2:45 |
-| 48 | [Te Vejo](https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Te Vejo](https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv) | 3:30 |
-| 49 | [Tua Graça](https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP) | [Carol Aguiar](https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m) | [Tua Graça](https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu) | 3:55 |
-| 50 | [Sabe Tudo](https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Sabe Tudo](https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt) | 3:13 |
+| 47 | [Te Vejo](https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Te Vejo](https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv) | 3:30 |
+| 48 | [Plano B](https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n) | 2:45 |
+| 49 | [Sabe Tudo](https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Sabe Tudo](https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt) | 3:13 |
+| 50 | [Tua Graça](https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP) | [Carol Aguiar](https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m) | [Tua Graça](https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu) | 3:55 |
 | 51 | [Amor Leal](https://open.spotify.com/track/6rrbLn49jsw8sdcCqdFgbN) | [Lari Macário](https://open.spotify.com/artist/5AdvNG5bNSx9lKOj7Tj5ck), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu), [Dani Aguiar](https://open.spotify.com/artist/774uYXQYFkSEs4TvjM2lZA) | [Amor Leal](https://open.spotify.com/album/2XNWrlxoCDchGediXzLTRd) | 3:02 |
 | 52 | [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 |
 | 53 | [Eu To Vivo](https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu To Vivo](https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt) | 4:16 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 60 | [Rota](https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Rota](https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH) | 3:16 |
 | 61 | [Saudade de Cristo](https://open.spotify.com/track/3MOEKrdqzMFBkNo7z49xhX) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Saudade de Cristo](https://open.spotify.com/album/1kv7ArlbdgZl1s0Q0jVOb5) | 4:56 |
 | 62 | [Mude as Coisas do Meu Coração](https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Mude as Coisas do Meu Coração](https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA) | 2:45 |
-| 63 | [Vida Leve](https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Acústico Talita Barreto](https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K) | 2:16 |
-| 64 | [Azul do Céu](https://open.spotify.com/track/3v2bkyjuqCsb8RuHMXuLpI) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Azul do Céu](https://open.spotify.com/album/68akHXeQKYnjTELPGdV2JI) | 3:02 |
+| 63 | [Azul do Céu](https://open.spotify.com/track/3v2bkyjuqCsb8RuHMXuLpI) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Azul do Céu](https://open.spotify.com/album/68akHXeQKYnjTELPGdV2JI) | 3:02 |
+| 64 | [Vida Leve](https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Acústico Talita Barreto](https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K) | 2:16 |
 | 65 | [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 |
 | 66 | [Teus Rios](https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv) | [Ana Gabriela](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Teus Rios](https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL) | 3:14 |
 | 67 | [Me Leva Além](https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Me Leva Além](https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU) | 3:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Amor Maior](https://open.spotify.com/track/6NaE0m9L89zJ8uO6nfySvx) | [Tamara Pyller](https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO) | [Ao Que É Até Meu Último Suspiro](https://open.spotify.com/album/47jB9qef9k3HiK5elsfhQj) | 3:43 |
 | 80 | [Um Novo Lugar](https://open.spotify.com/track/1CFcWP4avTVNTJyS0v1nuC) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Um Novo Lugar](https://open.spotify.com/album/25xop1SdYHlViPxywAyWTP) | 3:01 |
 
-Snapshot ID: `MTY2NTEyMDI4MywwMDAwMDAwMDI3M2ZlZTE3ODBmYTBkOTMzNTE2ODBjZjBlNGYxNDc5`
+Snapshot ID: `MTY2NTEyMDI4MywwMDAwMDAwMGFkMjcxZDUxNDJmNDcwZDg2OWFkZjM2Yzk3ZGU5MTg2`

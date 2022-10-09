@@ -4,7 +4,7 @@
 
 > ft\. Bladee
 
-1,458 songs - 2 day 18 hr 15 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,459 songs - 2 day 18 hr 18 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [acetone](https://open.spotify.com/track/148hxuEJsmKnmztsPj0NgE) | [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [eel](https://open.spotify.com/album/1fkJ9Yao0dni5qrMiZdsDN) | 2:14 | 2021-06-05 | 2022-01-13 |
 | [ache](https://open.spotify.com/track/2HkysUlkqHuFLpt71lECl4) | [mental](https://open.spotify.com/artist/7rQMXIWKXSMkd7dK8LQ7a4), [grandee](https://open.spotify.com/artist/3y55m0N1avYIR8xavgoztD) | [ache](https://open.spotify.com/album/00glpondCGUHWwNqCSoCqB) | 3:14 | 2022-04-01 | 2022-06-04 |
 | [acid](https://open.spotify.com/track/7yTNwNfgCZTsuDX3v0RlCi) | [mol$](https://open.spotify.com/artist/6qCI616skih6JquKXZpfr8) | [misoland](https://open.spotify.com/album/5adDQWfp2S0fqhVKCAOItY) | 4:13 | 2022-01-14 | 2022-02-26 |
-| [Addictive/Predictive \- blackwinterwells & 8485 Remix](https://open.spotify.com/track/5XBgDnfX3HBQkHZ5yRuQgZ) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [TDJ123 DELUXE](https://open.spotify.com/album/05VFDqT4WtekPdQn8o6V1a) | 2:53 | 2022-08-26 |  |
+| [Addictive/Predictive \- blackwinterwells & 8485 Remix](https://open.spotify.com/track/4a6NbVcxHCKtlisuxCX6ry) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [TDJ123 DELUXE](https://open.spotify.com/album/2x1Ox1a7MYTamrbp11Y6LA) | 2:53 | 2022-09-23 |  |
+| [Addictive/Predictive \- blackwinterwells & 8485 Remix](https://open.spotify.com/track/5XBgDnfX3HBQkHZ5yRuQgZ) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [TDJ123 DELUXE](https://open.spotify.com/album/05VFDqT4WtekPdQn8o6V1a) | 2:53 | 2022-08-26 | 2022-10-09 |
 | [AFK](https://open.spotify.com/track/0TvQN6KVwWjFs99be7qi0b) | [Ö](https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y), [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [AFK](https://open.spotify.com/album/6rhFzWWEh7obQrrvUJLzOn) | 4:27 | 2022-01-14 | 2022-02-26 |
 | [again](https://open.spotify.com/track/2uLHWyq0XpGFCO4TQ3gb91) | [twikipedia](https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj) | [again](https://open.spotify.com/album/6xSNEmkvaJBYcUc49w49Hn) | 3:09 | 2021-07-24 | 2022-01-13 |
 | [AGNES KRUEL](https://open.spotify.com/track/4UzgDdX1pcbUYisiqSaIEF) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [4X4](https://open.spotify.com/album/6ePn0iOHrkvAhtMzLxeIQL) | 1:36 | 2022-09-10 |  |

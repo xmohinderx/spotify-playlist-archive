@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: vatocholo con Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,686 likes - 56 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,704 likes - 56 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 33 | [Faula](https://open.spotify.com/track/6mtTioOEE4nptRO3V1Nxul) | [Red Pèrill](https://open.spotify.com/artist/675msMaJuRIMA1JxEcpx67) | [Operació Miniatura](https://open.spotify.com/album/0eyg51lGFbeiRvmj7rwMIh) | 4:46 |
 | 34 | [El Arco](https://open.spotify.com/track/21asSnKGaKMQ5dn90BUci6) | [Plataforma](https://open.spotify.com/artist/5mFDbffGnwHkmyQYXcilDZ) | [Espacio De Dolor](https://open.spotify.com/album/4NtsFTLf3Xp46FPUjNxtcR) | 3:05 |
 | 35 | [TAB es Leal x \[Triángulo de Amor Bizarro\]](https://open.spotify.com/track/1illtY1oDODYcaF2EX19bi) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU), [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [TAB es Leal x \[Triángulo de Amor Bizarro\]](https://open.spotify.com/album/2Km2Nlz3fvciZ0w1QLqDxC) | 2:18 |
-| 36 | [Mulholland Drive](https://open.spotify.com/track/7xXwnBoOZNmSXlDvO7gMsR) | [Far Lontano](https://open.spotify.com/artist/3bHGYerNmdwE3XeEZU5x5l) | [Mulholland Drive](https://open.spotify.com/album/6PfpgmtFqael7HiUKg7iq7) | 2:12 |
+| 36 | [Mulholland Drive](https://open.spotify.com/track/7xXwnBoOZNmSXlDvO7gMsR) | [Far Lontano](https://open.spotify.com/artist/7terwnaqvkN2lWcHHa4IXu) | [Mulholland Drive](https://open.spotify.com/album/6PfpgmtFqael7HiUKg7iq7) | 2:12 |
 | 37 | [Millones](https://open.spotify.com/track/2GpOdBOdjHv0QsLFCkGYSq) | [Sandré](https://open.spotify.com/artist/5jO693ntO8nc5utL8HpE4H) | [Millones](https://open.spotify.com/album/0hb6nmcB7Stjw6Y1g81itZ) | 2:18 |
 | 38 | [Nítido Oscuro](https://open.spotify.com/track/2aYMzR12PT6voM0n4ERXpN) | [El Cantaitor](https://open.spotify.com/artist/4nJHolL2iizfZUo6PhbOo0), [Mia Fuentes](https://open.spotify.com/artist/0cPC9YEOqTDOf4i9oNLnku), [Joan Camps](https://open.spotify.com/artist/4ZR2eeoKtUN7ZhbxA3jTeu) | [Nítido Oscuro](https://open.spotify.com/album/1xP80yHYZD0ILQBoyhbHak) | 3:28 |
 | 39 | [Los Viejos Oficios](https://open.spotify.com/track/4Ji3VPKnTbFShF5t6gYO0O) | [Ruiz Bartolome](https://open.spotify.com/artist/61BgE2Im3CZbCLc27Xaxv5) | [Los Viejos Oficios](https://open.spotify.com/album/1umgQvPdq5GEWf2XGjjSeZ) | 2:53 |

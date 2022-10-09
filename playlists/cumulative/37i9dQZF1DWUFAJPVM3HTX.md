@@ -4,7 +4,7 @@
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Avenoir
 
-748 songs - 1 day 15 hr 1 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+749 songs - 1 day 15 hr 5 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [April Showers](https://open.spotify.com/track/3prFyUfgOtdOQByDUkeuIX) | [Shay 24K](https://open.spotify.com/artist/2b7sUe0m7QSyY4R0m8C1RF) | [April Showers](https://open.spotify.com/album/0cwjXKYJxOotqgRZUJ8c1y) | 2:30 | 2022-04-13 | 2022-06-03 |
 | [Are We OK?](https://open.spotify.com/track/7EvR8W21LfjtKM4GTZEqbd) | [Vicky Farewell](https://open.spotify.com/artist/6LpKqwp5tMWhUS3Cosbwb4) | [Are We OK?](https://open.spotify.com/album/5ACwMaN5xjOaUfSWY0deG2) | 3:34 | 2022-01-26 | 2022-03-17 |
 | [Area Codes](https://open.spotify.com/track/0Zj14AQbj7R8ZtNt1PUZZc) | [Mbrown](https://open.spotify.com/artist/5Wv0zAvGTssv5ZxRkIR5tY), [MADEINPARRIS](https://open.spotify.com/artist/2UiZpyNlTfTf1TX5pQ0cnU) | [Area Codes](https://open.spotify.com/album/5xiHOD2yUk2jrQragEFWoy) | 3:05 | 2022-10-05 |  |
+| [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/0wKCjEaixgpLA20mMEi2px) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 | 2022-10-08 |  |
 | [b r e a t h e](https://open.spotify.com/track/7tImEdPjymnkct5JuBeKHc) | [c i r u](https://open.spotify.com/artist/3QbGzV6Q0FWM2QOYGXWzlu), [T££KAY](https://open.spotify.com/artist/20kYuYDnROwFgsEqncI37Q) | [b r e a t h e](https://open.spotify.com/album/3SbFrYQ14SZoge8uiHTQP3) | 2:59 | 2022-02-02 | 2022-03-31 |
 | [B.N.D](https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K) | [Thaïs Lona](https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S) | [CUBE](https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E) | 4:17 | 2022-05-26 | 2022-07-28 |
 | [Baby I Can](https://open.spotify.com/track/1h3LqOZcetXpj6Bam9YD8T) | [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb) | [Chapter & Verse \(Deluxe\)](https://open.spotify.com/album/30J9T5A1m5voDYLDZ5NIZs) | 2:55 | 2022-10-05 |  |
@@ -300,7 +301,7 @@
 | [Headstrong](https://open.spotify.com/track/2DwfjamkNabWTBkemG2TDW) | [Luna Rosx](https://open.spotify.com/artist/6q3bUmjSjekJO5ow5JVWfl) | [4200](https://open.spotify.com/album/5aY3pDAfWeNYmFbt7jQ1Ke) | 3:00 | 2021-12-01 | 2022-01-13 |
 | [Hearing Voices](https://open.spotify.com/track/46xL5K2FYBjmz9BlWPxuoH) | [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF) | [Hearing Voices](https://open.spotify.com/album/7gu4c1AfxRS9a9FXsliws8) | 2:17 | 2022-08-19 | 2022-09-15 |
 | [HEARTBREAK](https://open.spotify.com/track/4wfyPcZmzGtaqeX9fUQdvH) | [Thomas Dyer](https://open.spotify.com/artist/0zafkmWONVZBKA0vswzyaL) | [HEARTBREAK](https://open.spotify.com/album/5JW3DiuistWGjMIobU5X6n) | 2:29 | 2022-10-05 |  |
-| [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 | 2022-08-19 |  |
+| [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 | 2022-08-19 | 2022-10-09 |
 | [Heaven](https://open.spotify.com/track/5CadVyJeeehuMNhESZxvvM) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Heaven](https://open.spotify.com/album/5eJI0nLtSgzMjrg1ENvM1G) | 3:03 | 2021-09-29 | 2022-01-13 |
 | [Heaven](https://open.spotify.com/track/27V7dVBXaLd4wpysO3oSDh) | [SkipTwn](https://open.spotify.com/artist/3SIvF6xXyBZ20jfsSSmBPp) | [Heaven](https://open.spotify.com/album/5DUEj9otT21sDbBzfi3o9B) | 2:34 | 2022-02-02 | 2022-03-12 |
 | [Heaven on Earth](https://open.spotify.com/track/3FTpb7bVZEK503Ldoiewm1) | [Roann](https://open.spotify.com/artist/6OwRvBiAqnNokRLAtnGDLy), [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Heaven on Earth](https://open.spotify.com/album/08R8TFMIdn2IwhDOmfKmqA) | 3:12 | 2022-08-26 |  |
@@ -341,7 +342,7 @@
 | [I Hate It Here \- Live](https://open.spotify.com/track/66E7IrBV9rd5YNR6xCQJsy) | [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Live From the Pit](https://open.spotify.com/album/7Jwxk8laLKJF5gWLWIamVj) | 2:30 | 2022-03-23 | 2022-04-28 |
 | [I Just Think](https://open.spotify.com/track/62YR1nGRTdCWQYzfeb3Ck9) | [NEL](https://open.spotify.com/artist/37Lfj8dsuyCiHcXj9SyVy9) | [Lucky](https://open.spotify.com/album/1JDkzuh3dAeEWkldLgT3qs) | 2:56 | 2021-12-01 | 2022-01-13 |
 | [I MISS YOU GIRL](https://open.spotify.com/track/7pxMEYy2qwHkWoydHwwlgF) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Pain Pack 5](https://open.spotify.com/album/1uFA5iORLhr87nFJWjpTiM) | 2:56 | 2022-03-02 | 2022-03-12 |
-| [I Need a Man](https://open.spotify.com/track/0H6tQF3utjC4olH20goN1e) | [Alexia Jayy](https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta) | [I Need a Man](https://open.spotify.com/album/7hdcL7uo2Zj6vjjA8TrjHi) | 2:18 | 2022-09-09 |  |
+| [I Need a Man](https://open.spotify.com/track/0H6tQF3utjC4olH20goN1e) | [Alexia Jayy](https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta) | [I Need a Man](https://open.spotify.com/album/7hdcL7uo2Zj6vjjA8TrjHi) | 2:18 | 2022-09-09 | 2022-10-09 |
 | [i only want you when i'm fucked up](https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/66rUUFDt246hX2JYzZpfOK) | 3:52 | 2022-01-12 | 2022-02-10 |
 | [I Want You](https://open.spotify.com/track/0Xk5Tc61jtbwYhEn8tfYXj) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [I Want You](https://open.spotify.com/album/7m8BVFA0i1OU39aSQ3oxbB) | 3:11 | 2022-05-20 | 2022-08-27 |
 | [I Won't Fall To Your Love](https://open.spotify.com/track/17qHPhUy9pzTQtB4jBYKjM) | [Nick Moore](https://open.spotify.com/artist/7ukZgEvzF0YdF9vw8axy5h) | [I Won't Fall To Your Love](https://open.spotify.com/album/20knLZluvaF9ogIjJeBEsX) | 3:16 | 2022-06-16 | 2022-08-27 |
@@ -739,7 +740,7 @@
 | [Why You Wanna](https://open.spotify.com/track/2HdXu7KYcTU1amXr8tN95b) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz), [Noah Klein](https://open.spotify.com/artist/6v46qXvQK6xsSibC2xnftD) | [Why You Wanna](https://open.spotify.com/album/4PMNtKV2Nf6iXm502kBGWj) | 3:11 | 2022-01-12 | 2022-02-17 |
 | [WHY! \(Jack's Joint\)](https://open.spotify.com/track/2BwSqHhFOMMHmgo8e5oQ5O) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [SANDBOX](https://open.spotify.com/album/0U9pkYmdYhjcL2K9dQEAQq) | 2:51 | 2022-06-09 | 2022-08-11 |
 | [Without Me](https://open.spotify.com/track/6M2iCUpmg3f1bqfgGYMzJs) | [Molly & The Chromatics](https://open.spotify.com/artist/6Wap3IvFzYwkKSGZI7YxOJ) | [Without Me](https://open.spotify.com/album/7kTrMWph2BGwAmNEwJDfaw) | 4:00 | 2022-01-12 | 2022-02-03 |
-| [Without Trying](https://open.spotify.com/track/4EykTroSo3K4ndv79w4aBk) | [Shann](https://open.spotify.com/artist/0rfFF5vQ2Jq3Kv8HCxjRGk) | [Without Trying](https://open.spotify.com/album/6JIBuc8dbQLkeYXUo5JOBu) | 3:10 | 2022-08-19 |  |
+| [Without Trying](https://open.spotify.com/track/4EykTroSo3K4ndv79w4aBk) | [Shann](https://open.spotify.com/artist/0rfFF5vQ2Jq3Kv8HCxjRGk) | [Without Trying](https://open.spotify.com/album/6JIBuc8dbQLkeYXUo5JOBu) | 3:10 | 2022-08-19 | 2022-10-09 |
 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 | 2022-09-01 |  |
 | [Wonderful Day \(feat\. Savage The Girl\)](https://open.spotify.com/track/3wAgbgGu600ozgI1SqJK0E) | [Scruffs](https://open.spotify.com/artist/3JUDvBdW2BiLX7RT91hu3r), [Savage the Girl](https://open.spotify.com/artist/5BPqz5MFCyVf4XnC56Cyw7) | [Wonderful Day \(feat\. Savage The Girl\)](https://open.spotify.com/album/7Jl7JiRqFaqheMPWjxl3N9) | 4:10 | 2022-01-12 | 2022-02-10 |
 | [WORK 4 A SMILE \(DEMO\)](https://open.spotify.com/track/0pgR8YHXEZPOAo93QvWyhA) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8) | [DEPRESSED BUT MAKE IT COOL](https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0) | 1:50 | 2022-09-14 |  |

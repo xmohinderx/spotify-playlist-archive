@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-807 songs - 1 day 18 hr 11 min - [published](https://open.spotify.com/playlist/5DcefufghevVf1SGhXA5NO)
+808 songs - 1 day 18 hr 14 min - [published](https://open.spotify.com/playlist/5DcefufghevVf1SGhXA5NO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Evil Ways](https://open.spotify.com/track/5tmrnhMxx39jnu3kjopMdP) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 3:58 | 2019-07-20 | 2021-10-13 |
 | [Ferry Cross the Mersey \- Stereo; 1997 Remaster](https://open.spotify.com/track/3NFScsiDPfCzKgQQUL0674) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [Ferry Cross The Mersey \[Mono And Stereo Version\]](https://open.spotify.com/album/51mN3VJrZjN6h30AuqAqGD) | 2:23 | 2019-06-07 | 2022-07-29 |
 | [Fire](https://open.spotify.com/track/6cVdoWiwNGbmE6tcpZ2GSc) | [Arthur Brown](https://open.spotify.com/artist/4Wyn0ejiSIAgFhCL6zbTRm) | [The Crazy World Of Arthur Brown](https://open.spotify.com/album/2gu9Q6wy3ftQtg4lplR7SP) | 2:54 | 2019-07-24 | 2019-08-05 |
-| [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2022-06-08 |  |
+| [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2022-06-08 | 2022-10-09 |
+| [Fly Me To The Moon \- 2008 Remastered](https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 2:27 | 2022-08-12 |  |
 | [Fly Me To The Moon \- Remastered 2008](https://open.spotify.com/track/716ee4WXvayYh2RnB2fN1F) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/54jgcQieeiqZEuA8fb5CsZ) | 2:27 | 2019-05-30 | 2021-10-14 |
 | [Folsom Prison Blues](https://open.spotify.com/track/0LTSNmOLBt25GMjHlxp9OR) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line](https://open.spotify.com/album/2xG5VLMFnDKhjJhsiJDcGm) | 2:35 | 2019-05-28 | 2019-08-29 |
 | [Folsom Prison Blues \- Live at Folsom State Prison, Folsom, CA \- January 1968](https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [At Folsom Prison](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) | 2:42 | 2020-08-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 122430,
+  "num_followers": 122764,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MzYwMCwwMDAwMDAwMGNmYmI4ODFjYjI5YjQ5MjdhYzg4YzAzNmU1Nzk0MDVj",
+  "snapshot_id": "MTY2NDU1MzYwMCwwMDAwMDAwMDZlNWFlNDRlMTBmNmUxMDQ2YTI3MDk5ZDgwZTkxMWUy",
   "tracks": [
     {
       "added_at": "2022-09-26 04:18:51",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+    },
+    {
+      "added_at": "2022-09-26 04:18:51",
+      "album": {
         "name": "Thinking Bout You",
         "url": "https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 190946,
       "name": "Thinking Bout You",
       "url": "https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8"
-    },
-    {
-      "added_at": "2022-09-26 04:18:51",
-      "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
-        "name": "I Guess That Was Goodbye",
-        "url": "https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl"
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 190243,
-      "name": "I Guess That Was Goodbye",
-      "url": "https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg"
+      "duration_ms": 180604,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
+        "name": "I Guess That Was Goodbye",
+        "url": "https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 180604,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
+      "duration_ms": 190243,
+      "name": "I Guess That Was Goodbye",
+      "url": "https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
-        "name": "Another",
-        "url": "https://open.spotify.com/album/2o00QOSTq7b4PmxWoXaDfu"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
       },
       "artists": [
         {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
         }
       ],
-      "duration_ms": 170132,
-      "name": "Another",
-      "url": "https://open.spotify.com/track/3tspXbvwbQF4zRk6dD7pqq"
+      "duration_ms": 144960,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+        "name": "Another",
+        "url": "https://open.spotify.com/album/2o00QOSTq7b4PmxWoXaDfu"
       },
       "artists": [
         {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
         }
       ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
+      "duration_ms": 170132,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/3tspXbvwbQF4zRk6dD7pqq"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/0TlyEfOkm86OhT6NQcnWIt"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 223913,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z"
+    },
+    {
+      "added_at": "2022-09-26 04:18:51",
+      "album": {
         "name": "Friends (with Pamungkas)",
         "url": "https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 199601,
       "name": "Friends (with Pamungkas)",
       "url": "https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n"
-    },
-    {
-      "added_at": "2022-09-26 04:18:51",
-      "album": {
-        "name": "Constellations",
-        "url": "https://open.spotify.com/album/0TlyEfOkm86OhT6NQcnWIt"
-      },
-      "artists": [
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 223913,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z"
     }
   ],
   "unique_name": "tapioca",

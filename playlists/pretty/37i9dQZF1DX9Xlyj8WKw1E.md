@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover, Freddie Gibbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,330 likes - 57 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,329 likes - 57 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 42 | [Believe \- Stimulator Jones Remix](https://open.spotify.com/track/2U77XlwVr3PLiSeiW92J2K) | [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4), [Chuck Inglish](https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv), [Stimulator Jones](https://open.spotify.com/artist/7uuvPwRD3I1UHDPNnbaY6C) | [Believe \(Stimulator Jones Remix\)](https://open.spotify.com/album/0BVAjSv4kEmopbL8Elklv4) | 2:53 |
 | 43 | [I Told Her \(feat\. G Herbo\)](https://open.spotify.com/track/6PF4penvueXSemUAILV3Bd) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [I Told Her \(feat\. G Herbo\)](https://open.spotify.com/album/1llYHboVMsUMORLIq5CssO) | 2:22 |
 | 44 | [College Town](https://open.spotify.com/track/7HL1udj0yd0YKj2FOjCjeU) | [Bj](https://open.spotify.com/artist/2Z5XtkutMYyA8gt14mLANU) | [College Town](https://open.spotify.com/album/05q1lDI2tbjZ655zeq7jkr) | 2:19 |
-| 45 | [Mount Olympus](https://open.spotify.com/track/6A91FyIf9FLnqSxwh175uX) | [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [The Tour Pack](https://open.spotify.com/album/48ecqfl38tl2xv7LpBNY7U) | 2:39 |
+| 45 | [Mount Olympus](https://open.spotify.com/track/6A91FyIf9FLnqSxwh175uX) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [The Tour Pack](https://open.spotify.com/album/48ecqfl38tl2xv7LpBNY7U) | 2:39 |
 | 46 | [Regardless](https://open.spotify.com/track/0vRhfvw60myrUaWEOqt6kB) | [Bari](https://open.spotify.com/artist/3IrrjuvOPa1KFxq0Kk8pvN), [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo) | [Regardless](https://open.spotify.com/album/4I5N0wE0n7w14jpoApTAwp) | 2:51 |
 | 47 | [FYD](https://open.spotify.com/track/3EUCsRolJekwxGt5id8kww) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [FYD](https://open.spotify.com/album/24iMwkCOV0iqxtGo41eH4a) | 2:26 |
 | 48 | [Wait A Minute \- Vocal Mix](https://open.spotify.com/track/5iqshVJZ5mWUZo0be4tnJS) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Wait A Minute](https://open.spotify.com/album/1a8RwDxp7VfIY7n3Wb92rV) | 4:24 |

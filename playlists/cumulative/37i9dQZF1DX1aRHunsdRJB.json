@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 171964,
       "name": "Behave Pun It",
       "url": "https://open.spotify.com/track/56AjWZnckGDACRkOOQSYIz"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 191067,
       "name": "Boom Bang",
       "url": "https://open.spotify.com/track/6gFQb0VIN3ucwjmOkyGYrH"
@@ -664,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Rats Hole Riddim",
+        "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
+    },
+    {
+      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
       },
@@ -889,7 +907,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 233394,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/7s489YdEjOl8mGcSRFLgzi"
@@ -1237,6 +1255,24 @@
     {
       "album": {
         "name": "Darkseid Riddim",
+        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214738,
+      "name": "Nasty Up",
+      "url": "https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15"
+    },
+    {
+      "album": {
+        "name": "Darkseid Riddim",
         "url": "https://open.spotify.com/album/4ZiVdukO3hIobnU3ntuq68"
       },
       "artists": [
@@ -1269,7 +1305,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 235000,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/57vT8YfFjsllsHxqF1KGLR"

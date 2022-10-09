@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Viva Suecia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,365 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,406 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 14 | [Sádico](https://open.spotify.com/track/5yrmPDIcveXTjvajU24JCr) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT) | [Sádico](https://open.spotify.com/album/6WM1bkOHs8rlc1AfXxU8eI) | 3:27 |
 | 15 | [OCULTISMO](https://open.spotify.com/track/47obEo8qLinB8rXNDgN6P6) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [OCULTISMO](https://open.spotify.com/album/1qmzYglAkSKgR65AhuIPkk) | 9:31 |
 | 16 | [Dime por Qué](https://open.spotify.com/track/30hb88AQAdHSvSeZaml0oe) | [Gato Ventura](https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ) | [Dime por Qué](https://open.spotify.com/album/1QLorYr3Di0Q16CkBxdDF1) | 2:30 |
-| 17 | [Recuerdos Desechables](https://open.spotify.com/track/6KaUMpDH30LNmBhiLcMUtC) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/4uUZcwxBslFK0F4gT7fDcf) | 3:30 |
+| 17 | [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 |
 | 18 | [No Puedo Seguir](https://open.spotify.com/track/5OKE59q4InXCgaK8VjP8oX) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP), [Blindaje 10](https://open.spotify.com/artist/3e80u3DTKgcYhgN9HuG4oK), [Jaider White](https://open.spotify.com/artist/2oAdgZHcguW7xGY9i1xqso) | [No Puedo Seguir](https://open.spotify.com/album/7GJHDd2jieCKdZKmAMLj5Z) | 2:57 |
 | 19 | [La Ilusión](https://open.spotify.com/track/4Pi4u4y0MNy3Il74fQHy3q) | [Mauro Conforti & La Vida Marciana](https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr), [Haien](https://open.spotify.com/artist/3hZeDi28TENOJwzyYR1dxu) | [La Ilusión](https://open.spotify.com/album/5DVRGgvC9qX7k7dZPz8ok7) | 2:55 |
 | 20 | [Hiroshima & Nagasaki](https://open.spotify.com/track/1eQ0bZtVEsPX3zzFRVmBb1) | [Columpios Al Suelo](https://open.spotify.com/artist/3F0CSoPGpHfiKtyEdKOOrQ), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Colores](https://open.spotify.com/album/7i8rat229BfY7YNrXSoPSz) | 7:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Millones](https://open.spotify.com/track/2GpOdBOdjHv0QsLFCkGYSq) | [Sandré](https://open.spotify.com/artist/5jO693ntO8nc5utL8HpE4H) | [Millones](https://open.spotify.com/album/0hb6nmcB7Stjw6Y1g81itZ) | 2:18 |
 | 50 | [Korea](https://open.spotify.com/track/4xP6pfadCFsCE1OA22BgZG) | [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Korea](https://open.spotify.com/album/2yvW470Y2oPtTKUA4iWWQy) | 5:09 |
 
-Snapshot ID: `MTY2NTEyMDc4MCwwMDAwMDAwMGNjYzI5ZDU3MzNlZWU0YzQ0NTMyY2VkNDM0MjRkNTgw`
+Snapshot ID: `MTY2NTEyMDc4MCwwMDAwMDAwMDAxYjgzMmFkYzFiNGNhNmNmNzM1ZjZkMjA1MDUwZDM3`

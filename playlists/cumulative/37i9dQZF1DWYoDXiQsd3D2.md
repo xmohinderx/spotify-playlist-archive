@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-131 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
+132 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Glow \- Foam and Sand Rework](https://open.spotify.com/track/6TuQKHMMawk2rswRisvV9J) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Glow \(Foam and Sand Rework\)](https://open.spotify.com/album/5CEIDLZZdmlacCspDjYNYJ) | 4:15 | 2022-04-26 |  |
 | [Healing as a Family](https://open.spotify.com/track/5I2JZN9KZ4lr5kbBdo9uBF) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Healing as a Family](https://open.spotify.com/album/4LUUHOC65IkEQBNbdC39om) | 1:22 | 2022-10-04 |  |
 | [Heaven's Light](https://open.spotify.com/track/4JZ0hrOLxQbFJe1F3l80rY) | [David Tolk](https://open.spotify.com/artist/3OvrUspbOHgGI6T7D5Fb6P) | [Heaven's Light](https://open.spotify.com/album/6q0H6CzNOXniZmfhBjInmI) | 3:19 | 2022-10-04 |  |
-| [Hind / Aska \- Harpa Sessions](https://open.spotify.com/track/5SvXKhkzEg3it60Ca1bMY1) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/42bHJ4yCifsYfAc2FyUREf) | 2:59 | 2022-10-04 |  |
+| [Hind / Aska \- Harpa Sessions](https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 2:59 | 2022-10-04 |  |
+| [Hind / Aska \- Harpa Sessions](https://open.spotify.com/track/5SvXKhkzEg3it60Ca1bMY1) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/42bHJ4yCifsYfAc2FyUREf) | 2:59 | 2022-10-04 | 2022-10-09 |
 | [In All This Heavy Blue](https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [In All This Heavy Blue](https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM) | 4:36 | 2022-10-04 |  |
 | [In Cold Light \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Human Reworked](https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu) | 4:37 | 2022-01-05 |  |
 | [In Love](https://open.spotify.com/track/0ySS0g7IJLwijoCQHWdOOO) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Love](https://open.spotify.com/album/4NqSB7ip9Wbaj3N4r8xRMv) | 3:24 | 2022-10-04 |  |

@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-510 songs - 1 day 2 hr 45 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+511 songs - 1 day 2 hr 48 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Call Me Over](https://open.spotify.com/track/65AuuSC0parBq0hAFyA22v) | [Dusky Grey](https://open.spotify.com/artist/3jFE9Q1V7P1AkbU5UzPEol) | [Call Me Over](https://open.spotify.com/album/0GF9iQgs4WkJhfSO8PgjO9) | 3:31 | 2022-01-21 | 2022-04-15 |
 | [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/album/5QMT9mIOJDWUfoDZwUKYvc) | 3:12 | 2022-01-14 |  |
 | [Called Home](https://open.spotify.com/track/53MCUyJ3sxf8YGaiYiC4G6) | [Clay Pirinha](https://open.spotify.com/artist/5p9Qtx5I4CJqr04ID07XXu), [JKW](https://open.spotify.com/artist/0M89PD00gvmH7R30uowa8w) | [Called Home](https://open.spotify.com/album/4Balkzz2ZZ57cvEmbEia1c) | 2:18 | 2022-07-08 |  |
+| [Candy](https://open.spotify.com/track/0uUsgAopQCPq3Svd8eX3oY) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Candy](https://open.spotify.com/album/5bmm38vOkEsBLHEEew35tS) | 2:33 | 2022-10-07 |  |
 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 | 2022-01-14 | 2022-08-20 |
 | [Casablanca](https://open.spotify.com/track/0ykA4gIBawfUCPIsvOYRav) | [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Casablanca](https://open.spotify.com/album/7rPjBWtdkD62f7jJjG7tyK) | 3:19 | 2022-07-15 |  |
 | [Catch & Release \(Deepend remix\)](https://open.spotify.com/track/4FqrgfKej2jv450UFW6PP8) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Catch & Release \(Deepend Remix\)](https://open.spotify.com/album/5sqntSzkY2R20wXnHIzhlv) | 3:15 | 2022-01-14 | 2022-04-21 |
@@ -359,7 +360,7 @@
 | [Probably Paradise](https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS) | [Luvine](https://open.spotify.com/artist/4mxVvkFC2mmOJ5QXBdRSDy), [Lisa Rowe](https://open.spotify.com/artist/4WCciDwAfaLXtcH4yjfaDq) | [Probably Paradise](https://open.spotify.com/album/1XPGR76SriABi9I1b794RV) | 2:03 | 2022-06-17 |  |
 | [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-12 |  |
 | [Promised Land](https://open.spotify.com/track/7vFdMady6yRx1qxCwselLU) | [Saco](https://open.spotify.com/artist/1LnBqMojv6Dv6DoPWTDSZ7), [Sparkle](https://open.spotify.com/artist/7BeoNJ6WZom7jzqdfTxnV8) | [Promised Land](https://open.spotify.com/album/1tDGyFigNB5DaBFJepjvho) | 2:48 | 2022-06-10 |  |
-| [Pull Me](https://open.spotify.com/track/46QfufNUnY25faVWLkohut) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Pull Me](https://open.spotify.com/album/2r7UMwqqkXaw7n9DWNOpSq) | 2:49 | 2022-09-23 |  |
+| [Pull Me](https://open.spotify.com/track/46QfufNUnY25faVWLkohut) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Pull Me](https://open.spotify.com/album/2r7UMwqqkXaw7n9DWNOpSq) | 2:49 | 2022-09-23 | 2022-10-09 |
 | [Pumped Up \- Ryan Riback Remix](https://open.spotify.com/track/4DWSl33tt6k4H4Unj7YWs5) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Pumped Up \(Ryan Riback Remix\)](https://open.spotify.com/album/7CbJ6KBdQYtIBMBPzcKIbe) | 3:00 | 2022-01-14 | 2022-04-21 |
 | [Punga](https://open.spotify.com/track/1zKL8G85Yx3T9Q84TuOCSL) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2w2DVkRZJV2hG8vEndFwO7) | 5:08 | 2022-02-18 | 2022-04-09 |
 | [Ragga \- Radio Edit](https://open.spotify.com/track/6JKSgnPypPIs08k1SGOhXD) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [Ragga](https://open.spotify.com/album/0dZGEkZHi9KzT6TdgM4wi6) | 3:23 | 2022-01-14 | 2022-04-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 187745,
+  "num_followers": 187772,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjI0NiwwMDAwMDAwMDdjZTA2MjE0ODQ3NGMyMTU0MTE0NmJhOWUwYjI2ODM5",
+  "snapshot_id": "MTY1OTA0NjI0NiwwMDAwMDAwMDI1N2IwNjNkMTJmNDVhYzg5NDE5ZDkyOTE1YTViNWY1",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:46",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-07-28 22:10:46",
       "album": {
+        "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 224063,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
+    },
+    {
+      "added_at": "2022-07-28 22:10:46",
+      "album": {
         "name": "Staying at Tamara's (Remixes)",
         "url": "https://open.spotify.com/album/25Fa2sqxbfNOeCh3DokwDs"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 193037,
       "name": "Shotgun (The Wild Remix)",
       "url": "https://open.spotify.com/track/4W7B68ptUXQLym1oIiGuod"
-    },
-    {
-      "added_at": "2022-07-28 22:10:46",
-      "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 224063,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
     },
     {
       "added_at": "2022-07-28 22:10:46",
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2022-07-28 22:10:46",
       "album": {
-        "name": "Fiender \u00e4r tr\u00e5kigt",
-        "url": "https://open.spotify.com/album/5IpwTXB95XBp7YVUESyhVi"
+        "name": "Bittersweet Symphony",
+        "url": "https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh"
       },
       "artists": [
         {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "Emily Roberts",
+          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Tillf\u00e4lligheter",
-      "url": "https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz"
+      "duration_ms": 194618,
+      "name": "Bittersweet Symphony",
+      "url": "https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

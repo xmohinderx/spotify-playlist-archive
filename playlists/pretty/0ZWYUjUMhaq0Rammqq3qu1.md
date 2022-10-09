@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > The best dance hits of 2022, featuring Felix Jaehn, Darius &amp; Finlay, and more! Find all the best dance tracks here, and discover new favorites! Cover: Gryffin
 
-[Digster](https://open.spotify.com/user/digster.fm) - 117,461 likes - 62 songs - 3 hr 20 min
+[Digster](https://open.spotify.com/user/digster.fm) - 117,451 likes - 62 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

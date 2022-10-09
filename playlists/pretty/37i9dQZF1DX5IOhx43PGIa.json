@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 246257,
+  "num_followers": 246323,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDI0ZDBhNWU5ODRkYTY4MTA4ZDZlN2MxYTI3YWRmYWFm",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDc0ZWNhZTVhNGY5ZDYyYTU3MzlkMDE1YTdkOTMyMzdi",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Dive with you (feat. eaJ)",
-        "url": "https://open.spotify.com/album/4Ax41uyC6zscjAXjYd6cq8"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        },
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "Dive with you (feat. eaJ)",
-      "url": "https://open.spotify.com/track/5RqwjQWDwxQ3HTkOfXTrS6"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie"
       },
@@ -983,18 +963,38 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+        "name": "Dive with you (feat. eaJ)",
+        "url": "https://open.spotify.com/album/4Ax41uyC6zscjAXjYd6cq8"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
         }
       ],
-      "duration_ms": 205059,
-      "name": "Send My Love To John",
-      "url": "https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa"
+      "duration_ms": 218240,
+      "name": "Dive with you (feat. eaJ)",
+      "url": "https://open.spotify.com/track/5RqwjQWDwxQ3HTkOfXTrS6"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Shortcut To Heaven",
+        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 184343,
+      "name": "Shortcut To Heaven",
+      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Shortcut To Heaven",
-        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
       },
       "artists": [
         {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 184343,
-      "name": "Shortcut To Heaven",
-      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
+      "duration_ms": 205059,
+      "name": "Send My Love To John",
+      "url": "https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/17HxYIWUvrRw9xIpx6AFqM"
+      },
+      "artists": [
+        {
+          "name": "J. Maya",
+          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
+        }
+      ],
+      "duration_ms": 176150,
+      "name": "Golden Age",
+      "url": "https://open.spotify.com/track/3hModU6Dy7ym4BO9r7zxFG"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Brightside",
         "url": "https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ"
       },
@@ -1231,38 +1247,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/17HxYIWUvrRw9xIpx6AFqM"
+        "name": "u & i",
+        "url": "https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh"
       },
       "artists": [
         {
-          "name": "J. Maya",
-          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
-        }
-      ],
-      "duration_ms": 176150,
-      "name": "Golden Age",
-      "url": "https://open.spotify.com/track/3hModU6Dy7ym4BO9r7zxFG"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
         },
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "CARELESS",
+          "url": "https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p"
         }
       ],
-      "duration_ms": 192585,
-      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
-      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
+      "duration_ms": 183435,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 192585,
+      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
+      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1311,22 +1331,6 @@
       "duration_ms": 241458,
       "name": "grateful",
       "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ"
-      },
-      "artists": [
-        {
-          "name": "Monsta X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        }
-      ],
-      "duration_ms": 146096,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1347,22 +1351,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "u & i",
-        "url": "https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh"
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ"
       },
       "artists": [
         {
-          "name": "James Reid",
-          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
-        },
-        {
-          "name": "CARELESS",
-          "url": "https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p"
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
-      "duration_ms": 183435,
-      "name": "u & i",
-      "url": "https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ"
+      "duration_ms": 146096,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1383,6 +1383,22 @@
       "duration_ms": 216225,
       "name": "Color Me (Feat. CHUNG HA)",
       "url": "https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "end credits",
+        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 248500,
+      "name": "end credits",
+      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1435,78 +1451,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "end credits",
-        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 248500,
-      "name": "end credits",
-      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "oh to be in love",
-        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 222167,
-      "name": "Bad Haircut (feat. JVKE)",
-      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "EXPIRED",
-        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
-      },
-      "artists": [
-        {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
-        }
-      ],
-      "duration_ms": 146739,
-      "name": "EXPIRED",
-      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "honest (feat. moon tang)",
-        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        },
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "honest (feat. moon tang)",
-      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Hello 2.0 (Legends Only) [feat. \u00d8ZI]",
         "url": "https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ"
       },
@@ -1535,22 +1479,58 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Future Ghost (feat. Violette Wautier)",
-        "url": "https://open.spotify.com/album/7L3t2HadtexkFDvW4MPlJH"
+        "name": "EXPIRED",
+        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
       },
       "artists": [
         {
-          "name": "Weird Genius",
-          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
-        },
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Future Ghost (feat. Violette Wautier)",
-      "url": "https://open.spotify.com/track/3LcAn7vLisYcHAnACmLvO1"
+      "duration_ms": 146739,
+      "name": "EXPIRED",
+      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "oh to be in love",
+        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 222167,
+      "name": "Bad Haircut (feat. JVKE)",
+      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "honest (feat. moon tang)",
+        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        },
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "honest (feat. moon tang)",
+      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1583,6 +1563,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Future Ghost (feat. Violette Wautier)",
+        "url": "https://open.spotify.com/album/7L3t2HadtexkFDvW4MPlJH"
+      },
+      "artists": [
+        {
+          "name": "Weird Genius",
+          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Future Ghost (feat. Violette Wautier)",
+      "url": "https://open.spotify.com/track/3LcAn7vLisYcHAnACmLvO1"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Freaky (RGB)",
         "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
       },
@@ -1595,30 +1595,6 @@
       "duration_ms": 109296,
       "name": "Freaky (RGB)",
       "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Hot One",
-        "url": "https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9"
-      },
-      "artists": [
-        {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        }
-      ],
-      "duration_ms": 176445,
-      "name": "Hot One",
-      "url": "https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1643,6 +1619,30 @@
       "duration_ms": 205094,
       "name": "let's run away",
       "url": "https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Hot One",
+        "url": "https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9"
+      },
+      "artists": [
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "duration_ms": 176445,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1919,6 +1919,30 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "HiROQUEST: Genesis",
+        "url": "https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        },
+        {
+          "name": "Global Dan",
+          "url": "https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c"
+        }
+      ],
+      "duration_ms": 213655,
+      "name": "Movie Star (ft. MOD SUN & Global Dan)",
+      "url": "https://open.spotify.com/track/10X6ueKex7MGPXgt0ESpEs"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "No Saints on Knight Street",
         "url": "https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4"
       },
@@ -2003,6 +2027,30 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/687uOfAM7hTY67aF32Pu7H"
+      },
+      "artists": [
+        {
+          "name": "MFMF.",
+          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
+        },
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        },
+        {
+          "name": "RESORT",
+          "url": "https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2CG7zjTjZHHjkimuGGLiOP"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Bones & The Boy",
         "url": "https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT"
       },
@@ -2027,30 +2075,6 @@
       "duration_ms": 151637,
       "name": "If You Leave Me Alone",
       "url": "https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/687uOfAM7hTY67aF32Pu7H"
-      },
-      "artists": [
-        {
-          "name": "MFMF.",
-          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
-        },
-        {
-          "name": "Talitha.",
-          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
-        },
-        {
-          "name": "RESORT",
-          "url": "https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2CG7zjTjZHHjkimuGGLiOP"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -2215,18 +2239,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Picture Myself",
-        "url": "https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT"
+        "name": "chump change",
+        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
       },
       "artists": [
         {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
         }
       ],
-      "duration_ms": 211337,
-      "name": "Picture Myself",
-      "url": "https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel"
+      "duration_ms": 132826,
+      "name": "sardines",
+      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -2247,6 +2275,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Picture Myself",
+        "url": "https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 211337,
+      "name": "Picture Myself",
+      "url": "https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Waiting For Love",
         "url": "https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB"
       },
@@ -2263,26 +2307,6 @@
       "duration_ms": 262702,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "chump change",
-        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 132826,
-      "name": "sardines",
-      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -2339,6 +2363,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "i'm having a hard time being myself",
+        "url": "https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09"
+      },
+      "artists": [
+        {
+          "name": "Jae Luna",
+          "url": "https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "i'm having a hard time being myself",
+      "url": "https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "THREE IN THE MORNING",
         "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
       },
@@ -2375,22 +2415,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "i'm having a hard time being myself",
-        "url": "https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09"
-      },
-      "artists": [
-        {
-          "name": "Jae Luna",
-          "url": "https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "i'm having a hard time being myself",
-      "url": "https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "do it right (feat. Amin\u00e9)",
         "url": "https://open.spotify.com/album/3n1Yy29B8hAPS3X3K3YGgP"
       },
@@ -2411,26 +2435,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "HiROQUEST: Genesis",
-        "url": "https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg"
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/0dCKftLBkpep9tF6v91uUD"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        },
-        {
-          "name": "Global Dan",
-          "url": "https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c"
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
         }
       ],
-      "duration_ms": 213655,
-      "name": "Movie Star (ft. MOD SUN & Global Dan)",
-      "url": "https://open.spotify.com/track/10X6ueKex7MGPXgt0ESpEs"
+      "duration_ms": 214877,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/3tcyNOKOBzLWr45Sg5gi8R"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -2447,22 +2463,6 @@
       "duration_ms": 266573,
       "name": "just like before",
       "url": "https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/0dCKftLBkpep9tF6v91uUD"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 214877,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/3tcyNOKOBzLWr45Sg5gi8R"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Get Well Soon",
+        "url": "https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ"
+      },
+      "artists": [
+        {
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+        }
+      ],
+      "duration_ms": 154346,
+      "name": "Get Well Soon",
+      "url": "https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Madonna (with Audrey Mika)",
         "url": "https://open.spotify.com/album/3Rrfdu8t7w0fn8h0c6YRwI"
       },
@@ -2523,22 +2539,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Get Well Soon",
-        "url": "https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ"
-      },
-      "artists": [
-        {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
-        }
-      ],
-      "duration_ms": 154346,
-      "name": "Get Well Soon",
-      "url": "https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Can We Have A Conversation?",
         "url": "https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF"
       },
@@ -2551,22 +2551,6 @@
       "duration_ms": 154969,
       "name": "Can We Have A Conversation?",
       "url": "https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ"
-      },
-      "artists": [
-        {
-          "name": "Superbloom",
-          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
-        }
-      ],
-      "duration_ms": 190322,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -2595,6 +2579,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "duration_ms": 190322,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "15th Dream",
         "url": "https://open.spotify.com/album/6GPi7wmWKl6cKpnDhgSSYS"
       },
@@ -2619,8 +2619,8 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "PARTY W OUT ME",
-        "url": "https://open.spotify.com/album/4EGdv4lT6qgnEEDL7FZSu7"
+        "name": "SPOILED BITCH",
+        "url": "https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53"
       },
       "artists": [
         {
@@ -2628,9 +2628,9 @@
           "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
         }
       ],
-      "duration_ms": 149626,
-      "name": "PARTY W OUT ME",
-      "url": "https://open.spotify.com/track/61fqBmhT61WSBuubgppM2N"
+      "duration_ms": 140500,
+      "name": "SPOILED BITCH",
+      "url": "https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE"
     },
     {
       "added_at": "2022-10-07 04:00:00",

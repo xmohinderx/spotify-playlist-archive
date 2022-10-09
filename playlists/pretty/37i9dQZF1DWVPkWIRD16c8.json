@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 27117,
+  "num_followers": 27204,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDI1MDU5MGE5OTBiZjhiNzQ4YzI0MWNlOGE3NjA5ZGZj",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDM1YTM2NTdjMjg5ZDA0OGQ3MDM3NWVmOGM5NTVjMDFm",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -143,6 +143,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Pat Barrett",
+        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Rescue Story",
         "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 223347,
       "name": "There Was Jesus",
       "url": "https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Pat Barrett",
-        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -671,6 +671,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        }
+      ],
+      "duration_ms": 244786,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 264320,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB"
-      },
-      "artists": [
-        {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        }
-      ],
-      "duration_ms": 244786,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "REBELS",
+        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Michael Ketterer",
+          "url": "https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo"
+        }
+      ],
+      "duration_ms": 226933,
+      "name": "Rebels",
+      "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 222936,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "REBELS",
-        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Michael Ketterer",
-          "url": "https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo"
-        }
-      ],
-      "duration_ms": 226933,
-      "name": "Rebels",
-      "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
     },
     {
       "added_at": "2019-11-20 07:28:20",

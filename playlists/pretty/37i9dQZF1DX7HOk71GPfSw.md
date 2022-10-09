@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. Bladee
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,249 likes - 129 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,560 likes - 129 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 103 | [broken](https://open.spotify.com/track/2glnsTtO3HOwZ1iUMiMKja) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [broken](https://open.spotify.com/album/3PsSalVDMPwqFWmBZZQRHB) | 2:34 |
 | 104 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 |
 | 105 | [REM \(No Sleep\)](https://open.spotify.com/track/0ByIm1EVc6JvOYwoe67EqQ) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [REM \(No Sleep\)](https://open.spotify.com/album/6MbADSPFpmV3pSkkGQHBmL) | 2:31 |
-| 106 | [Addictive/Predictive \- blackwinterwells & 8485 Remix](https://open.spotify.com/track/5XBgDnfX3HBQkHZ5yRuQgZ) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [TDJ123 DELUXE](https://open.spotify.com/album/05VFDqT4WtekPdQn8o6V1a) | 2:53 |
+| 106 | [Addictive/Predictive \- blackwinterwells & 8485 Remix](https://open.spotify.com/track/4a6NbVcxHCKtlisuxCX6ry) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [TDJ123 DELUXE](https://open.spotify.com/album/2x1Ox1a7MYTamrbp11Y6LA) | 2:53 |
 | 107 | [veins](https://open.spotify.com/track/4VpfWYX22H2B27glBf4t19) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [veins](https://open.spotify.com/album/2RMupCS5u3dxfhV1OaxCI9) | 3:46 |
 | 108 | [my mistakes as run on sentences](https://open.spotify.com/track/2Zlynhm62f2iSZhpB8h7kl) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [my mistakes as run on sentences](https://open.spotify.com/album/6LYcryceJaNUspKLhyKtcy) | 2:04 |
 | 109 | [Everybody's dead! \- Virtual Riot Version](https://open.spotify.com/track/1UJeLGFBvPxOxe0WTftc99) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Everybody's dead! \(Virtual Riot Version\)](https://open.spotify.com/album/2EW0TpMFj9PkgTmNeR29pd) | 3:30 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 128 | [Chaeri \- Danny L Harle Remix](https://open.spotify.com/track/7J7RRxuYT8HYl41NqSO63P) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Chaeri \(Danny L Harle Remix\)](https://open.spotify.com/album/1p9eQZIVql8ZbVVVYay9HD) | 3:22 |
 | 129 | [nvr](https://open.spotify.com/track/6RzQkHU58a2nkI8yTRFjoh) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [nvr](https://open.spotify.com/album/2Dx2EbRyuEnR6bSY7Bk8K6) | 2:44 |
 
-Snapshot ID: `MTY2NTExODU2MCwwMDAwMDAwMDhjYmU0MTNmNGNiZGM2ZTVkN2M1NjgxNzRlNzYyNzZk`
+Snapshot ID: `MTY2NTExODU2MCwwMDAwMDAwMDdmZTVlM2YzZDE5MDU2NWVmMDg1NzkxZTBjNjEwODdj`

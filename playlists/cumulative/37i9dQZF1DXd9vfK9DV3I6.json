@@ -405,7 +405,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 198962,
       "name": "Babel",
       "url": "https://open.spotify.com/track/0ZnwzjB40zdTZrEwPvaRqG"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 150106,
       "name": "Clandestina (feat. Emma Peters) - Cocaina Remix",
       "url": "https://open.spotify.com/track/5x5jtuR4qWJzC6cDTgysez"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 224727,
       "name": "Fiddle",
       "url": "https://open.spotify.com/track/3mBFt5hZcG1nQrf5zuuwpB"
@@ -1515,6 +1515,24 @@
       "duration_ms": 171428,
       "name": "Hold On To Me",
       "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
+    },
+    {
+      "album": {
+        "name": "I Can't Be",
+        "url": "https://open.spotify.com/album/1gK2t4XwijoVvpe5ge8SAu"
+      },
+      "artists": [
+        {
+          "name": "Hakan Akkus",
+          "url": "https://open.spotify.com/artist/6jtibJgWNPyrA4pIQCAZoh"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194015,
+      "name": "I Can't Be - Radio Mix",
+      "url": "https://open.spotify.com/track/0oNMDziM8JjAo3Ec1KD5wi"
     },
     {
       "album": {
@@ -2967,7 +2985,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 160051,
       "name": "One Night in Dubai",
       "url": "https://open.spotify.com/track/0AmwmAEOgm11kXiaL9jHOZ"
@@ -3588,6 +3606,28 @@
     },
     {
       "album": {
+        "name": "Siwa",
+        "url": "https://open.spotify.com/album/1M6siSNyPYT0x4CK9nAl1T"
+      },
+      "artists": [
+        {
+          "name": "Tamer ElDerini",
+          "url": "https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404948,
+      "name": "Siwa",
+      "url": "https://open.spotify.com/track/7xEKv9SP3WldWzSGOQ9S4A"
+    },
+    {
+      "album": {
         "name": "Oriental Touch 2",
         "url": "https://open.spotify.com/album/4YPYXHxyV2J5ow1GDztdO8"
       },
@@ -3657,7 +3697,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 381818,
       "name": "Souq - Bonus Track",
       "url": "https://open.spotify.com/track/4zME4qWOOXhtLlInSaBt1E"
@@ -3781,7 +3821,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 483000,
       "name": "Syria - Original",
       "url": "https://open.spotify.com/track/3rkge8kur9i26zpByFKvBu"

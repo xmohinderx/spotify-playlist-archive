@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,883 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,242 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 11 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 |
 | 12 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 |
 | 13 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 |
-| 14 | [Rollin' \(Prod\. GroovyRoom\)](https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [GEMINI](https://open.spotify.com/artist/15JJozqz7SJSBQYI1gY340), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Rollin'](https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU) | 3:09 |
+| 14 | [Rollin' \(Prod\. GroovyRoom\)](https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Rollin'](https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU) | 3:09 |
 | 15 | [Painful, Angry and Sorry](https://open.spotify.com/track/5nYbI8sOHwRGBEGsSLh9bM) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Painful, Angry and Sorry](https://open.spotify.com/album/6qPARj3DqxMNepmW1cnMLO) | 2:57 |
 | 16 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
 | 17 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |

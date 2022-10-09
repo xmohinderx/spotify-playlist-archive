@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
 
-279 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+280 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Fade into You](https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Fade into You](https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg) | 4:12 | 2022-10-02 |  |
 | [Fading Out Slowly](https://open.spotify.com/track/1rPu5YP9ZnLj4v9gLytxJO) | [Saski](https://open.spotify.com/artist/4UfJMiu878W1bQhjsuRj4t) | [Fading Out Slowly](https://open.spotify.com/album/2wrcMYL1KPNGaWWz9yXEyP) | 2:34 | 2022-04-05 | 2022-05-28 |
 | [Failure](https://open.spotify.com/track/7AJBAVu3otbF7CuPOvGW7c) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Slow Burn](https://open.spotify.com/album/7J6Zg9f19sUhiJsiIIQX1N) | 4:14 | 2022-10-02 |  |
-| [Fairytale](https://open.spotify.com/track/0o6fLmEBkaTqjH2zm2s79P) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Fairytale](https://open.spotify.com/album/59qUkMkvIeP043jMXBVUtX) | 1:58 | 2022-05-02 |  |
+| [Fairytale](https://open.spotify.com/track/0o6fLmEBkaTqjH2zm2s79P) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Fairytale](https://open.spotify.com/album/59qUkMkvIeP043jMXBVUtX) | 1:58 | 2022-05-02 | 2022-10-09 |
+| [Fairytale](https://open.spotify.com/track/1E0syS6k7fxeFj8IooFkQr) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Fairytale](https://open.spotify.com/album/49PuVlRvhiNAtblShfCeKE) | 1:58 | 2022-10-02 |  |
 | [Faith](https://open.spotify.com/track/6WpBZsVkUcbMxfknuZGdCx) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Human](https://open.spotify.com/album/2q89RJTipv3bg26HbgkRHV) | 3:25 | 2022-07-31 |  |
 | [Fall Hard, Land Gently](https://open.spotify.com/track/7xD5j7CSHxAMXhzn1DSvYm) | [Saski](https://open.spotify.com/artist/4UfJMiu878W1bQhjsuRj4t) | [Golden Hours](https://open.spotify.com/album/4Ui2AUwUW9N4a1QfZrhtZJ) | 2:30 | 2022-05-27 |  |
 | [Fear Of Dying](https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fear Of Dying](https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q) | 3:07 | 2022-03-06 | 2022-05-03 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Rei.",
-  "num_followers": 1140803,
+  "num_followers": 1140933,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDQ4YmFkZDA3MDZiYmMzMGVjMmNlYzRlMmYwZjg0NDQ3",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGQ0YjczZTliMjIzODc0ZDg4ZWFjZDc1OTNhOGYzOTg2",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -303,26 +303,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Ya No M\u00e1s",
-        "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
+        "name": "Todo Comenz\u00f3 Bailando",
+        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
       },
       "artists": [
         {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         },
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Santiago Saez",
-          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 158447,
-      "name": "Ya No M\u00e1s",
-      "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
+      "duration_ms": 178291,
+      "name": "Noche Loca",
+      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -343,22 +339,26 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Todo Comenz\u00f3 Bailando",
-        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
+        "name": "Ya No M\u00e1s",
+        "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
         },
         {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Santiago Saez",
+          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
         }
       ],
-      "duration_ms": 178291,
-      "name": "Noche Loca",
-      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
+      "duration_ms": 158447,
+      "name": "Ya No M\u00e1s",
+      "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Ya No Llora",
+        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 120638,
+      "name": "Ya No Llora",
+      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/7j5vECyVgTxKOAaEtSUYAl"
       },
@@ -527,34 +543,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "De Fiesta",
-        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "Locuras contigo",
-      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Ya No Llora",
-        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
+        "name": "Aunque Te Enamores",
+        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
       "artists": [
         {
           "name": "Marama",
           "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
         }
       ],
-      "duration_ms": 120638,
-      "name": "Ya No Llora",
-      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
+      "duration_ms": 130212,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Que Locura Fue Enamorarme de Ti (Remix)",
-        "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
       },
       "artists": [
         {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        },
-        {
-          "name": "Kevo DJ",
-          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 141453,
-      "name": "Que Locura Fue Enamorarme de Ti (Remix)",
-      "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
+      "duration_ms": 131004,
+      "name": "Locuras contigo",
+      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -615,6 +615,26 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Que Locura Fue Enamorarme de Ti (Remix)",
+        "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
+      },
+      "artists": [
+        {
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        },
+        {
+          "name": "Kevo DJ",
+          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
+        }
+      ],
+      "duration_ms": 141453,
+      "name": "Que Locura Fue Enamorarme de Ti (Remix)",
+      "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "No Se",
         "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
       },
@@ -627,22 +647,6 @@
       "duration_ms": 160689,
       "name": "No Se",
       "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 156325,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -683,22 +687,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Aunque Te Enamores",
-        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 130212,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
+      "duration_ms": 156325,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "C14TORCE V: Balada para un Alien",
-        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "C14TORCE V: Balada para un Alien",
-      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Cumbia Baby!",
         "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 185438,
       "name": "Llamame M\u00e1s Temprano",
       "url": "https://open.spotify.com/track/6JVZ8mwbwSU8iiJUE2kyql"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "C14TORCE V: Balada para un Alien",
+        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "C14TORCE V: Balada para un Alien",
+      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "La Dif\u00edcil",
+        "url": "https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 145056,
+      "name": "La Dif\u00edcil",
+      "url": "https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "La Sensaci\u00f3n del Bloque",
         "url": "https://open.spotify.com/album/1ITkLq86DWEdkI5DhdFhNE"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 187959,
       "name": "La Sensaci\u00f3n del Bloque",
       "url": "https://open.spotify.com/track/6DcBYL6EyNztiSNxnVqPVN"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "La Dif\u00edcil",
-        "url": "https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 145056,
-      "name": "La Dif\u00edcil",
-      "url": "https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 135400,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Miau",
         "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 205613,
       "name": "Tomate el Palo (feat. Leo Garc\u00eda)",
       "url": "https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "P\u00eddeme la Luna",
-        "url": "https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 169575,
-      "name": "P\u00eddeme la Luna",
-      "url": "https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 176640,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "P\u00eddeme la Luna",
+        "url": "https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 169575,
+      "name": "P\u00eddeme la Luna",
+      "url": "https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Lo Que Soy",
-        "url": "https://open.spotify.com/album/6xecqU57d7M9W2fs2lWJqW"
+        "name": "Amor para un Rato",
+        "url": "https://open.spotify.com/album/6d2tfDq3ySYq0EfwRsWtl0"
       },
       "artists": [
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+          "name": "Olvidate!",
+          "url": "https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je"
         }
       ],
-      "duration_ms": 126615,
-      "name": "Lo Que Soy",
-      "url": "https://open.spotify.com/track/0bbjLBbtPKNVnj27EB8PWf"
+      "duration_ms": 180182,
+      "name": "Amor para un Rato",
+      "url": "https://open.spotify.com/track/47EEKhimMiDtUfYNR5Ii58"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Amor para un Rato",
-        "url": "https://open.spotify.com/album/6d2tfDq3ySYq0EfwRsWtl0"
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/6xecqU57d7M9W2fs2lWJqW"
       },
       "artists": [
         {
-          "name": "Olvidate!",
-          "url": "https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
         }
       ],
-      "duration_ms": 180182,
-      "name": "Amor para un Rato",
-      "url": "https://open.spotify.com/track/47EEKhimMiDtUfYNR5Ii58"
+      "duration_ms": 126615,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/0bbjLBbtPKNVnj27EB8PWf"
     },
     {
       "added_at": "2022-10-07 03:00:00",

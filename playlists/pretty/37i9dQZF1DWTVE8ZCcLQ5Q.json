@@ -1,12 +1,12 @@
 {
   "description": "Descubra Mac J\u00falia e novos talentos brasileiros no horizonte.",
-  "num_followers": 421155,
+  "num_followers": 421173,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTc4MCwwMDAwMDAwMGUyNjY3YTk3YzIyODI2NDEyOThhM2Q3OWU2YmRmMjg2",
+  "snapshot_id": "MTY2NTExMTc4MCwwMDAwMDAwMDM4NzkyODc3MTg5N2NjNWQxYzZmNDY1MTg3MzRjM2Jl",
   "tracks": [
     {
       "added_at": "2022-10-07 03:03:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 166103,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
         "name": "Bendito Rol\u00ea",
         "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 185749,
       "name": "Eu Fico",
       "url": "https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 166103,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
+        "name": "poderia ser pior",
+        "url": "https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O"
+      },
+      "artists": [
+        {
+          "name": "Number Teddie",
+          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
+        }
+      ],
+      "duration_ms": 172414,
+      "name": "poderia ser pior",
+      "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
         "name": "Prata Amor",
         "url": "https://open.spotify.com/album/4IhqAxEhLk3FezafiOBaZU"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 158569,
       "name": "Prata Amor",
       "url": "https://open.spotify.com/track/3aiKlNW8MgZFzA3cGsaJWJ"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
-        "name": "poderia ser pior",
-        "url": "https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O"
-      },
-      "artists": [
-        {
-          "name": "Number Teddie",
-          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
-        }
-      ],
-      "duration_ms": 172414,
-      "name": "poderia ser pior",
-      "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
     },
     {
       "added_at": "2022-10-07 03:03:00",

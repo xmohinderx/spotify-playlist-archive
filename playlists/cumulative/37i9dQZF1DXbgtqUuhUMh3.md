@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Rahma Riad
 
-313 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+314 songs - 18 hr 26 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Mishta'a](https://open.spotify.com/track/4w2hGIB38EBnf4l0y8Y1UE) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Mishta'a](https://open.spotify.com/album/2JX4flVTuPELhry4HCPu1I) | 3:47 | 2022-03-08 |  |
 | [Mishtaq](https://open.spotify.com/track/4j65JzQYXQ4PNZ3PlO4LvD) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [Mishtaq](https://open.spotify.com/album/4goCWF3XFvbLmjHExq4adp) | 2:00 | 2022-04-03 |  |
 | [Mn Hadid](https://open.spotify.com/track/4SgFhANgPutWrIB5iJ377I) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Mn Hadid](https://open.spotify.com/album/2LH1fWo3lu8FN9fF2tCWja) | 2:33 | 2021-12-30 | 2022-03-02 |
+| [Msh Mestahla](https://open.spotify.com/track/6RXBr8cyhD8n3v7BSWwkZ7) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Msh Mestahla](https://open.spotify.com/album/0S1UGQ7NFzCqCAwY1wKZHY) | 3:02 | 2022-10-06 |  |
 | [Mtarred](https://open.spotify.com/track/0S0U6igYrif5Y7brdKK2uu) | [Sirine Miled](https://open.spotify.com/artist/1i69kloElAsdqtmdP5rru0) | [Mtarred](https://open.spotify.com/album/37MvMQdvwYpe94sRAaLTk0) | 3:52 | 2021-12-23 | 2022-03-02 |
 | [Na'albet Lehkayi](https://open.spotify.com/track/4mZOR5fNx4zAMkEWIyMJin) | [Angi](https://open.spotify.com/artist/4sCkRNGvfn7dtQYu3sH4Gl) | [Na'albet Lehkayi](https://open.spotify.com/album/0KeYtVEVBxEhMeXY9pGqa5) | 3:01 | 2021-12-23 | 2022-03-02 |
 | [Nafseti Sefr](https://open.spotify.com/track/6qfJt7LV8Lf4KTQnFqegFD) | [Riham](https://open.spotify.com/artist/2kkNaWuc56oKJAP77MRRHh) | [Nafseti Sefr](https://open.spotify.com/album/5TYkLU1YSF8zAUJuflIOOO) | 2:51 | 2021-12-30 | 2022-02-18 |
@@ -308,7 +309,7 @@
 | [مسرح جريمة](https://open.spotify.com/track/5timjfXtZMJ2ES6SIHngpB) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [مسرح جريمة](https://open.spotify.com/album/2F5th84z3aSD96wUZqBDXe) | 3:47 | 2021-12-23 | 2022-03-02 |
 | [مش مستاهلة](https://open.spotify.com/track/5MPZMTdpuQKvY2QZ0elrFp) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [مش مستاهلة](https://open.spotify.com/album/1itkIVwZrVHhLejalPbb9i) | 3:00 | 2022-09-20 |  |
 | [معلش](https://open.spotify.com/track/6UevY0ceM0L8M3PuLyHxRU) | [Sherihan Shawkat](https://open.spotify.com/artist/3evZrD6zWSzAM3pRgJi5eY) | [معلش](https://open.spotify.com/album/7vySmCQTu5DpLyEiEkKP78) | 2:13 | 2021-12-23 | 2022-02-28 |
-| [مفيش زينا](https://open.spotify.com/track/1wlQ4fzjRMzw3mRVpjAopn) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [مفيش زينا](https://open.spotify.com/album/4a25kSPxLcPOqdqB0kKALz) | 1:49 | 2022-09-22 |  |
+| [مفيش زينا](https://open.spotify.com/track/1wlQ4fzjRMzw3mRVpjAopn) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [مفيش زينا](https://open.spotify.com/album/4a25kSPxLcPOqdqB0kKALz) | 1:49 | 2022-09-22 | 2022-10-09 |
 | [مقصوده](https://open.spotify.com/track/1A8vh1a3SWiHTpi6VhupOy) | [Sola Omar](https://open.spotify.com/artist/5f4fUKsYW1NtyCjgwTVI6k) | [مقصوده](https://open.spotify.com/album/5s317YC0Mp2Dm5HPYFhPpv) | 3:19 | 2021-12-23 | 2022-03-02 |
 | [مليون وش](https://open.spotify.com/track/2ta3ozfEJ2O9162Wy2EcEh) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [مليون وش](https://open.spotify.com/album/3tjB3hMfLxTTbf6kIOGg3t) | 1:50 | 2021-12-23 | 2022-03-02 |
 | [من أنا](https://open.spotify.com/track/3OscCnbSCyJQiHzN9zhang) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS), [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [من أنا](https://open.spotify.com/album/3jjB43pfvp1v3ZH55nYBNV) | 5:08 | 2021-12-23 | 2022-03-01 |

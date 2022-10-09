@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-871 songs - 1 day 23 hr 46 min - [published](https://open.spotify.com/playlist/0fI15NHKYSYthkrLgIHhwC)
+872 songs - 1 day 23 hr 48 min - [published](https://open.spotify.com/playlist/0fI15NHKYSYthkrLgIHhwC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [Nitro](https://open.spotify.com/track/05xlFyESvlFXc07seiAZRq) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y) | [Ultraviolet 2.0](https://open.spotify.com/album/1FG4OXAH0WdMZA7SUAO6pW) | 4:20 | 2020-09-21\* | 2020-10-10 |
 | [No Diggity](https://open.spotify.com/track/74svMcorgPABViSTZka4yw) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st) | 3:38 | 2022-01-21 | 2022-05-21 |
 | [No Fun](https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki) | 2:10 | 2022-01-04 | 2022-05-07 |
-| [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 | 2022-09-16 |  |
+| [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 | 2022-09-16 | 2022-10-09 |
 | [No Illusions](https://open.spotify.com/track/1f3CqEw0F1134cqpfP8l4c) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [No Illusions](https://open.spotify.com/album/3KNiB2o9uMUsOGCnn8zzUI) | 2:59 | 2022-04-15 | 2022-07-26 |
 | [No Regrets \- Stadiumx Remix](https://open.spotify.com/track/66WBGs8bPw8q93EG4h1s4p) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [No Regrets \(Stadiumx Remix\)](https://open.spotify.com/album/05lostOSOgm4r0Es9PMIS0) | 3:09 | 2021-03-11 | 2021-07-24 |
 | [No Time](https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [No Time](https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI) | 2:36 | 2022-05-06 | 2022-07-28 |
@@ -561,6 +561,7 @@
 | [Professional Griefers \- Vocal Mix](https://open.spotify.com/track/2AqazcPtVXn7uhFIyInNNp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [> album title goes here <](https://open.spotify.com/album/4zksvtV0HswF5ZRJS9QsfX) | 4:03 | 2020-09-21\* | 2020-10-10 |
 | [Promises](https://open.spotify.com/track/50YQaQXog18lS11wGCl77u) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG) | 3:21 | 2021-10-09 | 2022-03-12 |
 | [Pull Me Closer](https://open.spotify.com/track/1R58ZwAFGpy4iMxa0mPmIN) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Pull Me Closer](https://open.spotify.com/album/28WRx5G880dCffLfPUpTED) | 2:44 | 2021-03-26 | 2021-09-11 |
+| [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2022-10-07 |  |
 | [Pump It Up](https://open.spotify.com/track/3tFz7n9OKBDMvrQmqE0oMR) | [Danko](https://open.spotify.com/artist/60sVnCJWU7WHTMSzK0HzPW) | [Pump It Up](https://open.spotify.com/album/2ttfC47P8tqCeHbge1rcag) | 2:52 | 2020-09-21\* | 2021-01-23 |
 | [Pump Pump](https://open.spotify.com/track/2XZ2MGJeyAeUVoDg4U2bMO) | [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Fake](https://open.spotify.com/album/24s9nNeIlOzCHW2Hf0tUN7) | 3:09 | 2020-09-21\* | 2020-11-27 |
 | [Punisher](https://open.spotify.com/track/2wrnoLYgHFZi7uCOIBMge9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Punisher](https://open.spotify.com/album/7oHZGknKLXJeZjiqvGrqYs) | 3:00 | 2020-09-21\* | 2021-01-23 |

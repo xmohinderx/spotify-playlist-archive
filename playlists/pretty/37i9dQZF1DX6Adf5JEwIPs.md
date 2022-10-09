@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Betillo Guerrero & Legion RG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,766 likes - 58 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,840 likes - 58 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 19 | [24 Horas](https://open.spotify.com/track/46fSGnEtPDf2HHv1TbS3oX) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [24 Horas](https://open.spotify.com/album/5WEuYjqs9maS0HqvwSBS2l) | 2:58 |
 | 20 | [Todo Me Recuerda A Ti](https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Todo Me Recuerda A Ti](https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ) | 3:28 |
 | 21 | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/track/1Ltvt6fkT1Pq6t9r70Qe94) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/album/60L8KEOT1XsBxkni1EiAlR) | 3:31 |
-| 22 | [Huraches De Cuero Curdo](https://open.spotify.com/track/62Ofu4vLy5CCNAGlCWHyJU) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Huraches De Cuero Crudo](https://open.spotify.com/album/0WhMGERGz7uNDKYaBm7T9r) | 3:09 |
+| 22 | [Huaraches De Cuero Crudo](https://open.spotify.com/track/62Ofu4vLy5CCNAGlCWHyJU) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Huaraches De Cuero Crudo](https://open.spotify.com/album/0WhMGERGz7uNDKYaBm7T9r) | 3:09 |
 | 23 | [Qué Bonito es Tu Amor](https://open.spotify.com/track/7CQinke6WmwhJZaYW6U3or) | [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Qué Bonito es Tu Amor](https://open.spotify.com/album/3OUuN7x6XbdPOVTw3aiZ0n) | 3:36 |
 | 24 | [Nacho Coronel](https://open.spotify.com/track/2zGxf8uAuNscp5JgkwMpnO) | [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [Nacho Coronel](https://open.spotify.com/album/3OfNBCCZUjMEAELkMsuh9m) | 2:43 |
 | 25 | [Perdiste Más Que Yo](https://open.spotify.com/track/1CI5f6YX17nX3rsGqb2XnO) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Perdiste Más Que Yo](https://open.spotify.com/album/3SiCnMq3LNoxx4LyJVjUUv) | 2:58 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 52 | [Ganas de Amarte](https://open.spotify.com/track/7FzqgB7Ho4mMCXXPrZFGRv) | [Grupo Nueva Liga](https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk) | [Ganas de Amarte](https://open.spotify.com/album/6RGTD8Hrab0jvfgP3Z56Tt) | 3:23 |
 | 53 | [Por Si Te Llega A Doler \- En Vivo](https://open.spotify.com/track/5XvtUBKgHhORDytJDTEqvR) | [El Nápoles](https://open.spotify.com/artist/3qUdyjuTvTQQ1Nx1sOvZ0J), [Kiko Avalos](https://open.spotify.com/artist/29ps2ayNwGWAVUarJLCidc), [Banda La Misma Escuela](https://open.spotify.com/artist/6XWNbAQkiHTJz46yFENY43) | [Por Si Te Llega A Doler \(En Vivo\)](https://open.spotify.com/album/7M3Zj87mYYdJkf2hLPEfEK) | 2:50 |
 | 54 | [El Juego](https://open.spotify.com/track/2Pkb8htx9pQ7WWbPUGV1pD) | [Grupo Los Caballeros](https://open.spotify.com/artist/5Nyw7PGLzZg1zOMUgstdWI) | [El Juego](https://open.spotify.com/album/4MSQrVGbdSdsoWs3jYDPbM) | 3:19 |
-| 55 | [Bohemio De Afición \- En Vivo](https://open.spotify.com/track/2LiML21sISG3gagrkMHFrz) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW) | [Desde Playa El Palmito \(En Vivo\)](https://open.spotify.com/album/5VL8dw4jNBooVWrG0SJWwO) | 3:30 |
+| 55 | [Bohemio De Afición \- En Vivo](https://open.spotify.com/track/2LiML21sISG3gagrkMHFrz) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW), [Charly Pérez](https://open.spotify.com/artist/1cGbJzKJN7XAI259t8Iwvr) | [Desde Playa El Palmito \(En Vivo\)](https://open.spotify.com/album/5VL8dw4jNBooVWrG0SJWwO) | 3:30 |
 | 56 | [Mi Corazón Lloro](https://open.spotify.com/track/3n4jtmfkK13dHLfVPyfjZg) | [Jonatan Fuentes](https://open.spotify.com/artist/36qA1UP5SWF0hAI313hprG) | [Mi Corazón Lloro](https://open.spotify.com/album/10AOfjxBfLkbJ9XTQBFHuy) | 2:52 |
 | 57 | [Las Cosas Cambiaron](https://open.spotify.com/track/5H4EA4feQY3nPHxsztluNz) | [Dos Culturas](https://open.spotify.com/artist/05CRMHm5szZ1M3220hEDjL) | [Las Cosas Cambiaron](https://open.spotify.com/album/6LRqc1cXmTjr8hCzBzcFhz) | 3:03 |
 | 58 | [Traicioneros](https://open.spotify.com/track/5bs3IqZkXwsLf9hkBDdsTk) | [Martinsito](https://open.spotify.com/artist/0lGwR7cZwTuIOpeiagR5uf) | [Traicioneros](https://open.spotify.com/album/76OORUptV76c5EzSzwdbNN) | 3:32 |

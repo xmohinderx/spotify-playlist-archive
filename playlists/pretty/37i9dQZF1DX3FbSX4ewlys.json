@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDU0ODQzNCwwMDAwMDAwMDhmM2MyNTE0ODM0YmI1MDVlMDNmZmE0MWQ1ZTQ0OWM5",
+  "snapshot_id": "MTY0MDU0ODQzNCwwMDAwMDAwMGUxOTRjNmMyMDE0YmMwM2JjZjgwNzNkMTk3N2UyMjA0",
   "tracks": [
     {
       "added_at": "2021-12-26 17:51:11",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Qu\u00e9 Nivel De Mujer",
-      "url": "https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Gran Turismo (Remastered)",
         "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 218504,
       "name": "Erase / Rewind",
       "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Qu\u00e9 Nivel De Mujer",
+      "url": "https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc"
     },
     {
       "added_at": "2021-12-26 17:51:11",

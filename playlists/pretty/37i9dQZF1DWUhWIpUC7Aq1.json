@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 56747,
+  "num_followers": 57131,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMGE4Nzc1Y2MzZDFkNTUyODRhOTFjNzRiMjI3YzEzMDFk",
+  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMGQwYjQ1NmFjZGIxMDA5ZjQyOGUyNmZmMGE4NDQyNTBi",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 198093,
-      "name": "Oh to Be in Love",
-      "url": "https://open.spotify.com/track/628RVPULYzx6bvh8uf0Msn"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "69 Love Songs",
         "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
       },
@@ -835,18 +819,34 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "1982 4 Piece Demo",
-        "url": "https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG"
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
       "artists": [
         {
-          "name": "Strawberry Switchblade",
-          "url": "https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 194821,
-      "name": "Trees and Flowers",
-      "url": "https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U"
+      "duration_ms": 198093,
+      "name": "Oh to Be in Love",
+      "url": "https://open.spotify.com/track/628RVPULYzx6bvh8uf0Msn"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
+        "name": "1982 4 Piece Demo",
+        "url": "https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Strawberry Switchblade",
+          "url": "https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN"
+      "duration_ms": 194821,
+      "name": "Trees and Flowers",
+      "url": "https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Naturally Sweetened",
         "url": "https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 224506,
       "name": "Mushaboom",
       "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "When I Pretend To Fall",
-        "url": "https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ"
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
       },
       "artists": [
         {
-          "name": "The Long Winters",
-          "url": "https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2"
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
         }
       ],
-      "duration_ms": 252960,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v"
+      "duration_ms": 245120,
+      "name": "Foundations",
+      "url": "https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "When I Pretend To Fall",
+        "url": "https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ"
+      },
+      "artists": [
+        {
+          "name": "The Long Winters",
+          "url": "https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Places Like This",
         "url": "https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 194853,
       "name": "Heart It Races",
       "url": "https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "Made of Bricks",
-        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Foundations",
-      "url": "https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv"
     },
     {
       "added_at": "2022-08-26 20:04:38",

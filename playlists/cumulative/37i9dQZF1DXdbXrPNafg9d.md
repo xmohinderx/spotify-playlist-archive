@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Jean Dawson
 
-4,256 songs - 10 day 10 hr 5 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,257 songs - 10 day 10 hr 8 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Aerostar](https://open.spotify.com/track/0MapUfkFs5QgcRXuj7Dihy) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Aerostar](https://open.spotify.com/album/7qC9vTonZ0IXuKKkPyNqar) | 4:20 | 2020-07-03 | 2020-08-07 |
 | [Afar](https://open.spotify.com/track/3FBt3GWqhqSzkCnzki3uPQ) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Afar](https://open.spotify.com/album/3JHxLksSAKuZzYFhgHHEcB) | 3:35 | 2022-07-15 | 2022-08-13 |
 | [after all \(i must be wrong\)](https://open.spotify.com/track/4oYLY8YwyqqaTZlNbZFUoX) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:31 | 2020-01-31 | 2020-03-06 |
-| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 |  |
+| [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-07 |  |
+| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-10-09 |
 | [Afterglow](https://open.spotify.com/track/6aDXqeOAbR9Hxfr6rQe0Fo) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Fall into Place / Afterglow](https://open.spotify.com/album/62e7kMRFN636XBdtZBp7F0) | 3:18 | 2022-05-13 | 2022-06-22 |
 | [Afterglow](https://open.spotify.com/track/4opJILpCnQGhk5GSbVRBBA) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Afterglow](https://open.spotify.com/album/5I83cyYrvyy9Rwy79fCjgO) | 3:18 | 2020-04-10 | 2020-05-01 |
 | [Aftershook](https://open.spotify.com/track/0mf7aZJXZLwb9d1UEzjxwo) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Aftershook](https://open.spotify.com/album/3RLvrBRUVl4tDh3EqGR3Ro) | 3:25 | 2022-09-02 |  |

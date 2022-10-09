@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rapadura
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,898 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,990 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 8 | [No Corre](https://open.spotify.com/track/0n0lxPI2cFPpqqRFbsLgjI) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Lord ADL](https://open.spotify.com/artist/7phpDFUX97M0DTGIcjXKRk) | [No Corre](https://open.spotify.com/album/2BRH2zjETIcdj10WqZrsRm) | 3:50 |
 | 9 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 |
 | 10 | [Levado](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
-| 11 | [Igual Jorge](https://open.spotify.com/track/4ZefRVkBTNgc4mSmcoZ4nw) | [Dukes1Soldado](https://open.spotify.com/artist/2fOcfLmY2VQi6NEOMNKqdJ), [Síntese](https://open.spotify.com/artist/6X7jDzYTF2a8BlPKTMk5KS) | [Igual Jorge](https://open.spotify.com/album/23VRvW4cKeh43v2rstycJ4) | 3:24 |
+| 11 | [Igual Jorge](https://open.spotify.com/track/4ZefRVkBTNgc4mSmcoZ4nw) | [Dukes1Soldado](https://open.spotify.com/artist/2fOcfLmY2VQi6NEOMNKqdJ), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Igual Jorge](https://open.spotify.com/album/23VRvW4cKeh43v2rstycJ4) | 3:24 |
 | 12 | [Facilitei](https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Facilitei](https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC) | 3:32 |
 | 13 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 |
 | 14 | [Temporal](https://open.spotify.com/track/34GZuwizVX296NJvDEYsm6) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Temporal](https://open.spotify.com/album/3GgZ4RkxYss5bwINbxE85d) | 4:37 |

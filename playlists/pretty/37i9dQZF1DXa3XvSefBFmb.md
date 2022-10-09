@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas portuguesas, como Nena, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,790 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,836 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Passo a Passo](https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Passo a Passo](https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj) | 3:39 |
+| 1 | [passo a passo](https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [passo a passo](https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj) | 3:39 |
 | 2 | [Te Amo \(Versão Ana Moura\)](https://open.spotify.com/track/7GImq9bLeBtUzSh2HUq43x) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Te Amo \(Versão Ana Moura\)](https://open.spotify.com/album/18YBc1AN2Rf6gu8yKzo0Vz) | 3:51 |
 | 3 | [Vai Lá](https://open.spotify.com/track/1udT5vlbzDvCIal5oV6sYW) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Vai Lá](https://open.spotify.com/album/4g9IUiCoHG2NVYcmdGzYDP) | 3:34 |
 | 4 | [Dançar Comigo](https://open.spotify.com/track/32CebLwubHKAT0yCGt1O5e) | [Thalita](https://open.spotify.com/artist/4hXxfZXy9OKvKkf4uAai35), [Mary J](https://open.spotify.com/artist/1UpLatwiEUHQne567fXpPY) | [Dançar Comigo](https://open.spotify.com/album/1iCpBcWMVgRVcBdKw1lRlk) | 3:09 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 36 | [Dizer Adeus É Tão Triste](https://open.spotify.com/track/7KHbte0W5XsEhSel6HMW04) | [Teresa da Câmara](https://open.spotify.com/artist/3F27GHBz1nQXWRekD1s9vM) | [Lugares](https://open.spotify.com/album/481gruEtrN9zjE8vOwRMjc) | 3:27 |
 | 37 | [Os Loucos](https://open.spotify.com/track/0SCwQXFpKJFc2UrP1CnvU8) | [Solange Silva](https://open.spotify.com/artist/3Gd0VQZB0rY0HCfpSUGQNc) | [Solange](https://open.spotify.com/album/4HsX2RsYOI5WxwP1gBS035) | 3:01 |
 | 38 | [Paraíso](https://open.spotify.com/track/2aqjj2C8ZWnHbw31TIkZcQ) | [Tasman Edge](https://open.spotify.com/artist/50caqmkFJTqVSKMYvjmEK7), [Rita Senhor](https://open.spotify.com/artist/76YPktW3HuXfS1ls2vcswZ) | [Paraíso](https://open.spotify.com/album/25TldDXVcA50rwT7IF7dSm) | 3:21 |
-| 39 | [Pressure \- Unplugged](https://open.spotify.com/track/45huXaWrbt1A5mX2TYigQP) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Pressure \(unplugged\)](https://open.spotify.com/album/7cZgk2z7Pa38zSxgC21CWy) | 2:45 |
+| 39 | [Pressure \- Unplugged](https://open.spotify.com/track/2DpfdIfarBnJlz2ODq6adE) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Good Company](https://open.spotify.com/album/1WKHgFnVXim0GYVfkOXgFR) | 2:45 |
 | 40 | [O Que Eu Dei](https://open.spotify.com/track/776IuuCe9Mx5sRN1hs4aIB) | [Maria Castro](https://open.spotify.com/artist/1e8vbPF60YDUTdHwUQUz6p) | [O Que Eu Dei](https://open.spotify.com/album/3MGxYe94PGdYNTGwCXYsa7) | 3:33 |
 | 41 | [Fala Só](https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ) | [Yola Araújo](https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm) | [Fala Só](https://open.spotify.com/album/2nlMuBZsxGpcPRnpb8hYjr) | 3:17 |
 | 42 | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/track/3elqH6YbzTGQtlYdlmIbZC) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/album/3srSDFJhgwBetFxmT1nvgM) | 3:31 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 50 | [Bem Perto](https://open.spotify.com/track/7JNtgj9GCVlhUC4oGyR90u) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Bem Perto](https://open.spotify.com/album/64mVaFwyn0iMAd2xV1Y9xH) | 3:11 |
 | 51 | [Barco Negro \- Live In Japan](https://open.spotify.com/track/7cOt0FxNrUM4EVtqVXUlSh) | [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [Amália Rodrigues Live In Japan \(2022 Edition\)](https://open.spotify.com/album/5bjeDouS3uV4Vz0TnQq3yp) | 5:14 |
 
-Snapshot ID: `MTY2NDkyNDQwMCwwMDAwMDAwMGEyNDRiZTExNDBmZjU1ZGJiZTRlMTQ4ZWE0MGZkY2Zl`
+Snapshot ID: `MTY2NDkyNDQwMCwwMDAwMDAwMDBjMTU0NjJhYjRmNjFlMDdiOTY0MDIzYWFlZTUzNTNi`

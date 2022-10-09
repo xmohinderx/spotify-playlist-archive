@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 832935,
+  "num_followers": 833369,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMGQxMjMwNzQ0Njg3MGI2NWQ3OTY0Y2EyNGU3ODhhZGI3",
+  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMGIwZjAyYTBjNWE3YmMxYzg5NDgyY2RmMjJiYjkyMDM4",
   "tracks": [
     {
       "added_at": "2022-09-22 10:17:42",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
+        "name": "Night Visions (Expanded Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Radioactive - Live London Sessions / 2013",
+      "url": "https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
         "name": "The Best Of - Volume One",
         "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 212534,
       "name": "In Bloom (Acoustic)",
       "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
-        "name": "Night Visions (Expanded Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Radioactive - Live London Sessions / 2013",
-      "url": "https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
       },
       "artists": [
         {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+      "duration_ms": 224353,
+      "name": "Island in the Sun - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
+        "name": "Scumbag (Acoustic)",
+        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
         }
       ],
-      "duration_ms": 224353,
-      "name": "Island in the Sun - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
+      "duration_ms": 209420,
+      "name": "Scumbag - Acoustic",
+      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
     },
     {
       "added_at": "2022-09-22 10:17:42",

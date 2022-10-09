@@ -1,12 +1,12 @@
 {
   "description": "Drive slow homie. cover: Lil Wayne",
-  "num_followers": 826172,
+  "num_followers": 827209,
   "original_name": "Hip-Hop Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcxMzg1NywwMDAwMDAwMDVmOGFhMmFmYmFlNDdjZTA2NDI1ZGY4MDc2ZmE5OTQy",
+  "snapshot_id": "MTY1ODcxMzg1NywwMDAwMDAwMDI3YjRlZDZkYmEzZTVkNTdjZjdhYzEzODVhNTkyOGIz",
   "tracks": [
     {
       "added_at": "2022-07-01 04:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "Who's That Girl?",
+      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
         "name": "Capital Punishment (Explicit Version)",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 228173,
       "name": "Twinz (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "Who's That Girl?",
-      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "God's Favorite",
-        "url": "https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt"
-      },
-      "artists": [
-        {
-          "name": "N.O.R.E.",
-          "url": "https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p"
-        }
-      ],
-      "duration_ms": 264653,
-      "name": "Nothin'",
-      "url": "https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/7mUzxkBleB7QiVUw6wJsXU"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 223133,
       "name": "Music (feat. Marvin Gaye)",
       "url": "https://open.spotify.com/track/6IFOw9Ck9mWHRQgw6QrPYx"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "God's Favorite",
+        "url": "https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt"
+      },
+      "artists": [
+        {
+          "name": "N.O.R.E.",
+          "url": "https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p"
+        }
+      ],
+      "duration_ms": 264653,
+      "name": "Nothin'",
+      "url": "https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -2071,26 +2071,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Big Boi & Dre Present...OutKast",
-        "url": "https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 295346,
-      "name": "The Whole World (feat. Killer Mike)",
-      "url": "https://open.spotify.com/track/074v54tSEWLbq3Hu5wf6uh"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "The State vs. Radric Davis (Deluxe)",
         "url": "https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq"
       },
@@ -2107,6 +2087,26 @@
       "duration_ms": 249840,
       "name": "Wasted (feat. Plies)",
       "url": "https://open.spotify.com/track/11hQvcLydGTyXS3Wo6AkmW"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Big Boi & Dre Present...OutKast",
+        "url": "https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 295346,
+      "name": "The Whole World (feat. Killer Mike)",
+      "url": "https://open.spotify.com/track/074v54tSEWLbq3Hu5wf6uh"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Big Money Heavyweight",
-        "url": "https://open.spotify.com/album/0GhodWi0FFf85phDwEkoav"
-      },
-      "artists": [
-        {
-          "name": "Big Tymers",
-          "url": "https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR"
-        }
-      ],
-      "duration_ms": 271520,
-      "name": "This Is How We Do",
-      "url": "https://open.spotify.com/track/3z6WOgxwEcfF9mn4crIQaK"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "Let's Get It: Thug Motivation 101",
         "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 232106,
       "name": "Trap Star",
       "url": "https://open.spotify.com/track/1ynZEpoQPz0ylGFCUx7l9u"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Big Money Heavyweight",
+        "url": "https://open.spotify.com/album/0GhodWi0FFf85phDwEkoav"
+      },
+      "artists": [
+        {
+          "name": "Big Tymers",
+          "url": "https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR"
+        }
+      ],
+      "duration_ms": 271520,
+      "name": "This Is How We Do",
+      "url": "https://open.spotify.com/track/3z6WOgxwEcfF9mn4crIQaK"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -2563,26 +2563,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/7fop0BuUPJi2nuKPi5Cdgq"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        }
-      ],
-      "duration_ms": 233960,
-      "name": "The Way You Move (feat. Sleepy Brown) - Radio Mix",
-      "url": "https://open.spotify.com/track/4TSdgufs5bHUjfS9mJpMSh"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "H.F.M. 2 (Hunger For More 2)",
         "url": "https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS"
       },
@@ -2611,6 +2591,26 @@
       "duration_ms": 289520,
       "name": "Start It Up",
       "url": "https://open.spotify.com/track/37qcaCXw7TlBsDD5BgDoCf"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/7fop0BuUPJi2nuKPi5Cdgq"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "duration_ms": 233960,
+      "name": "The Way You Move (feat. Sleepy Brown) - Radio Mix",
+      "url": "https://open.spotify.com/track/4TSdgufs5bHUjfS9mJpMSh"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -2755,22 +2755,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Be",
-        "url": "https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Testify",
-      "url": "https://open.spotify.com/track/6fo9uskjOIoWXAaUNxN7Bl"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "Da Baddest Bitch",
         "url": "https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU"
       },
@@ -2799,6 +2783,22 @@
       "duration_ms": 265226,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/3NOq1Gpiy4KwDni8NhOmHQ"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Be",
+        "url": "https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/6fo9uskjOIoWXAaUNxN7Bl"
     },
     {
       "added_at": "2022-07-01 04:00:00",

@@ -67,6 +67,6 @@
 | [بسيط ايفكتڤ](https://open.spotify.com/track/0AHVNC8und8XJU61876q0o) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [DZEEZ دزيز](https://open.spotify.com/artist/0NwIwzq4fV5i0LNEC7Vtwg) | [بسيط ايفكتڤ](https://open.spotify.com/album/4Gf35Uc9uEEi5M9qWKGA5c) | 1:35 | 2022-09-20 | 2022-09-28 |
 | [دنیا](https://open.spotify.com/track/3DZh4G7frGfIp4z4qRBew9) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [دنیا](https://open.spotify.com/album/3xppr5g8VXteFX9DQGzizx) | 3:39 | 2022-09-20 |  |
 | [عمل فني](https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [عمل فني](https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0) | 2:49 | 2022-09-20 |  |
-| [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 | 2022-10-04 |  |
+| [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/0t2z174ebyjYSPHy7Yzgb9) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 | 2022-10-04 |  |
 
 \*This playlist was first scraped on 2022-09-21. Prior content cannot be recovered.

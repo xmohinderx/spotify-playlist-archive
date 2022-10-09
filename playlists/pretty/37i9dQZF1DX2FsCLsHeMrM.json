@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 812072,
+  "num_followers": 812891,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1MTQ1OCwwMDAwMDAwMGUwYzMwYmJmMDllNWYxY2FiM2RjNTJkNzcyN2FlMjBl",
+  "snapshot_id": "MTY2NTE1MTQ1OCwwMDAwMDAwMDU2NjdjYWJkYzFmYmFkYjBkZjMzZjdmZDE4OGMyYWY3",
   "tracks": [
     {
       "added_at": "2022-09-30 14:30:48",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "Into the Mystic - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "Into the Mystic - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -752,7 +752,7 @@
           "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 183893,
+      "duration_ms": 183895,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
@@ -771,30 +771,6 @@
       "duration_ms": 222280,
       "name": "I Keep Forgettin' (Every Time You're Near)",
       "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "The Velvet Rope",
-        "url": "https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 241760,
-      "name": "Got 'Til It's Gone",
-      "url": "https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1335,22 +1311,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Toothache / Zoom",
-        "url": "https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1"
-      },
-      "artists": [
-        {
-          "name": "Topaz Jones",
-          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Toothache",
-      "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -1363,6 +1323,22 @@
       "duration_ms": 269815,
       "name": "South of the River",
       "url": "https://open.spotify.com/track/5w3yxRRxy5pvZdUvBJF6ve"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Toothache / Zoom",
+        "url": "https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1"
+      },
+      "artists": [
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Toothache",
+      "url": "https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1551,22 +1527,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "The Long Way Home",
-        "url": "https://open.spotify.com/album/1bBcuPUK7dnJjiS70izzw5"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "You're the Reason Why",
-      "url": "https://open.spotify.com/track/1zpw3YUidzLjf8h92LFNmw"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -1579,6 +1539,22 @@
       "duration_ms": 228613,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/1bBcuPUK7dnJjiS70izzw5"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "You're the Reason Why",
+      "url": "https://open.spotify.com/track/1zpw3YUidzLjf8h92LFNmw"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1675,22 +1651,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Conex\u00e3o - EP",
-        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 299131,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/4vvFklYoPTicMqbYUo7qyG"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/2l5jrbQaw9la2srKsDt7D6"
       },
@@ -1703,6 +1663,22 @@
       "duration_ms": 210026,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/0nruobjhKItGHfkH3VbTXy"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Conex\u00e3o - EP",
+        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 299131,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/4vvFklYoPTicMqbYUo7qyG"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1723,6 +1699,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Helping Hands",
+        "url": "https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -1739,22 +1731,6 @@
       "duration_ms": 292759,
       "name": "Willing & Able",
       "url": "https://open.spotify.com/track/29rBJWizgnVht4qXpHyDxh"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Helping Hands",
-        "url": "https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1971,6 +1947,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 316600,
+      "name": "Star People",
+      "url": "https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7"
       },
@@ -2003,38 +1995,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 316600,
-      "name": "Star People",
-      "url": "https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Limbo/Lagune",
-        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Get Lifted",
         "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },
@@ -2051,34 +2011,18 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+        "name": "Limbo/Lagune",
+        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
       },
       "artists": [
         {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
         }
       ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/6BXDMsoy2zam0un1DTMp9U"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "Little Bit of Lovin",
-      "url": "https://open.spotify.com/track/5l5wRXA7asTNjh3V0oNGPs"
+      "duration_ms": 209090,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2119,6 +2063,38 @@
       "duration_ms": 162400,
       "name": "Have A Talk With God",
       "url": "https://open.spotify.com/track/5grvrZh5z2jsPjCOy1d8fP"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/6BXDMsoy2zam0un1DTMp9U"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 172874,
+      "name": "Little Bit of Lovin",
+      "url": "https://open.spotify.com/track/5l5wRXA7asTNjh3V0oNGPs"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+      },
+      "artists": [
+        {
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2175,22 +2151,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/2pHzR4bE0L5HL2fpmHrItK"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "To Each His Own",
-      "url": "https://open.spotify.com/track/24wPEUf7xIYhwIuJM5HV8G"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Boys Don't Cry",
         "url": "https://open.spotify.com/album/3nPTKsx1v2lGffS8IRJZYA"
       },
@@ -2239,22 +2199,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Living My Life",
-        "url": "https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 362293,
-      "name": "My Jamaican Guy",
-      "url": "https://open.spotify.com/track/7zcC5yZZp1IKnI73ztsIaE"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Rahsaan Patterson",
         "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
@@ -2267,6 +2211,22 @@
       "duration_ms": 272360,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/2cIcOEMjo8uqi4eXjiJpdr"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Living My Life",
+        "url": "https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 362293,
+      "name": "My Jamaican Guy",
+      "url": "https://open.spotify.com/track/7zcC5yZZp1IKnI73ztsIaE"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2371,6 +2331,42 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "NEXT 2 U",
+        "url": "https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn"
+      },
+      "artists": [
+        {
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
+        }
+      ],
+      "duration_ms": 169484,
+      "name": "NEXT 2 U",
+      "url": "https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Take Me To The Alley",
+        "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 254893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Love In Synthesis",
         "url": "https://open.spotify.com/album/69rgvUHKOYmwre7xkWDJcf"
       },
@@ -2403,26 +2399,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Take Me To The Alley",
-        "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        },
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 254893,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "You Ain't The Problem",
         "url": "https://open.spotify.com/album/6J37CAUxNhrqlX9iuSzVVR"
       },
@@ -2435,22 +2411,6 @@
       "duration_ms": 249333,
       "name": "You Ain't The Problem",
       "url": "https://open.spotify.com/track/0QDe6nlExlt3AM1NHTh4nn"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "NEXT 2 U",
-        "url": "https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn"
-      },
-      "artists": [
-        {
-          "name": "ego apartment",
-          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
-        }
-      ],
-      "duration_ms": 169484,
-      "name": "NEXT 2 U",
-      "url": "https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2519,22 +2479,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "(04:30) Idler",
-        "url": "https://open.spotify.com/album/25a6Z1lDoKJc3ifMCt3QW7"
-      },
-      "artists": [
-        {
-          "name": "Jamie Isaac",
-          "url": "https://open.spotify.com/artist/3s2jqlVaDwlRKk3mF7WT2b"
-        }
-      ],
-      "duration_ms": 216493,
-      "name": "Doing Better",
-      "url": "https://open.spotify.com/track/3hWZPR9nw9trqZOTOZM8x6"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Lost in Paris",
         "url": "https://open.spotify.com/album/3OGqx2jmVKVkKOIOxGjOQC"
       },
@@ -2551,6 +2495,70 @@
       "duration_ms": 194023,
       "name": "Lost in Paris",
       "url": "https://open.spotify.com/track/6lxcWIvMQK3yezxwFfZcKZ"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "(04:30) Idler",
+        "url": "https://open.spotify.com/album/25a6Z1lDoKJc3ifMCt3QW7"
+      },
+      "artists": [
+        {
+          "name": "Jamie Isaac",
+          "url": "https://open.spotify.com/artist/3s2jqlVaDwlRKk3mF7WT2b"
+        }
+      ],
+      "duration_ms": 216493,
+      "name": "Doing Better",
+      "url": "https://open.spotify.com/track/3hWZPR9nw9trqZOTOZM8x6"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/0UyQpKX2zrfifx4pfWYwm0"
+      },
+      "artists": [
+        {
+          "name": "The Midnight Hour",
+          "url": "https://open.spotify.com/artist/1S5jf5XWhQTMjGZQxCH0AJ"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/1Rd3q29I4tEwQKQudWh0Jd"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Pass Time",
+        "url": "https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 219963,
+      "name": "Pass Time",
+      "url": "https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6"
     }
   ],
   "unique_name": "Kitchen Swagger",

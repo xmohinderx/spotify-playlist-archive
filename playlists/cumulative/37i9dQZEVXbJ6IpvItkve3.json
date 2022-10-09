@@ -2305,6 +2305,24 @@
     {
       "album": {
         "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "album": {
+        "name": "AM",
         "url": "https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR"
       },
       "artists": [
@@ -2315,7 +2333,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
@@ -5920,6 +5938,28 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9 & \u05d0\u05d5\u05e8\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/5iw1EWAmGUHfrCNfTi7z14"
+      },
+      "artists": [
+        {
+          "name": "Avraham Tal",
+          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
+        },
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268823,
+      "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9 & \u05d0\u05d5\u05e8\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/6Eds9y8ZiQHcIegsEIVcYP"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05de\u05d0\u05d5\u05e9\u05e8",
         "url": "https://open.spotify.com/album/793n3eYaBcW0IHs7zHmrnI"
       },
@@ -6273,7 +6313,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 174738,
       "name": "\u05d1\u05e9\u05d5\u05e8\u05d5\u05ea \u05d8\u05d5\u05d1\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5dUG9RrLElsi2sxJAhVUZJ"
@@ -7745,7 +7785,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 158589,
       "name": "\u05dc\u05da \u05dc\u05d9\u05e9\u05d5\u05df",
       "url": "https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C"
@@ -9378,6 +9418,24 @@
     },
     {
       "album": {
+        "name": "\u05e7\u05d5\u05e4\u05d9\u05d3\u05d5\u05df (Prod. By Triangle)",
+        "url": "https://open.spotify.com/album/13cZhKohwvhPrY34nk3qsj"
+      },
+      "artists": [
+        {
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163355,
+      "name": "\u05e7\u05d5\u05e4\u05d9\u05d3\u05d5\u05df (Prod. By Triangle)",
+      "url": "https://open.spotify.com/track/4W1G1xlxcirdtXosgsR0m0"
+    },
+    {
+      "album": {
         "name": "\u05ea\u05d5\u05da \u05db\u05d3\u05d9 \u05ea\u05e0\u05d5\u05e2\u05d4",
         "url": "https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G"
       },
@@ -9917,7 +9975,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 238089,
       "name": "\u05e9\u05de\u05e9",
       "url": "https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS"
@@ -9971,7 +10029,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 212963,
       "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"

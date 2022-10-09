@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > Time to rave again.
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,824 likes - 70 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,165 likes - 70 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 17 | [Better Mind \- Original Mix](https://open.spotify.com/track/5tPhxNJsIAe7LKSJ7bhy1C) | [Ante Perry](https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW), [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h), [IMYD](https://open.spotify.com/artist/14TY7z7b8iII4hP5uYpKJm) | [Better Mind](https://open.spotify.com/album/5Bycx3sLWBt2bHhamjlDY9) | 6:04 |
 | 18 | [Untold](https://open.spotify.com/track/4k2XhQNH68LpS0YxQDTcov) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/3RrTZKnXObb9lbtUkgySTl) | 6:42 |
 | 19 | [Elamy](https://open.spotify.com/track/6jdaBz780wecXanS9elu68) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Elamy](https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6) | 4:38 |
-| 20 | [NEON RATS](https://open.spotify.com/track/6frczIwQzRtoEgwAw8N3Cv) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 7:30 |
-| 21 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
+| 20 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
+| 21 | [NEON RATS](https://open.spotify.com/track/6frczIwQzRtoEgwAw8N3Cv) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 7:30 |
 | 22 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
 | 23 | [The Church](https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [The Church](https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W) | 7:20 |
 | 24 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 57 | [Sleeper in Metropolis \- Robin Hirte Remix](https://open.spotify.com/track/4UTbzsggBcjfr6VDuBWLCv) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL), [Robin Hirte](https://open.spotify.com/artist/0q4jQ2ducUDvYaE5vTZQqz) | [Synaesthesia \- Classics Reworked](https://open.spotify.com/album/32xxTp5hqF7W3VwO7qyEWM) | 4:52 |
 | 58 | [Awake](https://open.spotify.com/track/4hPHYE8cnt5cCXfirZVg05) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Awake](https://open.spotify.com/album/4lNOFm7ee2KRebEphh7tRH) | 3:29 |
 | 59 | [Is This Our Earth?](https://open.spotify.com/track/4oDRXykJhBsUZJOODiQ18M) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Is This Our Earth?](https://open.spotify.com/album/316bE5c2saBR5h40GBARwm) | 3:41 |
-| 60 | [All The Little Things](https://open.spotify.com/track/5aZE1JRO2x1YvBQr5ssHK2) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [All The Little Things EP](https://open.spotify.com/album/08VBmpMr5rhtIWx2oI4Pc5) | 6:56 |
-| 61 | [Life \- GHEIST Remix](https://open.spotify.com/track/3sFZpkPuNL0NIxBWof3WdN) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Four \(Remixes Deluxe\)](https://open.spotify.com/album/490CaV6FfZRzeKKjJzF0uT) | 6:02 |
+| 60 | [Life \- GHEIST Remix](https://open.spotify.com/track/3sFZpkPuNL0NIxBWof3WdN) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Four \(Remixes Deluxe\)](https://open.spotify.com/album/490CaV6FfZRzeKKjJzF0uT) | 6:02 |
+| 61 | [All The Little Things](https://open.spotify.com/track/5aZE1JRO2x1YvBQr5ssHK2) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [All The Little Things EP](https://open.spotify.com/album/08VBmpMr5rhtIWx2oI4Pc5) | 6:56 |
 | 62 | [Hands On..\. Don't Waste My Time](https://open.spotify.com/track/7zPHYX5tpIZYszcKrwfOo0) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Hands On...](https://open.spotify.com/album/5HCJLQJG0k7lMLXyi5zcT1) | 5:29 |
 | 63 | [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 |
 | 64 | [How Many Lies](https://open.spotify.com/track/5C23r6b92Kgbwew8Hm9tCw) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [How Many Lies](https://open.spotify.com/album/1UWa6HoAzIBc81AR2b665l) | 2:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [VIBIN](https://open.spotify.com/track/3rbG1qQlzkijc5tfGvjNJC) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [VIBIN](https://open.spotify.com/album/38ERQWZ0KIhlE0VFYJ39Xs) | 3:46 |
 | 70 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 |
 
-Snapshot ID: `MTY2NTE2MzU3NCwwMDAwMDAwMDQ1ODY2NjM3NjE1MjY3MmRkZjEzNzNlYTE2NjllYTBk`
+Snapshot ID: `MTY2NTE2MzU3NCwwMDAwMDAwMDVlZWYwNzFkOTE5OGVhMzhmMTBiOGM3ZjAxZjY5N2Jj`

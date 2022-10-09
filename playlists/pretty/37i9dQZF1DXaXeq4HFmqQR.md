@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > ¡SOULFIA y más mujeres a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,483 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,494 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 16 | [Besame](https://open.spotify.com/track/4SCZZqR0xUoG8PcY9CuDzY) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Besame](https://open.spotify.com/album/5i9XwsUbqZaBDtlFroAJ4B) | 2:58 |
 | 17 | [Religiosa](https://open.spotify.com/track/2KfTQFFLpZhzlZATYS9job) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Religiosa](https://open.spotify.com/album/6d6tiuczqJEHoP5jL9Qn15) | 2:40 |
 | 18 | [Romper Platos](https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Romper Platos](https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m) | 3:13 |
-| 19 | [Unu](https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Unu](https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj) | 3:20 |
-| 20 | [Rika](https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/4pjeJsjP3rU2uZNbZ49UbG) | 3:04 |
+| 19 | [Rika](https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/4pjeJsjP3rU2uZNbZ49UbG) | 3:04 |
+| 20 | [Unu](https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Unu](https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj) | 3:20 |
 | 21 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 |
 | 22 | [Canción Para Mi Ex](https://open.spotify.com/track/7JXdrYedUjDUn75naheO3y) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Canción Para Mi Ex](https://open.spotify.com/album/4cgQLvcxp6LbnBMkhMdVGq) | 2:48 |
 | 23 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
 | 24 | [Blue V2](https://open.spotify.com/track/0EbqWgge7ZFah2OWg7zMcT) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Blue V2](https://open.spotify.com/album/5At4juaXQVGzBMhRwMQ2Co) | 2:24 |
-| 25 | [Stefany](https://open.spotify.com/track/2itkoR7NhZ71ORPGweN2WS) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Saito ape](https://open.spotify.com/artist/0panVaEhbJCPqIRJfLuwap) | [Stefany](https://open.spotify.com/album/74vpSPUywXW5tWyCz7WWYx) | 3:43 |
-| 26 | [High](https://open.spotify.com/track/5WxHiXTAIn8U7hUthK89C2) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [High](https://open.spotify.com/album/15ww8sGn53UcsQ6fSPcnji) | 3:19 |
+| 25 | [High](https://open.spotify.com/track/5WxHiXTAIn8U7hUthK89C2) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [High](https://open.spotify.com/album/15ww8sGn53UcsQ6fSPcnji) | 3:19 |
+| 26 | [Stefany](https://open.spotify.com/track/2itkoR7NhZ71ORPGweN2WS) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Saito ape](https://open.spotify.com/artist/0panVaEhbJCPqIRJfLuwap) | [Stefany](https://open.spotify.com/album/74vpSPUywXW5tWyCz7WWYx) | 3:43 |
 | 27 | [Me Voy Conmigo](https://open.spotify.com/track/15oj0ibBqFR4FmOEtSK5YU) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Me Voy Conmigo](https://open.spotify.com/album/5YgXx9mxwLo9FeLTIJQQJ0) | 3:14 |
 | 28 | [Fine](https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Fine](https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo) | 3:02 |
 | 29 | [Eso Ta Perfecto](https://open.spotify.com/track/2sC0GlXccYYlRfian9JVsY) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Eso Ta Perfecto](https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9) | 2:17 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 40 | [No me dejaré caer](https://open.spotify.com/track/4pv1VaZa5hxAWsdn1NFLlE) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Saito ape](https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1) | [No me dejaré caer](https://open.spotify.com/album/29PpuwqvwZEOJP1eEsDmqR) | 2:36 |
 | 41 | [TYF](https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA) | 3:33 |
 | 42 | [Miedo](https://open.spotify.com/track/43obEvBKQz14FjoM90fdxX) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n), [Ruzica Flores](https://open.spotify.com/artist/1Z8ZBF6ppxP6jxks36IK0a) | [Miedo](https://open.spotify.com/album/7sTmkgNE2XTQmyuTalJLKj) | 4:07 |
-| 43 | [Flow Violento](https://open.spotify.com/track/4T3F91nQLaWL8yPahQHIGi) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [La Batalla](https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW) | 3:01 |
-| 44 | [Código Bitches](https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb) | [Fran Mazu](https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Código Bitches](https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6) | 2:47 |
+| 43 | [Código Bitches](https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb) | [Fran Mazu](https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Código Bitches](https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6) | 2:47 |
+| 44 | [Flow Violento](https://open.spotify.com/track/4T3F91nQLaWL8yPahQHIGi) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [La Batalla](https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW) | 3:01 |
 | 45 | [Transparente](https://open.spotify.com/track/1ErY8d7DBBDbBA4t9Va5Y1) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Para Existir](https://open.spotify.com/album/2RAmOfeTOgmG9aYXSm28vy) | 3:31 |
 | 46 | [Papel](https://open.spotify.com/track/4rE16lTqf0Itc1jcpnyDYx) | [May Villalobos](https://open.spotify.com/artist/2v6dIFNgGkqAwvSdeR6D8D), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Papel](https://open.spotify.com/album/1qmqSiUdglS1nHtMpGDFAt) | 3:06 |
 | 47 | [Ella Fuma](https://open.spotify.com/track/20wEgAkUOnlAHmE2rk36xY) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Ella Fuma](https://open.spotify.com/album/12Dj1ZmEQvvjCaAH5G4NqT) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Mírame a la Cara](https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Mírame a la Cara](https://open.spotify.com/album/3JzLCtObrGxiITV3qxtGgy) | 2:35 |
 | 50 | [MIÉNTEME](https://open.spotify.com/track/5JpvJ0qPVJ1uyC3Y5g68zy) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Brujerías de Cantina](https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy) | 3:24 |
 
-Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMDdlYjNhZjM0Yjk3YzliMjE3YTU5Y2Y4Y2Y4YWE1OGYx`
+Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMGZiZmYxNmY4NjFiNWY4MzU2M2FhZDJkNmY1NTBkYjI0`

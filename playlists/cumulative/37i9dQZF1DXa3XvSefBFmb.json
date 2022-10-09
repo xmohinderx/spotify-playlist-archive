@@ -3332,7 +3332,7 @@
     },
     {
       "album": {
-        "name": "Passo a Passo",
+        "name": "passo a passo",
         "url": "https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj"
       },
       "artists": [
@@ -3345,7 +3345,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219166,
-      "name": "Passo a Passo",
+      "name": "passo a passo",
       "url": "https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC"
     },
     {
@@ -3624,6 +3624,24 @@
     },
     {
       "album": {
+        "name": "Good Company",
+        "url": "https://open.spotify.com/album/1WKHgFnVXim0GYVfkOXgFR"
+      },
+      "artists": [
+        {
+          "name": "Da Chick",
+          "url": "https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165440,
+      "name": "Pressure - Unplugged",
+      "url": "https://open.spotify.com/track/2DpfdIfarBnJlz2ODq6adE"
+    },
+    {
+      "album": {
         "name": "Pressure (unplugged)",
         "url": "https://open.spotify.com/album/7cZgk2z7Pa38zSxgC21CWy"
       },
@@ -3635,7 +3653,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 165440,
       "name": "Pressure - Unplugged",
       "url": "https://open.spotify.com/track/45huXaWrbt1A5mX2TYigQP"

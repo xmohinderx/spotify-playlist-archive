@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 131440,
       "name": "Bang",
       "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
@@ -1175,6 +1175,24 @@
       "duration_ms": 183127,
       "name": "Feel Real Pretty",
       "url": "https://open.spotify.com/track/2nRcQbL9FZYFii3fFLKPSp"
+    },
+    {
+      "album": {
+        "name": "Feel Real Pretty",
+        "url": "https://open.spotify.com/album/6zLwTLoaEO41zOMSY64MSD"
+      },
+      "artists": [
+        {
+          "name": "Paper Idol",
+          "url": "https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183127,
+      "name": "Feel Real Pretty",
+      "url": "https://open.spotify.com/track/3RcoIYZ9HOJ8nhKLRV9c4e"
     },
     {
       "album": {

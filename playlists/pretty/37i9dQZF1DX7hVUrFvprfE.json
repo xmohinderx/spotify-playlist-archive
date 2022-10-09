@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDAwMDQ3Zjc3ZTU4ODhhN2IzZmIyMGMwNGMyNWNlYzQ2ZGM1",
+  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDAwMDc1YTRhMGI5ZDc2ZmZlM2IxY2NlMzM5ZmQxMjk2ZTM5",
   "tracks": [
     {
       "added_at": "2022-05-06 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Brighten the Corners: Nicene Creedence Ed.",
-        "url": "https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Harness Your Hopes - B-side",
-      "url": "https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 155866,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Brighten the Corners: Nicene Creedence Ed.",
+        "url": "https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Harness Your Hopes - B-side",
+      "url": "https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX"
     },
     {
       "added_at": "2022-05-06 04:00:00",

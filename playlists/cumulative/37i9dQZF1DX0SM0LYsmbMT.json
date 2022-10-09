@@ -6412,6 +6412,24 @@
     },
     {
       "album": {
+        "name": "Bonsai Garden",
+        "url": "https://open.spotify.com/album/4iArf5PjTgihAHH9PmEFtP"
+      },
+      "artists": [
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Bonsai Garden",
+      "url": "https://open.spotify.com/track/4BWaechBN4YaXZQ8AAjE6J"
+    },
+    {
+      "album": {
         "name": "Bonzai View",
         "url": "https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j"
       },
@@ -39053,7 +39071,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 141646,
       "name": "Outlands",
       "url": "https://open.spotify.com/track/55qLhh9X1MS3cB0wwbFUDs"

@@ -4,7 +4,7 @@
 
 > Descubre hoy a los artistas de mañana\. Foto: Walls
 
-142 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
+143 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [AMARILLO MI CORAZÓN](https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [AMARILLO MI CORAZÓN](https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu) | 3:06 | 2022-02-24 | 2022-09-09 |
 | [Angelina](https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Angelina](https://open.spotify.com/album/44JFYpj25UIPlZ7Ez0U3rX) | 2:46 | 2022-06-06 |  |
 | [Ansiedad](https://open.spotify.com/track/2hswWjOIbxumXz63x796xi) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ansiedad](https://open.spotify.com/album/4jzP7NAgCO7zqDIdZsTnzs) | 2:58 | 2022-09-08 | 2022-10-08 |
+| [Ansiedad](https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ansiedad](https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg) | 2:58 | 2022-09-23 |  |
 | [Bali](https://open.spotify.com/track/5AhfgQqtXnSQhtYAQ9SLDl) | [Aiman JR](https://open.spotify.com/artist/4BwfloY1F2zHUPcYlYnDnz) | [Bali](https://open.spotify.com/album/0ZiQztdWTlJ0ka8jHN5Qmw) | 3:02 | 2021-12-31 | 2022-04-01 |
 | [Beef Mac](https://open.spotify.com/track/2u1VymaQE1qwy8h9HzTRd6) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Beef Mac](https://open.spotify.com/album/74KscgggMT2lphlAbKp9cY) | 3:26 | 2021-12-31 | 2022-01-07 |
 | [Bonita](https://open.spotify.com/track/6XwtI61NZnkhmclCwC4hbu) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Bonito](https://open.spotify.com/album/1XoRwACvB8LyKkBV2cSeVB) | 2:52 | 2022-02-03 | 2022-07-15 |
@@ -99,7 +100,7 @@
 | [Noche polar](https://open.spotify.com/track/4cXeNKP5jqKXuVyhdDAN6n) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Noche polar](https://open.spotify.com/album/2AYtEgiEF4ZUyFlqDZfkoL) | 3:18 | 2021-12-31 | 2022-04-01 |
 | [Nunca](https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [100tas / Nunca](https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys) | 3:12 | 2022-03-31 |  |
 | [Oh my love \(ho tens tot per fer\)](https://open.spotify.com/track/3zToxIvBtdKcR5JNBb16gM) | [Marialluïsa](https://open.spotify.com/artist/57vnEmo3jRkWAigCYgNRaD) | [Oh my love \(ho tens tot per fer\)](https://open.spotify.com/album/0PiNBGPTW8hxh3bqEeTuPf) | 2:51 | 2021-12-31 | 2022-02-05 |
-| [Ojalá Fuéramos Amigos \(Buffetlibre Remix\)](https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Buffetlibre](https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh) | [Dime Algo \(bonito\) \(True Fans Edition\)](https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g) | 3:22 | 2022-06-06 |  |
+| [Ojalá Fuéramos Amigos \(Buffetlibre Remix\)](https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Buffetlibre](https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh) | [Dime Algo \(bonito\) \(True Fans Edition\)](https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g) | 3:22 | 2022-06-06 | 2022-10-09 |
 | [Olvídate](https://open.spotify.com/track/60Xq104dahklh2LSciVGEs) | [Love Yi](https://open.spotify.com/artist/6qyklgt2wzPT7KRdu15ZFL), [Naes Beats](https://open.spotify.com/artist/3XOMOMdcShaVEZi9xtuMNu) | [Olvídate](https://open.spotify.com/album/4Tpa7IkzjSUOELKTr9Cfi2) | 2:38 | 2021-12-31 | 2022-04-01 |
 | [otro lugar • despertar](https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [otro lugar • despertar](https://open.spotify.com/album/4jeRDEalab9KTcclcSRrBC) | 3:06 | 2021-12-31 | 2022-03-18 |
 | [Pablo](https://open.spotify.com/track/3RyLLnuLXce8JUdnaSyJNE) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Pablo](https://open.spotify.com/album/3JbYVEqXpE1CbYyVl3t2Zg) | 3:07 | 2022-02-17 | 2022-09-09 |

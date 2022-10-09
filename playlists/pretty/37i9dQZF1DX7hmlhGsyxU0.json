@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 92329,
+  "num_followers": 92586,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjExMzAzNSwwMDAwMDAwMGVkMjZmYmIyOWFkMmI5YThiZTZhOTEyMzlkNTg1M2Zh",
+  "snapshot_id": "MTY2MjExMzAzNSwwMDAwMDAwMDU0MTZlMjk2MGIxY2I3ZWZjOWEwZmU3MTIwZmY1OGQ1",
   "tracks": [
     {
       "added_at": "2022-09-02 10:03:55",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
+        "name": "len",
+        "url": "https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI"
+      },
+      "artists": [
+        {
+          "name": "Flica",
+          "url": "https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "len",
+      "url": "https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
         "name": "Composites",
         "url": "https://open.spotify.com/album/1GgxB4FcIhKrnrbG5qfVrU"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 223283,
       "name": "Composite 03",
       "url": "https://open.spotify.com/track/33s1LqCz2TSaiSpcqdffu5"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "len",
-        "url": "https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI"
-      },
-      "artists": [
-        {
-          "name": "Flica",
-          "url": "https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "len",
-      "url": "https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "Three Days in Venice",
-        "url": "https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 211697,
-      "name": "Eaux",
-      "url": "https://open.spotify.com/track/3o0bY0fJyynYhTwOH4yVci"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
         "name": "You Will Never Walk Alone (Glowworm Rework)",
         "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
+        "name": "Three Days in Venice",
+        "url": "https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "duration_ms": 211697,
+      "name": "Eaux",
+      "url": "https://open.spotify.com/track/3o0bY0fJyynYhTwOH4yVci"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
         "name": "Transcend",
         "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 212307,
       "name": "What If",
       "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "Daughter Tide",
-        "url": "https://open.spotify.com/album/03GMHAG6CLxmmlW1fOGEgE"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00efnk\u00ef Pl\u00f8nk\u00ef",
-          "url": "https://open.spotify.com/artist/7GHBho1pRWUW3jiA1oOFGA"
-        }
-      ],
-      "duration_ms": 94728,
-      "name": "Luck and the Moon",
-      "url": "https://open.spotify.com/track/7EzXWCT8HmsZ2MsuHGo3EU"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -643,6 +627,22 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
+        "name": "Daughter Tide",
+        "url": "https://open.spotify.com/album/03GMHAG6CLxmmlW1fOGEgE"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00efnk\u00ef Pl\u00f8nk\u00ef",
+          "url": "https://open.spotify.com/artist/7GHBho1pRWUW3jiA1oOFGA"
+        }
+      ],
+      "duration_ms": 94728,
+      "name": "Luck and the Moon",
+      "url": "https://open.spotify.com/track/7EzXWCT8HmsZ2MsuHGo3EU"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
         "name": "Living Rooms",
         "url": "https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE"
       },
@@ -659,8 +659,8 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
         }
       ],
-      "duration_ms": 153387,
-      "name": "Autumn",
-      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -759,6 +759,38 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
+        "name": "To the Moon and Back",
+        "url": "https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P"
+      },
+      "artists": [
+        {
+          "name": "Aija Alsina",
+          "url": "https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA"
+        }
+      ],
+      "duration_ms": 270003,
+      "name": "To the Moon and Back",
+      "url": "https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
         "name": "Ash",
         "url": "https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9"
       },
@@ -775,22 +807,6 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
         "name": "Cloud Symphonies",
         "url": "https://open.spotify.com/album/7gomWr8LUAjtZlvtiNZs4n"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 165285,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/6NSQA386YXPPVoYX00QXRi"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "To the Moon and Back",
-        "url": "https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P"
-      },
-      "artists": [
-        {
-          "name": "Aija Alsina",
-          "url": "https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA"
-        }
-      ],
-      "duration_ms": 270003,
-      "name": "To the Moon and Back",
-      "url": "https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -855,22 +855,18 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/4KxG2lk8yqgOaFiMEDGZVd"
+        "name": "Cyllene",
+        "url": "https://open.spotify.com/album/5JbLwgqc6LYNVWFnH4IGVn"
       },
       "artists": [
         {
-          "name": "Nsee",
-          "url": "https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm"
-        },
-        {
-          "name": "Harlan Silverman",
-          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+          "name": "Martin Landh",
+          "url": "https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew"
         }
       ],
-      "duration_ms": 141610,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/4KSdwXraUt7fy4gjbnDC7G"
+      "duration_ms": 171482,
+      "name": "Cyllene",
+      "url": "https://open.spotify.com/track/2rdfoD2s2fZIKxAqcX2t9O"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -907,22 +903,6 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "Cyllene",
-        "url": "https://open.spotify.com/album/5JbLwgqc6LYNVWFnH4IGVn"
-      },
-      "artists": [
-        {
-          "name": "Martin Landh",
-          "url": "https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew"
-        }
-      ],
-      "duration_ms": 171482,
-      "name": "Cyllene",
-      "url": "https://open.spotify.com/track/2rdfoD2s2fZIKxAqcX2t9O"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 143750,
       "name": "Okinawa River",
       "url": "https://open.spotify.com/track/5XWOjKm9uFZC5dpUXMhi26"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/4KxG2lk8yqgOaFiMEDGZVd"
+      },
+      "artists": [
+        {
+          "name": "Nsee",
+          "url": "https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm"
+        },
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "duration_ms": 141610,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/4KSdwXraUt7fy4gjbnDC7G"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
-      },
-      "artists": [
-        {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
-        }
-      ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
         "name": "Ser A Ti",
         "url": "https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 214687,
       "name": "Ser A Ti",
       "url": "https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
+      },
+      "artists": [
+        {
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
+        }
+      ],
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -1131,6 +1131,38 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/3gFKzHB8ISFNdQaVqQj2dm"
+      },
+      "artists": [
+        {
+          "name": "David G\u00f3mez",
+          "url": "https://open.spotify.com/artist/1YpEXfKQbYYdYjn3e9rr4h"
+        }
+      ],
+      "duration_ms": 294146,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/0qgocm3SrhllyvzxdKLtl8"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
+        "name": "I FELT",
+        "url": "https://open.spotify.com/album/3QuWiYej1r7pA09vyFLI8S"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 127218,
+      "name": "I FELT",
+      "url": "https://open.spotify.com/track/26uagwLcGRaOIcTsBcxP2J"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
         "name": "Sad Cello & Piano XXII",
         "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
       },
@@ -1159,38 +1191,6 @@
       "duration_ms": 186710,
       "name": "Veo Tus Ojos",
       "url": "https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "I FELT",
-        "url": "https://open.spotify.com/album/3QuWiYej1r7pA09vyFLI8S"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 127218,
-      "name": "I FELT",
-      "url": "https://open.spotify.com/track/26uagwLcGRaOIcTsBcxP2J"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/3gFKzHB8ISFNdQaVqQj2dm"
-      },
-      "artists": [
-        {
-          "name": "David G\u00f3mez",
-          "url": "https://open.spotify.com/artist/1YpEXfKQbYYdYjn3e9rr4h"
-        }
-      ],
-      "duration_ms": 294146,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/0qgocm3SrhllyvzxdKLtl8"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
-      },
-      "artists": [
-        {
-          "name": "Leo Einaudi",
-          "url": "https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX"
-        }
-      ],
-      "duration_ms": 146016,
-      "name": "November Sea",
-      "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
         "name": "Heavy Moon",
         "url": "https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz"
       },
@@ -1259,22 +1243,38 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "Shadows And Horizons",
-        "url": "https://open.spotify.com/album/64MnY6yTXNrsRv0raxa8Ao"
+        "name": "House of Memories",
+        "url": "https://open.spotify.com/album/0SadAMED3iCbRqmTl3CHYr"
       },
       "artists": [
         {
-          "name": "Chris Bartels",
-          "url": "https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K"
+          "name": "Troels Hammer",
+          "url": "https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR"
         },
         {
-          "name": "Blurstem",
-          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+          "name": "Reinhard Vanbergen",
+          "url": "https://open.spotify.com/artist/6uvyWuE7z8Rv93plqNWniu"
         }
       ],
-      "duration_ms": 129106,
-      "name": "Northern Moon",
-      "url": "https://open.spotify.com/track/047dIL5wrApvaEO1RCiSwX"
+      "duration_ms": 174000,
+      "name": "Sitting Bull",
+      "url": "https://open.spotify.com/track/1iIlPp7qvsE52UYTVgaalQ"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
+      },
+      "artists": [
+        {
+          "name": "Leo Einaudi",
+          "url": "https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX"
+        }
+      ],
+      "duration_ms": 146016,
+      "name": "November Sea",
+      "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"
     }
   ],
   "unique_name": "Instrumental Reading",

@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 632981,
+  "num_followers": 633219,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDRhNTM3ZjMxY2Q5Yzg3YTFjOWRmNTY5ZGU4NzUzYTRi",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDY4YjY4YjFjZmIyYWEyNzFjMWZhMjExMTZmYmZhNTAz",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -359,6 +359,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Scarface",
+          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+        }
+      ],
+      "duration_ms": 194461,
+      "name": "Decoded (feat. Scarface) - BONUS TRACK",
+      "url": "https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
@@ -375,22 +395,6 @@
       "duration_ms": 108387,
       "name": "In my lifetime (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Dark Hearted",
-        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 205851,
-      "name": "Dark Hearted",
-      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -479,26 +483,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "$oul $old $eparately",
-        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Scarface",
-          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
-        }
-      ],
-      "duration_ms": 194461,
-      "name": "Decoded (feat. Scarface) - BONUS TRACK",
-      "url": "https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Comfortable",
         "url": "https://open.spotify.com/album/0Pylmck9B199lPMHwtdu8O"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 142282,
       "name": "29 (Freestyle)",
       "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Dark Hearted",
+        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 205851,
+      "name": "Dark Hearted",
+      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 233090,
-      "name": "RUN [Feat. Young Thug]",
-      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Is What It Is",
         "url": "https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 177946,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 233090,
+      "name": "RUN [Feat. Young Thug]",
+      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Peace \"Fly\" God",
+        "url": "https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Derrick Boleman",
+      "url": "https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "RUN THE WORLD",
         "url": "https://open.spotify.com/album/06spODPScUqLi5jMPKq93q"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Peace \"Fly\" God",
-        "url": "https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Derrick Boleman",
-      "url": "https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Wimbledon",
+        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
+      },
+      "artists": [
+        {
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
+        }
+      ],
+      "duration_ms": 142409,
+      "name": "Wimbledon",
+      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "DRILLMATIC Heart vs. Mind",
         "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 249458,
       "name": "No Man Falls (Feat. Pusha T & 2 Chainz)",
       "url": "https://open.spotify.com/track/4BWbRimlDfSTUQkqMrkCem"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Wimbledon",
-        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
-      },
-      "artists": [
-        {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
-        }
-      ],
-      "duration_ms": 142409,
-      "name": "Wimbledon",
-      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "DRILL MUSIC IN ZION",
+        "url": "https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 177949,
+      "name": "NAOMI",
+      "url": "https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Soccer Dad",
         "url": "https://open.spotify.com/album/3ZKzd6YDXHItIxx83IxXIS"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "DRILL MUSIC IN ZION",
-        "url": "https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE"
+        "name": "EGOT the EP",
+        "url": "https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
         }
       ],
-      "duration_ms": 177949,
-      "name": "NAOMI",
-      "url": "https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu"
+      "duration_ms": 312653,
+      "name": "Help Me God",
+      "url": "https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -967,46 +983,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "EGOT the EP",
-        "url": "https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ"
+        "name": "A Quarter Til",
+        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
       },
       "artists": [
         {
-          "name": "CyHi",
-          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
         }
       ],
-      "duration_ms": 312653,
-      "name": "Help Me God",
-      "url": "https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Montega",
-        "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 222307,
-      "name": "Bricks & Bags",
-      "url": "https://open.spotify.com/track/3XhRkia2pZ0apnY1Yp2DfK"
+      "duration_ms": 92000,
+      "name": "Jus Lef Phoenix",
+      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
     }
   ],
   "unique_name": "Spilled Ink",

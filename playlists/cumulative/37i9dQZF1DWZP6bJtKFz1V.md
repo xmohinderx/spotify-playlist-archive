@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Aidan Bissett
 
-407 songs - 21 hr 9 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+409 songs - 21 hr 14 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,8 @@
 | [Peachy](https://open.spotify.com/track/5VN19XwyKuWp3lfQFFB4ov) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Peachy](https://open.spotify.com/album/5BJSRhuPzpf9acCJ3eWOR7) | 3:22 | 2022-02-04 | 2022-04-23 |
 | [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-10 |  |
 | [Pharmacist](https://open.spotify.com/track/1LWXIQyreuswhaIqKabxAD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/10umg2aCAjXa8HPvPKuFw0) | 2:04 | 2022-07-08 | 2022-07-27 |
-| [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-22 |  |
+| [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-22 | 2022-10-09 |
+| [Pharmacist](https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:04 | 2022-10-07 |  |
 | [Play Along](https://open.spotify.com/track/2Kqz2NwNRBqg0nJMQU5xjJ) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Play Along](https://open.spotify.com/album/4D9Fx7V3jOlawbQW9Svcf9) | 3:11 | 2022-02-18 | 2022-03-26 |
 | [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 | 2022-03-18 |  |
 | [Pool](https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pool](https://open.spotify.com/album/3rDZy3Mdl38XtftACWXL5c) | 3:43 | 2022-03-18 | 2022-10-08 |
@@ -318,6 +319,7 @@
 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 | 2022-02-04 | 2022-04-29 |
 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-10-07 |  |
 | [Sitting Up](https://open.spotify.com/track/4ecbBr4l07EN9I6lUwQTcv) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sitting Up](https://open.spotify.com/album/5ck87FVQRnVHW9xfc8NVZA) | 3:09 | 2022-02-11 | 2022-04-16 |
+| [Skate](https://open.spotify.com/track/0TMP3bNq86pf0wBS06GlAA) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 2:53 | 2022-10-07 |  |
 | [Skate](https://open.spotify.com/track/3CU1EgZ6iZyEioUJd85Rjb) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Skate / Big Shot / Play Along](https://open.spotify.com/album/5K9pA1ilpoUuGCkLdy6D6n) | 2:53 | 2022-03-25 | 2022-08-20 |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-07-09 |
 | [SKIN OF MY TEETH](https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SKIN OF MY TEETH](https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8) | 2:42 | 2022-06-10 | 2022-06-28 |
@@ -366,7 +368,7 @@
 | [Things You Said](https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9) | 3:23 | 2022-04-15 | 2022-07-29 |
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-10-07 |  |
 | [This Summer's Day](https://open.spotify.com/track/1oCg7v6GkRdkEO3BhgKpKD) | [Sitting on Stacy](https://open.spotify.com/artist/094vjpZRVz3pzNq8VXmq7R) | [This Summer’s Day](https://open.spotify.com/album/5yJpi0kY1KQbHQsuEwUbWt) | 3:07 | 2022-02-04 | 2022-04-09 |
-| [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 |  |
+| [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 | 2022-10-09 |
 | [three wheels and it still drives!](https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [three wheels and it still drives!](https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV) | 3:20 | 2022-10-07 |  |
 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2022-02-04 | 2022-03-12 |
 | [Tightrope](https://open.spotify.com/track/5kzsfmg5XrlG2cxnHbBNC5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Tightrope](https://open.spotify.com/album/6tUJXb2qxc4VBSmPeQYXrp) | 2:20 | 2022-04-22 |  |

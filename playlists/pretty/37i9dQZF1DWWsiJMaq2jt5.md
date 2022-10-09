@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Marie, ZUZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,345 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,378 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 6 | [MIEJSCA](https://open.spotify.com/track/5h90iokIq0iTutieNrW9u0) | [Suzia](https://open.spotify.com/artist/5nNtMnFVruYrc8I0TMozNi) | [MIEJSCA](https://open.spotify.com/album/1H3EJbA1rGWpevebFi8Q4w) | 4:14 |
 | 7 | [Kiedyś do Ciebie wrócę](https://open.spotify.com/track/5wSZ4GFyrzGpsshn4HQvnU) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [Kiedyś do Ciebie wrócę](https://open.spotify.com/album/53HGQ0jNJhdi2so3tSRZgF) | 3:49 |
 | 8 | [Romantyczność](https://open.spotify.com/track/7wJJZ98ZWKetRE1FxxRI1p) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Romantyczność](https://open.spotify.com/album/5fmObJHbZ3jyFmp00qNYEq) | 3:34 |
-| 9 | [Wiatr](https://open.spotify.com/track/4kJtKuwxKtXAr3t7PQhS6J) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [Wiatr](https://open.spotify.com/album/4HXEk1rDUHGD9MwFuiNEat) | 2:59 |
+| 9 | [wiatr](https://open.spotify.com/track/4kJtKuwxKtXAr3t7PQhS6J) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [wiatr](https://open.spotify.com/album/4HXEk1rDUHGD9MwFuiNEat) | 2:59 |
 | 10 | [Zapachy](https://open.spotify.com/track/4ts35aCwJQOvkZaEv3Z2vZ) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Zapachy](https://open.spotify.com/album/1WQ1CYkJxqh1EWABbTG33j) | 2:25 |
 | 11 | [Sorry \(tak wyszło\)](https://open.spotify.com/track/3HsZVKK9p2o9yrVATkUdbG) | [Karolina Stanisławczyk](https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t) | [Bilans](https://open.spotify.com/album/3yKDH8TO1L9cXrj8M0jOTV) | 2:51 |
 | 12 | [RASTA](https://open.spotify.com/track/0eIGpaZ6HcS9k2Nt9nMnJJ) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [RASTA](https://open.spotify.com/album/4DlPSU1YXt8zKWMgTaWoos) | 3:11 |

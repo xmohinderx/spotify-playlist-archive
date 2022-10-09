@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,030 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,095 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 83 | [Only One](https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg) | 3:08 |
 | 84 | [Undermine](https://open.spotify.com/track/1OL0iKcBz7xSvNtrU0xNaw) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [Undermine](https://open.spotify.com/album/7KA5Bh8sRCmzGaIh7kApCG) | 3:30 |
 | 85 | [Finest Quality](https://open.spotify.com/track/6WoUQDuKmRp0o08NBrSp1l) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Good Company \- EP](https://open.spotify.com/album/4yTvwbp957jWpDOSt2voOe) | 3:27 |
-| 86 | [Fairytale](https://open.spotify.com/track/0o6fLmEBkaTqjH2zm2s79P) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Fairytale](https://open.spotify.com/album/59qUkMkvIeP043jMXBVUtX) | 1:58 |
+| 86 | [Fairytale](https://open.spotify.com/track/1E0syS6k7fxeFj8IooFkQr) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Fairytale](https://open.spotify.com/album/49PuVlRvhiNAtblShfCeKE) | 1:58 |
 | 87 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 |
 | 88 | [Unaware](https://open.spotify.com/track/3roidInKXgWRTSZYLiZbUY) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Look Me In The Eyes](https://open.spotify.com/album/6QKGRsT17L0a2JLGIhOvfv) | 3:57 |
 | 89 | [next life](https://open.spotify.com/track/0EMaDLab0jjbGS4OWzDUoW) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [next life](https://open.spotify.com/album/6PLd5OqpdGTqJYpULgXJA1) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Feeling Good Feeling Great](https://open.spotify.com/track/2BeTDiDs3ttu9BXdDe3smE) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/6KJ5b8kHrWLKv7Fs2pjZJ3) | 1:57 |
 | 100 | [Shut Up](https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82) | 2:39 |
 
-Snapshot ID: `MTY2NDc1MTk2OCwwMDAwMDAwMGUzNWE2ZTY3MjM5OGFkNzUxOGI4MmQ3YTUzOGRlNjc3`
+Snapshot ID: `MTY2NDc1MTk2OCwwMDAwMDAwMGY5ZTg0OWUyNWMzN2Y5MDk1YzE2MTI0Y2Q1MWUwMzU0`

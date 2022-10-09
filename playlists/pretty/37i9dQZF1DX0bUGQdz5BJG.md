@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,118 likes - 175 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,366 likes - 175 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 21 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 |
 | 22 | [Late](https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:52 |
 | 23 | [What If I Don't](https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [What If I Don't](https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC) | 3:21 |
-| 24 | [Why Can't Love Be The Reason](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 |
+| 24 | [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 |
 | 25 | [Slow Down Fast](https://open.spotify.com/track/21JY7SzJaraL3XkyaAFqKU) | [Southburn](https://open.spotify.com/artist/56UcHVuitLdXwBIbeHIFMO) | [Slow Down Fast](https://open.spotify.com/album/2CPC1PxOuOWpGTCVNiSceD) | 2:51 |
 | 26 | [Enough](https://open.spotify.com/track/15poSUJkngb2fNk04ECdTr) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Enough](https://open.spotify.com/album/4EkLOP880Zw0F4Gnq1ltuj) | 3:20 |
 | 27 | [Heaven's Like a Hometown](https://open.spotify.com/track/1jh6LYrAUX11hkyy3FvakV) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Heaven's Like a Hometown](https://open.spotify.com/album/4G979dCowqLmMhIfK44Btj) | 2:58 |

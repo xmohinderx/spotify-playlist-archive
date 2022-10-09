@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Charlie Puth \(pictured\), Nickelback, Quavo & Takeoff, Rêve and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,988 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,014 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 25 | [snow angels](https://open.spotify.com/track/4tyD9sivpD8NGM8KEEabAl) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume two](https://open.spotify.com/album/4k9Mz7WO4U1rx3JIRF3iFz) | 3:30 |
 | 26 | [Vince Carter](https://open.spotify.com/track/7FcxQ0Vo80VLmj2bbI4PDu) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Vince Carter](https://open.spotify.com/album/27Ov0gmzsleAzK9hH2VEUm) | 3:29 |
 | 27 | [Call It Country](https://open.spotify.com/track/2lFXpH7botT14StfvOoNf0) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u), [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Call It Country](https://open.spotify.com/album/0GhuLJzEFaZn4OjMBudRGj) | 3:23 |
-| 28 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 |
+| 28 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 |
 | 29 | [Everlasting](https://open.spotify.com/track/4AZ0sJsofN1fu52BaYDfQX) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Anywhere from Here](https://open.spotify.com/album/4ySzF5KyOtlBFWmqrVGvxy) | 3:42 |
 | 30 | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z) | 3:08 |
 | 31 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 40 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
 | 41 | [Kammy \(like i do\)](https://open.spotify.com/track/32DqQqnNiZI5VxozdaUUDu) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/28ajXoSpiEOh1W4neVxxgS) | 3:58 |
 | 42 | [More Horses](https://open.spotify.com/track/1rFFWztyr2N5REyljmQjgb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [More Horses feat\. Tegan & Sara](https://open.spotify.com/album/7bjHoL0Ndu3UVAkocYOQ3x) | 5:33 |
-| 43 | [Violet](https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/645MRWJlInqgZv3DlIJz7B) | [Violet](https://open.spotify.com/album/6TasXkUMVr3cFnrerHhlVj) | 2:02 |
+| 43 | [Violet](https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Violet](https://open.spotify.com/album/6TasXkUMVr3cFnrerHhlVj) | 2:02 |
 | 44 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 |
 | 45 | [Falling Out](https://open.spotify.com/track/3H8zeSxIzl98QJaM5gi4tv) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bad Posture](https://open.spotify.com/album/7fAznyEY9ZOOGn4fR5sCpt) | 3:02 |
 | 46 | [Tomorrow Can Wait](https://open.spotify.com/track/5MpQv6ULtezyLFtnx8VX1M) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Tomorrow Can Wait](https://open.spotify.com/album/5xLYRqDmG1UGElZqLwVFVU) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Waiting On You](https://open.spotify.com/track/60APte5kJOWQahKOsUv3ng) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Waiting On You](https://open.spotify.com/album/38ybjS3nBTYxOTUTBX9Vrr) | 2:51 |
 | 100 | [Must Be Nice](https://open.spotify.com/track/2kluBf4ePpr9nCep6BElRT) | [F.N.](https://open.spotify.com/artist/1LSChoeTlUxsOvUef5Lq8g) | [Must Be Nice](https://open.spotify.com/album/2VaJqjxwbmJj1kmam6AyAV) | 2:14 |
 
-Snapshot ID: `MTY2NTExNjU4MSwwMDAwMDAwMDU2Nzk5NDY0NWNiZmQ2MzNmOTI4Y2I1ZWYyMjcxN2Fk`
+Snapshot ID: `MTY2NTExNjU4MSwwMDAwMDAwMDIyY2FhZTJmNTY1ZDcxMjc0NGYwODEyZWExMWNhZDM0`

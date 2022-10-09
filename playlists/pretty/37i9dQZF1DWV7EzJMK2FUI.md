@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,773 likes - 376 songs - 23 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,238 likes - 376 songs - 23 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 93 | [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 |
 | 94 | [If You Could See Me Now](https://open.spotify.com/track/5ig6zG9Mpf9Y6PT9pRfSJA) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [If You Could See Me Now](https://open.spotify.com/album/2pNS32INlB1N89pSd0VeLm) | 4:15 |
 | 95 | [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 |
-| 96 | [All That You Are](https://open.spotify.com/track/6vXRp9QutoS6wyaUO1fB6W) | [Andreas Dahlbäck](https://open.spotify.com/artist/40WI48F48hHtuO9oxGJNxd) | [All That You Are](https://open.spotify.com/album/2IBRAvkNEKpAeJpnPrO3v2) | 4:00 |
+| 96 | [All That You Are](https://open.spotify.com/track/6vXRp9QutoS6wyaUO1fB6W) | [Elvin Vanguard](https://open.spotify.com/artist/1VDLEbjtzw7vCwMFlWe7xE) | [All That You Are](https://open.spotify.com/album/2IBRAvkNEKpAeJpnPrO3v2) | 4:00 |
 | 97 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 |
 | 98 | [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 |
 | 99 | [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 |

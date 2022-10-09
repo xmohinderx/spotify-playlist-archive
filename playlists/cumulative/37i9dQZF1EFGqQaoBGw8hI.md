@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-488 songs - 1 day 11 hr 43 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
+489 songs - 1 day 11 hr 47 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Calling It Christmas \- Radio Edit](https://open.spotify.com/track/0XpApJu5havzspIyIVe2ut) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul \(Special Edition\)](https://open.spotify.com/album/6rEYIfMefUM2leNQNoBdu2) | 4:16 | 2022-09-08 |  |
 | [Can I Put You On \- UK\-Release Mix](https://open.spotify.com/track/6mVRyHTk2P190llXw7EXdH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [17\-11\-70](https://open.spotify.com/album/4oQROC3cT21c88hQWQF47s) | 6:10 | 2022-09-08 |  |
 | [Can't Stay Alone Tonight](https://open.spotify.com/track/1MSPSJToyk1rMHGDAMjVMM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:48 | 2022-09-08 |  |
-| [Candle in the Wind](https://open.spotify.com/track/4ft5xdZvpplCKbhJxd0gGc) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Classic 70s Acoustic Guitar: After the Love Has Gone](https://open.spotify.com/album/5ZT7kAwRiK3xSisMvkTIAn) | 4:17 | 2022-09-10 |  |
+| [Candle in the Wind](https://open.spotify.com/track/4ft5xdZvpplCKbhJxd0gGc) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Classic 70s Acoustic Guitar: After the Love Has Gone](https://open.spotify.com/album/5ZT7kAwRiK3xSisMvkTIAn) | 4:17 | 2022-09-10 | 2022-10-09 |
+| [Candle in the Wind \(Goodbye England's Rose\)](https://open.spotify.com/track/7sVVvWa0036ac97LiGYwor) | [Timothy Eaton Ensemble](https://open.spotify.com/artist/1mD1xrYY0PxnYZbwL9ub4w) | [England's Rose](https://open.spotify.com/album/4AC6mUo3BQlPop3DMI7NYS) | 4:05 | 2022-10-08 |  |
 | [Candle In The Wind \- Remastered 2014](https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:48 | 2022-09-08 |  |
 | [Candle In The Wind 1997](https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Candle In The Wind 1997 / Something About ...](https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ) | 4:10 | 2022-09-08 |  |
 | [Candy By The Pound](https://open.spotify.com/track/4gslKb4WdHVqX9FWo8aaVC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:56 | 2022-09-08 |  |

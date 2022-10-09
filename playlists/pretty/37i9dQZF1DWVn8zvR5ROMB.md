@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Justin Moore and Priscilla Block, Restless Road and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,509 likes - 63 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,881 likes - 63 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 4 | [How You Love Someone](https://open.spotify.com/track/56XDLBRNjRSnQnwlWTuwKh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [How You Love Someone](https://open.spotify.com/album/5E3d726Sw4jFs5PPiDe5Du) | 4:25 |
 | 5 | [Whatcha Know About That](https://open.spotify.com/track/4sl7urnvv4gI7BtjGby7y0) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Whatcha Know About That](https://open.spotify.com/album/0dS99ant98Rrmw5tVuHfkE) | 2:48 |
 | 6 | [Over For You \- Live in Melbourne](https://open.spotify.com/track/05n88AzLQdSxS3qNQeTJBl) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You \(Live in Melbourne\)](https://open.spotify.com/album/0LjpFQ6PhPfKERb0zHwFc2) | 3:34 |
-| 7 | [Why Can't Love Be The Reason](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 |
+| 7 | [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 |
 | 8 | [High Heels](https://open.spotify.com/track/7HH2qGXywdgAn5b2WHnkQq) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [High Heels](https://open.spotify.com/album/0IJZvRUdoGgvuiXKEibSdz) | 2:35 |
 | 9 | [Technicolor](https://open.spotify.com/track/7knQOE5ngVJihhXEyqngwL) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Technicolor](https://open.spotify.com/album/4ISfLs7kp2y3E6B0j3QjDN) | 3:00 |
 | 10 | [Too Much Of A Good Thing](https://open.spotify.com/track/2w955aKTkdFKlW2Wr5kNr8) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Too Much Of A Good Thing](https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll) | 3:14 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 44 | [Iris \- Acoustic](https://open.spotify.com/track/01IzBTiu0EhixALKnNmlmf) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Iris \(Acoustic\)](https://open.spotify.com/album/70tUve3F5gP1yjJdWJsEP7) | 4:05 |
 | 45 | [Don't Laugh at Me](https://open.spotify.com/track/1zJfRinnh3lnteu6kKED6e) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7), [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF) | [Don't Laugh at Me](https://open.spotify.com/album/1Z8x8uSkl5LXCNWlPFCKJ6) | 3:29 |
 | 46 | [1990s Drunk](https://open.spotify.com/track/70DLKdtq1mq4UT05jnXh8Z) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [1990s Drunk](https://open.spotify.com/album/4T7NUH0KI8yXRcCrgs0Doz) | 2:58 |
-| 47 | [American Spirit](https://open.spotify.com/track/3zUnBXfvEXrFfiOLAx32s8) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [American Spirit](https://open.spotify.com/album/5R1id9x1OY0vnIPVKSxSyv) | 3:40 |
+| 47 | [American Spirit](https://open.spotify.com/track/3zUnBXfvEXrFfiOLAx32s8) | [Aidan Canfield](https://open.spotify.com/artist/39DQryVFLXEKBmRGyDSc3d) | [American Spirit](https://open.spotify.com/album/5R1id9x1OY0vnIPVKSxSyv) | 3:40 |
 | 48 | [Waiting On You](https://open.spotify.com/track/60APte5kJOWQahKOsUv3ng) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Waiting On You](https://open.spotify.com/album/38ybjS3nBTYxOTUTBX9Vrr) | 2:51 |
 | 49 | [Cigarettes in the Sand](https://open.spotify.com/track/6g7TNcfvMD4qVbOjT44Y5J) | [Brooke Lynn](https://open.spotify.com/artist/1KYUlfMDDcG5w5VDMxQwCC) | [Cigarettes in the Sand](https://open.spotify.com/album/77FAjVu0ef4TWime90LfGf) | 3:12 |
 | 50 | [It All Started With Tequila](https://open.spotify.com/track/3QT7NVDOnlsaHDIbCblfOr) | [Isaiah Bennett](https://open.spotify.com/artist/7DFydMqaqDGdLW3ITfl69j) | [It All Started With Tequila](https://open.spotify.com/album/6qMRxlsIiQZaAgxzCIE7Ea) | 3:25 |

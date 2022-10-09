@@ -786,6 +786,24 @@
     },
     {
       "album": {
+        "name": "As Days Go By",
+        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
+      },
+      "artists": [
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/0wKCjEaixgpLA20mMEi2px"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222654,
+      "name": "As Days Go By",
+      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
+    },
+    {
+      "album": {
         "name": "b r e a t h e",
         "url": "https://open.spotify.com/album/3SbFrYQ14SZoge8uiHTQP3"
       },
@@ -5571,7 +5589,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 162352,
       "name": "Heartburn (Sooibrand)",
       "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
@@ -6361,7 +6379,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 138095,
       "name": "I Need a Man",
       "url": "https://open.spotify.com/track/0H6tQF3utjC4olH20goN1e"
@@ -13861,7 +13879,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 190007,
       "name": "Without Trying",
       "url": "https://open.spotify.com/track/4EykTroSo3K4ndv79w4aBk"

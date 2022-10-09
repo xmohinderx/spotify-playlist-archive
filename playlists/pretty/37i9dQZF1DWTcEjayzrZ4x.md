@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,930 likes - 288 songs - 18 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,008 likes - 288 songs - 18 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 91 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 |
 | 92 | [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 |
 | 93 | [Miles and Miles](https://open.spotify.com/track/6EjkHR4gYfNQjWwoyiCTbh) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Miles and Miles](https://open.spotify.com/album/1Gl5EDLgmZ5qFglvsJUCSX) | 4:31 |
-| 94 | [All That You Are](https://open.spotify.com/track/6vXRp9QutoS6wyaUO1fB6W) | [Andreas Dahlbäck](https://open.spotify.com/artist/40WI48F48hHtuO9oxGJNxd) | [All That You Are](https://open.spotify.com/album/2IBRAvkNEKpAeJpnPrO3v2) | 4:00 |
+| 94 | [All That You Are](https://open.spotify.com/track/6vXRp9QutoS6wyaUO1fB6W) | [Elvin Vanguard](https://open.spotify.com/artist/1VDLEbjtzw7vCwMFlWe7xE) | [All That You Are](https://open.spotify.com/album/2IBRAvkNEKpAeJpnPrO3v2) | 4:00 |
 | 95 | [Oh, You Crazy Moon](https://open.spotify.com/track/0ev5ZUSI3YFByFX9EfRUWl) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [My Prayer](https://open.spotify.com/album/6YBq5EF3aq9VILtfLpr6bI) | 3:59 |
 | 96 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 |
 | 97 | [Stillness is a Gift](https://open.spotify.com/track/4cPz5Fm127FenLUfTJ6G2l) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Stars in Your Eyes](https://open.spotify.com/album/0e1PjJ10JCgMQLAIUT4NJ4) | 4:15 |

@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-112 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/4JRzjnOLPijNmAgihe8x2o)
+113 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/4JRzjnOLPijNmAgihe8x2o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Pineapple Pizza](https://open.spotify.com/track/5GY7EgrHztoGJkGXDdhQCR) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Pineapple Pizza](https://open.spotify.com/album/7rBmAvloiKVHIOHpC5g1ni) | 2:26 | 2022-02-10 |  |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2022-02-10 |  |
 | [Pretty Lady \- Free Nationals Remix](https://open.spotify.com/track/55HlhHQyXxCoKt9oZkxHD0) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Pretty Lady \(Free Nationals Remix\)](https://open.spotify.com/album/3kZx6ZWaFjwKJ55yEr0Qsu) | 4:18 | 2022-02-10 |  |
-| [Preview](https://open.spotify.com/track/4XwgwuC4nFaq602YAebfZP) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Preview](https://open.spotify.com/album/082t32AlaNDWXw3uxBMTlV) | 3:18 | 2022-02-10 |  |
+| [Preview](https://open.spotify.com/track/2T0kfQqtxcJuBbyJc6k97U) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Preview](https://open.spotify.com/album/1qxC2XCw1DWFmbU3bYttfv) | 3:18 | 2022-02-10 |  |
+| [Preview](https://open.spotify.com/track/4XwgwuC4nFaq602YAebfZP) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Preview](https://open.spotify.com/album/082t32AlaNDWXw3uxBMTlV) | 3:18 | 2022-02-10 | 2022-10-09 |
 | [Promises](https://open.spotify.com/track/3utMhdPyABjuo1mXoY2Fn2) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Andie](https://open.spotify.com/artist/1Uxt9rwMK1taBTGLS2SZkr) | [Promises](https://open.spotify.com/album/7c2P9D7n2ve73GhVHeOHVb) | 3:56 | 2022-02-10 |  |
 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 | 2022-02-10 |  |
 | [R U HIGH \(feat\. Mallrat\)](https://open.spotify.com/track/1nyyEarKbjbGm3iJqvZknV) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [R U HIGH \(feat\. Mallrat\)](https://open.spotify.com/album/29iHejEs5RHC3EQiezTLrd) | 3:59 | 2022-02-10 |  |

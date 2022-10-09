@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: MV Bill, Kmila CDD
 
-88 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
+89 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Rapstência](https://open.spotify.com/track/1VNV99PvXAzaobqrXahpEP) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv) | [Rapstência](https://open.spotify.com/album/5uLMu3je9ArXl9ITcJmIpd) | 3:43 | 2022-03-11 |  |
 | [Respeito É pra Quem Tem](https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:29 | 2022-04-22 |  |
 | [Respeito É pra Quem Tem](https://open.spotify.com/track/5yVK0yIimJJDiFkFSTgQSd) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/7f7tJ66hE6aghmPubHTqVk) | 5:29 | 2022-03-11 | 2022-07-29 |
-| [Retrato de um Playboy \(Juventude Perdida\)](https://open.spotify.com/track/3UIgJ1731jLr1qzDZy1Ma2) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD) | [Gabriel O Pensador](https://open.spotify.com/album/6U8M46eDHMmL6TmlveNxVt) | 3:58 | 2022-03-11 |  |
+| [Retrato de um Playboy \(Juventude Perdida\)](https://open.spotify.com/track/3UIgJ1731jLr1qzDZy1Ma2) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD) | [Gabriel O Pensador](https://open.spotify.com/album/6U8M46eDHMmL6TmlveNxVt) | 3:58 | 2022-03-11 | 2022-10-09 |
+| [Retrato de um Playboy \(Juventude Perdida\)](https://open.spotify.com/track/3wtl36m4QVTlc8aUZfPWM8) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD) | [Tás A Ver \- O Melhor de Gabriel O Pensador](https://open.spotify.com/album/6hYtxwo8Fy3VFSnbJy3VqJ) | 3:58 | 2022-10-07 |  |
 | [Rolo Compressor](https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:11 | 2022-03-11 |  |
 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 | 2022-03-11 |  |
 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/1J4tWt31G0Klu7R6pMb3Nl) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Hip Hop \- Rap](https://open.spotify.com/album/0J4Q8MK2zce9EFgMdIgulZ) | 6:23 | 2022-03-11 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
-  "num_followers": 822,
+  "num_followers": 842,
   "original_name": "PAUSE: Anxiety",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMDI1MzI1YWIzNzg1ZTBjNjE1YWFhYTVjMWU0MTg2ZDA0",
+  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMDQ3OTA0YWU2NTgyNWE2Yjg5MGNiZmI2ZWRjNGViMGE0",
   "tracks": [
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Finding Solitude",
-        "url": "https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7"
-      },
-      "artists": [
-        {
-          "name": "Miesha Berens",
-          "url": "https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln"
-        }
-      ],
-      "duration_ms": 153124,
-      "name": "Finding Solitude",
-      "url": "https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Bocks",
         "url": "https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 133502,
       "name": "Bocks",
       "url": "https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Finding Solitude",
+        "url": "https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7"
+      },
+      "artists": [
+        {
+          "name": "Miesha Berens",
+          "url": "https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln"
+        }
+      ],
+      "duration_ms": 153124,
+      "name": "Finding Solitude",
+      "url": "https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Night Light",
-        "url": "https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr"
-      },
-      "artists": [
-        {
-          "name": "Phoenomenatic",
-          "url": "https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4"
-        }
-      ],
-      "duration_ms": 150199,
-      "name": "Night Light",
-      "url": "https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Night Effects",
         "url": "https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 102570,
       "name": "Pensamiento (Variacion 1)",
       "url": "https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Night Light",
+        "url": "https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr"
+      },
+      "artists": [
+        {
+          "name": "Phoenomenatic",
+          "url": "https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4"
+        }
+      ],
+      "duration_ms": 150199,
+      "name": "Night Light",
+      "url": "https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL"
     },
     {
       "added_at": "2022-09-15 11:18:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 159 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 163 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 13 | [Trottinette](https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf), [Abdoul](https://open.spotify.com/artist/23IOAUeDv9mxdPgXvGW8ES), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF) | [Trottinette](https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z) | 3:04 |
 | 14 | [Rève nou ancètre](https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV) | [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Séparation \(Zenfants perdi simé\)](https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY) | 5:06 |
 | 15 | [Ingra](https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL) | [Jason Heerah](https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl), [Otentik Groove](https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK), [Désiré François](https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9) | [La famille](https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7) | 4:07 |
-| 16 | [Zoli mamzel \(Remix 2016\) \[feat\. Kymai, DJ Cutson & DJ Cedrik\]](https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH) | [Gary Victor](https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1), [Kymaï](https://open.spotify.com/artist/4oMiFNFu7BdGvGD4dusuhn), [DJ Cutson](https://open.spotify.com/artist/3DHm7ZLJ4OeVF8eAzbAUh2), [Dj Cedrik](https://open.spotify.com/artist/5qnz040bwCnHXrqgBAv4f5) | [Elle danse](https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV) | 3:36 |
-| 17 | [Vilain manière](https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl) | [Missty](https://open.spotify.com/artist/046Doq33XrspImCS9IpnuC) | [Roule a li même](https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs) | 3:46 |
+| 16 | [Vilain manière](https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl) | [Missty](https://open.spotify.com/artist/046Doq33XrspImCS9IpnuC) | [Roule a li même](https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs) | 3:46 |
+| 17 | [Zoli mamzel \(Remix 2016\) \[feat\. Kymai, DJ Cutson & DJ Cedrik\]](https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH) | [Gary Victor](https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1), [Kymaï](https://open.spotify.com/artist/4oMiFNFu7BdGvGD4dusuhn), [DJ Cutson](https://open.spotify.com/artist/3DHm7ZLJ4OeVF8eAzbAUh2), [Dj Cedrik](https://open.spotify.com/artist/5qnz040bwCnHXrqgBAv4f5) | [Elle danse](https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV) | 3:36 |
 | 18 | [Dhobi de classe](https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT) | [Jean\-Claude](https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5) | [Les meilleurs ségas de Jean\-Claude \(Folk Music of Mauritius Island\)](https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ) | 5:52 |
 | 19 | [Longanis](https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM) | [Sky to Be](https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch) | [Sega Ar Pwa](https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn) | 3:29 |
 | 20 | [Ena Ennta Zetwal](https://open.spotify.com/track/7dMsbTGUUg06S0j75VdbQT) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 4:12 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 40 | [Séga Li Lao](https://open.spotify.com/track/4d24yIdgzXxr9MrV4sCoBo) | [Valo](https://open.spotify.com/artist/6jCKvZ3AkM4jHLlSbS2s3o) | [Séga Li Lao](https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX) | 4:39 |
 | 41 | [Fiesta Ravanna](https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [Fiesta Ravanna](https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ) | 4:25 |
 | 42 | [Mo ti poule](https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P) | [B.I.G](https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu) | [Coulèr Mélanzé](https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB) | 4:22 |
-| 43 | [Vandredi Sen](https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB) | [Jean\-Marc Volcy](https://open.spotify.com/artist/5wLnu3r3e2M86e58aFW2Ot), [Jany Letourdi](https://open.spotify.com/artist/2UavPhDBdrlSVwUyZP4GJ3) | [The Best of Jean\-Marc Volcy](https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh) | 4:38 |
-| 44 | [Granper Sorti Diego](https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 5:01 |
+| 43 | [Granper Sorti Diego](https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 5:01 |
+| 44 | [Vandredi Sen](https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB) | [Jean\-Marc Volcy](https://open.spotify.com/artist/5wLnu3r3e2M86e58aFW2Ot), [Jany Letourdi](https://open.spotify.com/artist/2UavPhDBdrlSVwUyZP4GJ3) | [The Best of Jean\-Marc Volcy](https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh) | 4:38 |
 | 45 | [Janvier](https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2) | [Andy Janvier](https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS) | [Coulèr Mélanzé](https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB) | 4:06 |
 | 46 | [Séga Jacquot](https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm) | [Luc Donat](https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm) | [Le Roi du séga](https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h) | 3:12 |
 | 47 | [To Kontan Koze](https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr) | [Zotsa](https://open.spotify.com/artist/0vkxsGGUsyNJBxLQcavGr8) | [Revival](https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
 | 50 | [Pop Soul Sega](https://open.spotify.com/track/7CTdKdYu5sGpzmKBl2Ixdj) | [Ti L'Afrique](https://open.spotify.com/artist/7psU4qxB98jFalXz3seXsX) | [Moris Zekler: Fuzz & Soul Sega from 70's Mauritius](https://open.spotify.com/album/5jSShrhgr5xkYNsXJMxOx9) | 4:12 |
 
-Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMGI4NjE2NWZjODJkNDIzMDY5MDNjYTVhMjcwNDBiM2I1`
+Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDQ0NmYzM2U2MjhjODRkM2M0MjU1NWI0NTliN2NkZGZi`

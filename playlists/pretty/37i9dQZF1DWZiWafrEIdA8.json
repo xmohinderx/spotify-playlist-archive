@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 5028,
+  "num_followers": 5044,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzM3MiwwMDAwMDAwMGQxMTdlODI1Njk5NGVkYzNjYjgzOWU3NjBhYzQxZGJh",
+  "snapshot_id": "MTY2NTExNzM3MiwwMDAwMDAwMDFjNzhjNmYyMDg5OWMwNjhhZDIyMzQwMGY2NTFmN2Ex",
   "tracks": [
     {
       "added_at": "2022-10-07 04:36:11",
@@ -543,6 +543,26 @@
     {
       "added_at": "2022-10-07 04:36:11",
       "album": {
+        "name": "She Gonna Stop",
+        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
+      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+    },
+    {
+      "added_at": "2022-10-07 04:36:11",
+      "album": {
         "name": "Show Me the Money 777 Semi Final",
         "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
       },
@@ -572,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
         }
       ],
-      "duration_ms": 195373,
-      "name": "I Hated Myself (Tablo's Word)",
-      "url": "https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1"
+      "duration_ms": 246400,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
     },
     {
       "added_at": "2022-10-07 04:36:11",
@@ -655,22 +675,6 @@
     {
       "added_at": "2022-10-07 04:36:11",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
-    },
-    {
-      "added_at": "2022-10-07 04:36:11",
-      "album": {
         "name": "DARKROOM : roommates only",
         "url": "https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE"
       },
@@ -683,6 +687,38 @@
       "duration_ms": 209086,
       "name": "home sh*t home",
       "url": "https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85"
+    },
+    {
+      "added_at": "2022-10-07 04:36:11",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "I Hated Myself (Tablo's Word)",
+      "url": "https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1"
+    },
+    {
+      "added_at": "2022-10-07 04:36:11",
+      "album": {
+        "name": "WHISTLE",
+        "url": "https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "duration_ms": 172177,
+      "name": "WHISTLE",
+      "url": "https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut"
     },
     {
       "added_at": "2022-10-07 04:36:11",
@@ -707,22 +743,6 @@
       "duration_ms": 182671,
       "name": "Pat Pat",
       "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
-    },
-    {
-      "added_at": "2022-10-07 04:36:11",
-      "album": {
-        "name": "WHISTLE",
-        "url": "https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 172177,
-      "name": "WHISTLE",
-      "url": "https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut"
     },
     {
       "added_at": "2022-10-07 04:36:11",
@@ -759,26 +779,6 @@
       "duration_ms": 244584,
       "name": "Black Happiness",
       "url": "https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz"
-    },
-    {
-      "added_at": "2022-10-07 04:36:11",
-      "album": {
-        "name": "She Gonna Stop",
-        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
-      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
     },
     {
       "added_at": "2022-10-07 04:36:11",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-10-07 04:36:11",
       "album": {
-        "name": "Primary and the Messengers LP",
-        "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 235311,
-      "name": "poison",
-      "url": "https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T"
-    },
-    {
-      "added_at": "2022-10-07 04:36:11",
-      "album": {
         "name": "School Rapper2 Team-battle Pt. 2",
         "url": "https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 164035,
       "name": "The Little Prince (Prod. Godic)",
       "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
+    },
+    {
+      "added_at": "2022-10-07 04:36:11",
+      "album": {
+        "name": "Primary and the Messengers LP",
+        "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 235311,
+      "name": "poison",
+      "url": "https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T"
     },
     {
       "added_at": "2022-10-07 04:36:11",

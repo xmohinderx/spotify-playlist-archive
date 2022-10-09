@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: YOUNGTAK\(영탁\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-766 songs - 1 day 19 hr 43 min - [published](https://open.spotify.com/playlist/4095CD5XCukMZYOcr7Aaxg)
+767 songs - 1 day 19 hr 48 min - [published](https://open.spotify.com/playlist/4095CD5XCukMZYOcr7Aaxg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,6 +697,7 @@
 | [관상타령](https://open.spotify.com/track/79QFLjcgmk7YiV6AshYSXe) | [손헌수](https://open.spotify.com/artist/5dOttZW4sXogDxNpRBSpnR) | [관상타령](https://open.spotify.com/album/7lbKd2a8yzlqNw7xmwiyWZ) | 3:32 | 2022-06-18 | 2022-07-29 |
 | [그대 오는 날 \(Acoustic Ver.\) Love is Coming \(Acoustic Ver.\)](https://open.spotify.com/track/64N774TyEGD2qjpER0GN5C) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [사랑은 뷰티풀 인생은 원더풀 OST Part.10 Love is beautiful, Life is wonderful OST Part.10](https://open.spotify.com/album/5uWfOno4DG8CCHHdcoxL3S) | 3:39 | 2022-04-07 | 2022-07-29 |
 | [그대 오는 날 Love is Coming](https://open.spotify.com/track/64JBGUDLrrjzKl9LOXXjhI) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [사랑은 뷰티풀 인생은 원더풀 OST Part.10 Love is beautiful, Life is wonderful OST Part.10](https://open.spotify.com/album/5uWfOno4DG8CCHHdcoxL3S) | 3:41 | 2022-04-07 | 2022-07-22 |
+| [나보다 더 사랑해요](https://open.spotify.com/track/4aOozUyHI6r5LauMX6TtUw) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:11 | 2022-10-07 |  |
 | [남자다잉](https://open.spotify.com/track/6ZquV8HfDPIVK5OcmPFagP) | [포유\(민수현](https://open.spotify.com/artist/1NOwiu5HSOhf00L6bASM1u), [이상호&이상민](https://open.spotify.com/artist/5fO8bipB6h16VipbZ3xRtV), [염동언\)](https://open.spotify.com/artist/5acdH6yluHTslsWzLncFD2) | [Korean Trot Contest PART.5](https://open.spotify.com/album/73AYOATUIFhqWlhWCAR3eF) | 3:52 | 2022-05-03 | 2022-07-19 |
 | [내 나이가 어때서](https://open.spotify.com/track/7ESq2ZGhHOdvtuA96W2e6E) | [오승근](https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg) | [오승근 Special \`내 나이가 어때서\`](https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be) | 3:19 | 2022-04-22 |  |
 | [누나가 딱이야](https://open.spotify.com/track/2gB2WYfvPzzxwbukvUTf0Z) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [누나가 딱이야](https://open.spotify.com/album/39jXHBQl6DK470FmIeq3Nj) | 3:33 | 2022-07-22 |  |
@@ -712,7 +713,7 @@
 | [로꾸거!!!](https://open.spotify.com/track/77Z6XdUHDsbvsLd61vVbQU) | [SUPER JUNIOR\-T](https://open.spotify.com/artist/5Z595Kh9tlzZuyneUHI111) | [로꾸거!!!](https://open.spotify.com/album/4jKdrKP3d7a6fR9nJBQMAv) | 2:59 | 2022-05-03 |  |
 | [마셔라](https://open.spotify.com/track/7M7dVVgNr0VaLq6B2aqw5E) | [Mr.Boombox](https://open.spotify.com/artist/47feRgmsZDfJs3AOY68xPp) | [마셔라](https://open.spotify.com/album/5HcjCPrfrpBgkGYJUTwRYr) | 3:48 | 2022-04-07 | 2022-07-29 |
 | [만약 혹시나 만약에](https://open.spotify.com/track/0MBll3MNAunvI1k4EqRDXZ) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [만약 혹시나 만약에](https://open.spotify.com/album/1DJtekGwGeFiEWUkaYslNZ) | 2:36 | 2022-05-03 | 2022-07-20 |
-| [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 | 2022-04-22 |  |
+| [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 | 2022-04-22 | 2022-10-09 |
 | [무명배우](https://open.spotify.com/track/3rYKL4GEjt2R91ww7wNxeT) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [미스트롯 FINAL STAGE](https://open.spotify.com/album/1M7ZC5LiictivsP80SG886) | 4:15 | 2022-04-07 | 2022-07-29 |
 | [무명배우](https://open.spotify.com/track/39VPnJnAO80E2bRFQFHck0) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Again](https://open.spotify.com/album/2hmWVreZzq76CRhKkwEBJr) | 4:15 | 2022-07-22 |  |
 | [무명배우](https://open.spotify.com/track/6xKZwgfvGsz2uhKlxnL205) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Dream](https://open.spotify.com/album/4QlmckbPKjwvpfDO9DzDpQ) | 4:20 | 2022-05-03 | 2022-07-24 |

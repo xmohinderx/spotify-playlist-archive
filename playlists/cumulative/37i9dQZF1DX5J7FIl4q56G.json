@@ -18513,7 +18513,7 @@
     {
       "album": {
         "name": "Mayhem",
-        "url": "https://open.spotify.com/album/55oZwJArtyJsJkrM5duv7R"
+        "url": "https://open.spotify.com/album/5ZG4Vedew1HIw1B6aWnzKa"
       },
       "artists": [
         {
@@ -18524,6 +18524,24 @@
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204892,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/23yBGHE1vMQfnuIoBKwy5k"
+    },
+    {
+      "album": {
+        "name": "Mayhem",
+        "url": "https://open.spotify.com/album/55oZwJArtyJsJkrM5duv7R"
+      },
+      "artists": [
+        {
+          "name": "Andromida",
+          "url": "https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
       "duration_ms": 204892,
       "name": "Mayhem",
       "url": "https://open.spotify.com/track/6SjbKwKlHkMaBVEKXSg2jm"
@@ -25138,7 +25156,7 @@
         },
         {
           "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/4CIBQae2TuQxnqdkwtmJ4p"
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
         }
       ],
       "date_added": "2022-10-07",

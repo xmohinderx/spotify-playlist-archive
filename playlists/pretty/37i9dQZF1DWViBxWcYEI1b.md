@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Walk Off the Earth, Tenille Townes
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,500 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,528 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 22 | [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 |
 | 23 | [Moment](https://open.spotify.com/track/0YfodzD2Am4MMsr7LyFEmE) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246) | [Moment / Ça ira](https://open.spotify.com/album/2vw8q1BYFjh4GCJnJQpgeD) | 3:21 |
 | 24 | [Slow Dance In The Morning](https://open.spotify.com/track/1CejN6L0cGLANesqgZ96Qa) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Slow Dance In The Morning](https://open.spotify.com/album/5fntL2bwIaX4rZhK7IZgBb) | 2:57 |
-| 25 | [People Pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [People Pleaser / Sleep At Night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
+| 25 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
 | 26 | [18](https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [18](https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod) | 2:58 |
 | 27 | [Everlasting](https://open.spotify.com/track/4AZ0sJsofN1fu52BaYDfQX) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Anywhere from Here](https://open.spotify.com/album/4ySzF5KyOtlBFWmqrVGvxy) | 3:42 |
 | 28 | [It All Comes Back to You](https://open.spotify.com/track/2mR18y6MvfCUIrWs5PkZQL) | [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [It All Comes Back to You](https://open.spotify.com/album/6HDK8EIuntb34yRiVDNwk4) | 2:45 |

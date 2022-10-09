@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Sonu Kakkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,945 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,048 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jaan](https://open.spotify.com/track/1SyrjVgx1fC70bfU7AJNcP) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Jaan](https://open.spotify.com/album/7ABKNzknlAQnvfSIAvZ2A1) | 4:32 |
-| 2 | [Paris Ka Trip](https://open.spotify.com/track/4t22MCG1GHjKlXRCIlJlDd) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Asli Gold](https://open.spotify.com/artist/2glspdq4fVxYbCah9Yi9cs) | [Paris Ka Trip](https://open.spotify.com/album/3wrAkSJmYHwokdHci0Iuyh) | 3:16 |
+| 2 | [Paris Ka Trip](https://open.spotify.com/track/4t22MCG1GHjKlXRCIlJlDd) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Asli GOLD](https://open.spotify.com/artist/0MDuneb2yM4vkubU0FwDKp) | [Paris Ka Trip](https://open.spotify.com/album/3wrAkSJmYHwokdHci0Iuyh) | 3:16 |
 | 3 | [Heeriye](https://open.spotify.com/track/2n81wfUPrLqem735iUKmCD) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Heeriye](https://open.spotify.com/album/3pEMuO0AYxhN9Y7dfV6oZo) | 3:15 |
 | 4 | [Tumhe Pyaar Karungga](https://open.spotify.com/track/1mPuVuDCF53dcUVw8RR2Ja) | [Lakshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8) | [Tumhe Pyaar Karungga](https://open.spotify.com/album/2T31BGhbCWL94uwSJpQZcD) | 3:58 |
 | 5 | [First Love](https://open.spotify.com/track/5hxeoqlTdpSl4nEyaRUKhy) | [Gopal Dass](https://open.spotify.com/artist/3ysXfxZWRCSZUo5Oc8aE9D) | [First Love](https://open.spotify.com/album/15KvHBepyvvrCZQcpDI5a2) | 4:19 |

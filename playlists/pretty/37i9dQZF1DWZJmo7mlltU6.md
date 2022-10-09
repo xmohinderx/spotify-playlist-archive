@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Dayglow
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,802 likes - 108 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,054 likes - 108 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 100 | [Nada Es Real](https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Nada Es Real](https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd) | 3:29 |
 | 101 | [Libertad](https://open.spotify.com/track/1MMoSzv2oTgPNpsy54DKUR) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Libertad](https://open.spotify.com/album/0dq3J0IKSXF3wDPbmrWSz8) | 5:05 |
 | 102 | [Tote Bag](https://open.spotify.com/track/0t3b3r4DNi5PHARoi7o5nN) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Tote Bag](https://open.spotify.com/album/2qsRHDL7JUhg61nhQqR5Ri) | 3:22 |
-| 103 | [Diarro](https://open.spotify.com/track/0st6ip3KUlmuc7ET30ez1V) | [Da Souza](https://open.spotify.com/artist/3rD7bBI9zkYhu62o79tWe6) | [Dies d'Attrezzo](https://open.spotify.com/album/2qU6m3xSIYWg9iJPnR3QKG) | 2:50 |
+| 103 | [Diarro](https://open.spotify.com/track/0st6ip3KUlmuc7ET30ez1V) | [Da Souza](https://open.spotify.com/artist/3rD7bBI9zkYhu62o79tWe6), [Eva Fernández](https://open.spotify.com/artist/061RfbqxXUn6p4KKiZ4ae2) | [Dies d'Attrezzo](https://open.spotify.com/album/2qU6m3xSIYWg9iJPnR3QKG) | 2:50 |
 | 104 | [Nelumbo](https://open.spotify.com/track/2fy0n7GTkll5Zh4p3WEZFu) | [GENA DESOUZA](https://open.spotify.com/artist/7jyl0OsOio6yzfWZUSCbip) | [Nelumbo](https://open.spotify.com/album/3czFMmUWWFvHeRUDifshRK) | 3:33 |
 | 105 | [It Matters Until It Doesn't](https://open.spotify.com/track/6lM6s5WehMZQnUOGA8Jd1a) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Glorious Miscellanea](https://open.spotify.com/album/3GvcUP4eprG1QsfvrjoQYs) | 2:35 |
 | 106 | [Una costumbre ancestral](https://open.spotify.com/track/5u2dC5U42zYyTQUiRi6uHU) | [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [Una costumbre ancestral](https://open.spotify.com/album/6TyyyAYlrqog9s8IDrNcqB) | 4:03 |

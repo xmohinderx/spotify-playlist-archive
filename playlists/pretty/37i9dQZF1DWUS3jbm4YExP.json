@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 533437,
+  "num_followers": 533931,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMGU2ZTc1NzMxMDA4NzJiZWVmZDlmZTdhNjY4Y2RlMTY3",
+  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMDc3ZDgzNTNlNWJmYmQxZDJmM2U2NWI4MmY0MzBhNGM0",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "S\u00e9rie Samba Soul",
+        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
+      },
+      "artists": [
+        {
+          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
+        }
+      ],
+      "duration_ms": 152733,
+      "name": "Hei! Voc\u00ea",
+      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Good Good Things",
         "url": "https://open.spotify.com/album/0fLCFCKpzzefuNlBGmHFUI"
       },
@@ -755,26 +771,6 @@
       "duration_ms": 190282,
       "name": "Fly High",
       "url": "https://open.spotify.com/track/4QCU3gXVbr3gtqY54RzTqu"
-    },
-    {
-      "added_at": "2022-06-03 16:50:58",
-      "album": {
-        "name": "Pueblo",
-        "url": "https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ"
-      },
-      "artists": [
-        {
-          "name": "Hugo",
-          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
-        },
-        {
-          "name": "DAO",
-          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
-        }
-      ],
-      "duration_ms": 103220,
-      "name": "Pueblo",
-      "url": "https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -799,22 +795,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "S\u00e9rie Samba Soul",
-        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
-      },
-      "artists": [
-        {
-          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
-        }
-      ],
-      "duration_ms": 152733,
-      "name": "Hei! Voc\u00ea",
-      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Satingarona, Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -833,36 +813,24 @@
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2022-06-03 16:50:58",
       "album": {
-        "name": "Earthology",
-        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
+        "name": "Pueblo",
+        "url": "https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ"
       },
       "artists": [
         {
-          "name": "Whitefield Brothers",
-          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
-        }
-      ],
-      "duration_ms": 199572,
-      "name": "Safari Strut",
-      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
-    },
-    {
-      "added_at": "2022-08-03 03:47:10",
-      "album": {
-        "name": "Money Music",
-        "url": "https://open.spotify.com/album/77Ivo83GRiFoQckirVxPYM"
-      },
-      "artists": [
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
+        },
         {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
         }
       ],
-      "duration_ms": 169319,
-      "name": "Money Music",
-      "url": "https://open.spotify.com/track/5AJQebZSTWvdcMlHCmMNhg"
+      "duration_ms": 103220,
+      "name": "Pueblo",
+      "url": "https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -883,6 +851,38 @@
       "duration_ms": 349257,
       "name": "Found Your Love",
       "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
+    },
+    {
+      "added_at": "2022-08-03 03:47:10",
+      "album": {
+        "name": "Money Music",
+        "url": "https://open.spotify.com/album/77Ivo83GRiFoQckirVxPYM"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 169319,
+      "name": "Money Music",
+      "url": "https://open.spotify.com/track/5AJQebZSTWvdcMlHCmMNhg"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Earthology",
+        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
+      },
+      "artists": [
+        {
+          "name": "Whitefield Brothers",
+          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
+        }
+      ],
+      "duration_ms": 199572,
+      "name": "Safari Strut",
+      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
     },
     {
       "added_at": "2022-04-17 19:52:01",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/40Eql6g1f9BLSWeJ8mZgOU"
     },
     {
-      "added_at": "2022-08-13 01:36:14",
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 101560,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
@@ -1079,6 +1063,22 @@
       "duration_ms": 420718,
       "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
       "url": "https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2"
+    },
+    {
+      "added_at": "2022-08-13 01:36:14",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 101560,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
     },
     {
-      "added_at": "2022-08-25 00:38:25",
-      "album": {
-        "name": "Doone Doone",
-        "url": "https://open.spotify.com/album/7mdIUHlz8Pmu4uPRAtT9rX"
-      },
-      "artists": [
-        {
-          "name": "Liraz",
-          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Doone Doone",
-      "url": "https://open.spotify.com/track/2LMsEc6igAKXA5pBFRwpMP"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Frente Cumbiero Meets Mad Professor",
@@ -1151,6 +1135,22 @@
       "duration_ms": 263933,
       "name": "Chucusteady",
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
+    },
+    {
+      "added_at": "2022-08-25 00:38:25",
+      "album": {
+        "name": "Doone Doone",
+        "url": "https://open.spotify.com/album/7mdIUHlz8Pmu4uPRAtT9rX"
+      },
+      "artists": [
+        {
+          "name": "Liraz",
+          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Doone Doone",
+      "url": "https://open.spotify.com/track/2LMsEc6igAKXA5pBFRwpMP"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
-      "added_at": "2022-02-11 00:29:03",
-      "album": {
-        "name": "Darker Than Blue",
-        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
-      },
-      "artists": [
-        {
-          "name": "Devon Russell",
-          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Theme from Selva",
@@ -1259,6 +1243,22 @@
       "duration_ms": 340720,
       "name": "Nineteen Hundred and Eighty Five",
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
+    },
+    {
+      "added_at": "2022-02-11 00:29:03",
+      "album": {
+        "name": "Darker Than Blue",
+        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
+      },
+      "artists": [
+        {
+          "name": "Devon Russell",
+          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
     },
     {
       "added_at": "2022-04-26 02:37:33",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
       "added_at": "2022-03-29 03:12:27",
       "album": {
         "name": "On te l'avait dit",
@@ -1327,6 +1311,22 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Late Night Tales: Khruangbin",
+        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Udoh",
+          "url": "https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9"
+        }
+      ],
+      "duration_ms": 390121,
+      "name": "I Like It (Don't Stop)",
+      "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Anima latina",
         "url": "https://open.spotify.com/album/6Dm9F6WuFAbYrevLFAfyfZ"
       },
@@ -1379,34 +1395,18 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Late Night Tales: Khruangbin",
-        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
+        "name": "Ka Rica-Tar",
+        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
       },
       "artists": [
         {
-          "name": "Maxwell Udoh",
-          "url": "https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9"
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
         }
       ],
-      "duration_ms": 390121,
-      "name": "I Like It (Don't Stop)",
-      "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
-    },
-    {
-      "added_at": "2022-08-31 05:19:50",
-      "album": {
-        "name": "Ghibli",
-        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
-      },
-      "artists": [
-        {
-          "name": "Savana Funk",
-          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
-        }
-      ],
-      "duration_ms": 235519,
-      "name": "Ghibli",
-      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+      "duration_ms": 195652,
+      "name": "Kingdom of D'mt",
+      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1427,38 +1427,6 @@
       "duration_ms": 288569,
       "name": "Ben Bene La",
       "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
-    },
-    {
-      "added_at": "2022-09-09 03:16:34",
-      "album": {
-        "name": "Bukaroo Bank",
-        "url": "https://open.spotify.com/album/6gwODjchuMhNcNRfbwsrZw"
-      },
-      "artists": [
-        {
-          "name": "The Mauskovic Dance Band",
-          "url": "https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "Bukaroo Bank",
-      "url": "https://open.spotify.com/track/4mAXzM7ZF1nFrJY6qSjdpX"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Ka Rica-Tar",
-        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
-      },
-      "artists": [
-        {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Kingdom of D'mt",
-      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1497,6 +1465,22 @@
       "url": "https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1"
     },
     {
+      "added_at": "2022-08-31 05:19:50",
+      "album": {
+        "name": "Ghibli",
+        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        }
+      ],
+      "duration_ms": 235519,
+      "name": "Ghibli",
+      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+    },
+    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "I Can't Get Along Without You",
@@ -1511,6 +1495,22 @@
       "duration_ms": 400000,
       "name": "I Can't Get Along Without You",
       "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
+    },
+    {
+      "added_at": "2022-09-09 03:16:34",
+      "album": {
+        "name": "Bukaroo Bank",
+        "url": "https://open.spotify.com/album/6gwODjchuMhNcNRfbwsrZw"
+      },
+      "artists": [
+        {
+          "name": "The Mauskovic Dance Band",
+          "url": "https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "Bukaroo Bank",
+      "url": "https://open.spotify.com/track/4mAXzM7ZF1nFrJY6qSjdpX"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Chaos Theories",
         "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 311546,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1717,22 +1717,6 @@
       "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
     },
     {
-      "added_at": "2022-04-17 17:23:49",
-      "album": {
-        "name": "Tinko Tinko (Don't Play Me For a Fool)",
-        "url": "https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Tinko Tinko (Don't Play Me for a Fool)",
-      "url": "https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6"
-    },
-    {
       "added_at": "2021-10-26 03:22:21",
       "album": {
         "name": "El Traketeo",
@@ -1751,6 +1735,22 @@
       "duration_ms": 202368,
       "name": "El Traketeo",
       "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
+    },
+    {
+      "added_at": "2022-04-17 17:23:49",
+      "album": {
+        "name": "Tinko Tinko (Don't Play Me For a Fool)",
+        "url": "https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Tinko Tinko (Don't Play Me for a Fool)",
+      "url": "https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6"
     }
   ],
   "unique_name": "Global Groove",

@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Peppertones(\ud398\ud37c\ud1a4\uc2a4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 186989,
+  "num_followers": 187287,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1ODAyOCwwMDAwMDAwMDQ3NWMwZDQzMTU4NjYzMzQzMTUyZTljYjQwZjBjNGM1",
+  "snapshot_id": "MTY2NTE1ODAyOCwwMDAwMDAwMGY3ZTIzYTdhZDlmYzI1ZjE0YzM0YjE1YzIxZDhkZWJl",
   "tracks": [
     {
       "added_at": "2022-10-07 15:53:48",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-10-07 15:53:48",
       "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 283160,
-      "name": "You Were Beautiful",
-      "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
-    },
-    {
-      "added_at": "2022-10-07 15:53:48",
-      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 226160,
       "name": "Awake",
       "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
+    },
+    {
+      "added_at": "2022-10-07 15:53:48",
+      "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
     },
     {
       "added_at": "2022-10-07 15:53:48",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-10-07 15:53:48",
       "album": {
-        "name": "Shoot Me : Youth Part 1",
-        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 175836,
-      "name": "Shoot Me",
-      "url": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg"
-    },
-    {
-      "added_at": "2022-10-07 15:53:48",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 265000,
       "name": "for lovers who hesitate",
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+    },
+    {
+      "added_at": "2022-10-07 15:53:48",
+      "album": {
+        "name": "Shoot Me : Youth Part 1",
+        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Shoot Me",
+      "url": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg"
     },
     {
       "added_at": "2022-10-07 15:53:48",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-10-07 15:53:48",
       "album": {
-        "name": "Traffic light",
-        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
       },
       "artists": [
         {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 231586,
-      "name": "Traffic light",
-      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
+      "duration_ms": 218737,
+      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
+      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
     },
     {
       "added_at": "2022-10-07 15:53:48",
@@ -567,34 +567,18 @@
     {
       "added_at": "2022-10-07 15:53:48",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+        "name": "Traffic light",
+        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
         }
       ],
-      "duration_ms": 218737,
-      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
-      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
-    },
-    {
-      "added_at": "2022-10-07 15:53:48",
-      "album": {
-        "name": "NAN CHUN \ub09c\ucd98",
-        "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "NAN CHUN \ub09c\ucd98",
-      "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
+      "duration_ms": 231586,
+      "name": "Traffic light",
+      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
       "added_at": "2022-10-07 15:53:48",
@@ -611,6 +595,22 @@
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2022-10-07 15:53:48",
+      "album": {
+        "name": "NAN CHUN \ub09c\ucd98",
+        "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "NAN CHUN \ub09c\ucd98",
+      "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
     },
     {
       "added_at": "2022-10-07 15:53:48",

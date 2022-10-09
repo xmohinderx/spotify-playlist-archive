@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Brun\u00e3o Morada",
-  "num_followers": 107500,
+  "num_followers": 107544,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODEyNywwMDAwMDAwMDI2YWJmOTc2OTZkYjkyZmIyOWMxZDJhZjAyMmY5NWY4",
+  "snapshot_id": "MTY2NTExODEyNywwMDAwMDAwMGRiMjc5Y2YxNzBlNWFjOGI4OTQ3OWRjNzQ1ZTRmMmVm",
   "tracks": [
     {
       "added_at": "2022-10-07 04:48:47",
@@ -203,30 +203,6 @@
     {
       "added_at": "2022-10-07 04:48:47",
       "album": {
-        "name": "Onde Tem Lenha",
-        "url": "https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI"
-      },
-      "artists": [
-        {
-          "name": "Luzlive",
-          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
-        },
-        {
-          "name": "Jeff Damaceno",
-          "url": "https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ"
-        },
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        }
-      ],
-      "duration_ms": 594705,
-      "name": "Onde Tem Lenha",
-      "url": "https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz"
-    },
-    {
-      "added_at": "2022-10-07 04:48:47",
-      "album": {
         "name": "Quem de N\u00f3s (Vers\u00e3o Alternativa)",
         "url": "https://open.spotify.com/album/5KolDQ8sprN12SFVayUGGe"
       },
@@ -251,6 +227,30 @@
       "duration_ms": 307647,
       "name": "Quem de N\u00f3s - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH"
+    },
+    {
+      "added_at": "2022-10-07 04:48:47",
+      "album": {
+        "name": "Onde Tem Lenha",
+        "url": "https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI"
+      },
+      "artists": [
+        {
+          "name": "Luzlive",
+          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
+        },
+        {
+          "name": "Jeff Damaceno",
+          "url": "https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ"
+        },
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        }
+      ],
+      "duration_ms": 594705,
+      "name": "Onde Tem Lenha",
+      "url": "https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz"
     },
     {
       "added_at": "2022-10-07 04:48:47",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-10-07 04:48:47",
       "album": {
-        "name": "Baile das M\u00e1scaras",
-        "url": "https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 215754,
-      "name": "Baile das M\u00e1scaras",
-      "url": "https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0"
-    },
-    {
-      "added_at": "2022-10-07 04:48:47",
-      "album": {
         "name": "Glorificar Cristo, Edificar a Igreja",
         "url": "https://open.spotify.com/album/0M76j8Ya0ivRnkRvTHR0GE"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 324617,
       "name": "Glorificar",
       "url": "https://open.spotify.com/track/01BOsTs8gmz5XYl7vafIlj"
+    },
+    {
+      "added_at": "2022-10-07 04:48:47",
+      "album": {
+        "name": "Baile das M\u00e1scaras",
+        "url": "https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 215754,
+      "name": "Baile das M\u00e1scaras",
+      "url": "https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0"
     },
     {
       "added_at": "2022-10-07 04:48:47",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-10-07 04:48:47",
       "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        }
+      ],
+      "duration_ms": 346917,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
+    },
+    {
+      "added_at": "2022-10-07 04:48:47",
+      "album": {
         "name": "A F\u00eanix",
         "url": "https://open.spotify.com/album/5TTQATslcS8RatQMnppMh6"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 240302,
       "name": "A F\u00eanix",
       "url": "https://open.spotify.com/track/036y2ECw1GN9hzwYtUzcjh"
-    },
-    {
-      "added_at": "2022-10-07 04:48:47",
-      "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
-      },
-      "artists": [
-        {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
-        }
-      ],
-      "duration_ms": 346917,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
     },
     {
       "added_at": "2022-10-07 04:48:47",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-07 04:48:47",
       "album": {
-        "name": "Mateus 6:6",
-        "url": "https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH"
-      },
-      "artists": [
-        {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
-        }
-      ],
-      "duration_ms": 293793,
-      "name": "Mateus 6:6",
-      "url": "https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P"
-    },
-    {
-      "added_at": "2022-10-07 04:48:47",
-      "album": {
         "name": "Artif\u00edcio",
         "url": "https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 192000,
       "name": "Artif\u00edcio",
       "url": "https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc"
+    },
+    {
+      "added_at": "2022-10-07 04:48:47",
+      "album": {
+        "name": "Mateus 6:6",
+        "url": "https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH"
+      },
+      "artists": [
+        {
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+        }
+      ],
+      "duration_ms": 293793,
+      "name": "Mateus 6:6",
+      "url": "https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P"
     },
     {
       "added_at": "2022-10-07 04:48:47",

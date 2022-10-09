@@ -1,12 +1,12 @@
 {
   "description": "Borges e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 152644,
+  "num_followers": 152762,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMjk2MywwMDAwMDAwMDk2Yjc2ZWQwY2UzNDRjN2QyYjAzOGNkMjE4OTgzZTU3",
+  "snapshot_id": "MTY2NTExMjk2MywwMDAwMDAwMGI5ZWQ2ODNmZDEyNTQ5MGQyODkzMTc0MjZiZTIyYjUz",
   "tracks": [
     {
       "added_at": "2022-10-07 03:22:43",
@@ -515,30 +515,6 @@
     {
       "added_at": "2022-10-07 03:22:43",
       "album": {
-        "name": "Jovens do Reggae",
-        "url": "https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Jovens do Reggae",
-      "url": "https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o"
-    },
-    {
-      "added_at": "2022-10-07 03:22:43",
-      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/50GSItNqYJip64TPybq3A4"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 180000,
       "name": "No Love",
       "url": "https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL"
+    },
+    {
+      "added_at": "2022-10-07 03:22:43",
+      "album": {
+        "name": "Jovens do Reggae",
+        "url": "https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Jovens do Reggae",
+      "url": "https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o"
     },
     {
       "added_at": "2022-10-07 03:22:43",
@@ -871,34 +871,6 @@
     {
       "added_at": "2022-10-07 03:22:43",
       "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "EU SOU O TREM",
-      "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
-    },
-    {
-      "added_at": "2022-10-07 03:22:43",
-      "album": {
         "name": "Contagem",
         "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
       },
@@ -927,6 +899,34 @@
     {
       "added_at": "2022-10-07 03:22:43",
       "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "EU SOU O TREM",
+      "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
+    },
+    {
+      "added_at": "2022-10-07 03:22:43",
+      "album": {
         "name": "Kim N Kanye",
         "url": "https://open.spotify.com/album/7gQ2aVBOespHG0nqvJGSwu"
       },
@@ -943,6 +943,26 @@
       "duration_ms": 186697,
       "name": "Kim N Kanye",
       "url": "https://open.spotify.com/track/5NJHee8EbpbMv6Mb8ZilZI"
+    },
+    {
+      "added_at": "2022-10-07 03:22:43",
+      "album": {
+        "name": "Posturada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/51llvmVtkWl0frJYq2vvjz"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 214783,
+      "name": "Posturada - Ao Vivo",
+      "url": "https://open.spotify.com/track/7EaVareROxLwkLAsQ5iqrt"
     },
     {
       "added_at": "2022-10-07 03:22:43",
@@ -991,26 +1011,6 @@
       "duration_ms": 544000,
       "name": "Outfit Valioso 3",
       "url": "https://open.spotify.com/track/0I3wALFTuZBvMuZbmHvG45"
-    },
-    {
-      "added_at": "2022-10-07 03:22:43",
-      "album": {
-        "name": "Posturada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/51llvmVtkWl0frJYq2vvjz"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        }
-      ],
-      "duration_ms": 214783,
-      "name": "Posturada - Ao Vivo",
-      "url": "https://open.spotify.com/track/7EaVareROxLwkLAsQ5iqrt"
     },
     {
       "added_at": "2022-10-07 03:22:43",

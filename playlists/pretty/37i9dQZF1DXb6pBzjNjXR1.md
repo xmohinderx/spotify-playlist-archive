@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here\. Cover: <a href="https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=fL7CTy28SFGBIYnIc779cg">Dr Feel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 562 likes - 55 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 574 likes - 55 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 4 | [iFu](https://open.spotify.com/track/7dbfI3aPl94kEEl1rPuXgW) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [iFu](https://open.spotify.com/album/5avT3gQsru5kveW0urcN8f) | 5:59 |
 | 5 | [Zimbi Iindaba \(feat\. Natasha M\)](https://open.spotify.com/track/0FngU0lVyh6dNPxN49Wo1B) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Natasha M](https://open.spotify.com/artist/2j18ZqJBvkcOVF35MWf2Lb) | [Amani EP](https://open.spotify.com/album/3R9b7M812Z2wnN8p6fJtIQ) | 5:20 |
 | 6 | [Zion Drummer \- Original Mix](https://open.spotify.com/track/2j7C4hp68UUhEedckS2YQP) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Zion Drummer \(Original Mix\)](https://open.spotify.com/album/1ao43Su0Heg60VgTYmZX7B) | 7:31 |
-| 7 | [Ngilinde](https://open.spotify.com/track/0xeoiu2UtZNx0AQPDULxzT) | [YANII](https://open.spotify.com/artist/07RZqZ1Tb7FqK3GVdGGVwE), [Mango SA](https://open.spotify.com/artist/1AmQfwZf2MmuRaRnAgf3MR) | [Ngilinde](https://open.spotify.com/album/0DyufT2LS0aq4ErE8s6hCG) | 3:59 |
+| 7 | [Ngilinde](https://open.spotify.com/track/0xeoiu2UtZNx0AQPDULxzT) | [YANII](https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7), [Mango SA](https://open.spotify.com/artist/25hbfaO27EZSGQTymk96D9) | [Ngilinde](https://open.spotify.com/album/0DyufT2LS0aq4ErE8s6hCG) | 3:59 |
 | 8 | [Misava](https://open.spotify.com/track/6BmD8tRPWDgGD2Y0pQY1Ll) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [MISAVA](https://open.spotify.com/album/6Qs01I9CWfP5gitMZrOQPd) | 4:08 |
 | 9 | [iVolovolo](https://open.spotify.com/track/1JLoqwDcNStb1HgHAyxWsM) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Michael King](https://open.spotify.com/artist/4QXIwYRu5HTQiTFYWl7Yri) | [iVolovolo](https://open.spotify.com/album/5EHqm4YXBZ0kQLObE0c7WR) | 7:30 |
 | 10 | [As'buyeli](https://open.spotify.com/track/3fpoN7kl6ZtOqqbk0enwpq) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Drumetic Boyz](https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB), [MalumNator](https://open.spotify.com/artist/25IVkspnS4ZKKxGVyOgVnK) | [Respect The Drumboss 2021, Pt\. 1 \(10 Years Of Heavy\-K Edition\)](https://open.spotify.com/album/5CSL70ug8HGlHcYGbD79eA) | 7:06 |

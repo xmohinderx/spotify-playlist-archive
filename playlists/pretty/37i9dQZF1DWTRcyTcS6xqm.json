@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 6729,
+  "num_followers": 6753,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGZiZGM5MGE5MWUxYjA1MGUwNjlkNTEzZGJkMjMyM2Yy",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDkzNWM1NTFiYmJiMzllMDMyYWQ5YTA3YmIwOTQ5OGM5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Make It Move",
+      "url": "https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Riding with the King (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44qfaiUTWryt5PNHjZU9iz"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 263397,
       "name": "Riding with the King",
       "url": "https://open.spotify.com/track/3MUQ573SFa0PuI65Gt9X2b"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Make It Move",
-      "url": "https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3"
     },
     {
       "added_at": "2020-12-01 05:01:00",

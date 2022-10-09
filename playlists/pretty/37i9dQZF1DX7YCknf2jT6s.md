@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Theon Cross
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,291 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,728 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 84 | [Circadian](https://open.spotify.com/track/2H2t8HCFkE2TIN8xik7wGE) | [pantology](https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0) | [Circadian](https://open.spotify.com/album/4dehc9Rahv4v6Fd3YvXaSb) | 2:41 |
 | 85 | [Ghosts](https://open.spotify.com/track/08hqWnPlWGXw25mR1pOpHo) | [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [Ghosts](https://open.spotify.com/album/4iyCVUQNKbGFnULWPVxNJq) | 5:09 |
 | 86 | [Temple Steps](https://open.spotify.com/track/5C3fvQShaIHiaBPbKs1XL7) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [View With A Room](https://open.spotify.com/album/0bxXAO9Vxpx20fidIJc4va) | 3:58 |
-| 87 | [Night Bird](https://open.spotify.com/track/2qmiyvlEN9QUlNOt5Rj9a4) | [Niels Vincentz](https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I), [Jacob Artved](https://open.spotify.com/artist/5d3accwB8PpQbK9ajwv1Re) | [Night Bird](https://open.spotify.com/album/6UPREuxi5epxjvgdX7h0vj) | 5:43 |
+| 87 | [Night Bird](https://open.spotify.com/track/62ufBtxbDCupKZaXwiLEiB) | [Niels Vincentz](https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I), [Jacob Artved](https://open.spotify.com/artist/5d3accwB8PpQbK9ajwv1Re) | [Something for Someone](https://open.spotify.com/album/5OYPRSfs4ak55n3v17n9Ds) | 5:43 |
 | 88 | [Turnip's Big Move](https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [A Town Called Earth](https://open.spotify.com/album/2Y3OhEypr4fTgWhXI6hRny) | 4:23 |
 | 89 | [Twice](https://open.spotify.com/track/1t4K4TkuBndFnHvzJRCHHn) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Twice](https://open.spotify.com/album/4swZ9iORwtr9PTFimFumVA) | 5:31 |
 | 90 | [Arrows](https://open.spotify.com/track/19JudMh7z6HFLiXKAUK5K7) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Noé Berne](https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0), [Karl Olandersson](https://open.spotify.com/artist/4Sx4xZbzOfZm3aXJ3icVe7), [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO), [Tao Ehrlich](https://open.spotify.com/artist/7LcYAos4LMZ9VNAlh2Kcyq) | [Arrows](https://open.spotify.com/album/0wG8wEDQxtgmRQF3oBJjrw) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Street Cats](https://open.spotify.com/track/2PS9WemolaLcdYk6Jv3IyO) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Antônio Neves](https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683), [Ed Santana](https://open.spotify.com/artist/6M74DHDHLcc0kD9OefNZUo) | [Street Cats](https://open.spotify.com/album/4LYilS2sUOrypI5ePa7xmg) | 3:02 |
 | 100 | [I Don't Wanna Think About Ants](https://open.spotify.com/track/33x1xc6rm9nZYzXBsMR21G) | [Mahealane](https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [I Don't Wanna Think About Ants](https://open.spotify.com/album/2VDoJ3ioPm54lrWJsUKWrG) | 3:20 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDc0NzM2MDFjMmVjMzdlYmIwMGE4YjhkYTQ4NGRhN2Mz`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDUzMzMxYmFlYjQyZGQyODNmNDc1MDc2NjdiNmZjZTI5`

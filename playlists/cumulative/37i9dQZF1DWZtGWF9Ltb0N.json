@@ -479,7 +479,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 279785,
       "name": "Beastmode",
       "url": "https://open.spotify.com/track/5vYQpxkQkWhOj7tx44byhk"
@@ -1439,6 +1439,24 @@
       "duration_ms": 284575,
       "name": "Deposition",
       "url": "https://open.spotify.com/track/4RE5lIMbBsS7FhhMX2nFSo"
+    },
+    {
+      "album": {
+        "name": "Witness EP",
+        "url": "https://open.spotify.com/album/0bOW6rAqopRCVEnMRrMlp1"
+      },
+      "artists": [
+        {
+          "name": "Kercha",
+          "url": "https://open.spotify.com/artist/3wCMW7RUGv6X3ZduZxiFYW"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291549,
+      "name": "Disarray",
+      "url": "https://open.spotify.com/track/0g8mhmcojAvyBZVAzfcjVO"
     },
     {
       "album": {
@@ -4241,7 +4259,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 195428,
       "name": "Norman",
       "url": "https://open.spotify.com/track/536U728aadWGV86KDvQs0m"
@@ -5444,6 +5462,28 @@
     },
     {
       "album": {
+        "name": "Shallow Affect",
+        "url": "https://open.spotify.com/album/2QZwnkS9fOtZ2mqNh5Yw5S"
+      },
+      "artists": [
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        },
+        {
+          "name": "Ebb",
+          "url": "https://open.spotify.com/artist/4IawKApxht48ov22AEpzqH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298487,
+      "name": "Shallow Affect",
+      "url": "https://open.spotify.com/track/5RO7GtG2ce6um3qPnAKiBb"
+    },
+    {
+      "album": {
         "name": "Shaolin",
         "url": "https://open.spotify.com/album/4LVR6xfH1HRQAn1jOZflxi"
       },
@@ -5791,6 +5831,24 @@
       "duration_ms": 197142,
       "name": "Space Crap",
       "url": "https://open.spotify.com/track/4ASY878xMbj5lbo9Lvt155"
+    },
+    {
+      "album": {
+        "name": "Spangled",
+        "url": "https://open.spotify.com/album/4mekLvHQffl12Gu7ga2CQo"
+      },
+      "artists": [
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Spangled",
+      "url": "https://open.spotify.com/track/1GAIf0JWudbw1HJMnypBoS"
     },
     {
       "album": {
@@ -7011,7 +7069,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 284571,
       "name": "Up Town Dub - J:Kenzo Remix",
       "url": "https://open.spotify.com/track/3xT7pCIJZLdH1ggEGBhSjM"

@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 65861,
+  "num_followers": 66015,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGE0MGRjMzNhYjY0ZDdiNTYzMGY2NGEzOGQxY2VjMDY2",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDgzYWY0MDdlZjdlNzFiMmRlODVmOGI3NzJkNTRiMjRk",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -303,6 +303,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Blues In The Closet",
+        "url": "https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Blues In The Closet",
+      "url": "https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn"
       },
@@ -315,26 +331,6 @@
       "duration_ms": 277373,
       "name": "Raise Four",
       "url": "https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -371,6 +367,26 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
         "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
       },
@@ -383,54 +399,6 @@
       "duration_ms": 166613,
       "name": "Blues For Alice",
       "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Blues In The Closet",
-        "url": "https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Blues In The Closet",
-      "url": "https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "The Complete Prestige 10-Inch LP Collection",
-        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 459866,
-      "name": "Blue Monk",
-      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 421853,
-      "name": "Senor Blues",
-      "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -451,6 +419,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 421853,
+      "name": "Senor Blues",
+      "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Swiss Nights, Vol. 3",
         "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 762666,
       "name": "Tenor madness",
       "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "The Complete Prestige 10-Inch LP Collection",
+        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 459866,
+      "name": "Blue Monk",
+      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
     },
     {
       "added_at": "2020-10-12 18:15:54",

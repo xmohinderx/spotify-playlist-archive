@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,280 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,305 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 30 | [Benz Truck](https://open.spotify.com/track/1hiyJ4CYoH3Cve19V7ZYoa) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Benz Truck](https://open.spotify.com/album/4U6veERIAILg0hKBck8R2x) | 3:06 |
 | 31 | [Unappreciated](https://open.spotify.com/track/3XY9A28it4ayh188fbjCnK) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Talk More Soon](https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc) | 3:46 |
 | 32 | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/album/28Fjbqnkqv9LmOGLehRIVT) | 2:33 |
-| 33 | [Blood Boy](https://open.spotify.com/track/3Mk9L0W0T3ubitZjaYOC8w) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Blood Boy](https://open.spotify.com/album/0hnSyql4qfnASDuxO58g2p) | 2:26 |
+| 33 | [Blood Boy](https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:29 |
 | 34 | [Chosen](https://open.spotify.com/track/5zGOj8eITiXUFXINUqt4Ia) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Chosen](https://open.spotify.com/album/0Fa81lx1XgZl4ZpvtOq6YX) | 2:39 |
 | 35 | [Congratulations](https://open.spotify.com/track/1UWwGCTP14FDO3N1B7EUQ7) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [DJ ESCO](https://open.spotify.com/artist/2J0JN7EFN10G1Tty6hX0AN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [FACE \(Deluxe Edition\)](https://open.spotify.com/album/4GZSso90oXNVv0OdzXGjth) | 3:25 |
 | 36 | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/album/6Gca3Qwq656lFFcFaomaTg) | 3:37 |
 | 50 | [Shackles to Diamonds](https://open.spotify.com/track/1uPxCL3bvUZKMnwXmAz6rM) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:56 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGVkZTVkM2UxOGRjNTBiNWY3ZTk1NjM0MjBiNzc1Mzc1`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDA3MWQ3ZGJiNDFhY2M1MTJkZWZlY2YxMTBkOTNhMjQ2`

@@ -1,12 +1,12 @@
 {
   "description": "Have a nice relaxed dinner with some chill indie music.",
-  "num_followers": 9396,
+  "num_followers": 9447,
   "original_name": "Mellow Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDk5ZDg5ZTFhMTJjYWEwM2VkZDEwNzAxNTc3NzQ3ZmEz",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDFhYzI4MWIxNzZjOGQwNmU4MzM0N2NhMjRiYjk4NWIy",
   "tracks": [
     {
       "added_at": "2018-11-19 19:02:53",
@@ -271,22 +271,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 221039,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/1KDPWUuA213r6M2WbWUauE"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 274200,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 221039,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1KDPWUuA213r6M2WbWUauE"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -419,22 +419,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217675,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/1fbiarYX9ZHCDLp4mj8XHA"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 271186,
       "name": "Live And Die",
       "url": "https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217675,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/1fbiarYX9ZHCDLp4mj8XHA"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -515,6 +515,22 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/3Y9ZyBUDTVcgvhEtCfiXh7"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 232760,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 223685,
-      "name": "October Skies",
-      "url": "https://open.spotify.com/track/3Y9ZyBUDTVcgvhEtCfiXh7"
     },
     {
       "added_at": "2018-11-19 19:02:53",

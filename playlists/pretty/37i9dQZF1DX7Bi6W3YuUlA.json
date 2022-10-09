@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 2975,
+  "num_followers": 2999,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDhjMmEwMWIzOTk5Y2UxMDE1ZDQ5Y2I5OTcxZGFlNjRl",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGU4Y2FhOTg0NGJlN2YyYWM5OTUwYzMyMWU1NDRhYjJh",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -579,6 +579,30 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/18QmuHzqXYdN5T0y8K0Uon"
+      },
+      "artists": [
+        {
+          "name": "DJ Mykael V",
+          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Starringo",
+          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
+        }
+      ],
+      "duration_ms": 163924,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0rsusVy37rWVeDGQ9fqOG7"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "The Lion King: The Gift [Deluxe Edition]",
         "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
@@ -607,30 +631,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/18QmuHzqXYdN5T0y8K0Uon"
-      },
-      "artists": [
-        {
-          "name": "DJ Mykael V",
-          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "Starringo",
-          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
-        }
-      ],
-      "duration_ms": 163924,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0rsusVy37rWVeDGQ9fqOG7"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Highlight Tapes, Vol. 1",
         "url": "https://open.spotify.com/album/5vTdtFjNXMEaQOjvPhUImJ"
       },
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/0L4s7cWKEUFvAthWfWtDtT"
-      },
-      "artists": [
-        {
-          "name": "JUDAH.",
-          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
-        },
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/4ag9fLWCLsiZgj1GvK52GE"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/2YCdel85rHps3LqsMfu1M0"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 199000,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/7CIPjKEX2XowX9N9s8egiD"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/0L4s7cWKEUFvAthWfWtDtT"
+      },
+      "artists": [
+        {
+          "name": "JUDAH.",
+          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
+        },
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/4ag9fLWCLsiZgj1GvK52GE"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "97",
+        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 175217,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/1MBqLO9XLipfFfYGbZx8mt"
       },
@@ -1103,58 +1119,6 @@
       "duration_ms": 207200,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1JnLTx6HzwbLpslHe8WuAW"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "97",
-        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 175217,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Feared By Hell (Reanimation)",
-        "url": "https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN"
-      },
-      "artists": [
-        {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 264664,
-      "name": "Is That Okay?",
-      "url": "https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Pastor Monty",
-        "url": "https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Pastor Monty",
-      "url": "https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1183,6 +1147,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Pastor Monty",
+        "url": "https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Pastor Monty",
+      "url": "https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "W.Y.T",
         "url": "https://open.spotify.com/album/3H00Le4VfBmEkuflSsXIXw"
       },
@@ -1199,6 +1179,46 @@
       "duration_ms": 144240,
       "name": "W.Y.T",
       "url": "https://open.spotify.com/track/1jLjRrZd9FM3y5g3NfjlsB"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "NO GOOD",
+        "url": "https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 177530,
+      "name": "NO GOOD",
+      "url": "https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Feared By Hell (Reanimation)",
+        "url": "https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 264664,
+      "name": "Is That Okay?",
+      "url": "https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1295,26 +1315,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "NO GOOD",
-        "url": "https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 177530,
-      "name": "NO GOOD",
-      "url": "https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Ram in the Bush",
         "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 148754,
       "name": "Ram in the Bush",
       "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Genes",
+        "url": "https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 134399,
+      "name": "Genes",
+      "url": "https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1387,22 +1403,6 @@
       "duration_ms": 220000,
       "name": "In the Garden",
       "url": "https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Genes",
-        "url": "https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 134399,
-      "name": "Genes",
-      "url": "https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Way Up Above",
-        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
-      },
-      "artists": [
-        {
-          "name": "Sansone",
-          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
-        }
-      ],
-      "duration_ms": 167944,
-      "name": "With Me Now",
-      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Clocked In (feat. Aklesso & Derek Minor)",
         "url": "https://open.spotify.com/album/35vRMyqv8TeWFwCuSRlaCt"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 266550,
       "name": "Clocked In (feat. Aklesso & Derek Minor)",
       "url": "https://open.spotify.com/track/4MR9wuxQ5Euw2Ng46ZpuiE"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Way Up Above",
+        "url": "https://open.spotify.com/album/3pbLIHC3cgCoBH14rmVhgl"
+      },
+      "artists": [
+        {
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+        }
+      ],
+      "duration_ms": 167944,
+      "name": "With Me Now",
+      "url": "https://open.spotify.com/track/3npTjeLyoI6YG84NR444od"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Tru Talk Tony, Vol. 1",
-        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
+        "name": "i'm back",
+        "url": "https://open.spotify.com/album/3rru4mNxx77XvCPUME4Kxc"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Can't Lose",
-      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
+      "duration_ms": 161101,
+      "name": "i'm back",
+      "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1863,6 +1863,22 @@
       "duration_ms": 179696,
       "name": "My Bruddas",
       "url": "https://open.spotify.com/track/4VfPAgdUPrwnat0kOsbdRu"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Tru Talk Tony, Vol. 1",
+        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Can't Lose",
+      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1903,22 +1919,6 @@
       "duration_ms": 180000,
       "name": "Wrist",
       "url": "https://open.spotify.com/track/2NrO2kuuSGV5ZJCaCj2x1A"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "i'm back",
-        "url": "https://open.spotify.com/album/3rru4mNxx77XvCPUME4Kxc"
-      },
-      "artists": [
-        {
-          "name": "MvkeyyJ",
-          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
-        }
-      ],
-      "duration_ms": 161101,
-      "name": "i'm back",
-      "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
     },
     {
       "added_at": "2022-05-28 19:29:54",

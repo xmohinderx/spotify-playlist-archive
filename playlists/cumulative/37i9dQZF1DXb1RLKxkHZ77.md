@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Joe Flizzow
 
-101 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+102 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Belai](https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Belai](https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg) | 3:43 | 2022-05-25 | 2022-09-01 |
 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 | 2022-05-25 |  |
 | [Berdamai](https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:36 | 2022-05-25 | 2022-06-01 |
-| [Bertahan Terluka](https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo) | 4:00 | 2022-05-25 |  |
+| [Bertahan Terluka](https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo) | 4:00 | 2022-05-25 | 2022-10-09 |
+| [Bertahan Terluka](https://open.spotify.com/track/6gNG7O2IlMYUXAcCDwQrPT) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/4UQ6dWSVD4lZUoA6KJzp5d) | 4:00 | 2022-10-05 |  |
 | [BILA NANTI](https://open.spotify.com/track/4nAcExb3w5lk5LVGVULfcM) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [BILA NANTI](https://open.spotify.com/album/6cMJGxJB6TGFIo4BmDSA8C) | 4:57 | 2022-05-25 |  |
 | [Bisik](https://open.spotify.com/track/4YNhulUIAnaulDVlemRVzX) | [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Bisik](https://open.spotify.com/album/51J63QPmvNrjbhIFPNc3Wx) | 4:00 | 2022-07-21 | 2022-09-16 |
 | [Bukan Milikmu](https://open.spotify.com/track/7ng6S2AgkeiTUQxqt144Oh) | [Han Byul](https://open.spotify.com/artist/4BGk8nswKSAE0bSuxA1uTP) | [Bukan Milikmu](https://open.spotify.com/album/4mvPsc8drKxg40vjva9y1d) | 4:00 | 2022-05-25 | 2022-08-18 |

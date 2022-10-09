@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 201129,
+  "num_followers": 201443,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjkxODc2MywwMDAwMDAwMDE0MjkzZmVjYzBmNjU4ZTNhYjE5Y2YzZDNkYzZjYmQ4",
+  "snapshot_id": "MTY2MjkxODc2MywwMDAwMDAwMDJlMTZiZjkxZWVhN2Q2MzYxNDdiZGZkM2JmN2M1YjNj",
   "tracks": [
     {
       "added_at": "2022-09-11 17:52:42",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Music in the Air",
-        "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
-      },
-      "artists": [
-        {
-          "name": "\u8c4a\u5e73\u533a\u6c11Toyohirakumin",
-          "url": "https://open.spotify.com/artist/4fsJpVczcZYWFbvvMWgTEN"
-        }
-      ],
-      "duration_ms": 142806,
-      "name": "Akaiwa 1985",
-      "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "Information Superhighway",
         "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 107604,
       "name": "Playback",
       "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Music in the Air",
+        "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
+      },
+      "artists": [
+        {
+          "name": "\u8c4a\u5e73\u533a\u6c11Toyohirakumin",
+          "url": "https://open.spotify.com/artist/4fsJpVczcZYWFbvvMWgTEN"
+        }
+      ],
+      "duration_ms": 142806,
+      "name": "Akaiwa 1985",
+      "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Surfer Girl",
-        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
-      },
-      "artists": [
-        {
-          "name": "Persona La Ave",
-          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
-        }
-      ],
-      "duration_ms": 375876,
-      "name": "Surfer Girl",
-      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "Iconic Bitch",
         "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
       },
@@ -903,22 +887,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Cry Again",
-        "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
       },
       "artists": [
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        },
-        {
-          "name": "Gavriel",
-          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
+          "name": "Persona La Ave",
+          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
         }
       ],
-      "duration_ms": 182192,
-      "name": "Cry Again",
-      "url": "https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB"
+      "duration_ms": 375876,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -935,6 +915,26 @@
       "duration_ms": 320462,
       "name": "\u5e7d\u970a",
       "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Cry Again",
+        "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
+      },
+      "artists": [
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
+        }
+      ],
+      "duration_ms": 182192,
+      "name": "Cry Again",
+      "url": "https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1039,6 +1039,42 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
+        "name": "Empty Hiding World",
+        "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
+      },
+      "artists": [
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
+        }
+      ],
+      "duration_ms": 241836,
+      "name": "Edenic Green Plus",
+      "url": "https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Growing Apart",
+        "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
+      },
+      "artists": [
+        {
+          "name": "Rayklin",
+          "url": "https://open.spotify.com/artist/2FTHXc8okmVhGLBREZUhVA"
+        }
+      ],
+      "duration_ms": 217153,
+      "name": "Growing Apart",
+      "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
         "name": "New World Disciples",
         "url": "https://open.spotify.com/album/0UtwaoRlgRvcsP6srTnNxK"
       },
@@ -1071,26 +1107,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Empty Hiding World",
-        "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        },
-        {
-          "name": "Gavriel",
-          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
-        }
-      ],
-      "duration_ms": 241836,
-      "name": "Edenic Green Plus",
-      "url": "https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "\u30b7 \u30e7 \u30c3 \u30d7 @ \u30d8 \u30eb \u30b7 \u30f3 \u30ad",
         "url": "https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 354000,
       "name": "\u90fd \u5e02 \u30d5 \u30a9 \u30fc \u30e9 \u30e0 Consumer [kahvi]",
       "url": "https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "Growing Apart",
-        "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
-      },
-      "artists": [
-        {
-          "name": "Rayklin",
-          "url": "https://open.spotify.com/artist/2FTHXc8okmVhGLBREZUhVA"
-        }
-      ],
-      "duration_ms": 217153,
-      "name": "Growing Apart",
-      "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1207,38 +1207,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Bad Baby (Satin Sheets Remix)",
-        "url": "https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9"
-      },
-      "artists": [
-        {
-          "name": "Neggy Gemmy",
-          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
-        }
-      ],
-      "duration_ms": 297142,
-      "name": "Bad Baby (Satin Sheets Remix)",
-      "url": "https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "visualdesign '97",
-        "url": "https://open.spotify.com/album/1U7sVDbYF140Qi5uClqkWQ"
-      },
-      "artists": [
-        {
-          "name": "vcr-classique",
-          "url": "https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2"
-        }
-      ],
-      "duration_ms": 105143,
-      "name": "sunday shopping",
-      "url": "https://open.spotify.com/track/1DNbnHyTMvDP0KcoPVpUN5"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "Tampa (FM Skyline Remix) [7\" Version]",
         "url": "https://open.spotify.com/album/4e9xyxDq3XXee50cZYTQ5t"
       },
@@ -1259,18 +1227,34 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "EMAIL",
-        "url": "https://open.spotify.com/album/6WDrx0SJVfuDoJrLwG9Hye"
+        "name": "visualdesign '97",
+        "url": "https://open.spotify.com/album/1U7sVDbYF140Qi5uClqkWQ"
       },
       "artists": [
         {
-          "name": "Hatena",
-          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
+          "name": "vcr-classique",
+          "url": "https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2"
         }
       ],
-      "duration_ms": 176269,
-      "name": "SOULLL",
-      "url": "https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx"
+      "duration_ms": 105143,
+      "name": "sunday shopping",
+      "url": "https://open.spotify.com/track/1DNbnHyTMvDP0KcoPVpUN5"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Bad Baby (Satin Sheets Remix)",
+        "url": "https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9"
+      },
+      "artists": [
+        {
+          "name": "Neggy Gemmy",
+          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
+        }
+      ],
+      "duration_ms": 297142,
+      "name": "Bad Baby (Satin Sheets Remix)",
+      "url": "https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1287,6 +1271,22 @@
       "duration_ms": 162228,
       "name": "Carrie Bradshaw",
       "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "EMAIL",
+        "url": "https://open.spotify.com/album/6WDrx0SJVfuDoJrLwG9Hye"
+      },
+      "artists": [
+        {
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
+        }
+      ],
+      "duration_ms": 176269,
+      "name": "SOULLL",
+      "url": "https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "24Hrs.",
-        "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
-      },
-      "artists": [
-        {
-          "name": "Maitro",
-          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
-        }
-      ],
-      "duration_ms": 145240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "One Hundred Mornings (Bonus Tracks)",
         "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 164000,
       "name": "Home Workout VHS",
       "url": "https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "24Hrs.",
+        "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
+      },
+      "artists": [
+        {
+          "name": "Maitro",
+          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
+        }
+      ],
+      "duration_ms": 145240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Creation",
-        "url": "https://open.spotify.com/album/37Z1A8cXumKShQ5SWYGYFq"
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
       },
       "artists": [
         {
-          "name": "Sonavision Deluxe",
-          "url": "https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff"
-        },
-        {
-          "name": "Komit",
-          "url": "https://open.spotify.com/artist/3pEy2Cj8IMHmUvXkEekr6p"
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
         }
       ],
-      "duration_ms": 258648,
-      "name": "Creation Through Existence",
-      "url": "https://open.spotify.com/track/2GR4JjtoLxXVzCxbEwiy4t"
+      "duration_ms": 176086,
+      "name": "Harlequin",
+      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1495,6 +1491,22 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
+      },
+      "artists": [
+        {
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+        }
+      ],
+      "duration_ms": 170379,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -1519,34 +1531,22 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
+        "name": "Creation",
+        "url": "https://open.spotify.com/album/37Z1A8cXumKShQ5SWYGYFq"
       },
       "artists": [
         {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        }
-      ],
-      "duration_ms": 176086,
-      "name": "Harlequin",
-      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
-      },
-      "artists": [
+          "name": "Sonavision Deluxe",
+          "url": "https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff"
+        },
         {
-          "name": "oDDling",
-          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+          "name": "Komit",
+          "url": "https://open.spotify.com/artist/3pEy2Cj8IMHmUvXkEekr6p"
         }
       ],
-      "duration_ms": 170379,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
+      "duration_ms": 258648,
+      "name": "Creation Through Existence",
+      "url": "https://open.spotify.com/track/2GR4JjtoLxXVzCxbEwiy4t"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Dark Bandwidth",
-        "url": "https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj"
-      },
-      "artists": [
-        {
-          "name": "Diskette Park",
-          "url": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"
-        }
-      ],
-      "duration_ms": 217698,
-      "name": "Eye",
-      "url": "https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "Open Tournament 27XX",
         "url": "https://open.spotify.com/album/23G7wMaTOeBjuJ3UucHtqL"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 197333,
       "name": "Electrolyte Elixir",
       "url": "https://open.spotify.com/track/33Lqj0KYqEIk3ibD3DU1cW"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Dark Bandwidth",
+        "url": "https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj"
+      },
+      "artists": [
+        {
+          "name": "Diskette Park",
+          "url": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"
+        }
+      ],
+      "duration_ms": 217698,
+      "name": "Eye",
+      "url": "https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Intercontinental",
-        "url": "https://open.spotify.com/album/7zgV7O9KcT8ZymRfHFGxa3"
+        "name": "Aeris",
+        "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
       },
       "artists": [
         {
-          "name": "Lost Traveler \u30ed\u30b9\u30c8",
-          "url": "https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD"
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
         }
       ],
-      "duration_ms": 253636,
-      "name": "Intercontinental",
-      "url": "https://open.spotify.com/track/6bfuLXMhr4jpG2og7eZWpH"
+      "duration_ms": 226500,
+      "name": "Oneirataxia",
+      "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"
     },
     {
       "added_at": "2022-09-11 17:52:42",

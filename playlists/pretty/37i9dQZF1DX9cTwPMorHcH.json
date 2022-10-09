@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 47563,
+  "num_followers": 47682,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMDA1NTc4MGI5N2M3OTIwMmIzYmY2ZDI1MjJmYjA2Y2Uz",
+  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMDgwZjE4OTU3ZjkzYmMyMmFkNDJlNDE2ZWVmODY0YjE4",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 352666,
-      "name": "Midnight in Harlem",
-      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 320906,
       "name": "Texas Flood",
       "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 352666,
+      "name": "Midnight in Harlem",
+      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
     },
     {
       "added_at": "2021-12-07 19:02:16",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart, Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
-        }
-      ],
-      "duration_ms": 486773,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/3BF9J3DjZuNKcfiAwkTsWK"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Made Up Mind",
         "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 246573,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
+        }
+      ],
+      "duration_ms": 486773,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/3BF9J3DjZuNKcfiAwkTsWK"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -665,20 +665,20 @@
       "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Up and Rolling",
-        "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
+        "name": "Heart & Soul: A Retrospective",
+        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
       "artists": [
         {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 303920,
-      "name": "Up and Rolling",
-      "url": "https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco"
+      "duration_ms": 178440,
+      "name": "Do Right Woman, Do Right Man",
+      "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -713,20 +713,20 @@
       "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Heart & Soul: A Retrospective",
-        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
+        "name": "Up and Rolling",
+        "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Do Right Woman, Do Right Man",
-      "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
+      "duration_ms": 303920,
+      "name": "Up and Rolling",
+      "url": "https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Power Of The Pontchartrain",
         "url": "https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 304933,
       "name": "Shelter Me",
       "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1327,38 +1327,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "I'm Glad Trouble Don't Last Always",
-        "url": "https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 257586,
-      "name": "I'm Glad Trouble Don't Last Always",
-      "url": "https://open.spotify.com/track/3b9xTm2eiaCRTGqUEWuzxc"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "You Can't Teach An Old Dog New Tricks",
-        "url": "https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "You Can't Teach An Old Dog New Tricks",
-      "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Cold Snap (Remastered)",
         "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
@@ -1371,6 +1339,22 @@
       "duration_ms": 247400,
       "name": "I Ain't Drunk - Remastered",
       "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "I'm Glad Trouble Don't Last Always",
+        "url": "https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "I'm Glad Trouble Don't Last Always",
+      "url": "https://open.spotify.com/track/3b9xTm2eiaCRTGqUEWuzxc"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1387,6 +1371,22 @@
       "duration_ms": 187973,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "You Can't Teach An Old Dog New Tricks",
+        "url": "https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "You Can't Teach An Old Dog New Tricks",
+      "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
     },
     {
       "added_at": "2022-02-25 05:02:00",

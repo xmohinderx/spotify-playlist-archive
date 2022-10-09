@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women from Belgium, at full volume\. Cover: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,867 likes - 48 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,872 likes - 48 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 31 | [Kill For You](https://open.spotify.com/track/5elFCIVXGp5fPEP435AIY6) | [Luka](https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy) | [Kill For You](https://open.spotify.com/album/4cOXBXHfwCakT2GUd8RuO3) | 2:55 |
 | 32 | [Minding my business](https://open.spotify.com/track/4DECoAPGjLBvxo2hFnWWio) | [nanaKILL](https://open.spotify.com/artist/1i7OEuaR2fiVK1C5KBQKfe), [Chipeur](https://open.spotify.com/artist/1KihDIpX6APcSFJPkhxmG9) | [Minding my business](https://open.spotify.com/album/1AGsdXxDE5ogOqk328TSOu) | 2:59 |
 | 33 | [Rio](https://open.spotify.com/track/4g9dsiC7LLEA1ttJQAk626) | [Grace](https://open.spotify.com/artist/3GKpXtb9Zb3QvDg9uzNi98) | [Rio](https://open.spotify.com/album/61E21CgOIc1sC02iHy15u7) | 2:29 |
-| 34 | [Show Your Love](https://open.spotify.com/track/0WKAxUAuhG6W8fAzXyZOjf) | [AMARI](https://open.spotify.com/artist/2UJ9tfT0cOFGo1FljX1vwM), [Nils Van Zandt](https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj), [Mr\. Jim](https://open.spotify.com/artist/7oOLkipOxOdff7H1CwNBcZ) | [Show Your Love](https://open.spotify.com/album/5kiLXdF1rem3OTdCEhHQaJ) | 2:24 |
+| 34 | [Show Your Love](https://open.spotify.com/track/0WKAxUAuhG6W8fAzXyZOjf) | [AMARI](https://open.spotify.com/artist/2UJ9tfT0cOFGo1FljX1vwM), [Mr\. Jim](https://open.spotify.com/artist/7oOLkipOxOdff7H1CwNBcZ), [Nils Van Zandt](https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj) | [Show Your Love](https://open.spotify.com/album/5kiLXdF1rem3OTdCEhHQaJ) | 2:24 |
 | 35 | [Koude Voeten](https://open.spotify.com/track/2rkNdXahGDul5KbwOOWwgY) | [Madou](https://open.spotify.com/artist/5LHkXGZndRebUjbJqvMQyN) | [Koude Voeten](https://open.spotify.com/album/5q4WZZ4Ng3UhdiMzQdgjE9) | 3:52 |
 | 36 | [In De Regen](https://open.spotify.com/track/2RUzYz3EqkJxpPQPehdxha) | [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [SOS](https://open.spotify.com/album/34s3r2WEBHHFpeivyjsXac) | 3:35 |
 | 37 | [Wat Je Doet Met Mij](https://open.spotify.com/track/0fOEOXf60rzgA13bi704Xp) | [Tinne Oltmans](https://open.spotify.com/artist/0X1OM24THI0h4jXIaSZvGF) | [Wat Je Doet Met Mij](https://open.spotify.com/album/25dxNo9Zj3qaC2kXkSxqF4) | 3:08 |

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-436 songs - 1 day 2 hr 30 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+437 songs - 1 day 2 hr 33 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Easier Said Than Done](https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 | 2022-09-08 |  |
 | [Easy](https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 3:20 | 2022-07-26 |  |
 | [Easy](https://open.spotify.com/track/6bPk3V91v7xEXcXBGVB2Yr) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 3:20 | 2022-03-30 | 2022-04-20 |
+| [Easy](https://open.spotify.com/track/1DmhHTgmnbKC5JyXxdPpD9) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Easy](https://open.spotify.com/album/4wdC83EYfjaM8pKm2dANIi) | 3:08 | 2022-09-26 |  |
 | [Easy](https://open.spotify.com/track/1pfYIi1N0t9g7WWZNLsde3) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Easy](https://open.spotify.com/album/3etfw3EWe274S5SyajP8eW) | 3:08 | 2021-12-16 | 2022-07-21 |
 | [Elasto](https://open.spotify.com/track/0joWz6mlWQtcREQzYurLVo) | [Schwey](https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ), [Artemis](https://open.spotify.com/artist/1weRXyXXSBxar799mDmQ2v) | [Schwey](https://open.spotify.com/album/46W9GXfRJpQdlYs9cCus0m) | 3:42 | 2021-12-16 | 2022-06-19 |
 | [Evan Finds the Third Room](https://open.spotify.com/track/07wztBYwMThbAVW4ahWMuD) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/5u103bJ7EsNUAyL9eMACo5) | 4:00 | 2022-03-30 | 2022-04-15 |
@@ -198,7 +199,7 @@
 | [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 | 2022-03-30 | 2022-04-18 |
 | [Juicy](https://open.spotify.com/track/3VEdzfUk5q70JDmBH0F0Wa) | [Emmett Kai](https://open.spotify.com/artist/3iFMfPvVhkPDaR6uCaBV9q) | [Midnight](https://open.spotify.com/album/04q89UZFZgoHq13VI8Etar) | 3:22 | 2021-12-16 | 2022-07-28 |
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX) | 2:30 | 2022-03-30 | 2022-04-20 |
-| [Just Another Honky](https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 | 2022-03-30 |  |
+| [Just Another Honky](https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 | 2022-03-30 | 2022-10-09 |
 | [Just Go](https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:06 | 2021-12-16 | 2022-07-29 |
 | [Keep Your Faith to the Sky](https://open.spotify.com/track/3EvsbWc8SXFKp03SS2B9Ok) | [Willie Scott & The Birmingham Spirituals](https://open.spotify.com/artist/2MLCA5LxOACoZRdTn8ThmI) | [Keep Your Faith to the Sky](https://open.spotify.com/album/49LpwpMHPPNni1Vi7IM6oV) | 5:09 | 2021-12-16 | 2022-07-29 |
 | [Keeping Me Under](https://open.spotify.com/track/1N5zNjjaie1MpYW4oTPqVZ) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/5GgzoCTpVmmxGoETRWBa4l) | 3:38 | 2022-03-30 | 2022-04-21 |

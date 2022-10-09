@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Alvvays
 
-713 songs - 1 day 18 hr 7 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+714 songs - 1 day 18 hr 10 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [a little bit more](https://open.spotify.com/track/6Zn4mNLa6mL1jrJWF97SdF) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [a little bit more](https://open.spotify.com/album/1qcxwQMk3kpIrFebXBMEIl) | 2:26 | 2022-08-19 | 2022-09-10 |
 | [AANNGIQ](https://open.spotify.com/track/1YLx7QBLLEy8e8c8eqszSX) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [SHIFTING](https://open.spotify.com/album/10v5r1u4kwiIpdbakONaps) | 2:05 | 2021-12-31 | 2022-02-05 |
 | [Addicted](https://open.spotify.com/track/3OEzp4UBS6xWHsyMHyKD6r) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5), [Jordan Everett](https://open.spotify.com/artist/2YSPK0T0sY2lSkZ7NL9Joz) | [Addicted](https://open.spotify.com/album/40TyLun5MURuGGNVeSvtq3) | 2:53 | 2022-04-22 | 2022-06-04 |
-| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 |  |
+| [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-07 |  |
+| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-10-09 |
 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 | 2022-05-06 | 2022-09-17 |
 | [Ain't No Cowboys In Georgia](https://open.spotify.com/track/3MENr2sOd9lrNzDW0ZA91D) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/2r06kS7KFzXHPLA6DdT9IS) | 2:32 | 2022-10-07 |  |
 | [Airplanes](https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Airplanes / Caribou](https://open.spotify.com/album/6F0h2APKV6LqwUYgJ3MrjS) | 4:36 | 2022-02-04 | 2022-03-05 |
@@ -87,7 +88,7 @@
 | [Boxes](https://open.spotify.com/track/7A4hJVgzsTzyYpbjWh22Xs) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 2:50 | 2022-04-15 | 2022-06-25 |
 | [Boys](https://open.spotify.com/track/7yfLvK7r1w5bql3G0Uha5w) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Boys](https://open.spotify.com/album/6GekJIWdpmASWvY6maRfHH) | 4:13 | 2021-12-31 | 2022-01-15 |
 | [brain food](https://open.spotify.com/track/2Vlw9U2Vzn6dHrb4J14TDU) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Grown?](https://open.spotify.com/album/5VWaQLaBvE8djbRkHRc3Fd) | 3:41 | 2022-04-29 | 2022-06-25 |
-| [BREAK ME DOWN](https://open.spotify.com/track/3View4Eq2QWlXVrOME2j39) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:11 | 2022-09-30 |  |
+| [BREAK ME DOWN](https://open.spotify.com/track/3View4Eq2QWlXVrOME2j39) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:13 | 2022-09-30 |  |
 | [Break My Fall](https://open.spotify.com/track/2D2wLzadfYEvxzoQAHtCm5) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1ge5wbmkpeytkR9oiIyJb9) | 3:26 | 2022-05-20 | 2022-05-21 |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-04 | 2022-04-02 |
 | [Broken Record](https://open.spotify.com/track/4LIxmoxqIUvlANwcNR9b3L) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Broken Record](https://open.spotify.com/album/3HkGfFELfqyxh3jsBL6828) | 4:01 | 2022-05-27 | 2022-07-16 |

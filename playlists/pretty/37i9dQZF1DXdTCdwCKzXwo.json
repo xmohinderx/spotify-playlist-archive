@@ -1,12 +1,12 @@
 {
   "description": "Early pioneers that brought the underground to the foreground. Cover: Nico",
-  "num_followers": 972872,
+  "num_followers": 974092,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTkyNCwwMDAwMDAwMGIyMjlmOGQ1ZGViMWQzZDRhMjM1MTc4NzU5YTcwMzc3",
+  "snapshot_id": "MTY2MjY0OTkyNCwwMDAwMDAwMDA1NzhiZDYxNGQ4OTQ2YTg0ZGM4ZjdkYjEzMDNjYTkw",
   "tracks": [
     {
       "added_at": "2022-09-08 15:12:04",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-05-26 22:19:37",
       "album": {
-        "name": "My Aim Is True",
-        "url": "https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Watching The Detectives - Single Version",
-      "url": "https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s"
-    },
-    {
-      "added_at": "2022-05-26 22:19:37",
-      "album": {
         "name": "Keep It like a Secret",
         "url": "https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 343893,
       "name": "Carry the Zero",
       "url": "https://open.spotify.com/track/3HMOMdRPywfouYx5B4PvaH"
+    },
+    {
+      "added_at": "2022-05-26 22:19:37",
+      "album": {
+        "name": "My Aim Is True",
+        "url": "https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Watching The Detectives - Single Version",
+      "url": "https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s"
     },
     {
       "added_at": "2022-05-26 22:19:37",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-26 22:19:37",
       "album": {
-        "name": "Give Me Convenience or Give Me Death",
-        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb"
-    },
-    {
-      "added_at": "2022-05-26 22:19:37",
-      "album": {
         "name": "Reading, Writing & Arithmetic",
         "url": "https://open.spotify.com/album/4bofszhtDfGY6smHBGeyTT"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 234906,
       "name": "Here's Where The Story Ends",
       "url": "https://open.spotify.com/track/4SPi5Pl7aAtauFsH9Lk5LB"
+    },
+    {
+      "added_at": "2022-05-26 22:19:37",
+      "album": {
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb"
     },
     {
       "added_at": "2022-05-26 22:19:37",

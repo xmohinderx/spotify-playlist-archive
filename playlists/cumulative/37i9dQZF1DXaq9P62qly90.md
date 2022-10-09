@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-92 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/6PGA40jJvnwvOGylzYEmlj)
+93 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/6PGA40jJvnwvOGylzYEmlj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Seem to Freeze](https://open.spotify.com/track/2Ee6LsCt7ovWvwu61K6voM) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK), [Emma Lucia](https://open.spotify.com/artist/4PJTjDzOI3rxJ9HTZ1u2AA) | [Electric River](https://open.spotify.com/album/2NR1dCNlwpdPMu6WWet3s2) | 3:31 | 2020-11-25 | 2022-07-29 |
 | [She Go](https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 3:17 | 2020-11-25 |  |
 | [Sometimes I](https://open.spotify.com/track/2bz32yhGhMaj3LNnQpyFE9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/6YYBs0rzC30URlk77ULuMW) | 6:17 | 2020-11-25 | 2022-07-29 |
+| [Sometimes I](https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp) | 6:17 | 2020-11-25 |  |
 | [Sometimes I](https://open.spotify.com/track/6sP0vf4MzuUvN1r5FXtg2d) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/16bQ6nIkVt3GrGNFOyiGIX) | 6:17 | 2020-11-25 | 2022-09-30 |
 | [Speak out](https://open.spotify.com/track/4WE6L50VXeRbYOqybh2Wi9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Leylines](https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE) | 3:55 | 2020-11-25 | 2022-09-30 |
 | [Speak Out](https://open.spotify.com/track/56PweNlDakf2ookZBGHO9M) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Leylines](https://open.spotify.com/album/0DhPojwiQq6BREwY5DJjYC) | 3:55 | 2020-11-25 | 2022-07-29 |
@@ -86,7 +87,7 @@
 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 | 2020-11-25 |  |
 | [Tus Pies \(Your Feet\)](https://open.spotify.com/track/01O8dSJn4lQLfdi72yL8Qf) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [HOKA](https://open.spotify.com/album/3wH1yuFBld6RUYPyJnB60N) | 5:21 | 2020-11-25 | 2022-07-29 |
 | [Tus Pies \(Your Feet\)](https://open.spotify.com/track/1K8fvoDctaQ9unJB40F5Qj) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [HOKA](https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T) | 5:21 | 2020-11-25 |  |
-| [Uneven Days](https://open.spotify.com/track/5NQhbua3fjGBeIUDDq1ozD) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Uneven Days](https://open.spotify.com/album/5NgCiRb6LH8wEtseBuOuy9) | 4:20 | 2020-11-25 |  |
+| [Uneven Days](https://open.spotify.com/track/5NQhbua3fjGBeIUDDq1ozD) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Uneven Days](https://open.spotify.com/album/5NgCiRb6LH8wEtseBuOuy9) | 4:20 | 2020-11-25 | 2022-10-09 |
 | [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 | 2020-11-25 |  |
 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 | 2020-11-25 |  |
 | [Warm Under the Light](https://open.spotify.com/track/5p4ydBPTPRhhQ6mWTWswXJ) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/0vYG3TaFXfpIqNXLvTo4GL) | 3:53 | 2020-11-25 | 2022-10-03 |

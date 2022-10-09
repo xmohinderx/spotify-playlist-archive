@@ -1889,6 +1889,10 @@
         {
           "name": "Los de la GS",
           "url": "https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW"
+        },
+        {
+          "name": "Charly P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1cGbJzKJN7XAI259t8Iwvr"
         }
       ],
       "date_added": "2022-10-07",
@@ -9436,6 +9440,24 @@
     },
     {
       "album": {
+        "name": "Huaraches De Cuero Crudo",
+        "url": "https://open.spotify.com/album/0WhMGERGz7uNDKYaBm7T9r"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189472,
+      "name": "Huaraches De Cuero Crudo",
+      "url": "https://open.spotify.com/track/62Ofu4vLy5CCNAGlCWHyJU"
+    },
+    {
+      "album": {
         "name": "Huelo A Logro (Live)",
         "url": "https://open.spotify.com/album/7bv10kqAw8E4ckAgGAE7ZF"
       },
@@ -9477,24 +9499,6 @@
       "duration_ms": 204489,
       "name": "Humo",
       "url": "https://open.spotify.com/track/5PnXwGXWNHK0jJhKpeyg88"
-    },
-    {
-      "album": {
-        "name": "Huraches De Cuero Crudo",
-        "url": "https://open.spotify.com/album/0WhMGERGz7uNDKYaBm7T9r"
-      },
-      "artists": [
-        {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
-        }
-      ],
-      "date_added": "2022-10-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189472,
-      "name": "Huraches De Cuero Curdo",
-      "url": "https://open.spotify.com/track/62Ofu4vLy5CCNAGlCWHyJU"
     },
     {
       "album": {

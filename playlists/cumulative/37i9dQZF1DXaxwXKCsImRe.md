@@ -4,7 +4,7 @@
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: The Haunted Youth
 
-87 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
+88 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 | 2021-12-10 |  |
 | [popstar](https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [popstar](https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE) | 3:08 | 2021-12-10 | 2022-03-19 |
 | [RELAPSE](https://open.spotify.com/track/3SuTqS0CuFnVxC52vBArPy) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:37 | 2021-12-10 |  |
-| [Romance in Great Britain](https://open.spotify.com/track/4t51Fwx665meFGj1DJwweV) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Romance in Great Britain](https://open.spotify.com/album/14YzhyJwBKhmtshaBaINzQ) | 3:21 | 2022-03-18 |  |
+| [Romance in Great Britain](https://open.spotify.com/track/4t51Fwx665meFGj1DJwweV) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Romance in Great Britain](https://open.spotify.com/album/14YzhyJwBKhmtshaBaINzQ) | 3:21 | 2022-03-18 | 2022-10-09 |
+| [Romance in Great Britain](https://open.spotify.com/track/7qHn95y6Fry3I6t87HekQ5) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Romance in Great Britain](https://open.spotify.com/album/3gL5sXknuYa2VCjr5bA5UT) | 3:21 | 2022-10-05 |  |
 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-08-25 |  |
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2022-02-25 | 2022-08-26 |
 | [She's A Star](https://open.spotify.com/track/1WTdWqP7VUEVuSrBcoAAtU) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/0q5wcUvHIgklQrc1SDam2x) | 4:45 | 2022-03-18 |  |

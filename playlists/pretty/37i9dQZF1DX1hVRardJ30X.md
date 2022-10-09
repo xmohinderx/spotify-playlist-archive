@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Yahritza Y Su Esencia & Ivan Cornejo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,139 likes - 56 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,457 likes - 56 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 7 | [Hood \- Remix](https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hood \(Remix\)](https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv) | 2:56 |
 | 8 | [Sigo Feliz](https://open.spotify.com/track/3xw2pT79X8xgCzivqeLXnb) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sigo Feliz](https://open.spotify.com/album/5gaIGETcYdjX2XdBFJRGEZ) | 3:40 |
 | 9 | [La Pelikula \- Remix](https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Pelikula \(Remix\)](https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX) | 4:13 |
-| 10 | [TORO](https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [TORO](https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2) | 4:14 |
+| 10 | [TORO](https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Toro](https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2) | 4:14 |
 | 11 | [No Hace Falta Que Lo Digas](https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [No Hace Falta Que Lo Digas](https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ) | 3:38 |
 | 12 | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG) | 3:51 |
 | 13 | [Me Gusta](https://open.spotify.com/track/4wpsSCIc7zyjdyUt6wfSqc) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Me Gusta](https://open.spotify.com/album/0Fxm7FHLwu4RNHWFjidEkt) | 2:33 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 26 | [niño](https://open.spotify.com/track/2GxMu0kED0rHHfL2SaXuMX) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [niño](https://open.spotify.com/album/6Q4MSsDsRQf8HKGsCaco8O) | 2:32 |
 | 27 | [TSHIRT](https://open.spotify.com/track/4b6eUnmj8JsQZzIzkNqikg) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [TSHIRT](https://open.spotify.com/album/2F7Vb43nsuNip9tAYzIj73) | 2:52 |
 | 28 | [Planetas](https://open.spotify.com/track/2WzigCWeKa1LrTPbe6nUJq) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Planetas](https://open.spotify.com/album/5BsM6aELM0cxx7l67nP0EK) | 2:59 |
-| 29 | [Recuerdos Desechables](https://open.spotify.com/track/6KaUMpDH30LNmBhiLcMUtC) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/4uUZcwxBslFK0F4gT7fDcf) | 3:30 |
+| 29 | [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 |
 | 30 | [Salimos Del Tarro](https://open.spotify.com/track/21BoBFBeh49Vrl9DRUsOu8) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [Salimos Del Tarro](https://open.spotify.com/album/5mIAo75l1tfPvrCXBr7jb1) | 3:01 |
 | 31 | [Boyfriend](https://open.spotify.com/track/2NDzTgfBOyikPB8xqgmySv) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp) | [Boyfriend](https://open.spotify.com/album/33Qi0M44cAuRUCzmnDWJC8) | 2:42 |
 | 32 | [Te Pienso](https://open.spotify.com/track/49VPPkddlCf799FKXHsSyN) | [Nigel](https://open.spotify.com/artist/1CEX09QFQGNdyIzFLKYksf), [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn) | [Te Pienso](https://open.spotify.com/album/6J5QXN6M6vDyc6ftM51ZwI) | 3:26 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 55 | [Tal Para Cual](https://open.spotify.com/track/3ttVFm4SM83nYJAIKq4h1Z) | [Jorge Franco](https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB) | [Tal Para Cual](https://open.spotify.com/album/29IBxYVSuuc4ubcllLKtJx) | 3:03 |
 | 56 | [Ya No Queiro](https://open.spotify.com/track/5g8HnZeHOQyOyK1EOb1Jf7) | [CAROLINE](https://open.spotify.com/artist/1YWvf5qw9RnGAW39spyLI1) | [Ya No Queiro](https://open.spotify.com/album/1l4U6ykibEJCMNL01uPqIz) | 3:18 |
 
-Snapshot ID: `MTY2NTE3MDkxNCwwMDAwMDAwMGM1MjA2NmRmN2RiMzgxOTBhNDMyOTZmNDRjNjlhMzRk`
+Snapshot ID: `MTY2NTE3MDkxNCwwMDAwMDAwMDAzMWJhOGI3NGUzMzdhNjk5MDFiNmY4ZTk5NjljMjA0`

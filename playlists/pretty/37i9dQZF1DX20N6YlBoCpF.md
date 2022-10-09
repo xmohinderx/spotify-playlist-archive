@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=nEaczK89S5WXP3QVS4wW7w">Van Pletzen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 813 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 846 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 9 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 |
 | 10 | [Laatnag\-sonop\-koebaai](https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ) | [Posduif](https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349) | [Laatnag\-sonop\-koebaai](https://open.spotify.com/album/6gvpn8iBbVXJEbmWt3sLVN) | 3:49 |
 | 11 | [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 |
-| 12 | [SKATTE](https://open.spotify.com/track/4QxosSPj1Sft96oEstnH7I) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [SKATTE](https://open.spotify.com/album/3ZIehpIP6HTBbfAEtkdn2G) | 3:56 |
+| 12 | [SKATTE](https://open.spotify.com/track/4QxosSPj1Sft96oEstnH7I) | [Tertius rooi](https://open.spotify.com/artist/0exVSnrH9fdXvvVub5wRDE) | [SKATTE](https://open.spotify.com/album/3ZIehpIP6HTBbfAEtkdn2G) | 3:56 |
 | 13 | [H2Oë](https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [H2Oë](https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP) | 2:55 |
 | 14 | [Letsels](https://open.spotify.com/track/4C2RjO0cQTgfH25OnExF8j) | [Vernon Barnard](https://open.spotify.com/artist/2TPxotA1MPCxSlIBSWrJX5) | [Letsels](https://open.spotify.com/album/3fkS4UKfRuU29KbBimnexE) | 3:46 |
 | 15 | [Ons Braai Net](https://open.spotify.com/track/5LUgDfGlQZWVnOi4bITNzf) | [BigBen](https://open.spotify.com/artist/2szr6eY8Ss8fDBkIy8v0Su), [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Ons Braai Net](https://open.spotify.com/album/6uCVYlVdoRXotAgwqLbuFy) | 3:13 |

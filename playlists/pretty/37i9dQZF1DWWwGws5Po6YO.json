@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 24457,
+  "num_followers": 24496,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NDcwMCwwMDAwMDAwMGFmOTkwMzc2ZTNjMTNhMWQwN2FkNWY2N2RjYzk5MDYw",
+  "snapshot_id": "MTY2NDg5NDcwMCwwMDAwMDAwMGVmYjVmOTBkNjU5ODE4YTZlNjA4OWFlMWJiNmFjYTVj",
   "tracks": [
     {
       "added_at": "2022-10-04 14:45:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Love Is The Tune",
-        "url": "https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 220687,
-      "name": "Love Is The Tune",
-      "url": "https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "Because of a Flower",
         "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
       },
@@ -187,18 +171,18 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
+        "name": "Love Is The Tune",
+        "url": "https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 208912,
-      "name": "The Trembling of Glass",
-      "url": "https://open.spotify.com/track/68Dw3MZNu16CrSYROJAvge"
+      "duration_ms": 220687,
+      "name": "Love Is The Tune",
+      "url": "https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -215,6 +199,22 @@
       "duration_ms": 81373,
       "name": "Strand of Life (\"Viroid\")",
       "url": "https://open.spotify.com/track/038kVJ5c2qXrdSnx79DnzG"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 208912,
+      "name": "The Trembling of Glass",
+      "url": "https://open.spotify.com/track/68Dw3MZNu16CrSYROJAvge"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Mary, You Were Wrong",
-        "url": "https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 298061,
-      "name": "Mary, You Were Wrong",
-      "url": "https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "Mary, You Were Wrong",
+        "url": "https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 298061,
+      "name": "Mary, You Were Wrong",
+      "url": "https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "We Wave From Our Boats",
-        "url": "https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "My People Have Deep Roots",
         "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
       },
@@ -451,8 +435,28 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Collected Pieces",
-        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
+        "name": "Fantas Variations",
+        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        },
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 187863,
+      "name": "Fantas Morbida",
+      "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "We Wave From Our Boats",
+        "url": "https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj"
       },
       "artists": [
         {
@@ -460,9 +464,9 @@
           "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 628736,
-      "name": "Wawa by the Ocean",
-      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -503,22 +507,18 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Fantas Variations",
-        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
       "artists": [
         {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        },
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 187863,
-      "name": "Fantas Morbida",
-      "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -535,22 +535,6 @@
       "duration_ms": 300747,
       "name": "Morning Spring",
       "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -591,22 +575,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "Blue Alibi",
         "url": "https://open.spotify.com/album/3fLvBgK02fzdFAJ1aB8cKv"
       },
@@ -619,6 +587,22 @@
       "duration_ms": 281202,
       "name": "Blue Shit",
       "url": "https://open.spotify.com/track/5MQPW3rjoZ2VuIFePdWE5d"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "Collected Pieces",
+        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 628736,
+      "name": "Wawa by the Ocean",
+      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -699,6 +683,22 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "is this nature escape",
         "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 212848,
       "name": "is this nature escape",
       "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Welfare / Practice",
-        "url": "https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Liyou",
-          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
-        }
-      ],
-      "duration_ms": 231731,
-      "name": "How to build an automaton",
-      "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/3jzXWkXEgM5WDtLnf3ySUK"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+        "name": "Welfare / Practice",
+        "url": "https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE"
       },
       "artists": [
         {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+          "name": "Lucy Liyou",
+          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
         }
       ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+      "duration_ms": 231731,
+      "name": "How to build an automaton",
+      "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -859,6 +843,22 @@
       "duration_ms": 347680,
       "name": "Moon View",
       "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Memories of Log",
-        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
-      },
-      "artists": [
-        {
-          "name": "Ulla",
-          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
-        }
-      ],
-      "duration_ms": 400248,
-      "name": "Falling Water Lullaby",
-      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "The North Wind",
         "url": "https://open.spotify.com/album/6JYkxZJniFgYfH7KHmP45r"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 251887,
       "name": "The North Wind",
       "url": "https://open.spotify.com/track/4uL4uMUVsxPhleIsq0ijx0"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "Memories of Log",
+        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
+      },
+      "artists": [
+        {
+          "name": "Ulla",
+          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+        }
+      ],
+      "duration_ms": 400248,
+      "name": "Falling Water Lullaby",
+      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
     },
     {
       "added_at": "2022-10-04 14:45:00",

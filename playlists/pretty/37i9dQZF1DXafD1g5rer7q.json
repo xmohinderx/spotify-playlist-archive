@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 307742,
+  "num_followers": 307961,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA3Mjg4NCwwMDAwMDAwMDFlY2NkNjFlNjAyNGQzZGJmNGYwNzYxODJhMTVkMDMw",
+  "snapshot_id": "MTY2NTA3Mjg4NCwwMDAwMDAwMDg2ZGQ1MGE3OWExNTIwN2FlMWM4ZTY5MWY4NDIwZjE3",
   "tracks": [
     {
       "added_at": "2022-10-06 16:14:44",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-10-06 16:14:44",
       "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq"
-      },
-      "artists": [
-        {
-          "name": "Anton Powers",
-          "url": "https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc"
-        },
-        {
-          "name": "Redondo",
-          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
-        }
-      ],
-      "duration_ms": 168991,
-      "name": "Make Your Move",
-      "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
-    },
-    {
-      "added_at": "2022-10-06 16:14:44",
-      "album": {
         "name": "Don't Say You Love Me",
         "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 184266,
       "name": "Don't Say You Love Me",
       "url": "https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4"
+    },
+    {
+      "added_at": "2022-10-06 16:14:44",
+      "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq"
+      },
+      "artists": [
+        {
+          "name": "Anton Powers",
+          "url": "https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc"
+        },
+        {
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
+        }
+      ],
+      "duration_ms": 168991,
+      "name": "Make Your Move",
+      "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
     },
     {
       "added_at": "2022-10-06 16:14:44",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2022-10-06 16:14:44",
       "album": {
-        "name": "Split (Only U)",
-        "url": "https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd"
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
         }
       ],
-      "duration_ms": 256640,
-      "name": "Split (Only U)",
-      "url": "https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY"
+      "duration_ms": 185620,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV"
     }
   ],
   "unique_name": "EDM Samplings",

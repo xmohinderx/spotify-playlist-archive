@@ -18216,6 +18216,24 @@
     },
     {
       "album": {
+        "name": "Perfect Mistakes",
+        "url": "https://open.spotify.com/album/2ImjAATcpj7FOT4f3XTxlp"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253143,
+      "name": "Perfect Mistake",
+      "url": "https://open.spotify.com/track/39xbjWMhqIpPZVT0V4uDSh"
+    },
+    {
+      "album": {
         "name": "Petal Dance",
         "url": "https://open.spotify.com/album/62WzNA7gboQydhAvDadrxg"
       },
@@ -21483,7 +21501,7 @@
       ],
       "date_added": "2020-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 236149,
       "name": "Someone",
       "url": "https://open.spotify.com/track/01rAwlFDrRT2FzimFTXrKB"

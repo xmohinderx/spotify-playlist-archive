@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. A mixture of sounds and artists. Cover: Cuco",
-  "num_followers": 749597,
+  "num_followers": 749617,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMDBjY2I3NTBmOGZhM2QwNWVmZTM1MmM4NGJhMjg2Yzhh",
+  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMDcwNDQ3NWVhZWJlYzRkM2ZhOTBlYTcwNzk2ZWU5OWY3",
   "tracks": [
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
+        "name": "Fresh Water",
+        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
+      },
+      "artists": [
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        },
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "duration_ms": 157010,
+      "name": "Fresh Water",
+      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
       },
@@ -1207,22 +1227,22 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Fresh Water",
-        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
+        "name": "Call",
+        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
       },
       "artists": [
         {
-          "name": "PAM\u00c9",
-          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
         },
         {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
         }
       ],
-      "duration_ms": 157010,
-      "name": "Fresh Water",
-      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
+      "duration_ms": 176701,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1251,26 +1271,6 @@
       "duration_ms": 218467,
       "name": "Only One",
       "url": "https://open.spotify.com/track/65Xycqq3KSaLmEIbWszegR"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        }
-      ],
-      "duration_ms": 176701,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
     },
     {
       "added_at": "2022-09-06 16:40:42",

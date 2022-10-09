@@ -1,12 +1,12 @@
 {
   "description": "Punk anthems with strong messages for the masses. Cover: Bad Religion",
-  "num_followers": 708,
+  "num_followers": 828,
   "original_name": "Political Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMGViYjkwMmE3MjJlNjQ5MjFlYTc1OGIzZjEwNzlhZGVj",
+  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMDVkM2EyYjVmYzBkNzNhY2E3YTQ0YTJlN2VhZGEwYTc2",
   "tracks": [
     {
       "added_at": "2021-01-16 16:36:48",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 196849,
-      "name": "Don't Wait (ft. Sam Carter)",
-      "url": "https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Leaders of Tomorrow",
         "url": "https://open.spotify.com/album/0RxeLsWafPCah0PuBIH2w1"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 236866,
       "name": "Leaders of Tomorrow",
       "url": "https://open.spotify.com/track/0E5EcB6lR9ku0RkBEKmkR7"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 196849,
+      "name": "Don't Wait (ft. Sam Carter)",
+      "url": "https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "BITE BACK",
-        "url": "https://open.spotify.com/album/67cm6fgju3tVa579TNHXmy"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 190657,
-      "name": "BITE BACK",
-      "url": "https://open.spotify.com/track/1oBFfQhQ94n8dNhL3yb9bd"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/2PNMwU8deGSm3ZylzdOcZQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 172400,
       "name": "Womanarchist",
       "url": "https://open.spotify.com/track/2jA9qJfG1LXe54izORPfRn"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "BITE BACK",
+        "url": "https://open.spotify.com/album/67cm6fgju3tVa579TNHXmy"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 190657,
+      "name": "BITE BACK",
+      "url": "https://open.spotify.com/track/1oBFfQhQ94n8dNhL3yb9bd"
     },
     {
       "added_at": "2021-01-16 16:36:48",

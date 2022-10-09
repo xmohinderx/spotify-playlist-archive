@@ -6086,6 +6086,24 @@
     },
     {
       "album": {
+        "name": "H. P. Lovecraft II",
+        "url": "https://open.spotify.com/album/0O0jxEVJruecYXTCQ8tNNj"
+      },
+      "artists": [
+        {
+          "name": "H.P. Lovecraft",
+          "url": "https://open.spotify.com/artist/6VF7eMgoQIHyufTkib3Fff"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Mobius Trip",
+      "url": "https://open.spotify.com/track/1bgTHTsCYkQVzZEJUks8la"
+    },
+    {
+      "album": {
         "name": "Momentary Bliss (feat. slowthai and Slaves)",
         "url": "https://open.spotify.com/album/1QwJwcvJ9wiYfGxwk6YZOy"
       },

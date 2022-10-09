@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-405 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+406 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [Stonewashed](https://open.spotify.com/track/4oNl3gzuiaoccrFeaDukbK) | [Snaer.](https://open.spotify.com/artist/04piGA2IDgIevAiRL90Gt6) | [Stonewashed](https://open.spotify.com/album/2CkpGc9yBbpuMk3WcVyfty) | 1:59 | 2020-11-06 | 2022-07-29 |
 | [Stop Motion](https://open.spotify.com/track/0Fh9eOB0qK5VksmgknnYWG) | [Lunchmoney](https://open.spotify.com/artist/7JD72qpbmGSp9M0uCLOa3D) | [Stop Motion](https://open.spotify.com/album/03UwhHfpXog0An055P3mSp) | 1:45 | 2020-01-14 | 2021-10-13 |
 | [Summer](https://open.spotify.com/track/3I5wS79HgXwg91FSI4XeE8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/3zaR1622H1nFZbyLrIWfSZ) | 2:50 | 2022-08-25 | 2022-08-27 |
-| [Summer](https://open.spotify.com/track/5MiOE2c54a1YLuQ23ClpKv) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/5DFxKYeiJlGGx3zCbX3ocT) | 2:50 | 2022-08-25 |  |
+| [Summer](https://open.spotify.com/track/5MiOE2c54a1YLuQ23ClpKv) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/5DFxKYeiJlGGx3zCbX3ocT) | 2:50 | 2022-08-25 | 2022-10-09 |
 | [Summer Awaits](https://open.spotify.com/track/4agJMCUURmHv1aOZtQdO6m) | [sad boy with a laptop](https://open.spotify.com/artist/55ZGP7wiI7sIfU36CTeBzT), [neeks](https://open.spotify.com/artist/01wJR8orhmzSLT8rO8rM5N) | [Summer Awaits](https://open.spotify.com/album/48lzKgiaAOPe9JQFgSjs1r) | 3:24 | 2019-05-26\* | 2019-06-15 |
 | [Summer Morn](https://open.spotify.com/track/49JWJhkmD7pMIWQzgdAosk) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Summer Morn](https://open.spotify.com/album/0v3QRpAjXCkiKco1MRZOwr) | 3:36 | 2022-07-21 | 2022-07-29 |
 | [Sunday Afternoon](https://open.spotify.com/track/2zdlHufpRwuVnyTTolms55) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/49duPTHJJzvzXch9KUQhtU) | 1:30 | 2019-05-26\* | 2020-06-19 |
@@ -381,7 +381,7 @@
 | [Two Colours](https://open.spotify.com/track/5p39ZChrnnpFDnhlv5OT7w) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Two Colours](https://open.spotify.com/album/7zl7DRsfq3JYpHvOi2y2lB) | 2:01 | 2020-06-19 | 2021-09-10 |
 | [UH OH](https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UH OH](https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB) | 1:50 | 2019-06-14 |  |
 | [Umlati](https://open.spotify.com/track/5PWV0tcxhQFZjEsN1UBKCf) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Umlati](https://open.spotify.com/album/4JBsCt61aaOkSIykAb0idJ) | 2:12 | 2020-06-19 | 2021-10-29 |
-| [Undercurrent](https://open.spotify.com/track/2TC8zSdhsE7Rd5SmVTRFwd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Undercurrent](https://open.spotify.com/album/4MJ3GzvCQ78ky7ghnhkjzv) | 2:07 | 2021-10-30 | 2022-10-06 |
+| [Undercurrent](https://open.spotify.com/track/2TC8zSdhsE7Rd5SmVTRFwd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Undercurrent](https://open.spotify.com/album/4MJ3GzvCQ78ky7ghnhkjzv) | 2:07 | 2021-10-30 |  |
 | [Up Above](https://open.spotify.com/track/3BqFQOk4Q6v3jyPb9QHMnI) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Up Above](https://open.spotify.com/album/5ZX23RGeCe2Flmss5Or3wG) | 2:34 | 2020-08-30 | 2021-10-29 |
 | [Verano](https://open.spotify.com/track/68eEbyrrYDI1SPbxfz84zw) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Verano](https://open.spotify.com/album/7KpIEV7DObQhVHsvBgI3aX) | 1:50 | 2020-06-19 | 2021-10-29 |
 | [Viva la Vida](https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Life in the Wild Garden](https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb) | 1:35 | 2019-07-26 | 2022-05-01 |
@@ -389,8 +389,9 @@
 | [Wake Up](https://open.spotify.com/track/7d4R7B6FWSiXFTD7p6REdx) | [Wenzel](https://open.spotify.com/artist/1tQmb1kAHc5lpCA5Pdl7Pz) | [Wake Up](https://open.spotify.com/album/0k043wif6WPtTIbfO0zMX7) | 1:21 | 2019-05-26\* | 2019-06-15 |
 | [Warmer Together](https://open.spotify.com/track/1PFBZIQJ5ETnT0f1zTSPQs) | [lisnn](https://open.spotify.com/artist/1REa8kI2N4Jp9xZJ9wHFdd), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warmer Together](https://open.spotify.com/album/5H601bXKqXGE6LpnIZwkne) | 2:37 | 2020-06-19 | 2022-04-19 |
 | [Warmer Together](https://open.spotify.com/track/610xaw9Y51TEforwMGyTKK) | [lisnn](https://open.spotify.com/artist/1REa8kI2N4Jp9xZJ9wHFdd), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warmer Together](https://open.spotify.com/album/6NDSwfpx4J4bZfFi27L9JB) | 2:37 | 2022-08-25 | 2022-09-26 |
-| [Watermelon](https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Watermelon](https://open.spotify.com/album/1mt3jX9uZ0t7o6hWzeQBko) | 2:24 | 2022-07-28 |  |
+| [Watermelon](https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Watermelon](https://open.spotify.com/album/1mt3jX9uZ0t7o6hWzeQBko) | 2:24 | 2022-07-28 | 2022-10-09 |
 | [Watermelon](https://open.spotify.com/track/4hVHvx9vDKwAb4qcRQeC5a) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Watermelon](https://open.spotify.com/album/5xxJeAuwkfzO0XylnLM02T) | 2:24 | 2022-07-21 | 2022-07-29 |
+| [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 | 2022-09-22 |  |
 | [waves](https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Dimensions](https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw) | 2:15 | 2022-07-28 |  |
 | [waves](https://open.spotify.com/track/6q2NEUEnYegM5CWzcARRiY) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [waves / mundos](https://open.spotify.com/album/48v9odT1JNZA20GVEVzW2k) | 2:15 | 2020-08-30 | 2022-07-29 |
 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-07-28 |  |

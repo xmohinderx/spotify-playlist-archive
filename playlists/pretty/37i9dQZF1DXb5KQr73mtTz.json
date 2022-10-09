@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 5950,
+  "num_followers": 5996,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODc2OCwwMDAwMDAwMDc5ZDY3ZmRmMzg3YzJjNDkxNmM1ZWM5YmQ5ZmIxMDgz",
+  "snapshot_id": "MTY2NTExODc2OCwwMDAwMDAwMGY3ODEyMjc2NWVhMzk4YjQxMzYwYTk2Y2ZiMGM3OTVm",
   "tracks": [
     {
       "added_at": "2022-10-04 14:56:25",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
     },
     {
+      "added_at": "2022-10-09 20:21:20",
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 219746,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
+    },
+    {
       "added_at": "2022-10-04 14:56:25",
       "album": {
         "name": "If You Wish Upon Me OST Part.1",
@@ -341,22 +357,6 @@
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
-      "added_at": "2022-10-08 01:45:32",
-      "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
-    },
-    {
       "added_at": "2022-10-04 14:56:25",
       "album": {
         "name": "Palette",
@@ -375,18 +375,18 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
         }
       ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
         "name": "SOLISTA Part.2",
         "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 251689,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
-        "name": "My Liberation Notes OST Part 11",
-        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 259056,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "Memory of You",
-        "url": "https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV"
-      },
-      "artists": [
-        {
-          "name": "\uaddc\ub9ac",
-          "url": "https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Memory of You",
-      "url": "https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
         "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
         "url": "https://open.spotify.com/album/3I3bk770MRm5PJCL8BONKz"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 200974,
       "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
       "url": "https://open.spotify.com/track/04N4Wfxd7nB3dLV2amKdc0"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "Memory of You",
+        "url": "https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV"
+      },
+      "artists": [
+        {
+          "name": "\uaddc\ub9ac",
+          "url": "https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Memory of You",
+      "url": "https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1"
     },
     {
       "added_at": "2022-10-04 14:56:25",

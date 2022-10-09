@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-170 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/7tEIBkzo4kHvFj89vdjHtz)
+171 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/7tEIBkzo4kHvFj89vdjHtz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Better Than Gold \- Live](https://open.spotify.com/track/75rKtYA2EhYSfVHty8C50Z) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Better Than Gold \(Live\)](https://open.spotify.com/album/65sHTY5qAGfbLLYQBZ9dep) | 4:00 | 2021-12-02 | 2022-07-29 |
 | [Big Bad Good](https://open.spotify.com/track/3KmLD1pdsVYGBO56FckkgJ) | [My Bubba](https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d) | [Big Bad Good](https://open.spotify.com/album/38N3wbSL5ERtnegxWGIzvu) | 3:41 | 2021-12-02 | 2022-07-27 |
 | [Birthday](https://open.spotify.com/track/2yhPIn9HwI88aw4H7ZFrw0) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Birthday](https://open.spotify.com/album/1Glahl7MCjz4HFgurt3GCP) | 4:07 | 2022-06-09 | 2022-07-29 |
-| [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 | 2022-07-14 |  |
+| [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 | 2022-07-14 | 2022-10-09 |
 | [Bluebelle mountain](https://open.spotify.com/track/7dCjkIv4HK8V8QxfTVQWCa) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right pt\. II](https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK) | 3:20 | 2021-12-02 | 2022-07-29 |
 | [Boy from the North](https://open.spotify.com/track/517ubeor9CZCN27nif3Bev) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 4:44 | 2021-12-02 | 2022-07-29 |
 | [Bright Lights](https://open.spotify.com/track/2HbDSISON7nWNdnUhaRPDA) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [Love EP](https://open.spotify.com/album/483bq5roSleMjKuPlIxEcp) | 3:19 | 2021-12-02 | 2022-07-28 |
@@ -167,6 +167,7 @@
 | [While I Was Asleep](https://open.spotify.com/track/5nm9UGGtlz9oguC4sHFcdn) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/5R7mene0tcfZatcJGwSgeh) | 3:27 | 2021-12-02 | 2022-07-17 |
 | [Why Fall Asleep, When You Can Fall in Love?](https://open.spotify.com/track/2BJistpeWs0hLtCfAgTqeZ) | [Embla and the Karidotters](https://open.spotify.com/artist/1n3qjPEPKXcQjHVwlfcagR) | [Why Fall Asleep, When You Can Fall in Love?](https://open.spotify.com/album/1hAYAyoKGVinR7S1ETybdu) | 2:57 | 2022-02-17 | 2022-07-29 |
 | [Wild Dreams](https://open.spotify.com/track/63aqcGJGsqwa0e1jFazRcy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Wild Dreams](https://open.spotify.com/album/2UeNGwnXHPQEdouzwRUMZ5) | 4:01 | 2022-09-08 | 2022-09-27 |
+| [Wings of Good Fortune](https://open.spotify.com/track/3Yqw90nc4zZJnyAMdqE7Hu) | [Tommy Tokyo](https://open.spotify.com/artist/5s3vQbwoPdhIvMffVJbOya) | [Tommy Tokyo](https://open.spotify.com/album/0tUMc8Y4q7K0k496h3Cmyk) | 3:36 | 2022-10-06 |  |
 | [Winter never lasts forever](https://open.spotify.com/track/7ML21Jv5juLeEX1L1OUGsu) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right pt\. II](https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK) | 3:46 | 2021-12-02 | 2022-07-29 |
 | [With Tomorrow/I'm On Fire](https://open.spotify.com/track/4fcQm79lQN2GJHRYq75sSO) | [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5) | [Ólöf Sings \- EP](https://open.spotify.com/album/36k7RNKHKNGJyOnEI2C6ZU) | 4:17 | 2021-12-02 | 2022-06-08 |
 | [Wolf](https://open.spotify.com/track/05daxiDLRI9gEy8xmtvgpv) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/6UndV62df5KRebmj3zyn53) | 3:40 | 2022-07-14 |  |

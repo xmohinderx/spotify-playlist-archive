@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,406 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,557 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 50 | [I Feel Fine](https://open.spotify.com/track/265bwW6oJeDfm04EPElVQv) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [I Feel Fine](https://open.spotify.com/album/32fuBZ59NFOdFcjAC9m6A7) | 3:18 |
 | 51 | [High Tide](https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Dream Dimension](https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ) | 3:40 |
 | 52 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 |
-| 53 | [Sun Is Shining](https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sun Is Shining](https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK) | 3:05 |
-| 54 | [Ani Kuni \- Edit](https://open.spotify.com/track/6BhwbBtaXivvPHmHCZmxkT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ani Kuni](https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA) | 2:49 |
+| 53 | [Ani Kuni \- Edit](https://open.spotify.com/track/6BhwbBtaXivvPHmHCZmxkT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ani Kuni](https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA) | 2:49 |
+| 54 | [Sun Is Shining](https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sun Is Shining](https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK) | 3:05 |
 | 55 | [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 |
-| 56 | [Still Love You](https://open.spotify.com/track/057SolKingTw6AEgBL7q9r) | [JAS1X](https://open.spotify.com/artist/1gE67JBAV50qI94fX4nz3F), [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Still Love You](https://open.spotify.com/album/5Q80IrelKfhPp0z63gXfV0) | 3:15 |
-| 57 | [Last Train Home](https://open.spotify.com/track/7dKYUSJXp0FWmEyon1Iwxr) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [Sønlille](https://open.spotify.com/artist/1vyEXTgG15rVyYkb9LyegZ) | [Last Train Home](https://open.spotify.com/album/3oVtkHPjBWhnPSCSOJQZ4J) | 1:59 |
-| 58 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 |
-| 59 | [Rooftop in Amsterdam](https://open.spotify.com/track/4n2YcXCH9G4TeCzAGyHWzw) | [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Rooftop in Amsterdam](https://open.spotify.com/album/6WJP5GynkcMG3RRuOxn9KI) | 3:01 |
-| 60 | [Money Trees](https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Money Trees](https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP) | 2:46 |
+| 56 | [Last Train Home](https://open.spotify.com/track/7dKYUSJXp0FWmEyon1Iwxr) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [Sønlille](https://open.spotify.com/artist/1vyEXTgG15rVyYkb9LyegZ) | [Last Train Home](https://open.spotify.com/album/3oVtkHPjBWhnPSCSOJQZ4J) | 1:59 |
+| 57 | [Still Love You](https://open.spotify.com/track/057SolKingTw6AEgBL7q9r) | [JAS1X](https://open.spotify.com/artist/1gE67JBAV50qI94fX4nz3F), [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Still Love You](https://open.spotify.com/album/5Q80IrelKfhPp0z63gXfV0) | 3:15 |
+| 58 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 |
+| 59 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 |
+| 60 | [Rooftop in Amsterdam](https://open.spotify.com/track/4n2YcXCH9G4TeCzAGyHWzw) | [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Rooftop in Amsterdam](https://open.spotify.com/album/6WJP5GynkcMG3RRuOxn9KI) | 3:01 |
 
-Snapshot ID: `MTY2NDUzOTc5NSwwMDAwMDAwMDE2M2E0MjdmM2ZlYjc1MTNhMzJiZWE0ZjRiZDcxNGI5`
+Snapshot ID: `MTY2NDUzOTc5NSwwMDAwMDAwMGFhMDMzODQ3MjVjYzgxNWYyNjIwMjY1NTUzZmM2NTg4`

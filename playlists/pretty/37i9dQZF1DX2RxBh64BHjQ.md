@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,684,969 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,685,418 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 80 | [Wake Em Up](https://open.spotify.com/track/6XSLGhEmnLuWX613nRAaB3) | [HDBeenDope](https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O) | [Wake Em Up](https://open.spotify.com/album/7yE0AMxD0Q9dkYTQ0YESOi) | 2:01 |
 | 81 | [Blessed](https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Blessed](https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v) | 3:36 |
 | 82 | [DELIVER!](https://open.spotify.com/track/6jhTj4vy4vD7n5EIFbuqJv) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DELIVER!](https://open.spotify.com/album/2qHsiqMMKZAHysnRzYfmOn) | 1:49 |
-| 83 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
+| 83 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
 | 84 | [No Mind](https://open.spotify.com/track/2g7RAqIAWvejbBMiv0qYHj) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [No Mind](https://open.spotify.com/album/7whE3mVgEdIUitoZZgc7A2) | 2:41 |
 | 85 | [Dawg House](https://open.spotify.com/track/4OWhcwHOnB7ZLGJI0Fo4oN) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Dawg House](https://open.spotify.com/album/1sjsLTzS0WxitdFmqvPpUW) | 1:46 |
 | 86 | [LECTRIC SLIDE](https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/6Z6nRjRrfbP1RwzI730m7i) | 2:32 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 89 | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/track/7LkIkjlWgXYIHgWW0DHsSg) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/album/02a5YA3rWMRQz1ZqWZ19BA) | 2:38 |
 | 90 | [Rose Gold](https://open.spotify.com/track/4Ofru8kVe0zKxqgPm9kiz6) | [Yung Lano](https://open.spotify.com/artist/6jw19hyVfgwhycR82NxzFm), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Rose Gold](https://open.spotify.com/album/1aW3XKr7BIeXDkV9hXSV0x) | 3:12 |
 | 91 | [Goofies](https://open.spotify.com/track/3FezjYem6xSGZebgNwifku) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Goofies](https://open.spotify.com/album/3sLilviTzQ2IccVFEHIOog) | 2:49 |
-| 92 | [Who You Touch](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
+| 92 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
 | 93 | [Blick Talk \(with PGF Nuk\)](https://open.spotify.com/track/6zoaB04jczoxsgImwPBiXp) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Cold Case](https://open.spotify.com/album/0nSDLlBLuu5M6CIckq4Be9) | 3:56 |
 | 94 | [How TF \(with SleazyWorld Go\)](https://open.spotify.com/track/3iBv2gYJk2SJJbuEGnvlLm) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [How TF](https://open.spotify.com/album/7uFrgDWyKZZb4KHYORcqQt) | 3:02 |
 | 95 | [Savages](https://open.spotify.com/track/4T7SSgpvgt0BfQz73sjAvM) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [The Golden Child](https://open.spotify.com/album/5JtuaEXZo0QZ2scZGo7QVn) | 2:34 |

@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: MikeZup
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,170 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,191 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Monkey See Monkey Do](https://open.spotify.com/track/1nkSM3aKotsIwOgafMpQqQ) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Monkey See Monkey Do](https://open.spotify.com/album/2XHD8IJglSeKL203sKOFkR) | 3:18 |
-| 2 | [Cercle Vicieux](https://open.spotify.com/track/2Wsp91MjyvE6fypPKmW3U4) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Cercle Vicieux](https://open.spotify.com/album/4uKG6vs1F0Y84CZOyP2CZm) | 3:42 |
-| 3 | [CAMÉLÉON](https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [CAMÉLÉON](https://open.spotify.com/album/1wC9LZFmdvqfeqFtKOOcYE) | 3:23 |
-| 4 | [Il était une fois](https://open.spotify.com/track/3uLZL8cZl2Hr1lal1Cet3D) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Il était une fois](https://open.spotify.com/album/2viKHkCMddUIbdI4EWbbTd) | 4:05 |
-| 5 | [CREED](https://open.spotify.com/track/4VHJDnAK9d9XjhIHuGjib6) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:02 |
+| 2 | [CREED](https://open.spotify.com/track/4VHJDnAK9d9XjhIHuGjib6) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:02 |
+| 3 | [Cercle Vicieux](https://open.spotify.com/track/2Wsp91MjyvE6fypPKmW3U4) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Cercle Vicieux](https://open.spotify.com/album/4uKG6vs1F0Y84CZOyP2CZm) | 3:42 |
+| 4 | [CAMÉLÉON](https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [CAMÉLÉON](https://open.spotify.com/album/1wC9LZFmdvqfeqFtKOOcYE) | 3:23 |
+| 5 | [Il était une fois](https://open.spotify.com/track/3uLZL8cZl2Hr1lal1Cet3D) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Il était une fois](https://open.spotify.com/album/2viKHkCMddUIbdI4EWbbTd) | 4:05 |
 | 6 | [Murciélago](https://open.spotify.com/track/4XZyPSlpUW0HrpYOcFJFZX) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Murciélago](https://open.spotify.com/album/2my4wNL1hk75yFIJgVljIl) | 2:53 |
 | 7 | [Black Card](https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Black Card](https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc) | 3:46 |
 | 8 | [Le passé nous le dira](https://open.spotify.com/track/5PSa5UlautRrllU20C9jY4) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Le passé nous le dira](https://open.spotify.com/album/5Qdzs8SPjcZBxMFTDsFXSt) | 3:14 |
 | 9 | [Andale](https://open.spotify.com/track/1bOqJaCP7MMxJJ2oGRX0jS) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Andale](https://open.spotify.com/album/3ADUouvgyG92CLvC8rzua5) | 2:46 |
 | 10 | [Love d'un voyou](https://open.spotify.com/track/5AxnOc77Zl6gA4UQWqhFVA) | [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Love d'un voyou](https://open.spotify.com/album/6ehJBKCLlIMQrBpT6hwbP9) | 2:44 |
 | 11 | [Évaporé](https://open.spotify.com/track/32XFaa4LwJrdI7R4Z8dDZD) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Évaporé](https://open.spotify.com/album/3o3N3TegvhjoTfZmsTxnZo) | 3:16 |
-| 12 | [Sans trembler](https://open.spotify.com/track/3HEdgzJeMkuX2MdVGqPRNK) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sans trembler](https://open.spotify.com/album/0PEec1NvTPyeSEhP5hchWn) | 3:10 |
-| 13 | [Trainer tard](https://open.spotify.com/track/2kieEyGYWHYXSOwyowayyU) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Trainer tard](https://open.spotify.com/album/7qgF8fV0CugusfofBOZGOq) | 2:36 |
-| 14 | [FOCUS](https://open.spotify.com/track/5pW2FIBTAEWwq1S7Mf37dM) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:08 |
-| 15 | [Dandan](https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dandan](https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL) | 3:17 |
-| 16 | [3.5](https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Je Suis Canicule](https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn) | 3:44 |
+| 12 | [3.5](https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Je Suis Canicule](https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn) | 3:44 |
+| 13 | [Sans trembler](https://open.spotify.com/track/3HEdgzJeMkuX2MdVGqPRNK) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sans trembler](https://open.spotify.com/album/0PEec1NvTPyeSEhP5hchWn) | 3:10 |
+| 14 | [Trainer tard](https://open.spotify.com/track/2kieEyGYWHYXSOwyowayyU) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Trainer tard](https://open.spotify.com/album/7qgF8fV0CugusfofBOZGOq) | 2:36 |
+| 15 | [FOCUS](https://open.spotify.com/track/5pW2FIBTAEWwq1S7Mf37dM) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:08 |
+| 16 | [Dandan](https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dandan](https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL) | 3:17 |
 | 17 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 |
 | 18 | [Dans Mon Prime](https://open.spotify.com/track/0KfUo1t8ua38q9PNKEwRId) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8) | [Dans Mon Prime](https://open.spotify.com/album/4NiIcLGYk7ej0l1M2eKEEI) | 2:22 |
 | 19 | [Jacuzzi](https://open.spotify.com/track/7w1RLxc7gA8EBcRsWgSOUu) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Jacuzzi](https://open.spotify.com/album/4VR3RBzYwMY1WnpiUsfaWt) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [King\-V](https://open.spotify.com/track/1QgzTqitUmu9j6mnSS2C0t) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh) | [King\-V](https://open.spotify.com/album/11XbARlvVaV8ujs9BsGnhY) | 2:23 |
 | 75 | [Sans horaire](https://open.spotify.com/track/4xVQsPA32CgHu2v1fZbcTA) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy) | [Sans horaire](https://open.spotify.com/album/2WOwDw0iT1rkI4VM4l1Y3l) | 3:21 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDQxMGVlZWYyY2MyM2ZjNTE1MjljOTNmNzUzMmVkNjAw`
+Snapshot ID: `MTY2NTI0NjMzMSwwMDAwMDAwMGQ0YjI3ZWViMmMyNWI2OGNkYzI5Zjc4MzM0MTE2ODI3`

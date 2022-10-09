@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: KONGTHAP PEAK \(กองทัพ พีค\)\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,331 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,355 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 25 | [GONE WRONG](https://open.spotify.com/track/0fMUKWa2f8k08C63fvgTS0) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [GONE WRONG](https://open.spotify.com/album/31ipuIIvVmKmatUi1toIPc) | 3:51 |
 | 26 | [อีมอญ ซ่อนรัก](https://open.spotify.com/track/35fQbt7OgBlNRwI0ceR4xS) | [Whyya](https://open.spotify.com/artist/6LaW2IcOcu8AmpTWZkYKIo) | [อีมอญ ซ่อนรัก](https://open.spotify.com/album/0CHQnBXfywD2YEqDMN68mF) | 3:06 |
 | 27 | [รับรักที \(Say Yes\)](https://open.spotify.com/track/53yviWwlIJIEPUdArJnk5G) | [BOWPRAT](https://open.spotify.com/artist/40Yyk6kXQ8WtJ3RFp7qDaB) | [รับรักที \(Say Yes\)](https://open.spotify.com/album/4Axr0kZYMIdXwMqkoLFQw6) | 3:55 |
-| 28 | [Feelz](https://open.spotify.com/track/1MIYVXnc8uQU0ljQOuZoTN) | [PENNY](https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq) | [Feelz](https://open.spotify.com/album/26un47WjFb2zvRdGZNMYW2) | 2:50 |
+| 28 | [Feelz](https://open.spotify.com/track/1MIYVXnc8uQU0ljQOuZoTN) | [PENNY](https://open.spotify.com/artist/6mSWVj4UUz57gPQsTN426N) | [Feelz](https://open.spotify.com/album/26un47WjFb2zvRdGZNMYW2) | 2:50 |
 | 29 | [ใจป๋ม \- You cut my heart cuz you don't care my hair](https://open.spotify.com/track/0SwPGg24r6JbBIMJuJI66s) | [KiRANA](https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC) | [ใจป๋ม \(You cut my heart cuz you don't care my hair\)](https://open.spotify.com/album/3JouJ5dqQEbzJH7pQ4Iffj) | 3:38 |
 | 30 | [เธอบอกฉันดีเกินไป](https://open.spotify.com/track/6O27RzH9RDLHlt12ijPkH0) | [EDDIE WALKiNG MAN](https://open.spotify.com/artist/0S5HXbCOxt8uv9waux7cmM) | [เธอบอกฉันดีเกินไป](https://open.spotify.com/album/6q8h8XjMz7aUCb68esXgGh) | 4:28 |
 | 31 | [ยังไม่มีคำตอบสำหรับเรื่องนี้](https://open.spotify.com/track/5GpbZoZk0MgkyBFEClIISi) | [SURFF](https://open.spotify.com/artist/0LJ6cw64d0z2B5oHIlaAt2) | [ยังไม่มีคำตอบสำหรับเรื่องนี้](https://open.spotify.com/album/4Bx677XmLQcn4B67GakgWI) | 5:00 |

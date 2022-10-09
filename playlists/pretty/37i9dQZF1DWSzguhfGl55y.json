@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 575282,
+  "num_followers": 575482,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMGNiZWExYmYwMWE3OTFhOWVkNjM5YTM5N2RiMzY3NjM2",
+  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMDgwZWNiN2MwNzEyMGNmMmViOGE4OGRjNzA4ZTA0NWQ3",
   "tracks": [
     {
       "added_at": "2022-09-21 12:36:50",
@@ -135,6 +135,22 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
+        "name": "Die John Bello Story, Vol. 3",
+        "url": "https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Rhythmus meines Lebens",
+      "url": "https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
         "name": "Am Wasser gebaut",
         "url": "https://open.spotify.com/album/0BfeBLEou8XkxOoXC7Q9fi"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 241666,
       "name": "An Tagen wie diesen",
       "url": "https://open.spotify.com/track/7jcxm0Ooi09u1LySzkBqm0"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
-        "name": "Die John Bello Story, Vol. 3",
-        "url": "https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Rhythmus meines Lebens",
-      "url": "https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM"
     },
     {
       "added_at": "2022-09-21 12:36:50",
@@ -215,22 +215,6 @@
       "duration_ms": 225693,
       "name": "Ein Affe und ein Pferd",
       "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/5MQigvNGbzeIAOAq1EOwYy"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR"
     },
     {
       "added_at": "2022-09-21 12:36:50",
@@ -291,6 +275,26 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
+        "name": "Heavy Metal Payback",
+        "url": "https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Karel Gott",
+          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+        }
+      ],
+      "duration_ms": 270426,
+      "name": "F\u00fcr immer jung",
+      "url": "https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
         "name": "Urlaub f\u00fcrs Gehirn",
         "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
       },
@@ -323,22 +327,18 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
-        "name": "Heavy Metal Payback",
-        "url": "https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz"
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/5MQigvNGbzeIAOAq1EOwYy"
       },
       "artists": [
         {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Karel Gott",
-          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
         }
       ],
-      "duration_ms": 270426,
-      "name": "F\u00fcr immer jung",
-      "url": "https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0"
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR"
     },
     {
       "added_at": "2022-09-21 12:36:50",

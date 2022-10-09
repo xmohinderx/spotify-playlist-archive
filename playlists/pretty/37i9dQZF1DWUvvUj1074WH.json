@@ -1,12 +1,12 @@
 {
   "description": "Himnos de estadio para acompa\u00f1ar una tarde de deportes.",
-  "num_followers": 27037,
+  "num_followers": 27102,
   "original_name": "Alitas & Chelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDc5MDE1NSwwMDAwMDAwMDA0MTJmMzg0MzZiNTEwYWZmZjlkNDZlZmQzMTM2YWM3",
+  "snapshot_id": "MTY0NDc5MDE1NSwwMDAwMDAwMGViNmZiNDZlMGQyOGQ5NDQ2ZjI3MjRjZmYxODJiOTFj",
   "tracks": [
     {
       "added_at": "2022-02-13 22:09:15",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-01-28 19:46:37",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 331560,
-      "name": "Enter Sandman (Remastered)",
-      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
-    },
-    {
-      "added_at": "2022-01-28 19:46:37",
-      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
+    },
+    {
+      "added_at": "2022-01-28 19:46:37",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 331560,
+      "name": "Enter Sandman (Remastered)",
+      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
     },
     {
       "added_at": "2022-01-28 19:46:37",

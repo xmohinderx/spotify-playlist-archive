@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49569,
+  "num_followers": 49578,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDNhYmE4NTE3YTc0NzMyZGVmZjZmZGU3MTg1M2NmY2Vk",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDZlMGE5NThhOTc3N2MzN2I4YjlkYmJiMDQ5MjQ1ZjRk",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Akimbo Alogo",
-        "url": "https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO"
-      },
-      "artists": [
-        {
-          "name": "Kim Mitchell",
-          "url": "https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Go For Soda",
-      "url": "https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Seasons In The Sun (Expanded Edition)",
         "url": "https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 255893,
       "name": "Insensitive",
       "url": "https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Akimbo Alogo",
+        "url": "https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO"
+      },
+      "artists": [
+        {
+          "name": "Kim Mitchell",
+          "url": "https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Go For Soda",
+      "url": "https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Waiting For A Miracle",
-        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
-      },
-      "artists": [
-        {
-          "name": "Bruce Cockburn",
-          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Wondering Where The Lions Are",
-      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "I'm Your Man",
         "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
       },
@@ -763,34 +747,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Boy In The Box",
-        "url": "https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN"
+        "name": "Waiting For A Miracle",
+        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
       },
       "artists": [
         {
-          "name": "Corey Hart",
-          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
         }
       ],
-      "duration_ms": 295000,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Up To Here",
-        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "New Orleans Is Sinking",
-      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
+      "duration_ms": 223826,
+      "name": "Wondering Where The Lions Are",
+      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -811,18 +779,50 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Honeymoon Suite",
-        "url": "https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n"
+        "name": "Up To Here",
+        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
       },
       "artists": [
         {
-          "name": "Honeymoon Suite",
-          "url": "https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q"
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
         }
       ],
-      "duration_ms": 216693,
-      "name": "New Girl Now",
-      "url": "https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan"
+      "duration_ms": 257440,
+      "name": "New Orleans Is Sinking",
+      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Boy In The Box",
+        "url": "https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN"
+      },
+      "artists": [
+        {
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+        }
+      ],
+      "duration_ms": 295000,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 305413,
+      "name": "Comin' Home",
+      "url": "https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
+        "name": "Honeymoon Suite",
+        "url": "https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n"
       },
       "artists": [
         {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+          "name": "Honeymoon Suite",
+          "url": "https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q"
         }
       ],
-      "duration_ms": 305413,
-      "name": "Comin' Home",
-      "url": "https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7"
+      "duration_ms": 216693,
+      "name": "New Girl Now",
+      "url": "https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "A Tribe Called Red",
-        "url": "https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ"
-      },
-      "artists": [
-        {
-          "name": "The Halluci Nation",
-          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
-        }
-      ],
-      "duration_ms": 219853,
-      "name": "Electric Pow Wow Drum",
-      "url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "The State",
         "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "A Tribe Called Red",
+        "url": "https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ"
+      },
+      "artists": [
+        {
+          "name": "The Halluci Nation",
+          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+        }
+      ],
+      "duration_ms": 219853,
+      "name": "Electric Pow Wow Drum",
+      "url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "How Far Shallow Takes You",
         "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 196106,
       "name": "Paint It Black",
       "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "American Woman",
-        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
-      },
-      "artists": [
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1031,6 +1015,22 @@
       "duration_ms": 235560,
       "name": "Just Between You And Me",
       "url": "https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "American Woman",
+        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
     },
     {
       "added_at": "2022-09-13 21:55:44",

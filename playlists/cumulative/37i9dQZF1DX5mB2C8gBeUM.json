@@ -2372,6 +2372,24 @@
     },
     {
       "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180136,
+      "name": "Hold My Horses",
+      "url": "https://open.spotify.com/track/2b42Ji4pWoTYnh0nxjnASa"
+    },
+    {
+      "album": {
         "name": "Madeline Edwards",
         "url": "https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd"
       },
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 180136,
       "name": "Hold My Horses",
       "url": "https://open.spotify.com/track/5pwDpOxc2zs0XbgZJ0CyRn"
@@ -5211,13 +5229,17 @@
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Garzon",
+          "url": "https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf"
         }
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189159,
-      "name": "Why Can't Love Be The Reason",
+      "name": "Why Can't Love Be The Reason (feat. Garzon)",
       "url": "https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9"
     },
     {

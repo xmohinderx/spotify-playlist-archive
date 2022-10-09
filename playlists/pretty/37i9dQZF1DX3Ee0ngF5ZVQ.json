@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Corey Kent",
-  "num_followers": 386634,
+  "num_followers": 386794,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDkyOTlkYzMzMTUxY2IwMTI0MTc0ODY0NjA4M2VkOGI2",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGJmM2Y2ODczZDAxMmQwNWQzZTg2ZmE1MGQzNzk4ZWYx",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "You In A Honky Tonk",
         "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 183570,
       "name": "You In A Honky Tonk",
       "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -507,18 +507,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Heaven Down Here",
-        "url": "https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg"
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE"
       },
       "artists": [
         {
-          "name": "Texas Hill",
-          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
+          "name": "Jacob Stelly",
+          "url": "https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41"
+        },
+        {
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
         }
       ],
-      "duration_ms": 215977,
-      "name": "Easy on the Eyes",
-      "url": "https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5"
+      "duration_ms": 242517,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -575,22 +579,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE"
+        "name": "Heaven Down Here",
+        "url": "https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg"
       },
       "artists": [
         {
-          "name": "Jacob Stelly",
-          "url": "https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41"
-        },
-        {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+          "name": "Texas Hill",
+          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
         }
       ],
-      "duration_ms": 242517,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs"
+      "duration_ms": 215977,
+      "name": "Easy on the Eyes",
+      "url": "https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Tell Me It Is",
-      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "But Me",
         "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Tell Me It Is",
+      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "West Texas Is The Best Texas",
         "url": "https://open.spotify.com/album/5kQXCdeqBeYd08wVaZBv75"
       },
@@ -650,6 +650,22 @@
         {
           "name": "The Panhandlers",
           "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
+        },
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        },
+        {
+          "name": "John Baumann",
+          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
         }
       ],
       "duration_ms": 223013,
@@ -875,6 +891,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Fooled Around",
         "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
       },
@@ -907,22 +939,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Anderson County",
         "url": "https://open.spotify.com/album/7qT9Yz0XXRIQBvSHAYz8FI"
       },
@@ -935,6 +951,22 @@
       "duration_ms": 187563,
       "name": "Anderson County",
       "url": "https://open.spotify.com/track/75VAQ0SRTBKzqzAZuIepN8"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "All It Cost Me Was Everything",
+        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -955,22 +987,6 @@
       "duration_ms": 293862,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "All It Cost Me Was Everything",
-        "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Boy From Anderson County",
-        "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
+        "name": "Varsity Type",
+        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
         }
       ],
-      "duration_ms": 244290,
-      "name": "Boy From Anderson County",
-      "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
+      "duration_ms": 202383,
+      "name": "Varsity Type",
+      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Varsity Type",
-        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
+        "name": "Boy From Anderson County",
+        "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 202383,
-      "name": "Varsity Type",
-      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
+      "duration_ms": 244290,
+      "name": "Boy From Anderson County",
+      "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Heart for Just One Team",
-        "url": "https://open.spotify.com/album/0BV4ruQifg3emKKeJ8rR7I"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 217839,
-      "name": "Heart for Just One Team",
-      "url": "https://open.spotify.com/track/4yVht4ghXbMAPcj3NZJRGR"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Tears the Size of Texas",
         "url": "https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 268707,
       "name": "Sick and Tired",
       "url": "https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Nothing But Love Songs",
+        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 225180,
+      "name": "Nothing But Love Songs",
+      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1547,6 +1563,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Two Left Feet",
+        "url": "https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK"
+      },
+      "artists": [
+        {
+          "name": "Cameron James Smith",
+          "url": "https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Two Left Feet",
+      "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Honky Tonk in Heaven",
         "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
       },
@@ -1559,22 +1591,6 @@
       "duration_ms": 167520,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "People Who Care",
-        "url": "https://open.spotify.com/album/2hP994b52nHVX3RCHYiuAV"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 221871,
-      "name": "People Who Care",
-      "url": "https://open.spotify.com/track/1SMZouFRcuhqr9ugQXBn6W"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1595,40 +1611,8 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
-      },
-      "artists": [
-        {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
-        }
-      ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Miles and Miles of You",
-        "url": "https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "I'm Going Home",
-      "url": "https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Nothing But Love Songs",
-        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
+        "name": "Heart for Just One Team",
+        "url": "https://open.spotify.com/album/0BV4ruQifg3emKKeJ8rR7I"
       },
       "artists": [
         {
@@ -1636,9 +1620,25 @@
           "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
         }
       ],
-      "duration_ms": 225180,
-      "name": "Nothing But Love Songs",
-      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
+      "duration_ms": 217839,
+      "name": "Heart for Just One Team",
+      "url": "https://open.spotify.com/track/4yVht4ghXbMAPcj3NZJRGR"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "People Who Care",
+        "url": "https://open.spotify.com/album/2hP994b52nHVX3RCHYiuAV"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 221871,
+      "name": "People Who Care",
+      "url": "https://open.spotify.com/track/1SMZouFRcuhqr9ugQXBn6W"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1663,18 +1663,34 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Washington Street (Classen Sessions)",
-        "url": "https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs"
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 224841,
-      "name": "Washington Street - Classen Sessions",
-      "url": "https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN"
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     }
   ],
   "unique_name": "Texas Country Now",

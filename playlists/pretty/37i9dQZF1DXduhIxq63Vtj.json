@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Achis achis los mariachis! ",
-  "num_followers": 13024,
+  "num_followers": 13079,
   "original_name": "Mariachi Loco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1NTI0MiwwMDAwMDAwMGZlODg3ZjZmZjViYzYyNmNhMDljM2MyYzFmOWNkOTcy",
+  "snapshot_id": "MTY0MzE1NTI0MiwwMDAwMDAwMGUyYTU1YWFlMjIzM2Y0N2NlMjE1OWU0Y2MzNzE5YTNk",
   "tracks": [
     {
       "added_at": "2022-01-26 00:00:42",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-01-26 00:00:42",
       "album": {
-        "name": "Lo Mejor De Rancheras",
-        "url": "https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8"
-      },
-      "artists": [
-        {
-          "name": "Luis P\u00e9rez Meza",
-          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "El Barzon",
-      "url": "https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
         "name": "Mi Gusto Es Con Tambora",
         "url": "https://open.spotify.com/album/3Zjx5IAwDDMUfYagxBP4wg"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 206657,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/59nRuCsjHNdHNrs6BMj3fR"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
+        "name": "Lo Mejor De Rancheras",
+        "url": "https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8"
+      },
+      "artists": [
+        {
+          "name": "Luis P\u00e9rez Meza",
+          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "El Barzon",
+      "url": "https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk"
     },
     {
       "added_at": "2022-01-26 00:00:42",

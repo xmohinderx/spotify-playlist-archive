@@ -4,7 +4,7 @@
 
 > La banda sonora para tus cenas en casa.
 
-164 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/6f3cqmqdYqRr7cbIDvLNPd)
+165 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/6f3cqmqdYqRr7cbIDvLNPd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Fever](https://open.spotify.com/track/6RjLQTIlyeVlnJLpijV4Vu) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Lo Mejor de la Lupe](https://open.spotify.com/album/0vyxKg0GhEOuDAuHgNuWJe) | 2:44 | 2021-01-19 | 2022-07-29 |
 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2021-01-19 |  |
 | [First Time](https://open.spotify.com/track/4zwNvRu0Shp7F4OBbFruff) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [The Way](https://open.spotify.com/album/6kLRZzu2brIRW2nIHyy6z4) | 3:21 | 2021-01-19 | 2022-07-23 |
-| [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2021-01-19 |  |
+| [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2021-01-19 | 2022-10-09 |
+| [Fly Me To The Moon \- 2008 Remastered](https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 2:27 | 2021-01-19 |  |
 | [Fui a Buscar al Sol](https://open.spotify.com/track/72q51tZkGZeN92UAHca86o) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Eclíptica](https://open.spotify.com/album/7HqkDcXBIrGdvoFXZKYDkX) | 3:07 | 2021-01-19 | 2022-07-29 |
 | [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 | 2021-01-19 |  |
 | [Ganando el Tiempo \(with Jorge Drexler\)](https://open.spotify.com/track/6vcggsPzVC9qWikamING0g) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Cantables](https://open.spotify.com/album/269SuIWx9DZ7poGQzNVbUD) | 3:50 | 2021-01-19 | 2022-07-29 |

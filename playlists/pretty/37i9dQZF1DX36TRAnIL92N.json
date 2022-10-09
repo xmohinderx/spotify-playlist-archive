@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 41031,
+  "num_followers": 41702,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMDRlYTJmYmZjZmE5OGRmMDRhYzc5MzMzYTIxYWNmMjUz",
+  "snapshot_id": "MTY2NDU0MjUxMiwwMDAwMDAwMDgwZjA4NzllMmJmYzM4N2Y2Mzk2ZTgxYjZjODFlYjA2",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -51,22 +51,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Silence EP",
-        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
-      },
-      "artists": [
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 509090,
-      "name": "Future Dust - Original Mix",
-      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Silence EP",
+        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 509090,
+      "name": "Future Dust - Original Mix",
+      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
     },
     {
-      "added_at": "2022-10-08 01:31:31",
+      "added_at": "2022-10-09 20:07:14",
       "album": {
         "name": "Lonely Traveller",
         "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
     },
     {
-      "added_at": "2022-10-08 01:31:31",
+      "added_at": "2022-10-09 20:07:14",
       "album": {
         "name": "Human Race",
         "url": "https://open.spotify.com/album/3MzWSjySATxEmYtzbJKsUD"
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "A-Sides, Vol. 6",
+        "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 393740,
+      "name": "In Silence",
+      "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 387807,
       "name": "Control - Original Mix",
       "url": "https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "A-Sides, Vol. 6",
-        "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 393740,
-      "name": "In Silence",
-      "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Huys",
-        "url": "https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK"
-      },
-      "artists": [
-        {
-          "name": "Anahit Vardanyan",
-          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
-        }
-      ],
-      "duration_ms": 440454,
-      "name": "Huys",
-      "url": "https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 390447,
       "name": "Addiction - Original Mix",
       "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Huys",
+        "url": "https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK"
+      },
+      "artists": [
+        {
+          "name": "Anahit Vardanyan",
+          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
+        }
+      ],
+      "duration_ms": 440454,
+      "name": "Huys",
+      "url": "https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM"
     },
     {
       "added_at": "2022-09-09 16:00:00",

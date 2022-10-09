@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 272200,
       "name": "Drained of Color",
       "url": "https://open.spotify.com/track/5lrKrPesGrJIX681A3wEKR"
@@ -1903,6 +1903,24 @@
       "duration_ms": 208000,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/3iRC1B4yp9fGXMrpCEsWc6"
+    },
+    {
+      "album": {
+        "name": "The Past is Alive (The Early Misschief)",
+        "url": "https://open.spotify.com/album/3S2EmM7VIO2P3TMCdTtM5I"
+      },
+      "artists": [
+        {
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208039,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/0PsZiLg0dJTSktbRT7FnHd"
     },
     {
       "album": {
@@ -4227,7 +4245,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "Serpent Sermon",
       "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
@@ -5271,7 +5289,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 318546,
       "name": "Virtus Asinaria - Prayer",
       "url": "https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh"

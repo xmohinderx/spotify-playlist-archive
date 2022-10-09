@@ -4,7 +4,7 @@
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Baby Tate
 
-200 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
+201 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,11 +82,12 @@
 | [Gloss Up Broke Boy](https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Casino Jizzle](https://open.spotify.com/artist/2QS0MtUaiAa88MigAiNev9) | [Gloss Up Broke Boy](https://open.spotify.com/album/6kxg2gokrJkrFt8acYAL0o) | 3:01 | 2022-08-05 | 2022-09-10 |
 | [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 | 2022-07-01 |  |
 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 | 2022-07-22 | 2022-09-03 |
+| [Gotsta Get Paid](https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Gotsta Get Paid](https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku) | 3:30 | 2022-10-08 |  |
 | [Gravity](https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Gravity](https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu) | 2:14 | 2022-04-15 | 2022-07-30 |
 | [GYHO](https://open.spotify.com/track/47P3w42tJWC62ESBJNl05O) | [Amber Rose](https://open.spotify.com/artist/207ytqBvodcHqwHP7Efu6w) | [GYHO](https://open.spotify.com/album/5CXb5g972fvRqwBi8wMQSm) | 2:16 | 2022-06-24 | 2022-07-30 |
 | [Hands Up \(with Monaleo\)](https://open.spotify.com/track/51Zw9bJ0i2KlGbbtlkbieR) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Hands Up \(with Monaleo\)](https://open.spotify.com/album/3Ai7fsWfL2WTv2iYo4bFJR) | 3:04 | 2022-09-02 |  |
 | [Hate to see it](https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [My Side](https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq) | 2:53 | 2022-07-22 | 2022-08-27 |
-| [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-09-10 |  |
+| [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-09-10 | 2022-10-09 |
 | [HDBG Shemix](https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Tweeday](https://open.spotify.com/artist/6X94tEGcPVz8dyYUZqUHWj) | [HDBG Shemix](https://open.spotify.com/album/6ol7utlb56Owco0kPzLhbt) | 2:21 | 2022-09-16 |  |
 | [Hello \(with Saucy Santana\)](https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Hello \(with Saucy Santana\)](https://open.spotify.com/album/5EnqzpQ9kXinG5Gs93urB9) | 2:48 | 2022-02-04 | 2022-05-28 |
 | [Hey Stranger](https://open.spotify.com/track/6KNXTW9dcRUbRH9D7uUZZW) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Winter in New York City](https://open.spotify.com/album/35kZs9bouKM60ym7EDqOoF) | 1:42 | 2022-02-04 | 2022-03-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Luis R Conriquez & Lefty SM en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,446 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,598 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 69 | [El Rey \- Versión Rap](https://open.spotify.com/track/2B78AMm67z4kcwpN6IT0mj) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Rey \(Versión Rap\)](https://open.spotify.com/album/2JGv6KVIAmy4ZWQV6gnm4e) | 2:35 |
 | 70 | [Se Siente Fuego \(El Canelo\)](https://open.spotify.com/track/7htlyo49y5j0fOWlVbB10U) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Se Siente Fuego \(El Canelo\)](https://open.spotify.com/album/1Hk20C6ntgDwLPBGL9ETHD) | 2:42 |
 | 71 | [Viaje Verde](https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Viaje Verde](https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88) | 3:14 |
-| 72 | [Santa Mota](https://open.spotify.com/track/3nUoQgpEy0q2e01FvVa7IW) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5) | [Santa Mota](https://open.spotify.com/album/4gZDZx4fVRYgUCnpJVBl9o) | 4:13 |
+| 72 | [Santa Mota](https://open.spotify.com/track/3nUoQgpEy0q2e01FvVa7IW) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5) | [Santa Mota \(En Vivo\)](https://open.spotify.com/album/4gZDZx4fVRYgUCnpJVBl9o) | 4:13 |
 | 73 | [Sueño Americano](https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Sueño Americano](https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq) | 2:14 |
 | 74 | [Me Salió Barato](https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF), [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Amor Y Lágrimas](https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i) | 2:27 |
 | 75 | [Bien Recio](https://open.spotify.com/track/3BpjbirYqKfKKMNmip9MS4) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bien Recio](https://open.spotify.com/album/6hRcRpnnB6iGB1oEFhVAiy) | 4:24 |

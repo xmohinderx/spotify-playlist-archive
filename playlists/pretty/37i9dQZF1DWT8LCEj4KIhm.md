@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,027 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,025 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 25 | [Do The Most](https://open.spotify.com/track/7n0lXKEOaFxrAU0R93fIQh) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:24 |
 | 26 | [Parle à ta tête](https://open.spotify.com/track/3lTGqzJbMYDHXbqeV8pt7d) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Parle à ta tête](https://open.spotify.com/album/1KEfoqJ2dbtfB6jSNFpByF) | 2:56 |
 | 27 | [ROCKSTAR \(feat\. Roddy Ricch\) \- BLM REMIX](https://open.spotify.com/track/4Aykm3xrOFSHrAnv80KUhh) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [ROCKSTAR \(feat\. Roddy Ricch\) \[BLM REMIX\]](https://open.spotify.com/album/3xGZrrUdbVXu3CRXSSsPQZ) | 3:24 |
-| 28 | [Forever](https://open.spotify.com/track/3zzrKCO0OA85eemnlQnQ7c) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Forever](https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o) | 2:49 |
-| 29 | [Cold Feet](https://open.spotify.com/track/08zt4rqVjqahvXaWAuEBbP) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Nights Like This](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk) | 3:01 |
+| 28 | [Cold Feet](https://open.spotify.com/track/08zt4rqVjqahvXaWAuEBbP) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Nights Like This](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk) | 3:01 |
+| 29 | [Forever](https://open.spotify.com/track/3zzrKCO0OA85eemnlQnQ7c) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Forever](https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o) | 2:49 |
 | 30 | [Never Let Me Down](https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Let Me Down](https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ) | 2:33 |
 | 31 | [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 |
 | 32 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 74 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
 | 75 | [Comme dans les films](https://open.spotify.com/track/5bxaSSnEhbc8u7diN1jY69) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Comme dans les films](https://open.spotify.com/album/0pNRPtiKdcXRyHDX8Qizzv) | 3:03 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMGY5MTQ0ZWJkYWZlMGRiMzljM2ZlZGQ2YTU0NDE3Mzky`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMGU3NTVmZTdjZTI3Mjk0YTBkMWFiMTg5MmU5MTgzN2Ix`

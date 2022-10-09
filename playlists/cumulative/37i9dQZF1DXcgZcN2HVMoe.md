@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-654 songs - 1 day 15 hr 5 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+655 songs - 1 day 15 hr 8 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/1caDc5BER7nRlSRf7XnDyj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Bigger Man](https://open.spotify.com/album/64fIaMIuwVr0P7Bckb8Df8) | 3:06 | 2021-12-17 | 2022-01-25 |
 | [Birch \(feat\. Taylor Swift\)](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 | 2021-12-17 |  |
 | [Bittersweet Endings](https://open.spotify.com/track/7B9msPusVvUMI4mV554aQz) | [Rightfield](https://open.spotify.com/artist/4pZujg2iI63qnZ9dISXS14) | [Bittersweet Endings](https://open.spotify.com/album/3lYtQZRYaijacHL93WtxaX) | 3:38 | 2021-12-17 | 2022-04-21 |
-| [Black And White \- Stripped](https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Black And White \(Stripped\)](https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4) | 3:52 | 2021-12-17 |  |
+| [Black And White \- Stripped](https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Black And White \(Stripped\)](https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4) | 3:52 | 2021-12-17 | 2022-10-09 |
 | [Blind Missiles](https://open.spotify.com/track/4iIoVlUgVqWmnJ85HoOD7J) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Blind Missiles](https://open.spotify.com/album/3ia3GpJPPwJPx1mvu1JCaR) | 3:21 | 2022-01-24 | 2022-04-11 |
 | [Blinding Lights](https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Blinding Lights](https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ) | 3:34 | 2021-12-17 |  |
 | [Bloom](https://open.spotify.com/track/1tP3UmAa7Uv2Sb6hjMwwCa) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Lighter](https://open.spotify.com/album/73zETkOw0tap79gXPZGS7a) | 4:35 | 2021-12-17 | 2022-07-28 |
@@ -273,6 +273,7 @@
 | [Hurts a Little Less](https://open.spotify.com/track/117vf8xdn0geXyw6HX4sFl) | [PHOEBE AXA](https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv) | [Hurts a Little Less](https://open.spotify.com/album/6qA1GVm3jHDbH06k0kFdVZ) | 3:30 | 2021-12-17 | 2022-07-28 |
 | [hurts like hell \- piano version](https://open.spotify.com/track/7ENUr3ToBfMe1ZlqgnzZCu) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell \- piano version](https://open.spotify.com/album/07t5OsVzJbuRC3SNJM3zTb) | 4:03 | 2022-01-24 | 2022-04-20 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-09-15 |
+| [I Burned LA Down](https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:15 | 2022-07-29 |  |
 | [I Burned LA Down](https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:15 | 2022-07-29 | 2022-10-07 |
 | [I Burned LA Down](https://open.spotify.com/track/7HCk1IxbjrRcQEAiMxAAFl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:15 | 2022-07-29 | 2022-09-20 |
 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 | 2022-07-22 |  |

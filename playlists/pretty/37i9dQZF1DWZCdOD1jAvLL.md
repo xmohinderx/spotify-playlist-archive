@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: One True God
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,074 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,456 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 15 | [Party Diva](https://open.spotify.com/track/5n7zRKeW16p5o42sasOmah) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Party Diva](https://open.spotify.com/album/4vVbfW76h5gKz396zd5CMR) | 3:12 |
 | 16 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 |
 | 17 | [Children \- Radio Edit](https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn) | 3:26 |
-| 18 | [Fuck Your Sunshine \- Adventure Club Remix](https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Fuck Your Sunshine](https://open.spotify.com/album/6icWyduCnRXtFYlEBPgavf) | 3:44 |
+| 18 | [Fuck Your Sunshine \(Adventure Club Remix\)](https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Fuck Your Sunshine \(Adventure Club Remix\)](https://open.spotify.com/album/6icWyduCnRXtFYlEBPgavf) | 3:44 |
 | 19 | [FAKE](https://open.spotify.com/track/4xZ3gU3bsLUDXkv7xS0phG) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [FAKE](https://open.spotify.com/album/3lTcywnx2UQabY3DtqSXDz) | 2:16 |
 | 20 | [See the Sun Rising](https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [See the Sun Rising](https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm) | 4:07 |
 | 21 | [I Know](https://open.spotify.com/track/6a7Vnxz6aezPxdKPTF72Yb) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [I Know](https://open.spotify.com/album/4PEATKNNKmWcSoRLyVQDRS) | 3:22 |

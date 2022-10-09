@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: Pixies
 
-209 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
+210 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 | 2022-07-28 | 2022-09-09 |
 | [Rushing Water](https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Rushing Water](https://open.spotify.com/album/4gqzoPUB5hRX7NC6r1uE5P) | 3:17 | 2022-04-08 | 2022-07-29 |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-09-09 |  |
-| [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:41 | 2022-04-08 |  |
+| [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:41 | 2022-04-08 | 2022-10-09 |
 | [Say Hi](https://open.spotify.com/track/2ZlkSwGFFuKgbJiiHVAw4j) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Matter of Time / Say Hi](https://open.spotify.com/album/6Z6fyPwQzpp0XO9HvQH1d6) | 2:48 | 2022-05-27 | 2022-07-20 |
 | [Scarlet](https://open.spotify.com/track/3vSXV46H3bSmJHX79NV9Zu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Jimmy Page](https://open.spotify.com/artist/55bGuHb50r5c0PeqqMeNBV) | [Goats Head Soup \(Deluxe\)](https://open.spotify.com/album/5Q7oMv5dx9VinYxveFZNsn) | 3:44 | 2022-04-08 | 2022-07-29 |
 | [Secret Agent Man](https://open.spotify.com/track/69AXRF37Va3JP772FJAPLD) | [Joe Strummer](https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba) | [Joe Strummer 002: The Mescaleros Years](https://open.spotify.com/album/0jt3CZHQ5jpzzu5eT7F98x) | 3:11 | 2022-09-16 | 2022-09-30 |
@@ -194,6 +194,7 @@
 | [There Were Bells](https://open.spotify.com/track/3scoh1BWW0rVW5ZmrJQU3l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [There Were Bells](https://open.spotify.com/album/4aTHChoZPVwUVqHawBfoP0) | 4:52 | 2022-07-28 | 2022-08-19 |
 | [This Guitar](https://open.spotify.com/track/2kh6aCEA51W67H4kJ7IkKh) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:50 | 2022-05-27 | 2022-08-19 |
 | [This Love Starved Heart of Mine \(It's Killing Me\)](https://open.spotify.com/track/32SqqH3of0MA2bwuy3C8tW) | [The Jaded Hearts Club](https://open.spotify.com/artist/7qZ3cinlwpZtJpylqOLFCA), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP) | [You've Always Been Here](https://open.spotify.com/album/4bLyKjPIhAijzz3JLUBJQn) | 2:50 | 2022-04-08 | 2022-07-14 |
+| [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 | 2022-10-07 |  |
 | [Time is Running Out](https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:57 | 2022-07-28 |  |
 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-18 |  |
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2022-07-28 |  |

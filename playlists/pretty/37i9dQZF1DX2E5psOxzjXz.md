@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more in <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,434 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,470 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 6 | [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 |
 | 7 | [Out of Breath](https://open.spotify.com/track/49ogzLkjVeq99OMMcc7l3Z) | [I.B.H](https://open.spotify.com/artist/22m53hE8M3zMzzxR7PMKmj), [Qazi](https://open.spotify.com/artist/3zoonUuJ2VEtvH5IXUTAQR), [Nitefall](https://open.spotify.com/artist/6TwdDrUVRpsozD0wYacsuC) | [Out of Breath](https://open.spotify.com/album/04Sxp3HIBGRrXRQbagK2sr) | 2:30 |
 | 8 | [Mera Naam](https://open.spotify.com/track/7wcf94GFZJH4xrG9vs4CLC) | [Soch](https://open.spotify.com/artist/31y8hJ1vq1z54EPBOFdfRJ), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Mera Naam](https://open.spotify.com/album/1ZTq2Q3jHwjch9fWIN3LcB) | 4:01 |
-| 9 | [Intezaar](https://open.spotify.com/track/7mtFv7sJst6tUNFEYycB81) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Kamil Mahmood Kiani](https://open.spotify.com/artist/2evSTHzPQBfCYbhFhzOcbc) | [Intezaar](https://open.spotify.com/album/0iU1spYHEzzdlAW5Pftwdg) | 2:39 |
+| 9 | [Intezaar](https://open.spotify.com/track/7mtFv7sJst6tUNFEYycB81) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Kamil Mahmood Kiani](https://open.spotify.com/artist/6KS7D3edmUKtWbWQ99KjY6) | [Intezaar](https://open.spotify.com/album/0iU1spYHEzzdlAW5Pftwdg) | 2:39 |
 | 10 | [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 |
 | 11 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
 | 12 | [Bhoola](https://open.spotify.com/track/1tu2kfE4UWlxyGqJQNkgmT) | [Hamza Akhund](https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq) | [Bhoola](https://open.spotify.com/album/44rLZfcM9MN87XVSDk0GCi) | 2:56 |

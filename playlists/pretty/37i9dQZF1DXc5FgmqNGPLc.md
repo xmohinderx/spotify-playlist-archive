@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,498 likes - 91 songs - 13 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,524 likes - 91 songs - 13 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 10 | [Soul Eyes \(Live\)](https://open.spotify.com/track/1QtKtRFcCtacDvGWEhe5uP) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Soul Eyes \(Live\)](https://open.spotify.com/album/0rOjjtD2olUaP8hRt4DOy0) | 8:49 |
 | 11 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 |
 | 12 | [Pops \(AKA When the Saints Go Marching In\) \- Live](https://open.spotify.com/track/6FbS0wgTrEHAB7O7xVo7dx) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [The Lost Album from Ronnie Scott’s \(Live\)](https://open.spotify.com/album/3uB6lXxaCmjy76Spz1Gv9A) | 7:35 |
-| 13 | [Heart Song \- Live](https://open.spotify.com/track/15masYlUIQwqPAHpiE2DmN) | [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [Some Funkyness](https://open.spotify.com/album/0yRE0UMYhstY8Yh1bf1Dr7) | 7:09 |
+| 13 | [Heart Song \- Live](https://open.spotify.com/track/1tcpNKH7NWjoPZaELScpd2) | [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [There's a Reason for Things to Do \(Live\)](https://open.spotify.com/album/6TTm8BfUM3bK3hZOJSX9m1) | 7:09 |
 | 14 | [Chelsea Bridge](https://open.spotify.com/track/0w83dRmOWHezPfzDGD7bYC) | [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Chelsea Bridge](https://open.spotify.com/album/0V4zIOu1Fa82EUShYq8Epf) | 6:35 |
 | 15 | [Latino Suite \- Live](https://open.spotify.com/track/39d6rn4ftwAGaEOjDVqDdg) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr), [Freddie Hubbard Quartet](https://open.spotify.com/artist/2BP1CjtFdJwjtS082ptpSJ) | [Live at Fabrik Hamburg 1986](https://open.spotify.com/album/57TC45obhfyPmfCpoE9NcK) | 14:36 |
 | 16 | [The Muse \- Live in New York City, February 8, 1975](https://open.spotify.com/track/31qdHIkBXaXoCoWTUnDIYh) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Live in New York City, February 8, 1975](https://open.spotify.com/album/4Hnv8GaFa8kQgOUn1WeJtM) | 5:55 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 90 | [Sweet Georgia Brown \(Live\)](https://open.spotify.com/track/6ptWwk9T4s1CBWNRV1w975) | [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH), [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Clarinetwork: Live at the Village Vanguard](https://open.spotify.com/album/3brnYanZeSKFMtx9JGuqaf) | 7:25 |
 | 91 | [Air Pakistan](https://open.spotify.com/track/3KuhFmxiL8cbFdJs8LobPk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Live](https://open.spotify.com/album/7EpgY8SeCWDsNAN9rZTOUb) | 9:41 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDNkZGU1MjQ2ODE3MDJlMTA0OWVhNDYxYzFkNzkzMGU1`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDE3NGUwNzYzMTE3MjY2M2E5ODE0YmQxODkyY2Y1OTIz`

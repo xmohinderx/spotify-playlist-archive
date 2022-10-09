@@ -4,7 +4,7 @@
 
 > Le tracce italiane più romantiche di sempre.
 
-180 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/4xbXrPn6qPTl8i2Ptaki7A)
+181 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/4xbXrPn6qPTl8i2Ptaki7A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cosa mi manchi a fare](https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 2:49 | 2021-09-26 |  |
 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 | 2021-09-26 |  |
 | [Dedicato A Te](https://open.spotify.com/track/4DxU9yKktJVQXhcLxjh67j) | [Le Vibrazioni](https://open.spotify.com/artist/3J3PdLj6v1uAs1mWKpzZbX) | [Le Vibrazioni](https://open.spotify.com/album/0aKZ5rJLPjbCBolkFrWEy5) | 3:28 | 2021-09-26 | 2022-07-27 |
+| [Del verde](https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 3:48 | 2021-09-26 |  |
 | [Destri](https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Destri](https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC) | 3:05 | 2021-09-26 |  |
 | [Domenica](https://open.spotify.com/track/2tVNMtgZ2CQpTx7vgcuTkL) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:21 | 2021-09-26 | 2022-07-12 |
 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 | 2021-09-26 |  |
@@ -83,7 +84,7 @@
 | [L'amore conta](https://open.spotify.com/track/1ms3QC6CO8vN4100SgrG70) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Nome e cognome \[Remastered Version\]](https://open.spotify.com/album/4ykRF2gZsuZmUVBeVMFnnT) | 4:23 | 2021-09-26 | 2022-07-23 |
 | [L'amore è](https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e) | [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [L'amore è](https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1) | 3:44 | 2021-09-26 | 2022-06-01 |
 | [L'Emozione Non Ha voce \(Io Non So Parlar D'Amore\)](https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Io Non So Parlar D'Amore](https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO) | 4:07 | 2021-09-26 | 2022-07-29 |
-| [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 | 2021-09-26 |  |
+| [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 | 2021-09-26 | 2022-10-09 |
 | [L'immenso](https://open.spotify.com/track/3NNJzRvSDVuXgJ36TOE3QO) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 3:37 | 2021-09-26 | 2022-07-29 |
 | [L'odore del caffè](https://open.spotify.com/track/5HF1iln0igvRCNulsEYvTL) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [L'altra metà](https://open.spotify.com/album/7lsDANKgIEPsTjsFy4XliR) | 3:52 | 2021-09-26 | 2022-07-13 |
 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 | 2021-09-26 |  |

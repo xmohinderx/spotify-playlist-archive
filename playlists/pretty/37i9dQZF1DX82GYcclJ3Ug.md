@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Royal & the Serpent
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,629 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,825 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 94 | [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 |
 | 95 | [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 |
 | 96 | [Antsy](https://open.spotify.com/track/2eDBWo7MfkdezN1FKxxQRb) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Antsy](https://open.spotify.com/album/0AcNlsXfyXwZcurMIbAlww) | 2:30 |
-| 97 | [It's Your Time](https://open.spotify.com/track/5KcaYxXpwzX69M26YeM2mZ) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [It's Your Time](https://open.spotify.com/album/2pp6pa4o8WTiKac58i1vus) | 3:33 |
+| 97 | [It's Your Time](https://open.spotify.com/track/4hsoBUPZ9HX7UnjcRfdLFR) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/1FDNmr1WNyQ0Ag27IBAc06) | 3:33 |
 | 98 | [Without Me](https://open.spotify.com/track/1d46ed3h4U9ws3YsvUOMon) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Without Me](https://open.spotify.com/album/1ipW5HgZMdwxXFDNdTDePU) | 3:43 |
 | 99 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 |
 | 100 | [Noise in the Forest](https://open.spotify.com/track/5jYpmSMc0KWcj8I2StBaNf) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Noise in the Forest](https://open.spotify.com/album/5RmlPHpfwvI64T3tXk5crf) | 3:28 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 126 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 |
 | 127 | [cough drops](https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cough drops](https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph) | 2:43 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDNjZDk0N2VkYmRmNjVjOTJiMjFjM2I3YzJlZjExMGFm`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGUwMWE2NjYyODNmODZhODFmMzc5ZmYyOWFkYWQ5NDJh`

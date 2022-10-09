@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Duelo en portada.
 
-168 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+169 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 | 2022-07-01 | 2022-08-06 |
 | [Cuervo Sierra](https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX) | 2:55 | 2022-01-14 | 2022-07-29 |
 | [Cuervo Sierra](https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj) | 2:55 | 2022-01-14 |  |
-| [Cuéntame](https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuéntame](https://open.spotify.com/album/4z8sLfNnAf8Th8B8EwcTQ4) | 2:46 | 2022-08-05 |  |
+| [Cuéntame](https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuéntame](https://open.spotify.com/album/4z8sLfNnAf8Th8B8EwcTQ4) | 2:46 | 2022-08-05 | 2022-10-09 |
 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 | 2022-04-15 |  |
 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 | 2022-06-03 |  |
 | [De Rancho Soy](https://open.spotify.com/track/0OU7uk4jZKFJfp4o1xGhql) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [De Rancho Soy](https://open.spotify.com/album/07yxl1Vy4N11B9eYrUhRgV) | 2:39 | 2022-07-01 | 2022-08-25 |
@@ -169,6 +169,7 @@
 | [Te vez Buena](https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E) | 4:12 | 2022-04-15 |  |
 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 | 2022-06-20 |  |
 | [Todavía No Sabe \- Radio](https://open.spotify.com/track/3alt3dQHiothn0qCSZf5cJ) | [Solido](https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj) | [Todavía No Sabe](https://open.spotify.com/album/3gjijAYfP7Bqm150XRK4WP) | 3:29 | 2022-07-01 | 2022-07-29 |
+| [Tu Cárcel](https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Tu Cárcel](https://open.spotify.com/album/6TI145XlTYny1EKWi07Qvg) | 2:37 | 2022-09-30 |  |
 | [Un Suspiro](https://open.spotify.com/track/45gb6KQDwMHeT9ytosr6Eh) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiro](https://open.spotify.com/album/1T933O98fS24tmvqNJ4TgF) | 3:04 | 2021-12-17 | 2022-07-29 |
 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 | 2021-12-17 |  |
 | [Vaivén](https://open.spotify.com/track/41bThbXGVhiFwHa5hX6jaD) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Vaivén](https://open.spotify.com/album/0wZC53nTNW23eTtTTX73Vo) | 3:12 | 2022-09-02 | 2022-10-01 |

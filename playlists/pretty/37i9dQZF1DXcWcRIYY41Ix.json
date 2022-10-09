@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Silvana Estrada.",
-  "num_followers": 94696,
+  "num_followers": 94840,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDM3NTg3NCwwMDAwMDAwMDFkNjk3NmQxYWIyNGMyOWE2ZjljZmVlNGQzODY1NGVh",
+  "snapshot_id": "MTY2NDM3NTg3NCwwMDAwMDAwMDYzOTVmZTJhZTFiNDE5Y2VlN2U3OGU0NjhhMmIwY2Zl",
   "tracks": [
     {
       "added_at": "2022-09-09 05:00:00",
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
-      "added_at": "2022-10-08 01:47:56",
+      "added_at": "2022-10-09 20:24:19",
       "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/5dbmoIYD1zBB64NzQtMtB7"
@@ -883,18 +883,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+        "name": "Al o\u00edrla cantar",
+        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Ezequiel Borra",
+          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
+        },
+        {
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
         }
       ],
-      "duration_ms": 196984,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
+      "duration_ms": 341037,
+      "name": "Al o\u00edrla cantar",
+      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -915,22 +919,18 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Al o\u00edrla cantar",
-        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
       "artists": [
         {
-          "name": "Ezequiel Borra",
-          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
-        },
-        {
-          "name": "Alex Serra",
-          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 341037,
-      "name": "Al o\u00edrla cantar",
-      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+      "duration_ms": 196984,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Lugares Imaginarios",
-        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Verde Nocturno",
-      "url": "https://open.spotify.com/track/5H94pF1K97qxrx0h7EfPrY"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Me Voy a Valpara\u00edso",
         "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 240576,
       "name": "Me Voy a Valpara\u00edso",
       "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "Lugares Imaginarios",
+        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Verde Nocturno",
+      "url": "https://open.spotify.com/track/5H94pF1K97qxrx0h7EfPrY"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "Alfonsina Y El Mar",
+        "url": "https://open.spotify.com/album/529vSkrdGV4B5ZdpglN1CA"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/2LDFwmbyd2PsVEZFCsZFZZ"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "La Sangre del Mundo",
         "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 264160,
       "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
       "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "Alfonsina Y El Mar",
-        "url": "https://open.spotify.com/album/529vSkrdGV4B5ZdpglN1CA"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Alfonsina Y El Mar",
-      "url": "https://open.spotify.com/track/2LDFwmbyd2PsVEZFCsZFZZ"
     },
     {
       "added_at": "2022-09-09 05:00:00",

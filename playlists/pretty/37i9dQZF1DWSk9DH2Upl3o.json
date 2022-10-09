@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 7684,
+  "num_followers": 7793,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDc2NmY3MDIxOTA0MjFhNTRmYjRlNGM0ZGYwYWY3OGNk",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDU5MmM4ODUxMDNkYWQ2YzExMmRmZWQ3NTFmZjUyNDk4",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Don't Say Goodnight Just Yet",
+        "url": "https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe"
+      },
+      "artists": [
+        {
+          "name": "Ghost Light",
+          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
+        }
+      ],
+      "duration_ms": 354127,
+      "name": "Don't Say Goodnight Just Yet",
+      "url": "https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Best in Show",
         "url": "https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC"
       },
@@ -803,34 +819,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Don't Say Goodnight Just Yet",
-        "url": "https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe"
+        "name": "Off Leash",
+        "url": "https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU"
       },
       "artists": [
         {
-          "name": "Ghost Light",
-          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
+          "name": "The Magic Beans",
+          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
         }
       ],
-      "duration_ms": 354127,
-      "name": "Don't Say Goodnight Just Yet",
-      "url": "https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Remain",
-        "url": "https://open.spotify.com/album/6Ra2EYAa2ZUGMdFDOwPrgj"
-      },
-      "artists": [
-        {
-          "name": "Bywater Call",
-          "url": "https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M"
-        }
-      ],
-      "duration_ms": 354466,
-      "name": "Left Behind",
-      "url": "https://open.spotify.com/track/160RJAfQ71LcES9hN06z3b"
+      "duration_ms": 462830,
+      "name": "Off Leash",
+      "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
     }
   ],
   "unique_name": "Modern Jam Band",

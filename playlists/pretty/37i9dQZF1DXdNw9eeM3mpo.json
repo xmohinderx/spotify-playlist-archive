@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 404699,
+  "num_followers": 404803,
   "original_name": "skad'ak\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MTk3MiwwMDAwMDAwMDc1NDQyNmJiN2JmZDYyODEwMTllZmM4YmQ2ZGQ5NTBh",
+  "snapshot_id": "MTY2NDU1MTk3MiwwMDAwMDAwMGU3NDI5MmQ2YmRiYjM1ZDc5YmIzMjNjNWQxMGU4YWU0",
   "tracks": [
     {
       "added_at": "2021-12-21 17:00:46",
@@ -191,18 +191,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Mystic Love",
-        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 235200,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
+      "duration_ms": 234985,
+      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
     },
     {
       "added_at": "2022-09-28 22:54:48",
@@ -223,22 +227,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+        "name": "Mystic Love",
+        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 234985,
-      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+      "duration_ms": 235200,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
     },
     {
       "added_at": "2022-09-11 03:33:36",
@@ -1269,6 +1269,26 @@
       "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
     },
     {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Cesar Franco",
+          "url": "https://open.spotify.com/artist/0jPN4FO3F86pPyoa4Pyd3w"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "Mi Coraz\u00f3n Encantado",
+      "url": "https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH"
+    },
+    {
       "added_at": "2022-07-15 04:41:04",
       "album": {
         "name": "M\u00fasica Guerrera",
@@ -1291,26 +1311,6 @@
       "duration_ms": 186000,
       "name": "M\u00fasica Guerrera",
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Cesar Franco",
-          "url": "https://open.spotify.com/artist/0jPN4FO3F86pPyoa4Pyd3w"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "Mi Coraz\u00f3n Encantado",
-      "url": "https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1651,22 +1651,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Contra El Viento",
-        "url": "https://open.spotify.com/album/7s2OSu8SOC2BCvyzJ5pr5k"
+        "name": "30 Monedas",
+        "url": "https://open.spotify.com/album/3KaJD0ChIaLSxCi4jM23a6"
       },
       "artists": [
         {
-          "name": "Percance",
-          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
-        },
-        {
-          "name": "Jorge Serrano De Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/2URqV9qzDLQghUs8FcWPBY"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 213011,
-      "name": "Como Saber",
-      "url": "https://open.spotify.com/track/71hT1OeAaKSxObmDVKnfh7"
+      "duration_ms": 220162,
+      "name": "30 Monedas",
+      "url": "https://open.spotify.com/track/3xdzopoC8RLPrY8lKs0MSa"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1687,18 +1683,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "30 Monedas",
-        "url": "https://open.spotify.com/album/3KaJD0ChIaLSxCi4jM23a6"
+        "name": "Contra El Viento",
+        "url": "https://open.spotify.com/album/7s2OSu8SOC2BCvyzJ5pr5k"
       },
       "artists": [
         {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+          "name": "Percance",
+          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
+        },
+        {
+          "name": "Jorge Serrano De Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/2URqV9qzDLQghUs8FcWPBY"
         }
       ],
-      "duration_ms": 220162,
-      "name": "30 Monedas",
-      "url": "https://open.spotify.com/track/3xdzopoC8RLPrY8lKs0MSa"
+      "duration_ms": 213011,
+      "name": "Como Saber",
+      "url": "https://open.spotify.com/track/71hT1OeAaKSxObmDVKnfh7"
     },
     {
       "added_at": "2021-12-21 17:00:46",

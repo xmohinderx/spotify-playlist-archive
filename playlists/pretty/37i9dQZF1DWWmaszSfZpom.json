@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacar\u00e9",
-  "num_followers": 788681,
+  "num_followers": 788776,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTc4MCwwMDAwMDAwMGUzZjBlYjVjMmU3MmIyNWM2NDUwYzBjNmZmZDE1Njc2",
+  "snapshot_id": "MTY2NTExMTc4MCwwMDAwMDAwMGE0YWFmYjRlNjZiNzQ4ZTA1NGJiMjYyY2I5MTNiMDg2",
   "tracks": [
     {
       "added_at": "2022-10-07 03:03:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
-        "name": "Se Prepara 2",
-        "url": "https://open.spotify.com/album/57w3kBPQqRW5VQIwOA4gyP"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        }
-      ],
-      "duration_ms": 147335,
-      "name": "Se Prepara 2",
-      "url": "https://open.spotify.com/track/4ho6IyVZ0TilPf7ctKd84D"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
         "name": "Hit Contagiante",
         "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
+        "name": "Se Prepara 2",
+        "url": "https://open.spotify.com/album/57w3kBPQqRW5VQIwOA4gyP"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        }
+      ],
+      "duration_ms": 147335,
+      "name": "Se Prepara 2",
+      "url": "https://open.spotify.com/track/4ho6IyVZ0TilPf7ctKd84D"
     },
     {
       "added_at": "2022-10-07 03:03:00",

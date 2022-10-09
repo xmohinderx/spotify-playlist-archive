@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 22514,
+  "num_followers": 22670,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDYxNzFjZTYyOGY3YmQ0NWZjNjY5MzEzOTg1NjFmYzc1",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDkzZWE2OGQzZGU4MTdkZDA4MzJiNDljMmM4ZWI5MWJk",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Satellite Man",
-        "url": "https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO"
-      },
-      "artists": [
-        {
-          "name": "Satellite and the Harpoonist",
-          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
-        }
-      ],
-      "duration_ms": 180432,
-      "name": "Satellite Man",
-      "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Stay Wild",
         "url": "https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 285653,
       "name": "Stay Wild",
       "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Satellite Man",
+        "url": "https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO"
+      },
+      "artists": [
+        {
+          "name": "Satellite and the Harpoonist",
+          "url": "https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG"
+        }
+      ],
+      "duration_ms": 180432,
+      "name": "Satellite Man",
+      "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Don't Tell Me No Lies",
-        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 147423,
-      "name": "Don't Tell Me No Lies",
-      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Color Where You Are",
         "url": "https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 227300,
       "name": "Under the Big Top",
       "url": "https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Don't Tell Me No Lies",
+        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 147423,
+      "name": "Don't Tell Me No Lies",
+      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
     },
     {
       "added_at": "2022-08-31 19:45:43",

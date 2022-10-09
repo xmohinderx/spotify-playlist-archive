@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-229 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
+230 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 | 2022-10-02 |  |
 | [Everybody Does](https://open.spotify.com/track/7s5Ow4bsVkU0eUlp71o8yn) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 4:54 | 2022-10-06 |  |
 | [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 | 2022-10-06 |  |
-| [Far away](https://open.spotify.com/track/7CnILy2C8eB74SLa4NkVY7) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [SUPER BAND 2 \- Episode.14](https://open.spotify.com/album/2gir8gMdlpIkinnc061A3j) | 6:22 | 2022-08-25 |  |
+| [Far away](https://open.spotify.com/track/7CnILy2C8eB74SLa4NkVY7) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [SUPER BAND 2 \- Episode.14](https://open.spotify.com/album/2gir8gMdlpIkinnc061A3j) | 6:22 | 2022-08-25 | 2022-10-09 |
 | [flower's gaze](https://open.spotify.com/track/1IxApabQY9g6Ivg1og5vsP) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [one's youth](https://open.spotify.com/album/2xauBFfVTnRXMNGSR8kvZI) | 3:59 | 2022-09-06 |  |
 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 | 2022-08-25 |  |
 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 | 2022-10-06 |  |
@@ -235,6 +235,7 @@
 | [크라잉넛 25주년 기념 베스트앨범 Pt\. 1 \- Oh! What a Shiny Night \- 25th Anniversary Version](https://open.spotify.com/track/0BmOpXHsxWztFjoTz2q2IE) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [크라잉넛 25주년 기념 베스트앨범 Pt\. 1 \- Oh! What a Shiny Night](https://open.spotify.com/album/2O4XdnQVEMnUPso26440q7) | 4:15 | 2022-10-06 |  |
 | [펑크걸 Punk Girl](https://open.spotify.com/track/6tKgjhRA8gS61JBZm4DqQf) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Crying Nut Best Wild Wild Live](https://open.spotify.com/album/7nX1dCQhdkx2AmjHD1zDs7) | 2:50 | 2022-10-06 |  |
 | [푸른 양철 스쿠터](https://open.spotify.com/track/7239i16Nl443yMpjXa6TFk) | [My Aunt Mary](https://open.spotify.com/artist/02ROLqtEjHtHUbCuon7bQU) | [Circle](https://open.spotify.com/album/2pzBzC03HzbNnjKNFrdb87) | 3:16 | 2022-08-25 |  |
+| [항해\(Far away\)](https://open.spotify.com/track/2mPbK7MvB81iCKbT36634f) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [SuperBand2 \- Episode.14](https://open.spotify.com/album/4MemrlNUxUB6pAntLarfwA) | 6:22 | 2022-10-07 |  |
 | [호롱불 Oil Lamp](https://open.spotify.com/track/0XcYZw7nnNXnNAuG0szax9) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [호롱불 Oil Lamp](https://open.spotify.com/album/5pgVYAa5iUAx2KMOtmv1v9) | 4:45 | 2022-10-06 |  |
 | [희야](https://open.spotify.com/track/2eZNE9o1YGOswDH82Eh3Vv) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 4:22 | 2022-08-25 |  |
 

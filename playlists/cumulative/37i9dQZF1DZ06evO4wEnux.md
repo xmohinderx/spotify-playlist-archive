@@ -4,7 +4,7 @@
 
 > This is Fatherson\. The essential tracks, all in one playlist.
 
-28 songs - 1 hr 41 min - [published](https://open.spotify.com/playlist/2w9AMEYmRxcqw1vx49H6j4)
+29 songs - 1 hr 47 min - [published](https://open.spotify.com/playlist/2w9AMEYmRxcqw1vx49H6j4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Making Waves](https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:32 | 2022-09-16 |  |
 | [Mine for Me](https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:00 | 2022-09-16 |  |
 | [Normal People](https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 2:58 | 2022-09-16 |  |
-| [Nothing to No One](https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9), [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:44 | 2022-09-16 |  |
+| [Nothing to No One](https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9), [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:44 | 2022-09-16 | 2022-10-09 |
+| [Oh Yes](https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 5:19 | 2022-10-09 |  |
 | [Open Book](https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:09 | 2022-09-16 |  |
 | [Reflection](https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 5:14 | 2022-09-16 |  |
 | [Sleeping Over](https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:13 | 2022-09-16 |  |

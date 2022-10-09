@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 7312,
+  "num_followers": 7338,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMGQ4ZWJkOWIxMzM0NTExMjZjYjkzMDQxYzgwNTAxNDZk",
+  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMDBhNTBiNmQwNTgwZGIyODRlMTY2NGE1ZTc1ODA1ODRj",
   "tracks": [
     {
       "added_at": "2022-10-05 05:53:59",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
         "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 184066,
       "name": "For You",
       "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
-      },
-      "artists": [
-        {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -565,6 +565,38 @@
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
+      "added_at": "2022-10-09 20:20:38",
+      "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
       "added_at": "2022-10-05 05:53:59",
       "album": {
         "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
@@ -603,22 +635,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 230750,
       "name": "Our Season",
       "url": "https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV"
-    },
-    {
-      "added_at": "2022-10-08 01:43:43",
-      "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
+      },
+      "artists": [
+        {
+          "name": "Unchan",
+          "url": "https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -751,34 +767,18 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
+        "name": "The 3rd Digital Single `Amazing You'",
+        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
       "artists": [
         {
-          "name": "Unchan",
-          "url": "https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF"
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
-        "name": "Minamdang (Original Television Soundtrack, Pt. 7)",
-        "url": "https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv"
-      },
-      "artists": [
-        {
-          "name": "SU A",
-          "url": "https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "Still with you",
-      "url": "https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic"
+      "duration_ms": 296832,
+      "name": "Amazing You",
+      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "The 3rd Digital Single `Amazing You'",
-        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
+        "name": "Minamdang (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv"
       },
       "artists": [
         {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+          "name": "SU A",
+          "url": "https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y"
         }
       ],
-      "duration_ms": 296832,
-      "name": "Amazing You",
-      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+      "duration_ms": 186973,
+      "name": "Still with you",
+      "url": "https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 196576,
-      "name": "Real LOVE",
-      "url": "https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "gr8",
         "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 158468,
       "name": "gr8",
       "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 196576,
+      "name": "Real LOVE",
+      "url": "https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj"
     },
     {
       "added_at": "2022-10-05 05:53:59",

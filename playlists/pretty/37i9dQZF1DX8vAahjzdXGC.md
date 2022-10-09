@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Charlie Puth
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,159 likes - 111 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,195 likes - 111 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 22 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 |
 | 23 | [Let you go](https://open.spotify.com/track/6vUDFA5hJaxy8sgVN9kQfc) | [Azhr](https://open.spotify.com/artist/1XoQClD6pvwGhLXBLHQ5x3), [Kehard](https://open.spotify.com/artist/6bQNj9hzQAggybweFsY8G8) | [Let you go](https://open.spotify.com/album/5vskXaZvONy3vFcHaaJgXD) | 3:46 |
 | 24 | [Ragu \(with Tiara Effendy\)](https://open.spotify.com/track/5Mpt0aZIoP3MiPhDvP2R1H) | [RBA](https://open.spotify.com/artist/3w364H4OAdrvrFlTmP8kB8), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Ragu \(with Tiara Effendy\)](https://open.spotify.com/album/6yjrt8S3F7lXF9cmIk8RR9) | 3:27 |
-| 25 | [November Blue](https://open.spotify.com/track/1rVHGgB6wbPqFgsMcBYbYL) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/1efuRhREYd3lBKa3HV1DyN) | 4:02 |
+| 25 | [November Blue](https://open.spotify.com/track/0PVVLuxXLWf4Sw7zjV6rd8) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/3ApfPiXonK9F6KiJQSeYeN) | 4:02 |
 | 26 | [Miss Melodyne](https://open.spotify.com/track/4CulrUFoQ7KBYUmTCYkKLi) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX), [Matthew Sayersz](https://open.spotify.com/artist/63NYHDp76jwecdrMWYsCEx), [JFlow](https://open.spotify.com/artist/5afpsEG0dUW4TtAPgr2gAE) | [Miss Melodyne](https://open.spotify.com/album/1G6z6xOVtxRUP0oj4sPuZb) | 3:43 |
 | 27 | [Reminiscin'](https://open.spotify.com/track/1urehILRi0FtQXnIdlRR2f) | [Mario Zwinkle](https://open.spotify.com/artist/1kUyugOjfi5xcezWbxVfEi) | [Reminiscin'](https://open.spotify.com/album/6TO5gq0V1yJvW5PFx0nz1G) | 2:50 |
 | 28 | [ExBox](https://open.spotify.com/track/2fwC1bsAd5GrTwvGBRep0p) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/4fS2Qd6JEg1q6LCWPOEh9G) | 2:09 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 74 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 |
 | 75 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
 | 76 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
-| 77 | [People Pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [People Pleaser / Sleep At Night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
+| 77 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
 | 78 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 |
 | 79 | [Coba Bongkar](https://open.spotify.com/track/1QKzT64ySJ3kNUqBf1PGxO) | [Rahmat Tahalu](https://open.spotify.com/artist/1KgiS9L9gXZUa40X3zoBE9), [Revalina Kerap](https://open.spotify.com/artist/5hmu93sLKNSwAZwZjQ1Djq) | [Coba Bongkar](https://open.spotify.com/album/5Tga6Z6d5TRGTRhez8H91t) | 6:53 |
 | 80 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [Gin & Soda](https://open.spotify.com/track/7lFihcfRNVSGfMiWiXJzH2) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Gin & Soda](https://open.spotify.com/album/38UGREYisQWILn6iLTcKnM) | 3:50 |
 | 111 | [Caramel](https://open.spotify.com/track/6GQOeSP0Oh7XRlh522vIVm) | [Monday Off With Bluesy](https://open.spotify.com/artist/0OwLX5KcmGFbIZPORrK6xB) | [Caramel](https://open.spotify.com/album/7pJ3vpCpbPy4RTACGs0ThQ) | 3:05 |
 
-Snapshot ID: `MTY2NTExNTYxNCwwMDAwMDAwMDQxZWFjYjAzNDc1YjVkZTU5NDVkY2I5YjM1NzUxYjNj`
+Snapshot ID: `MTY2NTExNTYxNCwwMDAwMDAwMDM4NDk3MTMwOTJkYWVlZTAzYTg4OTk3NDM4OGVmYmM4`

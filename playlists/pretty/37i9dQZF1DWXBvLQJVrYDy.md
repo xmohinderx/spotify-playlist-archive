@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,650 likes - 114 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,745 likes - 114 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 95 | [Isn't It Romantic](https://open.spotify.com/track/2A2ibsCKYVNGvOorAhMz4s) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [New Jazz Sounds: The Benny Carter Verve Story](https://open.spotify.com/album/4oXHYdguAaz3AIeFKnEUTF) | 3:40 |
 | 96 | [Monk's Mood](https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Monk's Mood](https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C) | 5:00 |
 | 97 | [Open Mind](https://open.spotify.com/track/3ODKzLgzGnXzng8SCTadRc) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Open Mind](https://open.spotify.com/album/34q2kBjzKnowLJPn1XePIZ) | 3:43 |
-| 98 | [All That You Are](https://open.spotify.com/track/6vXRp9QutoS6wyaUO1fB6W) | [Andreas Dahlbäck](https://open.spotify.com/artist/40WI48F48hHtuO9oxGJNxd) | [All That You Are](https://open.spotify.com/album/2IBRAvkNEKpAeJpnPrO3v2) | 4:00 |
+| 98 | [All That You Are](https://open.spotify.com/track/6vXRp9QutoS6wyaUO1fB6W) | [Elvin Vanguard](https://open.spotify.com/artist/1VDLEbjtzw7vCwMFlWe7xE) | [All That You Are](https://open.spotify.com/album/2IBRAvkNEKpAeJpnPrO3v2) | 4:00 |
 | 99 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 |
 | 100 | [Pretty Ballad](https://open.spotify.com/track/1UVz63b1DRzV9CrM4OYQ9U) | [Lennie Zimmerman + 3](https://open.spotify.com/artist/29B45yp5XnJwtbrvbeqnSu) | [My Romance](https://open.spotify.com/album/5zLgKeaogrKCOKmvO4UFOO) | 3:00 |
 | 101 | [Spring Is Here](https://open.spotify.com/track/0d4XWfUyqLQnemAJJlcaAg) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Spring Is Here](https://open.spotify.com/album/224qBI3ZUfjrQsoZNxxaji) | 3:15 |

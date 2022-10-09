@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Madison Cunningham",
-  "num_followers": 465796,
+  "num_followers": 465842,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDg2ZDQ4YmU3ZDQ3NDM2YThjMTA5YjIxNTEzZjg1NTdj",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDg3ZjQyODYzNjRhZGVhM2Q5M2M3Mzg5YmMwZWM3OGRi",
   "tracks": [
     {
       "added_at": "2022-06-03 04:02:00",
@@ -327,18 +327,22 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "NUDES",
-        "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
       "artists": [
         {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
         }
       ],
-      "duration_ms": 235871,
-      "name": "Right Down The Line",
-      "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
+      "duration_ms": 232986,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -411,6 +415,22 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -427,38 +447,18 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "Rarities",
-        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+        "name": "NUDES",
+        "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        },
-        {
-          "name": "Linnea Olsson",
-          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 232986,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
+      "duration_ms": 235871,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
+        "name": "To Love Somebody (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 165106,
       "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
       "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "To Love Somebody (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "In the Magic Hour Solo Sessions",
-        "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Nebraska - Acoustic",
-      "url": "https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
         "name": "The Covers",
         "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 196537,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Nebraska - Acoustic",
+      "url": "https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "The Bridge School Concerts 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 219672,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "The Bridge School Concerts 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 190110,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
         "name": "Live From BBC Radio 2",
         "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 218760,
       "name": "Perfect Places - Live From BBC Radio 2",
       "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 190110,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Look At Miss Ohio",
-        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
-    },
-    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "I Still Haven't Found What I'm Looking For / my future",
@@ -1127,6 +1111,22 @@
       "duration_ms": 191757,
       "name": "my future",
       "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Look At Miss Ohio",
+        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
         "name": "For Better, Or Worse",
         "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 175334,
       "name": "My Happiness (feat. Fiona Prine)",
       "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "By Your Side / Landslide",
-        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
         "name": "Welcome Home",
         "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 251760,
       "name": "All the Best",
       "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "By Your Side / Landslide",
+        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "Young Brigham",
-        "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
       },
       "artists": [
         {
-          "name": "Ramblin' Jack Elliott",
-          "url": "https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 304693,
-      "name": "If I Were A Carpenter",
-      "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
+      "duration_ms": 246722,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
+        "name": "Young Brigham",
+        "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "Ramblin' Jack Elliott",
+          "url": "https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b"
         }
       ],
-      "duration_ms": 246722,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
+      "duration_ms": 304693,
+      "name": "If I Were A Carpenter",
+      "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1631,22 +1631,6 @@
       "duration_ms": 234917,
       "name": "Lakes of Pontchartrain (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/4QDMaFh7BpJFE6uL4dBIgN"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 260093,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1679,6 +1663,22 @@
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 260093,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "Woodstock / Green Altar",
-        "url": "https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 273489,
-      "name": "Woodstock",
-      "url": "https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
         "name": "Leave Me Breathless",
         "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Woodstock / Green Altar",
+        "url": "https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 273489,
+      "name": "Woodstock",
+      "url": "https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw"
     },
     {
       "added_at": "2022-06-03 04:02:00",

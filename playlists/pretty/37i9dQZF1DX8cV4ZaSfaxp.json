@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: SURAN(\uc218\ub780)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 29733,
+  "num_followers": 29809,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NTQ0MywwMDAwMDAwMDFhOGUyMmJjZDVhYTgzMGU2MGYzMTQyODY1NDk2ODQ0",
+  "snapshot_id": "MTY2NDg5NTQ0MywwMDAwMDAwMDU5ZWRhMWM3MDU2ZTQ0NThjNWE2YThkZDY4ODVhODBi",
   "tracks": [
     {
       "added_at": "2022-09-05 15:47:43",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
     },
     {
-      "added_at": "2022-10-08 01:40:21",
+      "added_at": "2022-10-09 20:17:39",
       "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Elastic Love",
-        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Elastic Love",
-      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "DOLLS",
         "url": "https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 206497,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/1XxT5GxDa5GD8hnhTK2AD6"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Elastic Love",
+        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Elastic Love",
+      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "WJ STAY?",
-        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 214847,
-      "name": "You Got",
-      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 219240,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "WJ STAY?",
+        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 214847,
+      "name": "You Got",
+      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Sunday Seoul Ep.1",
-        "url": "https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC"
-      },
-      "artists": [
-        {
-          "name": "uju",
-          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
-        }
-      ],
-      "duration_ms": 190363,
-      "name": "Give Me The Light",
-      "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "Sweet Girl",
         "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 248986,
       "name": "Sweet Girl",
       "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Sunday Seoul Ep.1",
+        "url": "https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC"
+      },
+      "artists": [
+        {
+          "name": "uju",
+          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
+        }
+      ],
+      "duration_ms": 190363,
+      "name": "Give Me The Light",
+      "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Coconut Love",
-        "url": "https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx"
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
       "artists": [
         {
-          "name": "Seoulmoon",
-          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
+          "name": "TIFFANY",
+          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
         }
       ],
-      "duration_ms": 194772,
-      "name": "Coconut Love",
-      "url": "https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K"
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
+        "name": "Coconut Love",
+        "url": "https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx"
       },
       "artists": [
         {
-          "name": "TIFFANY",
-          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
+          "name": "Seoulmoon",
+          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
         }
       ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+      "duration_ms": 194772,
+      "name": "Coconut Love",
+      "url": "https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
-      },
-      "artists": [
-        {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "#TUSM",
         "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
       },
@@ -1407,18 +1391,34 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
       },
       "artists": [
         {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
         }
       ],
-      "duration_ms": 219666,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "BASIC",
+        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 241144,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "BASIC",
-        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
         }
       ],
-      "duration_ms": 241144,
-      "name": "Brave New World",
-      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1471,22 +1471,6 @@
       "duration_ms": 194400,
       "name": "THIS CITY",
       "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
-        "name": "THE PARK IN THE NIGHT part three",
-        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
-      },
-      "artists": [
-        {
-          "name": "GWSN",
-          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
-        }
-      ],
-      "duration_ms": 213150,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
+        "name": "THE PARK IN THE NIGHT part three",
+        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
+      },
+      "artists": [
+        {
+          "name": "GWSN",
+          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
+        }
+      ],
+      "duration_ms": 213150,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 231294,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1555,22 +1571,6 @@
       "duration_ms": 208000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
-      },
-      "artists": [
-        {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
-        }
-      ],
-      "duration_ms": 191426,
-      "name": "Starry Night",
-      "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "#TUSM",
         "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 218902,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        }
+      ],
+      "duration_ms": 191426,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

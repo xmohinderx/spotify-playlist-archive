@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 125909,
+  "num_followers": 126026,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMGMxZGFkMDNhOWUxMWI2OWE0YjExMGFmZmE1NjcwOTZj",
+  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMGFkZDUwNTYxZjcyZWQzMzFmOGM0NjhhNzEwZDM3ODJm",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "Jumper - 1998 Edit",
-      "url": "https://open.spotify.com/track/3354J49VpkbZJho7Ztdzpw"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
         "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 241991,
       "name": "Lola - 2020 Stereo Remaster",
       "url": "https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "Jumper - 1998 Edit",
+      "url": "https://open.spotify.com/track/3354J49VpkbZJho7Ztdzpw"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Band On The Run (Standard)",
-        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Jet - Remastered 2010",
-      "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "My Aim Is True",
         "url": "https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 204533,
       "name": "Alison",
       "url": "https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Band On The Run (Standard)",
+        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Jet - Remastered 2010",
+      "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
     },
     {
       "added_at": "2021-12-16 19:14:26",

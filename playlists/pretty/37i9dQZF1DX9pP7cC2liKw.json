@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 58076,
+  "num_followers": 58591,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDYyNCwwMDAwMDAwMGY5YjI3YTFhMWZmYWM5Yjg3YmM3ZDZhYThlNzUxNmE3",
+  "snapshot_id": "MTY2NDUxMDYyNCwwMDAwMDAwMDYwYTQ1ZTc0N2ZkN2NkYjcwMjE0NDc1OTI5NmY0MGJl",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ"
     },
     {
-      "added_at": "2022-10-08 01:42:40",
+      "added_at": "2022-10-09 20:18:50",
       "album": {
         "name": "Y tu te vas",
         "url": "https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/1wXeMZqegwYZ2zWtrwvXab"
     },
     {
-      "added_at": "2022-10-08 01:42:40",
+      "added_at": "2022-10-09 20:18:50",
       "album": {
         "name": "Sono Come Sono",
         "url": "https://open.spotify.com/album/63VoYQPDzymodlgLyn3SWq"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
     },
     {
-      "added_at": "2022-10-08 01:42:40",
+      "added_at": "2022-10-09 20:18:50",
       "album": {
         "name": "Il volo / Suonno",
         "url": "https://open.spotify.com/album/0xUqQAygc6UIpXcSXvKyRT"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/2RcrkBWCOWaX67jVDLgJr6"
     },
     {
-      "added_at": "2022-10-08 01:42:40",
+      "added_at": "2022-10-09 20:18:50",
       "album": {
         "name": "Arde",
         "url": "https://open.spotify.com/album/3heydvhPVk5vZ5ZcX1q3u0"
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/56b9EFjEu6ugwoingfHFlX"
-      },
-      "artists": [
-        {
-          "name": "Delaporte",
-          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
-        }
-      ],
-      "duration_ms": 203186,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/5GmB4sjkog7ETZP7KHMa9L"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/56b9EFjEu6ugwoingfHFlX"
+      },
+      "artists": [
+        {
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/5GmB4sjkog7ETZP7KHMa9L"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Sentir",
+        "url": "https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z"
+      },
+      "artists": [
+        {
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+        }
+      ],
+      "duration_ms": 228194,
+      "name": "Sentir",
+      "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Laughter of the Sea",
         "url": "https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 359781,
       "name": "Laughter of the Sea",
       "url": "https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Sentir",
-        "url": "https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z"
-      },
-      "artists": [
-        {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
-        }
-      ],
-      "duration_ms": 228194,
-      "name": "Sentir",
-      "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Turn Around",
-        "url": "https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u"
-      },
-      "artists": [
-        {
-          "name": "Rampue",
-          "url": "https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv"
-        }
-      ],
-      "duration_ms": 437241,
-      "name": "Turn Around",
-      "url": "https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Grind / Prelims",
         "url": "https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 318014,
       "name": "Grind",
       "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Turn Around",
+        "url": "https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u"
+      },
+      "artists": [
+        {
+          "name": "Rampue",
+          "url": "https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv"
+        }
+      ],
+      "duration_ms": 437241,
+      "name": "Turn Around",
+      "url": "https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Xaxoeira",
-        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 347600,
-      "name": "1542",
-      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Apolinar",
         "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 251428,
       "name": "Temazcal",
       "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Xaxoeira",
+        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
+      },
+      "artists": [
+        {
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        }
+      ],
+      "duration_ms": 347600,
+      "name": "1542",
+      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/7at4rkvJsE7CO1gXlcJpDM"
     },
     {
-      "added_at": "2022-08-08 21:58:41",
-      "album": {
-        "name": "Ven Vamos",
-        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Ven Vamos",
-      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Drama",
@@ -1279,6 +1263,22 @@
       "duration_ms": 213810,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt"
+    },
+    {
+      "added_at": "2022-08-08 21:58:41",
+      "album": {
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "added_at": "2022-06-15 04:26:09",

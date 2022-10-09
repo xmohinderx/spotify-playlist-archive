@@ -4,7 +4,7 @@
 
 > Music by female\-identifying musicians ONLY! Cover: <a href=“spotify:artist:34bhyY8jfKez7uKakMfy4y”>Maddie & Tae</a>.
 
-551 songs - 1 day 5 hr 51 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+552 songs - 1 day 5 hr 56 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Gas Station](https://open.spotify.com/track/2TgbS4ZzDWdhxga5HImDJ7) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Gas Station](https://open.spotify.com/album/25TQQsMRr7E9CZQyANX2k1) | 2:15 | 2022-06-01 | 2022-07-07 |
 | [Gator Season](https://open.spotify.com/track/0B0kOrauoAebBdoax6C0Y4) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Gator Season](https://open.spotify.com/album/5ypYJLK29dHLVKXSB32AIK) | 1:41 | 2022-10-05 |  |
 | [Gave It Back Broken](https://open.spotify.com/track/6r4PlTnpyf6AlGWyJMb1wx) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Gave It Back Broken](https://open.spotify.com/album/5ivndE0YVTnHp0yKAZ1Ux0) | 4:05 | 2022-06-01 | 2022-07-07 |
-| [GEMINI](https://open.spotify.com/track/4bHFmySw6Wdybzjxz10Yle) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [GEMINI](https://open.spotify.com/album/6i1qZmImwap5d77yJ8J9pn) | 1:46 | 2022-10-05 |  |
+| [GEMINI](https://open.spotify.com/track/4bHFmySw6Wdybzjxz10Yle) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [GEMINI](https://open.spotify.com/album/6i1qZmImwap5d77yJ8J9pn) | 1:46 | 2022-10-05 | 2022-10-09 |
 | [getting into](https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [getting into](https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3) | 2:49 | 2022-09-07 | 2022-10-06 |
 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-04-06 | 2022-05-05 |
 | [girl like me](https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [girl like me](https://open.spotify.com/album/46ZPRtDJULJaHrTupdMMED) | 2:58 | 2022-03-08 | 2022-04-07 |
@@ -235,6 +235,7 @@
 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-08-03 | 2022-09-09 |
 | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/track/0CEaIQxIFxpvVsZqDIpkcz) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/album/46oRc7TlVThSB8eLUIEjLL) | 5:05 | 2022-06-01 | 2022-07-07 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-02-02 | 2022-03-09 |
+| [How You Love Someone](https://open.spotify.com/track/56XDLBRNjRSnQnwlWTuwKh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [How You Love Someone](https://open.spotify.com/album/5E3d726Sw4jFs5PPiDe5Du) | 4:25 | 2022-10-09 |  |
 | [How’d You Go out Like That](https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [How’d You Go out Like That](https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia) | 2:42 | 2022-08-03 | 2022-09-09 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-01-05 | 2022-02-03 |
 | [Human Condition](https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Human Condition](https://open.spotify.com/album/74ITqOAxrBRws1DJty5e85) | 3:50 | 2022-08-03 | 2022-09-09 |

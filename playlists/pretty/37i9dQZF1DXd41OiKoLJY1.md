@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Reanne Borela, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,358 likes - 90 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,372 likes - 90 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

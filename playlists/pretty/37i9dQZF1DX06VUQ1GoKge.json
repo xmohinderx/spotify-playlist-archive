@@ -1,15 +1,15 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 412776,
+  "num_followers": 413278,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk4NzA5NSwwMDAwMDAwMGU2MzRlZjk3MDM2MTVjMjM2YzUzOTNhYjE3ZDBjY2Yz",
+  "snapshot_id": "MTY2NDk4NzA5NSwwMDAwMDAwMDhjNmQ4OWI2MWE0NWFmZmJlM2M0MDkwOTRhYjI5OTgx",
   "tracks": [
     {
-      "added_at": "2022-10-08 01:25:02",
+      "added_at": "2022-10-09 20:01:04",
       "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
     },
     {
-      "added_at": "2022-10-08 01:25:02",
+      "added_at": "2022-10-09 20:01:04",
       "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
-      "added_at": "2022-10-08 01:25:02",
+      "added_at": "2022-10-09 20:01:04",
       "album": {
         "name": "A Devil More Damned / Choke / Mind Right",
         "url": "https://open.spotify.com/album/3VpuG1Z9YmhjOBK77CMdro"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0"
     },
     {
-      "added_at": "2022-10-08 01:25:02",
+      "added_at": "2022-10-09 20:01:04",
       "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
@@ -335,18 +335,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Disguise",
-        "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 205394,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi"
+      "duration_ms": 234226,
+      "name": "Du hast",
+      "url": "https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -367,18 +367,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY"
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
         }
       ],
-      "duration_ms": 234226,
-      "name": "Du hast",
-      "url": "https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh"
+      "duration_ms": 205394,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi"
     },
     {
       "added_at": "2021-10-12 08:24:18",
@@ -767,6 +767,22 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Feuer frei!",
+      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 268760,
       "name": "More Human Than Human",
       "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Feuer frei!",
-      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Manifest",
-        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Viral",
-      "url": "https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Through The Eyes",
         "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 176600,
       "name": "Get Up Again",
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "The Nexus",
-        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3"
       },
       "artists": [
         {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 196040,
-      "name": "The Nexus",
-      "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
+      "duration_ms": 233297,
+      "name": "MANTRA",
+      "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 233297,
-      "name": "MANTRA",
-      "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 249050,
       "name": "As Above, So Below",
       "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "The Nexus",
+        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "The Nexus",
+      "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/3cOYrPug7OjbO2oPNe38eE"
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
         }
       ],
-      "duration_ms": 226348,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
+      "duration_ms": 239779,
+      "name": "Painless",
+      "url": "https://open.spotify.com/track/4IkCvLPQfBEclen1NuIDIL"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Judas",
-        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/3cOYrPug7OjbO2oPNe38eE"
       },
       "artists": [
         {
-          "name": "Fozzy",
-          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 239779,
-      "name": "Painless",
-      "url": "https://open.spotify.com/track/4IkCvLPQfBEclen1NuIDIL"
+      "duration_ms": 226348,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
     },
     {
       "added_at": "2021-03-29 12:26:54",

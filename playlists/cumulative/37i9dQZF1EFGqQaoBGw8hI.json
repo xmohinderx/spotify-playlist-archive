@@ -1251,10 +1251,28 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 257534,
       "name": "Candle in the Wind",
       "url": "https://open.spotify.com/track/4ft5xdZvpplCKbhJxd0gGc"
+    },
+    {
+      "album": {
+        "name": "England's Rose",
+        "url": "https://open.spotify.com/album/4AC6mUo3BQlPop3DMI7NYS"
+      },
+      "artists": [
+        {
+          "name": "Timothy Eaton Ensemble",
+          "url": "https://open.spotify.com/artist/1mD1xrYY0PxnYZbwL9ub4w"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245773,
+      "name": "Candle in the Wind (Goodbye England's Rose)",
+      "url": "https://open.spotify.com/track/7sVVvWa0036ac97LiGYwor"
     },
     {
       "album": {

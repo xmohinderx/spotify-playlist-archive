@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Royal & the Serpent
 
-582 songs - 1 day 7 hr 3 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
+583 songs - 1 day 7 hr 7 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [It Ain't Over](https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:48 | 2022-08-12 |  |
 | [It's All Happening](https://open.spotify.com/track/7h0k5VYp0p38OmauI9xR0P) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [It's All Happening](https://open.spotify.com/album/6ZGcFUJEFdV2rKc2KkJGMo) | 3:00 | 2021-11-26 | 2022-01-15 |
 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 | 2021-11-26 | 2022-03-05 |
-| [It's Your Time](https://open.spotify.com/track/5KcaYxXpwzX69M26YeM2mZ) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [It's Your Time](https://open.spotify.com/album/2pp6pa4o8WTiKac58i1vus) | 3:33 | 2022-08-26 |  |
+| [It's Your Time](https://open.spotify.com/track/4hsoBUPZ9HX7UnjcRfdLFR) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/1FDNmr1WNyQ0Ag27IBAc06) | 3:33 | 2022-10-07 |  |
+| [It's Your Time](https://open.spotify.com/track/5KcaYxXpwzX69M26YeM2mZ) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [It's Your Time](https://open.spotify.com/album/2pp6pa4o8WTiKac58i1vus) | 3:33 | 2022-08-26 | 2022-10-09 |
 | [Jackie Down The Line](https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo) | 4:01 | 2022-01-14 | 2022-04-23 |
 | [Jealousy](https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Jealousy](https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav) | 3:12 | 2022-07-01 | 2022-09-24 |
 | [Jimmy Neutron](https://open.spotify.com/track/0QQHnDejdUQbpnOhPgyYmE) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Jimmy Neutron](https://open.spotify.com/album/7dBwBWAzcOAJmXma3PeQ5G) | 3:51 | 2022-06-24 | 2022-09-17 |

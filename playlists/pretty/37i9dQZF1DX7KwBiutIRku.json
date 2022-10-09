@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 42716,
+  "num_followers": 42852,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMDExYjc4ZjY4ZGI3YTM4M2UxNjk2MmQzOGMwNjMwNGUx",
+  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMDNkYTRmNzlhMzE2OGMyNjM0ZDMxZjEwNzliMmJkM2E5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 155640,
+      "name": "I Don't Need You No More",
+      "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 246493,
       "name": "Let's Make It",
       "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 155640,
-      "name": "I Don't Need You No More",
-      "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -479,8 +479,24 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "Floyd's Hotel",
+      "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Top Priority (Remastered 2017)",
+        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
       },
       "artists": [
         {
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
         }
       ],
-      "duration_ms": 213626,
-      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
-      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
+      "duration_ms": 290670,
+      "name": "Hell Cat",
+      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -507,22 +523,6 @@
       "duration_ms": 173026,
       "name": "Borstal Boys",
       "url": "https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Floyd's Hotel",
-      "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Top Priority (Remastered 2017)",
-        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 290670,
-      "name": "Hell Cat",
-      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Blues Band - Ready (Remastered)",
         "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
       },
@@ -655,22 +639,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Snakes and Ladders: The Best of Faces",
-        "url": "https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Had Me a Real Good Time - 2010 Remaster",
-      "url": "https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Side 3",
         "url": "https://open.spotify.com/album/70HzypoC6XLvXEUWAutTRc"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 310533,
       "name": "I'm A Rocker",
       "url": "https://open.spotify.com/track/1HDnpYpxx5QksiWFs7DGzv"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
+      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Snakes and Ladders: The Best of Faces",
+        "url": "https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Had Me a Real Good Time - 2010 Remaster",
+      "url": "https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Jinx (Remastered 2017)",
-        "url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 234901,
-      "name": "Bourbon",
-      "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "One Way...Or Another",
         "url": "https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 185093,
       "name": "Tars Of India",
       "url": "https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Essential Edgar Winter",
+        "url": "https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW"
+      },
+      "artists": [
+        {
+          "name": "Edgar Winter's White Trash",
+          "url": "https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "Keep Playin' That Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1"
     },
     {
       "added_at": "2020-12-01 05:01:00",

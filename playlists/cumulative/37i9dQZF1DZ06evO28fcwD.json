@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Gospel Hits",
+        "url": "https://open.spotify.com/album/2hJ9BieLDUmePCXiZHFKI3"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "Abantwana Basethempeleni (Children of the Temple)",
+      "url": "https://open.spotify.com/track/1n5U6EehsjKoFttFoV6oMZ"
+    },
+    {
+      "album": {
         "name": "In Harmony",
         "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
       },
@@ -63,10 +81,32 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 113313,
       "name": "African Alphabet",
       "url": "https://open.spotify.com/track/3O5q4MvQzxYYzjRLchIOYi"
+    },
+    {
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/4XJuLu021CU3Ucama9EK6L"
     },
     {
       "album": {
@@ -85,7 +125,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 226400,
       "name": "Ain't No Sunshine (feat. Des'ree)",
       "url": "https://open.spotify.com/track/7t2z4rhH4ScjAmkzhZ3vPO"
@@ -219,7 +259,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 214133,
       "name": "Ayikh\u2019 Indaw\u2019 Enjengekhaya",
       "url": "https://open.spotify.com/track/4gjiWULubKgWGUWWeFIOGj"
@@ -315,7 +355,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 231416,
       "name": "Chain Gang (feat. Lou Rawls)",
       "url": "https://open.spotify.com/track/5qdqlHz8qxgi86txQbXp3x"
@@ -431,7 +471,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 372009,
       "name": "Everything's So Stupid! (Abadala)",
       "url": "https://open.spotify.com/track/5W5J4ma1uwWWa0pqElLcpv"
@@ -609,10 +649,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 481853,
       "name": "Isimanga Salomhlaba (Soul Drummer Mix)",
       "url": "https://open.spotify.com/track/15Z4ir2D3mCxVVcdmp8JGa"
+    },
+    {
+      "album": {
+        "name": "Chillout Sessions",
+        "url": "https://open.spotify.com/album/62VrSNXS4GHmefkAexgufv"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481853,
+      "name": "Isimanga Salomhlaba (Soul Drummer Mix)",
+      "url": "https://open.spotify.com/track/7Hee2PI8TK81DKv8s8wm3o"
     },
     {
       "album": {
@@ -645,10 +703,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 160146,
       "name": "Kanye Nawe Nkosi Yami",
       "url": "https://open.spotify.com/track/0j0EJ0Ksus3dDhWR0kYSr2"
+    },
+    {
+      "album": {
+        "name": "Phezulu Emafini",
+        "url": "https://open.spotify.com/album/7e0fvDV53JrLBNXTlfeB6O"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160146,
+      "name": "Kanye Nawe Nkosi Yami",
+      "url": "https://open.spotify.com/track/4iPuOwtCMMdmS9uMbYxzKQ"
     },
     {
       "album": {
@@ -909,7 +985,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 183360,
       "name": "Music Knows No Boundaries",
       "url": "https://open.spotify.com/track/3hNFU3wSvNgSENBnsfmp7u"
@@ -927,7 +1003,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 314826,
       "name": "Nansi Imali",
       "url": "https://open.spotify.com/track/3oKXHUuIjXlAzrhmdIibUn"
@@ -989,7 +1065,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 249133,
       "name": "Ngingenwe Emoyeni",
       "url": "https://open.spotify.com/track/2XnI4DE2k0uINOtFONuPzo"
@@ -1115,7 +1191,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 225886,
       "name": "Paulina",
       "url": "https://open.spotify.com/track/6htw75SIT1q1SSp681lA2V"
@@ -1199,7 +1275,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 331093,
       "name": "River Of Dreams",
       "url": "https://open.spotify.com/track/3XCAO6v3Rkz4q2yzyMAauZ"

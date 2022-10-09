@@ -4,7 +4,7 @@
 
 > sabe aquela música que cê ouve pelas redes mas não sabe o nome? pois então/Lou Garcia
 
-172 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
+173 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Foco & Marcha](https://open.spotify.com/track/1bAX5F8mAbyD7Jauj3tm2b) | [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [DJ Faveliano](https://open.spotify.com/artist/53SS1Ab7P1dG97hT8jwAKQ) | [Foco & Marcha](https://open.spotify.com/album/29Ruz5ALn8VUm0jx06KTH4) | 4:33 | 2022-05-25 | 2022-07-29 |
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2022-05-25 |  |
 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 | 2022-05-25 | 2022-07-07 |
-| [Geme Bem Baixinho \(Speed Up\)](https://open.spotify.com/track/7HxloZhx5EyZk3s4IAbSvk) | [Listen&Chill](https://open.spotify.com/artist/5RkkaraeiYGoDTJxBpFywx) | [Geme Bem Baixinho \(Speed Up\)](https://open.spotify.com/album/4Z1T6S5gfPSyfPOgnugBUj) | 2:22 | 2022-09-28 |  |
+| [Geme Bem Baixinho \(Speed Up\)](https://open.spotify.com/track/7HxloZhx5EyZk3s4IAbSvk) | [Listen&Chill](https://open.spotify.com/artist/7pHWcxjiJFl1OAp3i9lP8G) | [Geme Bem Baixinho \(Speed Up\)](https://open.spotify.com/album/4Z1T6S5gfPSyfPOgnugBUj) | 2:22 | 2022-09-28 |  |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-05-25 | 2022-07-29 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4) | 2:33 | 2022-07-28 | 2022-09-22 |
 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 | 2022-09-21 |  |
@@ -138,6 +138,7 @@
 | [Se Acabo \(feat\. Method Man\) \- Remix](https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Take It Or Squeeze It](https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL) | 3:32 | 2022-05-25 |  |
 | [Senta Danadinha](https://open.spotify.com/track/6Epk6YaI0oQOxy20TPk96m) | [Fillipe Dom](https://open.spotify.com/artist/0QMWLYwcO27Ypn8Qr1xJ5m), [Ruivinha de Marte](https://open.spotify.com/artist/5Xx8dipXXNS0AjPDULXA0z) | [Senta Danadinha](https://open.spotify.com/album/3i0hdb3jIlK1QNcrAnHi8k) | 3:00 | 2022-05-25 | 2022-08-18 |
 | [She Knows \(feat\. Amber Coffman & Cults\)](https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:56 | 2022-05-25 | 2022-08-05 |
+| [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-10-08 |  |
 | [Sitio do Tio Harry](https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Coisas Que Eu Só Falaria Brincando](https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE) | 4:51 | 2022-05-25 |  |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-25 | 2022-08-19 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-08-18 |  |

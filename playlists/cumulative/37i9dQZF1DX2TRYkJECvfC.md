@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-301 songs - 1 day 3 hr 32 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+302 songs - 1 day 3 hr 36 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 | 2021-12-08 |  |
 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 | 2021-12-08 |  |
 | [Nillla \(La la La la La\)](https://open.spotify.com/track/3ZRb3HCjzWH2bQqlzk52xb) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Coookies 2](https://open.spotify.com/album/22GejLMhLmoRWaYvcuMkmw) | 4:02 | 2021-12-08 | 2022-09-04 |
+| [Nillla \(La la La la La\)](https://open.spotify.com/track/1Y5C8ioJGpEYzSdAbcJsqn) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Nillla \(La la La la La\)](https://open.spotify.com/album/6LOzTtWRvtuCHlsRZchMu4) | 4:02 | 2022-05-03 |  |
 | [Nobody But You](https://open.spotify.com/track/2CrlhJAUBfMc53CYt0v8ev) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Hudson Scott](https://open.spotify.com/artist/1ejaJ2V5Ea7O43Y32vAwEl) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 4:51 | 2022-05-03 |  |
 | [Nostalgic](https://open.spotify.com/track/10LSigkAHxT3yBe1rQJpBv) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Nostalgic](https://open.spotify.com/album/2ZErGALHzhUPyxR9nOiZU4) | 6:29 | 2022-05-03 |  |
 | [Notte senza fine \- Kiasmos Remix](https://open.spotify.com/track/6HUnAzGo1zYfdX4ZW1yiZh) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Endless \(Remixes\)](https://open.spotify.com/album/2obZe0VX40C3BL9FNmDjP7) | 6:28 | 2022-02-21 |  |
@@ -238,7 +239,7 @@
 | [Solid Gold Love](https://open.spotify.com/track/6YzXlsjXVZTwUoKSwHZsuF) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Solid Gold Love](https://open.spotify.com/album/2S2xWb8NSimNm5D4jz6vSp) | 4:05 | 2021-12-08 |  |
 | [Something New](https://open.spotify.com/track/59PzMa6VuSz6AH3jdQD9w6) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [About That](https://open.spotify.com/album/2bkK9rVU4m5bvoZn2BfZJg) | 5:58 | 2021-12-08 | 2022-07-21 |
 | [Somewhere \- Dream Dub](https://open.spotify.com/track/190I6kbDanvCla1KYDTojf) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Somewhere](https://open.spotify.com/album/5EjAbC1a6fYerVAEjziibT) | 8:02 | 2021-12-08 | 2022-07-29 |
-| [Sorry I Hide in My Room](https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG) | [Sorry I Hide in My Room](https://open.spotify.com/album/3ItUn2XpV5dYmfXAVIziFh) | 2:56 | 2021-12-08 |  |
+| [Sorry I Hide in My Room](https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG) | [Sorry I Hide in My Room](https://open.spotify.com/album/3ItUn2XpV5dYmfXAVIziFh) | 2:56 | 2021-12-08 | 2022-10-09 |
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/5cIOqCyQzGw9Im60Q7RlWS) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/5x1pmw6FPmCIy4AsHqc6cb) | 4:50 | 2022-05-03 |  |
 | [Spectrum \- Original](https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV) | [Collective Machine](https://open.spotify.com/artist/0NV3zEAzzAFy1vf5BWGlGL) | [Spectrum EP](https://open.spotify.com/album/5I5VAP5dHV0ZRZdDRv6VXH) | 6:55 | 2021-12-08 | 2022-07-28 |
 | [Stop That Man](https://open.spotify.com/track/4uQulCB1pHX0i3dppzZ1PQ) | [FootRocket](https://open.spotify.com/artist/7BPFKaQl9MDa4rmv9QZh5L) | [Stop That Man](https://open.spotify.com/album/2XFXFozuoCAtegfasbZezP) | 2:50 | 2021-12-08 | 2022-02-22 |

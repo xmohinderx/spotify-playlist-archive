@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: MV Bill, Kmila CDD
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,663 likes - 66 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,903 likes - 66 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 52 | [O Amor Venceu a Guerra](https://open.spotify.com/track/7LhExbpqQCLy2tFPK8N5P9) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Tarja Preta](https://open.spotify.com/album/0g4bxmzveUHyfxYIcH93Fi) | 8:44 |
 | 53 | [Como Eu Te Quero](https://open.spotify.com/track/5JX81dHdlOVfTXim2itZKw) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:30 |
 | 54 | [Raciocínio Quebrado](https://open.spotify.com/track/258dSfImKWSzPdVMK8TlFz) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Raciocínio Quebrado](https://open.spotify.com/album/06YhG2SF1D0MZCbdCLIE5T) | 2:31 |
-| 55 | [Retrato de um Playboy \(Juventude Perdida\)](https://open.spotify.com/track/3UIgJ1731jLr1qzDZy1Ma2) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD) | [Gabriel O Pensador](https://open.spotify.com/album/6U8M46eDHMmL6TmlveNxVt) | 3:58 |
+| 55 | [Retrato de um Playboy \(Juventude Perdida\)](https://open.spotify.com/track/3wtl36m4QVTlc8aUZfPWM8) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD) | [Tás A Ver \- O Melhor de Gabriel O Pensador](https://open.spotify.com/album/6hYtxwo8Fy3VFSnbJy3VqJ) | 3:58 |
 | 56 | [Zé Brasileiro](https://open.spotify.com/track/5UBXVQfXgkDl2N423nNtgi) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Sujeito Homem 2](https://open.spotify.com/album/2yOFsIGhzQijRHc7qj0l4o) | 4:36 |
 | 57 | [Sr\. Tempo Bom](https://open.spotify.com/track/6vbN5VPXXh2Co1rA9wEJAw) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW), [Ieda Hills](https://open.spotify.com/artist/4C6FdPXAivI1RSEL63afq4) | [Preste Atenção](https://open.spotify.com/album/4QhLW1Z07WU2CrQcerA7wy) | 4:42 |
 | 58 | [Mulher Elétrica](https://open.spotify.com/track/7FuwhCYus3htyXClROmiFZ) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [William Magalhães](https://open.spotify.com/artist/4MJN4aIU640fw6oayplA0n) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 3:33 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 65 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 66 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/1Rn7tUyMiTVxlu4H53cAzV) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/67NEEqfjTcla2g5k9TP2rZ) | 4:01 |
 
-Snapshot ID: `MTY2NTExMTY2MCwwMDAwMDAwMDI5M2IwMjE3YjVhM2I5NDg4ZWRlYjhmOWE3YTRiNjgw`
+Snapshot ID: `MTY2NTExMTY2MCwwMDAwMDAwMGJhMTE1NDVhMzdkZWNiMGE2YTFmOWQ5ODcyZWM2MmNj`

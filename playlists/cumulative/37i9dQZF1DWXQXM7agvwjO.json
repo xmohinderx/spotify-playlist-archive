@@ -4693,7 +4693,7 @@
     {
       "album": {
         "name": "Strangest Things",
-        "url": "https://open.spotify.com/album/1efuRhREYd3lBKa3HV1DyN"
+        "url": "https://open.spotify.com/album/3ApfPiXonK9F6KiJQSeYeN"
       },
       "artists": [
         {
@@ -4704,6 +4704,24 @@
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 242181,
+      "name": "November Blue",
+      "url": "https://open.spotify.com/track/0PVVLuxXLWf4Sw7zjV6rd8"
+    },
+    {
+      "album": {
+        "name": "Strangest Things",
+        "url": "https://open.spotify.com/album/1efuRhREYd3lBKa3HV1DyN"
+      },
+      "artists": [
+        {
+          "name": "Sweet After Tears",
+          "url": "https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
       "duration_ms": 242181,
       "name": "November Blue",
       "url": "https://open.spotify.com/track/1rVHGgB6wbPqFgsMcBYbYL"

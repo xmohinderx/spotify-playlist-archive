@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 10721,
+  "num_followers": 10731,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDEwNzVmODEyZWM0ZTc1MGY0YTI4NDhiY2NkNTVlM2Zk",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDFmNWM3YmY5NjI0YTY3NzBmZTQ2NzMyODY2OTI4NTNm",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 70253,
-      "name": "Drown in It",
-      "url": "https://open.spotify.com/track/4nSCXiPMaXcQ79c6ahAiKv"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Danity Kane",
         "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 104093,
       "name": "Come Over Interlude",
       "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 70253,
+      "name": "Drown in It",
+      "url": "https://open.spotify.com/track/4nSCXiPMaXcQ79c6ahAiKv"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Frank (US Clean e-Version)",
-        "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 39026,
-      "name": "Teo Licks",
-      "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Part III",
         "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 118200,
       "name": "Q, Mike, Slim, Daron - Interlude",
       "url": "https://open.spotify.com/track/3GuliNti6PIEJoqUoPp8Wl"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Frank (US Clean e-Version)",
+        "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 39026,
+      "name": "Teo Licks",
+      "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 67573,
-      "name": "You Are My Joy (Interlude)",
-      "url": "https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 110466,
       "name": "Sexy You (Interlude)",
       "url": "https://open.spotify.com/track/7CBtCcTd3Zs6GS1RGKhOva"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 67573,
+      "name": "You Are My Joy (Interlude)",
+      "url": "https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Ready is Always Too Late",
-        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 39600,
-      "name": "J.L (Interlude)",
-      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 103995,
       "name": "Why (Interlude)",
       "url": "https://open.spotify.com/track/346GctLi0LBpPTjfTQRkvZ"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Ready is Always Too Late",
+        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 39600,
+      "name": "J.L (Interlude)",
+      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 74173,
-      "name": "I Surrender - Interlude",
-      "url": "https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Subject",
         "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 216320,
       "name": "Whoomp (Interlude)",
       "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 74173,
+      "name": "I Surrender - Interlude",
+      "url": "https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Room 112",
-        "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
+        "name": "Kima, Keisha & Pam",
+        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
       },
       "artists": [
         {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
         }
       ],
-      "duration_ms": 70733,
-      "name": "Anywhere (Interlude)",
-      "url": "https://open.spotify.com/track/62aa75nKO5orJZ1AIOeled"
+      "duration_ms": 158030,
+      "name": "There Will Be No Fuck Tonight (Interlude)",
+      "url": "https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Kima, Keisha & Pam",
-        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
+        "name": "1st Born Second",
+        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
       },
       "artists": [
         {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
         }
       ],
-      "duration_ms": 158030,
-      "name": "There Will Be No Fuck Tonight (Interlude)",
-      "url": "https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8"
+      "duration_ms": 130026,
+      "name": "C'mere - Skit",
+      "url": "https://open.spotify.com/track/6m8jUowInyWee9inDLOF9S"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "1st Born Second",
-        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
-      },
-      "artists": [
-        {
-          "name": "Bilal",
-          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
-        }
-      ],
-      "duration_ms": 130026,
-      "name": "C'mere - Skit",
-      "url": "https://open.spotify.com/track/6m8jUowInyWee9inDLOF9S"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "The Beauty Created",
         "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
       },
@@ -1115,6 +1099,38 @@
       "duration_ms": 85000,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/18sZorMwXkzMb6pmCePYlz"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Room 112",
+        "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 70733,
+      "name": "Anywhere (Interlude)",
+      "url": "https://open.spotify.com/track/62aa75nKO5orJZ1AIOeled"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 70386,
+      "name": "Definition of a Bad Girl (Interlude)",
+      "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Acoustic Soul",
-        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
-      },
-      "artists": [
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 84600,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "20 Y.O.",
         "url": "https://open.spotify.com/album/0mRIaVhwnvAblQaRkvGJBA"
       },
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+        "name": "Acoustic Soul",
+        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
       },
       "artists": [
         {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
         }
       ],
-      "duration_ms": 70386,
-      "name": "Definition of a Bad Girl (Interlude)",
-      "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
+      "duration_ms": 84600,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq"
     },
     {
       "added_at": "2022-08-26 04:00:00",

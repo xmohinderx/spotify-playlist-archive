@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 306282,
+  "num_followers": 306467,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGQzODRkYzY5MDZmZjBlZWM1OTM1Y2E1M2NmYzliOGNh",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDA2NThmNGMzY2ZmYjdhOTRhMGJiZTUwZGNmMGUzZGY5",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -417,20 +417,20 @@
       "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-01-29 05:01:00",
       "album": {
-        "name": "Jazz In The Present Tense",
-        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
+        "name": "I Told You So",
+        "url": "https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4"
       },
       "artists": [
         {
-          "name": "Solsonics",
-          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
         }
       ],
-      "duration_ms": 249933,
-      "name": "Montuno Funk",
-      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
+      "duration_ms": 274853,
+      "name": "Hole In One",
+      "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -469,20 +469,20 @@
       "url": "https://open.spotify.com/track/6VO9i1n879SKNqjZkzaPvB"
     },
     {
-      "added_at": "2021-01-29 05:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "I Told You So",
-        "url": "https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4"
+        "name": "Jazz In The Present Tense",
+        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
       },
       "artists": [
         {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+          "name": "Solsonics",
+          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
         }
       ],
-      "duration_ms": 274853,
-      "name": "Hole In One",
-      "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
+      "duration_ms": 249933,
+      "name": "Montuno Funk",
+      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/3dyjYQhI5KTC82l0VUa6Qs"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Hang",
+        "url": "https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        }
+      ],
+      "duration_ms": 232140,
+      "name": "Monster Funk",
+      "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Watchu Want",
@@ -847,22 +863,6 @@
       "duration_ms": 160866,
       "name": "Watchu Want",
       "url": "https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Hang",
-        "url": "https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6"
-      },
-      "artists": [
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
-        }
-      ],
-      "duration_ms": 232140,
-      "name": "Monster Funk",
-      "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Uh Yeah!",
-        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
-      },
-      "artists": [
-        {
-          "name": "Funk Off",
-          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Living Off",
-      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Wrangler",
         "url": "https://open.spotify.com/album/54TFr7reQoam9PpEzw8mFp"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 179546,
       "name": "The Wrangler",
       "url": "https://open.spotify.com/track/0WEMvMJZUrCUJJtu7rOPjB"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Uh Yeah!",
+        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
+      },
+      "artists": [
+        {
+          "name": "Funk Off",
+          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Living Off",
+      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Jeff Franca",
+          "url": "https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "Permission to Land - 45",
+      "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Baked, Broiled & Fried",
         "url": "https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 470371,
       "name": "Bambu",
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Jeff Franca",
-          "url": "https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "Permission to Land - 45",
-      "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
     },
     {
       "added_at": "2021-11-26 05:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 324078,
-      "name": "Royal Highness",
-      "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Gotcha Rhythm Right Here",
         "url": "https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 352192,
       "name": "Chili Wa Man",
       "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 324078,
+      "name": "Royal Highness",
+      "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
     }
   ],
   "unique_name": "Instrumental Funk",

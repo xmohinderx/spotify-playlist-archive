@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Paty B on cover.",
-  "num_followers": 167107,
+  "num_followers": 167123,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMDE1MCwwMDAwMDAwMGM2YmM4YmVjMDlhODRiMGJiMWY2MDMwOGUxZDYxOGRk",
+  "snapshot_id": "MTY2NTAwMDE1MCwwMDAwMDAwMGMzNmQ1ZGNmYzU2Y2MyZDM5ODBmZGUzYTA1YjdkOWEy",
   "tracks": [
     {
       "added_at": "2022-10-05 20:02:30",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
+        "name": "M\u00fasica bailando",
+        "url": "https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "M\u00fasica bailando",
+      "url": "https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
         "name": "nublado",
         "url": "https://open.spotify.com/album/1XIcyGupJrLUYtX2JlElVr"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "M\u00fasica bailando",
-        "url": "https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq"
+        "name": "No Me Dejes (Halloween)",
+        "url": "https://open.spotify.com/album/2Y0OOk9SPUmrO4iDPo7omM"
       },
       "artists": [
         {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+          "name": "The Real Antonios",
+          "url": "https://open.spotify.com/artist/539CDHy0e3VlZiZPira98V"
         }
       ],
-      "duration_ms": 138466,
-      "name": "M\u00fasica bailando",
-      "url": "https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA"
+      "duration_ms": 167516,
+      "name": "No Me Dejes (Halloween)",
+      "url": "https://open.spotify.com/track/4b8H3eaTQm66t3VVFLQL88"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -335,22 +351,6 @@
       "duration_ms": 155466,
       "name": "Pisoteo",
       "url": "https://open.spotify.com/track/3HtDvX3733FuKDzAmNqaPm"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
-        "name": "No Me Dejes (Halloween)",
-        "url": "https://open.spotify.com/album/2Y0OOk9SPUmrO4iDPo7omM"
-      },
-      "artists": [
-        {
-          "name": "The Real Antonios",
-          "url": "https://open.spotify.com/artist/539CDHy0e3VlZiZPira98V"
-        }
-      ],
-      "duration_ms": 167516,
-      "name": "No Me Dejes (Halloween)",
-      "url": "https://open.spotify.com/track/4b8H3eaTQm66t3VVFLQL88"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "La Gasolina",
-        "url": "https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz"
-      },
-      "artists": [
-        {
-          "name": "LOUJAY",
-          "url": "https://open.spotify.com/artist/3LSQt5vgYueIbyiCst6Cwp"
-        }
-      ],
-      "duration_ms": 188087,
-      "name": "La Gasolina",
-      "url": "https://open.spotify.com/track/2sF7SP88KqQr1CqDkMHKiX"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "Paradoja",
         "url": "https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
+        "name": "La Gasolina",
+        "url": "https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz"
+      },
+      "artists": [
+        {
+          "name": "LOUJAY",
+          "url": "https://open.spotify.com/artist/3LSQt5vgYueIbyiCst6Cwp"
+        }
+      ],
+      "duration_ms": 188087,
+      "name": "La Gasolina",
+      "url": "https://open.spotify.com/track/2sF7SP88KqQr1CqDkMHKiX"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
         "name": "Habla Claro",
         "url": "https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 150266,
       "name": "Habla Claro",
       "url": "https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
-        "name": "Posguerra",
-        "url": "https://open.spotify.com/album/78FkR6dvHY3QXLu5Y7wDZF"
-      },
-      "artists": [
-        {
-          "name": "Atr\u00e1s Hay Truenos",
-          "url": "https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz"
-        }
-      ],
-      "duration_ms": 251451,
-      "name": "Posguerra",
-      "url": "https://open.spotify.com/track/5Kb5RhVvDm5he4xTJ1aNqQ"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -531,18 +515,34 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "POKITO",
-        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
       },
       "artists": [
         {
-          "name": "GRTSCH",
-          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
         }
       ],
-      "duration_ms": 252631,
-      "name": "POKITO",
-      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
+      "duration_ms": 253986,
+      "name": "Renacido",
+      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "Posguerra",
+        "url": "https://open.spotify.com/album/78FkR6dvHY3QXLu5Y7wDZF"
+      },
+      "artists": [
+        {
+          "name": "Atr\u00e1s Hay Truenos",
+          "url": "https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz"
+        }
+      ],
+      "duration_ms": 251451,
+      "name": "Posguerra",
+      "url": "https://open.spotify.com/track/5Kb5RhVvDm5he4xTJ1aNqQ"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Renacido",
-        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
+        "name": "POKITO",
+        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
       },
       "artists": [
         {
-          "name": "Lucas Hill",
-          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
         }
       ],
-      "duration_ms": 253986,
-      "name": "Renacido",
-      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
+      "duration_ms": 252631,
+      "name": "POKITO",
+      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -639,6 +639,26 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
+        "name": "Dos",
+        "url": "https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n"
+      },
+      "artists": [
+        {
+          "name": "Flavia Marsano",
+          "url": "https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A"
+        },
+        {
+          "name": "TURIAN BOY",
+          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "Dos",
+      "url": "https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
         "name": "Yendo",
         "url": "https://open.spotify.com/album/77NMPAtfaEyFCPfOSOQBSj"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 166500,
       "name": "Incendio",
       "url": "https://open.spotify.com/track/662HK9Y4QNgllJyLgjsmp3"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
-        "name": "Dos",
-        "url": "https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n"
-      },
-      "artists": [
-        {
-          "name": "Flavia Marsano",
-          "url": "https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A"
-        },
-        {
-          "name": "TURIAN BOY",
-          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Dos",
-      "url": "https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
+        "name": "Alegr\u00eda",
+        "url": "https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f"
+      },
+      "artists": [
+        {
+          "name": "Matiu Colin",
+          "url": "https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
         "name": "Un poco m\u00e1s de lo normal",
         "url": "https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 217589,
       "name": "Re\u00edte",
       "url": "https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
-        "name": "Alegr\u00eda",
-        "url": "https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f"
-      },
-      "artists": [
-        {
-          "name": "Matiu Colin",
-          "url": "https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Alegr\u00eda",
-      "url": "https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty"
     },
     {
       "added_at": "2022-10-05 20:02:30",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Inconsciencia",
-        "url": "https://open.spotify.com/album/10PYCHUMNWA4vfuXR8DByd"
-      },
-      "artists": [
-        {
-          "name": "La Honte",
-          "url": "https://open.spotify.com/artist/4Irt9HPbh6MbM90waVOFiA"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Inconsciencia",
-      "url": "https://open.spotify.com/track/4Dm11rwqGsTvDLml88JyIL"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "Deli",
         "url": "https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 179278,
       "name": "Deli",
       "url": "https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "Inconsciencia",
+        "url": "https://open.spotify.com/album/10PYCHUMNWA4vfuXR8DByd"
+      },
+      "artists": [
+        {
+          "name": "La Honte",
+          "url": "https://open.spotify.com/artist/4Irt9HPbh6MbM90waVOFiA"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Inconsciencia",
+      "url": "https://open.spotify.com/track/4Dm11rwqGsTvDLml88JyIL"
     },
     {
       "added_at": "2022-10-05 20:02:30",

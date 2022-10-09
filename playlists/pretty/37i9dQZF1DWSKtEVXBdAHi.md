@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,069 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,071 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 20 | [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 |
 | 21 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r) | 3:47 |
 | 22 | [Happy Now](https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Happy Now](https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO) | 3:31 |
-| 23 | [Keep You Mine](https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Keep You Mine](https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC) | 2:54 |
+| 23 | [Keep You Mine](https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Keep You Mine](https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC) | 2:54 |
 | 24 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:49 |
 | 25 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
 | 26 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
-| 27 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\)](https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Close To Me \(feat\. Swae Lee\)](https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ) | 3:02 |
-| 28 | [Just Friends](https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [Just Friends](https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe) | 2:48 |
+| 27 | [Just Friends](https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [Just Friends](https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe) | 2:48 |
+| 28 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\)](https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Close To Me \(feat\. Swae Lee\)](https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ) | 3:02 |
 | 29 | [Forever Young](https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti) | [UNDRESSD](https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL), [Ellie May](https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH) | [Forever Young](https://open.spotify.com/album/1x9q23elJDl1E1PzmaoMS8) | 3:21 |
 | 30 | [Bruises \- Steve Void Remix](https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:32 |
 | 31 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Sun Is Shining](https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Sun Is Shining](https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ) | 3:09 |
 | 80 | [Walk Me Home \- R3HAB Remix](https://open.spotify.com/track/7wJFBZXG4AFQS9YwBQLkqL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Walk Me Home \(R3HAB Remix\)](https://open.spotify.com/album/7dcv4xAh00fkPQZrOMNYly) | 2:39 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDI0YmRhNjRmNmJmYWI1YTI5NWJkNjViYzNmYzY4YTZl`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGU0YWNhNzk3MDlkM2VmMTQwNTJlZGRlN2MyMTZjYWVl`

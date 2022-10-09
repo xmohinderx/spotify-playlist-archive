@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Raggen måste gå!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,213 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,534 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 29 | [Bang My Head](https://open.spotify.com/track/0oy5dGexQGsefvS2hLWWBS) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [Bang My Head](https://open.spotify.com/album/3YrmYFwhdNxUeomv1Nvq1T) | 2:29 |
 | 30 | [Legenden Om Mange](https://open.spotify.com/track/4W0Jsiw7Rbxp9BGChwz4js) | [Mange Makers](https://open.spotify.com/artist/3h4mC2mtKfxToywPSrVPcC), [HENO](https://open.spotify.com/artist/4IKiD6do1SVAEARBUbBF6r) | [Legenden Om Mange](https://open.spotify.com/album/1mWtV61d4Q5d8L4VPszDTG) | 2:38 |
 | 31 | [POLISEN TOK MIN RAGGARBIL](https://open.spotify.com/track/72UOQ04qinIfvNHwA5O9Z5) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [POLISEN TOK MIN RAGGARBIL](https://open.spotify.com/album/50o19W9nn273LD57AL4psY) | 2:29 |
-| 32 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 |
+| 32 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/5QhqVrbqXPUJzI8nY0ft7M) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 |
 | 33 | [Dum](https://open.spotify.com/track/3fd8cxZvehZNFD8KUri30T) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Dum](https://open.spotify.com/album/0zGsicnETkTL5A9UIqwXeG) | 2:48 |
 | 34 | [Brände hela lönen](https://open.spotify.com/track/2jBBvkRJAHzSA97aEiIDg1) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Brände hela lönen](https://open.spotify.com/album/124ufu0VnZSSJH93Z3a11e) | 2:45 |
 | 35 | [Ung full och dum](https://open.spotify.com/track/6kh3aDbjz2VzP0hPYXw9Ty) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Ung full och dum](https://open.spotify.com/album/0btUOD4njBKXk157NpWBpH) | 2:20 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 38 | [FRÖKEN SNUSK](https://open.spotify.com/track/4EpxJNfJiNgxfBiNNwii3s) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Lurifaks](https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [FRÖKEN SNUSK](https://open.spotify.com/album/1cBoVnHKs4fTJJfjbWTWkw) | 2:31 |
 | 39 | [In i dimman](https://open.spotify.com/track/5ZIHjIkZzX2FPULOi3Jz90) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [In i dimman](https://open.spotify.com/album/0q1C8xpurS1saki7ck1VTG) | 2:23 |
 | 40 | [En starköl i Stockholm är bara en lättöl i Grums](https://open.spotify.com/track/09muqlubJAR2TTDhIXLyLw) | [Transfer](https://open.spotify.com/artist/6ZSb0PecuZ2Xfbk9qTZGHB) | [En starköl i Stockholm är bara en lättöl i Grums](https://open.spotify.com/album/3SBqgLLjmu8YafAZAeeE7C) | 3:26 |
-| 41 | [Raggarbil](https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Raggarbil](https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn) | 2:15 |
+| 41 | [Raggarbil](https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Karen](https://open.spotify.com/artist/5e1ekj5rPqXgSRF4gZw7cO) | [Raggarbil](https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn) | 2:15 |
 | 42 | [MEDVETSLÖS \- Ringnes\-Ronny Remix](https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [MEDVETSLÖS \(Ringnes\-Ronny Remix\)](https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv) | 3:06 |
 | 43 | [Sämst i Norden \(Utan Sverige vore Norge ingenting\)](https://open.spotify.com/track/0GouWpGnbwyInBEPYrTvOp) | [SamTheMan](https://open.spotify.com/artist/33ynUCCkq4sqASHJiYveJX) | [Sämst i Norden \(Utan Sverige vore Norge ingenting\)](https://open.spotify.com/album/64mEH4zoGUodlMoCz8nbc6) | 2:13 |
 | 44 | [GÅR DET BRA?](https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GÅR DET BRA?](https://open.spotify.com/album/7titrAJAZMyrsvcnrrZ2pR) | 2:25 |

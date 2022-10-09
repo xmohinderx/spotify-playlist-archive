@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Jose Manuel en portada. ",
-  "num_followers": 701731,
+  "num_followers": 701858,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGIwZGUyN2M0ZWNkYjBiNTc4NmVhMDM3YzY3MmQwMjBh",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDQyZWMxMmM1MDk5ODQwZTgwOWQyZDEwODI1NzM1Njdm",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "El Baleado",
-        "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 219264,
-      "name": "El Baleado",
-      "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Un Album Sencillo",
         "url": "https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH"
       },
@@ -771,6 +751,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "El Baleado",
+        "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 219264,
+      "name": "El Baleado",
+      "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Perro Abandonado",
         "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "La Suerte",
-        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 176497,
-      "name": "Por Enamorarme",
-      "url": "https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Mi Despedida",
         "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 196064,
       "name": "Mi Despedida",
       "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 176497,
+      "name": "Por Enamorarme",
+      "url": "https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Sembrando",
+        "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Sembrando",
+      "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "GXLE 3",
         "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 206000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Sembrando",
-        "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Sembrando",
-      "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Mi Todo",
-        "url": "https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 241704,
-      "name": "Mi Todo",
-      "url": "https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 230303,
       "name": "Saliste De Mi Mente",
       "url": "https://open.spotify.com/track/4ox1UpoN1U5bUOfU79aHmn"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Mi Todo",
+        "url": "https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 241704,
+      "name": "Mi Todo",
+      "url": "https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "El JR 01",
-        "url": "https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Justin Morales",
-          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
-        }
-      ],
-      "duration_ms": 242785,
-      "name": "El JR 01",
-      "url": "https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Yo Te Amar\u00e9",
         "url": "https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm"
       },
@@ -1483,6 +1463,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "El JR 01",
+        "url": "https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "duration_ms": 242785,
+      "name": "El JR 01",
+      "url": "https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "El Dolido",
         "url": "https://open.spotify.com/album/1uIJQImkY7FhTE28n9Arln"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Las Dos Promesas",
-        "url": "https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 165224,
-      "name": "Las Dos Promesas",
-      "url": "https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "La Lista",
         "url": "https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 211278,
       "name": "La Lista",
       "url": "https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Las Dos Promesas",
+        "url": "https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 165224,
+      "name": "Las Dos Promesas",
+      "url": "https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8"
     },
     {
       "added_at": "2022-09-23 04:00:00",

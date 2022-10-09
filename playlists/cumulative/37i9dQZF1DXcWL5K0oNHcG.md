@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Ace Hashimoto Artwork: Joy Yamusangie
 
-814 songs - 2 day 17 hr 34 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
+815 songs - 2 day 17 hr 38 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [A Brighter Day](https://open.spotify.com/track/3ZjRRa9R2tRLqZ0i2iabZv) | [Fussyduck](https://open.spotify.com/artist/3boKndbCYuyf0E8lXjE5yY) | [Maybe That's All We Get](https://open.spotify.com/album/5Zi8EDZWRvhjeWXyxWJhrq) | 4:57 | 2022-06-01 | 2022-06-30 |
 | [A Certain Sandal](https://open.spotify.com/track/0SP7TYSC06bA4Awz99eERW) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [A Certain Sandal](https://open.spotify.com/album/2DqqWksOjJJLHjsQNyIGPp) | 2:22 | 2022-08-24 | 2022-09-09 |
 | [A Moment in Time](https://open.spotify.com/track/27xrn4d1ROHS8k23aONTHS) | [Kabir Dalawari](https://open.spotify.com/artist/23hPG6nUZjGxAeytioXw6j) | [A Moment in Time](https://open.spotify.com/album/1D2gTMsMdI9AS90kv4ohEw) | 7:22 | 2022-01-19 | 2022-03-10 |
-| [A Past Summer Vibe](https://open.spotify.com/track/20ONdZdf6zvFtL0I3kmnIw) | [The Sound Buryer](https://open.spotify.com/artist/71NFBd6F1agF6jheappe1t), [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w) | [A Past Summer Vibe](https://open.spotify.com/album/598LEKSJDmsHKgfC9HZVPj) | 3:40 | 2022-10-05 |  |
+| [A Past Summer Vibe](https://open.spotify.com/track/20ONdZdf6zvFtL0I3kmnIw) | [The Sound Buryer](https://open.spotify.com/artist/0JSHiE1hDezG6ykv9LZaji), [The Pocket Queen](https://open.spotify.com/artist/5WU2k8bDgZAPORpn5Lm7nA) | [A Past Summer Vibe](https://open.spotify.com/album/598LEKSJDmsHKgfC9HZVPj) | 3:40 | 2022-10-05 |  |
 | [A Queen / Floating](https://open.spotify.com/track/32XIZ4HUVAbePW4Px9sqSc) | [Fama M'Boup](https://open.spotify.com/artist/4evTQ9PcRlZvvlK4TtW4HF), [in June](https://open.spotify.com/artist/39UlhpgYxry4g5T95E8LW5) | [A Queen / Floating](https://open.spotify.com/album/4dhK7dv3qrvQ5COERllpee) | 4:41 | 2022-07-20 | 2022-09-01 |
 | [A Quiet Night in Pandemonium](https://open.spotify.com/track/1z4iC0s1a8GoQeHhpDy1xg) | [Simeon Davis Group](https://open.spotify.com/artist/4VpuhyxGT6WgAwOfI6OLqT), [Rachel Azbell](https://open.spotify.com/artist/5IJx9KZShTgjtjyvjZE3U2), [Alex Hand](https://open.spotify.com/artist/1JHDHQilgJSwnEvwRmsFpL), [Mario Wellmann](https://open.spotify.com/artist/5Kvl7qZukpwe1smcqubJ9W), [Jonathan Shier](https://open.spotify.com/artist/4suhz9ueEZDCPZAEAWI9Ue) | [Of Narratives & Nocturnes](https://open.spotify.com/album/52UFxrxnZAHFnzYmCLGoIE) | 7:58 | 2022-06-29 | 2022-07-07 |
 | [A tear fell from the forlorn sky](https://open.spotify.com/track/1yeYwq6IyoO0fdC2wk4O0N) | [Joachim Badenhorst](https://open.spotify.com/artist/4WdhTZmQC14NRbEUSPb2qA) | [carate urio orchestra COSMOS](https://open.spotify.com/album/6GhNsbagtPLEfU9nFVR5dO) | 5:31 | 2022-03-02 | 2022-04-07 |
@@ -567,7 +567,8 @@
 | [Relaxing at the Underbelly](https://open.spotify.com/track/2LE0NkEYXutnOK7nHRyNUR) | [Emily Jane Roberts](https://open.spotify.com/artist/0oU7rg56Cbw8yGVfFToXbu) | [The Persistence of Memory EP](https://open.spotify.com/album/3RnKzIhgEAuoDYkpBE27eM) | 4:30 | 2022-07-13 | 2022-08-11 |
 | [Remember the Birds](https://open.spotify.com/track/4i4OURM3c8Leq73eK1LYWF) | [Quinn Sternberg](https://open.spotify.com/artist/5CW15gmFIQI8tufnZwGBrb) | [Cicada Songs](https://open.spotify.com/album/2NIsNIvnCIuV93V47MKMZt) | 4:09 | 2022-03-09 | 2022-04-14 |
 | [Remember When U Started](https://open.spotify.com/track/7wqesHUkdx3pjq2nFai5nO) | [Facundo Estefanell](https://open.spotify.com/artist/0YA8IVbl9Nv8FuDzUEGHyO) | [Remember When U Started](https://open.spotify.com/album/7Gcy2Q01akyj2swefqIVoX) | 4:27 | 2022-06-29 | 2022-07-28 |
-| [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 | 2022-09-21 |  |
+| [Reminiscence](https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:28 | 2022-09-21 |  |
+| [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 | 2022-09-21 | 2022-10-09 |
 | [Rendez Vous](https://open.spotify.com/track/1359SMfMeJV2jGgIXsr9bn) | [Djsaxlondon](https://open.spotify.com/artist/65pKkBjisstXesecyslOr4) | [Rose](https://open.spotify.com/album/0yn9pEjEffsQxq4gDDsP8o) | 3:30 | 2022-06-08 | 2022-07-07 |
 | [Rendez\-Vous](https://open.spotify.com/track/4IoHVgg8Bmzy8f3qj1koON) | [Djsaxlondon](https://open.spotify.com/artist/65pKkBjisstXesecyslOr4) | [Rendez\-Vous](https://open.spotify.com/album/2nVy2NlYcqKlFmiXrj5CYO) | 3:30 | 2022-02-16 | 2022-03-24 |
 | [Rent Free](https://open.spotify.com/track/5M8KqQxnT6Sl2AdsMlRM37) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Papillon de Nuit: The Night Butterfly](https://open.spotify.com/album/1DNIsBeJP7f0AzHphjSd3g) | 2:18 | 2022-04-13 | 2022-05-12 |

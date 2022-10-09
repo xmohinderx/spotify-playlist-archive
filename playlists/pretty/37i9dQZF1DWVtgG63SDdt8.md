@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Thunderstorm Artis
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,825 likes - 101 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,091 likes - 101 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 13 | [So Good to Me](https://open.spotify.com/track/7lsHTcbrV6XkSIbTmBCoeN) | [Brent Jones](https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN) | [Nothing Else Matters \(Instead of Complaining, Praise Him\)](https://open.spotify.com/album/2gpmw0WN8nQTmDxKfczPEE) | 4:00 |
 | 14 | [That's My King](https://open.spotify.com/track/0Nt9mJznpUqj6IrJPeAC3M) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK), [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [That's My King](https://open.spotify.com/album/0v56U8bzi8ktUjEdQY9Orm) | 5:27 |
 | 15 | [Sound Mind \- Studio Version](https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Sound Mind \(Studio Version\)](https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD) | 3:42 |
-| 16 | [Hold Me Jesus \(The Songs of Rich Mullins\)](https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c) | [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7), [Andrew Greer](https://open.spotify.com/artist/3gAG5zquZV8QJXqq3Tbj0z), [Bonnie Keen](https://open.spotify.com/artist/4c6YjNzvGYOqNkomC0giwl) | [Hold Me Jesus \(The Songs of Rich Mullins\)](https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T) | 3:51 |
+| 16 | [Hold Me Jesus](https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c) | [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7), [Andrew Greer](https://open.spotify.com/artist/3gAG5zquZV8QJXqq3Tbj0z), [Bonnie Keen](https://open.spotify.com/artist/4c6YjNzvGYOqNkomC0giwl) | [Hold Me Jesus \(The Songs of Rich Mullins\)](https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T) | 3:51 |
 | 17 | [Love You More](https://open.spotify.com/track/0WzBRvwTez5CpqFgsv2uPp) | [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Love You More](https://open.spotify.com/album/5yZklMZoW1Q2Hrx9RXKAwY) | 4:13 |
 | 18 | [Good Things \- \(Live\) \[Acoustic\]](https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Perspective](https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L) | 5:38 |
 | 19 | [Thin Place \- Live](https://open.spotify.com/track/6Kt5xALwAfnGDGdZWq3XDu) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Michael Shannon](https://open.spotify.com/artist/72uWvSo9H7FQfhYQKbUEoc), [Zo Chilengwe](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Thin Place \(Live\)](https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50) | 6:16 |

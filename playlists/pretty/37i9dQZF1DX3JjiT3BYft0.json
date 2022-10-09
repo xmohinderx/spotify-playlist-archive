@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 46108,
+  "num_followers": 46214,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY5NjA1MywwMDAwMDAwMDBhMzEyZDgxOTE1MDczNGI3MDQ0MjBiNDc0MWM5NDM2",
+  "snapshot_id": "MTY2MzY5NjA1MywwMDAwMDAwMGQzZDFhY2ZmNWE5MzE0ZDhjYzM0MGVmNzFmMTYxZjli",
   "tracks": [
     {
       "added_at": "2022-09-20 17:47:33",
@@ -411,22 +411,34 @@
     {
       "added_at": "2022-09-20 17:47:33",
       "album": {
-        "name": "\u512a\u52dd",
-        "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
+        "name": "BanG Dream! Dreamer's Best",
+        "url": "https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0"
       },
       "artists": [
         {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+          "name": "\u30ec\u30a4\u30e4",
+          "url": "https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V"
         },
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+          "name": "\u7d17\u591c",
+          "url": "https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5"
+        },
+        {
+          "name": "\u6c99\u7dbe",
+          "url": "https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc"
+        },
+        {
+          "name": "\u30df\u30c3\u30b7\u30a7\u30eb",
+          "url": "https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl"
+        },
+        {
+          "name": "\u7460\u552f",
+          "url": "https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh"
         }
       ],
-      "duration_ms": 271013,
-      "name": "\u512a\u52dd",
-      "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
+      "duration_ms": 262902,
+      "name": "CATASTROPHE BANQUET",
+      "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
     },
     {
       "added_at": "2022-09-20 17:47:33",
@@ -495,34 +507,22 @@
     {
       "added_at": "2022-09-20 17:47:33",
       "album": {
-        "name": "BanG Dream! Dreamer's Best",
-        "url": "https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0"
+        "name": "\u512a\u52dd",
+        "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
       },
       "artists": [
         {
-          "name": "\u30ec\u30a4\u30e4",
-          "url": "https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V"
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         },
         {
-          "name": "\u7d17\u591c",
-          "url": "https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5"
-        },
-        {
-          "name": "\u6c99\u7dbe",
-          "url": "https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc"
-        },
-        {
-          "name": "\u30df\u30c3\u30b7\u30a7\u30eb",
-          "url": "https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl"
-        },
-        {
-          "name": "\u7460\u552f",
-          "url": "https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 262902,
-      "name": "CATASTROPHE BANQUET",
-      "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
+      "duration_ms": 271013,
+      "name": "\u512a\u52dd",
+      "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
     },
     {
       "added_at": "2022-09-20 17:47:33",
@@ -591,8 +591,8 @@
     {
       "added_at": "2022-09-20 17:47:33",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+        "name": "\u30ab\u30ca\u30e6\u30e1",
+        "url": "https://open.spotify.com/album/0Vyl70ePAyl55k88d6QbkU"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 270868,
-      "name": "Y.O.L.O!!!!!",
-      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
+      "duration_ms": 307566,
+      "name": "\u30ab\u30ca\u30e6\u30e1",
+      "url": "https://open.spotify.com/track/4HnYTgVOCNihjBLzCOv8uQ"
     },
     {
       "added_at": "2022-09-20 17:47:33",
@@ -671,8 +671,8 @@
     {
       "added_at": "2022-09-20 17:47:33",
       "album": {
-        "name": "\u30ab\u30ca\u30e6\u30e1",
-        "url": "https://open.spotify.com/album/0Vyl70ePAyl55k88d6QbkU"
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 307566,
-      "name": "\u30ab\u30ca\u30e6\u30e1",
-      "url": "https://open.spotify.com/track/4HnYTgVOCNihjBLzCOv8uQ"
+      "duration_ms": 270868,
+      "name": "Y.O.L.O!!!!!",
+      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
     },
     {
       "added_at": "2022-09-20 17:47:33",

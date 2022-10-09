@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 48460,
+  "num_followers": 48484,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0OTgzMywwMDAwMDAwMDQwNjBhMGE4M2E4YmMxNGUzMzA3OTUyODI5OTAwY2Nk",
+  "snapshot_id": "MTY2NDU0OTgzMywwMDAwMDAwMDYxYjk0YzZlYWE3NDg1YmUxMDU3MDNlMWRkZTQ1NWQy",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Con Rastafari Todo Concuerda",
-        "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 259560,
-      "name": "Vibra Positiva",
-      "url": "https://open.spotify.com/track/6srdU7rKLC5DOuVBWDpmyD"
-    },
-    {
-      "added_at": "2022-10-08 01:29:10",
+      "added_at": "2022-10-09 20:04:27",
       "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY"
@@ -59,6 +43,22 @@
       "duration_ms": 164000,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/5rGorQ0R06XveTJXMd3QRi"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Con Rastafari Todo Concuerda",
+        "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 259560,
+      "name": "Vibra Positiva",
+      "url": "https://open.spotify.com/track/6srdU7rKLC5DOuVBWDpmyD"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -147,18 +147,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Ruli",
-        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 234306,
-      "name": "Circunvalaci\u00f3n",
-      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
+      "duration_ms": 189453,
+      "name": "De la Tierra Crece",
+      "url": "https://open.spotify.com/track/7nNhXCXJpRm9GWmeQJ6LwR"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -199,18 +199,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Sanazion",
-        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
+        "name": "Ruli",
+        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
       },
       "artists": [
         {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
         }
       ],
-      "duration_ms": 189453,
-      "name": "De la Tierra Crece",
-      "url": "https://open.spotify.com/track/7nNhXCXJpRm9GWmeQJ6LwR"
+      "duration_ms": 234306,
+      "name": "Circunvalaci\u00f3n",
+      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
     },
     {
-      "added_at": "2022-10-08 01:29:10",
+      "added_at": "2022-10-09 20:04:27",
       "album": {
         "name": "Emocionado",
         "url": "https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz"
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Neigborhood Rules",
-        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 232342,
-      "name": "Laba Laba Craven",
-      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 267983,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Neigborhood Rules",
+        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "duration_ms": 232342,
+      "name": "Laba Laba Craven",
+      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "On the Good Road (En Vivo En Sala Siranush)",
+        "url": "https://open.spotify.com/album/2eVwZkKc0oWJa9r85EsrAt"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "duration_ms": 228510,
+      "name": "On the Good Road - En Vivo En Sala Siranush",
+      "url": "https://open.spotify.com/track/42X9GlneXJkyRShuDLPvNc"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Cover Me",
         "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 202306,
       "name": "M\u00e1s Libre",
       "url": "https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "On the Good Road (En Vivo En Sala Siranush)",
-        "url": "https://open.spotify.com/album/2eVwZkKc0oWJa9r85EsrAt"
-      },
-      "artists": [
-        {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
-        }
-      ],
-      "duration_ms": 228510,
-      "name": "On the Good Road - En Vivo En Sala Siranush",
-      "url": "https://open.spotify.com/track/42X9GlneXJkyRShuDLPvNc"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Negro",
         "url": "https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 265216,
       "name": "Este Mundo",
       "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 209007,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5mU3SDcjGeeljvFj85pLa4"
+      },
+      "artists": [
+        {
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
+        }
+      ],
+      "duration_ms": 264278,
+      "name": "Trinchera",
+      "url": "https://open.spotify.com/track/2FkXL4Apgf4gSUYsr8HVK5"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "La Vida Es Una Canci\u00f3n II",
         "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 258000,
       "name": "Cerquita",
       "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5mU3SDcjGeeljvFj85pLa4"
-      },
-      "artists": [
-        {
-          "name": "Moral Distraida",
-          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
-        }
-      ],
-      "duration_ms": 264278,
-      "name": "Trinchera",
-      "url": "https://open.spotify.com/track/2FkXL4Apgf4gSUYsr8HVK5"
     },
     {
       "added_at": "2022-09-23 03:00:00",

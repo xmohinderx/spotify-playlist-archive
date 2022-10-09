@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-503 songs - 1 day 4 hr 36 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
+504 songs - 1 day 4 hr 39 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Ray'a](https://open.spotify.com/track/5OqP6CKUFRyoeVQnOU37ds) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ray'a](https://open.spotify.com/album/70QFgfmKKOBw8ZNrwvfM8w) | 4:06 | 2021-11-17 | 2022-01-25 |
 | [Ra’sa Slow](https://open.spotify.com/track/0VTA7UNm4ploUs884YAz9w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ra’sa Slow](https://open.spotify.com/album/7fzgWkatGkQaotzwJo6tTp) | 3:12 | 2022-03-02 | 2022-03-15 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-16 |
-| [Roberto](https://open.spotify.com/track/64UXkp5qVMJduPib0auZnn) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:26 | 2022-09-24 |  |
+| [Roberto](https://open.spotify.com/track/64UXkp5qVMJduPib0auZnn) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:26 | 2022-09-24 | 2022-10-09 |
 | [Roma](https://open.spotify.com/track/5GDhHuLpmneh1DCMyKMJp3) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:30 | 2022-09-24 |  |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-07-04 |
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-09 | 2021-06-23 |
@@ -442,6 +442,7 @@
 | [انت زميلي \- ماركة دولي](https://open.spotify.com/track/79gXDIwQcUhER3uGr4tpMJ) | [DK 33](https://open.spotify.com/artist/1UZlmjJz4waBahLyHaill7), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [انت زميلي \- ماركة دولي](https://open.spotify.com/album/3uUruWgrROKPpRa8lb1fFh) | 3:00 | 2022-01-29 | 2022-02-03 |
 | [انتي معلمه](https://open.spotify.com/track/4hblFPAEyTcgaMnaBNjx5Q) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [انتي معلمه](https://open.spotify.com/album/49FovyIu9g36VArjhxYz5d) | 3:12 | 2021-03-27\* | 2021-03-27 |
 | [اندال اندال](https://open.spotify.com/track/6RpPYyGGMyDL9xfRcQfffj) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [اندال اندال](https://open.spotify.com/album/3f1ig6nQAQJrR778DlzNEr) | 4:03 | 2021-03-27\* | 2021-08-31 |
+| [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/0DAykiSUJiGTi5E2KaHgSi) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-10-09 |  |
 | [بانوراما](https://open.spotify.com/track/2PCSAQsUfYMnmWZ4Tmkqme) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Enzo](https://open.spotify.com/artist/4U1hl9bY2xazNNeiU42obk), [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 5:45 | 2022-07-14 | 2022-07-17 |
 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 | 2021-10-22 | 2021-12-01 |
 | [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 | 2022-06-27 |  |

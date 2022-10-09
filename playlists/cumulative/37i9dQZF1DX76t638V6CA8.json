@@ -5662,6 +5662,28 @@
     },
     {
       "album": {
+        "name": "One In The Chamber",
+        "url": "https://open.spotify.com/album/4MQZ4pMrSHIxi1BdKGGRCL"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171429,
+      "name": "One In The Chamber",
+      "url": "https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy"
+    },
+    {
+      "album": {
         "name": "Only You Freestyle",
         "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
       },
@@ -6395,7 +6417,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 183186,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
@@ -8621,7 +8643,7 @@
           "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
         }
       ],
-      "date_added": "2022-10-07",
+      "date_added": "2022-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167832,

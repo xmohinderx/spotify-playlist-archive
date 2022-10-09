@@ -69,9 +69,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 
 ## Playlists
 
-Add a line to the readme to force a full rerun of the script, to fix a breakage
-caused by an invalid filename in the second-to-last commit
-
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#Hotmess](/playlists/pretty/2Rah43YvyO765e4gACIDef.md)
 - [\#JazzAppreciationMonth](/playlists/pretty/2nb7lCySvvf7PNxHUD5oun.md)
@@ -280,6 +277,7 @@ caused by an invalid filename in the second-to-last commit
 - [A Poem a Day](/playlists/pretty/37i9dQZF1DXaVtcC7N0WMw.md)
 - [A Quiet Christmas](/playlists/pretty/37i9dQZF1DWSYI3OtMNMsT.md)
 - [A Soft Piano Christmas](/playlists/pretty/7J8HlMdOq82WJAU6JmhR5d.md)
+- [A Special One](/playlists/pretty/7lqCQF4uBXoqgAMN9Qp3GD.md)
 - [A Sudden Rainstorm](/playlists/pretty/37i9dQZF1DX9NmDLwNQnXE.md)
 - [A.M\. Commute](/playlists/pretty/1UQo7foKwUUMjb9KnaBE3S.md)
 - [ACM Honors 2022](/playlists/pretty/37i9dQZF1DX13kFuGnInkY.md)
@@ -1217,6 +1215,7 @@ caused by an invalid filename in the second-to-last commit
 - [Dia de Chuva](/playlists/pretty/37i9dQZF1DWULHbs82dshJ.md)
 - [Dia de Faxina](/playlists/pretty/37i9dQZF1DXdg3JLYhYrif.md)
 - [Digster HITS \- Best of 2013](/playlists/pretty/6FzxUXXUk9bzWJ8d1NIGWy.md)
+- [Dil Ka Sukoon](/playlists/pretty/45sMfdAKJExVmFvBd2TwmU.md)
 - [Dim Mak New Releases](/playlists/pretty/6Gp3E89xD6vRQtuAKFizMo.md)
 - [Dimitri Vangelis & Wyman's DJ Mix](/playlists/pretty/37i9dQZF1DX3JjRskvOCSF.md)
 - [Dinner Lounge](/playlists/pretty/37i9dQZF1DX6kz6Kli3wib.md)

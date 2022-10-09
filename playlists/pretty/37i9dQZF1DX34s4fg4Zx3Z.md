@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,067 likes - 101 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,147 likes - 101 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 58 | [Chơi](https://open.spotify.com/track/2ogSoDRRrXcEfQ7EPAdllM) | [DMYB](https://open.spotify.com/artist/7mRASKVWQFYzG4ODPVpHuE), [Wack](https://open.spotify.com/artist/7nZ97fCmqv4FoADCJZkll8) | [Chơi](https://open.spotify.com/album/5UpkKx6dil3cMdFEPHXr7c) | 4:08 |
 | 59 | [COMETHRU](https://open.spotify.com/track/4vbcZrRsrQXgx1moiV0Saz) | [ka1](https://open.spotify.com/artist/25HcPXDI6EfLESc2fBRFNo) | [COMETHRU](https://open.spotify.com/album/04bQvXNTIyDWX8PgWRFtS6) | 3:33 |
 | 60 | [Trái Cây](https://open.spotify.com/track/2zGPMTYwiobsT4ChqOXli2) | [SMO](https://open.spotify.com/artist/1eLRJ9F6qwKeI6frD3ZzQg), [LJ](https://open.spotify.com/artist/59wd3nm4f7llGnExFWkfHZ), [Antoneus Maximus](https://open.spotify.com/artist/4AmiihgP8NFOtvU9DwLaK0) | [Trái Cây](https://open.spotify.com/album/7GcKalU4ziKQK0QXThVdVb) | 3:22 |
-| 61 | [Try My Best](https://open.spotify.com/track/3pFKoMu90rGrtB2kNmyKlW) | [Lil Roff](https://open.spotify.com/artist/3BBFbrYDfJFpWuwQZnALpp), [Dewie](https://open.spotify.com/artist/7evr8PSu7d4TO6NcC0sS26) | [Try My Best](https://open.spotify.com/album/3UEi7fCdc2BMWRCMwSot6v) | 2:56 |
+| 61 | [Try My Best](https://open.spotify.com/track/3pFKoMu90rGrtB2kNmyKlW) | [Lil Roff](https://open.spotify.com/artist/0bwsiwbc8kwfLRYnsqxC4k), [Dewie](https://open.spotify.com/artist/7evr8PSu7d4TO6NcC0sS26) | [Try My Best](https://open.spotify.com/album/3UEi7fCdc2BMWRCMwSot6v) | 2:56 |
 | 62 | [Mai Về](https://open.spotify.com/track/4K9pEXPOH7GwBkfBfn7bBW) | [Dfoxie37](https://open.spotify.com/artist/4zg9WrDAFl1dGh2eSWLnOG), [Myhai](https://open.spotify.com/artist/6SECEHj3VXuc2JP9FmSwiZ) | [Mai Về](https://open.spotify.com/album/1e2eM8MOgpmvsaSoa1gqi2) | 5:00 |
-| 63 | [Wassup \(bài ca đi giải\)](https://open.spotify.com/track/6OOAxdE1EK0aeH5GSdmwqT) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [Wassup \(bài ca đi giải\)](https://open.spotify.com/album/4E8kqv9kXmLhHzxoHfTYtR) | 3:46 |
+| 63 | [Wassup \(bài ca đi giải\)](https://open.spotify.com/track/6OOAxdE1EK0aeH5GSdmwqT) | [Teddie J](https://open.spotify.com/artist/28HCjedSLF6QeSE4nzAfW5) | [Wassup \(bài ca đi giải\)](https://open.spotify.com/album/4E8kqv9kXmLhHzxoHfTYtR) | 3:46 |
 | 64 | [Make Up](https://open.spotify.com/track/7nRldRANVAUtzWkDYdyttv) | [Ronniboi](https://open.spotify.com/artist/0kUlOT0HdcGiXFDQrL2DqA) | [Make Up](https://open.spotify.com/album/1gVNnGp38sQjdOQYtfjUME) | 2:41 |
 | 65 | [Nụ Cười Em](https://open.spotify.com/track/5ceYOxNRwB2vTloINEQJ7d) | [Phú Quí](https://open.spotify.com/artist/7kFRelrojoTz5zxPBnAArZ) | [Nụ Cười Em](https://open.spotify.com/album/43OmrjWLJPxmm1OAvcNJ6b) | 2:55 |
 | 66 | [Hay Là Trăng Nói](https://open.spotify.com/track/4kXWF8M4uXzDG1e4BMxq1h) | [DatKaa](https://open.spotify.com/artist/6mMxOJfr3bN1QPUiForaWf) | [Hay Là Trăng Nói](https://open.spotify.com/album/7GjRyFvdrqtm9j0KlhRsvr) | 4:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Snotty Nose Rez Kids 🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,952 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,945 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 97 | [Sweeter Summer](https://open.spotify.com/track/2Tfgf9gZjsyW3t7SYNGDt8) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY) | [Sweeter Summer](https://open.spotify.com/album/23tJ41qBumAwqHmpQ9YLPF) | 2:57 |
 | 98 | [Ether](https://open.spotify.com/track/1Mxs3wyD4S81j9vpF6A6ov) | [EdwOrdS](https://open.spotify.com/artist/3Wps34Gtn7dTxmDADXDBBJ) | [Low Key EP](https://open.spotify.com/album/4oxBXOoRIccgbrtGMHYonQ) | 2:51 |
 | 99 | [Trust](https://open.spotify.com/track/02ofwHZyFSuW1LlVQ6DCye) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [The Fleur Print \(Vol\. 2\)](https://open.spotify.com/album/47mj6zu9AiNejasZn1Qvou) | 3:26 |
-| 100 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 |
+| 100 | [Jupiter & Mars](https://open.spotify.com/track/1qJlpodv8hEJGmhdo3NERe) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/7JczLjVoMsk8fG9pJz0MPT) | 3:16 |
 
-Snapshot ID: `MTY2NTExNzQxMSwwMDAwMDAwMGU4YTE3ZWZjMDRjN2EwZmFkZGJkZTJmZjRmMTdlZTAy`
+Snapshot ID: `MTY2NTExNzQxMSwwMDAwMDAwMDE1N2Q2NDA4N2ZmYWIyM2U5N2Q5MTBmZjZhMTM0YTRi`

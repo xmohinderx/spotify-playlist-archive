@@ -2487,10 +2487,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 149760,
       "name": "Genug von dir",
       "url": "https://open.spotify.com/track/1MLurEsyykUHYr2BUheeaz"
+    },
+    {
+      "album": {
+        "name": "Genug von dir",
+        "url": "https://open.spotify.com/album/5MKU4q5E3TwE4H80qmktii"
+      },
+      "artists": [
+        {
+          "name": "Rojas",
+          "url": "https://open.spotify.com/artist/5BBMBWZzGLBRGVn8G0XZY1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Genug von dir",
+      "url": "https://open.spotify.com/track/7EMAXqufsn0uZIS91TuEDM"
     },
     {
       "album": {

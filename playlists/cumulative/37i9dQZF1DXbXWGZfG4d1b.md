@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-370 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+371 songs - 22 hr 2 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Cuando Llegaste](https://open.spotify.com/track/5xVyBw15GcXawmYpYf2kmf) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Cuando Llegaste](https://open.spotify.com/album/55eWMznApVTgLen1AdgSLw) | 2:42 | 2022-07-01 | 2022-07-24 |
 | [Cuenta Conmigo](https://open.spotify.com/track/5pkLzY2lawUgk6TZHph7uN) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Cuenta Conmigo](https://open.spotify.com/album/1PV8wnu2yvaGsq7WQnbj4P) | 4:51 | 2022-06-03 | 2022-07-29 |
 | [Cuestion de Tiempo](https://open.spotify.com/track/5US59kYAhoDmEAh3JH41UA) | [N.T.S.C](https://open.spotify.com/artist/6wjJckuvI7pJGn2sC10wGE) | [Cuestion de Tiempo](https://open.spotify.com/album/0DWl1qfe8F8DXUPzQN4Onc) | 2:29 | 2022-06-03 | 2022-07-28 |
+| [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 | 2022-10-07 |  |
 | [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-06-03 |  |
 | [DA2](https://open.spotify.com/track/7dRm6XxlK8c9ug3kt4AJjL) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [DA2](https://open.spotify.com/album/4BjDWUTvXjfN1nwxwKkSCY) | 3:33 | 2022-06-03 | 2022-07-26 |
 | [De Frente](https://open.spotify.com/track/41h4bHQ6DfvS1zyl2NS6yP) | [Dos Lugares](https://open.spotify.com/artist/4FnC0V1SNwkHTxjMiJv9eD), [LvRod](https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv) | [De Frente](https://open.spotify.com/album/79TYpvWrQG3vm0W6SSmWx0) | 3:31 | 2022-07-01 | 2022-07-24 |
@@ -212,7 +213,7 @@
 | [Los Fantasmas](https://open.spotify.com/track/0aGYVf5anL1ZHeXR9ZBMKe) | [Gimena Alvarez Cela](https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5) | [Los Fantasmas](https://open.spotify.com/album/29yX1nvE4qPlHePfgn0AOY) | 4:14 | 2022-07-01 | 2022-07-19 |
 | [Los Ritmos Violentos](https://open.spotify.com/track/4YGWkgNryrlJDUjlQ97RYA) | [La Luz Mandarina](https://open.spotify.com/artist/4VqRr9QKXxeVVVpJoePixr) | [Los Ritmos Violentos](https://open.spotify.com/album/4hk8jVK8tz5KS2oA3tK04Q) | 3:44 | 2022-06-03 | 2022-07-29 |
 | [Límite](https://open.spotify.com/track/6LBct1lCubyNMQPq7LgWEq) | [te quería mucho](https://open.spotify.com/artist/67aSH8n0Y4SeORd9DU9X6y) | [Límite](https://open.spotify.com/album/3uzSKlNYuN7gJUNnGCVrCZ) | 2:57 | 2022-07-15 | 2022-07-22 |
-| [Madrugada](https://open.spotify.com/track/3IoI9OAF88fZGLIdrDqTUf) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Madrugada](https://open.spotify.com/album/4voLBSx8yHfNAttn5wzQw7) | 4:42 | 2022-06-03 |  |
+| [Madrugada](https://open.spotify.com/track/3IoI9OAF88fZGLIdrDqTUf) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Madrugada](https://open.spotify.com/album/4voLBSx8yHfNAttn5wzQw7) | 4:42 | 2022-06-03 | 2022-10-09 |
 | [Mandala](https://open.spotify.com/track/1ZbPfPD5voaTWndeCxuxU5) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Mandala](https://open.spotify.com/album/70s5AZ6uIkQeuXGuGPHnle) | 3:25 | 2022-07-01 | 2022-10-03 |
 | [Manicomio Club](https://open.spotify.com/track/6ki9A4FyiZdQkrr9zv7Pa3) | [Los Bluyines](https://open.spotify.com/artist/6jKw6K5IkTpPYKAtq30vMY) | [Rockdelia Guitarra](https://open.spotify.com/album/6SDFQG8WmJ3cmH04zphC7M) | 4:19 | 2022-07-01 | 2022-07-06 |
 | [Manos](https://open.spotify.com/track/4DeI38iEDWvVFK6c5ZgOc6) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Manos](https://open.spotify.com/album/78z4lZfzLSpj8jHXJTblCC) | 3:35 | 2022-07-01 | 2022-07-29 |

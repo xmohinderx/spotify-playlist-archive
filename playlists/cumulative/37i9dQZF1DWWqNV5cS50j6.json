@@ -1418,6 +1418,28 @@
     },
     {
       "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206946,
+      "name": "BAD FRUIT*",
+      "url": "https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/3gV92pDJQ3yhWn3uO9ir4O"
       },
@@ -4789,7 +4811,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 160397,
       "name": "Doja Cat",
       "url": "https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg"
@@ -10791,7 +10813,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-09",
       "duration_ms": 244792,
       "name": "Love and Power",
       "url": "https://open.spotify.com/track/6frv1qEE5I5hSBq8ERR0G2"
@@ -15491,6 +15513,24 @@
       "duration_ms": 112728,
       "name": "running back",
       "url": "https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX"
+    },
+    {
+      "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199062,
+      "name": "Sabrina (i am a party)",
+      "url": "https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82"
     },
     {
       "album": {
