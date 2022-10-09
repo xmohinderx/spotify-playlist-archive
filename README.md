@@ -69,6 +69,9 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 
 ## Playlists
 
+Add a line to the readme to force a full rerun of the script, to fix a breakage
+caused by an invalid filename in the second-to-last commit
+
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#Hotmess](/playlists/pretty/2Rah43YvyO765e4gACIDef.md)
 - [\#JazzAppreciationMonth](/playlists/pretty/2nb7lCySvvf7PNxHUD5oun.md)
