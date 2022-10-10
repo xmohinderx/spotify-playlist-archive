@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 44817,
+  "num_followers": 44816,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3NTI1NywwMDAwMDAwMDA3NTJhMDQyNjI4OTk1NTEyNGRlNjBmOWQwZmRhNTBm",
+  "snapshot_id": "MTY2MzA3NTI1NywwMDAwMDAwMDMwYWZiYWJhNGI2MmU0ZDUwNDhkYmViNGMwM2Y4NWNk",
   "tracks": [
     {
       "added_at": "2022-09-13 13:20:57",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-09-13 13:20:57",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
-    },
-    {
-      "added_at": "2022-09-13 13:20:57",
-      "album": {
         "name": "ABUC",
         "url": "https://open.spotify.com/album/7iNebsQzdjcj501Gd16Hzo"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 225173,
       "name": "Afro Mambo",
       "url": "https://open.spotify.com/track/0wY0E2GIqSSH2WuoV9FBRM"
+    },
+    {
+      "added_at": "2022-09-13 13:20:57",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
     },
     {
       "added_at": "2022-09-13 13:20:57",

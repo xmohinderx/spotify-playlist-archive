@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Sobs \(Singapore\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,944 likes - 74 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,949 likes - 74 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

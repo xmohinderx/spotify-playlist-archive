@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 62090,
+  "num_followers": 62137,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4MjM1MCwwMDAwMDAwMDM2OTFjM2FmMGQ5M2U4MmQ0NDAzNzkzMWMwMzllMmI5",
+  "snapshot_id": "MTY2NDg4MjM1MCwwMDAwMDAwMGU5MGU0MjJmNGU0NzgwNWNlYjA2MWRjMTY3MDk3NmY2",
   "tracks": [
     {
       "added_at": "2022-10-04 11:19:10",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-10-04 11:19:10",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
-    },
-    {
-      "added_at": "2022-10-04 11:19:10",
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 184960,
       "name": "One Bourbon, One Scotch, One Beer",
       "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
     },
     {
       "added_at": "2022-10-04 11:19:10",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-10-04 11:19:10",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
-      "added_at": "2022-10-04 11:19:10",
-      "album": {
         "name": "Johnny Winter",
         "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 246773,
       "name": "Smoking Gun",
       "url": "https://open.spotify.com/track/5tRu8kA4d17uwGVT7I3YIR"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
       "added_at": "2022-10-04 11:19:10",

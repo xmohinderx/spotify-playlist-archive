@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Bukis en portada. ",
-  "num_followers": 277976,
+  "num_followers": 278061,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3NjM4NywwMDAwMDAwMDYxODhkOTdiY2Q2MWJhYmVmMjZlNTJiMWNjOWVjM2Iw",
+  "snapshot_id": "MTY0NzQ3NjM4NywwMDAwMDAwMGVhNzEzZTRhNzYxM2M4MTgxMzZjMjU4Y2EwNmMxZDQz",
   "tracks": [
     {
       "added_at": "2022-03-17 00:19:47",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Entre Nubes",
-        "url": "https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Nubes De Algod\u00f3n",
-      "url": "https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 168720,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Entre Nubes",
+        "url": "https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Nubes De Algod\u00f3n",
+      "url": "https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+        "name": "Ilusiones",
+        "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
       },
       "artists": [
         {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
         }
       ],
-      "duration_ms": 189213,
-      "name": "C\u00f3mo Me Duele Amor",
-      "url": "https://open.spotify.com/track/5Uhu2xCFVq74wvaat8Eu0I"
+      "duration_ms": 240133,
+      "name": "Coraz\u00f3n M\u00e1gico",
+      "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "12 Super Exitos",
-        "url": "https://open.spotify.com/album/3iUfFo7KFlu647f3PL6Jdc"
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
       "artists": [
         {
-          "name": "Los Rodarte",
-          "url": "https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj"
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
         }
       ],
-      "duration_ms": 191026,
-      "name": "Y Me Dijo Eres Tu",
-      "url": "https://open.spotify.com/track/1iTBq0Ux2qwvZKshWnXHyt"
+      "duration_ms": 189213,
+      "name": "C\u00f3mo Me Duele Amor",
+      "url": "https://open.spotify.com/track/5Uhu2xCFVq74wvaat8Eu0I"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Ilusiones",
-        "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
+        "name": "12 Super Exitos",
+        "url": "https://open.spotify.com/album/3iUfFo7KFlu647f3PL6Jdc"
       },
       "artists": [
         {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+          "name": "Los Rodarte",
+          "url": "https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Coraz\u00f3n M\u00e1gico",
-      "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
+      "duration_ms": 191026,
+      "name": "Y Me Dijo Eres Tu",
+      "url": "https://open.spotify.com/track/1iTBq0Ux2qwvZKshWnXHyt"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1043,6 +1043,38 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "Vanidosa",
+        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
+      },
+      "artists": [
+        {
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Es Que Te Amo",
+      "url": "https://open.spotify.com/track/201DoWLysj5vR8va945CCW"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Verano De Amor",
         "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
       },
@@ -1055,26 +1087,6 @@
       "duration_ms": 205346,
       "name": "Me Quede Llorando",
       "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Contigo Aprend\u00ed",
-        "url": "https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Adoro (with Armando Manzanero)",
-      "url": "https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1147,54 +1159,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Vanidosa",
-        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
-      },
-      "artists": [
-        {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Es Que Te Amo",
-      "url": "https://open.spotify.com/track/201DoWLysj5vR8va945CCW"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "Enamorado De Tus Ojos",
-      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
       },
@@ -1207,6 +1171,26 @@
       "duration_ms": 169146,
       "name": "Cosas Buenas Que Parecen Malas",
       "url": "https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Contigo Aprend\u00ed",
+        "url": "https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Adoro (with Armando Manzanero)",
+      "url": "https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1243,18 +1227,34 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Lo Mejor De Guardianes Del Amor",
-        "url": "https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx"
+        "name": "Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
       },
       "artists": [
         {
-          "name": "Guardianes Del Amor",
-          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
         }
       ],
-      "duration_ms": 217293,
-      "name": "El Perro, el Gato y Yo",
-      "url": "https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7"
+      "duration_ms": 218066,
+      "name": "Contigo O Sin Ti",
+      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "Enamorado De Tus Ojos",
+      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1275,34 +1275,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "20 Aniversario",
-        "url": "https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi"
+        "name": "Lo Mejor De Guardianes Del Amor",
+        "url": "https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx"
       },
       "artists": [
         {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+          "name": "Guardianes Del Amor",
+          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
         }
       ],
-      "duration_ms": 221773,
-      "name": "Dos Enamorados",
-      "url": "https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Contigo O Sin Ti",
-      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
+      "duration_ms": 217293,
+      "name": "El Perro, el Gato y Yo",
+      "url": "https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "La Coloreteada",
+        "url": "https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "D\u00e9jala Que Se Divierta",
+      "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Que No Quede Huella",
         "url": "https://open.spotify.com/album/7wKNGBwWNMq7pb0bNFOaed"
       },
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "20 Aniversario",
+        "url": "https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "Dos Enamorados",
+      "url": "https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Lo Mas Romantico De Ayer Con Los Mas Romanticos De Hoy",
         "url": "https://open.spotify.com/album/3It5f5lrSbIRS97VcFfJZc"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 218200,
       "name": "Dame un Beso y Dime Adi\u00f3s",
       "url": "https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "La Coloreteada",
-        "url": "https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "D\u00e9jala Que Se Divierta",
-      "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
     },
     {
       "added_at": "2022-03-17 00:19:47",

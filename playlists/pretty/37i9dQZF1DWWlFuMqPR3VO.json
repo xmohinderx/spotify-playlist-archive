@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 9323,
+  "num_followers": 9328,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAwMDIxMWZjNWZjMjQ1MDA4OGRlYzFmYTY2ZjdhNjg2NTE4",
+  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAwMGU4MzBiZmQ4ZTJlNjk5ZDJiYTE3ZTc1MGQwN2I0MmQz",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -188,7 +188,7 @@
       "added_at": "2022-03-28 20:10:01",
       "album": {
         "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+        "url": "https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 193333,
-      "name": "I Got a Woman",
-      "url": "https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403"
+      "duration_ms": 143520,
+      "name": "Saint James Infirmary",
+      "url": "https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "New Orleans Blues",
+        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
+      },
+      "artists": [
+        {
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Been Gone Too Long",
         "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 255946,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 158902,
-      "name": "Tipitina - Mono",
-      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -300,7 +300,7 @@
       "added_at": "2022-03-28 20:10:01",
       "album": {
         "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry"
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
       "artists": [
         {
@@ -308,25 +308,25 @@
           "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 143520,
-      "name": "Saint James Infirmary",
-      "url": "https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9"
+      "duration_ms": 193333,
+      "name": "I Got a Woman",
+      "url": "https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403"
     },
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Blues",
-        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
       },
       "artists": [
         {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
         }
       ],
-      "duration_ms": 163293,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
+      "duration_ms": 158902,
+      "name": "Tipitina - Mono",
+      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -411,18 +411,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Free Again",
-        "url": "https://open.spotify.com/album/0dKhAtXVPeUZZxebx81HMD"
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
       },
       "artists": [
         {
-          "name": "Robert Pete Williams",
-          "url": "https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib"
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+        },
+        {
+          "name": "Sam Charters",
+          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
         }
       ],
-      "duration_ms": 167373,
-      "name": "I've Grown So Ugly",
-      "url": "https://open.spotify.com/track/0PvKsGeztxZYy4bpeAASHM"
+      "duration_ms": 188600,
+      "name": "Trick Bag",
+      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -459,22 +463,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
+        "name": "Free Again",
+        "url": "https://open.spotify.com/album/0dKhAtXVPeUZZxebx81HMD"
       },
       "artists": [
         {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
-        },
-        {
-          "name": "Sam Charters",
-          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
+          "name": "Robert Pete Williams",
+          "url": "https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Trick Bag",
-      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
+      "duration_ms": 167373,
+      "name": "I've Grown So Ugly",
+      "url": "https://open.spotify.com/track/0PvKsGeztxZYy4bpeAASHM"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Walking On Fire",
-        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
+        "name": "Roadside Attractions",
+        "url": "https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj"
       },
       "artists": [
         {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+          "name": "Marcia Ball",
+          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Blues Stew",
-      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
+      "duration_ms": 205280,
+      "name": "The Party's Still Going On",
+      "url": "https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL"
     }
   ],
   "unique_name": "Louisiana Blues",

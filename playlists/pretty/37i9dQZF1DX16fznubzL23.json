@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 3483,
+  "num_followers": 3490,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNDc1NSwwMDAwMDAwMGI2Njk4OWNkZDEzNTdiZTdjMDE3N2JiOGEyMmVmZDJh",
+  "snapshot_id": "MTY2MzkxNDc1NSwwMDAwMDAwMDE3ZTk1MWFiNzIyNGZmMWIxNDJkZTkyNzdhMmZjYmVm",
   "tracks": [
     {
       "added_at": "2022-02-11 09:00:57",
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO"
-      },
-      "artists": [
-        {
-          "name": "Wendy Shay",
-          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk"
-    },
-    {
       "added_at": "2022-02-11 09:00:57",
       "album": {
         "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
@@ -419,6 +403,22 @@
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
+    },
+    {
+      "added_at": "2022-05-19 23:00:00",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk"
     },
     {
       "added_at": "2022-02-11 09:00:57",
@@ -537,20 +537,24 @@
       "url": "https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V"
     },
     {
-      "added_at": "2022-03-04 00:45:42",
+      "added_at": "2022-02-11 09:00:57",
       "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/06vQ9ZXJ9579UjivbiOSmU"
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
       "artists": [
         {
-          "name": "Kkeda",
-          "url": "https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 201818,
-      "name": "Blue Jeans",
-      "url": "https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14"
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
     },
     {
       "added_at": "2022-02-11 09:00:57",
@@ -573,24 +577,20 @@
       "url": "https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12"
     },
     {
-      "added_at": "2022-02-11 09:00:57",
+      "added_at": "2022-03-04 00:45:42",
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/06vQ9ZXJ9579UjivbiOSmU"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Kkeda",
+          "url": "https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC"
         }
       ],
-      "duration_ms": 176766,
-      "name": "Miss You Bad",
-      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
+      "duration_ms": 201818,
+      "name": "Blue Jeans",
+      "url": "https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14"
     },
     {
       "added_at": "2022-05-12 23:00:00",
@@ -667,30 +667,6 @@
     {
       "added_at": "2022-02-11 09:00:57",
       "album": {
-        "name": "One Day You Will Understand",
-        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "emPawa Africa",
-          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Baby I'm Jealous",
-      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
-    },
-    {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 112000,
       "name": "Boulevard",
       "url": "https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0"
+    },
+    {
+      "added_at": "2022-02-11 09:00:57",
+      "album": {
+        "name": "One Day You Will Understand",
+        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Baby I'm Jealous",
+      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
     },
     {
       "added_at": "2022-04-07 23:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-02-11 09:00:57",
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
-    },
-    {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 400960,
       "name": "Otoolege",
       "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
+    },
+    {
+      "added_at": "2022-02-11 09:00:57",
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -889,24 +889,20 @@
       "url": "https://open.spotify.com/track/2caUqogrPS7fyT96tF9fOi"
     },
     {
-      "added_at": "2022-02-11 09:00:57",
+      "added_at": "2022-03-18 08:25:46",
       "album": {
-        "name": "Mandy & The Jungle",
-        "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7ghHUmv50N6eSegtCyCqnZ"
       },
       "artists": [
         {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "GoodGirl LA",
+          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
         }
       ],
-      "duration_ms": 198518,
-      "name": "Murvlana",
-      "url": "https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK"
+      "duration_ms": 224807,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J"
     }
   ],
   "unique_name": "End in Tears ",

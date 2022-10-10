@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Justin Quiles & Carin Leon.",
-  "num_followers": 261621,
+  "num_followers": 261643,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1ODI4MiwwMDAwMDAwMDlmNWM1OTZmZmI4NDIxYjM0ZjRlOGUzYjk5NjEwY2Zk",
+  "snapshot_id": "MTY2NTE1ODI4MiwwMDAwMDAwMDRjZWM5YjU3ZWNiNGRmNGE1YjEzYmQ3OWZjZTQxY2Zh",
   "tracks": [
     {
       "added_at": "2022-10-07 15:58:02",
@@ -375,22 +375,18 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "eScoRpi\u00d3n :)",
-        "url": "https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj"
+        "name": "Bien Por Ti",
+        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
       },
       "artists": [
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
         }
       ],
-      "duration_ms": 179799,
-      "name": "eScoRpi\u00d3n :)",
-      "url": "https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan"
+      "duration_ms": 154653,
+      "name": "Bien Por Ti",
+      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -431,18 +427,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Bien Por Ti",
-        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
+        "name": "eScoRpi\u00d3n :)",
+        "url": "https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj"
       },
       "artists": [
         {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         }
       ],
-      "duration_ms": 154653,
-      "name": "Bien Por Ti",
-      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
+      "duration_ms": 179799,
+      "name": "eScoRpi\u00d3n :)",
+      "url": "https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Algod\u00f3n",
-        "url": "https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Algod\u00f3n",
-      "url": "https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Chimbo",
         "url": "https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 182089,
       "name": "Chimbo",
       "url": "https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Algod\u00f3n",
+        "url": "https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Algod\u00f3n",
+      "url": "https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Volver a Casa",
         "url": "https://open.spotify.com/album/2xMEHlXjvlU6SoCogDKK5E"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 173310,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -887,6 +887,26 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
+        "name": "Trepado",
+        "url": "https://open.spotify.com/album/49YhDMBAxaoaQl1I2kvuCz"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Oscu",
+          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
+        }
+      ],
+      "duration_ms": 170264,
+      "name": "Trepado",
+      "url": "https://open.spotify.com/track/711ngcynIQHVRmTn5R7QVs"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
         "name": "ANASTASIA",
         "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 198294,
       "name": "La Equivocada",
       "url": "https://open.spotify.com/track/2VeyK1f5HRgNGNhn8MUvdf"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
-        "name": "Trepado",
-        "url": "https://open.spotify.com/album/49YhDMBAxaoaQl1I2kvuCz"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Oscu",
-          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
-        }
-      ],
-      "duration_ms": 170264,
-      "name": "Trepado",
-      "url": "https://open.spotify.com/track/711ngcynIQHVRmTn5R7QVs"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Diecis\u00e9is",
-        "url": "https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ"
-      },
-      "artists": [
-        {
-          "name": "Tiare",
-          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
-        }
-      ],
-      "duration_ms": 212452,
-      "name": "Cardenalito",
-      "url": "https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "GOTEO",
         "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 223384,
       "name": "GUR\u00da",
       "url": "https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Diecis\u00e9is",
+        "url": "https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ"
+      },
+      "artists": [
+        {
+          "name": "Tiare",
+          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+        }
+      ],
+      "duration_ms": 212452,
+      "name": "Cardenalito",
+      "url": "https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "NO VUELVAS",
-        "url": "https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg"
-      },
-      "artists": [
-        {
-          "name": "KRISTAL",
-          "url": "https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e"
-        }
-      ],
-      "duration_ms": 178178,
-      "name": "NO VUELVAS",
-      "url": "https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Fuckin' Cupido </3",
         "url": "https://open.spotify.com/album/7kybS1WpOJk8MBniNTzjVK"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 226052,
       "name": "Fuckin' Cupido </3",
       "url": "https://open.spotify.com/track/0LsoBe7x8VCHCdgPFxe7db"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "NO VUELVAS",
+        "url": "https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg"
+      },
+      "artists": [
+        {
+          "name": "KRISTAL",
+          "url": "https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e"
+        }
+      ],
+      "duration_ms": 178178,
+      "name": "NO VUELVAS",
+      "url": "https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2"
     },
     {
       "added_at": "2022-10-07 15:58:02",

@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 35523,
+  "num_followers": 35531,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGYyMTAwOGU5NThjODQwY2Y5NGZjNjE1ODY1NmM3MjAw",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDI4MzBjNjE3YTYxZTVkZGI5NjczMzcwZTFhOGZhYjgw",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
-      },
-      "artists": [
-        {
-          "name": "Johnny Otis",
-          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
-        }
-      ],
-      "duration_ms": 112866,
-      "name": "Good Golly",
-      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Roy Milton And His Solid Senders",
         "url": "https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 163840,
       "name": "Big Fat Mama",
       "url": "https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "duration_ms": 112866,
+      "name": "Good Golly",
+      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -387,22 +387,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Joe Liggins & The Honeydrippers",
-        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+        "name": "Lost Halloween",
+        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
       },
       "artists": [
         {
-          "name": "Joe Liggins",
-          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
-        },
-        {
-          "name": "Honeydrippers",
-          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
         }
       ],
-      "duration_ms": 286893,
-      "name": "Rhythm In The Barnyard",
-      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
+      "duration_ms": 120480,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -423,18 +419,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lost Halloween",
-        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
+        "name": "Joe Liggins & The Honeydrippers",
+        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
       "artists": [
         {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
+          "name": "Joe Liggins",
+          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
+        },
+        {
+          "name": "Honeydrippers",
+          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
         }
       ],
-      "duration_ms": 120480,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
+      "duration_ms": 286893,
+      "name": "Rhythm In The Barnyard",
+      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -523,22 +523,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
-        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
       "artists": [
         {
-          "name": "Humphrey Lyttelton",
-          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
-        },
-        {
-          "name": "Jimmy Rushing",
-          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
         }
       ],
-      "duration_ms": 116933,
-      "name": "Mr. Five By Five",
-      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
+      "duration_ms": 144166,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -559,18 +555,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
+        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
       },
       "artists": [
         {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+          "name": "Humphrey Lyttelton",
+          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
+        },
+        {
+          "name": "Jimmy Rushing",
+          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
         }
       ],
-      "duration_ms": 144166,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
+      "duration_ms": 116933,
+      "name": "Mr. Five By Five",
+      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
-        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Lockjaw\" Davis",
-          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
-        }
-      ],
-      "duration_ms": 145852,
-      "name": "Ravin' At The Haven",
-      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Rock And Roll - The Essential Collection",
         "url": "https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 160186,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
+        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+        }
+      ],
+      "duration_ms": 145852,
+      "name": "Ravin' At The Haven",
+      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
     },
     {
       "added_at": "2022-03-28 19:44:25",

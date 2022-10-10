@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,565 likes - 70 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,583 likes - 70 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 21 | [Can You Canoe?](https://open.spotify.com/track/2pot9T6V7bZQ8EQ6PzpjC9) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:04 |
 | 22 | [Bicycle](https://open.spotify.com/track/4gHHytUVWdfPumbJA9AizA) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:03 |
 | 23 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
-| 24 | [I've Been Workin' on the Railroad \(feat\. Niall de Burca and John Wood\)](https://open.spotify.com/track/6x28Wyl6aWusAfnywEyBIl) | [Dan Crow](https://open.spotify.com/artist/1EQSKxGMjwQWCo6QqBwt4p), [Niall de Burca](https://open.spotify.com/artist/71oI8ewDCjuoKNQ3UIYP0e), [John Wood](https://open.spotify.com/artist/3pmgthLeZygjIItk1u5TTx) | [Sing\-a\-Ling with Friends](https://open.spotify.com/album/3GpgPqtCnQSV1Ng4EkGZKl) | 2:18 |
-| 25 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 |
+| 24 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 |
+| 25 | [I've Been Workin' on the Railroad \(feat\. Niall de Burca and John Wood\)](https://open.spotify.com/track/6x28Wyl6aWusAfnywEyBIl) | [Dan Crow](https://open.spotify.com/artist/1EQSKxGMjwQWCo6QqBwt4p), [Niall de Burca](https://open.spotify.com/artist/71oI8ewDCjuoKNQ3UIYP0e), [John Wood](https://open.spotify.com/artist/3pmgthLeZygjIItk1u5TTx) | [Sing\-a\-Ling with Friends](https://open.spotify.com/album/3GpgPqtCnQSV1Ng4EkGZKl) | 2:18 |
 | 26 | [Don't Grow up Too Soon](https://open.spotify.com/track/29Df1XJyKy7pYw3G79Fx36) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:29 |
 | 27 | [Five Little Monkeys Jumping on the Bed](https://open.spotify.com/track/42asoM3aOwxRsivZEKFEeI) | [David Landau](https://open.spotify.com/artist/2xIaXC0ztnAJkUsZWFVSPV) | [Kids and Kitties](https://open.spotify.com/album/5dO917ENOex3W1RnneH0wv) | 1:41 |
 | 28 | [Hello](https://open.spotify.com/track/6rkleD9KWx0iz0RTQYCfY7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/38MybNdH299tXHS9uLJ2hq) | 2:37 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 42 | [Home on the Range](https://open.spotify.com/track/1MAXtir2OgyGQKfQAxDK6c) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [Presenting Roy Rogers](https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm) | 2:35 |
 | 43 | [Baby Beluga \- 40th Anniversary Version](https://open.spotify.com/track/40oUxbmsYW6a62kmuJgsEv) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Baby Beluga \(40th Anniversary Version\)](https://open.spotify.com/album/3rJ1zQgh9ngMK5Oby68n36) | 3:28 |
 | 44 | [The Riddle Song](https://open.spotify.com/track/7MjYIqk3plWn2CHz9SFozd) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:41 |
-| 45 | [Honey Oh Be](https://open.spotify.com/track/1ivFuOe2bsoWMF2XdvlAZ8) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [I Love You the Most](https://open.spotify.com/album/4K0SW8yURGgwbiRAoff90u) | 1:53 |
-| 46 | [Erie Canal](https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Rocket Ship Beach](https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ) | 2:40 |
+| 45 | [Erie Canal](https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Rocket Ship Beach](https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ) | 2:40 |
+| 46 | [Honey Oh Be](https://open.spotify.com/track/1ivFuOe2bsoWMF2XdvlAZ8) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [I Love You the Most](https://open.spotify.com/album/4K0SW8yURGgwbiRAoff90u) | 1:53 |
 | 47 | [Stop and Go](https://open.spotify.com/track/6UFUBoYk4c1bvVFFKfa1Fs) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [Get Moving With Ella Jenkins](https://open.spotify.com/album/0ApVj2H8jZn9NiPV7al4xb) | 3:45 |
 | 48 | [Glue](https://open.spotify.com/track/1OnQCrHqov2hDGd0WFh6VV) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Glue](https://open.spotify.com/album/0CrN2sQKKHa2IvNJybDCID) | 2:18 |
 | 49 | [In the Kitchen](https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:08 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 66 | [The Tailor and the Mouse](https://open.spotify.com/track/2GROeDv4VmlGbM80k3KHX4) | [Glenn Yarbrough](https://open.spotify.com/artist/4GxVmha4ELBwUE4bPyChzS) | [Come and Sit by My Side](https://open.spotify.com/album/11ES2isDgMh7BpZTlKFU6a) | 1:34 |
 | 67 | [Goober Peas](https://open.spotify.com/track/046AO6ZBgRPwA52YufDUIx) | [Arthur Smith](https://open.spotify.com/artist/4a73lr7ZzVCTFqy6d7sHc7) | [Country for Kids Volume 1 : I Like Folk Songs](https://open.spotify.com/album/6DTys0pk985arZ3te1NsBM) | 1:53 |
 | 68 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/30DiNVMuWhBwU24K16dk39) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 1:54 |
-| 69 | [Kindness Grows](https://open.spotify.com/track/1KjAXvISuEKlMvVWgpon3k) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Kindness Grows](https://open.spotify.com/album/2nuTu6RZ9lf8uq3CHAhlbX) | 1:32 |
-| 70 | [Pop! Goes the Weasle](https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [45 Nursery Rhymes](https://open.spotify.com/album/37LRo39cJ69EjKNKG0peTO) | 0:49 |
+| 69 | [Pop! Goes the Weasle](https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [45 Nursery Rhymes](https://open.spotify.com/album/37LRo39cJ69EjKNKG0peTO) | 0:49 |
+| 70 | [Kindness Grows](https://open.spotify.com/track/1KjAXvISuEKlMvVWgpon3k) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Kindness Grows](https://open.spotify.com/album/2nuTu6RZ9lf8uq3CHAhlbX) | 1:32 |
 
-Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMDIyOTc3OTYzMTkxM2U1MWZjZGFjMjc4YjA5N2ExMTE4`
+Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMDhjOTgzYjJiMDU5NjJiZTI1N2IwYWU2ZjdkOTIxM2Iz`

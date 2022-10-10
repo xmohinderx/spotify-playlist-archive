@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-83 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/34pOQEeViNfqKIxC13NqiC)
+84 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/34pOQEeViNfqKIxC13NqiC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Apenas Floto](https://open.spotify.com/track/3kopEPvNa2EONY8vxVsrJ7) | [Spinetta, García, Ferrón](https://open.spotify.com/artist/2AtL7G1Q3o9KVYM3nRFYTq) | [Spinetta Los Amigo](https://open.spotify.com/album/4LyoNCALRl9a4zaQz8av9E) | 3:26 | 2022-08-12 |  |
 | [Arenales Blues](https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Lua](https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs) | 4:11 | 2022-08-12 |  |
 | [Aura](https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Rata](https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K) | 3:57 | 2022-08-12 |  |
+| [Ausencias](https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT) | [Dino Saluzzi](https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz) | [Ausencias](https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM) | 4:58 | 2022-09-23 |  |
 | [Bill's Groove](https://open.spotify.com/track/5O13Aw8p4di1ZF3s3RggDV) | [ROMÁN](https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm) | [ROMÁN](https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq) | 4:51 | 2022-08-12 |  |
 | [Black Hole Sun](https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0) | [Oscar Giunta Supertrío!](https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl) | [Apaláp!](https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv) | 8:13 | 2022-08-12 |  |
 | [Brilliant Corners](https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Brilliant Corners](https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4) | 1:44 | 2022-08-12 |  |
@@ -46,7 +47,7 @@
 | [Full Glasses](https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Onyx](https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1) | 6:04 | 2022-08-12 |  |
 | [Full House \- Live](https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc) | [Valentino Jazz Bazar](https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm) | [Essence of Wes Montgomery \(Live in Thelonious Club, Buenos Aires, Argentina\)](https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH) | 4:46 | 2022-08-12 |  |
 | [Here´s That Rainy Day](https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc) | [Gustavo Musso](https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Here´s That Rainy Day](https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb) | 3:12 | 2022-09-23 |  |
-| [I Remember Clifford](https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Facundo Canosa](https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS) | [I Remember Clifford](https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY) | 3:12 | 2022-08-12 |  |
+| [I Remember Clifford](https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Facundo Canosa](https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS) | [I Remember Clifford](https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY) | 3:12 | 2022-08-12 | 2022-10-10 |
 | [I Should Care](https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH) | [Ruben Lopez Furst](https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX), [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV), [Luis Ceravolo](https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E) | [All the Things You Are](https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB) | 6:48 | 2022-08-12 |  |
 | [I'm Beginning to See the Light](https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:20 | 2022-08-12 |  |
 | [In a Middle Tone](https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu) | [Enrique "Mono" Villegas](https://open.spotify.com/artist/5g70cDApbV4sLS0T3zCSP6) | [Grabaciones Inéditas Vol\. 1](https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA) | 4:14 | 2022-08-12 |  |

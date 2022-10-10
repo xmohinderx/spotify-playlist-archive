@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 92586,
+  "num_followers": 92626,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjExMzAzNSwwMDAwMDAwMDU0MTZlMjk2MGIxY2I3ZWZjOWEwZmU3MTIwZmY1OGQ1",
+  "snapshot_id": "MTY2MjExMzAzNSwwMDAwMDAwMDkxZGExMjg0OTg0YTA5ODU2NTA1YmQ0MjcxNjZmMjM2",
   "tracks": [
     {
       "added_at": "2022-09-02 10:03:55",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
+        "name": "Sea Notes",
+        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
+      },
+      "artists": [
+        {
+          "name": "Joanna Finnis",
+          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "Flight of the Sea Birds",
+      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
         "name": "Swan Lake Story",
         "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 170375,
       "name": "Swan Lake Story, Op. 1",
       "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "Sea Notes",
-        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
-      },
-      "artists": [
-        {
-          "name": "Joanna Finnis",
-          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "Flight of the Sea Birds",
-      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
         "name": "Living Rooms",
         "url": "https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 175384,
       "name": "Living Rooms",
       "url": "https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
         "name": "My Head In The Clouds",
         "url": "https://open.spotify.com/album/0udR5qJBKSa1JdHtqWueN7"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 150775,
       "name": "My Head In The Clouds",
       "url": "https://open.spotify.com/track/11dmZhwlQtVxuIN6qp0i7G"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/2VneXLzvhPk5Wwn3rxSh1c"
-      },
-      "artists": [
-        {
-          "name": "Cierna Sobre Ti",
-          "url": "https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9"
-        }
-      ],
-      "duration_ms": 140156,
-      "name": "Once Again",
-      "url": "https://open.spotify.com/track/6SFxknzg00olqCJl4QJEyq"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -775,34 +775,18 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/2VneXLzvhPk5Wwn3rxSh1c"
       },
       "artists": [
         {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+          "name": "Cierna Sobre Ti",
+          "url": "https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9"
         }
       ],
-      "duration_ms": 153387,
-      "name": "Autumn",
-      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Heap",
-          "url": "https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH"
+      "duration_ms": 140156,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/6SFxknzg00olqCJl4QJEyq"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -823,6 +807,38 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Heap",
+          "url": "https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
         "name": "Zauchensee",
         "url": "https://open.spotify.com/album/4G5j00B5FgozGgqpgyA0Ay"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 168199,
       "name": "Abendruhe",
       "url": "https://open.spotify.com/track/78rnp2gjXUMTxTCL546pWY"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "Walking on the Sand",
-        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
-      },
-      "artists": [
-        {
-          "name": "Raf21",
-          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
-        }
-      ],
-      "duration_ms": 207046,
-      "name": "Walking on the Sand - Piano & Waves",
-      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -871,34 +871,18 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "Calm Water",
-        "url": "https://open.spotify.com/album/3slPGMMjH6yTnbbJ0yYv8l"
+        "name": "Walking on the Sand",
+        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
       },
       "artists": [
         {
-          "name": "Elise Bordeaux",
-          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
+          "name": "Raf21",
+          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
         }
       ],
-      "duration_ms": 260729,
-      "name": "Calm Water",
-      "url": "https://open.spotify.com/track/3VHj17DOjq1Yf89SCPK0Nj"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
+      "duration_ms": 207046,
+      "name": "Walking on the Sand - Piano & Waves",
+      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -915,6 +899,22 @@
       "duration_ms": 202105,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
+        "name": "Calm Water",
+        "url": "https://open.spotify.com/album/3slPGMMjH6yTnbbJ0yYv8l"
+      },
+      "artists": [
+        {
+          "name": "Elise Bordeaux",
+          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
+        }
+      ],
+      "duration_ms": 260729,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/3VHj17DOjq1Yf89SCPK0Nj"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "On The Verge Of Collapse",
-        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
-      },
-      "artists": [
-        {
-          "name": "Rohit",
-          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "We All Grieve Differently",
-      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
         "name": "Zerachiel",
         "url": "https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 191870,
       "name": "Zerachiel",
       "url": "https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
+        "name": "On The Verge Of Collapse",
+        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
+      },
+      "artists": [
+        {
+          "name": "Rohit",
+          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "We All Grieve Differently",
+      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
-      },
-      "artists": [
-        {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
-        }
-      ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
+      },
+      "artists": [
+        {
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
+        }
+      ],
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
         "name": "No Time But Eternity",
         "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 399544,
       "name": "No Time But Eternity",
       "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
+        "name": "Sad Cello & Piano XXII",
+        "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
+      },
+      "artists": [
+        {
+          "name": "Martin Czerny",
+          "url": "https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Tired Mind",
+      "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
     },
     {
       "added_at": "2022-09-02 10:03:55",
@@ -1147,38 +1163,6 @@
     {
       "added_at": "2022-09-02 10:03:55",
       "album": {
-        "name": "I FELT",
-        "url": "https://open.spotify.com/album/3QuWiYej1r7pA09vyFLI8S"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 127218,
-      "name": "I FELT",
-      "url": "https://open.spotify.com/track/26uagwLcGRaOIcTsBcxP2J"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
-        "name": "Sad Cello & Piano XXII",
-        "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
-      },
-      "artists": [
-        {
-          "name": "Martin Czerny",
-          "url": "https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Tired Mind",
-      "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
-    },
-    {
-      "added_at": "2022-09-02 10:03:55",
-      "album": {
         "name": "Veo Tus Ojos",
         "url": "https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 186710,
       "name": "Veo Tus Ojos",
       "url": "https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe"
+    },
+    {
+      "added_at": "2022-09-02 10:03:55",
+      "album": {
+        "name": "I FELT",
+        "url": "https://open.spotify.com/album/3QuWiYej1r7pA09vyFLI8S"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 127218,
+      "name": "I FELT",
+      "url": "https://open.spotify.com/track/26uagwLcGRaOIcTsBcxP2J"
     },
     {
       "added_at": "2022-09-02 10:03:55",

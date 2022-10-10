@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Rachel Reis",
-  "num_followers": 324651,
+  "num_followers": 324674,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDcyZjdhMWRmNTYyYTIzNTU0MjM0Nzk0MzE3NzliZWQz",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGU5YmQyN2UxYWUwZDZjZWIzMDExMDk4NDI2NDUyZWRi",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Jasmim Parte 1",
+        "url": "https://open.spotify.com/album/6YRFjsWP08K5hNWocg7o2Q"
+      },
+      "artists": [
+        {
+          "name": "Gabriel da Rosa",
+          "url": "https://open.spotify.com/artist/010biSbu4uiSzu9SKjcKhF"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Jasmim Parte 1",
+      "url": "https://open.spotify.com/track/2K7avC9Vm9wnXqTdsG5SW9"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Vestido de Amor",
         "url": "https://open.spotify.com/album/7CJ7Ndr2nG8nDQ9VZ1D5mZ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 220286,
       "name": "SobreHumano",
       "url": "https://open.spotify.com/track/1NvxtekkTSINREzraxen7q"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Jasmim Parte 1",
-        "url": "https://open.spotify.com/album/6YRFjsWP08K5hNWocg7o2Q"
-      },
-      "artists": [
-        {
-          "name": "Gabriel da Rosa",
-          "url": "https://open.spotify.com/artist/010biSbu4uiSzu9SKjcKhF"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "Jasmim Parte 1",
-      "url": "https://open.spotify.com/track/2K7avC9Vm9wnXqTdsG5SW9"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Tem Gente",
-        "url": "https://open.spotify.com/album/264e5YpvAMhsphlfvQGNjc"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Suplicy",
-          "url": "https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq"
-        }
-      ],
-      "duration_ms": 221601,
-      "name": "Tem Gente",
-      "url": "https://open.spotify.com/track/68V1U8mQCWG85jypot6rmU"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Ao Vivo no Montreux Jazz Festival 1997",
         "url": "https://open.spotify.com/album/6TUhbe62fmri26xrurl58M"
       },
@@ -951,18 +935,34 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Entre Homens e Autom\u00f3veis",
-        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
+        "name": "Tem Gente",
+        "url": "https://open.spotify.com/album/264e5YpvAMhsphlfvQGNjc"
       },
       "artists": [
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+          "name": "Jo\u00e3o Suplicy",
+          "url": "https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq"
         }
       ],
-      "duration_ms": 185073,
-      "name": "Pois \u00e9",
-      "url": "https://open.spotify.com/track/2sVXcLNGtYwSbOO5I8xpAb"
+      "duration_ms": 221601,
+      "name": "Tem Gente",
+      "url": "https://open.spotify.com/track/68V1U8mQCWG85jypot6rmU"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Tenho Sede",
+        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 190468,
+      "name": "Tenho Sede",
+      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Entre Homens e Autom\u00f3veis",
+        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "duration_ms": 185073,
+      "name": "Pois \u00e9",
+      "url": "https://open.spotify.com/track/2sVXcLNGtYwSbOO5I8xpAb"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Bryan Behr \u2022 Ao vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/0YiT4eheEc4IClnZKfSjna"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 230953,
       "name": "conversas de travesseiro - Ao vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/1emrkeYwsLgQCz0WflpEOs"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Tenho Sede",
-        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 190468,
-      "name": "Tenho Sede",
-      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1035,6 +1035,22 @@
       "duration_ms": 243764,
       "name": "Tocando Em Frente",
       "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Sem Pensar No Amanh\u00e3",
+        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "Sem Pensar No Amanh\u00e3",
+      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 158956,
       "name": "Uma Dose, um Caf\u00e9",
       "url": "https://open.spotify.com/track/0b1nzJMdlkq2sUEu68mtB1"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Sem Pensar No Amanh\u00e3",
-        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Sem Pensar No Amanh\u00e3",
-      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1155,38 +1155,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 210030,
-      "name": "Rota\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Humbiumbi",
-        "url": "https://open.spotify.com/album/1mu3dEgT3LIJ3Vxkh3QPyM"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 237996,
-      "name": "HUMBIUMBI",
-      "url": "https://open.spotify.com/track/49hZHHz9ZBU9mwDebZp7ep"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Alceu Valen\u00e7a e Paulo Rafael",
         "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
@@ -1207,6 +1175,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 210030,
+      "name": "Rota\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Baby e Pepeu - Noites Cariocas (Ao Vivo)",
         "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 261056,
       "name": "Planeta V\u00eanus - Ao Vivo",
       "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Humbiumbi",
+        "url": "https://open.spotify.com/album/1mu3dEgT3LIJ3Vxkh3QPyM"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 237996,
+      "name": "HUMBIUMBI",
+      "url": "https://open.spotify.com/track/49hZHHz9ZBU9mwDebZp7ep"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Frequ\u00eancia Rara",
+        "url": "https://open.spotify.com/album/0MZuluAyKHqiiJvCIyvRYy"
+      },
+      "artists": [
+        {
+          "name": "Dani Black",
+          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
+        }
+      ],
+      "duration_ms": 268868,
+      "name": "Frequ\u00eancia Rara",
+      "url": "https://open.spotify.com/track/1sfxVBu3mpDOAFteXZGdYn"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "A Palo Seco (Radio Edit)",
         "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Frequ\u00eancia Rara",
-        "url": "https://open.spotify.com/album/0MZuluAyKHqiiJvCIyvRYy"
+        "name": "Outras Pessoas",
+        "url": "https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW"
       },
       "artists": [
         {
-          "name": "Dani Black",
-          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 268868,
-      "name": "Frequ\u00eancia Rara",
-      "url": "https://open.spotify.com/track/1sfxVBu3mpDOAFteXZGdYn"
+      "duration_ms": 199893,
+      "name": "Outras Pessoas",
+      "url": "https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 296000,
       "name": "Se N\u00e3o For Amor",
       "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Outras Pessoas",
-        "url": "https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "Outras Pessoas",
-      "url": "https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Chico Chico Ao Vivo na Macaco Gordo",
-        "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        },
-        {
-          "name": "Macaco Gordo",
-          "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
-        }
-      ],
-      "duration_ms": 226949,
-      "name": "Ribanceira - Ao Vivo",
-      "url": "https://open.spotify.com/track/5K47N9oaaYfC3k5zDPc9X5"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Sem Pecado e Sem Ju\u00edzo (Ao Vivo)",
         "url": "https://open.spotify.com/album/25Lea4PaLVhwd2qh9ZPRVh"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 247266,
       "name": "Sem Pecado e Sem Ju\u00edzo - Ao Vivo",
       "url": "https://open.spotify.com/track/4urMYD4WHWZqnCD9YuUiOv"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Chico Chico Ao Vivo na Macaco Gordo",
+        "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Macaco Gordo",
+          "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
+        }
+      ],
+      "duration_ms": 226949,
+      "name": "Ribanceira - Ao Vivo",
+      "url": "https://open.spotify.com/track/5K47N9oaaYfC3k5zDPc9X5"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Retr\u00f3picos",
-        "url": "https://open.spotify.com/album/76EbimmJ5cRGNUi4kWHsKj"
-      },
-      "artists": [
-        {
-          "name": "Paulo Ohana",
-          "url": "https://open.spotify.com/artist/3f9cXdDfm0WiprbKUH6712"
-        }
-      ],
-      "duration_ms": 271440,
-      "name": "Retr\u00f3picos",
-      "url": "https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Chico Chico Ao Vivo na Macaco Gordo",
         "url": "https://open.spotify.com/album/1bus2kUGKliwotPBTiPUBo"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 195506,
       "name": "Templos - Ao Vivo",
       "url": "https://open.spotify.com/track/5gOXswoH6SMzvWy7lvCpQC"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Retr\u00f3picos",
+        "url": "https://open.spotify.com/album/76EbimmJ5cRGNUi4kWHsKj"
+      },
+      "artists": [
+        {
+          "name": "Paulo Ohana",
+          "url": "https://open.spotify.com/artist/3f9cXdDfm0WiprbKUH6712"
+        }
+      ],
+      "duration_ms": 271440,
+      "name": "Retr\u00f3picos",
+      "url": "https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Ventania",
-        "url": "https://open.spotify.com/album/3i2LOsgLugd1YksxeKrg5Z"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        },
-        {
-          "name": "Claudia Dantas",
-          "url": "https://open.spotify.com/artist/1vIqqyiF9QFl8Z8WIHEzG7"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Ventania",
-      "url": "https://open.spotify.com/track/0tP3EI2TtAHu4hvlgmNHmE"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Fogo F\u00e1tuo",
         "url": "https://open.spotify.com/album/29rSPnCvudiEBGMj6YQ7vp"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 238103,
       "name": "Tierra y Libertad",
       "url": "https://open.spotify.com/track/1v5amLirubYr1CQOkrNmsl"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Ventania",
+        "url": "https://open.spotify.com/album/3i2LOsgLugd1YksxeKrg5Z"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Claudia Dantas",
+          "url": "https://open.spotify.com/artist/1vIqqyiF9QFl8Z8WIHEzG7"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Ventania",
+      "url": "https://open.spotify.com/track/0tP3EI2TtAHu4hvlgmNHmE"
     },
     {
       "added_at": "2022-10-07 03:00:00",

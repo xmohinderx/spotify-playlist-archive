@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Jean Dawson
 
-4,257 songs - 10 day 10 hr 8 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,258 songs - 10 day 10 hr 11 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,8 @@
 | [Beginning \- Edit](https://open.spotify.com/track/2KgYNZYAFu29NDdlK6rM1P) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Beginning](https://open.spotify.com/album/38SHFKkuiR3eyIauAFJQSn) | 3:30 | 2020-05-08 | 2020-06-12 |
 | [Behind The Lockers With Hunter](https://open.spotify.com/track/3potDlxVDPRPr2bHNcZ9Fi) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [Behind The Lockers With Hunter](https://open.spotify.com/album/5Z33Uj0Cf57nz86NM8cB3y) | 3:35 | 2022-07-22 | 2022-08-20 |
 | [Being Harsh](https://open.spotify.com/track/7cBYrtO9GVDPKVZIpwVrKd) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Being Harsh](https://open.spotify.com/album/5jisL3Cz7JVwUBIzvNuDdn) | 2:56 | 2021-05-22 | 2021-07-17 |
-| [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-23 |  |
+| [Belinda Says](https://open.spotify.com/track/6P68mPQLzCYoxa6d5Xemr1) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:45 | 2022-09-23 |  |
+| [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-23 | 2022-10-10 |
 | [Belladonna](https://open.spotify.com/track/1ruhFOljZpMeZIVDN03xsn) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Belladonna](https://open.spotify.com/album/3f436EvPTe6ZzDcYyG3edG) | 4:13 | 2019-08-02 | 2019-09-06 |
 | [belong](https://open.spotify.com/track/16D7xsQ4W81KLuPJieTBCq) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [belong](https://open.spotify.com/album/0Lvr7hkpZ7pi9ZyuYO6Bj5) | 2:53 | 2019-06-07 | 2019-10-25 |
 | [Beluga Baby](https://open.spotify.com/track/051j6UH25Tkif0uPdsBybg) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Beluga Baby](https://open.spotify.com/album/4Hzq3RmqiOLSH6nKkg6AhZ) | 2:40 | 2020-10-02 | 2020-12-22 |

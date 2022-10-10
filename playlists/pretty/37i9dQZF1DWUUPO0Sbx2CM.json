@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 105561,
+  "num_followers": 105606,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGRiY2E2MmQzOGVmNjcwOWUxOWFmYjlmYTY2MDI2YzJj",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGE1MzEzM2U4ODM1YTUxZDc5OWVmN2RhMGRiZWVhZmNi",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Give Up On Love",
         "url": "https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 202790,
       "name": "Give Up On Love",
       "url": "https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -735,6 +735,38 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/5AmXZU3x9PMA0p5Y5pD9C4"
       },
@@ -763,38 +795,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Fight My Fight For Me",
         "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Every Move I Make",
-        "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
-      },
-      "artists": [
-        {
-          "name": "Edgar Sandoval Jr",
-          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
-        }
-      ],
-      "duration_ms": 132255,
-      "name": "Every Move I Make",
-      "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Lifer",
         "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 201093,
       "name": "Lifer",
       "url": "https://open.spotify.com/track/1fAfbJtiwvTh76blPg4hEA"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Every Move I Make",
+        "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
+      },
+      "artists": [
+        {
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+        }
+      ],
+      "duration_ms": 132255,
+      "name": "Every Move I Make",
+      "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -919,22 +919,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "WILD LOVE",
-        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "WILD LOVE",
-      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 175292,
       "name": "Millionaire (Good Like That)",
       "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "WILD LOVE",
+        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 167499,
+      "name": "WILD LOVE",
+      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Better King",
-        "url": "https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+        "name": "Better King",
+        "url": "https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
         }
       ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
+      "duration_ms": 199760,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1151,6 +1135,22 @@
       "duration_ms": 203874,
       "name": "Save Me - Bonus Track",
       "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Bring The Whole Hood",
-        "url": "https://open.spotify.com/album/7F7Hs9eculrXiUrfGB4Fax"
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
       },
       "artists": [
         {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
         }
       ],
-      "duration_ms": 200035,
-      "name": "Bring The Whole Hood",
-      "url": "https://open.spotify.com/track/0T1WTePlsi8e1wAMKkEMi6"
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
     }
   ],
   "unique_name": "Christian Dance Party",

@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Lila Tirando a Violeta Artwork: Thami Nabil",
-  "num_followers": 93372,
+  "num_followers": 93392,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkzMjM5OCwwMDAwMDAwMDQyZTRiODNmMDE4OGY5YWQ3NmY4NTBiZGZkNjk5NTJm",
+  "snapshot_id": "MTY2NDkzMjM5OCwwMDAwMDAwMDc4NjU1MDAyZjk0YzhkMmUwZDBkMzMzZGQ3ZGE3OWJi",
   "tracks": [
     {
       "added_at": "2022-09-14 04:00:00",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "After Dark 4",
-        "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
-      },
-      "artists": [
-        {
-          "name": "Mesh Kimono",
-          "url": "https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Afterburn",
-      "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
-    },
-    {
       "added_at": "2022-09-27 23:34:16",
       "album": {
         "name": "First Fall",
@@ -619,18 +603,18 @@
     {
       "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "Strawberry Moon",
-        "url": "https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi"
+        "name": "After Dark 4",
+        "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
       },
       "artists": [
         {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+          "name": "Mesh Kimono",
+          "url": "https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Strawberry Moon",
-      "url": "https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j"
+      "duration_ms": 208000,
+      "name": "Afterburn",
+      "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
     },
     {
       "added_at": "2022-09-21 02:54:10",
@@ -647,6 +631,22 @@
       "duration_ms": 354645,
       "name": "The Clearing Pt. 2",
       "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Strawberry Moon",
+        "url": "https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Strawberry Moon",
+      "url": "https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/475IphfrYFRjHxnPHBnLX1"
     },
     {
-      "added_at": "2022-09-27 23:34:16",
-      "album": {
-        "name": "Cosmic Planta",
-        "url": "https://open.spotify.com/album/4wVoG2nw1uzxfsY8mD3ard"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Liquid Planta Seeds",
-      "url": "https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew"
-    },
-    {
       "added_at": "2022-09-21 02:54:10",
       "album": {
         "name": "The Metallic Index / Pulsion (Nurse on Train)",
@@ -755,6 +739,22 @@
       "duration_ms": 94632,
       "name": "The Metallic Index",
       "url": "https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO"
+    },
+    {
+      "added_at": "2022-09-27 23:34:16",
+      "album": {
+        "name": "Cosmic Planta",
+        "url": "https://open.spotify.com/album/4wVoG2nw1uzxfsY8mD3ard"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Liquid Planta Seeds",
+      "url": "https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -789,6 +789,30 @@
       "url": "https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm"
     },
     {
+      "added_at": "2022-09-21 02:54:10",
+      "album": {
+        "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
+        "url": "https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov"
+      },
+      "artists": [
+        {
+          "name": "Mindy Meng Wang \u738b\u840c",
+          "url": "https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0"
+        },
+        {
+          "name": "Tim Shiel",
+          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
+        },
+        {
+          "name": "Flora Wong",
+          "url": "https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
+      "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
+    },
+    {
       "added_at": "2022-08-31 04:02:01",
       "album": {
         "name": "J\u00e4rnn\u00e4tter",
@@ -819,30 +843,6 @@
       "duration_ms": 314410,
       "name": "To The Room",
       "url": "https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT"
-    },
-    {
-      "added_at": "2022-09-21 02:54:10",
-      "album": {
-        "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
-        "url": "https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov"
-      },
-      "artists": [
-        {
-          "name": "Mindy Meng Wang \u738b\u840c",
-          "url": "https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0"
-        },
-        {
-          "name": "Tim Shiel",
-          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
-        },
-        {
-          "name": "Flora Wong",
-          "url": "https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
-      "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
     },
     {
       "added_at": "2022-09-21 02:54:10",

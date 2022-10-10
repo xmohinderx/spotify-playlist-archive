@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: MUNA",
-  "num_followers": 96123,
+  "num_followers": 96130,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2MDY5NSwwMDAwMDAwMDUwNzY4MmZmZThkNjU5N2M1MWIxNDExNDk2NjY2NmJh",
+  "snapshot_id": "MTY2MjA2MDY5NSwwMDAwMDAwMGE1N2JhZDI2YWI3YWE3OGFjYzU2ZDcxNDNlZTM0YzY0",
   "tracks": [
     {
       "added_at": "2022-03-30 13:22:18",
@@ -352,6 +352,22 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 261337,
+      "name": "Goodpain - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1ykyMoNbNq1oBjyDxlVeAY"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1MYx7vFrwhV4aTwFFmJFeQ"
       },
       "artists": [
@@ -379,22 +395,6 @@
       "duration_ms": 246701,
       "name": "Teenage Dirtbag - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 261337,
-      "name": "Goodpain - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1ykyMoNbNq1oBjyDxlVeAY"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -672,17 +672,17 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
       "artists": [
         {
-          "name": "Calpurnia",
-          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 145280,
-      "name": "Wasting Time - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5ff5WH1b1Te2PpVwLX9p96"
+      "duration_ms": 138383,
+      "name": "Simple Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -704,17 +704,17 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Calpurnia",
+          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
         }
       ],
-      "duration_ms": 138383,
-      "name": "Simple Man - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+      "duration_ms": 145280,
+      "name": "Wasting Time - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5ff5WH1b1Te2PpVwLX9p96"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -848,22 +848,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 214750,
-      "name": "Hunger - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7"
       },
       "artists": [
@@ -875,6 +859,22 @@
       "duration_ms": 180982,
       "name": "Friends - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 214750,
+      "name": "Hunger - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-03-30 13:22:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 292687,
-      "name": "Nocturne - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5T0gOPHHcr98UlcATj39XV"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
         "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 204290,
       "name": "Maps - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 292687,
+      "name": "Nocturne - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5T0gOPHHcr98UlcATj39XV"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1488,22 +1488,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY"
-      },
-      "artists": [
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
-        }
-      ],
-      "duration_ms": 237617,
-      "name": "Bike Dream - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
       },
       "artists": [
@@ -1515,6 +1499,22 @@
       "duration_ms": 192332,
       "name": "About a Bruise - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1w8zbsApexRU0IC8zt6OMe"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        }
+      ],
+      "duration_ms": 237617,
+      "name": "Bike Dream - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-03-30 13:22:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 287459,
-      "name": "Screaming Infidelities - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2oQzXAcwkpB5BmVqQVldAi"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
         "name": "Spotify Singles (Recorded at Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/43KwOELEOKAFhnBSruUM3N"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 221488,
       "name": "The Morning Stars - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5406irqE4nbhyF32Hgbtid"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 287459,
+      "name": "Screaming Infidelities - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2oQzXAcwkpB5BmVqQVldAi"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1924,22 +1924,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 229916,
-      "name": "Fountain Of Youth",
-      "url": "https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3D2gqS23LPeDSxof0n1ibZ"
       },
       "artists": [
@@ -1951,6 +1935,22 @@
       "duration_ms": 259048,
       "name": "ABC 123 - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/52h3IRFSQB1phrAuvSEPhg"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 229916,
+      "name": "Fountain Of Youth",
+      "url": "https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq"
     },
     {
       "added_at": "2022-03-30 13:22:18",

@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Lewis Capaldi",
-  "num_followers": 76788,
+  "num_followers": 76822,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4MTE1NywwMDAwMDAwMGE5N2I2ZGNiYzc3NjY0MDM2Y2M2NWYxYTgyZDk4ZTU4",
+  "snapshot_id": "MTY2NDQ4MTE1NywwMDAwMDAwMGYxMjkzODU0N2Q1MDYwOTAyMTUxYTgxYWVlY2YzYzBi",
   "tracks": [
     {
       "added_at": "2022-09-23 04:12:38",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
     },
     {
-      "added_at": "2022-10-09 20:06:17",
+      "added_at": "2022-10-10 01:42:14",
       "album": {
         "name": "I Wanna Dance With Somebody (Who Loves Me)",
         "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 210956,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/7oEH9W5vXYrgeFM9h3SEx5"
       },
@@ -855,22 +839,6 @@
       "duration_ms": 157674,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/6MbITmnWbLYhQzcLBVFAs3"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "July (Bedroom Session)",
-        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "July - Bedroom Session",
-      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -903,6 +871,38 @@
       "duration_ms": 254834,
       "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "July (Bedroom Session)",
+        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "July - Bedroom Session",
+      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 246527,
-      "name": "Hello \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 191875,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 246527,
+      "name": "Hello \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Wrecking Ball (Acoustic)",
-        "url": "https://open.spotify.com/album/2nETuQ5qhW7T4gAiiptjd4"
-      },
-      "artists": [
-        {
-          "name": "Bailey Rushlow",
-          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
-        }
-      ],
-      "duration_ms": 210865,
-      "name": "Wrecking Ball - Acoustic",
-      "url": "https://open.spotify.com/track/161JZ8ANbUaizt4sgI8j21"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "In Your Prime - EP",
         "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 247200,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Wrecking Ball (Acoustic)",
+        "url": "https://open.spotify.com/album/2nETuQ5qhW7T4gAiiptjd4"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "duration_ms": 210865,
+      "name": "Wrecking Ball - Acoustic",
+      "url": "https://open.spotify.com/track/161JZ8ANbUaizt4sgI8j21"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 256278,
-      "name": "Un-Break My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 256278,
+      "name": "Un-Break My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 149189,
-      "name": "Solar Power - Spotify Singles",
-      "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
         "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 163680,
       "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
       "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 149189,
+      "name": "Solar Power - Spotify Singles",
+      "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm"
+      },
+      "artists": [
+        {
+          "name": "SHAED",
+          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+        }
+      ],
+      "duration_ms": 156625,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Wedding Songs",
         "url": "https://open.spotify.com/album/3e2GfHTpoxEbCUdCj5TRzl"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 231308,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm"
-      },
-      "artists": [
-        {
-          "name": "SHAED",
-          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
-        }
-      ],
-      "duration_ms": 156625,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 244315,
+      "name": "Stay - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Walking On The Moon",
         "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
       },
@@ -2195,6 +2211,22 @@
       "duration_ms": 241213,
       "name": "Walking On The Moon",
       "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Night Changes",
+        "url": "https://open.spotify.com/album/5lZeOHZErhsowOy6Lc0aVk"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 225721,
+      "name": "Night Changes",
+      "url": "https://open.spotify.com/track/4Vd7XveTskuB0bZXIfvITy"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2215,22 +2247,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 244315,
-      "name": "Stay - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "I\u2019m With You",
         "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
       },
@@ -2243,22 +2259,6 @@
       "duration_ms": 235493,
       "name": "I\u2019m With You",
       "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Night Changes",
-        "url": "https://open.spotify.com/album/5lZeOHZErhsowOy6Lc0aVk"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 225721,
-      "name": "Night Changes",
-      "url": "https://open.spotify.com/track/4Vd7XveTskuB0bZXIfvITy"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Soft Pop Hits",
-        "url": "https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 182986,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 243562,
       "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Soft Pop Hits",
+        "url": "https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "A Blue State",
-        "url": "https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA"
-      },
-      "artists": [
-        {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
-        }
-      ],
-      "duration_ms": 169782,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/2sXcrizjiV2OEodm3UmzDf"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/4JRsIxxToO1yQAxVcXcrMF"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 225931,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0dq8XHrYcusGvwXmda53v1"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "A Blue State",
+        "url": "https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "duration_ms": 169782,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/2sXcrizjiV2OEodm3UmzDf"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2939,6 +2939,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 275954,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "All The Things She Said",
         "url": "https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh"
       },
@@ -2987,22 +3003,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "In Da Club",
-        "url": "https://open.spotify.com/album/7JAUDSWptc3QlTIuqGT3lN"
-      },
-      "artists": [
-        {
-          "name": "Skylar Stecker",
-          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4NDvqNg11hSuNpiGUtnlRU"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Synth City",
         "url": "https://open.spotify.com/album/2xc7LOrGqYfDvSi0mZqheu"
       },
@@ -3023,18 +3023,34 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
+        "name": "In Da Club",
+        "url": "https://open.spotify.com/album/7JAUDSWptc3QlTIuqGT3lN"
       },
       "artists": [
         {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+          "name": "Skylar Stecker",
+          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
         }
       ],
-      "duration_ms": 275954,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
+      "duration_ms": 204186,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4NDvqNg11hSuNpiGUtnlRU"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "gives you hell",
+        "url": "https://open.spotify.com/album/3vcwsAuQDHilvVdPS8HRwS"
+      },
+      "artists": [
+        {
+          "name": "Eva Snyder",
+          "url": "https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "gives you hell",
+      "url": "https://open.spotify.com/track/6ur0EUPKCb3YcwqCo04EGF"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -3067,22 +3083,6 @@
       "duration_ms": 219062,
       "name": "Happier",
       "url": "https://open.spotify.com/track/6D7bcHnna58Wr19nWky3Aa"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "gives you hell",
-        "url": "https://open.spotify.com/album/3vcwsAuQDHilvVdPS8HRwS"
-      },
-      "artists": [
-        {
-          "name": "Eva Snyder",
-          "url": "https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "gives you hell",
-      "url": "https://open.spotify.com/track/6ur0EUPKCb3YcwqCo04EGF"
     },
     {
       "added_at": "2022-09-23 04:12:38",

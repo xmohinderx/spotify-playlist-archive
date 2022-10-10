@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe.",
-  "num_followers": 217276,
+  "num_followers": 217295,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0NTY5NSwwMDAwMDAwMDIyMzMzN2QxZDg4ZTA0NWFjMWZjMGNiOTEyM2RmMDA1",
+  "snapshot_id": "MTY2NTA0NTY5NSwwMDAwMDAwMGI0NjNlN2VlYmI2ZmU0YmVjYzNjNmUxOGIwZmVjMmY3",
   "tracks": [
     {
       "added_at": "2022-09-29 22:00:00",
@@ -71,6 +71,46 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "When I See You",
+        "url": "https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "duration_ms": 159127,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -99,46 +139,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "When I See You",
-        "url": "https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        },
-        {
-          "name": "Jaywillz",
-          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
-        }
-      ],
-      "duration_ms": 159127,
-      "name": "When I See You",
-      "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
         "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
@@ -155,6 +155,38 @@
       "duration_ms": 189000,
       "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -179,38 +211,6 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Last Last",
-        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Baby Riddim",
-        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Baby Riddim",
-      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
         "url": "https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 255608,
       "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
       "url": "https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
+        "name": "Baby Riddim",
+        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Baby Riddim",
+      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/1090OWoP6JTpYAaSSEBvGy"
     },
     {
-      "added_at": "2022-10-09 19:52:49",
+      "added_at": "2022-10-10 01:27:08",
       "album": {
         "name": "Tanzania",
         "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
@@ -2295,6 +2295,26 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
+        "url": "https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 155366,
+      "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
+      "url": "https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "No Fear (feat. Damian Marley & Nicky Jam)",
         "url": "https://open.spotify.com/album/5iNZBIAKC2ohCuxiZwuevw"
       },
@@ -2315,26 +2335,6 @@
       "duration_ms": 210922,
       "name": "No Fear (feat. Damian Marley & Nicky Jam)",
       "url": "https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
-        "url": "https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 155366,
-      "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
-      "url": "https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -2803,6 +2803,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/0Z1rPlGEcsY6Jgf3pJ4oPJ"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "duration_ms": 236527,
+      "name": "Temper",
+      "url": "https://open.spotify.com/track/09yt10ik4PaPfLCz7PF9Xv"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Blaze Away",
         "url": "https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc"
       },
@@ -2819,22 +2835,6 @@
       "duration_ms": 189750,
       "name": "Blaze Away",
       "url": "https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Temper",
-        "url": "https://open.spotify.com/album/0Z1rPlGEcsY6Jgf3pJ4oPJ"
-      },
-      "artists": [
-        {
-          "name": "Skales",
-          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
-        }
-      ],
-      "duration_ms": 236527,
-      "name": "Temper",
-      "url": "https://open.spotify.com/track/09yt10ik4PaPfLCz7PF9Xv"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -3019,6 +3019,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Folklore Riddim",
+        "url": "https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Handle It",
         "url": "https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK"
       },
@@ -3079,26 +3095,6 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Not Over It",
-        "url": "https://open.spotify.com/album/6f26986svH5VZ03xVjsdap"
-      },
-      "artists": [
-        {
-          "name": "FS Green",
-          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
-        },
-        {
-          "name": "A\u00efcha Gill",
-          "url": "https://open.spotify.com/artist/2qq2Vs81M7ReUEIxB0hjUu"
-        }
-      ],
-      "duration_ms": 212482,
-      "name": "Not Over It",
-      "url": "https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
         "name": "Bluffin",
         "url": "https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F"
       },
@@ -3119,18 +3115,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
-        "name": "Folklore Riddim",
-        "url": "https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm"
+        "name": "Not Over It",
+        "url": "https://open.spotify.com/album/6f26986svH5VZ03xVjsdap"
       },
       "artists": [
         {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+          "name": "FS Green",
+          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+        },
+        {
+          "name": "A\u00efcha Gill",
+          "url": "https://open.spotify.com/artist/2qq2Vs81M7ReUEIxB0hjUu"
         }
       ],
-      "duration_ms": 198857,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu"
+      "duration_ms": 212482,
+      "name": "Not Over It",
+      "url": "https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi"
     },
     {
       "added_at": "2022-09-29 22:00:00",
@@ -3219,6 +3219,22 @@
     {
       "added_at": "2022-09-29 22:00:00",
       "album": {
+        "name": "Thank You Jah",
+        "url": "https://open.spotify.com/album/05lz6RiwYRFok4YeseviAZ"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 202884,
+      "name": "Thank You Jah",
+      "url": "https://open.spotify.com/track/3WNZ3EihNtt8Dwo69brHHa"
+    },
+    {
+      "added_at": "2022-09-29 22:00:00",
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
       },
@@ -3235,22 +3251,6 @@
       "duration_ms": 174580,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
-    },
-    {
-      "added_at": "2022-09-29 22:00:00",
-      "album": {
-        "name": "Thank You Jah",
-        "url": "https://open.spotify.com/album/05lz6RiwYRFok4YeseviAZ"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 202884,
-      "name": "Thank You Jah",
-      "url": "https://open.spotify.com/track/3WNZ3EihNtt8Dwo69brHHa"
     },
     {
       "added_at": "2022-09-29 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 64070,
+  "num_followers": 64080,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTMxNSwwMDAwMDAwMGNjZTAwZGFiMjUwYjljYzkxYzA4ODcxMDhlZjc5Y2Jk",
+  "snapshot_id": "MTY1MDE3NTMxNSwwMDAwMDAwMDEyZWY3ZDJlOTc4YzE4Yzk4Y2JlMzFmMmQ4YWMxY2Rk",
   "tracks": [
     {
       "added_at": "2022-04-17 06:01:52",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Battle Belongs",
-        "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 287532,
-      "name": "Battle Belongs",
-      "url": "https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo"
+      "duration_ms": 267906,
+      "name": "Whom Shall I Fear (God Of Angel Armies)",
+      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+        "name": "Battle Belongs",
+        "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 267906,
-      "name": "Whom Shall I Fear (God Of Angel Armies)",
-      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
+      "duration_ms": 287532,
+      "name": "Battle Belongs",
+      "url": "https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1511,22 +1511,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Freedom.",
-        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
+        "name": "The Cup Was Not Removed",
+        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Lauren Walters",
-          "url": "https://open.spotify.com/artist/7q4d6AQkUPNfmZzBhzfnNt"
+          "name": "Justin Tweito",
+          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
         }
       ],
-      "duration_ms": 262573,
-      "name": "Afraid To Say (feat. Lauren Walters)",
-      "url": "https://open.spotify.com/track/3cDrWGsgXj6fZd33Iwp4Lh"
+      "duration_ms": 236958,
+      "name": "The Cup Was Not Removed",
+      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1567,18 +1563,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "The Cup Was Not Removed",
-        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
+        "name": "Freedom.",
+        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
       "artists": [
         {
-          "name": "Justin Tweito",
-          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Lauren Walters",
+          "url": "https://open.spotify.com/artist/7q4d6AQkUPNfmZzBhzfnNt"
         }
       ],
-      "duration_ms": 236958,
-      "name": "The Cup Was Not Removed",
-      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
+      "duration_ms": 262573,
+      "name": "Afraid To Say (feat. Lauren Walters)",
+      "url": "https://open.spotify.com/track/3cDrWGsgXj6fZd33Iwp4Lh"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
-      },
-      "artists": [
-        {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
-        }
-      ],
-      "duration_ms": 273439,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "Songs for the Simple Gathering: Vol. 1",
         "url": "https://open.spotify.com/album/4iPZUSoyHm8jOK2Uzm0bKl"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 309724,
       "name": "I Speak Jesus",
       "url": "https://open.spotify.com/track/5Mspn0AMXu0P2yl0i0xy7h"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
+      },
+      "artists": [
+        {
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+        }
+      ],
+      "duration_ms": 273439,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
     },
     {
       "added_at": "2022-04-17 06:01:52",

@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 230853,
       "name": "BANDIDOS",
       "url": "https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 174750,
       "name": "El Chivo",
       "url": "https://open.spotify.com/track/61l7b4tV5lhopAO25OaUhP"
@@ -1502,6 +1502,28 @@
     },
     {
       "album": {
+        "name": "Mario Aguirre (En Vivo)",
+        "url": "https://open.spotify.com/album/57eBE9Vtn8Xpeyqts4aeEU"
+      },
+      "artists": [
+        {
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178979,
+      "name": "Mario Aguirre (En Vivo)",
+      "url": "https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ"
+    },
+    {
+      "album": {
         "name": "Me Dicen Nini",
         "url": "https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5"
       },
@@ -2253,6 +2275,24 @@
       "duration_ms": 209530,
       "name": "Sombrero Vaquero",
       "url": "https://open.spotify.com/track/25GDHtmzIzmfxxuwPVw5qA"
+    },
+    {
+      "album": {
+        "name": "Soy Infante",
+        "url": "https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154750,
+      "name": "Soy Infante",
+      "url": "https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys",
-  "num_followers": 254286,
+  "num_followers": 254311,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMDY5MzVhYmI0MGRlNGU0MDIwNGQwMDMyODBkMzFmNDI3",
+  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMGE0MWM1ZTU3MjI4NDVjNWU2NmE5ZDg5ODQyOTZjNGY2",
   "tracks": [
     {
       "added_at": "2022-10-01 07:07:16",
@@ -379,6 +379,26 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "I'm So Blessed",
+        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "I'm So Blessed",
+      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Don't Lose Heart",
         "url": "https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 265286,
       "name": "God You Are",
       "url": "https://open.spotify.com/track/0doQwQqwoHnwvWNpjpHqFd"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "I'm So Blessed",
-        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "I'm So Blessed",
-      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "A Thousand Shores",
-        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "A Thousand Shores",
-      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "I See Grace",
         "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 193865,
       "name": "I See Grace",
       "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "A Thousand Shores",
+        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "A Thousand Shores",
+      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Hymn Of Heaven (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/6ptJ2eWD8XmTwzeTgFUebR"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 272391,
-      "name": "Reason I Sing - Acoustic",
-      "url": "https://open.spotify.com/track/6QoNnPbVjUm2doVrqfl8JC"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Into The Wild",
         "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 175133,
       "name": "Hold You Tight",
       "url": "https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Hymn Of Heaven (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/6ptJ2eWD8XmTwzeTgFUebR"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 272391,
+      "name": "Reason I Sing - Acoustic",
+      "url": "https://open.spotify.com/track/6QoNnPbVjUm2doVrqfl8JC"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -975,38 +975,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "The Love Of Jesus",
-        "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 184883,
-      "name": "The Love Of Jesus",
-      "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
-      },
-      "artists": [
-        {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
-        }
-      ],
-      "duration_ms": 254099,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Eden (Isn't It Just Like You?)",
         "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
       },
@@ -1019,22 +987,6 @@
       "duration_ms": 275466,
       "name": "Eden (Isn't It Just Like You?)",
       "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/7acWtsBfuPSWwVizEcVa4D"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1055,6 +1007,54 @@
       "duration_ms": 215213,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "duration_ms": 254099,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "The Love Of Jesus",
+        "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 184883,
+      "name": "The Love Of Jesus",
+      "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/7acWtsBfuPSWwVizEcVa4D"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "To Not Worship You",
+        "url": "https://open.spotify.com/album/1CdbYMYRRGYB5rxO8syz4P"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 225681,
+      "name": "To Not Worship You",
+      "url": "https://open.spotify.com/track/0sqnqnvPogsfvALIv1OVMM"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "If The Lord Builds The House",
         "url": "https://open.spotify.com/album/6V9WshsSiYxovVnq1MPuTQ"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 286130,
       "name": "God Really Loves Us",
       "url": "https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "To Not Worship You",
-        "url": "https://open.spotify.com/album/1CdbYMYRRGYB5rxO8syz4P"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 225681,
-      "name": "To Not Worship You",
-      "url": "https://open.spotify.com/track/0sqnqnvPogsfvALIv1OVMM"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "When I Say Yes",
-        "url": "https://open.spotify.com/album/4zZYF6eOE6JAdox1MQJUCp"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 197817,
-      "name": "When I Say Yes",
-      "url": "https://open.spotify.com/track/09wek0QXMM5ZjZ2B3JAcp4"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Family Is Family",
         "url": "https://open.spotify.com/album/379EFzbHnMqQgxi3via5Mx"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 173889,
       "name": "Family Is Family",
       "url": "https://open.spotify.com/track/5uKdbMoQogHBf3H4cJkOY4"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "When I Say Yes",
+        "url": "https://open.spotify.com/album/4zZYF6eOE6JAdox1MQJUCp"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 197817,
+      "name": "When I Say Yes",
+      "url": "https://open.spotify.com/track/09wek0QXMM5ZjZ2B3JAcp4"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1675,26 +1675,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
+        "name": "Where The Glory Is",
+        "url": "https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9"
       },
       "artists": [
         {
-          "name": "Our Future Glory",
-          "url": "https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4"
-        },
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        },
-        {
-          "name": "The Found",
-          "url": "https://open.spotify.com/artist/0JpPD5tGtaQ6nPzzGqEG9u"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 222108,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
+      "duration_ms": 270576,
+      "name": "Where The Glory Is",
+      "url": "https://open.spotify.com/track/6eAXObWWakFMaTGU9AKhtB"
     }
   ],
   "unique_name": "Top Christian Contemporary",

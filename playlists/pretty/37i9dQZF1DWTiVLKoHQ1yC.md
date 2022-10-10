@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,838 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,857 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 36 | [Lost In You](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Lost In You EP](https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl) | 3:30 |
 | 37 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 |
 | 38 | [How Often \- Ben Böhmer Remix](https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Brightest Lights Remixed](https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW) | 4:55 |
-| 39 | [I Saw Good](https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [I Saw Good](https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU) | 3:07 |
-| 40 | [Faya](https://open.spotify.com/track/014CvkxnvQX6GhBqwzMK68) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Faya / The Crack](https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF) | 5:10 |
+| 39 | [Faya](https://open.spotify.com/track/014CvkxnvQX6GhBqwzMK68) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Faya / The Crack](https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF) | 5:10 |
+| 40 | [I Saw Good](https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [I Saw Good](https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU) | 3:07 |
 | 41 | [Need You By My Side](https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You By My Side](https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP) | 3:20 |
 | 42 | [Vanishing](https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 6:12 |
 | 43 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 56 | [Unite](https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Unite](https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd) | 3:08 |
 | 57 | [The Old You](https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [The Old You](https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh) | 3:15 |
 | 58 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 |
-| 59 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 |
-| 60 | [Heyoka](https://open.spotify.com/track/17cVuIl1z18wO2cZda3sxA) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Lager Beers EP](https://open.spotify.com/album/5izcjEZQUvnhfeLWM67n72) | 4:13 |
-| 61 | [Shizumu](https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Shizumu](https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj) | 3:51 |
+| 59 | [Shizumu](https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Shizumu](https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj) | 3:51 |
+| 60 | [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 |
+| 61 | [Heyoka](https://open.spotify.com/track/17cVuIl1z18wO2cZda3sxA) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Lager Beers EP](https://open.spotify.com/album/5izcjEZQUvnhfeLWM67n72) | 4:13 |
 | 62 | [Could This B?](https://open.spotify.com/track/6oSaQH2n2x5SVOaGZZB0fi) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [Could This B? / Stay Curious](https://open.spotify.com/album/4Wj27s5tpvh6WVmSDGwj2R) | 4:00 |
 | 63 | [The Blame \- Single Edit](https://open.spotify.com/track/3587LxhYAfR3UK9YvuF0F9) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [The Blame](https://open.spotify.com/album/4wLmGWfnd4tKtsn8qkXoxk) | 4:25 |
 | 64 | [Balloons](https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Froozen / Balloons](https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT) | 3:54 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 77 | [Calling For You](https://open.spotify.com/track/1TeVwlRyDjhUeXAe9D6jgA) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Calling For You](https://open.spotify.com/album/7EsyhR8e3RVPG3zLer0rSU) | 3:23 |
 | 78 | [Masina](https://open.spotify.com/track/1iIfC5kyhIN0ny0X6NtjIY) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Masina](https://open.spotify.com/album/7km063WgmtcvuzwrguShQy) | 4:00 |
 | 79 | [Freedom Call](https://open.spotify.com/track/6CujcykyguhQMztfXWNlQz) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/3ePjxQHzc4yLtu7fuHOXTo) | 3:59 |
-| 80 | [Some Good Here \- John Monkman Remix](https://open.spotify.com/track/2kH7Ql0mFf5IqyEdS94PfM) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Anaphase](https://open.spotify.com/artist/6JqmJMb21MmVH1UozFIvnv), [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [Some Good Here \(John Monkman Remix\)](https://open.spotify.com/album/3qSmczA053XrirG9i0DWvj) | 6:59 |
+| 80 | [Enter the Storm](https://open.spotify.com/track/3v96fHvufikij2zsqANLos) | [Blanka Barbara](https://open.spotify.com/artist/1n4BiDYAbWQ7JJbMURKqof) | [Enter the Storm](https://open.spotify.com/album/5ClXSbEC6bzGAUaMH9Quw3) | 7:52 |
 
-Snapshot ID: `MTY0MjE1NzQwNSwwMDAwMDAwMDJjNjFiMzU4NzFkZGUzZjE3Y2U3ZGQyMGJlOWNhNDdi`
+Snapshot ID: `MTY0MjE1NzQwNSwwMDAwMDAwMDRjNDRkMmYxZWE2Y2YyNWFiOTFjMDc0NGRkNzNkMzg1`

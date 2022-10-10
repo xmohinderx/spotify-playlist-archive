@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 14011,
+  "num_followers": 14013,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDFhYmYwNWRlNzQ0MDNmMTMxYzgxMzFlYzc0NWFmOGU4",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDYzYTc2NmI4Zjk0MjEwYmM1MmU3ZGRlZmVjZjg3NTBi",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -395,6 +395,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
+      },
+      "artists": [
+        {
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+        }
+      ],
+      "duration_ms": 365440,
+      "name": "You're Everything",
+      "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "The Bookends",
         "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 259906,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "In My Soul",
-        "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
-      },
-      "artists": [
-        {
-          "name": "The Robert Cray Band",
-          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
-        }
-      ],
-      "duration_ms": 365440,
-      "name": "You're Everything",
-      "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -547,18 +547,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+        "name": "Roll With the Punches",
+        "url": "https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+          "name": "Martin Harley",
+          "url": "https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX"
         }
       ],
-      "duration_ms": 277160,
-      "name": "Change In Me (The Rebirth)",
-      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
+      "duration_ms": 191880,
+      "name": "Roll With the Punches",
+      "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -579,18 +579,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Roll With the Punches",
-        "url": "https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1"
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
       },
       "artists": [
         {
-          "name": "Martin Harley",
-          "url": "https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX"
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
         }
       ],
-      "duration_ms": 191880,
-      "name": "Roll With the Punches",
-      "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
+      "duration_ms": 277160,
+      "name": "Change In Me (The Rebirth)",
+      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
     },
     {
-      "added_at": "2021-04-27 23:04:41",
-      "album": {
-        "name": "Raisin' Cain",
-        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
-      },
-      "artists": [
-        {
-          "name": "Chris Cain",
-          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
-    },
-    {
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "Clawhammer",
@@ -819,6 +803,22 @@
       "duration_ms": 270370,
       "name": "Clawhammer",
       "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
+    },
+    {
+      "added_at": "2021-04-27 23:04:41",
+      "album": {
+        "name": "Raisin' Cain",
+        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
+      },
+      "artists": [
+        {
+          "name": "Chris Cain",
+          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
     },
     {
       "added_at": "2021-05-14 04:01:00",

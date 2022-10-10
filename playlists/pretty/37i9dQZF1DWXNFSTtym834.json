@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s.",
-  "num_followers": 778276,
+  "num_followers": 778462,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMGQ1MDNjMGMwZjg4MTQ4NmQ1ZTA1Y2M5MjlkZTUyOWNm",
+  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMDE5Zjk1MWViNzg2YmFkYTZhYmJhZGY0MmZkZjMwOTY5",
   "tracks": [
     {
       "added_at": "2022-04-13 21:11:09",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "Sonne",
+      "url": "https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
         "name": "Ashes of the Wake (15th Anniversary)",
         "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 230127,
       "name": "Laid to Rest",
       "url": "https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
-        "name": "Welcome To The Masquerade (Fan Edition)",
-        "url": "https://open.spotify.com/album/3fSHF58QvGhJgwOzDPoKDV"
-      },
-      "artists": [
-        {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Take It Out On Me",
-      "url": "https://open.spotify.com/track/1RXoCep9hxApPfx8UFsGZk"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -489,20 +489,20 @@
       "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
+      "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+        "name": "Welcome To The Masquerade (Fan Edition)",
+        "url": "https://open.spotify.com/album/3fSHF58QvGhJgwOzDPoKDV"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
         }
       ],
-      "duration_ms": 272440,
-      "name": "Sonne",
-      "url": "https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq"
+      "duration_ms": 197373,
+      "name": "Take It Out On Me",
+      "url": "https://open.spotify.com/track/1RXoCep9hxApPfx8UFsGZk"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP"
     },
     {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
-        "name": "XIII",
-        "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
-      },
-      "artists": [
-        {
-          "name": "Mushroomhead",
-          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Sun Doesn't Rise",
-      "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
-    },
-    {
       "added_at": "2022-04-13 21:11:09",
       "album": {
         "name": "Reise, Reise",
@@ -871,6 +855,22 @@
       "duration_ms": 226760,
       "name": "Amerika",
       "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "XIII",
+        "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
+      },
+      "artists": [
+        {
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Sun Doesn't Rise",
+      "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/2O2ii9OPZYh1NBXo9FtE0Y"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "ObZen",
-        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
-      },
-      "artists": [
-        {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
-        }
-      ],
-      "duration_ms": 442733,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
-    },
-    {
       "added_at": "2022-07-13 14:03:23",
       "album": {
         "name": "Sacrament",
@@ -935,6 +919,22 @@
       "duration_ms": 311506,
       "name": "Walk with Me In Hell",
       "url": "https://open.spotify.com/track/6vjvewW34Y3UiGQtJokGlY"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "ObZen",
+        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "duration_ms": 442733,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
-      },
-      "artists": [
-        {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4AaZtoVREGSOTMzdzLoCGK"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
         "name": "Guitar Gangsters & Cadillac Blood",
         "url": "https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 188853,
       "name": "Guitar Gangsters & Cadillac Blood",
       "url": "https://open.spotify.com/track/5CLQ70QLoefhq3VMfoDl4w"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4AaZtoVREGSOTMzdzLoCGK"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1063,6 +1063,22 @@
       "duration_ms": 236013,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Ashes of the Wake (15th Anniversary)",
+        "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 285962,
+      "name": "Omerta",
+      "url": "https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "Ashes of the Wake (15th Anniversary)",
-        "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 285962,
-      "name": "Omerta",
-      "url": "https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
         "name": "Twilight Of The Thunder God",
         "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 263160,
       "name": "Guardians Of Asgaard",
       "url": "https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Liebe ist f\u00fcr alle da",
+        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Ich tu dir weh",
+      "url": "https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1159,22 +1175,6 @@
       "duration_ms": 493026,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
-        "name": "Liebe ist f\u00fcr alle da",
-        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Ich tu dir weh",
-      "url": "https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 594213,
-      "name": "The art of dying",
-      "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
       },
@@ -1305,20 +1289,20 @@
       "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
     },
     {
-      "added_at": "2022-07-13 14:03:23",
+      "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Feel The Steel",
-        "url": "https://open.spotify.com/album/6RqKEPUHvfSB7jhMomUv67"
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
       },
       "artists": [
         {
-          "name": "Steel Panther",
-          "url": "https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv"
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Eyes Of A Panther",
-      "url": "https://open.spotify.com/track/68ZY22YJeDxvcpQCg6u6SX"
+      "duration_ms": 594213,
+      "name": "The art of dying",
+      "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1335,6 +1319,22 @@
       "duration_ms": 176600,
       "name": "Get Up Again",
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Feel The Steel",
+        "url": "https://open.spotify.com/album/6RqKEPUHvfSB7jhMomUv67"
+      },
+      "artists": [
+        {
+          "name": "Steel Panther",
+          "url": "https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Eyes Of A Panther",
+      "url": "https://open.spotify.com/track/68ZY22YJeDxvcpQCg6u6SX"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/3WeWaUyTww9gLKmimlwm5w"
     },
     {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
-        "name": "Hello Master",
-        "url": "https://open.spotify.com/album/7xKeRnOx2c7Ul0rkQcEzD2"
-      },
-      "artists": [
-        {
-          "name": "Priestess",
-          "url": "https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Lay Down",
-      "url": "https://open.spotify.com/track/4ltXPf327ewFdmTPp5Skow"
-    },
-    {
       "added_at": "2022-04-13 21:11:09",
       "album": {
         "name": "Rosenrot",
@@ -1431,6 +1415,22 @@
       "duration_ms": 234706,
       "name": "Rosenrot",
       "url": "https://open.spotify.com/track/7u018epVcYPTPVKCWAemLP"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Hello Master",
+        "url": "https://open.spotify.com/album/7xKeRnOx2c7Ul0rkQcEzD2"
+      },
+      "artists": [
+        {
+          "name": "Priestess",
+          "url": "https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/4ltXPf327ewFdmTPp5Skow"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "Liebe ist f\u00fcr alle da",
-        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "Pussy",
-      "url": "https://open.spotify.com/track/0EAKf1NdBfTiK1idL7yLTg"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
         "name": "Celldweller (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gStSHuxB1XHGBzPDQHU9w"
       },
@@ -1577,20 +1561,40 @@
       "url": "https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
+      "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "Figure Number Five",
-        "url": "https://open.spotify.com/album/6n86brHTe54lipUckY9InO"
+        "name": "Liebe ist f\u00fcr alle da",
+        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
       },
       "artists": [
         {
-          "name": "Soilwork",
-          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 225933,
-      "name": "Distortion Sleep",
-      "url": "https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26"
+      "duration_ms": 239080,
+      "name": "Pussy",
+      "url": "https://open.spotify.com/track/0EAKf1NdBfTiK1idL7yLTg"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Adam Gonthier",
+          "url": "https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
     },
     {
       "added_at": "2022-04-13 21:11:09",

@@ -1,12 +1,12 @@
 {
   "description": "Music to see you through the tough times.",
-  "num_followers": 194794,
+  "num_followers": 194842,
   "original_name": "Heartache",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE5OTMzMSwwMDAwMDAwMDUyNDliZDg4YjhlODJmMDdjZGZjZDA0NWJiNTZhOWUz",
+  "snapshot_id": "MTY2NTE5OTMzMSwwMDAwMDAwMGEzOTVlNjUzMTUyOGI5MzE0NmE2ZDY1YWYxZjNkNjEz",
   "tracks": [
     {
       "added_at": "2022-10-08 03:22:11",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-10-08 03:22:11",
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 329160,
-      "name": "All Too Well (Taylor's Version)",
-      "url": "https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu"
-    },
-    {
-      "added_at": "2022-10-08 03:22:11",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
+    },
+    {
+      "added_at": "2022-10-08 03:22:11",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 329160,
+      "name": "All Too Well (Taylor's Version)",
+      "url": "https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu"
     },
     {
       "added_at": "2022-10-08 03:22:11",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-10-08 03:22:11",
       "album": {
-        "name": "Tired Eyes",
-        "url": "https://open.spotify.com/album/1fMzgbBLV4vdE4Wp21F3PF"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 260851,
-      "name": "You Don't Know",
-      "url": "https://open.spotify.com/track/5F7dkkzWdHWPpn9zOYu8Ng"
-    },
-    {
-      "added_at": "2022-10-08 03:22:11",
-      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 176093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
+    },
+    {
+      "added_at": "2022-10-08 03:22:11",
+      "album": {
+        "name": "Tired Eyes",
+        "url": "https://open.spotify.com/album/1fMzgbBLV4vdE4Wp21F3PF"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "duration_ms": 260851,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/5F7dkkzWdHWPpn9zOYu8Ng"
     },
     {
       "added_at": "2022-10-08 03:22:11",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-10-08 03:22:11",
       "album": {
+        "name": "Someone Who Loved You",
+        "url": "https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 177930,
+      "name": "Someone Who Loved You",
+      "url": "https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0"
+    },
+    {
+      "added_at": "2022-10-08 03:22:11",
+      "album": {
         "name": "Breakthrough (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 233266,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/2fPb58e6f8KxejYDCaARwS"
-    },
-    {
-      "added_at": "2022-10-08 03:22:11",
-      "album": {
-        "name": "Someone Who Loved You",
-        "url": "https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 177930,
-      "name": "Someone Who Loved You",
-      "url": "https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0"
     },
     {
       "added_at": "2022-10-08 03:22:11",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-10-08 03:22:11",
       "album": {
-        "name": "Learning To Live Without You",
-        "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 193784,
-      "name": "Learning To Live Without You",
-      "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
-    },
-    {
-      "added_at": "2022-10-08 03:22:11",
-      "album": {
         "name": "Upstairs At Eric's",
         "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 195506,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU"
+    },
+    {
+      "added_at": "2022-10-08 03:22:11",
+      "album": {
+        "name": "Learning To Live Without You",
+        "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "duration_ms": 193784,
+      "name": "Learning To Live Without You",
+      "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
     },
     {
       "added_at": "2022-10-08 03:22:11",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-10-08 03:22:11",
       "album": {
-        "name": "LOVE ME OR LEAVE ME",
-        "url": "https://open.spotify.com/album/7Hz23y9avmN4lNFmH57elX"
-      },
-      "artists": [
-        {
-          "name": "Munn",
-          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
-        }
-      ],
-      "duration_ms": 146456,
-      "name": "LOVE ME OR LEAVE ME",
-      "url": "https://open.spotify.com/track/0zUT6RbKCqHqorVnXVoZcm"
-    },
-    {
-      "added_at": "2022-10-08 03:22:11",
-      "album": {
         "name": "Battle Studies",
         "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 275266,
       "name": "All We Ever Do Is Say Goodbye",
       "url": "https://open.spotify.com/track/5DydMbw2U5Oh1OckJIsniN"
+    },
+    {
+      "added_at": "2022-10-08 03:22:11",
+      "album": {
+        "name": "LOVE ME OR LEAVE ME",
+        "url": "https://open.spotify.com/album/7Hz23y9avmN4lNFmH57elX"
+      },
+      "artists": [
+        {
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+        }
+      ],
+      "duration_ms": 146456,
+      "name": "LOVE ME OR LEAVE ME",
+      "url": "https://open.spotify.com/track/0zUT6RbKCqHqorVnXVoZcm"
     }
   ],
   "unique_name": "Heartache",

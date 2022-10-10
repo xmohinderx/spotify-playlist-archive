@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 197,
+  "num_followers": 206,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDljMGNlMWVjOTcyODE3MTE3NjM2NmI2ZGEyMzY4ZmVh",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDhiOWM1NDQ2YjViOThiNmMxMDNhOTM4MDA4MGZkMjkw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Too Fast",
+        "url": "https://open.spotify.com/album/3VOtFn4nuS6eOiwBMnEY2j"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 308005,
+      "name": "Too Fast",
+      "url": "https://open.spotify.com/track/42QRyJd5x6e2TFR1S41g2p"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/6PMuXABPVPf11EgTxrjroO"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 310906,
       "name": "All Day",
       "url": "https://open.spotify.com/track/79reBHqpRoWXaQbjBBY3UC"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Too Fast",
-        "url": "https://open.spotify.com/album/3VOtFn4nuS6eOiwBMnEY2j"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 308005,
-      "name": "Too Fast",
-      "url": "https://open.spotify.com/track/42QRyJd5x6e2TFR1S41g2p"
     },
     {
       "added_at": "2022-10-01 16:00:00",

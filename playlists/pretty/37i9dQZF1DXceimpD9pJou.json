@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: Anagrace",
-  "num_followers": 108712,
+  "num_followers": 108740,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTIxOTI4NSwwMDAwMDAwMGZmYzVlOTc3NTczMGE3MzhmYzYwMDNhNTdlMDQ0OGVi",
+  "snapshot_id": "MTY2NTIxOTI4NSwwMDAwMDAwMGI1YWRhZmYzZmMwYjFlOGZkMmFjZjhjNzkyYWMzNWM0",
   "tracks": [
     {
       "added_at": "2022-10-07 05:42:27",
@@ -611,6 +611,26 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
+        "name": "Lo Perd\u00ed Todo",
+        "url": "https://open.spotify.com/album/0nDO8j4onWGKw5GeUDaGSt"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lorena Castellanos",
+          "url": "https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ"
+        }
+      ],
+      "duration_ms": 214480,
+      "name": "Lo Perd\u00ed Todo",
+      "url": "https://open.spotify.com/track/1wgzaBDIRujRjKxqPNuvGv"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
         "name": "No Me Fallar\u00e1s (A\u00fan As\u00ed)",
         "url": "https://open.spotify.com/album/2TgO0hQbveZ4r4hMAhbwBH"
       },
@@ -631,22 +651,18 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Lo Perd\u00ed Todo",
-        "url": "https://open.spotify.com/album/0nDO8j4onWGKw5GeUDaGSt"
+        "name": "Ven Manifi\u00e9state",
+        "url": "https://open.spotify.com/album/27ytu5xJsNG05fpEgryJOS"
       },
       "artists": [
         {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lorena Castellanos",
-          "url": "https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ"
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 214480,
-      "name": "Lo Perd\u00ed Todo",
-      "url": "https://open.spotify.com/track/1wgzaBDIRujRjKxqPNuvGv"
+      "duration_ms": 618860,
+      "name": "Ven Manifi\u00e9state",
+      "url": "https://open.spotify.com/track/3szLV66DcjeMUepvDLnSt3"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -671,22 +687,6 @@
       "duration_ms": 161684,
       "name": "Probao",
       "url": "https://open.spotify.com/track/69QW2gAqjCTlpSTW7TVCbh"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "Ven Manifi\u00e9state",
-        "url": "https://open.spotify.com/album/27ytu5xJsNG05fpEgryJOS"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 618860,
-      "name": "Ven Manifi\u00e9state",
-      "url": "https://open.spotify.com/track/3szLV66DcjeMUepvDLnSt3"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -887,26 +887,6 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Lugar de Descanso",
-        "url": "https://open.spotify.com/album/4siTsv2o0H29efJ7JmbuIk"
-      },
-      "artists": [
-        {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        }
-      ],
-      "duration_ms": 379354,
-      "name": "Lugar de Descanso",
-      "url": "https://open.spotify.com/track/6kInbBGT6CyIAdltMt9Xgq"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
         "name": "S\u00c1NAME",
         "url": "https://open.spotify.com/album/4s3FBPFKLVx7orSMIUdsOJ"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 221306,
       "name": "S\u00c1NAME",
       "url": "https://open.spotify.com/track/1UZiL3hX8vaaeGQKM8TBlI"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Lugar de Descanso",
+        "url": "https://open.spotify.com/album/4siTsv2o0H29efJ7JmbuIk"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "duration_ms": 379354,
+      "name": "Lugar de Descanso",
+      "url": "https://open.spotify.com/track/6kInbBGT6CyIAdltMt9Xgq"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
+        "name": "La Bondad De Dios",
+        "url": "https://open.spotify.com/album/2VaiSe5CsjPOuIqpqdqATX"
+      },
+      "artists": [
+        {
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+        }
+      ],
+      "duration_ms": 139603,
+      "name": "La Bondad De Dios",
+      "url": "https://open.spotify.com/track/3MB14Lq2XnFPw3eCqdml37"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 217695,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "La Bondad De Dios",
-        "url": "https://open.spotify.com/album/2VaiSe5CsjPOuIqpqdqATX"
-      },
-      "artists": [
-        {
-          "name": "Kyrios",
-          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
-        }
-      ],
-      "duration_ms": 139603,
-      "name": "La Bondad De Dios",
-      "url": "https://open.spotify.com/track/3MB14Lq2XnFPw3eCqdml37"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1275,38 +1275,6 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "De Adentro Hacia Afuera",
-        "url": "https://open.spotify.com/album/07M4BYXA44jag1dWW9nYZm"
-      },
-      "artists": [
-        {
-          "name": "Deluz",
-          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
-        }
-      ],
-      "duration_ms": 191657,
-      "name": "De Adentro Hacia Afuera",
-      "url": "https://open.spotify.com/track/06yVpJhPbFR5HMwYs5nhLw"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "Grito (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/61mFyFoNXNcSZ6dQgQMVWc"
-      },
-      "artists": [
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "Mi Cielo",
-      "url": "https://open.spotify.com/track/5BgogHj7prlIEJvEoTZhE4"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
         "name": "No Hay Otro Nombre Igual",
         "url": "https://open.spotify.com/album/4cnJPFjLqSzCJp01KSGeV5"
       },
@@ -1327,6 +1295,22 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
+        "name": "De Adentro Hacia Afuera",
+        "url": "https://open.spotify.com/album/07M4BYXA44jag1dWW9nYZm"
+      },
+      "artists": [
+        {
+          "name": "Deluz",
+          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
+        }
+      ],
+      "duration_ms": 191657,
+      "name": "De Adentro Hacia Afuera",
+      "url": "https://open.spotify.com/track/06yVpJhPbFR5HMwYs5nhLw"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
         "name": "Quien Dir\u00eda (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1ybLkJTkMCMfXtsJwzZMDn"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 261112,
       "name": "Quien Dir\u00eda - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2grpLKWPOjeaRHU58cMh5G"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Grito (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/61mFyFoNXNcSZ6dQgQMVWc"
+      },
+      "artists": [
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/5BgogHj7prlIEJvEoTZhE4"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Heroe",
-        "url": "https://open.spotify.com/album/2MidMpkWfheBj3Ukql5L4C"
-      },
-      "artists": [
-        {
-          "name": "David Ordo\u00f1ez",
-          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
-        },
-        {
-          "name": "Bani Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/22nH9EkYNfn8yJDXApp7MZ"
-        }
-      ],
-      "duration_ms": 372437,
-      "name": "Heroe",
-      "url": "https://open.spotify.com/track/5MR3eNoJ4EG06UzXD2Jikb"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/0vcQsZU6nlEtWJP3BVvJ0z"
       },
@@ -1679,6 +1659,42 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
+        "name": "Heroe",
+        "url": "https://open.spotify.com/album/2MidMpkWfheBj3Ukql5L4C"
+      },
+      "artists": [
+        {
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+        },
+        {
+          "name": "Bani Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/22nH9EkYNfn8yJDXApp7MZ"
+        }
+      ],
+      "duration_ms": 372437,
+      "name": "Heroe",
+      "url": "https://open.spotify.com/track/5MR3eNoJ4EG06UzXD2Jikb"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Renu\u00e9vame",
+        "url": "https://open.spotify.com/album/4KtAsRdkCsUEV0SqAzm62I"
+      },
+      "artists": [
+        {
+          "name": "Edson Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
+        }
+      ],
+      "duration_ms": 221309,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/4yVfMXqZ6XngfHxc1oQzcX"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
         "name": "Live Session: Alexxander",
         "url": "https://open.spotify.com/album/2rXZrmXrNdoH0Vnnws0M4b"
       },
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Cuando All\u00e1 Se Pase Lista",
-        "url": "https://open.spotify.com/album/1a9p1rkVHMBeKPARiHl69S"
-      },
-      "artists": [
-        {
-          "name": "Edson Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
-        }
-      ],
-      "duration_ms": 209917,
-      "name": "Cuando All\u00e1 Se Pase Lista",
-      "url": "https://open.spotify.com/track/2xFSXqrXZJgSdYLJisSNuT"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
         "name": "Yo Declaro Jes\u00fas",
         "url": "https://open.spotify.com/album/4EPWkHLkU0Tx31jQTe2khE"
       },
@@ -1723,26 +1723,6 @@
       "duration_ms": 451452,
       "name": "Yo Declaro Jes\u00fas",
       "url": "https://open.spotify.com/track/5YxYWGbiHWBaPkXjdTtBwB"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "Mi Lugar Es Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2HkP8Rq4hiDh7QEuhOSe7r"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Daniel Sim\u00e3o",
-          "url": "https://open.spotify.com/artist/5ddc6O8wLY6VVXCuUhK0ff"
-        }
-      ],
-      "duration_ms": 296808,
-      "name": "Mi Lugar Es Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7DKyZ3vvmilx3FXgFAzLXx"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1783,22 +1763,22 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Quise pedirle al se\u00f1or",
-        "url": "https://open.spotify.com/album/2N5ebVyZzelWZl4OTEZ0Bi"
+        "name": "Mi Lugar Es Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2HkP8Rq4hiDh7QEuhOSe7r"
       },
       "artists": [
         {
-          "name": "Andy CM",
-          "url": "https://open.spotify.com/artist/0KMMGx2gkuprvNDT8sNWos"
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
         },
         {
-          "name": "Rub\u00e9n Guiral",
-          "url": "https://open.spotify.com/artist/15GnCUGT8Pyuq4PxJIpYn1"
+          "name": "Daniel Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/5ddc6O8wLY6VVXCuUhK0ff"
         }
       ],
-      "duration_ms": 107896,
-      "name": "Quise pedirle al se\u00f1or",
-      "url": "https://open.spotify.com/track/3dAcxhTSRDcj0xKOuavter"
+      "duration_ms": 296808,
+      "name": "Mi Lugar Es Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7DKyZ3vvmilx3FXgFAzLXx"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1823,6 +1803,22 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
+        "name": "Cuando All\u00e1 Se Pase Lista",
+        "url": "https://open.spotify.com/album/1a9p1rkVHMBeKPARiHl69S"
+      },
+      "artists": [
+        {
+          "name": "Edson Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
+        }
+      ],
+      "duration_ms": 209917,
+      "name": "Cuando All\u00e1 Se Pase Lista",
+      "url": "https://open.spotify.com/track/2xFSXqrXZJgSdYLJisSNuT"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
         "name": "Fiel",
         "url": "https://open.spotify.com/album/4zM7OVDuoWnX5PWnh0PTO8"
       },
@@ -1843,50 +1839,22 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/0PYYtz2EVulnRpGwRgY1uw"
+        "name": "Quise pedirle al se\u00f1or",
+        "url": "https://open.spotify.com/album/2N5ebVyZzelWZl4OTEZ0Bi"
       },
       "artists": [
         {
-          "name": "El Leo Pa\u00b4",
-          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
-        }
-      ],
-      "duration_ms": 151094,
-      "name": "Agradecido",
-      "url": "https://open.spotify.com/track/7oXKYJXag5vjyZRuBXidpB"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "Renu\u00e9vame",
-        "url": "https://open.spotify.com/album/4KtAsRdkCsUEV0SqAzm62I"
-      },
-      "artists": [
+          "name": "Andy CM",
+          "url": "https://open.spotify.com/artist/0KMMGx2gkuprvNDT8sNWos"
+        },
         {
-          "name": "Edson Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
+          "name": "Rub\u00e9n Guiral",
+          "url": "https://open.spotify.com/artist/15GnCUGT8Pyuq4PxJIpYn1"
         }
       ],
-      "duration_ms": 221309,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/4yVfMXqZ6XngfHxc1oQzcX"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "Este Amor (Live Session From L.A.)",
-        "url": "https://open.spotify.com/album/3WcvKhxbap31OBQzWdp07y"
-      },
-      "artists": [
-        {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
-        }
-      ],
-      "duration_ms": 272281,
-      "name": "Este Amor - Live Session From L.A.",
-      "url": "https://open.spotify.com/track/4JLocWW0Q5yay3iH11GSX6"
+      "duration_ms": 107896,
+      "name": "Quise pedirle al se\u00f1or",
+      "url": "https://open.spotify.com/track/3dAcxhTSRDcj0xKOuavter"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1907,6 +1875,38 @@
       "duration_ms": 212114,
       "name": "Alentador",
       "url": "https://open.spotify.com/track/79conTU66MZOzGtVoYVV6Z"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/0PYYtz2EVulnRpGwRgY1uw"
+      },
+      "artists": [
+        {
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        }
+      ],
+      "duration_ms": 151094,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/7oXKYJXag5vjyZRuBXidpB"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Este Amor (Live Session From L.A.)",
+        "url": "https://open.spotify.com/album/3WcvKhxbap31OBQzWdp07y"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        }
+      ],
+      "duration_ms": 272281,
+      "name": "Este Amor - Live Session From L.A.",
+      "url": "https://open.spotify.com/track/4JLocWW0Q5yay3iH11GSX6"
     }
   ],
   "unique_name": "Novedades Cristianas",

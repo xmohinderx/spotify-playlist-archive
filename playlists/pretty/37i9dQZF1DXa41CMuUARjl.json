@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from ACRAZE & Goodboys.",
-  "num_followers": 402981,
+  "num_followers": 403005,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGU5ZWNkMmRhZjk0YmEyYmJjYzA1MGFlZTg1Y2RjZmUw",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDg5NThkNWQ1YmIwMzU0MzkxZDUwMTZlMDY4YWUxNjU1",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "The Power",
-        "url": "https://open.spotify.com/album/3gRSOzzY4aD1bAp6jioomH"
-      },
-      "artists": [
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/3P4Njv41xI7nh769UNxQ8b"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/0UcTfpucBo28GwZrYVMYOO"
       },
@@ -587,62 +571,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Howl (Logic1000 Remix)",
-        "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
+        "name": "The Power",
+        "url": "https://open.spotify.com/album/3gRSOzzY4aD1bAp6jioomH"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
         }
       ],
-      "duration_ms": 289156,
-      "name": "Howl - Logic1000 Remix",
-      "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Techtronic",
-        "url": "https://open.spotify.com/album/1wnat2fR8nky0aO4pNnkWm"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 224046,
-      "name": "Techtronic",
-      "url": "https://open.spotify.com/track/756vcXfBaXXBV68aT7OVSh"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Ghost Town",
-        "url": "https://open.spotify.com/album/0c9qvvyKlHa2EApnbH8n51"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        },
-        {
-          "name": "Eden Golan",
-          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
-        }
-      ],
-      "duration_ms": 143076,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/5MLDKUv7AkpIlmjy0hCBPf"
+      "duration_ms": 201290,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/3P4Njv41xI7nh769UNxQ8b"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -699,6 +639,66 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/0c9qvvyKlHa2EApnbH8n51"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        },
+        {
+          "name": "Eden Golan",
+          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
+        }
+      ],
+      "duration_ms": 143076,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/5MLDKUv7AkpIlmjy0hCBPf"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Howl (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 289156,
+      "name": "Howl - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Techtronic",
+        "url": "https://open.spotify.com/album/1wnat2fR8nky0aO4pNnkWm"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 224046,
+      "name": "Techtronic",
+      "url": "https://open.spotify.com/track/756vcXfBaXXBV68aT7OVSh"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Bifrost",
         "url": "https://open.spotify.com/album/0Phjy3NVF9RjzqPBA59y31"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 155555,
       "name": "Bifrost",
       "url": "https://open.spotify.com/track/4B930MKVgJdW93LVq5xeBl"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Never Stay For Love",
-        "url": "https://open.spotify.com/album/5av6jXnaalIvsaKSpPKsch"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        },
-        {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
-        }
-      ],
-      "duration_ms": 222714,
-      "name": "Never Stay For Love",
-      "url": "https://open.spotify.com/track/2QvQpwQFp8c8RJ4w7c4STR"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -755,26 +735,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/3UzxBGgASI2Ic7kmk1pO5I"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6lDWtYf106yyTHH1egFSAg"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "State Of My Heart",
         "url": "https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5"
       },
@@ -795,6 +755,46 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/3UzxBGgASI2Ic7kmk1pO5I"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6lDWtYf106yyTHH1egFSAg"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Never Stay For Love",
+        "url": "https://open.spotify.com/album/5av6jXnaalIvsaKSpPKsch"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        },
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 222714,
+      "name": "Never Stay For Love",
+      "url": "https://open.spotify.com/track/2QvQpwQFp8c8RJ4w7c4STR"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Soul Seekers",
         "url": "https://open.spotify.com/album/0w3cHPzFHsKTeYFZMgXZNS"
       },
@@ -811,6 +811,42 @@
       "duration_ms": 221703,
       "name": "Soul Seekers",
       "url": "https://open.spotify.com/track/3Fq3RyAi4ATABmdIgyfeSm"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "NECROMANCER EP",
+        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "GHASTLY",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "NECROMANCER",
+      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        }
+      ],
+      "duration_ms": 229504,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/6l5O6RzzSuCnwTjy9KQrdm"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -839,26 +875,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "NECROMANCER EP",
-        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "GHASTLY",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "NECROMANCER",
-      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/1ItRVfvkl1ZDfCmXpbLkbw"
       },
@@ -875,18 +891,50 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5"
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/79zoOjtwBRLyGDjEQhtDps"
       },
       "artists": [
         {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+          "name": "Shane Codd",
+          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
         }
       ],
-      "duration_ms": 229504,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/6l5O6RzzSuCnwTjy9KQrdm"
+      "duration_ms": 157440,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/4z4AEQps7o1UamAbIxmVqw"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Remix EP",
+        "url": "https://open.spotify.com/album/2o4SFDvTSB7Kg1uFBoGK55"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        },
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        },
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        }
+      ],
+      "duration_ms": 186741,
+      "name": "Invincible - David Morales Remix",
+      "url": "https://open.spotify.com/track/37hv4SnvsL9G47lIt8grBw"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -923,42 +971,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/79zoOjtwBRLyGDjEQhtDps"
-      },
-      "artists": [
-        {
-          "name": "Shane Codd",
-          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
-        },
-        {
-          "name": "Bryn Christopher",
-          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/4z4AEQps7o1UamAbIxmVqw"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Matha",
-        "url": "https://open.spotify.com/album/2cBPvEFHSZTVW2Yruy7mec"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 185709,
-      "name": "Matha",
-      "url": "https://open.spotify.com/track/6IUUBF1FgcO7oBLFs8xvj3"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Metaphysical (feat. Bipolar Sunshine)",
         "url": "https://open.spotify.com/album/7MRab4I8gcv1RLVpNJ4B4c"
       },
@@ -975,26 +987,6 @@
       "duration_ms": 192740,
       "name": "Metaphysical (feat. Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/1iD9Iftc9ptjqycUNTxCQw"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6QEnHZniqvybsckdyptQql"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "Frontier",
-      "url": "https://open.spotify.com/track/10MxEAlZuBPiidcQ9cNyvx"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1023,26 +1015,38 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Red Hot",
-        "url": "https://open.spotify.com/album/1bR5C8y4mFq3m3BA7g3IUp"
+        "name": "Matha",
+        "url": "https://open.spotify.com/album/2cBPvEFHSZTVW2Yruy7mec"
       },
       "artists": [
         {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        },
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        },
-        {
-          "name": "Ziggy Zeitgeist",
-          "url": "https://open.spotify.com/artist/7KWDEHlNQ5jXyDaqPyf10X"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 256907,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/105ChM3Z5mxLh3YJwdskS1"
+      "duration_ms": 185709,
+      "name": "Matha",
+      "url": "https://open.spotify.com/track/6IUUBF1FgcO7oBLFs8xvj3"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6QEnHZniqvybsckdyptQql"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "Frontier",
+      "url": "https://open.spotify.com/track/10MxEAlZuBPiidcQ9cNyvx"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1067,18 +1071,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "We Own the Night",
-        "url": "https://open.spotify.com/album/6J9wrP3el3vWEjvajhvswN"
+        "name": "Red Hot",
+        "url": "https://open.spotify.com/album/1bR5C8y4mFq3m3BA7g3IUp"
       },
       "artists": [
         {
-          "name": "Young Bombs",
-          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        },
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        },
+        {
+          "name": "Ziggy Zeitgeist",
+          "url": "https://open.spotify.com/artist/7KWDEHlNQ5jXyDaqPyf10X"
         }
       ],
-      "duration_ms": 160206,
-      "name": "We Own the Night",
-      "url": "https://open.spotify.com/track/4Kqbdm0SgQzdu4OFAWEdUQ"
+      "duration_ms": 256907,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/105ChM3Z5mxLh3YJwdskS1"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1103,22 +1115,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "In The Morning (Helsloot Remix)",
-        "url": "https://open.spotify.com/album/5dZTmad2sFy99yMUJll9xG"
+        "name": "We Own the Night",
+        "url": "https://open.spotify.com/album/6J9wrP3el3vWEjvajhvswN"
       },
       "artists": [
         {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+          "name": "Young Bombs",
+          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
         }
       ],
-      "duration_ms": 252822,
-      "name": "In The Morning - Helsloot Remix - Edit",
-      "url": "https://open.spotify.com/track/3qvpycMkBgtDL7OGQqwn2M"
+      "duration_ms": 160206,
+      "name": "We Own the Night",
+      "url": "https://open.spotify.com/track/4Kqbdm0SgQzdu4OFAWEdUQ"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1135,6 +1143,26 @@
       "duration_ms": 265293,
       "name": "Barely",
       "url": "https://open.spotify.com/track/4j2arLSIdKGB05JrxYcn8t"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "In The Morning (Helsloot Remix)",
+        "url": "https://open.spotify.com/album/5dZTmad2sFy99yMUJll9xG"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 252822,
+      "name": "In The Morning - Helsloot Remix - Edit",
+      "url": "https://open.spotify.com/track/3qvpycMkBgtDL7OGQqwn2M"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1183,22 +1211,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Lessons",
-        "url": "https://open.spotify.com/album/5Ei9PH8W4h3d1AfyAb1L35"
-      },
-      "artists": [
-        {
-          "name": "Conducta",
-          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Lessons",
-      "url": "https://open.spotify.com/track/7AAZFKHnWrXQfcDMZcjeAU"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Reach Out For Your Love",
         "url": "https://open.spotify.com/album/1hhnDUJHhfFUpW9rG789uZ"
       },
@@ -1219,46 +1231,34 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Public",
-        "url": "https://open.spotify.com/album/1CS7DBWXXeY4lnsOX6tT78"
+        "name": "Multi Tool EP",
+        "url": "https://open.spotify.com/album/33OAsh3NSFNucOqEmN5NdT"
       },
       "artists": [
         {
-          "name": "NO SIGNE",
-          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+          "name": "Schlepp Geist",
+          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Public",
-      "url": "https://open.spotify.com/track/4dg7IXEgbNCqogvzBITcPj"
+      "duration_ms": 369429,
+      "name": "Broken Clock",
+      "url": "https://open.spotify.com/track/4rBEAI1ZyZiLnE5zhSD2qn"
     },
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Remix EP",
-        "url": "https://open.spotify.com/album/2o4SFDvTSB7Kg1uFBoGK55"
+        "name": "Lessons",
+        "url": "https://open.spotify.com/album/5Ei9PH8W4h3d1AfyAb1L35"
       },
       "artists": [
         {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        },
-        {
-          "name": "Sam Ruffillo",
-          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
-        },
-        {
-          "name": "Kapote",
-          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
-        },
-        {
-          "name": "David Morales",
-          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
         }
       ],
-      "duration_ms": 186741,
-      "name": "Invincible - David Morales Remix",
-      "url": "https://open.spotify.com/track/37hv4SnvsL9G47lIt8grBw"
+      "duration_ms": 229565,
+      "name": "Lessons",
+      "url": "https://open.spotify.com/track/7AAZFKHnWrXQfcDMZcjeAU"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1275,6 +1275,22 @@
       "duration_ms": 151024,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/2bsygdSQc5XZfvRm1BA0H5"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Public",
+        "url": "https://open.spotify.com/album/1CS7DBWXXeY4lnsOX6tT78"
+      },
+      "artists": [
+        {
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Public",
+      "url": "https://open.spotify.com/track/4dg7IXEgbNCqogvzBITcPj"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1299,18 +1315,38 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Multi Tool EP",
-        "url": "https://open.spotify.com/album/33OAsh3NSFNucOqEmN5NdT"
+        "name": "Dedication To House Music",
+        "url": "https://open.spotify.com/album/1FV1kXqforekpg0HlDZOWl"
       },
       "artists": [
         {
-          "name": "Schlepp Geist",
-          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
         }
       ],
-      "duration_ms": 369429,
-      "name": "Broken Clock",
-      "url": "https://open.spotify.com/track/4rBEAI1ZyZiLnE5zhSD2qn"
+      "duration_ms": 210576,
+      "name": "Dedication To House Music",
+      "url": "https://open.spotify.com/track/6eIY3ybQkIOddP1dxDLB3W"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "SHiNE",
+        "url": "https://open.spotify.com/album/5todskDJAkfo8TYsGGtCEh"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        },
+        {
+          "name": "Broken Future",
+          "url": "https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "SHiNE",
+      "url": "https://open.spotify.com/track/3eGTeMHX7bB8YhUuXs9IV3"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1391,18 +1427,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Dedication To House Music",
-        "url": "https://open.spotify.com/album/1FV1kXqforekpg0HlDZOWl"
+        "name": "Booze & Pills",
+        "url": "https://open.spotify.com/album/2yiuvJoRA1fKm6b0bFNe8R"
       },
       "artists": [
         {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+          "name": "Amine Edge & DANCE",
+          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
+        },
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
         }
       ],
-      "duration_ms": 210576,
-      "name": "Dedication To House Music",
-      "url": "https://open.spotify.com/track/6eIY3ybQkIOddP1dxDLB3W"
+      "duration_ms": 122948,
+      "name": "Booze & Pills",
+      "url": "https://open.spotify.com/track/4mtAJtZzd7wgjLNBpPv4IU"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1423,42 +1463,34 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "SHiNE",
-        "url": "https://open.spotify.com/album/5todskDJAkfo8TYsGGtCEh"
+        "name": "Revealed Recordings presents ADE Sampler 2022",
+        "url": "https://open.spotify.com/album/5CZASEqfAIx22yQEaiBKXi"
       },
       "artists": [
         {
-          "name": "DJ Susan",
-          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
-        },
-        {
-          "name": "Broken Future",
-          "url": "https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1"
+          "name": "Matt Dybal",
+          "url": "https://open.spotify.com/artist/4QdIbNe6CEKwlaucgaLnA2"
         }
       ],
-      "duration_ms": 215760,
-      "name": "SHiNE",
-      "url": "https://open.spotify.com/track/3eGTeMHX7bB8YhUuXs9IV3"
+      "duration_ms": 146720,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/0SZ2Ny7Qo0vPoSwHaKwjxD"
     },
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Booze & Pills",
-        "url": "https://open.spotify.com/album/2yiuvJoRA1fKm6b0bFNe8R"
+        "name": "Building Something Beautiful For Me",
+        "url": "https://open.spotify.com/album/5gFtEuIbE2pwS5qnvUQeak"
       },
       "artists": [
         {
-          "name": "Amine Edge & DANCE",
-          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
-        },
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
         }
       ],
-      "duration_ms": 122948,
-      "name": "Booze & Pills",
-      "url": "https://open.spotify.com/track/4mtAJtZzd7wgjLNBpPv4IU"
+      "duration_ms": 304000,
+      "name": "Black Excellence (Stay On It)",
+      "url": "https://open.spotify.com/track/09gQa20jqpVBfVTxyNywd0"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1487,22 +1519,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Building Something Beautiful For Me",
-        "url": "https://open.spotify.com/album/5gFtEuIbE2pwS5qnvUQeak"
-      },
-      "artists": [
-        {
-          "name": "Loraine James",
-          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Black Excellence (Stay On It)",
-      "url": "https://open.spotify.com/track/09gQa20jqpVBfVTxyNywd0"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Afrikaa",
         "url": "https://open.spotify.com/album/57n7DbBFBEbqcXQ22xBfrK"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 184960,
       "name": "Afrikaa",
       "url": "https://open.spotify.com/track/2NTrfGXcS2zhrAXsm0gDGz"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Revealed Recordings presents ADE Sampler 2022",
-        "url": "https://open.spotify.com/album/5CZASEqfAIx22yQEaiBKXi"
-      },
-      "artists": [
-        {
-          "name": "Matt Dybal",
-          "url": "https://open.spotify.com/artist/4QdIbNe6CEKwlaucgaLnA2"
-        }
-      ],
-      "duration_ms": 146720,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/0SZ2Ny7Qo0vPoSwHaKwjxD"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1575,6 +1575,54 @@
       "duration_ms": 251728,
       "name": "Leave Me Alone (I'm Dancing) - Nicole Moudaber Remix",
       "url": "https://open.spotify.com/track/4xfER2IVBekjuP7SwQ71eH"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Talking To Myself",
+        "url": "https://open.spotify.com/album/6sjoh5VtzLxBw7y13KHy0b"
+      },
+      "artists": [
+        {
+          "name": "Vanrip",
+          "url": "https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Talking To Myself",
+      "url": "https://open.spotify.com/track/32cyCuTxU5R0AKl4eP8RmF"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Fall In",
+        "url": "https://open.spotify.com/album/240IN9MbCvhua3lkVo2wYL"
+      },
+      "artists": [
+        {
+          "name": "alltalk",
+          "url": "https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE"
+        }
+      ],
+      "duration_ms": 200119,
+      "name": "Fall In",
+      "url": "https://open.spotify.com/track/2aU7kLyDNnkW2aWVL71w3s"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Burning Night",
+        "url": "https://open.spotify.com/album/681lRPzHRsGecSCZWVx0KT"
+      },
+      "artists": [
+        {
+          "name": "Carly Wilford",
+          "url": "https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN"
+        }
+      ],
+      "duration_ms": 206129,
+      "name": "Burning Night",
+      "url": "https://open.spotify.com/track/0ergVwNCItQRhfkjje6N35"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1639,50 +1687,34 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Talking To Myself",
-        "url": "https://open.spotify.com/album/6sjoh5VtzLxBw7y13KHy0b"
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/3WUZRq9I8ki4hQGh95wpSv"
       },
       "artists": [
         {
-          "name": "Vanrip",
-          "url": "https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl"
+          "name": "Stund",
+          "url": "https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk"
         }
       ],
-      "duration_ms": 184320,
-      "name": "Talking To Myself",
-      "url": "https://open.spotify.com/track/32cyCuTxU5R0AKl4eP8RmF"
+      "duration_ms": 279677,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/10PrnkYAVa90S27nMDPps9"
     },
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Fall In",
-        "url": "https://open.spotify.com/album/240IN9MbCvhua3lkVo2wYL"
+        "name": "Feel You (Beside Me)",
+        "url": "https://open.spotify.com/album/1GHakCrnmswgxWtnNU2Iel"
       },
       "artists": [
         {
-          "name": "alltalk",
-          "url": "https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE"
+          "name": "LUPA",
+          "url": "https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo"
         }
       ],
-      "duration_ms": 200119,
-      "name": "Fall In",
-      "url": "https://open.spotify.com/track/2aU7kLyDNnkW2aWVL71w3s"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Extrasense",
-        "url": "https://open.spotify.com/album/7nVQmAZnEcNF4yp5ZQFnem"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 385500,
-      "name": "Extrasense",
-      "url": "https://open.spotify.com/track/6tr7MskyWXRw9nvvbkVC3L"
+      "duration_ms": 329312,
+      "name": "Feel You (Beside Me)",
+      "url": "https://open.spotify.com/track/21Ileqj8qYQIWx9CpCUjAo"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1727,50 +1759,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Burning Night",
-        "url": "https://open.spotify.com/album/681lRPzHRsGecSCZWVx0KT"
+        "name": "Extrasense",
+        "url": "https://open.spotify.com/album/7nVQmAZnEcNF4yp5ZQFnem"
       },
       "artists": [
         {
-          "name": "Carly Wilford",
-          "url": "https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN"
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
         }
       ],
-      "duration_ms": 206129,
-      "name": "Burning Night",
-      "url": "https://open.spotify.com/track/0ergVwNCItQRhfkjje6N35"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Feel You (Beside Me)",
-        "url": "https://open.spotify.com/album/1GHakCrnmswgxWtnNU2Iel"
-      },
-      "artists": [
-        {
-          "name": "LUPA",
-          "url": "https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo"
-        }
-      ],
-      "duration_ms": 329312,
-      "name": "Feel You (Beside Me)",
-      "url": "https://open.spotify.com/track/21Ileqj8qYQIWx9CpCUjAo"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/3WUZRq9I8ki4hQGh95wpSv"
-      },
-      "artists": [
-        {
-          "name": "Stund",
-          "url": "https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk"
-        }
-      ],
-      "duration_ms": 279677,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/10PrnkYAVa90S27nMDPps9"
+      "duration_ms": 385500,
+      "name": "Extrasense",
+      "url": "https://open.spotify.com/track/6tr7MskyWXRw9nvvbkVC3L"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Gotta Think About It",
+        "url": "https://open.spotify.com/album/4KXa0lNkuvzvurrd0Kemf6"
+      },
+      "artists": [
+        {
+          "name": "Castion",
+          "url": "https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR"
+        }
+      ],
+      "duration_ms": 183193,
+      "name": "Gotta Think About It",
+      "url": "https://open.spotify.com/track/2PoZmyTKB0m4MTon0bX5Dt"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Motor City Madness (Underground Resistance Remixes)",
         "url": "https://open.spotify.com/album/7qNHKB9TRtmybrm0h7ipEb"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 173529,
       "name": "Motor City Madness (Underground Resistance Remix) - Edit",
       "url": "https://open.spotify.com/track/1dOD3JpVHqa9oTurvrGQG3"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Gotta Think About It",
-        "url": "https://open.spotify.com/album/4KXa0lNkuvzvurrd0Kemf6"
-      },
-      "artists": [
-        {
-          "name": "Castion",
-          "url": "https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR"
-        }
-      ],
-      "duration_ms": 183193,
-      "name": "Gotta Think About It",
-      "url": "https://open.spotify.com/track/2PoZmyTKB0m4MTon0bX5Dt"
     },
     {
       "added_at": "2022-10-07 04:00:00",

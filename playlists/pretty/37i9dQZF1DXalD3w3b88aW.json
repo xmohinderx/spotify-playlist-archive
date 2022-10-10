@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDFmNWM3YmY5NjI0YTY3NzBmZTQ2NzMyODY2OTI4NTNm",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMGRiNDAxODAwZWNiOGMxOTg1ZGUzNDY3ZjI0ZDE0MTJk",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Frank (US Clean e-Version)",
-        "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 39026,
-      "name": "Teo Licks",
-      "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Funky Divas",
         "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 152533,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/1eunvxEl55dTekAw2AJtW0"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Frank (US Clean e-Version)",
+        "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 39026,
+      "name": "Teo Licks",
+      "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Ready is Always Too Late",
-        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 39600,
-      "name": "J.L (Interlude)",
-      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
+      "duration_ms": 101866,
+      "name": "Tears Away (Interlude)",
+      "url": "https://open.spotify.com/track/1wxzkfNwBwpB43Y7KiybNe"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+        "name": "Ready is Always Too Late",
+        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
         }
       ],
-      "duration_ms": 101866,
-      "name": "Tears Away (Interlude)",
-      "url": "https://open.spotify.com/track/1wxzkfNwBwpB43Y7KiybNe"
+      "duration_ms": 39600,
+      "name": "J.L (Interlude)",
+      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Subject",
-        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
       "artists": [
         {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 216320,
-      "name": "Whoomp (Interlude)",
-      "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
+      "duration_ms": 116306,
+      "name": "Stay (Interlude)",
+      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -971,6 +971,22 @@
       "duration_ms": 74173,
       "name": "I Surrender - Interlude",
       "url": "https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Subject",
+        "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
+      },
+      "artists": [
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Whoomp (Interlude)",
+      "url": "https://open.spotify.com/track/5swrWMVnNCEvEaLTRGIAYr"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 116306,
-      "name": "Stay (Interlude)",
-      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "Kima, Keisha & Pam",
         "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "1st Born Second",
-        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
       "artists": [
         {
-          "name": "Bilal",
-          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 130026,
-      "name": "C'mere - Skit",
-      "url": "https://open.spotify.com/track/6m8jUowInyWee9inDLOF9S"
+      "duration_ms": 61093,
+      "name": "Special Place - Interlude",
+      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+        "name": "1st Born Second",
+        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
       },
       "artists": [
         {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
         }
       ],
-      "duration_ms": 85000,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/18sZorMwXkzMb6pmCePYlz"
+      "duration_ms": 130026,
+      "name": "C'mere - Skit",
+      "url": "https://open.spotify.com/track/6m8jUowInyWee9inDLOF9S"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
         }
       ],
-      "duration_ms": 61093,
-      "name": "Special Place - Interlude",
-      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
+      "duration_ms": 85000,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/18sZorMwXkzMb6pmCePYlz"
     },
     {
       "added_at": "2022-08-26 04:00:00",

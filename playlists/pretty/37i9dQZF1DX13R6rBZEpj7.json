@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 177088,
+  "num_followers": 177102,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMGEyMjM1MWFjMWU2MDYwNWFiMTY3NzhjNTI0OTNlNThj",
+  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMDg2Mzc4MTA5OTI5ZDBkNzVlZWJiZTUwZWUzMGFmNGMz",
   "tracks": [
     {
       "added_at": "2022-09-23 15:03:03",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Feel So Free",
+        "url": "https://open.spotify.com/album/6bxI8Jmu1EPzT2uVdJCog5"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 198882,
+      "name": "Feel So Free",
+      "url": "https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "Barrington / Bodies",
         "url": "https://open.spotify.com/album/5FWII16ZTq6HfCMvdpqCTQ"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Feel So Free",
-        "url": "https://open.spotify.com/album/6bxI8Jmu1EPzT2uVdJCog5"
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
         }
       ],
-      "duration_ms": 198882,
-      "name": "Feel So Free",
-      "url": "https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW"
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -695,22 +711,6 @@
       "duration_ms": 206500,
       "name": "Never",
       "url": "https://open.spotify.com/track/43NLj97L6PQUQ05HyZJmQZ"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6"
-      },
-      "artists": [
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        }
-      ],
-      "duration_ms": 193384,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Amazon Prime",
         "url": "https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 160482,
       "name": "Amazon Prime",
       "url": "https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I"
     },
     {
       "added_at": "2022-09-23 15:03:03",

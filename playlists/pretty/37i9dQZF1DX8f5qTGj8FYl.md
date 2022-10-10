@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,467 likes - 80 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,500 likes - 80 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 26 | [Assassin](https://open.spotify.com/track/6VO9i1n879SKNqjZkzaPvB) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 3:13 |
 | 27 | [Montuno Funk](https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl) | [Solsonics](https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj) | [Jazz In The Present Tense](https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK) | 4:09 |
 | 28 | [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 |
-| 29 | [Basilisk](https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Basilisk](https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H) | 4:29 |
+| 29 | [Do You Wanna Get Down](https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj) | [The Soul Snatchers](https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20) | [Scratch My Itch](https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs) | 3:59 |
 | 30 | [Rubberneck](https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [The Shakedown](https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr) | 3:21 |
-| 31 | [Do You Wanna Get Down](https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj) | [The Soul Snatchers](https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20) | [Scratch My Itch](https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs) | 3:59 |
+| 31 | [Basilisk](https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Basilisk](https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H) | 4:29 |
 | 32 | [Blaze](https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 6:21 |
 | 33 | [Down Frenchmen St](https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J) | 5:57 |
 | 34 | [Hot Chicken](https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ) | [DLG 3](https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I) | [Hot Chicken](https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk) | 4:01 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 68 | [Funkedemia](https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z) | [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Funkedemia](https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb) | 2:13 |
 | 69 | [Permission to Land \- 45](https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Jeff Franca](https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl) | [Shake It](https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc) | 3:04 |
 | 70 | [Keb's Bucket](https://open.spotify.com/track/43eTrnAbpvPedfm5pYvpb8) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN) | 3:30 |
-| 71 | [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 |
-| 72 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 |
+| 71 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 |
+| 72 | [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 |
 | 73 | [Bunny Hop](https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp) | [The CB3](https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl) | [Bunny Hop!](https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts) | 5:02 |
 | 74 | [First Impression](https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy) | 4:12 |
 | 75 | [Samson](https://open.spotify.com/track/6d2O45piXdSJ1ieRFuYYXn) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:42 |
 | 76 | [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 |
 | 77 | [Got Ya Movin'](https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy) | [Funky Times](https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV), [Julia Hofer](https://open.spotify.com/artist/42rpmJkLfveqCuH2fh9bdV), [Silas Engel](https://open.spotify.com/artist/4BjlJxkz88UeYje83jgwHf), [André Haaf](https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg) | [Got Ya Movin'](https://open.spotify.com/album/7yfKLZHZRYOr9ersfyaobt) | 3:26 |
 | 78 | [Indoor S'mores](https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [The Fun Ones](https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH) | 4:41 |
-| 79 | [Chili Wa Man](https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S) | [John Tropea](https://open.spotify.com/artist/0WPM7cWlRjCwho6G09x2S2) | [Gotcha Rhythm Right Here](https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0) | 5:52 |
-| 80 | [Royal Highness](https://open.spotify.com/track/42y27OIathcePEZFs5bYSk) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 5:24 |
+| 79 | [Royal Highness](https://open.spotify.com/track/42y27OIathcePEZFs5bYSk) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 5:24 |
+| 80 | [Chili Wa Man](https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S) | [John Tropea](https://open.spotify.com/artist/0WPM7cWlRjCwho6G09x2S2) | [Gotcha Rhythm Right Here](https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0) | 5:52 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDA2NThmNGMzY2ZmYjdhOTRhMGJiZTUwZGNmMGUzZGY5`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGI1NzhhYjY2N2QwNjFjOTQ4MjY2N2FhOWE1OTllYjYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Lila Tirando a Violeta Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,372 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,392 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 32 | [Castlefields](https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov) | [Tara Clerkin](https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6), [Sunny Joe Paradisos](https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI) | [Castlefields](https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh) | 8:14 |
 | 33 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
 | 34 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 |
-| 35 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
-| 36 | [First Fall](https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [First Fall](https://open.spotify.com/album/7JBiWEAj1vO4zIY5q0WzF5) | 4:10 |
-| 37 | [Strawberry Moon](https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi) | 3:07 |
-| 38 | [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 |
+| 35 | [First Fall](https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [First Fall](https://open.spotify.com/album/7JBiWEAj1vO4zIY5q0WzF5) | 4:10 |
+| 36 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
+| 37 | [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 |
+| 38 | [Strawberry Moon](https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi) | 3:07 |
 | 39 | [Vizio](https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Lytos](https://open.spotify.com/artist/4D6SZOeCXxbUpnJyxQfufX) | [VIZIO](https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ) | 3:53 |
 | 40 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 |
 | 41 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
 | 42 | [Order](https://open.spotify.com/track/475IphfrYFRjHxnPHBnLX1) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/1fFU85M8LbkuMS28rHI3zn) | 2:18 |
-| 43 | [Liquid Planta Seeds](https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Cosmic Planta](https://open.spotify.com/album/4wVoG2nw1uzxfsY8mD3ard) | 3:24 |
-| 44 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
+| 43 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
+| 44 | [Liquid Planta Seeds](https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Cosmic Planta](https://open.spotify.com/album/4wVoG2nw1uzxfsY8mD3ard) | 3:24 |
 | 45 | [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 |
 | 46 | [Revenge](https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [Fiber](https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj) | 7:14 |
-| 47 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 |
-| 48 | [To The Room](https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT) | [Gabe Gurnsey](https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu) | [To The Room](https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ) | 5:14 |
-| 49 | [Sleeping Tiger on the Bund 蓄势待发 \- Flora Wong Remix](https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy), [Flora Wong](https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu) | [Sleeping Tiger on the Bund 蓄势待发 \(Flora Wong Remix\)](https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov) | 3:21 |
+| 47 | [Sleeping Tiger on the Bund 蓄势待发 \- Flora Wong Remix](https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy), [Flora Wong](https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu) | [Sleeping Tiger on the Bund 蓄势待发 \(Flora Wong Remix\)](https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov) | 3:21 |
+| 48 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 |
+| 49 | [To The Room](https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT) | [Gabe Gurnsey](https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu) | [To The Room](https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ) | 5:14 |
 | 50 | [DOG](https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 1:44 |
 
-Snapshot ID: `MTY2NDkzMjM5OCwwMDAwMDAwMDQyZTRiODNmMDE4OGY5YWQ3NmY4NTBiZGZkNjk5NTJm`
+Snapshot ID: `MTY2NDkzMjM5OCwwMDAwMDAwMDc4NjU1MDAyZjk0YzhkMmUwZDBkMzMzZGQ3ZGE3OWJi`

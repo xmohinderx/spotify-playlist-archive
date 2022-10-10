@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 222108,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
@@ -4439,6 +4439,24 @@
       "duration_ms": 197817,
       "name": "When I Say Yes",
       "url": "https://open.spotify.com/track/09wek0QXMM5ZjZ2B3JAcp4"
+    },
+    {
+      "album": {
+        "name": "Where The Glory Is",
+        "url": "https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270576,
+      "name": "Where The Glory Is",
+      "url": "https://open.spotify.com/track/6eAXObWWakFMaTGU9AKhtB"
     },
     {
       "album": {

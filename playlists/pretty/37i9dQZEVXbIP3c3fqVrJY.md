@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIP3c3fqVrJY.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,161 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,164 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

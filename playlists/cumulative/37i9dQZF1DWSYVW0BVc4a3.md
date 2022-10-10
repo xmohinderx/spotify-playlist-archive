@@ -4,7 +4,7 @@
 
 > Rave season is upon us\. Cover: Golden Features
 
-184 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+185 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Heather Park](https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Heather Park](https://open.spotify.com/album/1VKmlsq627xxebmf53jHME) | 6:01 | 2022-08-18 | 2022-09-24 |
 | [Hide \(Amtrac Remix\)](https://open.spotify.com/track/7IzWkimg02mjvqVVDXHQES) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Hide \(Amtrac Remix\)](https://open.spotify.com/album/00a99THhdGMFy8G0xUmcL9) | 5:20 | 2022-08-18 | 2022-08-20 |
 | [HIGH](https://open.spotify.com/track/3rDxXmZqpSqqJ2xjBOWHya) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [ONLY / HIGH](https://open.spotify.com/album/0IWM471gfbIM7AqdVdRbsF) | 3:10 | 2022-09-08 |  |
-| [Higher](https://open.spotify.com/track/7LcLYZ330ybUVStyPovt4y) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x) | [Higher](https://open.spotify.com/album/0B6UE8Ksah2CtPHtk45Gu9) | 3:38 | 2022-08-18 |  |
+| [Higher](https://open.spotify.com/track/7LcLYZ330ybUVStyPovt4y) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x) | [Higher](https://open.spotify.com/album/0B6UE8Ksah2CtPHtk45Gu9) | 3:38 | 2022-08-18 | 2022-10-10 |
 | [Home \- Boys Noize Remix](https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nobody Is Not Loved, Remixes, Pt\. 4](https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4) | 6:17 | 2022-08-18 |  |
 | [Honestly](https://open.spotify.com/track/3vDDjEp1Lz1bMEk8aTjsnh) | [Hans Göran](https://open.spotify.com/artist/6F7CMx98eH22djdP4iCkpf) | [After Party With Hans Göran](https://open.spotify.com/album/218naG7hza42P4SKV3qna7) | 3:58 | 2022-09-15 | 2022-09-23 |
 | [Hours and Hours](https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Hours and Hours](https://open.spotify.com/album/4doUhaVPZ5BbnemJ5Pp4Df) | 4:05 | 2022-09-22 |  |
@@ -86,6 +86,7 @@
 | [In Effect](https://open.spotify.com/track/4UOBs0qu2PIrKvoH9V1pXR) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Lonely Dulcimer / In Effect](https://open.spotify.com/album/1zJORUI9CgL3QHBhRqy0OM) | 3:46 | 2022-09-29 | 2022-10-07 |
 | [In Mindibu](https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [In Mindibu](https://open.spotify.com/album/6aZBtDTIcjiD50dTKWoDES) | 5:08 | 2022-08-19 | 2022-09-23 |
 | [In The Shadows](https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 03](https://open.spotify.com/album/7JSJ48rBBgpLqPfUkxcUuE) | 8:07 | 2022-09-22 |  |
+| [Invincible \- David Morales Remix](https://open.spotify.com/track/37hv4SnvsL9G47lIt8grBw) | [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Remix EP](https://open.spotify.com/album/2o4SFDvTSB7Kg1uFBoGK55) | 3:06 | 2022-10-07 |  |
 | [It's Not You \- Nightshade Remix](https://open.spotify.com/track/0AB7xxoxUjWA1yoEEx87lw) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Nightshade](https://open.spotify.com/artist/5jlxXMEsdRPKWI4DEnBWlT) | [It's Not You](https://open.spotify.com/album/3iy2S5rOvMYWHiYvBCmeDT) | 5:12 | 2022-08-18 | 2022-08-20 |
 | [JOY \(Don't It Make You Feel\)](https://open.spotify.com/track/1PUSsDVdfoSD8TBeSUJRBx) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Don’t It Make You Feel\)](https://open.spotify.com/album/0dY0wbc3n8SS4WWfHdxo0L) | 3:22 | 2022-08-18 | 2022-09-15 |
 | [JOY \(Easy To Improve\)](https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Easy To Improve\)](https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH) | 3:26 | 2022-08-25 |  |

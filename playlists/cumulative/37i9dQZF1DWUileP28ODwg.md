@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys
 
-251 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
+252 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 | 2022-02-25 | 2022-05-29 |
 | [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 | 2022-08-26 |  |
 | [Breath of God \(Speak Peace\)](https://open.spotify.com/track/1HfvEglRq78H8Dk8pYkbGf) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Breath of God \(Speak Peace\)](https://open.spotify.com/album/70w1qIARKCquK1VcSHCy8m) | 3:39 | 2022-02-25 | 2022-04-23 |
-| [Breathe Again](https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz) | [Our Future Glory](https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [The Found](https://open.spotify.com/artist/0JpPD5tGtaQ6nPzzGqEG9u) | [Breathe Again](https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz) | 3:42 | 2022-02-25 |  |
+| [Breathe Again](https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz) | [Our Future Glory](https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [The Found](https://open.spotify.com/artist/0JpPD5tGtaQ6nPzzGqEG9u) | [Breathe Again](https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz) | 3:42 | 2022-02-25 | 2022-10-10 |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2022-04-29 |  |
 | [Broken Is Beautiful](https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Broken Is Beautiful](https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK) | 4:10 | 2022-02-25 | 2022-05-29 |
 | [Build a Boat](https://open.spotify.com/track/3Kh9eZaRwd1teXFVOZ9xPv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Build a Boat](https://open.spotify.com/album/2gwY0QMAGKxWeyh1Z4fgVg) | 2:50 | 2022-04-29 |  |
@@ -243,6 +243,7 @@
 | [Well Done](https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [Well Done](https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq) | 3:42 | 2022-05-28 |  |
 | [What I'm Waiting For](https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:48 | 2022-02-25 |  |
 | [When I Say Yes](https://open.spotify.com/track/09wek0QXMM5ZjZ2B3JAcp4) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [When I Say Yes](https://open.spotify.com/album/4zZYF6eOE6JAdox1MQJUCp) | 3:17 | 2022-08-26 |  |
+| [Where The Glory Is](https://open.spotify.com/track/6eAXObWWakFMaTGU9AKhtB) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9) | 4:30 | 2022-10-01 |  |
 | [While We Wait](https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [While We Wait](https://open.spotify.com/album/3OjfM80cjDGpXnw0okEmLI) | 3:19 | 2022-03-19 |  |
 | [Who I Am](https://open.spotify.com/track/0N9C6owb2juxsvAFESepTe) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO) | 3:28 | 2022-10-01 |  |
 | [Who I Am](https://open.spotify.com/track/7p1QBR2jcSDDrknfkuxkYE) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/71PBwQLNUhuc6keb5RDwoh) | 3:28 | 2022-03-19 | 2022-04-29 |

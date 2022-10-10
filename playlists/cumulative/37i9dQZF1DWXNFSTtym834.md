@@ -4,7 +4,7 @@
 
 > The biggest metal songs of the 2000s.
 
-236 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/3jt3VwWJpWVrZ0Elil9S2R)
+237 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/3jt3VwWJpWVrZ0Elil9S2R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Dig](https://open.spotify.com/track/3H0ZY55seypgo0zXI6zwRk) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/1PxA0y3aRMejJGb0wJH9gS) | 2:42 | 2022-01-03 | 2022-07-29 |
 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 | 2022-04-13 |  |
 | [Distortion Sleep](https://open.spotify.com/track/78icKPnMK7IW9Qhnai1eHQ) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Figure Number Five](https://open.spotify.com/album/5FwaTWEBuBaPhMsuQk2nzk) | 3:45 | 2022-01-03 | 2022-07-22 |
-| [Distortion Sleep](https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Figure Number Five](https://open.spotify.com/album/6n86brHTe54lipUckY9InO) | 3:45 | 2022-04-13 |  |
+| [Distortion Sleep](https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Figure Number Five](https://open.spotify.com/album/6n86brHTe54lipUckY9InO) | 3:45 | 2022-04-13 | 2022-10-10 |
 | [Double Nature](https://open.spotify.com/track/07yVHMlXo1yYj5pnpK5f5x) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Latest Version of the Truth](https://open.spotify.com/album/4hj9NQZbhv7LjEO147YBWx) | 4:44 | 2022-07-13 | 2022-07-29 |
 | [Down with the Sickness](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:39 | 2022-01-03 |  |
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2022-01-03 |  |
@@ -102,6 +102,7 @@
 | [Hyperdrive!](https://open.spotify.com/track/1Mju1koP7vTo5llp8r2tGc) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Ziltoid the Omniscient](https://open.spotify.com/album/6YjSKoG1zWPa3Ooa2tmkpy) | 3:47 | 2022-03-31 | 2022-04-21 |
 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 | 2022-07-13 |  |
 | [I Am the Anger](https://open.spotify.com/track/7uKK7wY13Z65M7WQAO9r46) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Burning Earth](https://open.spotify.com/album/72we6ktCYDCvbD78ffemkH) | 3:48 | 2022-07-13 | 2022-07-15 |
+| [I Don't Care](https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gonthier](https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM) | [Worlds Collide](https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ) | 3:57 | 2022-04-13 |  |
 | [I Don't Care](https://open.spotify.com/track/4eD48Ur3heQtP8ZGzl7buk) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/1rcVwAd9FXK9ONouJVeRSF) | 3:57 | 2022-04-13 | 2022-09-17 |
 | [I Don't Care \(feat\. Adam Gontier\)](https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL) | 3:57 | 2022-01-03 | 2022-07-16 |
 | [I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 5:08 | 2022-07-13 |  |

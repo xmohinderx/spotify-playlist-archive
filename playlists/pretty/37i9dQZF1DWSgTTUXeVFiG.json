@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 8658,
+  "num_followers": 8664,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDc1OWQ2NWNmN2I1MjRlOTNlN2ZmMmVjMGVmMmY5ZGQ5",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGQ0NDQzMGMwMTRhNTAzYzA1YTI4OWZjNDJhMzIxNjI2",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Mickey Taveras (Live)",
+        "url": "https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "duration_ms": 296683,
+      "name": "A Pesar del Tiempo - Live",
+      "url": "https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Live At The Cheetah, Vol. 1",
         "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 298573,
       "name": "Sue\u00f1o Contigo - En Vivo",
       "url": "https://open.spotify.com/track/5BrPoD09caqS2vjKc8TNgQ"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Mickey Taveras (Live)",
-        "url": "https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC"
-      },
-      "artists": [
-        {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
-        }
-      ],
-      "duration_ms": 296683,
-      "name": "A Pesar del Tiempo - Live",
-      "url": "https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
+      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Live At The Red Garter, Vol. 1",
         "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 497080,
       "name": "Me Gusta El Son - Live",
       "url": "https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
-      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "En Vivo Desde Bellas Artes",
+        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena",
+          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Tu Loco, Loco, Y Yo Tranquilo",
+      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Live At The Cheetah, Vol. 1",
         "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 557626,
       "name": "Descarga Fania - Live",
       "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "En Vivo Desde Bellas Artes",
-        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena",
-          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Tu Loco, Loco, Y Yo Tranquilo",
-      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 422280,
-      "name": "La Murga - Live",
-      "url": "https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0"
+      "duration_ms": 177720,
+      "name": "El Cantante - Live",
+      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
     },
     {
       "added_at": "2022-03-18 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the most epic, electrifying, face-melting axe performances. Cover: Eddie Van Halen",
-  "num_followers": 1258200,
+  "num_followers": 1258297,
   "original_name": "Legendary Guitar Solos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2NDUxMiwwMDAwMDAwMDliODVjZTdhNTYwOGFiMzUxM2RkZDQzYmUyNGM1ZjM4",
+  "snapshot_id": "MTY2MTg2NDUxMiwwMDAwMDAwMDdlOGQ4NzMwNDk1YzU1N2JkYTRhNTAzOGUxMDk1ZGE3",
   "tracks": [
     {
       "added_at": "2021-12-13 15:23:11",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Sheer Heart Attack (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 310013,
-      "name": "Brighton Rock - Remastered 2011",
-      "url": "https://open.spotify.com/track/4ObxJP7kYUkBqpiklCzrBo"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Flying In A Blue Dream",
         "url": "https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 323066,
       "name": "Flying in a Blue Dream",
       "url": "https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Sheer Heart Attack (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 310013,
+      "name": "Brighton Rock - Remastered 2011",
+      "url": "https://open.spotify.com/track/4ObxJP7kYUkBqpiklCzrBo"
     }
   ],
   "unique_name": "Legendary Guitar Solos",

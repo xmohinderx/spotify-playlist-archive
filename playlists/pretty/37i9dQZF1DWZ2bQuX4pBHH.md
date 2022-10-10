@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,213 likes - 60 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,222 likes - 60 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

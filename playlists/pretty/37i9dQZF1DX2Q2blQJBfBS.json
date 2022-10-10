@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 6536,
+  "num_followers": 2468,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA2NzMxMCwwMDAwMDAwMGE5MWVmN2ZlYzhlMDQ5ZTczZmI0MGU1Y2E2YWJhNTk3",
+  "snapshot_id": "MTY2NTA2NzMxMCwwMDAwMDAwMDRiOGUyMTI1OGE1OGQwM2JlZTIzNTM3YmQxMGViOTg3",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
     },
     {
-      "added_at": "2022-05-13 12:00:00",
-      "album": {
-        "name": "Lupe Fiasco's Food & Liquor",
-        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Kick, Push",
-      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Center of Attention",
@@ -595,6 +579,22 @@
       "duration_ms": 276373,
       "name": "Grown Man Sport",
       "url": "https://open.spotify.com/track/6dRj771QZr0KOQVwaB6ykM"
+    },
+    {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 254466,
+      "name": "Kick, Push",
+      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/0FQeZmAKQLLnZC5iTN6JuR"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
+      "added_at": "2022-06-24 12:00:00",
       "album": {
         "name": "Donuts",
         "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 71666,
-      "name": "Welcome To The Show",
-      "url": "https://open.spotify.com/track/6YbfTiImEm6kH6gRXpdtgR"
+      "duration_ms": 98720,
+      "name": "Time: The Donut of the Heart",
+      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/5BegRQCcJu4trXT6PPdih9"
     },
     {
-      "added_at": "2022-06-24 12:00:00",
+      "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Donuts",
         "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 98720,
-      "name": "Time: The Donut of the Heart",
-      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
+      "duration_ms": 71666,
+      "name": "Welcome To The Show",
+      "url": "https://open.spotify.com/track/6YbfTiImEm6kH6gRXpdtgR"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
     },
     {
-      "added_at": "2022-09-02 18:33:39",
-      "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
-      },
-      "artists": [
-        {
-          "name": "Ashton Travis",
-          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
-        }
-      ],
-      "duration_ms": 201056,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Apt. 505",
@@ -1359,6 +1343,22 @@
       "duration_ms": 256595,
       "name": "Pimpin' Benjamin",
       "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
+    },
+    {
+      "added_at": "2022-09-02 18:33:39",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        }
+      ],
+      "duration_ms": 201056,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1389,6 +1389,22 @@
       "url": "https://open.spotify.com/track/6NTceGKsDLTYehlyRbYp6O"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Clockers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
+      },
+      "artists": [
+        {
+          "name": "Crooklyn Dodgers",
+          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Return of The Crooklyn Dodgers",
+      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
+    },
+    {
       "added_at": "2022-08-19 19:38:15",
       "album": {
         "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
@@ -1407,22 +1423,6 @@
       "duration_ms": 214946,
       "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
       "url": "https://open.spotify.com/track/5tPJshNuM5N7Pb9tDDg7H1"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Clockers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
-      },
-      "artists": [
-        {
-          "name": "Crooklyn Dodgers",
-          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Return of The Crooklyn Dodgers",
-      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1617,42 +1617,6 @@
       "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
     },
     {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "Intros, Outros & Interludes",
-        "url": "https://open.spotify.com/album/6EPg4n0tIsQpXmfAnpLHzq"
-      },
-      "artists": [
-        {
-          "name": "Domo Genesis",
-          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
-        },
-        {
-          "name": "Evidence",
-          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
-        }
-      ],
-      "duration_ms": 148653,
-      "name": "Victories & Losses",
-      "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
-    },
-    {
-      "added_at": "2022-06-24 12:00:00",
-      "album": {
-        "name": "DRILL MUSIC IN ZION",
-        "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 271883,
-      "name": "DRILL MUSIC IN ZION",
-      "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Things Fall Apart",
@@ -1671,6 +1635,42 @@
       "duration_ms": 350400,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/7frJEBqz0olVg8sQpXD5BF"
+    },
+    {
+      "added_at": "2022-06-24 12:00:00",
+      "album": {
+        "name": "DRILL MUSIC IN ZION",
+        "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 271883,
+      "name": "DRILL MUSIC IN ZION",
+      "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Intros, Outros & Interludes",
+        "url": "https://open.spotify.com/album/6EPg4n0tIsQpXmfAnpLHzq"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        },
+        {
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "Victories & Losses",
+      "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
     },
     {
       "added_at": "2022-07-15 12:00:00",

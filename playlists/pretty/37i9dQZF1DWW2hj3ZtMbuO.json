@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning\" ",
-  "num_followers": 875888,
+  "num_followers": 876923,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA2NzA3MywwMDAwMDAwMGRmZjJiYjQ4MWIyZWJiYTlmMzYwYjVhOTlmYzBmZGVl",
+  "snapshot_id": "MTY2NTA2NzA3MywwMDAwMDAwMGZkNTYyNjhmZjgzNTIzZGMxNzdlYWU0YzRkNGRiYzJl",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
-      "added_at": "2022-10-09 19:53:46",
+      "added_at": "2022-10-10 01:28:44",
       "album": {
         "name": "we fell in love in october / forget her",
         "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5iwOkLRedNpGvymiknisHn"
     },
     {
-      "added_at": "2022-10-09 19:53:46",
+      "added_at": "2022-10-10 01:28:44",
       "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
     },
     {
-      "added_at": "2022-10-09 19:53:46",
+      "added_at": "2022-10-10 01:28:44",
       "album": {
         "name": "F.O.O.F.",
         "url": "https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z"
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/4K5i1l5M44nXP81JK2HP8L"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 110861,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/4BWJGWmzbjsnA94Weyi5j4"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Trick",
         "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 99620,
       "name": "We'll Never Have Sex",
       "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/4K5i1l5M44nXP81JK2HP8L"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 110861,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/4BWJGWmzbjsnA94Weyi5j4"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "It's Not Just Me, It's Everybody",
-        "url": "https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Talia",
         "url": "https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 141743,
       "name": "Yards / Gardens",
       "url": "https://open.spotify.com/track/6suniHkw9kWbCWMta68RxR"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "It's Not Just Me, It's Everybody",
+        "url": "https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm"
     }
   ],
   "unique_name": "sad girl starter pack",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,676 likes - 156 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,752 likes - 156 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 132 | [Nobody's More Country](https://open.spotify.com/track/5ebwYSZVFG6VJOE0mWs71o) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/2Jogodfbu37ikyUK11yGAf) | 2:52 |
 | 133 | [Anything Cold](https://open.spotify.com/track/117hcZ2YVEjGHF5xCJJfMh) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Anything Cold](https://open.spotify.com/album/5tJ7Fi9rz7HnjhrOhOD6Lo) | 2:54 |
 | 134 | [Us Someday](https://open.spotify.com/track/5QcjrDZhf8zvP6XV6EGOkE) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Us Someday](https://open.spotify.com/album/1tvoTjB0E2KJiy41J6owIr) | 2:23 |
-| 135 | [Hold My Horses](https://open.spotify.com/track/2b42Ji4pWoTYnh0nxjnASa) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Too Much Of A Good Thing](https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll) | 3:00 |
+| 135 | [Hold My Horses](https://open.spotify.com/track/6JNxXz032aM8zcSHQAWiVv) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Hold My Horses](https://open.spotify.com/album/47OPSr5UHAyc2XG4M9utmq) | 3:00 |
 | 136 | [Trust Issues](https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Trust Issues](https://open.spotify.com/album/3tzlw58Anr8ZfQHqMn5lAt) | 3:23 |
 | 137 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 |
 | 138 | [Always Never](https://open.spotify.com/track/6H5GSjYSsIJG9h7Fm8QeUg) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Always Never](https://open.spotify.com/album/52Wmo9nCaBjqE3GQYDFxcZ) | 3:03 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 155 | [Can't Hide Love](https://open.spotify.com/track/2U1drF0wHxIHWhkl4JN7js) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Born for This](https://open.spotify.com/album/2N1fClE6geEUJvpSeReyp7) | 2:29 |
 | 156 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGU3Mjg3MzE2MmRmMGQ2NjZhZDUyZDdhYWIyNTFhYmU3`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGFmNjM5YWMwMjU1NzMyNTY2NjdiZDcwMWM5ZjA3YTkx`

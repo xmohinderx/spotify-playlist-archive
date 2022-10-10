@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 812891,
+  "num_followers": 813006,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1MTQ1OCwwMDAwMDAwMDU2NjdjYWJkYzFmYmFkYjBkZjMzZjdmZDE4OGMyYWY3",
+  "snapshot_id": "MTY2NTE1MTQ1OCwwMDAwMDAwMDNlYmQ5YWFlNTUyYWUzZGMzYzkxNjc3NzUyOGFmMDdk",
   "tracks": [
     {
       "added_at": "2022-09-30 14:30:48",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 256946,
-      "name": "You Know I'm No Good",
-      "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 265106,
       "name": "That's The Way Love Goes",
       "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 256946,
+      "name": "You Know I'm No Good",
+      "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 345975,
-      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
-      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 324666,
       "name": "Fastlove, Pt. 1",
       "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 345975,
+      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
+      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Turnin' Me Up",
-      "url": "https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Somebody Else's Guy",
         "url": "https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 386026,
       "name": "Somebody Else's Guy",
       "url": "https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Turnin' Me Up",
+      "url": "https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 242520,
-      "name": "Mrs.",
-      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "The Best of George Benson",
         "url": "https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 219560,
       "name": "Give Me the Night - Edit",
       "url": "https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 242520,
+      "name": "Mrs.",
+      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Get Lifted",
-        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Used to Love U",
-      "url": "https://open.spotify.com/track/051NZ3rr3HXTULCEySJRX3"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 175309,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Used to Love U",
+      "url": "https://open.spotify.com/track/051NZ3rr3HXTULCEySJRX3"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/2l5jrbQaw9la2srKsDt7D6"
-      },
-      "artists": [
-        {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        }
-      ],
-      "duration_ms": 210026,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/0nruobjhKItGHfkH3VbTXy"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Conex\u00e3o - EP",
         "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 299131,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/4vvFklYoPTicMqbYUo7qyG"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/2l5jrbQaw9la2srKsDt7D6"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/0nruobjhKItGHfkH3VbTXy"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Helping Hands",
-        "url": "https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 292759,
       "name": "Willing & Able",
       "url": "https://open.spotify.com/track/29rBJWizgnVht4qXpHyDxh"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Helping Hands",
+        "url": "https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 316600,
+      "name": "Star People",
+      "url": "https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Playing For You",
         "url": "https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD"
       },
@@ -1883,22 +1899,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/3trS6e40JCVUOpPVt5OdHj"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Limbo/Lagune",
         "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
       },
@@ -1911,6 +1911,22 @@
       "duration_ms": 190903,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/3trS6e40JCVUOpPVt5OdHj"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1947,22 +1963,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 316600,
-      "name": "Star People",
-      "url": "https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7"
       },
@@ -1995,38 +1995,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Get Lifted",
-        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Let's Get Lifted",
-      "url": "https://open.spotify.com/track/5m4rsr2D2uwMgOgORtpxSA"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Limbo/Lagune",
-        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Isina Muva (Gold Deluxe)",
         "url": "https://open.spotify.com/album/7ne6pspiugeCQzVItPEmnn"
       },
@@ -2047,6 +2015,58 @@
       "duration_ms": 228000,
       "name": "Ngempela (feat, Howard) - Bonus Track",
       "url": "https://open.spotify.com/track/0QKJGz2aZfZzcjSfktQiDG"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Limbo/Lagune",
+        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Let's Get Lifted",
+      "url": "https://open.spotify.com/track/5m4rsr2D2uwMgOgORtpxSA"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1qn0kla1XZSbLSb1u81kSc"
+      },
+      "artists": [
+        {
+          "name": "Electro Deluxe",
+          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
+        },
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 266946,
+      "name": "Where is the love ?",
+      "url": "https://open.spotify.com/track/1JPOZzPzvTzVoHixqI8pWs"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2099,26 +2119,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/1qn0kla1XZSbLSb1u81kSc"
-      },
-      "artists": [
-        {
-          "name": "Electro Deluxe",
-          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
-        },
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 266946,
-      "name": "Where is the love ?",
-      "url": "https://open.spotify.com/track/1JPOZzPzvTzVoHixqI8pWs"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Tender Rose",
         "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
       },
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Letters of Irrelevance",
-        "url": "https://open.spotify.com/album/3KwPkAnQNxvO80FLhvaH9h"
-      },
-      "artists": [
-        {
-          "name": "Patrick Paige II",
-          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
-        }
-      ],
-      "duration_ms": 221787,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/3oCwuhp1k10uK25z3U2LFb"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "When Flowers Bloom",
         "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 199770,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Letters of Irrelevance",
+        "url": "https://open.spotify.com/album/3KwPkAnQNxvO80FLhvaH9h"
+      },
+      "artists": [
+        {
+          "name": "Patrick Paige II",
+          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
+        }
+      ],
+      "duration_ms": 221787,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3oCwuhp1k10uK25z3U2LFb"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Between Thought And Expression",
+        "url": "https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Walk on the Wild Side",
+      "url": "https://open.spotify.com/track/3V0dGluD6yXFk3gfAKzDEF"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Midnight Crisis",
         "url": "https://open.spotify.com/album/3VPsgf2GvKiZ1rQCrre6H2"
       },
@@ -2315,22 +2331,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Between Thought And Expression",
-        "url": "https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Walk on the Wild Side",
-      "url": "https://open.spotify.com/track/3V0dGluD6yXFk3gfAKzDEF"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "NEXT 2 U",
         "url": "https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn"
       },
@@ -2343,6 +2343,22 @@
       "duration_ms": 169484,
       "name": "NEXT 2 U",
       "url": "https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "You Ain't The Problem",
+        "url": "https://open.spotify.com/album/6J37CAUxNhrqlX9iuSzVVR"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "You Ain't The Problem",
+      "url": "https://open.spotify.com/track/0QDe6nlExlt3AM1NHTh4nn"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2399,22 +2415,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "You Ain't The Problem",
-        "url": "https://open.spotify.com/album/6J37CAUxNhrqlX9iuSzVVR"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "You Ain't The Problem",
-      "url": "https://open.spotify.com/track/0QDe6nlExlt3AM1NHTh4nn"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Hourglass",
         "url": "https://open.spotify.com/album/69bgbAILh3pnvCe7W9AZ5q"
       },
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "The Million Dollar Song",
-        "url": "https://open.spotify.com/album/592Fk2bocDzEzrFNBmHBRs"
-      },
-      "artists": [
-        {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
-        }
-      ],
-      "duration_ms": 194294,
-      "name": "The Million Dollar Song",
-      "url": "https://open.spotify.com/track/1UrEvrgnY0kl2hsHC8p5xm"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "The Love & War MasterPeace",
         "url": "https://open.spotify.com/album/0mnSA6vwMV26v6GWIrRM7Q"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 254800,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/5GIp3XwoMW9bbdUvGB2ydO"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "The Million Dollar Song",
+        "url": "https://open.spotify.com/album/592Fk2bocDzEzrFNBmHBRs"
+      },
+      "artists": [
+        {
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+        }
+      ],
+      "duration_ms": 194294,
+      "name": "The Million Dollar Song",
+      "url": "https://open.spotify.com/track/1UrEvrgnY0kl2hsHC8p5xm"
     },
     {
       "added_at": "2022-09-30 14:30:48",

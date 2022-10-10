@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 26126,
+  "num_followers": 26134,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0MTMxMCwwMDAwMDAwMDM0YmU5MzBlZDAzOGUxN2YxZDBhM2Y0OGE0OWI0ZmM3",
+  "snapshot_id": "MTY2NTA0MTMxMCwwMDAwMDAwMGEwZDYyMmQxYmJhMmUwZTRkYWM5Nzg2YTUzNDg4YmIw",
   "tracks": [
     {
       "added_at": "2022-09-29 22:01:00",
@@ -167,42 +167,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Body on Fire",
-        "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 159180,
-      "name": "Body on Fire",
-      "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        }
-      ],
-      "duration_ms": 175169,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
@@ -223,38 +187,38 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
         }
       ],
-      "duration_ms": 158031,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
+      "duration_ms": 175169,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ"
+        "name": "Body on Fire",
+        "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
       },
       "artists": [
         {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn"
+      "duration_ms": 159180,
+      "name": "Body on Fire",
+      "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -277,7 +241,43 @@
       "url": "https://open.spotify.com/track/5zZaxeRo4e09KUJ5sbEC7Q"
     },
     {
-      "added_at": "2022-10-09 20:13:13",
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ"
+      },
+      "artists": [
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "duration_ms": 158031,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
+    },
+    {
+      "added_at": "2022-10-10 01:50:50",
       "album": {
         "name": "Forgot How to Love",
         "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
@@ -503,22 +503,26 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Waves (feat. Grace Tither)",
-        "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
         },
         {
-          "name": "Grace Tither",
-          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         }
       ],
-      "duration_ms": 202501,
-      "name": "Waves (feat. Grace Tither)",
-      "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
+      "duration_ms": 178909,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -547,26 +551,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
+        "name": "Waves (feat. Grace Tither)",
+        "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
       },
       "artists": [
         {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "Grace Tither",
+          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
         }
       ],
-      "duration_ms": 178909,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
+      "duration_ms": 202501,
+      "name": "Waves (feat. Grace Tither)",
+      "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+        "name": "Live In The Moment",
+        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
         }
       ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
+      "duration_ms": 180000,
+      "name": "Live In The Moment",
+      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -759,22 +775,6 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Live In The Moment",
-        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Live In The Moment",
-      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1099,6 +1099,22 @@
       "duration_ms": 156393,
       "name": "Marco Polo",
       "url": "https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
+      },
+      "artists": [
+        {
+          "name": "MAFQEES",
+          "url": "https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
-      },
-      "artists": [
-        {
-          "name": "MAFQEES",
-          "url": "https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Escaping",
         "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
       },
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Come Along",
-        "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Sofia Karlberg",
-          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
-        }
-      ],
-      "duration_ms": 164304,
-      "name": "Come Along",
-      "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
         "name": "Unrequited",
         "url": "https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 171696,
       "name": "Unrequited",
       "url": "https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Come Along",
+        "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Sofia Karlberg",
+          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
+        }
+      ],
+      "duration_ms": 164304,
+      "name": "Come Along",
+      "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
+        "name": "Late Delivery",
+        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        }
+      ],
+      "duration_ms": 202963,
+      "name": "Late Delivery",
+      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 178236,
       "name": "Room",
       "url": "https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT"
-    },
-    {
-      "added_at": "2022-09-29 22:01:00",
-      "album": {
-        "name": "Late Delivery",
-        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        }
-      ],
-      "duration_ms": 202963,
-      "name": "Late Delivery",
-      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1535,26 +1535,18 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Scent of Wood (Bound to Divide Remix)",
-        "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
+        "name": "Out Of Love",
+        "url": "https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW"
       },
       "artists": [
         {
-          "name": "UOAK",
-          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
-        },
-        {
-          "name": "Ceci",
-          "url": "https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4"
-        },
-        {
-          "name": "Bound to Divide",
-          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
         }
       ],
-      "duration_ms": 208548,
-      "name": "Scent of Wood (Bound to Divide Remix)",
-      "url": "https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA"
+      "duration_ms": 155263,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W"
     },
     {
       "added_at": "2022-09-29 22:01:00",
@@ -1575,22 +1567,26 @@
     {
       "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
+        "name": "Scent of Wood (Bound to Divide Remix)",
+        "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
       },
       "artists": [
         {
-          "name": "Fredrik Ferrier",
-          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+          "name": "UOAK",
+          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
         },
         {
-          "name": "Electric Pineapple",
-          "url": "https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK"
+          "name": "Ceci",
+          "url": "https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4"
+        },
+        {
+          "name": "Bound to Divide",
+          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
+      "duration_ms": 208548,
+      "name": "Scent of Wood (Bound to Divide Remix)",
+      "url": "https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA"
     }
   ],
   "unique_name": "Dance Chill",

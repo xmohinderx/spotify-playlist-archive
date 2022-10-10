@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=nEaczK89S5WXP3QVS4wW7w">Van Pletzen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 846 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 847 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

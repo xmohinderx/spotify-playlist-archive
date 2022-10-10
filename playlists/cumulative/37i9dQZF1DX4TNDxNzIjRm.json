@@ -1712,6 +1712,32 @@
     },
     {
       "album": {
+        "name": "La Pelikula (Remix)",
+        "url": "https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "La Pelikula - Remix",
+      "url": "https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW"
+    },
+    {
+      "album": {
         "name": "La Presi\u00f3n",
         "url": "https://open.spotify.com/album/4wfAezGxcpg6I2sQHldZ0u"
       },
@@ -1749,6 +1775,24 @@
       "duration_ms": 186976,
       "name": "La S\u00e1bana y los Pies",
       "url": "https://open.spotify.com/track/3DJkOQEj4u5vbPEavvbPT0"
+    },
+    {
+      "album": {
+        "name": "Las Cartas",
+        "url": "https://open.spotify.com/album/7fctld92LQsFJrmqliUMYu"
+      },
+      "artists": [
+        {
+          "name": "Kamm",
+          "url": "https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212456,
+      "name": "Las Cartas",
+      "url": "https://open.spotify.com/track/1pOa85FwiJcbwyYTQFAZUM"
     },
     {
       "album": {
@@ -1889,7 +1933,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 209026,
       "name": "Locura",
       "url": "https://open.spotify.com/track/5379uuUPHodsdVhy8pIAAr"
@@ -2141,7 +2185,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 200666,
       "name": "Morado",
       "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
@@ -3036,6 +3080,28 @@
     },
     {
       "album": {
+        "name": "Sigo Feliz",
+        "url": "https://open.spotify.com/album/5gaIGETcYdjX2XdBFJRGEZ"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220418,
+      "name": "Sigo Feliz",
+      "url": "https://open.spotify.com/track/3xw2pT79X8xgCzivqeLXnb"
+    },
+    {
+      "album": {
         "name": "Sigues Con El",
         "url": "https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf"
       },
@@ -3311,7 +3377,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 159546,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/02lGHA7bFFplYLihnUWTx8"

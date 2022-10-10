@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Dinesh Gamage
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,515 likes - 87 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,520 likes - 87 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

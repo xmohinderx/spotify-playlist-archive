@@ -1,12 +1,12 @@
 {
   "description": "Christmas classics from your favourite Blues artists. ",
-  "num_followers": 4767,
+  "num_followers": 4769,
   "original_name": "Christmas Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEwMjYwMCwwMDAwMDAwMGMwOTllNGI2YWIxMTBjZmExMTg4NDcxMWIzNDkyZGMw",
+  "snapshot_id": "MTY2NTEwMjYwMCwwMDAwMDAwMGJiMzgwZTAzMzMyOWEzODc1Y2ZmYmRhYWQ0YWU3Y2Q3",
   "tracks": [
     {
       "added_at": "2022-10-07 00:30:00",
@@ -155,6 +155,26 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
+        "name": "Please Come Home for Christmas (feat. Rodney Good)",
+        "url": "https://open.spotify.com/album/6q72QzOdroMd0CXaO7Bdl4"
+      },
+      "artists": [
+        {
+          "name": "Jamie O'Neal",
+          "url": "https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe"
+        },
+        {
+          "name": "Rodney Good",
+          "url": "https://open.spotify.com/artist/7cgtMzLMFaAQETR9PAL4ct"
+        }
+      ],
+      "duration_ms": 188637,
+      "name": "Please Come Home for Christmas",
+      "url": "https://open.spotify.com/track/2PjMTWirUB90kmUHvN1gBH"
+    },
+    {
+      "added_at": "2022-10-07 00:30:00",
+      "album": {
         "name": "The Alligator Records Christmas Collection",
         "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
       },
@@ -183,22 +203,6 @@
       "duration_ms": 259533,
       "name": "Santa Claus Is Back In Town",
       "url": "https://open.spotify.com/track/0CrDBZ5QpdnUEIBPpYp28p"
-    },
-    {
-      "added_at": "2022-10-07 00:30:00",
-      "album": {
-        "name": "Still Got the Blues for Christmas",
-        "url": "https://open.spotify.com/album/1GV65A6nDyaWbKBQceJZIc"
-      },
-      "artists": [
-        {
-          "name": "Gary Hoey",
-          "url": "https://open.spotify.com/artist/1so07AHiowjXxc3KVUqp76"
-        }
-      ],
-      "duration_ms": 294220,
-      "name": "Still Got the Blues for Christmas",
-      "url": "https://open.spotify.com/track/1Nsb2FTjHiNXVQjgMRia8Y"
     },
     {
       "added_at": "2022-10-07 00:30:00",
@@ -235,22 +239,18 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
-        "name": "Please Come Home for Christmas (feat. Rodney Good)",
-        "url": "https://open.spotify.com/album/6q72QzOdroMd0CXaO7Bdl4"
+        "name": "Still Got the Blues for Christmas",
+        "url": "https://open.spotify.com/album/1GV65A6nDyaWbKBQceJZIc"
       },
       "artists": [
         {
-          "name": "Jamie O'Neal",
-          "url": "https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe"
-        },
-        {
-          "name": "Rodney Good",
-          "url": "https://open.spotify.com/artist/7cgtMzLMFaAQETR9PAL4ct"
+          "name": "Gary Hoey",
+          "url": "https://open.spotify.com/artist/1so07AHiowjXxc3KVUqp76"
         }
       ],
-      "duration_ms": 188637,
-      "name": "Please Come Home for Christmas",
-      "url": "https://open.spotify.com/track/2PjMTWirUB90kmUHvN1gBH"
+      "duration_ms": 294220,
+      "name": "Still Got the Blues for Christmas",
+      "url": "https://open.spotify.com/track/1Nsb2FTjHiNXVQjgMRia8Y"
     },
     {
       "added_at": "2022-10-07 00:30:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
-    },
-    {
-      "added_at": "2022-10-07 00:30:00",
-      "album": {
         "name": "The Complete James Brown Christmas",
         "url": "https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC"
       },
@@ -351,6 +335,22 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
+    },
+    {
+      "added_at": "2022-10-07 00:30:00",
+      "album": {
         "name": "A Christmas Celebration Of Hope",
         "url": "https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu"
       },
@@ -363,22 +363,6 @@
       "duration_ms": 254866,
       "name": "Christmas Comes But Once A Year",
       "url": "https://open.spotify.com/track/1dW0NVuJJ1iIvJFUoWSDJ6"
-    },
-    {
-      "added_at": "2022-10-07 00:30:00",
-      "album": {
-        "name": "The Alligator Records Christmas Collection",
-        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Christmas",
-      "url": "https://open.spotify.com/track/1MpFJiLGfXg7WQdYHbw2f9"
     },
     {
       "added_at": "2022-10-07 00:30:00",
@@ -415,6 +399,22 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
+        "name": "The Alligator Records Christmas Collection",
+        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Christmas",
+      "url": "https://open.spotify.com/track/1MpFJiLGfXg7WQdYHbw2f9"
+    },
+    {
+      "added_at": "2022-10-07 00:30:00",
+      "album": {
         "name": "Happy Xmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4vp3vf0hRKawrqUIzcr0P7"
       },
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
+        "name": "Christmas Gumbo",
+        "url": "https://open.spotify.com/album/3v7yoCGisdwfvIBnU9RYmp"
+      },
+      "artists": [
+        {
+          "name": "Allen Toussaint",
+          "url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "The Day It Snows On Christmas",
+      "url": "https://open.spotify.com/track/7dhgZvhWgeDhp1GpIfYcGq"
+    },
+    {
+      "added_at": "2022-10-07 00:30:00",
+      "album": {
         "name": "Cadillac Baby's Bea & Baby Records Definitive Collection, Vol. 3",
         "url": "https://open.spotify.com/album/3zGpMiCx2Xu4ErHOzZRvTv"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
-        "name": "Christmas Gumbo",
-        "url": "https://open.spotify.com/album/3v7yoCGisdwfvIBnU9RYmp"
-      },
-      "artists": [
-        {
-          "name": "Allen Toussaint",
-          "url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "The Day It Snows On Christmas",
-      "url": "https://open.spotify.com/track/7dhgZvhWgeDhp1GpIfYcGq"
-    },
-    {
-      "added_at": "2022-10-07 00:30:00",
-      "album": {
         "name": "Putumayo Presents Blues Christmas",
         "url": "https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh"
       },
@@ -495,38 +495,6 @@
       "duration_ms": 204626,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3OoPWE8UFg4Vu8kMsKRApn"
-    },
-    {
-      "added_at": "2022-10-07 00:30:00",
-      "album": {
-        "name": "Putumayo Presents Blues Christmas",
-        "url": "https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh"
-      },
-      "artists": [
-        {
-          "name": "Chuck Leavell",
-          "url": "https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Please Come Home For Christmas",
-      "url": "https://open.spotify.com/track/0OcoKrsmrFxA2P17Jw3xk2"
-    },
-    {
-      "added_at": "2022-10-07 00:30:00",
-      "album": {
-        "name": "Happy Xmas",
-        "url": "https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "Lonesome Christmas",
-      "url": "https://open.spotify.com/track/1yBXaVUr6fWW6d0dkqrdRG"
     },
     {
       "added_at": "2022-10-07 00:30:00",
@@ -547,18 +515,34 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
-        "name": "The Alligator Records Christmas Collection",
-        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J"
       },
       "artists": [
         {
-          "name": "Little Charlie & The Nightcats",
-          "url": "https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Santa Claus",
-      "url": "https://open.spotify.com/track/3lkLhmTRgijn96O9wWTWTZ"
+      "duration_ms": 231146,
+      "name": "Lonesome Christmas",
+      "url": "https://open.spotify.com/track/1yBXaVUr6fWW6d0dkqrdRG"
+    },
+    {
+      "added_at": "2022-10-07 00:30:00",
+      "album": {
+        "name": "Putumayo Presents Blues Christmas",
+        "url": "https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh"
+      },
+      "artists": [
+        {
+          "name": "Chuck Leavell",
+          "url": "https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Please Come Home For Christmas",
+      "url": "https://open.spotify.com/track/0OcoKrsmrFxA2P17Jw3xk2"
     },
     {
       "added_at": "2022-10-07 00:30:00",
@@ -579,6 +563,22 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
+        "name": "The Alligator Records Christmas Collection",
+        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
+      },
+      "artists": [
+        {
+          "name": "Little Charlie & The Nightcats",
+          "url": "https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Santa Claus",
+      "url": "https://open.spotify.com/track/3lkLhmTRgijn96O9wWTWTZ"
+    },
+    {
+      "added_at": "2022-10-07 00:30:00",
+      "album": {
         "name": "Blues for Christmas",
         "url": "https://open.spotify.com/album/4A7Siy7BMXiXQyzGBhR4Dc"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
-        "name": "Putumayo Presents Blues Christmas",
-        "url": "https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh"
-      },
-      "artists": [
-        {
-          "name": "Mel Brown",
-          "url": "https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ"
-        }
-      ],
-      "duration_ms": 305466,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/4p4z8a8I9ORaoFqhlEwUSY"
-    },
-    {
-      "added_at": "2022-10-07 00:30:00",
-      "album": {
         "name": "Alligator Records' Genuine Houserockin' Christmas",
         "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 216560,
       "name": "Christmas Train",
       "url": "https://open.spotify.com/track/2AMep7trysJeDAyfQ7E96T"
+    },
+    {
+      "added_at": "2022-10-07 00:30:00",
+      "album": {
+        "name": "Putumayo Presents Blues Christmas",
+        "url": "https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh"
+      },
+      "artists": [
+        {
+          "name": "Mel Brown",
+          "url": "https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ"
+        }
+      ],
+      "duration_ms": 305466,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/4p4z8a8I9ORaoFqhlEwUSY"
     },
     {
       "added_at": "2022-10-07 00:30:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
-        "name": "Death Might Be Your Santa Claus",
-        "url": "https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Santa",
-      "url": "https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg"
-    },
-    {
-      "added_at": "2022-10-07 00:30:00",
-      "album": {
         "name": "Alligator Records' Genuine Houserockin' Christmas",
         "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
-        "name": "The Alligator Records Christmas Collection",
-        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
+        "name": "Death Might Be Your Santa Claus",
+        "url": "https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH"
       },
       "artists": [
         {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
         }
       ],
-      "duration_ms": 203266,
-      "name": "Santa Claus Wants Some Lovin'",
-      "url": "https://open.spotify.com/track/4NIprN2UmZsfOazPKLsU0j"
+      "duration_ms": 225773,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg"
     },
     {
       "added_at": "2022-10-07 00:30:00",
@@ -771,18 +755,18 @@
     {
       "added_at": "2022-10-07 00:30:00",
       "album": {
-        "name": "Alligator Records' Genuine Houserockin' Christmas",
-        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
+        "name": "The Alligator Records Christmas Collection",
+        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
       },
       "artists": [
         {
-          "name": "Saffire-The Uppity Blues Women",
-          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
         }
       ],
-      "duration_ms": 208986,
-      "name": "Really Been Good This Year",
-      "url": "https://open.spotify.com/track/0vEVoUboMf7x6j2SEplQ8O"
+      "duration_ms": 203266,
+      "name": "Santa Claus Wants Some Lovin'",
+      "url": "https://open.spotify.com/track/4NIprN2UmZsfOazPKLsU0j"
     },
     {
       "added_at": "2022-10-07 00:30:00",
@@ -799,6 +783,22 @@
       "duration_ms": 183986,
       "name": "Christmas Time Blues",
       "url": "https://open.spotify.com/track/0bAEpMET7y6XlLqkm1eyrj"
+    },
+    {
+      "added_at": "2022-10-07 00:30:00",
+      "album": {
+        "name": "Alligator Records' Genuine Houserockin' Christmas",
+        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
+      },
+      "artists": [
+        {
+          "name": "Saffire-The Uppity Blues Women",
+          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
+        }
+      ],
+      "duration_ms": 208986,
+      "name": "Really Been Good This Year",
+      "url": "https://open.spotify.com/track/0vEVoUboMf7x6j2SEplQ8O"
     },
     {
       "added_at": "2022-10-07 00:30:00",

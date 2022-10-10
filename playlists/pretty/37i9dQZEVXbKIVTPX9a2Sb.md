@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKIVTPX9a2Sb.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,358 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,351 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

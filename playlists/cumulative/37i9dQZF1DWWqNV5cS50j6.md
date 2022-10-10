@@ -4,7 +4,7 @@
 
 > d4vd make anti pop.
 
-1,107 songs - 2 day 5 hr 47 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,108 songs - 2 day 5 hr 50 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -751,8 +751,9 @@
 | [Popeye](https://open.spotify.com/track/5srSyIpAvNZJKBVUlgxcCC) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/45JCuUJde6lC8kjgqZ8Fgp) | 2:54 | 2022-02-28 | 2022-04-10 |
 | [Popeye](https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/3xrOFa0RU14V1b9gIH1NQN) | 2:54 | 2021-07-17 |  |
 | [popstar \(with angelus\)](https://open.spotify.com/track/3Yb3Z1HRrMrBh886cayujG) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [popstar \(with angelus\)](https://open.spotify.com/album/7jgjzargChNK3HCW3A2SYk) | 2:13 | 2022-08-13 |  |
-| [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-02-25 |  |
+| [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-02-25 | 2022-10-10 |
 | [PORN ACTING\*](https://open.spotify.com/track/5BkazOzXKqpVE4RI7Dbxnw) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/6yUbpBVYQGs6Me7cRHBi91) | 2:52 | 2022-02-28 | 2022-07-29 |
+| [PORN ACTING\*](https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:52 | 2022-10-04 |  |
 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 | 2022-02-07 | 2022-05-10 |
 | [Pot Of Gold](https://open.spotify.com/track/625VzKuhHcZ2rz7igDtL6r) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Pot Of Gold](https://open.spotify.com/album/2uHZqj1Xzf7F9fCjwzoDPR) | 2:11 | 2021-09-21 | 2021-10-14 |
 | [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 | 2022-08-13 | 2022-10-05 |

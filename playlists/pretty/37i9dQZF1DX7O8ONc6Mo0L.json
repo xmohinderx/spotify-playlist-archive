@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 224253,
+  "num_followers": 224264,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyMDE2NSwwMDAwMDAwMGEyYzhjYjViMmY3M2Y4M2I1M2M3MWJkM2MwNDBiYzZj",
+  "snapshot_id": "MTY2NTEyMDE2NSwwMDAwMDAwMDllZmNkYzY0MTYyZTA1MDRjOTUzMmE2ZjZiNjM2ZmFj",
   "tracks": [
     {
       "added_at": "2022-10-07 05:22:45",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-10-07 05:22:45",
       "album": {
+        "name": "A Dois",
+        "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "A Dois",
+      "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
+    },
+    {
+      "added_at": "2022-10-07 05:22:45",
+      "album": {
         "name": "Me Enche de Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
-    },
-    {
-      "added_at": "2022-10-07 05:22:45",
-      "album": {
-        "name": "A Dois",
-        "url": "https://open.spotify.com/album/0cEbSXoFpciH0qSdL4SU1T"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "A Dois",
-      "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
     },
     {
       "added_at": "2022-10-07 05:22:45",

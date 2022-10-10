@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 417258,
+  "num_followers": 417282,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODU0NiwwMDAwMDAwMDE5NjI1MGMyN2U0MzdiOWVhM2E5NGJlNTZkNzNmOTVl",
+  "snapshot_id": "MTY2NTExODU0NiwwMDAwMDAwMDhlZWExY2QyOTMwMTI2NWY2Zjc3NjEwMTY3MDhhNjA1",
   "tracks": [
     {
       "added_at": "2022-10-05 05:52:39",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
-      "added_at": "2022-10-09 20:11:42",
+      "added_at": "2022-10-10 01:48:48",
       "album": {
         "name": "how can i do",
         "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-10-05 05:52:39",
       "album": {
-        "name": "Sun And Moon",
-        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 257631,
-      "name": "It's You (Feat. ZICO)",
-      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
-    },
-    {
-      "added_at": "2022-10-05 05:52:39",
-      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 219106,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+    },
+    {
+      "added_at": "2022-10-05 05:52:39",
+      "album": {
+        "name": "Sun And Moon",
+        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 257631,
+      "name": "It's You (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
     },
     {
       "added_at": "2022-10-05 05:52:39",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-10-05 05:52:39",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
-    },
-    {
-      "added_at": "2022-10-05 05:52:39",
-      "album": {
         "name": "It's Raining",
         "url": "https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 214326,
       "name": "It's Raining",
       "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
+    },
+    {
+      "added_at": "2022-10-05 05:52:39",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
     },
     {
       "added_at": "2022-10-05 05:52:39",
@@ -775,6 +775,26 @@
     {
       "added_at": "2022-10-05 05:52:39",
       "album": {
+        "name": "ordinary.",
+        "url": "https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 217510,
+      "name": "Winter Blossom (feat. SAAY) (Prod. by 0channel)",
+      "url": "https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI"
+    },
+    {
+      "added_at": "2022-10-05 05:52:39",
+      "album": {
         "name": "THINKING Part.2",
         "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 177133,
       "name": "Knock Knock (Feat. pH-1, Moon Sujin)",
       "url": "https://open.spotify.com/track/1eX3uqAJ1gXZPOR0aXQD4G"
-    },
-    {
-      "added_at": "2022-10-05 05:52:39",
-      "album": {
-        "name": "ordinary.",
-        "url": "https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k"
-      },
-      "artists": [
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 217510,
-      "name": "Winter Blossom (feat. SAAY) (Prod. by 0channel)",
-      "url": "https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI"
     },
     {
       "added_at": "2022-10-05 05:52:39",
@@ -931,22 +931,22 @@
     {
       "added_at": "2022-10-05 05:52:39",
       "album": {
-        "name": "Evening",
-        "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
+        "name": "doodle",
+        "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
       },
       "artists": [
         {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
         },
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Evening (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
+      "duration_ms": 187480,
+      "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
+      "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
     }
   ],
   "unique_name": "Dalkom Cafe",

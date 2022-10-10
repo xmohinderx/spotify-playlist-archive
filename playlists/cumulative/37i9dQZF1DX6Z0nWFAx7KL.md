@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-96 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
+97 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [No One Hurries Time](https://open.spotify.com/track/46njaMNjHhIipCp5O2OJop) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Andrea Hamilton](https://open.spotify.com/artist/6KHaRRRqsIRnkLcApkyELs) | [No One Hurries Time](https://open.spotify.com/album/2hIhs4onnfovulkkODKLaP) | 2:36 | 2022-09-15 |  |
 | [Ocean Drive](https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm) | [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ), [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Ocean Drive](https://open.spotify.com/album/3vIjOeb2pMV5FfpTk3tOYf) | 2:33 | 2022-09-15 |  |
 | [On My Mind](https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz) | [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45) | [On My Mind](https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS) | 2:35 | 2022-09-15 |  |
+| [Out Of Love](https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Out Of Love](https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW) | 2:35 | 2022-09-29 |  |
 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-09-15 | 2022-09-30 |
 | [Put Your Lips On Mine](https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Put Your Lips On Mine](https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8) | 2:44 | 2022-09-15 |  |
 | [Rebirth](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 4:44 | 2022-09-15 |  |
@@ -101,7 +102,7 @@
 | [Unrequited](https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Unrequited](https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P) | 2:51 | 2022-09-29 |  |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2022-09-15 |  |
 | [Who's Holding You](https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Who's Holding You](https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96) | 2:41 | 2022-09-15 |  |
-| [Wicked Game](https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ), [Electric Pineapple](https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK) | [Wicked Game](https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH) | 2:54 | 2022-09-29 |  |
+| [Wicked Game](https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ), [Electric Pineapple](https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK) | [Wicked Game](https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH) | 2:54 | 2022-09-29 | 2022-10-10 |
 | [Winter's Going](https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O) | [Flantier](https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96) | [Winter's Going](https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3) | 3:20 | 2022-09-15 |  |
 | [With Me](https://open.spotify.com/track/59oKLkR9ycVaCXtuTM16mp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [With Me](https://open.spotify.com/album/4PHgNInOiBBOVFL0qNiwn2) | 3:02 | 2022-09-15 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Jose Manuel en portada. ",
-  "num_followers": 701858,
+  "num_followers": 701889,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDQyZWMxMmM1MDk5ODQwZTgwOWQyZDEwODI1NzM1Njdm",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDA4NTYzZDI4MTgzYmFlN2IxZmVjOWQyYTdkMDRjMzUz",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Alma Vac\u00eda",
         "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 214148,
       "name": "Est\u00e1 Da\u00f1ada",
       "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Un Album Sencillo",
-        "url": "https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 172954,
-      "name": "Sencillo Soy",
-      "url": "https://open.spotify.com/track/2cVqu4Y1kveK3KuL1aXgNj"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Te Deseo Lo Mejor",
         "url": "https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 140235,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Un Album Sencillo",
+        "url": "https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 172954,
+      "name": "Sencillo Soy",
+      "url": "https://open.spotify.com/track/2cVqu4Y1kveK3KuL1aXgNj"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Mi Todo",
-        "url": "https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 241704,
-      "name": "Mi Todo",
-      "url": "https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Amor y Dolor (En Vivo)",
         "url": "https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 194626,
       "name": "Te Encontr\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Mi Todo",
+        "url": "https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 241704,
+      "name": "Mi Todo",
+      "url": "https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Lo Que Tengo",
-        "url": "https://open.spotify.com/album/7FwxdmcTfkZkZOGRJcgF9g"
-      },
-      "artists": [
-        {
-          "name": "Los De La Zona",
-          "url": "https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Lo Que Tengo",
-      "url": "https://open.spotify.com/track/070GBOfqp5VnGB6ZRMHQro"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "As\u00ed Fue",
         "url": "https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 238071,
       "name": "El Mal Camino",
       "url": "https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Lo Que Tengo",
+        "url": "https://open.spotify.com/album/7FwxdmcTfkZkZOGRJcgF9g"
+      },
+      "artists": [
+        {
+          "name": "Los De La Zona",
+          "url": "https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Lo Que Tengo",
+      "url": "https://open.spotify.com/track/070GBOfqp5VnGB6ZRMHQro"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "A Cada Rato (En Vivo)",
+        "url": "https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 185983,
+      "name": "A Cada Rato (En Vivo)",
+      "url": "https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Rayas En La Cara",
         "url": "https://open.spotify.com/album/50ZfxOvxBmSABVkVLYDSDv"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 174080,
       "name": "Rayas En La Cara",
       "url": "https://open.spotify.com/track/3WxrfhDdNCHEy8ofNFSqsf"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "A Cada Rato (En Vivo)",
-        "url": "https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 185983,
-      "name": "A Cada Rato (En Vivo)",
-      "url": "https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks"
     },
     {
       "added_at": "2022-09-23 04:00:00",

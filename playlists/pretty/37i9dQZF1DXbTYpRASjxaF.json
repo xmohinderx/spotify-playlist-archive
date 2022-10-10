@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Orochi",
-  "num_followers": 79302,
+  "num_followers": 79322,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMjc2NiwwMDAwMDAwMDNmYjFhYzU4NmU2NzM3ZjEzNTZiNmY2MmFkZTQ0ZDI5",
+  "snapshot_id": "MTY2NTExMjc2NiwwMDAwMDAwMDQ2ZTdmNjdhM2M4MzMwMjIxZTU1YWM5ZTMzODk2ZjVm",
   "tracks": [
     {
       "added_at": "2022-10-07 03:19:26",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-07 03:19:26",
       "album": {
-        "name": "Quer Voar",
-        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Quer Voar",
-      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
-    },
-    {
-      "added_at": "2022-10-07 03:19:26",
-      "album": {
         "name": "Viz\u00e3o de Cria 2",
         "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 306141,
       "name": "Viz\u00e3o de Cria 2",
       "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
+    },
+    {
+      "added_at": "2022-10-07 03:19:26",
+      "album": {
+        "name": "Quer Voar",
+        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Quer Voar",
+      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
     },
     {
       "added_at": "2022-10-07 03:19:26",
@@ -383,26 +383,22 @@
     {
       "added_at": "2022-10-07 03:19:26",
       "album": {
-        "name": "Lado Nerd",
-        "url": "https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N"
+        "name": "N\u00e3o Nasceu pra Namorar",
+        "url": "https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ"
       },
       "artists": [
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
         }
       ],
-      "duration_ms": 105600,
-      "name": "Lado Nerd",
-      "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
+      "duration_ms": 140307,
+      "name": "N\u00e3o Nasceu pra Namorar",
+      "url": "https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo"
     },
     {
       "added_at": "2022-10-07 03:19:26",
@@ -427,22 +423,26 @@
     {
       "added_at": "2022-10-07 03:19:26",
       "album": {
-        "name": "N\u00e3o Nasceu pra Namorar",
-        "url": "https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ"
+        "name": "Lado Nerd",
+        "url": "https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N"
       },
       "artists": [
         {
-          "name": "MC Zaquin",
-          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
-      "duration_ms": 140307,
-      "name": "N\u00e3o Nasceu pra Namorar",
-      "url": "https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo"
+      "duration_ms": 105600,
+      "name": "Lado Nerd",
+      "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
     },
     {
       "added_at": "2022-10-07 03:19:26",
@@ -1227,26 +1227,30 @@
     {
       "added_at": "2022-10-07 03:19:26",
       "album": {
-        "name": "Longe dos Falsos",
-        "url": "https://open.spotify.com/album/46PJMPLnYVB5cdFnep1AWf"
+        "name": "VAI POR MIM",
+        "url": "https://open.spotify.com/album/1KcKl235anOEDbD1cIeTbl"
       },
       "artists": [
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
         },
         {
-          "name": "Ig\u00e3o",
-          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         }
       ],
-      "duration_ms": 199691,
-      "name": "Longe dos Falsos",
-      "url": "https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH"
+      "duration_ms": 147645,
+      "name": "VAI POR MIM",
+      "url": "https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY"
     },
     {
       "added_at": "2022-10-07 03:19:26",
@@ -1267,6 +1271,30 @@
       "duration_ms": 137000,
       "name": "Sorrisin de Puto",
       "url": "https://open.spotify.com/track/40k60zCk96BsZNf2IbN0mY"
+    },
+    {
+      "added_at": "2022-10-07 03:19:26",
+      "album": {
+        "name": "Longe dos Falsos",
+        "url": "https://open.spotify.com/album/46PJMPLnYVB5cdFnep1AWf"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Ig\u00e3o",
+          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        }
+      ],
+      "duration_ms": 199691,
+      "name": "Longe dos Falsos",
+      "url": "https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH"
     },
     {
       "added_at": "2022-10-07 03:19:26",
@@ -1351,34 +1379,6 @@
       "duration_ms": 432000,
       "name": "Set Dj Br da Tijuca",
       "url": "https://open.spotify.com/track/7gjiDfXZTBIrh4VNvYE4rh"
-    },
-    {
-      "added_at": "2022-10-07 03:19:26",
-      "album": {
-        "name": "VAI POR MIM",
-        "url": "https://open.spotify.com/album/1KcKl235anOEDbD1cIeTbl"
-      },
-      "artists": [
-        {
-          "name": "GDM",
-          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 147645,
-      "name": "VAI POR MIM",
-      "url": "https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY"
     },
     {
       "added_at": "2022-10-07 03:19:26",

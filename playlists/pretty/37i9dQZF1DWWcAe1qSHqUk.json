@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 52840,
+  "num_followers": 52838,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3Njk1MiwwMDAwMDAwMGJjMTk2N2QxMjdiOGJhYTg4ZGI2Yjg1MDRlZDc5ZTQz",
+  "snapshot_id": "MTY2NDE3Njk1MiwwMDAwMDAwMDZjM2UzNDU3MDI0YjAwYzlhNmRmNTE1MGJkZjBlODM4",
   "tracks": [
     {
       "added_at": "2022-09-26 07:22:32",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 309693,
-      "name": "What A Difference A Day Made",
-      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 233544,
       "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 309693,
+      "name": "What A Difference A Day Made",
+      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -175,26 +175,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Skylark (Std. Version)",
-        "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        },
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "When I Fall in Love (feat. Chris Botti)",
-      "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 200586,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Skylark (Std. Version)",
+        "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        },
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "When I Fall in Love (feat. Chris Botti)",
+      "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 198426,
-      "name": "You're Mine, You!",
-      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "Outro Lugar",
         "url": "https://open.spotify.com/album/53WnDiMAKdL0Lwfz6ckxvx"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 201375,
       "name": "Outro Lugar",
       "url": "https://open.spotify.com/track/11NkxJtowfjaJksJbjYAS0"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 198426,
+      "name": "You're Mine, You!",
+      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 330677,
-      "name": "It Was You",
-      "url": "https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "With a Twist",
         "url": "https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 336373,
       "name": "Dance Me to the End of Love",
       "url": "https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 330677,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Tuck + Cover",
-        "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
-      },
-      "artists": [
-        {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
-        }
-      ],
-      "duration_ms": 208767,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "12th Avenue",
         "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 277065,
       "name": "12th Avenue",
       "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Tuck + Cover",
+        "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
+      },
+      "artists": [
+        {
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
+        }
+      ],
+      "duration_ms": 208767,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
+        "name": "Simply Natural",
+        "url": "https://open.spotify.com/album/0JM0rcnOY8TkbubNbhlBVL"
+      },
+      "artists": [
+        {
+          "name": "Carla Cook",
+          "url": "https://open.spotify.com/artist/0wNmzSLHbGbaWfIOydm1eU"
+        }
+      ],
+      "duration_ms": 315200,
+      "name": "Summer (Estat\u00e9)",
+      "url": "https://open.spotify.com/track/5CZsV7NdDku7Uec9iIwylg"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
         "name": "The Beatles Nova",
         "url": "https://open.spotify.com/album/50DPfVGnhbQdLMy5tKQEAR"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 183226,
       "name": "When I'm 64",
       "url": "https://open.spotify.com/track/3J5HOK2P66j1S7pjMV99w8"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
-        "name": "Simply Natural",
-        "url": "https://open.spotify.com/album/0JM0rcnOY8TkbubNbhlBVL"
-      },
-      "artists": [
-        {
-          "name": "Carla Cook",
-          "url": "https://open.spotify.com/artist/0wNmzSLHbGbaWfIOydm1eU"
-        }
-      ],
-      "duration_ms": 315200,
-      "name": "Summer (Estat\u00e9)",
-      "url": "https://open.spotify.com/track/5CZsV7NdDku7Uec9iIwylg"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "Kandace Springs",
-        "url": "https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 196844,
-      "name": "Forbidden Fruit",
-      "url": "https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr"
-    },
-    {
-      "added_at": "2022-09-26 07:22:32",
-      "album": {
         "name": "Make this moment",
         "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 314826,
       "name": "Allways on my mind",
       "url": "https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW"
+    },
+    {
+      "added_at": "2022-09-26 07:22:32",
+      "album": {
+        "name": "Kandace Springs",
+        "url": "https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 196844,
+      "name": "Forbidden Fruit",
+      "url": "https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr"
     },
     {
       "added_at": "2022-09-26 07:22:32",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2022-09-26 07:22:32",
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/3BeSTlo1dAa4bdPqUaXATy"
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
       "artists": [
         {
-          "name": "Jamie Lancaster",
-          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
-        },
-        {
-          "name": "Lizette",
-          "url": "https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 157786,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/3xvCyI2J1nSvl85kOmPcK6"
+      "duration_ms": 162733,
+      "name": "The Touch Of Your Lips",
+      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

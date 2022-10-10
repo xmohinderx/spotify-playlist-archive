@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,050 songs - 4 day 22 hr 8 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,051 songs - 4 day 22 hr 10 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,7 +645,7 @@
 | [Deep Blue](https://open.spotify.com/track/2aC3o6HJIy281CZMKjzxqI) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Joha](https://open.spotify.com/artist/2T1sSXJwmNHFMA3Ytp24PF) | [Deep Blue](https://open.spotify.com/album/7MDGm85TgjIyM1aC6jWL2C) | 3:07 | 2021-09-24 | 2022-01-14 |
 | [Deep Blue](https://open.spotify.com/track/302BJCCUiipYnTYwJcbZID) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Semana / Deep Blue](https://open.spotify.com/album/4gn3EDwvCo89NblFiTQj31) | 1:46 | 2021-03-14 | 2021-06-11 |
 | [Deep Blue](https://open.spotify.com/track/77l6NKJEMpm3I2smPwpw1a) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Deep Blue](https://open.spotify.com/album/1yEPFzmgOLSShR2OhpB4w2) | 2:20 | 2021-03-19 | 2021-05-14 |
-| [Deep Down](https://open.spotify.com/track/59TBfOXD5YhMkWdX82QhBi) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Deep Down](https://open.spotify.com/album/7KUQNdk7kQeijn6IAbPEzs) | 1:36 | 2022-02-17 |  |
+| [Deep Down](https://open.spotify.com/track/59TBfOXD5YhMkWdX82QhBi) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Deep Down](https://open.spotify.com/album/7KUQNdk7kQeijn6IAbPEzs) | 1:36 | 2022-02-17 | 2022-10-10 |
 | [Deepdreams](https://open.spotify.com/track/1FssCeCDq5moq2aNt5BdZM) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k) | [Deepdreams](https://open.spotify.com/album/7gEuY8wmahNebfSqQv1LI4) | 2:21 | 2020-06-16 | 2020-08-24 |
 | [Delicious](https://open.spotify.com/track/2h9Mvp0AsbMkO4ucUQ1D4m) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Delicious](https://open.spotify.com/album/7dgYaAbNLrKtzIAuzzROJA) | 2:04 | 2022-05-05 | 2022-08-12 |
 | [Delivery](https://open.spotify.com/track/68yTtuPJ7nuADkvdVPzV30) | [ZeDe](https://open.spotify.com/artist/0xtxiEdr8VEnERqcadfVNK), [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Delivery](https://open.spotify.com/album/0DL5h6XREfSe1ox2NMVvxq) | 2:27 | 2021-05-14 | 2022-05-13 |
@@ -2546,6 +2546,7 @@
 | [sundaythefirstofaugust](https://open.spotify.com/track/2X7P7uAfV5MLqz4tXUttXO) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [sundaythefirstofaugust](https://open.spotify.com/album/3BzM89d666UZerVmu2gwyG) | 2:37 | 2022-04-28 |  |
 | [sundown](https://open.spotify.com/track/15LqhqSSDfZmIylBdlxxVK) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [sundown / whisper](https://open.spotify.com/album/4rrjKhuPxr11fsXNkmJIr7) | 1:46 | 2019-09-06 | 2020-03-04 |
 | [Sundowner](https://open.spotify.com/track/3beKlXiUT99l2To0XowN6H) | [Madara](https://open.spotify.com/artist/1CAUMxtWfXsgs5N4MJZ6Vg) | [Space Blunts](https://open.spotify.com/album/4qR4sB7Kh4wa0zgNvSWm4x) | 1:37 | 2020-02-11 | 2020-05-01 |
+| [Sunflakes](https://open.spotify.com/track/4RMcbb9ITtAESFO6Sg0DLo) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Sunflakes](https://open.spotify.com/album/2WzoWxIEus3RpJMslk37CG) | 2:14 | 2022-10-06 |  |
 | [Sunflower](https://open.spotify.com/track/7ueIVxEgrDYvlt0slBFchE) | [Edward Sizzerhand](https://open.spotify.com/artist/3oRp9dTi5uu0MDYVnTKWeh) | [A Taste Of Honey](https://open.spotify.com/album/56re6gojNqa30geE312Gpg) | 2:21 | 2019-11-29 | 2020-03-25 |
 | [Sunflower Dance](https://open.spotify.com/track/06bGEmVqy2qwKINAuTWg7H) | [Trog'low](https://open.spotify.com/artist/10z5adFMMTwTKn9unto6QB) | [Jazz Joints](https://open.spotify.com/album/0AJ8Fe0E0L5R55yF97ph5W) | 2:26 | 2019-05-26\* | 2019-06-15 |
 | [Sunflowers](https://open.spotify.com/track/0CjjvJyeefX4M4Alm36agK) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Sunflowers](https://open.spotify.com/album/3ByoZJmjiiRpkkAPdssXm3) | 1:51 | 2021-10-06 | 2021-10-29 |

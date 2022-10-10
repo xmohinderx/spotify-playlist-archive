@@ -1,15 +1,15 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 8742,
+  "num_followers": 8761,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMDhmY2ZkMWU1YzgyMGZmYjUzMmM2NDUwZDljOWYwMjgx",
+  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMGIzZDk1NTkzMDVkODIwMjQ1MzQ0OTQzNjA5YTkyNTcw",
   "tracks": [
     {
-      "added_at": "2022-10-09 19:48:43",
+      "added_at": "2022-10-10 01:23:07",
       "album": {
         "name": "28 Reasons - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
@@ -631,26 +631,6 @@
     {
       "added_at": "2022-10-04 14:56:03",
       "album": {
-        "name": "bag on you",
-        "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        },
-        {
-          "name": "VivaOla",
-          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "bag on you",
-      "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
-    },
-    {
-      "added_at": "2022-10-04 14:56:03",
-      "album": {
         "name": "Every letter I sent you.",
         "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 253411,
       "name": "Point (feat. Loopy)",
       "url": "https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F"
+    },
+    {
+      "added_at": "2022-10-04 14:56:03",
+      "album": {
+        "name": "bag on you",
+        "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "bag on you",
+      "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
     },
     {
       "added_at": "2022-10-04 14:56:03",

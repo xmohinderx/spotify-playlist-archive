@@ -1,12 +1,12 @@
 {
   "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Oxlade",
-  "num_followers": 166027,
+  "num_followers": 166064,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNDI5MCwwMDAwMDAwMDcwZDRjYTgzMzNkNjY3Mzg0OTNiYWJjMDdkMjAzYTcw",
+  "snapshot_id": "MTY2MzkxNDI5MCwwMDAwMDAwMDg5MGNhNjFhMzA5M2FjNGE4Yjg0MWE5MTBhNjhjMWY0",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
-      "added_at": "2022-04-28 23:00:00",
-      "album": {
-        "name": "kolomental",
-        "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "kolomental",
-      "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
-    },
-    {
       "added_at": "2022-01-21 06:44:52",
       "album": {
         "name": "High",
@@ -459,6 +443,22 @@
       "duration_ms": 193758,
       "name": "High",
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
+    },
+    {
+      "added_at": "2022-04-28 23:00:00",
+      "album": {
+        "name": "kolomental",
+        "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "kolomental",
+      "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -529,32 +529,20 @@
       "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
+      "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 305941,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+      "duration_ms": 150280,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -589,20 +577,32 @@
       "url": "https://open.spotify.com/track/2S5dAgNweHQogi41SuAdkf"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
+      "added_at": "2022-06-16 23:00:00",
       "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
+        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
         }
       ],
-      "duration_ms": 150280,
-      "name": "5 Star",
-      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+      "duration_ms": 305941,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
       "added_at": "2022-04-07 23:00:00",
@@ -635,6 +635,26 @@
       "duration_ms": 188411,
       "name": "SOMETHING",
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+    },
+    {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -671,26 +691,6 @@
       "duration_ms": 134546,
       "name": "EX BOYFRIEND",
       "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2022-05-19 23:00:00",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg"
     },
     {
-      "added_at": "2022-06-08 08:16:13",
-      "album": {
-        "name": "ASE - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "ASE - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
-    },
-    {
       "added_at": "2022-01-21 06:44:52",
       "album": {
         "name": "Door",
@@ -1075,6 +1059,22 @@
       "duration_ms": 152042,
       "name": "Door",
       "url": "https://open.spotify.com/track/4ahI2IdM0Z1e7dLopcNJQi"
+    },
+    {
+      "added_at": "2022-06-08 08:16:13",
+      "album": {
+        "name": "ASE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "ASE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/2Wa67iymOfKbetMWP2uYiV"
     },
     {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Ayra Starr",
+        "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm"
+    },
+    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Last Name",
@@ -1187,22 +1203,6 @@
       "duration_ms": 197052,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/0ed1N5H2xW64WEmRjF2ONv"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
-        "name": "Ayra Starr",
-        "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -1369,6 +1369,22 @@
       "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Juju pt. 2 - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI"
+      },
+      "artists": [
+        {
+          "name": "Bryann",
+          "url": "https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19"
+        }
+      ],
+      "duration_ms": 196210,
+      "name": "Juju pt. 2 - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
+    },
+    {
       "added_at": "2022-02-10 23:01:00",
       "album": {
         "name": "Options",
@@ -1387,22 +1403,6 @@
       "duration_ms": 175200,
       "name": "Options",
       "url": "https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Juju pt. 2 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI"
-      },
-      "artists": [
-        {
-          "name": "Bryann",
-          "url": "https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19"
-        }
-      ],
-      "duration_ms": 196210,
-      "name": "Juju pt. 2 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -1437,20 +1437,24 @@
       "url": "https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4"
     },
     {
-      "added_at": "2022-03-03 23:02:00",
+      "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/06vQ9ZXJ9579UjivbiOSmU"
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V"
       },
       "artists": [
         {
-          "name": "Kkeda",
-          "url": "https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         }
       ],
-      "duration_ms": 201818,
-      "name": "Blue Jeans",
-      "url": "https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14"
+      "duration_ms": 208163,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ"
     }
   ],
   "unique_name": "Ginger Me",

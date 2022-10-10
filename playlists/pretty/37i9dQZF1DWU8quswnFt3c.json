@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkwMjgwMCwwMDAwMDAwMGU0MWRlNzAxMDY5NTNhMWZkNmNmNmE3ODVhYTZhMzY2",
+  "snapshot_id": "MTY2NDkwMjgwMCwwMDAwMDAwMDhiNjI1YWU2OTEwMGQ5YzA0OGM5OGI5MzlkY2VkZTdi",
   "tracks": [
     {
       "added_at": "2022-10-04 17:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "ONLY ONE",
-        "url": "https://open.spotify.com/album/6wDeULI9weCchekIbT3FKO"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/3eOdplB2tlEsEfWd8WKf0e"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
         "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 189000,
       "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
+        "name": "ONLY ONE",
+        "url": "https://open.spotify.com/album/6wDeULI9weCchekIbT3FKO"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/3eOdplB2tlEsEfWd8WKf0e"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
+        "name": "Rari",
+        "url": "https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 168190,
+      "name": "Rari",
+      "url": "https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
         "name": "Mood Hoover",
         "url": "https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "Rari",
-        "url": "https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 168190,
-      "name": "Rari",
-      "url": "https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
         "name": "Obvi",
         "url": "https://open.spotify.com/album/1up43JxXIQ3MbRYWfJ6piU"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
-        "name": "Guilla",
-        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Guilla",
-      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
         "name": "Jammin' Tonight",
         "url": "https://open.spotify.com/album/2JuAzf0eakBX1l47SyJbu7"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 247973,
       "name": "Jammin' Tonight",
       "url": "https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
+        "name": "Guilla",
+        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "Guilla",
+      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -779,6 +779,26 @@
       "duration_ms": 172386,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
+        "name": "HIDE AND SEEK",
+        "url": "https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY"
+      },
+      "artists": [
+        {
+          "name": "ZUZA",
+          "url": "https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ"
+        },
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "duration_ms": 182622,
+      "name": "HIDE AND SEEK",
+      "url": "https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -827,26 +847,6 @@
       "duration_ms": 175539,
       "name": "Nereye G\u00f6msem?",
       "url": "https://open.spotify.com/track/5LnoItjgkP1jQB1BT3xmMc"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
-        "name": "HIDE AND SEEK",
-        "url": "https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY"
-      },
-      "artists": [
-        {
-          "name": "ZUZA",
-          "url": "https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ"
-        },
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
-        }
-      ],
-      "duration_ms": 182622,
-      "name": "HIDE AND SEEK",
-      "url": "https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I"
     },
     {
       "added_at": "2022-10-04 17:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-10-04 17:00:00",
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs"
+      },
+      "artists": [
+        {
+          "name": "ALLY",
+          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr"
+    },
+    {
+      "added_at": "2022-10-04 17:00:00",
+      "album": {
         "name": "Tratado de Versalles",
         "url": "https://open.spotify.com/album/2uaITMxL3Kk8jj64TyXF8I"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 192000,
       "name": "This Is Our Time",
       "url": "https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol"
-    },
-    {
-      "added_at": "2022-10-04 17:00:00",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs"
-      },
-      "artists": [
-        {
-          "name": "ALLY",
-          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr"
     },
     {
       "added_at": "2022-10-04 17:00:00",

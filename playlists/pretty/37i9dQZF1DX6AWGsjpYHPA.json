@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 86675,
+  "num_followers": 86693,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDFiMTk0MjQ4YWJjNDZhY2I4OGNmMzYzMGIxY2M1ZGU2",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMGJjMTU0MjQ0NTlkYmZhYzQwMmQ2NzZiZDhhOTlmZDZl",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Little Dragon",
-        "url": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 273546,
-      "name": "Constant Surprises",
-      "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Imagineering",
         "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 274973,
       "name": "Imagineering",
       "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Little Dragon",
+        "url": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 273546,
+      "name": "Constant Surprises",
+      "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/2gO1JF3heDQl9Mx0HOvZwY"
-      },
-      "artists": [
-        {
-          "name": "Fantasy 15",
-          "url": "https://open.spotify.com/artist/3ftdxnGZbwy4XpWZTKRdEH"
-        }
-      ],
-      "duration_ms": 155634,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1xQXbyDevs4LcPkOCaTvf5"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Space Is Only Noise",
         "url": "https://open.spotify.com/album/0tUJcqDuXHNkaPKLN0lQhT"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 205785,
       "name": "And Groove - Edit",
       "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/2gO1JF3heDQl9Mx0HOvZwY"
+      },
+      "artists": [
+        {
+          "name": "Fantasy 15",
+          "url": "https://open.spotify.com/artist/3ftdxnGZbwy4XpWZTKRdEH"
+        }
+      ],
+      "duration_ms": 155634,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1xQXbyDevs4LcPkOCaTvf5"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Nterini - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
-      },
-      "artists": [
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 231923,
-      "name": "Nterini - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
         "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 214893,
       "name": "Do What You Gotta Do",
       "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Nterini - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 231923,
+      "name": "Nterini - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Jazz Vol. 1",
+        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 397477,
+      "name": "Jazz Vol. 1",
+      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 298713,
       "name": "Water",
       "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Jazz Vol. 1",
-        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 397477,
-      "name": "Jazz Vol. 1",
-      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
     }
   ],
   "unique_name": "Turntable",

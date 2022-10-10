@@ -1,12 +1,12 @@
 {
   "description": "El t\u00edtulo lo dice todo! Work it out with the OG's of Reggaeton!",
-  "num_followers": 1601817,
+  "num_followers": 1601810,
   "original_name": "Perreo Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1NTc5OCwwMDAwMDAwMDAxYjUyN2I3M2Y1YWQ2NTQwODQwNGFiZWZhYjU5MjZm",
+  "snapshot_id": "MTY1ODg1NTc5OCwwMDAwMDAwMDU4N2M3NTA2NjA5NWI5YTY0ODUxZWExZmFkMDNiN2Q3",
   "tracks": [
     {
       "added_at": "2022-07-26 17:16:38",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 192600,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -159,26 +159,18 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "Adicto (with Anuel AA & Ozuna)",
-        "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
+        "name": "Reggaeton Rulers: Los Que Ponen",
+        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 270740,
-      "name": "Adicto (with Anuel AA & Ozuna)",
-      "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
+      "duration_ms": 182186,
+      "name": "Sensacion Del Bloque",
+      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -203,18 +195,26 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "Reggaeton Rulers: Los Que Ponen",
-        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
+        "name": "Adicto (with Anuel AA & Ozuna)",
+        "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
       },
       "artists": [
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Sensacion Del Bloque",
-      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
+      "duration_ms": 270740,
+      "name": "Adicto (with Anuel AA & Ozuna)",
+      "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "Frikitona - Single",
-        "url": "https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 183182,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
         "name": "Wisin Y Yandel Presentan: Los Vaqueros",
         "url": "https://open.spotify.com/album/5gHKtewt6CtuGLiAj2m3XC"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 186373,
       "name": "Quizas",
       "url": "https://open.spotify.com/track/1jj80muEnrqByfH2omBOcZ"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
+        "name": "Frikitona - Single",
+        "url": "https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 183182,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
+        "name": "Season Finale",
+        "url": "https://open.spotify.com/album/6XbbtZmVsxiw6PTpe19dQo"
+      },
+      "artists": [
+        {
+          "name": "Hector & Tito",
+          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Baila Morena - Live",
+      "url": "https://open.spotify.com/track/6GXtIudxkU3OHFOmd0o613"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
         "name": "It's My Time",
         "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 188320,
       "name": "Sol, Playa Y Arena",
       "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 123253,
-      "name": "Perreito",
-      "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "Duro y Suave",
-        "url": "https://open.spotify.com/album/7as9B0RBSX3cxUIs1MlZ4V"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
       },
       "artists": [
         {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 207720,
-      "name": "Duro y Suave",
-      "url": "https://open.spotify.com/track/31M5m42C3EGlbydf9XB5to"
+      "duration_ms": 123253,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "Season Finale",
-        "url": "https://open.spotify.com/album/6XbbtZmVsxiw6PTpe19dQo"
+        "name": "Duro y Suave",
+        "url": "https://open.spotify.com/album/7as9B0RBSX3cxUIs1MlZ4V"
       },
       "artists": [
         {
-          "name": "Hector & Tito",
-          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Baila Morena - Live",
-      "url": "https://open.spotify.com/track/6GXtIudxkU3OHFOmd0o613"
+      "duration_ms": 207720,
+      "name": "Duro y Suave",
+      "url": "https://open.spotify.com/track/31M5m42C3EGlbydf9XB5to"
     },
     {
       "added_at": "2022-07-26 17:16:38",

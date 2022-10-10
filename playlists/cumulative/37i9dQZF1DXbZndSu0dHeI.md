@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-334 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+335 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [honey](https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:14 | 2022-03-19 |  |
 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 | 2021-11-12 |  |
 | [Houdini](https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Houdini](https://open.spotify.com/album/09amDFagdn2HQ5jpfo1dr4) | 3:16 | 2021-11-12 | 2022-07-29 |
-| [How Beautiful Life Can Be \- Single Version](https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z) | 2:30 | 2021-11-12 |  |
+| [How Beautiful Life Can Be \- Single Version](https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z) | 2:30 | 2021-11-12 | 2022-10-10 |
 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 | 2021-11-12 | 2022-07-27 |
 | [Hula](https://open.spotify.com/track/5SePTXjCyk17d3VA70ISg7) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [Hula](https://open.spotify.com/album/7zA63TCOzWnJpn4V8GzPpQ) | 3:56 | 2022-03-19 | 2022-04-16 |
 | [Hypochondriac](https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hypochondriac](https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK) | 3:12 | 2022-06-22 | 2022-08-06 |
@@ -230,6 +230,7 @@
 | [Paris](https://open.spotify.com/track/2ERKod7SlWxs93wIK3QeUQ) | [Saint Saviour](https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy) | [Paris](https://open.spotify.com/album/4d5DOcNGBexFH0P3prrJgY) | 3:23 | 2021-11-12 | 2022-07-14 |
 | [Peaches](https://open.spotify.com/track/7BNHwtTtO5JiBYhs8FtRqJ) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Peaches](https://open.spotify.com/album/1a6W2sBTKLRYUi3Z7hiNgp) | 3:56 | 2021-11-12 | 2022-07-29 |
 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-08-05 | 2022-10-09 |
+| [Pharmacist](https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:04 | 2022-08-05 |  |
 | [Picture of You](https://open.spotify.com/track/2vdI1NcClTNqaH1E8mEvgn) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Picture of You](https://open.spotify.com/album/396mqjz4yrShxMmGdT12S6) | 4:03 | 2021-11-12 | 2022-07-20 |
 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 | 2021-11-12 | 2022-06-20 |
 | [Pink Pools](https://open.spotify.com/track/2RR5kSUsSzde2ybCa2VOhP) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Pink Pools](https://open.spotify.com/album/3hwL7txBctOFSiWmIaOofH) | 3:18 | 2021-11-12 | 2022-07-27 |

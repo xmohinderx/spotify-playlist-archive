@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-111 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
+112 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Blackbird](https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:59 | 2022-09-13 |  |
 | [Blowin' In The Wind](https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Reflections](https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu) | 2:32 | 2022-09-13 |  |
 | [Both Sides Now](https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 5:28 | 2022-09-13 |  |
+| [Both Sides Now](https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 7:38 | 2022-10-05 |  |
 | [Bullet With Butterfly Wings](https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [Change of Plans](https://open.spotify.com/album/71b64FExhGoCgtbDzWPTc3) | 4:42 | 2022-09-13 | 2022-09-26 |
 | [California Dreamin'](https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:17 | 2022-09-13 |  |
 | [Can't Buy Me Love](https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 2:37 | 2022-09-13 |  |
@@ -63,7 +64,7 @@
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Shine](https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac) | 4:52 | 2022-10-05 | 2022-10-09 |
 | [I Think It's Going to Rain Today](https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD) | [Lucia Cadotsch](https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Speak Low II](https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw) | 5:18 | 2022-09-13 |  |
 | [I'm Not In Love](https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:52 | 2022-09-13 |  |
-| [Imagine](https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [My Working Class Hero](https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf) | 4:42 | 2022-10-05 |  |
+| [Imagine](https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [My Working Class Hero](https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf) | 4:42 | 2022-10-05 | 2022-10-10 |
 | [Imagine](https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reimagined](https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq) | 3:35 | 2022-09-13 |  |
 | [In My Life](https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [What's It All About?](https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh) | 4:22 | 2022-09-27 |  |
 | [Jump](https://open.spotify.com/track/6YdHo9aVSZ0bnkm9gMKDYz) | [Cassandra Beck](https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2) | [The Sexy EP](https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ) | 3:29 | 2022-09-13 |  |

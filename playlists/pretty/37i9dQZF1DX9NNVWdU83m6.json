@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 29313,
+  "num_followers": 29322,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDQ5OWE1MWNlNGE3MzYwYmVlODE4MDFiMTI0M2M4YjQx",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGMzMWUzNTlkZGZjNTFmYTM3OGE0NGI1NWJhNjM1MWUx",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -157,46 +157,6 @@
       "url": "https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Flight of the Murder Hornet",
-        "url": "https://open.spotify.com/album/21M84J17hsuB505XLw2w9W"
-      },
-      "artists": [
-        {
-          "name": "Brady Watt",
-          "url": "https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y"
-        },
-        {
-          "name": "Carlos Homs",
-          "url": "https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx"
-        },
-        {
-          "name": "Lenny \"The Ox\" Reece",
-          "url": "https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk"
-        }
-      ],
-      "duration_ms": 233523,
-      "name": "Flight of the Murder Hornet",
-      "url": "https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 267635,
-      "name": "The Knew Untitled",
-      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Extraction",
@@ -219,6 +179,46 @@
       "duration_ms": 373813,
       "name": "Extraction",
       "url": "https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 267635,
+      "name": "The Knew Untitled",
+      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Flight of the Murder Hornet",
+        "url": "https://open.spotify.com/album/21M84J17hsuB505XLw2w9W"
+      },
+      "artists": [
+        {
+          "name": "Brady Watt",
+          "url": "https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y"
+        },
+        {
+          "name": "Carlos Homs",
+          "url": "https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx"
+        },
+        {
+          "name": "Lenny \"The Ox\" Reece",
+          "url": "https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk"
+        }
+      ],
+      "duration_ms": 233523,
+      "name": "Flight of the Murder Hornet",
+      "url": "https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Separate Realities",
-        "url": "https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT"
-      },
-      "artists": [
-        {
-          "name": "Trioscapes",
-          "url": "https://open.spotify.com/artist/3poNEhEAAwqWGnLaQNE0Fs"
-        }
-      ],
-      "duration_ms": 328786,
-      "name": "Blast Off",
-      "url": "https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "Bundles (Remastered And Expanded Edition)",
         "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 557933,
       "name": "Hazard Profile, Pt. 1 - 2022 Remaster",
       "url": "https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Separate Realities",
+        "url": "https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT"
+      },
+      "artists": [
+        {
+          "name": "Trioscapes",
+          "url": "https://open.spotify.com/artist/3poNEhEAAwqWGnLaQNE0Fs"
+        }
+      ],
+      "duration_ms": 328786,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
+      },
+      "artists": [
+        {
+          "name": "Cameron Graves",
+          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
+        }
+      ],
+      "duration_ms": 261506,
+      "name": "Sons of Creation",
+      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Ultima",
@@ -711,22 +727,6 @@
       "duration_ms": 269920,
       "name": "Ultima",
       "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
-      },
-      "artists": [
-        {
-          "name": "Cameron Graves",
-          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
-        }
-      ],
-      "duration_ms": 261506,
-      "name": "Sons of Creation",
-      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq"
     },
     {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        }
-      ],
-      "duration_ms": 305858,
-      "name": "Truck Fump",
-      "url": "https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Bundles (Remastered And Expanded Edition)",
@@ -907,6 +891,22 @@
       "duration_ms": 323520,
       "name": "Hazard Profile, Pt. 5 - 2022 Remaster",
       "url": "https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9"
+    },
+    {
+      "added_at": "2021-04-23 04:01:00",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "duration_ms": 305858,
+      "name": "Truck Fump",
+      "url": "https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic"
     }
   ],
   "unique_name": "Prog Jazz",

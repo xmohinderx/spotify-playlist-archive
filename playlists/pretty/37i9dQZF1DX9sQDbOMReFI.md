@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Snoop Dogg & Dr\. Dre
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,660 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,764 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 40 | [It's Funky Enough \- Remastered Single](https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 4:29 |
 | 41 | [New York, New York](https://open.spotify.com/track/5obHDgSMnUgVmtemERcL08) | [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT) | [Hip\-Hop Legacy, Vol\. 8](https://open.spotify.com/album/6lC6kysYRpVbkJsWQDsybb) | 4:50 |
 | 42 | [Late Night Hype](https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [It's A Compton Thang!](https://open.spotify.com/album/53AUJ8HnXA7i8PrC8maxTY) | 4:54 |
-| 43 | [Mistadobalina](https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Wish My Brother George Was Here](https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor) | 4:13 |
-| 44 | [Getto Jam](https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx) | [Domino](https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1) | [Domino](https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR) | 4:19 |
+| 43 | [Getto Jam](https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx) | [Domino](https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1) | [Domino](https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR) | 4:19 |
+| 44 | [Mistadobalina](https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Wish My Brother George Was Here](https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor) | 4:13 |
 | 45 | [Jackin' For Beats](https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Kill At Will](https://open.spotify.com/album/7oeFV70h2fDapspboicRP5) | 2:57 |
 | 46 | [Same Song \- Edit Version](https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Hi\-Five: Digital Underground](https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8) | 3:57 |
 | 47 | [Black Superman](https://open.spotify.com/track/4ptJmZRriw38WVG9mrW5nT) | [Above The Law](https://open.spotify.com/artist/1YStXHRj5phGb2LGCudZ6N) | [Uncle Sam's Curse](https://open.spotify.com/album/7FJYYNhnLJIp7psLUwoBBb) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Born and Raised In Compton](https://open.spotify.com/track/23trPalTVGb4H4CzyHrQ9W) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 3:25 |
 | 50 | [Gangsta's Paradise \- Rerecorded](https://open.spotify.com/track/18kwQvQ49ORXsoVFvOUGT3) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [Greatest Hits](https://open.spotify.com/album/7BeDynSPyJdyQ5JCYHpXal) | 4:03 |
 
-Snapshot ID: `MTY1NzAwNTE1NiwwMDAwMDAwMGEwZjczMmVlYWE1ODU0YzU1ZGY0YTQ4NzEwNThlYzUw`
+Snapshot ID: `MTY1NzAwNTE1NiwwMDAwMDAwMDBkMzI5YTdiM2NmM2Y4ZWUyZmQzNDZhZGJjMzQ3MGJm`

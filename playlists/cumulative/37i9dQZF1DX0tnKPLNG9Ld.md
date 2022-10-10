@@ -4,7 +4,7 @@
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-141 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/17UmPpGpDE0CvSJx06ZMsA)
+142 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/17UmPpGpDE0CvSJx06ZMsA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Farmer's Market](https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU) | [Annie Ross](https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy) | [Improvisations for the Human Voice](https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd) | 2:46 | 2022-08-11 |  |
 | [Farmer's Market](https://open.spotify.com/track/138uFIGqcqv5e3b0jge5qb) | [King Pleasure](https://open.spotify.com/artist/1zmrmtMHh44pQ9WrBVEe80), [Annie Ros](https://open.spotify.com/artist/4Ny6FUunJrpsXpSVkVyvIh) | [King Pleasure Sings / Annie Ross Sings](https://open.spotify.com/album/2289iMuFPDNKaMayWeSiGM) | 2:43 | 2022-01-28 | 2022-07-29 |
 | [Feeling Good](https://open.spotify.com/track/1AM8QdDFZMq6SrrqUnuQ9P) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:57 | 2022-01-07 | 2022-04-21 |
-| [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2022-09-01 |  |
+| [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2022-09-01 | 2022-10-10 |
+| [Fly Me To The Moon \- 2008 Remastered](https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 2:27 | 2022-10-06 |  |
 | [Four Brothers](https://open.spotify.com/track/4eduZPo0PdAhlWRLEiOlSb) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Sings The Winners](https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB) | 2:27 | 2022-01-28 | 2022-10-07 |
 | [From This Moment On](https://open.spotify.com/track/3ueTT5Puo99bD1gRzuhf6H) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 1:48 | 2021-12-20 |  |
 | [Give Me the Simple Life](https://open.spotify.com/track/2VVhCjBklmv7SFnOX7P05W) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Ernie Heckscher Big Band](https://open.spotify.com/artist/31BXAhxSgRkSTvDyYDXYDP), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Sunshine of Your Love](https://open.spotify.com/album/7AsMmAa3vhh8ZQGU5ljiSp) | 1:59 | 2022-06-02 | 2022-07-29 |

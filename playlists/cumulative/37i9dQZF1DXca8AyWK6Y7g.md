@@ -4,7 +4,7 @@
 
 > everyone is dumb dumb dumb  Cover: mazie
 
-1,317 songs - 2 day 19 hr 46 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,319 songs - 2 day 19 hr 52 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,7 +546,7 @@
 | [hours](https://open.spotify.com/track/50fOAzCbELUmkFWgbrdW7C) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [hours](https://open.spotify.com/album/5VHlWqRmzCGaFgw6yokx6L) | 3:01 | 2020-08-11 | 2021-11-10 |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-02-18 |  |
 | [House With A View](https://open.spotify.com/track/7cm6zfcgKmweLjnSu3aSbo) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [House With A View](https://open.spotify.com/album/5I7BLayLBeaLMNz8YumFtM) | 2:24 | 2022-07-15 |  |
-| [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-22 |  |
+| [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-22 | 2022-10-10 |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 |  |
 | [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 | 2022-10-08 |
 | [how i feel](https://open.spotify.com/track/4mrcvAjZh1am3hODsbRPtS) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [how i feel](https://open.spotify.com/album/0EIDhGCT86MzboicRJbvBQ) | 2:31 | 2021-10-11 | 2021-10-12 |
@@ -555,6 +555,7 @@
 | [Hungover You](https://open.spotify.com/track/4I7JZeUvLMf83q6qIztQB4) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Hungover You](https://open.spotify.com/album/7kGYlIyyQ5NQ40DkHo56U0) | 3:04 | 2019-05-26\* | 2021-04-02 |
 | [Huron Disko](https://open.spotify.com/track/56Ydhy30ogSmTKTyDxcirY) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [cartoon therapy](https://open.spotify.com/album/1JvMNlu1GNdxsoBTTdR3AL) | 3:21 | 2021-08-19 | 2021-08-22 |
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2021-10-25 | 2022-01-29 |
+| [HUSH](https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel](https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl) | 3:10 | 2022-10-07 |  |
 | [Hydra](https://open.spotify.com/track/09o11md5fskmIRdfFA7l4T) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hydra](https://open.spotify.com/album/35Q1l3VWkjiFnxXfxJrxNk) | 2:45 | 2021-03-27 | 2021-11-20 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-11-19 | 2022-09-03 |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 |  |
@@ -648,6 +649,7 @@
 | [Know This Love \(feat\. Litens\)](https://open.spotify.com/track/5miQGFoYZPv5JCNzSoEbWt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Litens](https://open.spotify.com/artist/2UPXaOMAUoDejs8gwvElii) | [Know This Love \(feat\. Litens\)](https://open.spotify.com/album/1qMYj1vvj1qspuBqUmP33o) | 3:45 | 2019-05-26\* | 2019-08-13 |
 | [LA CANCIÓN](https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [LA CANCIÓN](https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI) | 3:32 | 2020-06-12 | 2021-03-22 |
 | [LA COMBI VERSACE \(feat\. Tokischa\)](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:41 | 2022-03-18 | 2022-04-21 |
+| [la di da](https://open.spotify.com/track/6doGgaQHLno4lTLbgkWd6b) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mood Swings](https://open.spotify.com/album/3psE2QZTcNFhLGUpY76F4s) | 2:58 | 2022-10-07 |  |
 | [La La La](https://open.spotify.com/track/6WivhoU5qLcUtbYg2fo9Ay) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [La La La](https://open.spotify.com/album/2L503QgplP6Wj6vln3zl4t) | 2:30 | 2022-05-06 | 2022-06-19 |
 | [Lamb's Wool \(with Poolside\)](https://open.spotify.com/track/2Kv2ihNE3KAztq2GWassEZ) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Lamb's Wool \(with Poolside\)](https://open.spotify.com/album/1Txwny427aGDWNZPxd5mvY) | 4:54 | 2021-04-20 | 2021-11-20 |
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-01-14 | 2022-09-24 |
@@ -963,7 +965,7 @@
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-25 | 2022-08-20 |
 | [Sad Love](https://open.spotify.com/track/68UkVdPxJFZDz5Dtz2nGsb) | [Whitney Woerz](https://open.spotify.com/artist/10BwHZCTlNF44mgOBrMec3) | [Sad Love](https://open.spotify.com/album/0LdcazWtgzYxZfwbbEFoXK) | 3:37 | 2022-06-24 | 2022-07-04 |
 | [Sad Song](https://open.spotify.com/track/0fjdTZFuBkKxpm9tQ8q8qD) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Sad Song](https://open.spotify.com/album/3Drj0EVrIr6D4OSiuGbB20) | 2:55 | 2020-06-12 | 2020-06-13 |
-| [saddest happy girl](https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [saddest happy girl](https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z) | 2:27 | 2022-08-26 |  |
+| [saddest happy girl](https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [saddest happy girl](https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z) | 2:27 | 2022-08-26 | 2022-10-10 |
 | [Salir](https://open.spotify.com/track/4BPPnB4QD4eXI251VjifTL) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Salir](https://open.spotify.com/album/3yTS8NyDJBjuyM5WtLX6Nl) | 2:58 | 2021-10-10 | 2021-10-11 |
 | [Saltines & Gingerale](https://open.spotify.com/track/4fywIRWZFKQWBUwSBrQ271) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Saltines & Gingerale](https://open.spotify.com/album/7GGxMJrXmbPMnQ03uuJBa5) | 2:34 | 2021-07-16 | 2022-01-29 |
 | [SAME DAMN SONG](https://open.spotify.com/track/1ocrDvt7PiRJC9OoSQNLHf) | [Brendan Bennett](https://open.spotify.com/artist/0lpU3HUAjN8AdjApUJ2ykI) | [SAME DAMN SONG](https://open.spotify.com/album/4BcgMBYOSYiICH7gdyv8Ga) | 2:22 | 2021-03-07 | 2021-11-20 |

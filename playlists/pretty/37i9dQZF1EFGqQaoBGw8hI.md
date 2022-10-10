@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010 likes - 478 songs - 1 day 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012 likes - 478 songs - 1 day 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -487,4 +487,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 477 | [Fascist Faces \- Remastered 2003](https://open.spotify.com/track/2byAwZoNnmSKGMdPo7hyS9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:11 |
 | 478 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
 
-Snapshot ID: `Mjc3NTU3ODYsMDAwMDAwMDAzNDlkMGNhOWYzZTM0ZjRlYWIyN2E4ZTZjNDYxNGQ5Ng==`
+Snapshot ID: `Mjc3NTYwODUsMDAwMDAwMDAwYjhiZmU3YTNmODQ0MWMzNjM2MzMyZjk2MTEzNWM3YQ==`

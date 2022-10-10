@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-317 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+319 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [icarus](https://open.spotify.com/track/5L1eW2bt7pDbjhNLKWKom2) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 1:56 | 2022-01-31 | 2022-03-31 |
 | [In Your Eyes](https://open.spotify.com/track/4LZtJRxcce5RPdSNmfa9AT) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [In Your Eyes](https://open.spotify.com/album/0O24SqzRbDIS8W4xqwHrG4) | 3:12 | 2022-06-25 | 2022-07-16 |
 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 | 2022-03-11 | 2022-03-31 |
+| [Inside My Head](https://open.spotify.com/track/4wjk41EIeEwam4t2dyFD1F) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN), [biblemami](https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV) | [Inside My Head](https://open.spotify.com/album/46Xk8s8C66TNraDW6r4dWs) | 2:42 | 2022-10-09 |  |
 | [Into The Night](https://open.spotify.com/track/36NDrXStsbcDfQWVKlAj0p) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Eilish Gilligan](https://open.spotify.com/artist/65LDkZn0JiySoZODomsvVQ) | [Into The Night](https://open.spotify.com/album/37NLypcnxqNBPzPuoJYcVS) | 2:30 | 2022-08-04 | 2022-09-19 |
 | [intothedeep](https://open.spotify.com/track/0rEe4czu55DQ8sHtWRnaci) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [intothedeep](https://open.spotify.com/album/7c2heWYrt28gCmmJ8U9fwu) | 3:10 | 2022-07-01 | 2022-07-16 |
 | [It's All for You](https://open.spotify.com/track/0nmllQKv85yVIgPHHzKK4l) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Aria](https://open.spotify.com/album/0NlaAPR7ZFnfi1OTL0eOly) | 3:25 | 2021-09-29 | 2022-01-08 |
@@ -163,6 +164,7 @@
 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 | 2022-01-21 | 2022-02-16 |
 | [Lights Out](https://open.spotify.com/track/6rwhrp7xkm8xTSZOBwIyyv) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF) | [Lights Out](https://open.spotify.com/album/0duIqbe3fyPBpDFDMr2zMv) | 2:06 | 2022-06-24 |  |
 | [Like A Boulder](https://open.spotify.com/track/5nXj09XZiJCvuw973BVD3q) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Road To Grapeness](https://open.spotify.com/album/4uSVMn4SUFy1Jns7A9cJbS) | 2:24 | 2021-11-19 | 2022-01-08 |
+| [Like Me \(feat\. Hooli\)](https://open.spotify.com/track/5NIRCmno5NeeDl8Bu5z0M9) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Hooli](https://open.spotify.com/artist/2WyNeweHZJAuEy3Mrtj0iW) | [Like Me \(feat\. Hooli\)](https://open.spotify.com/album/0rpyBk3C7Ttr7AyzlSyULH) | 2:23 | 2022-10-09 |  |
 | [Like That](https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Like That](https://open.spotify.com/album/4FQ3HXhwVOTaMKVdDhYxER) | 2:30 | 2022-07-15 |  |
 | [Liminal Spaces](https://open.spotify.com/track/4o46hDiC5c1ZLJ8vh9Wjee) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 1:52 | 2022-07-21 | 2022-07-23 |
 | [Little League](https://open.spotify.com/track/3yJ6oOCpjC1KbGO4uqebRu) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Little League](https://open.spotify.com/album/26WqHeLHlv0Dde7RPYVw9G) | 2:49 | 2022-02-28 | 2022-03-31 |

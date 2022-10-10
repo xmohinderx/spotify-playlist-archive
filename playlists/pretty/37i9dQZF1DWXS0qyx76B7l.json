@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
-  "num_followers": 112077,
+  "num_followers": 112079,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMDBhNTQ3ZDA3MTg2OTkyOWJiNTE2ZGI2MTIwMmIwNGVl",
+  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMGNmNGRhNjM5Yzk3MTNlM2E2NDk0NWFlYTZhYmE1M2Jh",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Patrick Droney",
-        "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 227292,
-      "name": "Brooklyn",
-      "url": "https://open.spotify.com/track/0gvGXQK14CIGLssQhruY8E"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 163680,
       "name": "Bleecker Street",
       "url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Patrick Droney",
+        "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 227292,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/0gvGXQK14CIGLssQhruY8E"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Dear Catastrophe Waitress",
-        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Piazza, New York Catcher",
-      "url": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
         "name": "Once Upon A Summertime",
         "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 259706,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Dear Catastrophe Waitress",
+        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Piazza, New York Catcher",
+      "url": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
     },
     {
       "added_at": "2022-01-24 23:45:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > Top Arabic hits are right here\. Cover: Cairokee
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,310 likes - 91 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,347 likes - 91 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

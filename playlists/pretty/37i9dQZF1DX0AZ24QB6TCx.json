@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 269289,
+  "num_followers": 269308,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1NzkzNSwwMDAwMDAwMDg1MmFmZjgxZDQ0NmQzM2IyYmYxMjUzOWE5NjIyMWQ1",
+  "snapshot_id": "MTY2NTE1NzkzNSwwMDAwMDAwMDY4ZWM5Yjc5Mjg0ZjVmNGFlY2JiOWVkYjY0ZmJiMzFj",
   "tracks": [
     {
       "added_at": "2022-10-07 15:52:14",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4LnDWolNUZJEqZdwVjRHKc"
+      },
+      "artists": [
+        {
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/0VLaaS481wSlMnf6UEQnJM"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
         "name": "Beyond Beliefs",
         "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4LnDWolNUZJEqZdwVjRHKc"
-      },
-      "artists": [
-        {
-          "name": "NORRA",
-          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/0VLaaS481wSlMnf6UEQnJM"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -243,18 +243,22 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc"
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
       "artists": [
         {
-          "name": "Lui Mafuta",
-          "url": "https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
         }
       ],
-      "duration_ms": 350929,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -275,22 +279,18 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+          "name": "Lui Mafuta",
+          "url": "https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp"
         }
       ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+      "duration_ms": 350929,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -343,22 +343,18 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+        "name": "Forrest Glade",
+        "url": "https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r"
       },
       "artists": [
         {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "L\u00e9a Sen",
-          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
         }
       ],
-      "duration_ms": 301933,
-      "name": "better",
-      "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+      "duration_ms": 437188,
+      "name": "Forrest Glade",
+      "url": "https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -379,18 +375,22 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "Forrest Glade",
-        "url": "https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r"
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
       "artists": [
         {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
         }
       ],
-      "duration_ms": 437188,
-      "name": "Forrest Glade",
-      "url": "https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7"
+      "duration_ms": 301933,
+      "name": "better",
+      "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 293701,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
         "name": "Don't Go Asking",
         "url": "https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 197796,
       "name": "Don't Go Asking - Radio Edit",
       "url": "https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 293701,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "Burning Sun",
-        "url": "https://open.spotify.com/album/3UVk7K3ddWmMvrf0Z4iD3L"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Burning Sun",
-      "url": "https://open.spotify.com/track/2ybxXZvwT6lje7Y1HY4fX7"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
         "name": "The Center Will Not Hold",
         "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 230239,
       "name": "The Center Will Not Hold",
       "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
+        "name": "Burning Sun",
+        "url": "https://open.spotify.com/album/3UVk7K3ddWmMvrf0Z4iD3L"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Burning Sun",
+      "url": "https://open.spotify.com/track/2ybxXZvwT6lje7Y1HY4fX7"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "Ve",
-        "url": "https://open.spotify.com/album/1yEmW3JlHzrmKNoheAyYNA"
-      },
-      "artists": [
-        {
-          "name": "p\u00f8laroit",
-          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ve",
-      "url": "https://open.spotify.com/track/5HngP2bVbIcEC4tHVkCgNc"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
         "name": "Madman",
         "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
+        "name": "Ve",
+        "url": "https://open.spotify.com/album/1yEmW3JlHzrmKNoheAyYNA"
+      },
+      "artists": [
+        {
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ve",
+      "url": "https://open.spotify.com/track/5HngP2bVbIcEC4tHVkCgNc"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
         "name": "Neunivai",
         "url": "https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "Fjord",
-        "url": "https://open.spotify.com/album/2XXMsYAGzFFWXjX0dbTtaS"
+        "name": "Silence & Secrets",
+        "url": "https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd"
       },
       "artists": [
         {
-          "name": "p\u00f8laroit",
-          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
         }
       ],
-      "duration_ms": 250169,
-      "name": "Fjord",
-      "url": "https://open.spotify.com/track/0wCQhh8ltakGjamI3nVcAG"
+      "duration_ms": 268434,
+      "name": "Silence & Secrets",
+      "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
     }
   ],
   "unique_name": "Afterhours",

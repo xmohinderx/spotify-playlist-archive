@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-192 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
+193 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,11 +80,12 @@
 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 | 2022-09-05 |  |
 | [I don’t want to](https://open.spotify.com/track/5BCbtI9gGtE0vD2btEgDha) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [childhood of the sea](https://open.spotify.com/album/6azHgQ3LbUgkGXmYnAwtET) | 3:49 | 2022-05-11 | 2022-07-28 |
 | [I had a dream](https://open.spotify.com/track/4XExkAorTzzT1SZbwtM1Ua) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:46 | 2022-05-11 | 2022-07-28 |
-| [I thought it was love.](https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [I thought it was love.](https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW) | 4:00 | 2022-05-11 |  |
+| [I thought it was love.](https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [I thought it was love.](https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW) | 4:00 | 2022-05-11 | 2022-10-10 |
 | [Ican'tfeelmaface](https://open.spotify.com/track/4R6g9qPlM0eE0w5Awr8PXR) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [every flower you gave me](https://open.spotify.com/album/3JRoq6nJRd2PyvKVhJj4TU) | 2:56 | 2022-05-11 | 2022-06-02 |
 | [If It's Not You](https://open.spotify.com/track/4fAXE9nsJzUaw4UFs2uvAy) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [If It's Not You](https://open.spotify.com/album/4KOaX6kkTP3SQ2emD2ir0P) | 2:59 | 2022-05-11 | 2022-07-19 |
 | [In My Dream](https://open.spotify.com/track/7cqRIDtEEOTXbwoIzAK40z) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [In My Dream](https://open.spotify.com/album/4Al4Mk1fC8FrF9l5uuaPuy) | 2:49 | 2022-05-11 | 2022-07-29 |
 | [In Paris \(feat\. Kaya\)](https://open.spotify.com/track/0Q0swUf6gyh1u8gocCTpFl) | [CollaBoat](https://open.spotify.com/artist/3aI3fKOhv39Yc8O3zfY4XM), [Kaya](https://open.spotify.com/artist/0paoXjLBxGQ5F4tujUG0g5) | [In Paris](https://open.spotify.com/album/0sJqLzZEf7T2H1sHImn61I) | 4:11 | 2022-05-11 | 2022-07-27 |
+| [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 | 2022-10-04 |  |
 | [Just Chill](https://open.spotify.com/track/3qNeyEagP4606J5B61jHa3) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 3:25 | 2022-05-11 | 2022-06-04 |
 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 | 2022-05-11 |  |
 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 | 2022-05-11 |  |

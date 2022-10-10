@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=xCx4Iw6eRwWSDCBpAtKEbQ\">Pheelz</a>",
-  "num_followers": 550124,
+  "num_followers": 550155,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGQ3NzM0NDVjOTBiMDEzYmEwYjg5MTJiNTNmZmVmNWY4",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDkwMzE0Zjk4MWY3MGFjN2M0NTc0Yjc2YjFjNmQwNWFj",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Roadblock",
         "url": "https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 233293,
       "name": "Roadblock",
       "url": "https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Damn (feat. 6lack)",
-        "url": "https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 159338,
-      "name": "Damn (feat. 6lack)",
-      "url": "https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
         "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Damn (feat. 6lack)",
+        "url": "https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 159338,
+      "name": "Damn (feat. 6lack)",
+      "url": "https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Get Layd",
+        "url": "https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 171730,
+      "name": "Lo Lo",
+      "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
         "url": "https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 172500,
       "name": "D & G (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Get Layd",
-        "url": "https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 171730,
-      "name": "Lo Lo",
-      "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1523,18 +1523,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "What Have We Done",
-        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         }
       ],
-      "duration_ms": 175215,
-      "name": "Godly",
-      "url": "https://open.spotify.com/track/33dN3Nd9aRz4nzha4oIGnX"
+      "duration_ms": 153146,
+      "name": "Repeat (feat. Koffee)",
+      "url": "https://open.spotify.com/track/6Yblv6BbZHIkyrpYl4E0Zk"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1555,22 +1559,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Big Conspiracy",
-        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+        "name": "What Have We Done",
+        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
       },
       "artists": [
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 153146,
-      "name": "Repeat (feat. Koffee)",
-      "url": "https://open.spotify.com/track/6Yblv6BbZHIkyrpYl4E0Zk"
+      "duration_ms": 175215,
+      "name": "Godly",
+      "url": "https://open.spotify.com/track/33dN3Nd9aRz4nzha4oIGnX"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1903,22 +1903,26 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Silver Tongue Devil (feat. Shenseea)",
-        "url": "https://open.spotify.com/album/0RCA1a3pFlmG340tMO2Msz"
+        "name": "next chapter",
+        "url": "https://open.spotify.com/album/3XPXxSPsjCYee7WSYqX133"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
         },
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Rusalka",
+          "url": "https://open.spotify.com/artist/6Xk0SRUhTv4ILc6lcKeWfV"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
         }
       ],
-      "duration_ms": 198299,
-      "name": "Silver Tongue Devil (feat. Shenseea)",
-      "url": "https://open.spotify.com/track/0hfO4THmsjstA7svFPLTVS"
+      "duration_ms": 162680,
+      "name": "juju",
+      "url": "https://open.spotify.com/track/1Ji8uyxpJ8HwW94wlEY9ip"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1943,26 +1947,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "next chapter",
-        "url": "https://open.spotify.com/album/3XPXxSPsjCYee7WSYqX133"
+        "name": "Silver Tongue Devil (feat. Shenseea)",
+        "url": "https://open.spotify.com/album/0RCA1a3pFlmG340tMO2Msz"
       },
       "artists": [
         {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         },
         {
-          "name": "Rusalka",
-          "url": "https://open.spotify.com/artist/6Xk0SRUhTv4ILc6lcKeWfV"
-        },
-        {
-          "name": "anatu",
-          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 162680,
-      "name": "juju",
-      "url": "https://open.spotify.com/track/1Ji8uyxpJ8HwW94wlEY9ip"
+      "duration_ms": 198299,
+      "name": "Silver Tongue Devil (feat. Shenseea)",
+      "url": "https://open.spotify.com/track/0hfO4THmsjstA7svFPLTVS"
     },
     {
       "added_at": "2022-08-19 04:01:00",

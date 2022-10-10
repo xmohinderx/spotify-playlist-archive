@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 216,
+  "num_followers": 222,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGEzNWZlZjk3MzFiZGNkZDgyNGVmODY2YjEzYzc0MTdj",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGNkMWQxMTBiNTQ5ZTZlZjJhNGJjZGNiYjNjOTFiZTE0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Nah It Ain't The Same",
-        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251831,
-      "name": "Nah It Ain't The Same",
-      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 177666,
       "name": "MIA (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Nah It Ain't The Same",
+        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 251831,
+      "name": "Nah It Ain't The Same",
+      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -776,13 +776,13 @@
       },
       "artists": [
         {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Come We Bill Ehh",
-      "url": "https://open.spotify.com/track/1KVkwvAEBH4Epf1Oc17LI0"
+      "duration_ms": 195186,
+      "name": "Think About You - Notion Mix",
+      "url": "https://open.spotify.com/track/5yRKRnTxUYAEaO8EFypoVn"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -792,13 +792,13 @@
       },
       "artists": [
         {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
         }
       ],
-      "duration_ms": 195186,
-      "name": "Think About You - Notion Mix",
-      "url": "https://open.spotify.com/track/5yRKRnTxUYAEaO8EFypoVn"
+      "duration_ms": 186666,
+      "name": "Come We Bill Ehh",
+      "url": "https://open.spotify.com/track/1KVkwvAEBH4Epf1Oc17LI0"
     },
     {
       "added_at": "2022-10-01 16:00:00",

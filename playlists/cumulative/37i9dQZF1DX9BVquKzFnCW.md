@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-160 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
+161 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,8 +77,9 @@
 | [Interplay](https://open.spotify.com/track/49AFmEeq9Ulx4YXA24yNKJ) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Interplay Sessions \[2\-fer\]](https://open.spotify.com/album/64Thgy8vQNwTvX1zbsi2sy) | 8:14 | 2022-09-15 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/2XuM2irHH6kaHk4np8VIHL) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards Vol.1](https://open.spotify.com/album/6g4tw8mwge2gJKqJQxE5r3) | 6:42 | 2022-02-23 |  |
 | [Jacqui](https://open.spotify.com/track/1uwY1ZqURcKJ9Fd7foMxPb) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:11 | 2022-02-23 |  |
+| [June Blues](https://open.spotify.com/track/2GFMF5oDuTxg4X9zVxR6q9) | [Matthew Fries](https://open.spotify.com/artist/0aUW5XnNwhMnYzJOUyiQTV) | [Lost Time](https://open.spotify.com/album/0iB4SR1jdgeSPi4yhS4VFj) | 6:00 | 2022-10-06 |  |
 | [Kerosene II](https://open.spotify.com/track/1JNLwhmasqZ9cs8D652jhS) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Never Stop II](https://open.spotify.com/album/6BwHi8VM68LWmGSTEGmDCe) | 4:44 | 2022-02-23 | 2022-09-23 |
-| [La Valse Bleue](https://open.spotify.com/track/0FcUn6IPrPvzNRTaOyWKuu) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [At The Blue Note](https://open.spotify.com/album/6sJLTN1J3PhPQ0OybVsqVz) | 7:03 | 2022-02-23 |  |
+| [La Valse Bleue](https://open.spotify.com/track/0FcUn6IPrPvzNRTaOyWKuu) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [At The Blue Note](https://open.spotify.com/album/6sJLTN1J3PhPQ0OybVsqVz) | 7:03 | 2022-02-23 | 2022-10-10 |
 | [Life Is a Ball](https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [4 to Go!](https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ) | 5:31 | 2022-08-30 |  |
 | [Life Is a Ball](https://open.spotify.com/track/2wdivsZL6AFl6qygmGZDEr) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [4 To Go !](https://open.spotify.com/album/4PSGQpJEso0r7WoPiFjbbl) | 5:31 | 2022-02-23 | 2022-07-29 |
 | [Light Blue](https://open.spotify.com/track/49TAOnpGdf97IhLd6g4SaG) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [The Dancing Monk](https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV) | 4:47 | 2022-02-23 |  |

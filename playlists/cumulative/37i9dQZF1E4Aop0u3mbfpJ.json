@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With Avril Lavigne, Ava Max, Cheryl and more",
+  "description": "With Ava Max, Toby Green, The Wanted and more",
   "name": "Lady Gaga Radio",
   "published_playlist_ids": [
     "5wwUkYS2OcCkau5CdCfyc6"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 215480,
       "name": "1000 Doves",
       "url": "https://open.spotify.com/track/62hTXlVQacy3pjBW4ntRPl"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 222800,
       "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
       "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 234333,
       "name": "A Year Without Rain",
       "url": "https://open.spotify.com/track/1r0XfrhdG6bsiS4oe1QM96"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 191937,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 189773,
       "name": "About You Now - Radio Edit",
       "url": "https://open.spotify.com/track/3ueSXw2VdGhLo2KpN6E5M5"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Alice",
       "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 186173,
       "name": "All About Tonight",
       "url": "https://open.spotify.com/track/1Fx9aiORwv0cx5mFEBasHo"
@@ -1011,6 +1011,24 @@
       "duration_ms": 221173,
       "name": "All For You (with Ella Henderson)",
       "url": "https://open.spotify.com/track/37kbXJxueyVRhwHr3b6Zhp"
+    },
+    {
+      "album": {
+        "name": "Always in Between (Deluxe)",
+        "url": "https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219520,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/4KbXLyluZKq3sTHL8XKsRL"
     },
     {
       "album": {
@@ -1192,6 +1210,28 @@
     },
     {
       "album": {
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
+    },
+    {
+      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -1287,7 +1327,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 367733,
       "name": "Americano - Gregori Klosman Remix",
       "url": "https://open.spotify.com/track/5lsMMFrqrYZ1Rw0aKsth2U"
@@ -1413,7 +1453,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 212333,
       "name": "Applause",
       "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
@@ -1931,7 +1971,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260720,
       "name": "Bad Romance - Kaskade Remix",
       "url": "https://open.spotify.com/track/5cVt8HngmKcSFyO4kBHBrc"
@@ -2159,7 +2199,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 241920,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
@@ -2707,7 +2747,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 208866,
       "name": "Big Girl Now",
       "url": "https://open.spotify.com/track/02Yas6SL87iAvA7Fk0ZzRj"
@@ -2779,7 +2819,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 216173,
       "name": "Bind Your Love",
       "url": "https://open.spotify.com/track/0aUq6uNfcjI9jmV0Kb3hU8"
@@ -2981,7 +3021,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 219973,
       "name": "Blow",
       "url": "https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI"
@@ -3097,7 +3137,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 170246,
       "name": "Bois Lie (feat. Machine Gun Kelly) - Acoustic",
       "url": "https://open.spotify.com/track/3W8gnQSIRzUQM6klpRT4jR"
@@ -4065,7 +4105,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 298131,
       "name": "Can't Fight The Moonlight - Alias Remix",
       "url": "https://open.spotify.com/track/0Xq1XTOJBJiGui9SiV8OYl"
@@ -4261,7 +4301,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 215814,
       "name": "Catch Me In The Air",
       "url": "https://open.spotify.com/track/6GAVS2iuybWCP2oxMKufp1"
@@ -4483,7 +4523,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
@@ -4759,7 +4799,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 220682,
       "name": "Come to Brazil",
       "url": "https://open.spotify.com/track/6G8QdI1lsjJMmkSool0b6f"
@@ -6355,7 +6395,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 193066,
       "name": "Don't Say You Love Me",
       "url": "https://open.spotify.com/track/5g6FCPU1r3C88vUsFtat16"
@@ -7089,7 +7129,7 @@
       ],
       "date_added": "2021-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 177855,
       "name": "EveryTime I Cry",
       "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
@@ -7241,7 +7281,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 159045,
       "name": "Feels In My Body",
       "url": "https://open.spotify.com/track/6wzwvyZ4kVPoUYDYjgErWJ"
@@ -7463,7 +7503,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 117640,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/4NCZEnM4tq2MazaFURJxWY"
@@ -7601,7 +7641,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 177564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
@@ -7838,6 +7878,24 @@
     },
     {
       "album": {
+        "name": "Free Yourself",
+        "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234493,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
+    },
+    {
+      "album": {
         "name": "Free Yourself (Paul Woolford Remix)",
         "url": "https://open.spotify.com/album/4eSdCOymBMoeuqHH1V6yeL"
       },
@@ -8027,7 +8085,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 285120,
       "name": "G.U.Y. - KDrew Remix",
       "url": "https://open.spotify.com/track/0OcBeAny1I7rORH1q1OZeM"
@@ -8397,7 +8455,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 224920,
       "name": "Girl on Fire",
       "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
@@ -8917,7 +8975,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 248706,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/2BnfMbmWbfqi7ac5y7GHXn"
@@ -9115,7 +9173,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 205930,
       "name": "Hard 2 Forget",
       "url": "https://open.spotify.com/track/3ryUZShGkAcKw10fxyBaNt"
@@ -9535,7 +9593,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 246527,
       "name": "Hello \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
@@ -9703,6 +9761,28 @@
       "duration_ms": 207613,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0QVAlchLCx15ZLSoR9Wg1B"
+    },
+    {
+      "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
       "album": {
@@ -10407,7 +10487,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 236800,
       "name": "I Concentrate On You",
       "url": "https://open.spotify.com/track/1Z2el1XLsdJwt6Kefb2F5p"
@@ -10541,7 +10621,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
@@ -10741,7 +10821,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 152672,
       "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
       "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
@@ -10867,7 +10947,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
@@ -11039,7 +11119,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 296240,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
@@ -11119,7 +11199,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 251333,
       "name": "I Will Never Let You Down - R3hab Remix",
       "url": "https://open.spotify.com/track/4z28iMiVbMlWYZhngR88vW"
@@ -11493,7 +11573,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 240226,
       "name": "I'm Outta Love - Hex Hector Radio Edit",
       "url": "https://open.spotify.com/track/6KMdMe54uoAcCdffmvyiic"
@@ -11591,7 +11671,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 177813,
       "name": "Ice Cream (with Selena Gomez)",
       "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
@@ -12437,7 +12517,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 217906,
       "name": "Kill Em With Kindness",
       "url": "https://open.spotify.com/track/1QNoKVgA758HFLu3TW2q7R"
@@ -12491,7 +12571,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
@@ -12943,7 +13023,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 298293,
       "name": "Let Love Lead The Way",
       "url": "https://open.spotify.com/track/5EE1Uzg0JvtBhs6TRs33R0"
@@ -13240,6 +13320,24 @@
     },
     {
       "album": {
+        "name": "Battleground (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
+      },
+      "artists": [
+        {
+          "name": "The Wanted",
+          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203619,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/5ZndIlfBM43CegOSMwAMc9"
+    },
+    {
+      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -13441,7 +13539,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 157837,
       "name": "Lobby",
       "url": "https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF"
@@ -13459,7 +13557,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 212986,
       "name": "LOL",
       "url": "https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9"
@@ -13585,7 +13683,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 258004,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
@@ -13845,7 +13943,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 218773,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x"
@@ -14299,7 +14397,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-07",
+      "date_removed": null,
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
@@ -14433,7 +14531,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 199786,
       "name": "MANiCURE",
       "url": "https://open.spotify.com/track/70VukjWPu4TR2xQSRaEwlL"
@@ -15737,7 +15835,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 253693,
       "name": "No Air (feat. Chris Brown) - Acoustic Version",
       "url": "https://open.spotify.com/track/5tmambyCorzpRg7ViOO3SN"
@@ -16027,7 +16125,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 179831,
       "name": "OMG What's Happening",
       "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
@@ -16045,7 +16143,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213445,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5a7NdkF09AfD0H607eiOkX"
@@ -16191,7 +16289,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 193924,
       "name": "On The Metro",
       "url": "https://open.spotify.com/track/2NZFQ5xAY6obCPiJjtMD6L"
@@ -16443,7 +16541,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 179150,
       "name": "Only Want You - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/2wOVXsIRIoniqipE9I5ZVx"
@@ -16966,6 +17064,28 @@
     },
     {
       "album": {
+        "name": "Physical (feat. Hwa Sa)",
+        "url": "https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193696,
+      "name": "Physical (feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI"
+    },
+    {
+      "album": {
         "name": "Physical (Remixes)",
         "url": "https://open.spotify.com/album/7jZt48FNrqTEO8SFaZHwl7"
       },
@@ -16999,7 +17119,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 221666,
       "name": "Plastic Doll",
       "url": "https://open.spotify.com/track/3CidPLqWXqgesJlwYVJZdy"
@@ -17137,7 +17257,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
@@ -17379,7 +17499,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 221075,
       "name": "Primadonna",
       "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
@@ -17615,7 +17735,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 244761,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/78M3KcOo6yIVBKxSiwG3Gp"
@@ -19011,7 +19131,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 344520,
       "name": "Schei\u00dfe - Guena LG Club Remix",
       "url": "https://open.spotify.com/track/4PzLZRSv8ZqU0yiCG5aaVX"
@@ -19643,7 +19763,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-29",
+      "date_removed": null,
       "duration_ms": 250140,
       "name": "Sine From Above (with Elton John) - Chester Lockhart, Mood Killer & Lil Texas Remix",
       "url": "https://open.spotify.com/track/4LgB8rYhW4HVQDfznTMG9I"
@@ -20009,7 +20129,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 204079,
       "name": "Smells Like Me",
       "url": "https://open.spotify.com/track/3brfhVrVESFlfqE1IdlFdp"
@@ -20085,6 +20205,28 @@
       "duration_ms": 183026,
       "name": "So Am I",
       "url": "https://open.spotify.com/track/3WGyageBvd1ZwbyRf8WzG8"
+    },
+    {
+      "album": {
+        "name": "So Am I (The Remixes)",
+        "url": "https://open.spotify.com/album/6KhCN8NyJwcg0FDSAJF4ja"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Toby Green",
+          "url": "https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "So Am I - Toby Green Remix",
+      "url": "https://open.spotify.com/track/26c18xZN2XSjK50hoYWQrz"
     },
     {
       "album": {
@@ -20315,7 +20457,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 183811,
       "name": "Sometimes - From \"Fire Island\"",
       "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
@@ -20333,7 +20475,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 42040,
       "name": "Somewhere Over The Rainbow - Dialogue",
       "url": "https://open.spotify.com/track/4fIdH1l3SS0qdYRJiHwUnO"
@@ -20427,7 +20569,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 157706,
       "name": "Sour Candy (with BLACKPINK)",
       "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
@@ -20485,7 +20627,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Speak Up",
       "url": "https://open.spotify.com/track/6u88kKIAGstDtF400mk1fq"
@@ -20525,7 +20667,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 170333,
       "name": "Spice Up Your Life - Morales Radio Mix",
       "url": "https://open.spotify.com/track/45FrddbD0YpM8n4Gxz9oFH"
@@ -20656,6 +20798,36 @@
     },
     {
       "album": {
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229282,
+      "name": "Stay With Me (with Justin Timberlake, Halsey & Pharrell)",
+      "url": "https://open.spotify.com/track/6clzeGvi1CFioMOolbAOlX"
+    },
+    {
+      "album": {
         "name": "Step To Me (7\" Mix)",
         "url": "https://open.spotify.com/album/3Z83WnXSVFZl0yLJZhQR5Z"
       },
@@ -20703,7 +20875,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 240867,
       "name": "Still Falling For You - From \"Bridget Jones's Baby\"",
       "url": "https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx"
@@ -20953,7 +21125,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 232876,
       "name": "Stupid Boy (feat. Big Freedia)",
       "url": "https://open.spotify.com/track/56P7blUafQK9P8LKda9Y6P"
@@ -20971,7 +21143,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 193533,
       "name": "Stupid Love",
       "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
@@ -21501,7 +21673,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/3JXF3LsUjyDIHjuwhXxdjo"
@@ -22047,7 +22219,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 175333,
       "name": "Tell Me Something I Don't Know",
       "url": "https://open.spotify.com/track/6nhvIZeu7g6OsDCLj1DKLl"
@@ -22373,7 +22545,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 393626,
       "name": "The Edge Of Glory - Sultan & Ned Shepard Remix",
       "url": "https://open.spotify.com/track/7y1kZzgznhJToWJLPqiJIo"
@@ -22729,7 +22901,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 108560,
       "name": "They All Laughed",
       "url": "https://open.spotify.com/track/5s44vQBcE1dK8VxRk3VMqr"
@@ -23771,7 +23943,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 144240,
       "name": "Ur Man",
       "url": "https://open.spotify.com/track/6bJm2QRP0pYF8nVwF2YR4l"
@@ -23851,7 +24023,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 304693,
       "name": "Video Phone (feat. Lady Gaga)",
       "url": "https://open.spotify.com/track/2nX9948PslVYrrHUf6w0eL"
@@ -23961,7 +24133,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 202150,
       "name": "Walks Like Rihanna",
       "url": "https://open.spotify.com/track/4i1yHB5Q9PhtWlWCplG3u5"
@@ -24399,7 +24571,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 243236,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
@@ -24679,7 +24851,7 @@
       ],
       "date_added": "2020-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 290900,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
@@ -24733,7 +24905,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 240493,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI"
@@ -25153,7 +25325,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 197993,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU"
@@ -25343,7 +25515,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 185277,
       "name": "X (with KAROL G)",
       "url": "https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY"
@@ -25365,7 +25537,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 202940,
       "name": "XS - Bree Runway Remix",
       "url": "https://open.spotify.com/track/6s5uwOWkYK20spzICXQPNm"
@@ -25717,7 +25889,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 180160,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/46xkXPGjR9Ig9BcaTUNus3"

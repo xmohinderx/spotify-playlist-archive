@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 392465,
+  "num_followers": 392493,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMDc2ZmJhNzU4MDQ1Y2M5MDRhYjk5OTBiOWE0ODM3YTI1",
+  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMDlkMjc4MGZhY2YzOGM1ZTg3Zjg3YzJjNTRkYWMxMDdj",
   "tracks": [
     {
       "added_at": "2022-09-16 16:08:51",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "lo-fi_house.zip",
-        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
-      },
-      "artists": [
-        {
-          "name": "kemt",
-          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
-        }
-      ],
-      "duration_ms": 375000,
-      "name": "100 reasons",
-      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "The Small Room Sessions",
         "url": "https://open.spotify.com/album/7q2toX28pVjzZi9IhFkou3"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 229835,
       "name": "morning groove",
       "url": "https://open.spotify.com/track/2ZQRfelYOFQ6i6A9rTx73j"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "lo-fi_house.zip",
+        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
+      },
+      "artists": [
+        {
+          "name": "kemt",
+          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
+        }
+      ],
+      "duration_ms": 375000,
+      "name": "100 reasons",
+      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Songs to Stay Home To",
-        "url": "https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf"
-      },
-      "artists": [
-        {
-          "name": "Josi Miller",
-          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
-        }
-      ],
-      "duration_ms": 134213,
-      "name": "Songs to Stay Home To, Pt. I",
-      "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Pup Slushy",
         "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 329462,
       "name": "Pup Slushy",
       "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Songs to Stay Home To",
+        "url": "https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf"
+      },
+      "artists": [
+        {
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+        }
+      ],
+      "duration_ms": 134213,
+      "name": "Songs to Stay Home To, Pt. I",
+      "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Can't see me",
+        "url": "https://open.spotify.com/album/3vXWZAh5IffbOBS0AZSLP6"
+      },
+      "artists": [
+        {
+          "name": "Uncle Jay",
+          "url": "https://open.spotify.com/artist/7wHw0pBlnMtQ5NpO6JCtNj"
+        }
+      ],
+      "duration_ms": 235125,
+      "name": "Can't see me",
+      "url": "https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
         "url": "https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 363960,
       "name": "Anything Else Feat. Alix Edwards",
       "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "Can't see me",
-        "url": "https://open.spotify.com/album/3vXWZAh5IffbOBS0AZSLP6"
-      },
-      "artists": [
-        {
-          "name": "Uncle Jay",
-          "url": "https://open.spotify.com/artist/7wHw0pBlnMtQ5NpO6JCtNj"
-        }
-      ],
-      "duration_ms": 235125,
-      "name": "Can't see me",
-      "url": "https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Ocean Drift",
-        "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
-      },
-      "artists": [
-        {
-          "name": "Living Room",
-          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Ocean Drift",
-      "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "LTDBLBL008",
         "url": "https://open.spotify.com/album/3qPngaI3gHhdep7JeGVEsY"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/5AkRnos2tu8HKPX7ES0ohJ"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Ocean Drift",
+        "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Ocean Drift",
+      "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6"
-      },
-      "artists": [
-        {
-          "name": "goodmood",
-          "url": "https://open.spotify.com/artist/5MlLVktIQ7bcBcFQqA8YjU"
-        }
-      ],
-      "duration_ms": 312588,
-      "name": "Ritz Carlton",
-      "url": "https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Closer To The Essence",
         "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 161152,
       "name": "Closer To The Essence",
       "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6"
+      },
+      "artists": [
+        {
+          "name": "goodmood",
+          "url": "https://open.spotify.com/artist/5MlLVktIQ7bcBcFQqA8YjU"
+        }
+      ],
+      "duration_ms": 312588,
+      "name": "Ritz Carlton",
+      "url": "https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6"
     },
     {
       "added_at": "2022-09-16 16:08:51",

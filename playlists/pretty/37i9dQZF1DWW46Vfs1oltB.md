@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: Dynamic Duo\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: 다이나믹 듀오\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,866 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,867 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

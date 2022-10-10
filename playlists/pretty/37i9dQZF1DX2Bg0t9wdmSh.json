@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 144,
+  "num_followers": 156,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGY0ZmY1MjU5OTliYjY1ZmZkNmI3ZmY3NGYxYzUxNzRi",
+  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMDhiMzVjODc1MGFlOWIwYzljMDY2MmM4MDQwMDJmNDBl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Back In Blood (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 184489,
       "name": "Back In Blood (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Beat Box",
-        "url": "https://open.spotify.com/album/3ZrmqgaJ6LzRstwWe3k9si"
-      },
-      "artists": [
-        {
-          "name": "SpotemGottem",
-          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
-        }
-      ],
-      "duration_ms": 110497,
-      "name": "Beat Box",
-      "url": "https://open.spotify.com/track/3wCx8pwK7J1LVe13dFXjPm"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Pluto x Baby Pluto",
         "url": "https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 228796,
       "name": "That\u2019s It",
       "url": "https://open.spotify.com/track/5n6gBhdEjCuj3obgCoTEFD"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Beat Box",
+        "url": "https://open.spotify.com/album/3ZrmqgaJ6LzRstwWe3k9si"
+      },
+      "artists": [
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        }
+      ],
+      "duration_ms": 110497,
+      "name": "Beat Box",
+      "url": "https://open.spotify.com/track/3wCx8pwK7J1LVe13dFXjPm"
     },
     {
       "added_at": "2022-10-01 16:09:56",

@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 359834,
+  "num_followers": 359845,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDkxOSwwMDAwMDAwMDk4NDQzMDRjYWRmOTczNDdmNjgxYzcwYjdlYmYzYWMy",
+  "snapshot_id": "MTY2MTkzMDkxOSwwMDAwMDAwMDk4YjA1NWM5OTY5OWVlMzg5YTY2Mzc2ODZkY2I3Yjkz",
   "tracks": [
     {
       "added_at": "2022-08-31 07:28:39",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Some More Horizons (Digital Version)",
-        "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
-      },
-      "artists": [
-        {
-          "name": "Mo' Horizons",
-          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
-        }
-      ],
-      "duration_ms": 328866,
-      "name": "Ai mi morena - Chocolate Restyle",
-      "url": "https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Lo Mismo Que Usted",
         "url": "https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 189900,
       "name": "Lo Mismo Que Usted",
       "url": "https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Some More Horizons (Digital Version)",
+        "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
+      },
+      "artists": [
+        {
+          "name": "Mo' Horizons",
+          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
+        }
+      ],
+      "duration_ms": 328866,
+      "name": "Ai mi morena - Chocolate Restyle",
+      "url": "https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Oye Como Va",
-        "url": "https://open.spotify.com/album/4GXh6a6jVejKsYyCcymtUN"
-      },
-      "artists": [
-        {
-          "name": "Faul & Wad",
-          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
-        }
-      ],
-      "duration_ms": 185910,
-      "name": "Oye Como Va",
-      "url": "https://open.spotify.com/track/5XNixCaiTFx88y5wLhVMQR"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Ayo",
         "url": "https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 165056,
       "name": "Taganga",
       "url": "https://open.spotify.com/track/6suwy7Q9BdzR9aEdALuKiF"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Oye Como Va",
+        "url": "https://open.spotify.com/album/4GXh6a6jVejKsYyCcymtUN"
+      },
+      "artists": [
+        {
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        }
+      ],
+      "duration_ms": 185910,
+      "name": "Oye Como Va",
+      "url": "https://open.spotify.com/track/5XNixCaiTFx88y5wLhVMQR"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Otros Aires",
-        "url": "https://open.spotify.com/album/24uMVkq4ni8tDFHwva5e8p"
-      },
-      "artists": [
-        {
-          "name": "Otros Aires",
-          "url": "https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Sin Rumbo",
-      "url": "https://open.spotify.com/track/6WGeW1Ooa2dndzIGwXCVFW"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Encuentro",
         "url": "https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 236346,
       "name": "Margarita (feat. Vicente Garc\u00eda & Jose Qui\u00f1\u00f3nez)",
       "url": "https://open.spotify.com/track/6LEZkAAdNuEPE6PdEX7lrj"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Otros Aires",
+        "url": "https://open.spotify.com/album/24uMVkq4ni8tDFHwva5e8p"
+      },
+      "artists": [
+        {
+          "name": "Otros Aires",
+          "url": "https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Sin Rumbo",
+      "url": "https://open.spotify.com/track/6WGeW1Ooa2dndzIGwXCVFW"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Ozomatli",
-        "url": "https://open.spotify.com/album/7tz0zZOFIdX7PxMfIeoXS0"
-      },
-      "artists": [
-        {
-          "name": "Ozomatli",
-          "url": "https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Cumbia De Los Muertos",
-      "url": "https://open.spotify.com/track/6muW3ShcHUFFSfEfw8yqMP"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Bienvenido a mi habitaci\u00f3n",
         "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 192007,
       "name": "Bienvenido a mi habitaci\u00f3n",
       "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Ozomatli",
+        "url": "https://open.spotify.com/album/7tz0zZOFIdX7PxMfIeoXS0"
+      },
+      "artists": [
+        {
+          "name": "Ozomatli",
+          "url": "https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Cumbia De Los Muertos",
+      "url": "https://open.spotify.com/track/6muW3ShcHUFFSfEfw8yqMP"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "En Medio Del Jard\u00edn",
-        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
-      },
-      "artists": [
-        {
-          "name": "DRIMS",
-          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "En Medio Del Jard\u00edn",
-      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "The Cosmic Game",
         "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 221493,
       "name": "Pela Janela",
       "url": "https://open.spotify.com/track/6kSdAjGUnb3K1A93KL0O36"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "En Medio Del Jard\u00edn",
+        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
+      },
+      "artists": [
+        {
+          "name": "DRIMS",
+          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "En Medio Del Jard\u00edn",
+      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "Kumbayeo",
-        "url": "https://open.spotify.com/album/1DrwaqSy2xFgp40GW9eS6q"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Kumbayeo",
-      "url": "https://open.spotify.com/track/2mR5kqpXgOndUkU58lXpJW"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Zeca Pagodinho Em Casa",
         "url": "https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 275466,
       "name": "Deixa A Vida Me Levar",
       "url": "https://open.spotify.com/track/3cVSl7SF1BNnCYUR3WYKd8"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "Kumbayeo",
+        "url": "https://open.spotify.com/album/1DrwaqSy2xFgp40GW9eS6q"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Kumbayeo",
+      "url": "https://open.spotify.com/track/2mR5kqpXgOndUkU58lXpJW"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
+        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
+        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Quien Sabe",
+      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 226405,
       "name": "Porro Maracatu",
       "url": "https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
-        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
-        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "Quien Sabe",
-      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
     },
     {
       "added_at": "2022-08-31 07:28:39",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-08-31 07:28:39",
       "album": {
-        "name": "La Revancha Del Tango",
-        "url": "https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo"
-      },
-      "artists": [
-        {
-          "name": "Gotan Project",
-          "url": "https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "Una M\u00fasica Brutal",
-      "url": "https://open.spotify.com/track/6Xnri87uPZrNCYfo3rCIWG"
-    },
-    {
-      "added_at": "2022-08-31 07:28:39",
-      "album": {
         "name": "Companeros De Mi Vida",
         "url": "https://open.spotify.com/album/5syN6MvgMAkQDOpYy8mceC"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 262989,
       "name": "Maria Cristina",
       "url": "https://open.spotify.com/track/6RkiGbfRM1Blo3iXVc98uS"
+    },
+    {
+      "added_at": "2022-08-31 07:28:39",
+      "album": {
+        "name": "La Revancha Del Tango",
+        "url": "https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo"
+      },
+      "artists": [
+        {
+          "name": "Gotan Project",
+          "url": "https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "Una M\u00fasica Brutal",
+      "url": "https://open.spotify.com/track/6Xnri87uPZrNCYfo3rCIWG"
     },
     {
       "added_at": "2022-08-31 07:28:39",

@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 927700,
+  "num_followers": 927773,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzMTEzMywwMDAwMDAwMDNkODQwMTJhNDU4NjkyYjY0NzE3YzNkZWUxOGNhZTgw",
+  "snapshot_id": "MTY2NTEzMTEzMywwMDAwMDAwMDgwMjJjMzhjM2RjZmI1OGQ2NzUwZmNmMmUxNjUzNWUw",
   "tracks": [
     {
       "added_at": "2022-10-07 08:25:33",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-10-07 08:25:33",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
-    },
-    {
-      "added_at": "2022-10-07 08:25:33",
-      "album": {
         "name": "The Best of Sam Cooke",
         "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 129061,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+    },
+    {
+      "added_at": "2022-10-07 08:25:33",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
     },
     {
       "added_at": "2022-10-07 08:25:33",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-10-07 08:25:33",
       "album": {
-        "name": "Cheek To Cheek (Deluxe)",
-        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 123973,
-      "name": "Anything Goes",
-      "url": "https://open.spotify.com/track/3Cq4BUlxDg4ulj7XnN2COP"
-    },
-    {
-      "added_at": "2022-10-07 08:25:33",
-      "album": {
         "name": "This Guy's In Love",
         "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 164666,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
+    },
+    {
+      "added_at": "2022-10-07 08:25:33",
+      "album": {
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 123973,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/3Cq4BUlxDg4ulj7XnN2COP"
     },
     {
       "added_at": "2022-10-07 08:25:33",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-07 08:25:33",
       "album": {
-        "name": "Swing When You're Winning",
-        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 154133,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
-    },
-    {
-      "added_at": "2022-10-07 08:25:33",
-      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2022-10-07 08:25:33",
       "album": {
-        "name": "French Fries & Champagne",
-        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
+        "name": "Swing When You're Winning",
+        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
       },
       "artists": [
         {
-          "name": "The Hot Sardines",
-          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 141640,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
+      "duration_ms": 154133,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
     },
     {
       "added_at": "2022-10-07 08:25:33",
@@ -1055,6 +1039,22 @@
       "duration_ms": 215520,
       "name": "Let's Do It (Let's Fall In Love)",
       "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
+    },
+    {
+      "added_at": "2022-10-07 08:25:33",
+      "album": {
+        "name": "French Fries & Champagne",
+        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
+      },
+      "artists": [
+        {
+          "name": "The Hot Sardines",
+          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
+        }
+      ],
+      "duration_ms": 141640,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
     },
     {
       "added_at": "2022-10-07 08:25:33",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-10-07 08:25:33",
       "album": {
-        "name": "Comin' Home Baby",
-        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 144266,
-      "name": "Putting on the Ritz",
-      "url": "https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y"
-    },
-    {
-      "added_at": "2022-10-07 08:25:33",
-      "album": {
         "name": "The Manhattan Transfer",
         "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2022-10-07 08:25:33",
       "album": {
-        "name": "We Are In Love",
-        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
         }
       ],
-      "duration_ms": 154906,
-      "name": "Recipe For Love",
-      "url": "https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6"
+      "duration_ms": 144266,
+      "name": "Putting on the Ritz",
+      "url": "https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y"
     },
     {
       "added_at": "2022-10-07 08:25:33",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2022-10-07 08:25:33",
       "album": {
+        "name": "We Are In Love",
+        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "Recipe For Love",
+      "url": "https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6"
+    },
+    {
+      "added_at": "2022-10-07 08:25:33",
+      "album": {
         "name": "Moonlight Serenade",
         "url": "https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-10-07 08:25:33",
       "album": {
-        "name": "The Reprise Years",
-        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
-    },
-    {
-      "added_at": "2022-10-07 08:25:33",
-      "album": {
         "name": "Music For Torching",
         "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 243440,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
+    },
+    {
+      "added_at": "2022-10-07 08:25:33",
+      "album": {
+        "name": "The Reprise Years",
+        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
     },
     {
       "added_at": "2022-10-07 08:25:33",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-10-07 08:25:33",
       "album": {
-        "name": "Your Songs",
-        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
-    },
-    {
-      "added_at": "2022-10-07 08:25:33",
-      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 231826,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
+    },
+    {
+      "added_at": "2022-10-07 08:25:33",
+      "album": {
+        "name": "Your Songs",
+        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
     },
     {
       "added_at": "2022-10-07 08:25:33",

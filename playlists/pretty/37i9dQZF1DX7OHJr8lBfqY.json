@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 22960,
+  "num_followers": 22963,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMGYxZTJmNTA1ZTBhMjhkZTgzMjM4MDc2YTM0ZjE5ZTZl",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDYwMTQ3MDQ4ZWRiZjIzMDFlMDA4YWVkMjI2NTFhOTE5",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         }
       ],
-      "duration_ms": 221749,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -415,18 +415,18 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
+      "duration_ms": 221749,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -467,22 +467,6 @@
       "duration_ms": 197120,
       "name": "Bella",
       "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "KESI",
-      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -539,6 +523,22 @@
       "duration_ms": 278866,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "KESI",
+      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 184721,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "MAFIOSA",
         "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 303106,
       "name": "Tiburon",
       "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 184721,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 258640,
-      "name": "Un Amor Eterno",
-      "url": "https://open.spotify.com/track/3Wx05XUK4VGLYWTChk572f"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 252946,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 258640,
+      "name": "Un Amor Eterno",
+      "url": "https://open.spotify.com/track/3Wx05XUK4VGLYWTChk572f"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1211,22 +1211,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Arrebata",
-        "url": "https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3"
+        "name": "Imaginarme Sin Ti",
+        "url": "https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8"
       },
       "artists": [
         {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         },
         {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
         }
       ],
-      "duration_ms": 175174,
-      "name": "Arrebata",
-      "url": "https://open.spotify.com/track/2MkQo1z3xzYcoONHNoXWEr"
+      "duration_ms": 236254,
+      "name": "Imaginarme Sin Ti",
+      "url": "https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Imaginarme Sin Ti",
-        "url": "https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8"
+        "name": "Arrebata",
+        "url": "https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
         },
         {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 236254,
-      "name": "Imaginarme Sin Ti",
-      "url": "https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL"
+      "duration_ms": 175174,
+      "name": "Arrebata",
+      "url": "https://open.spotify.com/track/2MkQo1z3xzYcoONHNoXWEr"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Las Puertas del Cielo",
+        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
+      },
+      "artists": [
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 232803,
+      "name": "Las Puertas del Cielo",
+      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Conga",
         "url": "https://open.spotify.com/album/1bIdSuFjTwqZLXI5BSGKGv"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 207090,
       "name": "Conga",
       "url": "https://open.spotify.com/track/0GF9zxH5xAhKiRQQJTb9VZ"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Las Puertas del Cielo",
-        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
-      },
-      "artists": [
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 232803,
-      "name": "Las Puertas del Cielo",
-      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 219049,
+      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Pepas (Version Merengue)",
         "url": "https://open.spotify.com/album/6ZTrk7RDsxy5jfaItGProy"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 150588,
       "name": "Pepas (Version Merengue)",
       "url": "https://open.spotify.com/track/1ojTU4PABAOr5i3IaW7RhZ"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 219049,
-      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Cosita Linda",
-        "url": "https://open.spotify.com/album/6Vk2TVVMsR68HPiO6993Pa"
-      },
-      "artists": [
-        {
-          "name": "JENCARLOS",
-          "url": "https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 162631,
-      "name": "Cosita Linda",
-      "url": "https://open.spotify.com/track/4J7oEi8YEEKqold6VImH1f"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Carne (Merengue Electr\u00f3nico Remix)",
         "url": "https://open.spotify.com/album/5vd9BylC4C5xzXk4Q6uIUO"
       },
@@ -1671,18 +1651,38 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+        "name": "Cosita Linda",
+        "url": "https://open.spotify.com/album/6Vk2TVVMsR68HPiO6993Pa"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "JENCARLOS",
+          "url": "https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 231575,
-      "name": "Adicto - Salsa Version",
-      "url": "https://open.spotify.com/track/6LoZsbVlGfwIPhw91VYqop"
+      "duration_ms": 162631,
+      "name": "Cosita Linda",
+      "url": "https://open.spotify.com/track/4J7oEi8YEEKqold6VImH1f"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Hasta el Sol de Hoy",
+        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 236611,
+      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Hasta el Sol de Hoy",
-        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 236611,
-      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
+      "duration_ms": 231575,
+      "name": "Adicto - Salsa Version",
+      "url": "https://open.spotify.com/track/6LoZsbVlGfwIPhw91VYqop"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "No Drama (Cumbia Version)",
-        "url": "https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 182229,
-      "name": "No Drama - Cumbia Version",
-      "url": "https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "No Pienso Caer",
         "url": "https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 231493,
       "name": "No Pienso Caer",
       "url": "https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "No Drama (Cumbia Version)",
+        "url": "https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 182229,
+      "name": "No Drama - Cumbia Version",
+      "url": "https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Cornettazos (Vol.2)",
-        "url": "https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd"
-      },
-      "artists": [
-        {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "Mara Del Carmen",
-      "url": "https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Pues (with Luis Fonsi & Sean Paul)",
         "url": "https://open.spotify.com/album/03HdtkcGhFu7BdOGdFV3Hf"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 127333,
       "name": "Pues (with Luis Fonsi & Sean Paul)",
       "url": "https://open.spotify.com/track/0H4olUjRf0vXXuQkpKnJmr"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Cornettazos (Vol.2)",
+        "url": "https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "Mara Del Carmen",
+      "url": "https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx"
     },
     {
       "added_at": "2022-08-31 07:37:37",

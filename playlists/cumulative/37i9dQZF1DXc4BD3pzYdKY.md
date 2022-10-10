@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: 1K Phew
 
-687 songs - 1 day 10 hr 39 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+688 songs - 1 day 10 hr 41 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Allegiance](https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [Allegiance](https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH) | 3:03 | 2022-09-16 |  |
 | [Alone](https://open.spotify.com/track/71Sjke4TVQxDYAkdR8jA2D) | [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Jack Tyler](https://open.spotify.com/artist/0FCsfmDhqQxvgkcnOXuua9), [HYLEM](https://open.spotify.com/artist/4YOVgsinUGu3wwyOlD7pDh) | [Alone](https://open.spotify.com/album/5h8DeBSqee6IroPXGAVlgj) | 4:19 | 2022-02-04 | 2022-07-29 |
 | [Alpha Grind](https://open.spotify.com/track/72aqhECwk7B7mp5ktaU703) | [justICE](https://open.spotify.com/artist/1vQCz1xY3Wkdqf3CThYiWi), [ZTHEREUM](https://open.spotify.com/artist/1dDkcMJ4uFn57nZ4P95ONR) | [Alpha Grind](https://open.spotify.com/album/4QRBIa5GuGfwnlYdI7Akpw) | 1:50 | 2022-03-12 | 2022-04-25 |
-| [ALREADY](https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [ALREADY](https://open.spotify.com/album/4QzlGB99xaHmFqsxb4tbVt) | 3:01 | 2022-09-11 |  |
+| [ALREADY](https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [ALREADY](https://open.spotify.com/album/4QzlGB99xaHmFqsxb4tbVt) | 3:01 | 2022-09-11 | 2022-10-10 |
 | [Already Won](https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS) | [Yung Titan](https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU) | [Already Won](https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ) | 4:05 | 2022-09-11 |  |
 | [Alright](https://open.spotify.com/track/0okhOTtozXBHYSkUCuNVfr) | [Cas Metah](https://open.spotify.com/artist/1gQYMf71wFagcPTBlL3G8y), [Dj Sean P](https://open.spotify.com/artist/4P08e76i9aRYNoE5c7otBB), [Sintax the Terrific](https://open.spotify.com/artist/5g4wwfnp6312mcPlNd83aX) | [Mere Mortals](https://open.spotify.com/album/3l6jjDsNDyJghAX05rjUb1) | 3:23 | 2021-12-11 | 2022-01-03 |
 | [Alright](https://open.spotify.com/track/4IERwC8gPlEJiYuSNbVmt6) | [I Project](https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me), [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [Alright](https://open.spotify.com/album/4FMxQwJa01DiiL0Lrs67px) | 2:25 | 2022-06-25 | 2022-09-12 |
@@ -365,6 +365,7 @@
 | [Mandela](https://open.spotify.com/track/7y4ykpunzPBmPB7jXeEGRR) | [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [They Say I Don't Rap Enough, Vol\. 1](https://open.spotify.com/album/6dBVYrovLDj6u0YzpD7kAY) | 3:04 | 2021-12-11 | 2022-02-01 |
 | [Manifest](https://open.spotify.com/track/2AsgM1cgy6lhb22ndAvGd7) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Manifest](https://open.spotify.com/album/6hjQyP8Cy9YeKqtq0utXW2) | 2:33 | 2021-12-11 | 2022-02-05 |
 | [Marty Mcfly](https://open.spotify.com/track/0VEWtaWmA0ATE9KlL4ifOF) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Marty Mcfly](https://open.spotify.com/album/5Avq3HMzjkuIRm85VpqpQ0) | 2:11 | 2022-08-06 | 2022-10-06 |
+| [MAYBACH DREAMS](https://open.spotify.com/track/02A7EPAAXMUes29ey5FBBJ) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [MAYBACH DREAMS](https://open.spotify.com/album/0muWX84K9dVZkoOqCOAaww) | 2:30 | 2022-10-07 |  |
 | [Mere Mortal](https://open.spotify.com/track/3H2C5pp0KtptTrR0hy3Ui0) | [Cas Metah](https://open.spotify.com/artist/1gQYMf71wFagcPTBlL3G8y), [Dj Sean P](https://open.spotify.com/artist/4P08e76i9aRYNoE5c7otBB), [Sintax the Terrific](https://open.spotify.com/artist/5g4wwfnp6312mcPlNd83aX), [Jordan Coleman](https://open.spotify.com/artist/1CKw7oa0Q2D9mo95vmrhL5) | [Mere Mortal](https://open.spotify.com/album/1CkMK6RhVZaXn1K7KwpoGy) | 3:39 | 2021-12-11 | 2022-01-24 |
 | [Messiah](https://open.spotify.com/track/22FlIBvzFuGIxls2m4teEG) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [J1W](https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM) | [Messiah](https://open.spotify.com/album/3jak4ajYXSGpGOwzs3J0oS) | 2:50 | 2022-04-29 | 2022-07-15 |
 | [MIRACLE](https://open.spotify.com/track/1K6HOrE3e67HwlEq7ax9cR) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [MIRACLE](https://open.spotify.com/album/71fmKndru3YBprxUJoALda) | 3:07 | 2021-12-11 | 2022-02-05 |

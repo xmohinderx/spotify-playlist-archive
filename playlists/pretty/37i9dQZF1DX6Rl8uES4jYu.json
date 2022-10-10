@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 235073,
+  "num_followers": 235072,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDFiOWU1MzM1M2YzZmI2NzFmNmQzOWUwYjljOTc4ZDU4",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDc5OTk5YjJjNDA5NTFkOGU3NzRjMzk0NTlmZGEzN2Mz",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Keep On Smiling",
-        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 262356,
-      "name": "Everybody's Cool",
-      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Lunar Eclipse",
@@ -471,6 +455,22 @@
       "duration_ms": 194498,
       "name": "Lunar Eclipse",
       "url": "https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Keep On Smiling",
+        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 262356,
+      "name": "Everybody's Cool",
+      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -561,6 +561,22 @@
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
     },
     {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "My Wave",
+        "url": "https://open.spotify.com/album/4qbZPeJPVHASszWzkoS8hf"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 151636,
+      "name": "My Wave",
+      "url": "https://open.spotify.com/track/12spArvPaLxK6deo7ikvnZ"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Let Love Go",
@@ -579,22 +595,6 @@
       "duration_ms": 173266,
       "name": "Let Love Go",
       "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "My Wave",
-        "url": "https://open.spotify.com/album/4qbZPeJPVHASszWzkoS8hf"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 151636,
-      "name": "My Wave",
-      "url": "https://open.spotify.com/track/12spArvPaLxK6deo7ikvnZ"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Not Needed Anymore",
-        "url": "https://open.spotify.com/album/61TDNDxvXigXAMVVOdyKat"
-      },
-      "artists": [
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 92400,
-      "name": "Not Needed Anymore",
-      "url": "https://open.spotify.com/track/2BfkNEDzO5UtSzPpMsfg5Q"
-    },
-    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Carving Canyons",
@@ -1079,6 +1063,22 @@
       "duration_ms": 188619,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Not Needed Anymore",
+        "url": "https://open.spotify.com/album/61TDNDxvXigXAMVVOdyKat"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "duration_ms": 92400,
+      "name": "Not Needed Anymore",
+      "url": "https://open.spotify.com/track/2BfkNEDzO5UtSzPpMsfg5Q"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Sunset Drive - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 193983,
-      "name": "Sunset Drive - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
-    },
-    {
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "According To You",
@@ -1187,6 +1171,22 @@
       "duration_ms": 183870,
       "name": "According To You",
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Sunset Drive - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 193983,
+      "name": "Sunset Drive - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1369,6 +1369,26 @@
       "url": "https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe"
     },
     {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "You Gotta Respect Yourself!",
+        "url": "https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd"
+      },
+      "artists": [
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 191566,
+      "name": "You Gotta Respect Yourself!",
+      "url": "https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb"
+    },
+    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Run Away",
@@ -1391,26 +1411,6 @@
       "duration_ms": 184067,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "You Gotta Respect Yourself!",
-        "url": "https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd"
-      },
-      "artists": [
-        {
-          "name": "Dylan Chambers",
-          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
-        },
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 191566,
-      "name": "You Gotta Respect Yourself!",
-      "url": "https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb"
     },
     {
       "added_at": "2022-05-13 04:02:00",

@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-655 songs - 1 day 15 hr 8 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+656 songs - 1 day 15 hr 12 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Bloom](https://open.spotify.com/track/1tP3UmAa7Uv2Sb6hjMwwCa) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Lighter](https://open.spotify.com/album/73zETkOw0tap79gXPZGS7a) | 4:35 | 2021-12-17 | 2022-07-28 |
 | [Bloom](https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Bloom](https://open.spotify.com/album/5fNY7SfLdlrlLPJB5H7oYY) | 2:53 | 2022-07-22 |  |
 | [Bloom](https://open.spotify.com/track/4TKHFv1IkAQFg9PJUWS8f6) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Bloom](https://open.spotify.com/album/3j15Ww18uWAdXNJxrxNiA9) | 2:53 | 2021-12-17 | 2022-07-29 |
-| [blue](https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:33 | 2022-07-22 | 2022-10-07 |
+| [blue](https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:33 | 2022-07-22 |  |
 | [Bluebird](https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Bluebird](https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF) | 3:04 | 2021-12-17 | 2022-07-29 |
 | [Bluebird \- Acoustic](https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Bluebird \(Acoustic\)](https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB) | 3:40 | 2021-12-17 | 2022-07-27 |
 | [Bones](https://open.spotify.com/track/0hGO3Ws99t05Iboxcve9DC) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bones](https://open.spotify.com/album/3xHx0ZEM8KLsEN7yGqYUAf) | 2:58 | 2022-01-24 | 2022-06-06 |
@@ -279,6 +279,7 @@
 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 | 2022-07-22 |  |
 | [I Can Change](https://open.spotify.com/track/2uDnC30adouplySDz00DW2) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [I Can Change](https://open.spotify.com/album/1qmJxfBw5e2p2KgYjibOjB) | 3:11 | 2021-12-17 | 2022-07-29 |
 | [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 | 2021-12-17 | 2022-07-21 |
+| [I Don't Care](https://open.spotify.com/track/2PFhevKRsRROz9DjQWBcYV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/7Fy6WDol97Dr74xDgZxqu1) | 3:45 | 2022-07-29 |  |
 | [I Don't Care](https://open.spotify.com/track/3jMkipjhnGYHr2exDtTvhb) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/0AJw7CAvU6zYaXQOxZxVP6) | 3:45 | 2022-07-22 | 2022-09-22 |
 | [I Don't Care](https://open.spotify.com/track/3qR417vBrNd4Lf01eMVwWB) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/17GLkeQ4HyRAWfTDjzEKYP) | 3:45 | 2021-12-17 | 2022-04-19 |
 | [I Don't Wanna Dance \- Piano Version](https://open.spotify.com/track/4BXcGFt1btBUsOYzERvlG6) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [I Don't Wanna Dance \(Piano Version\)](https://open.spotify.com/album/18rblVvDEpB7th3zIx23X5) | 4:15 | 2022-01-24 | 2022-04-17 |
@@ -443,7 +444,7 @@
 | [Poolside](https://open.spotify.com/track/33GHxxJAD1IZl6vG8noCEC) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Poolside](https://open.spotify.com/album/3nrknIIXtcxUUrpyG4jaXU) | 3:43 | 2021-12-17 | 2022-07-28 |
 | [Praying for Love](https://open.spotify.com/track/4KETfxD7dbHBR2z52z6vKl) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Praying for Love](https://open.spotify.com/album/0GLHwOs7kfsOMaF5EDqG4L) | 3:02 | 2022-01-24 | 2022-04-20 |
 | [Pretty Places](https://open.spotify.com/track/465IQvyDIpnizvUbZ8ULyo) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Pretty Places](https://open.spotify.com/album/2AMNwptQJMPYkw5p3jjFVc) | 5:19 | 2021-12-17 | 2022-07-29 |
-| [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2021-12-17 |  |
+| [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2021-12-17 | 2022-10-10 |
 | [Problems](https://open.spotify.com/track/1x1MXE7vkT9MBnkvNW5ERG) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Problems](https://open.spotify.com/album/6gBz3SCQWNdrDQ54iOMrYc) | 2:50 | 2022-01-24 | 2022-04-20 |
 | [Prodigal Daughter](https://open.spotify.com/track/6oNmOMYzjES85AH0EJ786u) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Prodigal Daughter](https://open.spotify.com/album/3UZahzjPGglQRjZQPaZEFZ) | 3:42 | 2021-12-17 | 2022-04-28 |
 | [Progress](https://open.spotify.com/track/0NyVaR4GLlYxazZKzOJpsP) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Progress](https://open.spotify.com/album/4ezLc0ncmWTAmCZpQGMPSC) | 3:55 | 2021-12-17 | 2022-06-12 |
@@ -645,7 +646,7 @@
 | [With You](https://open.spotify.com/track/0Bq1REhXXSEvKwH91K3nWc) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2Q3BIgHqKOmCz0gSeaLnr6) | 3:36 | 2021-12-17 | 2022-07-26 |
 | [With You](https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7) | 3:36 | 2022-07-22 |  |
 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 | 2021-12-17 |  |
-| [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-12-17 |  |
+| [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-12-17 | 2022-10-10 |
 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 | 2021-12-17 |  |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-12-17 |  |
 | [Worst Of You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6XFNcVzKttxux0LJDEVXRJ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 3:41 | 2022-01-24 | 2022-04-21 |

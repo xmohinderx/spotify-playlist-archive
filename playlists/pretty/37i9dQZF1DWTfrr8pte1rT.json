@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop  Cover: GG Magree \\m/",
-  "num_followers": 275745,
+  "num_followers": 275803,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1MDQ1MywwMDAwMDAwMDRkMDJjMTY3NjcwYTYwZjk3NmY3ZjIyODM5MGMyYmFk",
+  "snapshot_id": "MTY2NTE1MDQ1MywwMDAwMDAwMDIyZTFmYmZkZjIwZjM0ZmQzZWI2Y2QxOWQ3NzIxMzQ0",
   "tracks": [
     {
       "added_at": "2022-06-24 04:01:00",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl"
     },
     {
-      "added_at": "2022-10-09 19:49:36",
+      "added_at": "2022-10-10 01:23:29",
       "album": {
         "name": "The Dead March",
         "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
@@ -1293,6 +1293,22 @@
       "url": "https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T"
     },
     {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Falling Asleep at the Wheel / Julie",
+        "url": "https://open.spotify.com/album/1e6GaUxeBFQt7AoDHUqJf2"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Falling Asleep at the Wheel",
+      "url": "https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Fighting Gravity",
@@ -1311,22 +1327,6 @@
       "duration_ms": 183553,
       "name": "Fighting Gravity - The Forgotten Remix",
       "url": "https://open.spotify.com/track/3ZAfrkXwfVm2FhgBr4rRQ3"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Falling Asleep at the Wheel / Julie",
-        "url": "https://open.spotify.com/album/1e6GaUxeBFQt7AoDHUqJf2"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Falling Asleep at the Wheel",
-      "url": "https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1437,26 +1437,6 @@
       "url": "https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "cut the cable",
-        "url": "https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        },
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 178844,
-      "name": "cut the cable",
-      "url": "https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl"
-    },
-    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Hearteater",
@@ -1475,6 +1455,26 @@
       "duration_ms": 217394,
       "name": "Hearteater",
       "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "cut the cable",
+        "url": "https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 178844,
+      "name": "cut the cable",
+      "url": "https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1879,30 +1879,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Kill The Machine (feat. Bad/Love)",
-        "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
-      },
-      "artists": [
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        },
-        {
-          "name": "Bad/Love",
-          "url": "https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ"
-        },
-        {
-          "name": "TMRRW",
-          "url": "https://open.spotify.com/artist/2T5c5IrQGkNGuQNOVJSU9y"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Kill The Machine (feat. Bad/Love)",
-      "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
       },
@@ -1923,6 +1899,30 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Kill The Machine (feat. Bad/Love)",
+        "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        },
+        {
+          "name": "Bad/Love",
+          "url": "https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ"
+        },
+        {
+          "name": "TMRRW",
+          "url": "https://open.spotify.com/artist/2T5c5IrQGkNGuQNOVJSU9y"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Kill The Machine (feat. Bad/Love)",
+      "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2339,6 +2339,26 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "Regret (Remix)",
+        "url": "https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "The Trip Out",
         "url": "https://open.spotify.com/album/78qwuQ29QWiA4PkfF6CC2b"
       },
@@ -2363,22 +2383,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Regret (Remix)",
-        "url": "https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A"
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/5B33qCg0fQNf4gZuqtt9ro"
       },
       "artists": [
         {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+          "name": "Stileto",
+          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
         },
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Mason Musso",
+          "url": "https://open.spotify.com/artist/4W9a2d2YNm0gNbt7y7ic2a"
         }
       ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi"
+      "duration_ms": 151500,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/65YiXAuE5eA8pWI4COEhmQ"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2399,26 +2419,6 @@
       "duration_ms": 212307,
       "name": "Hit The Floor",
       "url": "https://open.spotify.com/track/2FHa5rOKOAhuKa0p7XfLTo"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "State Of Mind",
-        "url": "https://open.spotify.com/album/5B33qCg0fQNf4gZuqtt9ro"
-      },
-      "artists": [
-        {
-          "name": "Stileto",
-          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
-        },
-        {
-          "name": "Mason Musso",
-          "url": "https://open.spotify.com/artist/4W9a2d2YNm0gNbt7y7ic2a"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "State Of Mind",
-      "url": "https://open.spotify.com/track/65YiXAuE5eA8pWI4COEhmQ"
     },
     {
       "added_at": "2022-06-24 04:01:00",

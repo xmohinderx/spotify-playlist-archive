@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Major RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,442 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,475 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 20 | [auri sacra fames](https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Roteiro pra Aïnouz \(Vol\. 2\)](https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL) | 4:27 |
 | 21 | [Hip Hop Rare](https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB) | 2:03 |
 | 22 | [Clone](https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Clone](https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v) | 3:18 |
-| 23 | [Puxa o Gatilho Primeiro](https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 1:31 |
+| 23 | [Propósitos](https://open.spotify.com/track/2LACCpFwBMjEHa3BqcYLVk) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim) | [Propósitos](https://open.spotify.com/album/6JHOgi8SNSKbdDo2VFmd4l) | 3:36 |
 | 24 | [CRIME](https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [JOVEM OG](https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ) | 3:08 |
-| 25 | [Propósitos](https://open.spotify.com/track/2LACCpFwBMjEHa3BqcYLVk) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim) | [Propósitos](https://open.spotify.com/album/6JHOgi8SNSKbdDo2VFmd4l) | 3:36 |
+| 25 | [Puxa o Gatilho Primeiro](https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 1:31 |
 | 26 | [Edgar Davids](https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Edgar Davids](https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf) | 2:43 |
 | 27 | [Fura Bilionários](https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Xaga](https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6), [Ghetto ZN](https://open.spotify.com/artist/3j081Zyys4b40Q0DSogq1K), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Fura Bilionários](https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w) | 5:00 |
 | 28 | [Passa Nada](https://open.spotify.com/track/2ppPUewH2bl3W80Zp6zKcD) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Vitin](https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ), [JEFFRO](https://open.spotify.com/artist/5jkObTziesSFoINHI1ZVUi) | [Passa Nada](https://open.spotify.com/album/7AAwkqFgpxCSOomrrxQFlT) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Quebrando Regras](https://open.spotify.com/track/1khFaNabDuHN814N0ww0Mj) | [Xandy MC](https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Quebrando Regras](https://open.spotify.com/album/24kyFBNUZsYmm19GISzgoW) | 2:26 |
 | 50 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
 
-Snapshot ID: `MTY2NTExMTg1MywwMDAwMDAwMGRhZWM0M2ZlNWE0NzNjMTA3MzE5ZTgwYWVmMjBkZGMy`
+Snapshot ID: `MTY2NTExMTg1MywwMDAwMDAwMDE0ODNkOTlmYzE5OTVjYjBkNzM1M2Y2ZWFjYmI3ZGU4`

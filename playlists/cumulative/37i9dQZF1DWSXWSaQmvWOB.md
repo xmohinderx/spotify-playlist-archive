@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-562 songs - 1 day 10 hr 25 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+563 songs - 1 day 10 hr 29 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Love Will Work It Out](https://open.spotify.com/track/0BZVAlUSCoG2U4ejyPfK58) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Love Will Work It Out](https://open.spotify.com/album/6n2tvfglNOT50czZxUxLXi) | 3:45 | 2021-06-11 | 2022-07-29 |
 | [Love Will Work It Out](https://open.spotify.com/track/4bQhGIHwo1ZpixP9MudUbV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:45 | 2022-07-28 | 2022-09-23 |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-15 |  |
+| [Lovestreet 55](https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Lovestreet 55](https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH) | 3:58 | 2022-09-30 |  |
 | [Loving Someone \- Pt\. 1](https://open.spotify.com/track/3EohOPnAhvkc9XcVgBvbmD) | [Jaguar Skills](https://open.spotify.com/artist/3L1oMxInSBbQgoYVSjUkcR), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Loving Someone](https://open.spotify.com/album/0dMq34THSVZI5OI9KdlPU2) | 3:38 | 2021-08-06 | 2021-10-29 |
 | [Loving You](https://open.spotify.com/track/5WfaCiV8sAaSXHvu1uSSaT) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/4DwytUPjIttOwkVAC8CP7u) | 3:48 | 2021-04-17 | 2021-08-03 |
 | [Loving You](https://open.spotify.com/track/7IjkvqOM9CHGbzmdTUSym1) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/6jPxo5X8PDJCaDcvqVSeNC) | 3:48 | 2021-08-03 | 2022-09-23 |
@@ -325,7 +326,7 @@
 | [Morning Light](https://open.spotify.com/track/6mNsWIUeTuxOAlbVlNzam5) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Freedom Fables](https://open.spotify.com/album/7dGOyxCI4QXNFxHEpgD4jt) | 5:27 | 2021-03-14 | 2021-04-23 |
 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 | 2020-03-25\* | 2020-11-13 |
 | [Motorbike](https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Motorbike](https://open.spotify.com/album/1E4NH1W98mv4PaD3tvf5B9) | 3:08 | 2021-05-14 | 2021-09-24 |
-| [Motorway](https://open.spotify.com/track/4x1wEZiMblCHTpsO3HviGV) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Motorway](https://open.spotify.com/album/5K458YIkowsLUlFzo6ENsG) | 3:35 | 2022-08-25 |  |
+| [Motorway](https://open.spotify.com/track/4x1wEZiMblCHTpsO3HviGV) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Motorway](https://open.spotify.com/album/5K458YIkowsLUlFzo6ENsG) | 3:35 | 2022-08-25 | 2022-10-10 |
 | [Music](https://open.spotify.com/track/7L51v6yn4ZZKnb20fxOY19) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Music](https://open.spotify.com/album/18umcaGsT1E9wbT3jAAncg) | 3:18 | 2020-03-25\* | 2020-11-13 |
 | [My Brother](https://open.spotify.com/track/37HGkLjLX4BI1oOsLhcaWh) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [My Brother](https://open.spotify.com/album/7mAl8U22AziS416VFmoeqG) | 3:39 | 2020-11-20 | 2021-01-09 |
 | [My Everything](https://open.spotify.com/track/3NBweAfNWhU9Zu1xDLHAR8) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/6wglqk5rW63K9eaeqxzZpI) | [My Everything](https://open.spotify.com/album/0GlHeseuowxs1NOGdPm3nI) | 3:58 | 2022-07-28 |  |

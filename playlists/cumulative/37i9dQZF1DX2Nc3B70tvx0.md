@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Arctic Monkeys
 
-1,256 songs - 3 day 3 hr 5 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,257 songs - 3 day 3 hr 8 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 | 2020-10-29 | 2021-03-06 |
 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 | 2020-12-04 | 2021-05-21 |
 | [caroline](https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [caroline](https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd) | 3:18 | 2022-08-02 | 2022-10-07 |
+| [caroline](https://open.spotify.com/track/73Moxwjn2ElzQBIMstG2ga) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [caroline](https://open.spotify.com/album/5KYKojZe2Kx6lRcUdvNTkp) | 3:18 | 2022-09-30 |  |
 | [Casio](https://open.spotify.com/track/33wUd3GgaRf2rux2aJ71yb) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/1VZxGX1lzF1QjY5QofhC5r) | 3:54 | 2019-05-26\* | 2019-08-13 |
 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 | 2021-09-15 | 2022-01-26 |
 | [Cassette Beat](https://open.spotify.com/track/3k473mHQJ3JQCjOzYYHbs6) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Cassette Beat / Human Nature](https://open.spotify.com/album/68RjIGSVioKjpvW1dRCNrG) | 4:00 | 2020-08-07 | 2021-03-06 |
@@ -766,7 +767,7 @@
 | [Nobody](https://open.spotify.com/track/42EMSKPgulAzr4RLY65Eut) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:32 | 2019-05-26\* | 2019-08-13 |
 | [Nobody](https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 3:13 | 2021-03-11 | 2021-05-27 |
 | [Nobody's Fault](https://open.spotify.com/track/0ribL5IffcrNLjJ2Xy5PFp) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Nobody's Fault](https://open.spotify.com/album/7MXiNnljNmXyGNcGgKgpOZ) | 3:22 | 2021-01-30 | 2021-05-22 |
-| [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 | 2022-09-16 |  |
+| [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 | 2022-09-16 | 2022-10-10 |
 | [Not \- Edit](https://open.spotify.com/track/2reSrhID8BC9HpM2CkT3hT) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Not](https://open.spotify.com/album/3ALSulFtUMsitIR02vuedW) | 3:52 | 2019-08-30 | 2019-09-21 |
 | [Not Around](https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Not Around](https://open.spotify.com/album/1AoV2zzDHH57nQEOfga6mX) | 2:40 | 2021-02-22 | 2021-05-21 |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2021-04-20 | 2022-04-07 |

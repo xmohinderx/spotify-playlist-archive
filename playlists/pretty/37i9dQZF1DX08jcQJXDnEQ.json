@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s. Cover: Deftones",
-  "num_followers": 677324,
+  "num_followers": 677480,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA2OTE1NSwwMDAwMDAwMDRjOTBmNmZiZmZkZjliNjNmOGZhNTE1NGYwYzJlNzc0",
+  "snapshot_id": "MTY2NTA2OTE1NSwwMDAwMDAwMDYxZTVjMjk3Yjk1YTY2YjNiMzNjOWM4ZDAyODVjMDdk",
   "tracks": [
     {
       "added_at": "2022-10-05 16:18:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Tonight The Stars Revolt",
-        "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
-      },
-      "artists": [
-        {
-          "name": "Powerman 5000",
-          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "When Worlds Collide",
-      "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "No More Tears (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 443240,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Tonight The Stars Revolt",
+        "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
+      },
+      "artists": [
+        {
+          "name": "Powerman 5000",
+          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "When Worlds Collide",
+      "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1384,9 +1384,9 @@
           "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 208666,
-      "name": "Slave to the Grind",
-      "url": "https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e"
+      "duration_ms": 258266,
+      "name": "Monkey Business",
+      "url": "https://open.spotify.com/track/57IEwDDEj8q9UQKc0MNR2x"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1528,9 +1528,9 @@
           "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 258266,
-      "name": "Monkey Business",
-      "url": "https://open.spotify.com/track/57IEwDDEj8q9UQKc0MNR2x"
+      "duration_ms": 208666,
+      "name": "Slave to the Grind",
+      "url": "https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Slaughter Of The Soul",
-        "url": "https://open.spotify.com/album/1m0px7K5tJndjxU6RIuL8U"
-      },
-      "artists": [
-        {
-          "name": "At The Gates",
-          "url": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Slaughter Of The Soul",
-      "url": "https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Something's Gotta Give",
         "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 214666,
       "name": "Gotta Go",
       "url": "https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Slaughter Of The Soul",
+        "url": "https://open.spotify.com/album/1m0px7K5tJndjxU6RIuL8U"
+      },
+      "artists": [
+        {
+          "name": "At The Gates",
+          "url": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Slaughter Of The Soul",
+      "url": "https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Colony",
-        "url": "https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l"
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
       },
       "artists": [
         {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
         }
       ],
-      "duration_ms": 256266,
-      "name": "Ordinary Story",
-      "url": "https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc"
+      "duration_ms": 324066,
+      "name": "Empire - Remastered 2003",
+      "url": "https://open.spotify.com/track/069YqoVkrwNxnfWWj7k3Qk"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+        "name": "Colony",
+        "url": "https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l"
       },
       "artists": [
         {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
         }
       ],
-      "duration_ms": 324066,
-      "name": "Empire - Remastered 2003",
-      "url": "https://open.spotify.com/track/069YqoVkrwNxnfWWj7k3Qk"
+      "duration_ms": 256266,
+      "name": "Ordinary Story",
+      "url": "https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Transilvanian Hunger",
-        "url": "https://open.spotify.com/album/4a4g7PAi7KRsCQykBFqE5E"
-      },
-      "artists": [
-        {
-          "name": "Darkthrone",
-          "url": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
-        }
-      ],
-      "duration_ms": 369760,
-      "name": "Transilvanian Hunger - Studio",
-      "url": "https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Powertrip",
         "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 211440,
       "name": "Powertrip",
       "url": "https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Transilvanian Hunger",
+        "url": "https://open.spotify.com/album/4a4g7PAi7KRsCQykBFqE5E"
+      },
+      "artists": [
+        {
+          "name": "Darkthrone",
+          "url": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+        }
+      ],
+      "duration_ms": 369760,
+      "name": "Transilvanian Hunger - Studio",
+      "url": "https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Filth Pig",
-        "url": "https://open.spotify.com/album/6pK142b1OANbpbyJ6XIuvo"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 344600,
-      "name": "Lay Lady Lay",
-      "url": "https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga"
-    },
-    {
-      "added_at": "2022-10-05 16:18:11",
-      "album": {
         "name": "Groove Family Cyco / Snapped Lika Mutha",
         "url": "https://open.spotify.com/album/55u43mARrmqFDHNb2qQ59M"
       },
@@ -2367,18 +2351,18 @@
     {
       "added_at": "2022-10-05 16:18:11",
       "album": {
-        "name": "Set The World On Fire",
-        "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
+        "name": "Filth Pig",
+        "url": "https://open.spotify.com/album/6pK142b1OANbpbyJ6XIuvo"
       },
       "artists": [
         {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
         }
       ],
-      "duration_ms": 228546,
-      "name": "Phoenix Rising",
-      "url": "https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH"
+      "duration_ms": 344600,
+      "name": "Lay Lady Lay",
+      "url": "https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga"
     },
     {
       "added_at": "2022-10-05 16:18:11",
@@ -2395,6 +2379,22 @@
       "duration_ms": 215000,
       "name": "A Drug Against War",
       "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
+    },
+    {
+      "added_at": "2022-10-05 16:18:11",
+      "album": {
+        "name": "Set The World On Fire",
+        "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
+      },
+      "artists": [
+        {
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Phoenix Rising",
+      "url": "https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH"
     },
     {
       "added_at": "2022-10-05 16:18:11",

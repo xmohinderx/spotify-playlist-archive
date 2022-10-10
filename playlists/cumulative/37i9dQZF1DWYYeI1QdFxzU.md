@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-100 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
+101 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [El Azul del Cielo \- Mente Orgánica Remix](https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT), [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO) | [El Azul del Cielo \(Remix\)](https://open.spotify.com/album/7qYsWtbEwidXgIjiiZ0u1I) | 7:00 | 2021-10-15 |  |
 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 | 2021-10-15 |  |
 | [Feel](https://open.spotify.com/track/0AW12rdgg7BEKo4POOUUbQ) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [Regrets & Resolutions](https://open.spotify.com/album/1I8zvBuhjyZSgWjhspMNr0) | 5:54 | 2021-10-15 |  |
-| [Feelings Of Unreality](https://open.spotify.com/track/0fLPSEi4IBDAnhuDIm1bzI) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Feelings Of Unreality](https://open.spotify.com/album/3N0eERc3grlFcQGwWF3J70) | 3:55 | 2021-10-15 |  |
+| [Feelings Of Unreality](https://open.spotify.com/track/0fLPSEi4IBDAnhuDIm1bzI) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Feelings Of Unreality](https://open.spotify.com/album/3N0eERc3grlFcQGwWF3J70) | 3:55 | 2021-10-15 | 2022-10-10 |
 | [Feelings Of Unreality](https://open.spotify.com/track/6DNUm6RHHd9LzPSNC0SaBD) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Feelings Of Unreality](https://open.spotify.com/album/2I32leZu15Vr0HQSyqXbtU) | 3:55 | 2021-10-15 | 2022-07-06 |
 | [Fires](https://open.spotify.com/track/3J29rY1I9u0gNsvHq1cgUk) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm) | 4:39 | 2021-10-15 |  |
 | [Fires](https://open.spotify.com/track/4UBvcf6BZhHTNyizI9R1jf) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Fires](https://open.spotify.com/album/6iM6VTixlzgFqRR0L2oqZI) | 4:39 | 2021-10-15 | 2022-07-29 |
@@ -78,6 +78,7 @@
 | [Pink & Blue](https://open.spotify.com/track/2XjRIFpALuD2lgQVxVUKwS) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Pink & Blue](https://open.spotify.com/album/1Qd8Dbca7apJiE4hKrFzwU) | 4:19 | 2021-10-15 | 2022-07-24 |
 | [Planet Hearth](https://open.spotify.com/track/1RvPfvzAg6jbzWsODpDILb) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Planet Hearth](https://open.spotify.com/album/35WGtiXgUzM8ZANghXQxl3) | 4:17 | 2021-10-15 |  |
 | [Pulsar](https://open.spotify.com/track/2sgPuP6ZKso5wwIR055k3k) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ambivert Tools, Vol\. 4](https://open.spotify.com/album/5Tk7z0XOX8FLfrPFztPIvw) | 7:40 | 2021-10-15 | 2022-07-21 |
+| [Qasida \- Sunset Fever 2](https://open.spotify.com/track/0Y6bC35xuN9ycyKxpT9Iks) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Atlantics \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FWKJ334wfgxb10foTngyf) | 1:36 | 2021-10-15 |  |
 | [Qasida \- Sunset Fever 2](https://open.spotify.com/track/6pdtcJHFPbvBqA5b1cagP1) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Atlantique \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4dlzRgB1ykcpd8vqpLXAXB) | 1:36 | 2021-10-15 | 2022-07-08 |
 | [Restart](https://open.spotify.com/track/4XZhLUhqohu9xK90ZMQxkF) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Primary Progressive](https://open.spotify.com/album/6NWGbHxn3kHVxuwUcAzkmu) | 4:46 | 2021-10-15 | 2022-07-14 |
 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 | 2021-10-15 |  |

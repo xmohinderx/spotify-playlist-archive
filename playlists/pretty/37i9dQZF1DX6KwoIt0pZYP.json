@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 122764,
+  "num_followers": 122827,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MzYwMCwwMDAwMDAwMDZlNWFlNDRlMTBmNmUxMDQ2YTI3MDk5ZDgwZTkxMWUy",
+  "snapshot_id": "MTY2NDU1MzYwMCwwMDAwMDAwMGUwODkwOGE5YWUyOWIyMGRhOGU3YmY0MGI0NGVlMzFi",
   "tracks": [
     {
       "added_at": "2022-09-26 04:18:51",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Keeping Tabs",
-      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
-    },
-    {
-      "added_at": "2022-09-26 04:18:51",
-      "album": {
         "name": "LOVERs PLAYBOOK",
         "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 269242,
       "name": "THANK YOU 4 LOVIN\u2019 ME",
       "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
+    },
+    {
+      "added_at": "2022-09-26 04:18:51",
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Keeping Tabs",
+      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 234057,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF"
-    },
-    {
-      "added_at": "2022-09-26 04:18:51",
-      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
       },
@@ -911,22 +895,18 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
-        "name": "Thinking Bout You",
-        "url": "https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu"
+        "name": "Before",
+        "url": "https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY"
       },
       "artists": [
         {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 190946,
-      "name": "Thinking Bout You",
-      "url": "https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8"
+      "duration_ms": 234057,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -983,22 +963,22 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
-        "name": "One Last Dance (feat. Milky Day)",
-        "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
+        "name": "Thinking Bout You",
+        "url": "https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu"
       },
       "artists": [
         {
-          "name": "Thomas Ng",
-          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
         },
         {
-          "name": "Milky Day",
-          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 173308,
-      "name": "One Last Dance (feat. Milky Day)",
-      "url": "https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8"
+      "duration_ms": 190946,
+      "name": "Thinking Bout You",
+      "url": "https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -1015,6 +995,26 @@
       "duration_ms": 212224,
       "name": "BEAUTiFUL",
       "url": "https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN"
+    },
+    {
+      "added_at": "2022-09-26 04:18:51",
+      "album": {
+        "name": "One Last Dance (feat. Milky Day)",
+        "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        },
+        {
+          "name": "Milky Day",
+          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+        }
+      ],
+      "duration_ms": 173308,
+      "name": "One Last Dance (feat. Milky Day)",
+      "url": "https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
+        "name": "superficial energy",
+        "url": "https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 175674,
+      "name": "superficial energy",
+      "url": "https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5"
+    },
+    {
+      "added_at": "2022-09-26 04:18:51",
+      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 220550,
       "name": "Blur",
       "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
-    },
-    {
-      "added_at": "2022-09-26 04:18:51",
-      "album": {
-        "name": "superficial energy",
-        "url": "https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 175674,
-      "name": "superficial energy",
-      "url": "https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/1XwPFljflqKznsSYi6Rz32"
-      },
-      "artists": [
-        {
-          "name": "Pixie Labrador",
-          "url": "https://open.spotify.com/artist/1SeQjcBdMcn1DCUJcnTtud"
-        },
-        {
-          "name": "Erin Lee",
-          "url": "https://open.spotify.com/artist/46wWAjA3s5EOENXQhL5w0W"
-        }
-      ],
-      "duration_ms": 317701,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/2Lz3NCfyc26mkA9N8TKi82"
-    },
-    {
-      "added_at": "2022-09-26 04:18:51",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1579,18 +1559,22 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2a1RK5BeRfUBGqMJLQFYnF"
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/1XwPFljflqKznsSYi6Rz32"
       },
       "artists": [
         {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+          "name": "Pixie Labrador",
+          "url": "https://open.spotify.com/artist/1SeQjcBdMcn1DCUJcnTtud"
+        },
+        {
+          "name": "Erin Lee",
+          "url": "https://open.spotify.com/artist/46wWAjA3s5EOENXQhL5w0W"
         }
       ],
-      "duration_ms": 174093,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4LTeNJlLwIgMTPPyR0KaDP"
+      "duration_ms": 317701,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/2Lz3NCfyc26mkA9N8TKi82"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
-        "name": "Maison",
-        "url": "https://open.spotify.com/album/7hUJWPUKJHdYF59nRjeEEy"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2a1RK5BeRfUBGqMJLQFYnF"
       },
       "artists": [
         {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
         }
       ],
-      "duration_ms": 298000,
-      "name": "Comme des Gar\u00e7ons",
-      "url": "https://open.spotify.com/track/0i2mhiiHucVjXuywKdLniL"
+      "duration_ms": 174093,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4LTeNJlLwIgMTPPyR0KaDP"
     },
     {
       "added_at": "2022-09-26 04:18:51",
@@ -1651,6 +1635,50 @@
     {
       "added_at": "2022-09-26 04:18:51",
       "album": {
+        "name": "Maison",
+        "url": "https://open.spotify.com/album/7hUJWPUKJHdYF59nRjeEEy"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Comme des Gar\u00e7ons",
+      "url": "https://open.spotify.com/track/0i2mhiiHucVjXuywKdLniL"
+    },
+    {
+      "added_at": "2022-09-26 04:18:51",
+      "album": {
+        "name": "Good In Me",
+        "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
+      },
+      "artists": [
+        {
+          "name": "Bones & The Boy",
+          "url": "https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B"
+        },
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        },
+        {
+          "name": "Yung Lee Records",
+          "url": "https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw"
+        }
+      ],
+      "duration_ms": 148027,
+      "name": "Good In Me",
+      "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
+    },
+    {
+      "added_at": "2022-09-26 04:18:51",
+      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/0TlyEfOkm86OhT6NQcnWIt"
       },
@@ -1663,26 +1691,6 @@
       "duration_ms": 223913,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z"
-    },
-    {
-      "added_at": "2022-09-26 04:18:51",
-      "album": {
-        "name": "Friends (with Pamungkas)",
-        "url": "https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm"
-      },
-      "artists": [
-        {
-          "name": "Rendy Pandugo",
-          "url": "https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8"
-        },
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 199601,
-      "name": "Friends (with Pamungkas)",
-      "url": "https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n"
     }
   ],
   "unique_name": "tapioca",

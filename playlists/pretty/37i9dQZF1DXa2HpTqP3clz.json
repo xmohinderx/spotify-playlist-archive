@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Billy Strings",
-  "num_followers": 111728,
+  "num_followers": 111783,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDRiZGM5MThmZjJmNjk5M2E3Y2U2NTcwYTM1ODc0OGZh",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGRhMThmZGVmZGNkYzYzYjdjNGM5NmVlZjM2NjE4MTY0",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "B\u00e9la Fleck & Abigail Washburn",
-        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Railroad",
-      "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Midnight on the Stormy Deep",
         "url": "https://open.spotify.com/album/0PgsXRaS1PIBUfwvoswFAI"
       },
@@ -787,18 +767,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+        "name": "B\u00e9la Fleck & Abigail Washburn",
+        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
         }
       ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
+      "duration_ms": 216306,
+      "name": "Railroad",
+      "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -819,6 +803,22 @@
       "duration_ms": 153106,
       "name": "On The Water",
       "url": "https://open.spotify.com/track/6sVBfdmhr8SrqUJDynPZKQ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -855,18 +855,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "In The Morning Light",
-        "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
+        "name": "Echo In The Valley",
+        "url": "https://open.spotify.com/album/4go0nUSCyfDJGPnN33FWhe"
       },
       "artists": [
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
         }
       ],
-      "duration_ms": 282480,
-      "name": "In The Morning Light",
-      "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
+      "duration_ms": 202053,
+      "name": "If I Could Talk To A Younger Me",
+      "url": "https://open.spotify.com/track/4QFM3QnPlyqDz0l5gdfeUs"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -903,22 +907,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Echo In The Valley",
-        "url": "https://open.spotify.com/album/4go0nUSCyfDJGPnN33FWhe"
+        "name": "In The Morning Light",
+        "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
       },
       "artists": [
         {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 202053,
-      "name": "If I Could Talk To A Younger Me",
-      "url": "https://open.spotify.com/track/4QFM3QnPlyqDz0l5gdfeUs"
+      "duration_ms": 282480,
+      "name": "In The Morning Light",
+      "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -967,6 +967,30 @@
       "duration_ms": 124013,
       "name": "Buck Creek Girls",
       "url": "https://open.spotify.com/track/4k21BxdAMVfOnX3IS7yv8J"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Charm School (feat. Billy Strings & Chris Thile)",
+        "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 483442,
+      "name": "Charm School (feat. Billy Strings & Chris Thile)",
+      "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1051,30 +1075,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Charm School (feat. Billy Strings & Chris Thile)",
-        "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 483442,
-      "name": "Charm School (feat. Billy Strings & Chris Thile)",
-      "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Run, Rose, Run",
-        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 193173,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 252428,
       "name": "When I Called Your Name",
       "url": "https://open.spotify.com/track/6SZ1bNDsPyDeEaIq9cosxw"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Run, Rose, Run",
+        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Arms of a Lover",
-        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 201292,
-      "name": "Don't Cry",
-      "url": "https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 153968,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Arms of a Lover",
+        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 201292,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Forlorn Strangers",
-        "url": "https://open.spotify.com/album/5V4SGNKV8NKpHY96uCCFSe"
-      },
-      "artists": [
-        {
-          "name": "Forlorn Strangers",
-          "url": "https://open.spotify.com/artist/7rlb4ZH6RO0juVpvZXWqif"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Bottom Of The Barrel",
-      "url": "https://open.spotify.com/track/6rs3NpGtXxKRoUpJsvGUtR"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Tall Tales & Fables",
         "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 177414,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Forlorn Strangers",
+        "url": "https://open.spotify.com/album/5V4SGNKV8NKpHY96uCCFSe"
+      },
+      "artists": [
+        {
+          "name": "Forlorn Strangers",
+          "url": "https://open.spotify.com/artist/7rlb4ZH6RO0juVpvZXWqif"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Bottom Of The Barrel",
+      "url": "https://open.spotify.com/track/6rs3NpGtXxKRoUpJsvGUtR"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "The More I Learn",
         "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 246853,
       "name": "The More I Learn",
       "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Tempest & Rapture",
-        "url": "https://open.spotify.com/album/6wvpesFCyaJ2DPmD0U2g28"
-      },
-      "artists": [
-        {
-          "name": "The Deer",
-          "url": "https://open.spotify.com/artist/1Hhsvgh6jPbzakInEaTFAJ"
-        }
-      ],
-      "duration_ms": 274115,
-      "name": "Winter to Pry",
-      "url": "https://open.spotify.com/track/4475bUCSvAIbnHVlxQzhZ6"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Drifter",
         "url": "https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 174773,
       "name": "95 Years",
       "url": "https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Tempest & Rapture",
+        "url": "https://open.spotify.com/album/6wvpesFCyaJ2DPmD0U2g28"
+      },
+      "artists": [
+        {
+          "name": "The Deer",
+          "url": "https://open.spotify.com/artist/1Hhsvgh6jPbzakInEaTFAJ"
+        }
+      ],
+      "duration_ms": 274115,
+      "name": "Winter to Pry",
+      "url": "https://open.spotify.com/track/4475bUCSvAIbnHVlxQzhZ6"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Shenandoah",
-        "url": "https://open.spotify.com/album/1QFmpfj9SakhUQe7iWBIzu"
-      },
-      "artists": [
-        {
-          "name": "Hannah Read",
-          "url": "https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9"
-        },
-        {
-          "name": "Michael Starkey",
-          "url": "https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk"
-        }
-      ],
-      "duration_ms": 236386,
-      "name": "Shenandoah",
-      "url": "https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Firebound Road",
         "url": "https://open.spotify.com/album/1z3HBD32gxoPdnRUFP0HXR"
       },
@@ -1691,30 +1671,6 @@
       "duration_ms": 215173,
       "name": "Firebound Road",
       "url": "https://open.spotify.com/track/1IZKl9DScdfu56ssIfg87r"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "My Bluegrass Heart",
-        "url": "https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 369571,
-      "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
-      "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1743,6 +1699,50 @@
       "duration_ms": 248712,
       "name": "Squirrel Hunters",
       "url": "https://open.spotify.com/track/5Tu8iwoMgiz3MQJui9OFt9"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Shenandoah",
+        "url": "https://open.spotify.com/album/1QFmpfj9SakhUQe7iWBIzu"
+      },
+      "artists": [
+        {
+          "name": "Hannah Read",
+          "url": "https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9"
+        },
+        {
+          "name": "Michael Starkey",
+          "url": "https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "Shenandoah",
+      "url": "https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "My Bluegrass Heart",
+        "url": "https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 369571,
+      "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
+      "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
     },
     {
       "added_at": "2022-09-30 04:00:00",

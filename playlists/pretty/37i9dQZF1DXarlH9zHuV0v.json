@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 227648,
+  "num_followers": 227736,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDlkNzhkMjkzNGM4Nzk4YzA4OWFiZmZjZjM0MWNlN2Iw",
+  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDQ3OTNmZjU0Y2EwNDZkZGRiYzhhMmY0YmQxYTUzZTQw",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -247,22 +247,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Runnin' with the Devil - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Scream",
         "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
       },
@@ -279,18 +263,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Living Dead Girl",
-      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -307,6 +291,22 @@
       "duration_ms": 238773,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Living Dead Girl",
+      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -407,6 +407,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Jack's Lament",
+      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Darkside",
         "url": "https://open.spotify.com/album/64WDoAGyTcPlSIFAiSDsB0"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 211866,
       "name": "Darkside",
       "url": "https://open.spotify.com/track/1snWlbcbgQpJfknoI30DWG"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Nightmare Before Christmas Special Edition",
-        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Jack's Lament",
-      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -771,22 +771,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Killing Joke",
-        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 415160,
-      "name": "The Death & Resurrection Show",
-      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Fame Monster (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 249253,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1K9jK8EHkgOTjLokIbIxPq"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Killing Joke",
+        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 415160,
+      "name": "The Death & Resurrection Show",
+      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Rewind, Replay, Rebound (Deluxe)",
-        "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Sorry Sack Of Bones",
-      "url": "https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Addams Family (Original Music From The T.V. Show)",
         "url": "https://open.spotify.com/album/3GPiacqnXD4MCCMWvSTT53"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 120066,
       "name": "Main Theme: The Addams Family - Instrumental Version",
       "url": "https://open.spotify.com/track/7M2t3mrwREenfKCvpRCed7"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Rewind, Replay, Rebound (Deluxe)",
+        "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Sorry Sack Of Bones",
+      "url": "https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy"
     },
     {
       "added_at": "2019-10-09 15:02:50",

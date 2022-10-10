@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: CHANMINA(\ucc2c\ubbf8\ub098)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 160858,
+  "num_followers": 160904,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzI3NiwwMDAwMDAwMGUwMGZiYzcyYTY4YTQ3ZDdhN2U2MWY1NjdiMTZmMzAz",
+  "snapshot_id": "MTY2NTExNzI3NiwwMDAwMDAwMGJjYzc0Y2ZjOWI4OTE5NTUzNDRhZTJkMDc2OGMxODQ3",
   "tracks": [
     {
       "added_at": "2022-09-30 16:37:01",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0"
     },
     {
-      "added_at": "2022-10-09 19:55:05",
+      "added_at": "2022-10-10 01:30:32",
       "album": {
         "name": "Never Grind (feat. 100KGOLD & HOWLER)",
         "url": "https://open.spotify.com/album/5SRcrxBK3wt2NR7eEKzi6k"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5lLnlx0BMPJCSXMB9GZHIR"
     },
     {
-      "added_at": "2022-10-09 19:55:05",
+      "added_at": "2022-10-10 01:30:32",
       "album": {
         "name": "Watcha Original <Inside Lyrics> `Airbag`",
         "url": "https://open.spotify.com/album/1BGa0SY2AqensYrVvbRrtR"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2NhTSoKSOZzTc6SYIoIWCd"
     },
     {
-      "added_at": "2022-10-09 19:55:05",
+      "added_at": "2022-10-10 01:30:32",
       "album": {
         "name": "D.I.M.E (Feat. JUSTHIS)",
         "url": "https://open.spotify.com/album/67dg4k1O64jXpZls8H5moQ"
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-09-30 16:37:01",
       "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Shy (eh o)",
+      "url": "https://open.spotify.com/track/5UPrxc9ewxFRaSGMPkad3O"
+    },
+    {
+      "added_at": "2022-09-30 16:37:01",
+      "album": {
         "name": "Drivin'",
         "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 162586,
       "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
       "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
-    },
-    {
-      "added_at": "2022-09-30 16:37:01",
-      "album": {
-        "name": "Organic",
-        "url": "https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Shy (eh o)",
-      "url": "https://open.spotify.com/track/5UPrxc9ewxFRaSGMPkad3O"
     },
     {
       "added_at": "2022-09-30 16:37:01",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2022-09-30 16:37:01",
       "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 190690,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
-    },
-    {
-      "added_at": "2022-09-30 16:37:01",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 174644,
       "name": "Beautiful (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/3J6NzKxov6PDE1LC99gXV8"
+    },
+    {
+      "added_at": "2022-09-30 16:37:01",
+      "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 190690,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
     },
     {
       "added_at": "2022-09-30 16:37:01",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2022-09-30 16:37:01",
       "album": {
-        "name": "BYE (feat. Whee In)",
-        "url": "https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx"
-      },
-      "artists": [
-        {
-          "name": "RAVI",
-          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "BYE (feat. Whee In)",
-      "url": "https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu"
-    },
-    {
-      "added_at": "2022-09-30 16:37:01",
-      "album": {
         "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
         "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
       },
@@ -1295,6 +1275,22 @@
       "duration_ms": 189157,
       "name": "HATE ME (feat. youra) (prod. WOOGIE)",
       "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
+    },
+    {
+      "added_at": "2022-09-30 16:37:01",
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
     },
     {
       "added_at": "2022-09-30 16:37:01",
@@ -1319,18 +1315,22 @@
     {
       "added_at": "2022-09-30 16:37:01",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+        "name": "BYE (feat. Whee In)",
+        "url": "https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx"
       },
       "artists": [
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "RAVI",
+          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 196153,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
+      "duration_ms": 188293,
+      "name": "BYE (feat. Whee In)",
+      "url": "https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu"
     },
     {
       "added_at": "2022-09-30 16:37:01",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-09-30 16:37:01",
       "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
-      },
-      "artists": [
-        {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
-    },
-    {
-      "added_at": "2022-09-30 16:37:01",
-      "album": {
         "name": "Empty Head",
         "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 185642,
       "name": "Empty Head",
       "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
+    },
+    {
+      "added_at": "2022-09-30 16:37:01",
+      "album": {
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
     },
     {
       "added_at": "2022-09-30 16:37:01",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-09-30 16:37:01",
       "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
-    },
-    {
-      "added_at": "2022-09-30 16:37:01",
-      "album": {
         "name": "Berry Loves My Mood",
         "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 210641,
       "name": "Misfits (Feat. MELOH, Kid Wine)",
       "url": "https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J"
+    },
+    {
+      "added_at": "2022-09-30 16:37:01",
+      "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
     },
     {
       "added_at": "2022-09-30 16:37:01",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-09-30 16:37:01",
       "album": {
-        "name": "BLOO IN WONDERLAND 2",
-        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 170520,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
-    },
-    {
-      "added_at": "2022-09-30 16:37:01",
-      "album": {
         "name": "I Am Yours",
         "url": "https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 211640,
       "name": "I Am Yours",
       "url": "https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE"
+    },
+    {
+      "added_at": "2022-09-30 16:37:01",
+      "album": {
+        "name": "BLOO IN WONDERLAND 2",
+        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
     },
     {
       "added_at": "2022-09-30 16:37:01",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2022-09-30 16:37:01",
       "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/5KBCqZ94VTGyw9RIKtJD7y"
-      },
-      "artists": [
-        {
-          "name": "CHANHYUN",
-          "url": "https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Shhh (Feat.Leellamarz) (Prod.GRAY)",
-      "url": "https://open.spotify.com/track/0x3WxddWUurD9VTkgcFt9a"
-    },
-    {
-      "added_at": "2022-09-30 16:37:01",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 195078,
       "name": "City Life",
       "url": "https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM"
+    },
+    {
+      "added_at": "2022-09-30 16:37:01",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/5KBCqZ94VTGyw9RIKtJD7y"
+      },
+      "artists": [
+        {
+          "name": "CHANHYUN",
+          "url": "https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Shhh (Feat.Leellamarz) (Prod.GRAY)",
+      "url": "https://open.spotify.com/track/0x3WxddWUurD9VTkgcFt9a"
     },
     {
       "added_at": "2022-09-30 16:37:01",

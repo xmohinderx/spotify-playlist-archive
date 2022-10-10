@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Nat King Cole",
-  "num_followers": 452936,
+  "num_followers": 452953,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDliYjUwZDcxMDUxNTlhOTBkNzY5YjM0NTYxMTNmMmY3",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDQ2OTU1NTUyYzdlOWUzMWVhYWQxMDljZTBkMDFiOTJh",
   "tracks": [
     {
       "added_at": "2021-11-12 15:48:58",
@@ -229,10 +229,10 @@
       "url": "https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Christmas Calling (Jolly Jones)",
-        "url": "https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI"
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
       },
       "artists": [
         {
@@ -240,25 +240,9 @@
           "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 200461,
-      "name": "Christmas Calling (Jolly Jones)",
-      "url": "https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
-      },
-      "artists": [
-        {
-          "name": "Matt Belsante",
-          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "Home For The Holidays",
-      "url": "https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV"
+      "duration_ms": 256443,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -275,6 +259,22 @@
       "duration_ms": 264360,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
+      },
+      "artists": [
+        {
+          "name": "Matt Belsante",
+          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Home For The Holidays",
+      "url": "https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -327,8 +327,8 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "I Dream Of Christmas",
-        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
+        "name": "Christmas Calling (Jolly Jones)",
+        "url": "https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 160290,
-      "name": "Christmas Don't Be Late",
-      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
+      "duration_ms": 200461,
+      "name": "Christmas Calling (Jolly Jones)",
+      "url": "https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -465,10 +465,10 @@
       "url": "https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
+        "name": "I Dream Of Christmas",
+        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 256443,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
+      "duration_ms": 160290,
+      "name": "Christmas Don't Be Late",
+      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -499,18 +499,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Breaking It Up!",
-        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
       },
       "artists": [
         {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 145333,
-      "name": "Shake Hands with Santa Claus - Mono Recording",
-      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
+      "duration_ms": 201000,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2MslTB54EOMr1GgJbTzj0K"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -531,18 +531,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "A Legendary Christmas",
-        "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
+        "name": "Breaking It Up!",
+        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/2MslTB54EOMr1GgJbTzj0K"
+      "duration_ms": 145333,
+      "name": "Shake Hands with Santa Claus - Mono Recording",
+      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -575,6 +575,22 @@
       "duration_ms": 133893,
       "name": "We Wish You The Merriest",
       "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "A Visit From St. Nicholas",
+        "url": "https://open.spotify.com/album/665z0eJtFybjWpF1tjgVFj"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 381057,
+      "name": "A Visit from St. Nicholas",
+      "url": "https://open.spotify.com/track/1Plru2OsTMH5W2O9fyFKsg"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -627,6 +643,22 @@
       "duration_ms": 223315,
       "name": "The Little Things",
       "url": "https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Just Me This Year",
+        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 187005,
+      "name": "Just Me This Year",
+      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -725,38 +757,6 @@
       "url": "https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "A Visit From St. Nicholas",
-        "url": "https://open.spotify.com/album/665z0eJtFybjWpF1tjgVFj"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 381057,
-      "name": "A Visit from St. Nicholas",
-      "url": "https://open.spotify.com/track/1Plru2OsTMH5W2O9fyFKsg"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Just Me This Year",
-        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 187005,
-      "name": "Just Me This Year",
-      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
-    },
-    {
       "added_at": "2021-11-12 15:48:58",
       "album": {
         "name": "Crescent City Christmas Card",
@@ -839,18 +839,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX"
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
       },
       "artists": [
         {
-          "name": "The Eddie Higgins Trio",
-          "url": "https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK"
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 289000,
-      "name": "O Lettle Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/38YcOVBqCbMZej01gurFFz"
+      "duration_ms": 221240,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/6mIzy7czAJV2sEYA1H7ws3"
     }
   ],
   "unique_name": "Christmas Jazz",

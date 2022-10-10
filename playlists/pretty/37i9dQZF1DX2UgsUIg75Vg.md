@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Amaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,269,925 likes - 101 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,270,012 likes - 101 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

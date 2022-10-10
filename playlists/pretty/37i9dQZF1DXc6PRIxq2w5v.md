@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,714 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,715 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 19 | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S) | 3:26 |
 | 20 | [Já Agradeço](https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Já Agradeço](https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ) | 3:20 |
 | 21 | [Marionete](https://open.spotify.com/track/7gSXvricIaaFGw1MyklcBl) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Marionete](https://open.spotify.com/album/1fCcpZjzGQLqjheVLLHhWE) | 3:06 |
-| 22 | [Chamada Perdida](https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Chamada Perdida](https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O) | 2:38 |
-| 23 | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Stella Yeshua](https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [Jana Baps](https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj) | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q) | 3:37 |
+| 22 | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Stella Yeshua](https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [Jana Baps](https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj) | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q) | 3:37 |
+| 23 | [Chamada Perdida](https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Chamada Perdida](https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O) | 2:38 |
 | 24 | [Jardim](https://open.spotify.com/track/00u4kGgE3Dn2PHoXwSF63O) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Jardim](https://open.spotify.com/album/4zESGmL812r4wAGRRqcs9V) | 2:33 |
 | 25 | [Me Leva](https://open.spotify.com/track/5x5pQsHg5Gv42ueRrYvAK6) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Me Leva](https://open.spotify.com/album/626lo15ONMAnnmDINVOoCN) | 2:33 |
 | 26 | [Filho do Homem](https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:15 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [Eu Sou](https://open.spotify.com/track/5nNBTKt7DwBtrvjeX21i3X) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Eu Sou](https://open.spotify.com/album/3A59tNKNF1ZUVBWIegUSFJ) | 2:48 |
 | 65 | [Ainda Não É o Fim](https://open.spotify.com/track/5Mo3oOezde7Zt6jAUIPIFI) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Ainda Não É o Fim](https://open.spotify.com/album/4EUUBMaeGHezzHevYOoPu7) | 2:41 |
 
-Snapshot ID: `MTY2NTExMzM1MywwMDAwMDAwMGI2YzJmZmY1MTFiYzIwZWEyMjNkZDNiMTg2MjBiYzAx`
+Snapshot ID: `MTY2NTExMzM1MywwMDAwMDAwMDhjYTFhZGFiY2Q5N2Q1NTU2MTRhNzUzN2Q1ZTBiYjQw`

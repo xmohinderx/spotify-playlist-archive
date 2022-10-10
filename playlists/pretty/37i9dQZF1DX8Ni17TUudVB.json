@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 130515,
+  "num_followers": 130510,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1NzQyNCwwMDAwMDAwMDhkYjg5MmFjMGRhYjc0MTg1MDg4ZjczZWU4Yjc4Zjgz",
+  "snapshot_id": "MTY2MjM1NzQyNCwwMDAwMDAwMGY0ZjVlNWRkZjliMmRhZTExNjEzNjY5ZGU3Yzg0ZTg4",
   "tracks": [
     {
       "added_at": "2022-08-16 19:10:22",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-08-16 19:10:22",
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 219401,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
+    },
+    {
+      "added_at": "2022-08-16 19:10:22",
+      "album": {
         "name": "I Don't Want You",
         "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 190240,
       "name": "I Don't Want You",
       "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
-    },
-    {
-      "added_at": "2022-08-16 19:10:22",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 219401,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
     },
     {
       "added_at": "2022-08-16 19:10:22",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-08-16 19:10:22",
       "album": {
+        "name": "Death Rail",
+        "url": "https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Ghost",
+          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
+        }
+      ],
+      "duration_ms": 151112,
+      "name": "Death Rail",
+      "url": "https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2"
+    },
+    {
+      "added_at": "2022-08-16 19:10:22",
+      "album": {
         "name": "Turn Me Up (ViP Mix)",
         "url": "https://open.spotify.com/album/4Tfc2KHRIGjni2b18RgkM7"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 251428,
       "name": "Turn Me Up - ViP Mix",
       "url": "https://open.spotify.com/track/4VO1K5TsBbx8Zzu8052slF"
-    },
-    {
-      "added_at": "2022-08-16 19:10:22",
-      "album": {
-        "name": "Death Rail",
-        "url": "https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8"
-      },
-      "artists": [
-        {
-          "name": "Hi I'm Ghost",
-          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
-        }
-      ],
-      "duration_ms": 151112,
-      "name": "Death Rail",
-      "url": "https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2"
     },
     {
       "added_at": "2022-08-16 19:10:22",

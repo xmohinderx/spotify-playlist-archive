@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: From Ashes to New feat. Matty Mullins",
-  "num_followers": 854067,
+  "num_followers": 854061,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDgxODlkOWQyY2E0YzEyNzdhZjZkZTk5ZmFkMzE3NTRh",
+  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDliNjM0OGU1ZTExYzI1NDhmYWRhYjc4YjdmYjMyYzk5",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm"
     },
     {
-      "added_at": "2022-10-09 19:56:00",
+      "added_at": "2022-10-10 01:31:10",
       "album": {
         "name": "Until We Break (feat. Matty Mullins of Memphis May Fire)",
         "url": "https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb"
     },
     {
-      "added_at": "2022-10-09 19:56:00",
+      "added_at": "2022-10-10 01:31:10",
       "album": {
         "name": "Deadly Potential",
         "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "A Form of Protest",
         "url": "https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 189405,
       "name": "A Form of Protest",
       "url": "https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc"
-      },
-      "artists": [
-        {
-          "name": "Citizen Soldier",
-          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
-        }
-      ],
-      "duration_ms": 188057,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Shrine",
         "url": "https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 246282,
       "name": "Stand Down",
       "url": "https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc"
+      },
+      "artists": [
+        {
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
+        }
+      ],
+      "duration_ms": 188057,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Dedication To Flesh",
-        "url": "https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67"
-      },
-      "artists": [
-        {
-          "name": "Spite",
-          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
-        }
-      ],
-      "duration_ms": 206346,
-      "name": "Dedication To Flesh",
-      "url": "https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 197538,
       "name": "Alone",
       "url": "https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Dedication To Flesh",
+        "url": "https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67"
+      },
+      "artists": [
+        {
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        }
+      ],
+      "duration_ms": 206346,
+      "name": "Dedication To Flesh",
+      "url": "https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Raw",
-        "url": "https://open.spotify.com/album/73pyrNaGLPGT8JuHZTSfv9"
-      },
-      "artists": [
-        {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
-        }
-      ],
-      "duration_ms": 222386,
-      "name": "Raw",
-      "url": "https://open.spotify.com/track/7FCVJA2Fam3DiTsgBJoVuk"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 207627,
       "name": "Damage Done",
       "url": "https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Raw",
+        "url": "https://open.spotify.com/album/73pyrNaGLPGT8JuHZTSfv9"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "duration_ms": 222386,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/7FCVJA2Fam3DiTsgBJoVuk"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "UFO Party",
-        "url": "https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2"
-      },
-      "artists": [
-        {
-          "name": "Young Medicine",
-          "url": "https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ"
-        }
-      ],
-      "duration_ms": 242769,
-      "name": "UFO Party",
-      "url": "https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Shadows in Time",
         "url": "https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 224511,
       "name": "Shadows in Time",
       "url": "https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "UFO Party",
+        "url": "https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2"
+      },
+      "artists": [
+        {
+          "name": "Young Medicine",
+          "url": "https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ"
+        }
+      ],
+      "duration_ms": 242769,
+      "name": "UFO Party",
+      "url": "https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "White Eyes",
+        "url": "https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo"
+      },
+      "artists": [
+        {
+          "name": "Hopes Die Last",
+          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
+        }
+      ],
+      "duration_ms": 216363,
+      "name": "White Eyes",
+      "url": "https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 169000,
       "name": "Enough",
       "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "White Eyes",
-        "url": "https://open.spotify.com/album/2BGuP04VfkgzhpUY1SxdNo"
-      },
-      "artists": [
-        {
-          "name": "Hopes Die Last",
-          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
-        }
-      ],
-      "duration_ms": 216363,
-      "name": "White Eyes",
-      "url": "https://open.spotify.com/track/0fCgvtJC4QOubRHtN5Pi2y"
     }
   ],
   "unique_name": "The Core",

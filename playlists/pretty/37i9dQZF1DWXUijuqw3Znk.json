@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2223,
+  "num_followers": 2224,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMGIzMzdjOTVkNmZmYTljNTNhNDRjNTVlZTQ5ZjYzNjc3",
+  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMDllNTMzZGIzZDQ5ODBmMGEyNGIwYWMxZWIyMDZiN2Iz",
   "tracks": [
     {
       "added_at": "2022-10-07 04:35:55",
@@ -535,6 +535,30 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Rollin' (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "RUN IT",
         "url": "https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c"
       },
@@ -559,6 +583,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "DPR ARCHIVES",
+        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 103119,
+      "name": "just dream it",
+      "url": "https://open.spotify.com/track/0Iz4In7qPeiZXLvt6YhOwP"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
       },
@@ -575,18 +615,18 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "DPR ARCHIVES",
-        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
+        "name": "Ghetto Superstars",
+        "url": "https://open.spotify.com/album/5DYlWsxiiKkKHzrYO7DLnb"
       },
       "artists": [
         {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
         }
       ],
-      "duration_ms": 103119,
-      "name": "just dream it",
-      "url": "https://open.spotify.com/track/0Iz4In7qPeiZXLvt6YhOwP"
+      "duration_ms": 180000,
+      "name": "300(prod. Cashbanger)",
+      "url": "https://open.spotify.com/track/3l6dINZbKWtAtHqVOIO1nh"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -611,22 +651,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Ghetto Superstars",
-        "url": "https://open.spotify.com/album/5DYlWsxiiKkKHzrYO7DLnb"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "300(prod. Cashbanger)",
-      "url": "https://open.spotify.com/track/3l6dINZbKWtAtHqVOIO1nh"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
       },
@@ -639,30 +663,6 @@
       "duration_ms": 223402,
       "name": "Dali, Van, Picasso",
       "url": "https://open.spotify.com/track/1qF1S4e4WBw6nG1mglWfEH"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        },
-        {
-          "name": "Mirani",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Rollin' (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "MARZ 2 AMBITION",
+        "url": "https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 152921,
+      "name": "TRUE (Prod. by Way Ched)",
+      "url": "https://open.spotify.com/track/71z0yOhlBsiuUZvLxs6xbz"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "SAVED MY LIFE",
         "url": "https://open.spotify.com/album/3AMcOPFUmreqG9qamdjzfa"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 229106,
       "name": "SAVED MY LIFE (Prod. Kidstone)",
       "url": "https://open.spotify.com/track/14dJ7lD1iJhxfx6b4vutVY"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "MARZ 2 AMBITION",
-        "url": "https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 152921,
-      "name": "TRUE (Prod. by Way Ched)",
-      "url": "https://open.spotify.com/track/71z0yOhlBsiuUZvLxs6xbz"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Independent Music",
+        "url": "https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU"
+      },
+      "artists": [
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "duration_ms": 242022,
+      "name": "Story of someone I know",
+      "url": "https://open.spotify.com/track/2MpYtR2upst1MwsNHzFYqN"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 198186,
       "name": "Part Time (Feat. Queen WA$ABII) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/1WUyKGWYfkZ5n9hb0w3WX3"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Independent Music",
-        "url": "https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU"
-      },
-      "artists": [
-        {
-          "name": "CHOILB",
-          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
-        }
-      ],
-      "duration_ms": 242022,
-      "name": "Story of someone I know",
-      "url": "https://open.spotify.com/track/2MpYtR2upst1MwsNHzFYqN"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1631,18 +1631,30 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+        "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
+        "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
       },
       "artists": [
         {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+          "name": "BOYCOLD",
+          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
         }
       ],
-      "duration_ms": 123287,
-      "name": "MIRACLE(Album version)",
-      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
+      "duration_ms": 206783,
+      "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
+      "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1691,30 +1703,18 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
-        "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
       },
       "artists": [
         {
-          "name": "BOYCOLD",
-          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
-        },
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
         }
       ],
-      "duration_ms": 206783,
-      "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
-      "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
+      "duration_ms": 123287,
+      "name": "MIRACLE(Album version)",
+      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "UNDERGROUND ROCKSTAR",
-        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "LIL GIMCHI",
-          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "Little Brothers (Feat. LIL GIMCHI)",
-      "url": "https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "Show Me the Money 9 Episode 2",
         "url": "https://open.spotify.com/album/212k31nG9gtLC4RbuDZ2fw"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 253800,
       "name": "Upgrade 2020",
       "url": "https://open.spotify.com/track/1yO2Tdk9kigVegslEzEWPN"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "UNDERGROUND ROCKSTAR",
+        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "LIL GIMCHI",
+          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "Little Brothers (Feat. LIL GIMCHI)",
+      "url": "https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms"
     },
     {
       "added_at": "2022-10-07 04:35:55",

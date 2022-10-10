@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53419,
+  "num_followers": 53418,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDgyZTczNGExNWVhMDIzZWJhZjIyYWEzNDg5Yjk5ZTAz",
+  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMGI3NmRmOGRjZWQ4ZWZiZmYzY2VhODc0MzNkZGFhNmM4",
   "tracks": [
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "The Blood Song",
-        "url": "https://open.spotify.com/album/29UFA9YrscWRdKpZTnLnN5"
-      },
-      "artists": [
-        {
-          "name": "Chris Bender",
-          "url": "https://open.spotify.com/artist/1h37aBxNCokuRG8NMgPwEG"
-        },
-        {
-          "name": "D'Shondra Perry",
-          "url": "https://open.spotify.com/artist/1GKvu9PSueVDcFtZjU3lEa"
-        }
-      ],
-      "duration_ms": 334550,
-      "name": "The Blood Song",
-      "url": "https://open.spotify.com/track/7cjEjTUSiVlWKPPWucNJPa"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Another Chapter, Psalms 51",
         "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
       },
@@ -1831,6 +1811,22 @@
       "duration_ms": 356179,
       "name": "He Loves Me",
       "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Live In Detroit (Live)",
+        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
+      },
+      "artists": [
+        {
+          "name": "Rev. James Moore",
+          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
+        }
+      ],
+      "duration_ms": 450840,
+      "name": "Cherish The Cross",
+      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
     }
   ],
   "unique_name": "Easter Gospel",

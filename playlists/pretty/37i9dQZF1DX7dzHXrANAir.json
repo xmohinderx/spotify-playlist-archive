@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 69106,
+  "num_followers": 69133,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDQ1YTQzMmQwMzA1ODVkMTZmYmNkODY5Y2E3OWMxMDQz",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGNmZjExZmE0NDgyNTE0ZGVmNWViMGFjYjY2Y2RhZTFj",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 335149,
+      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Circle 31",
         "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
       },
@@ -779,18 +795,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
+        "name": "In All This Heavy Blue",
+        "url": "https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM"
       },
       "artists": [
         {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
         }
       ],
-      "duration_ms": 335149,
-      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
+      "duration_ms": 276610,
+      "name": "In All This Heavy Blue",
+      "url": "https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -815,22 +835,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Recaptures",
-        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
-      },
-      "artists": [
-        {
-          "name": "Minihi",
-          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Minquiers",
-      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
         "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
       },
@@ -847,22 +851,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "In All This Heavy Blue",
-        "url": "https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM"
+        "name": "Recaptures",
+        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
       },
       "artists": [
         {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Colin Stetson",
-          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+          "name": "Minihi",
+          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
         }
       ],
-      "duration_ms": 276610,
-      "name": "In All This Heavy Blue",
-      "url": "https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB"
+      "duration_ms": 210600,
+      "name": "Minquiers",
+      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Building Blocks, Pt. 5",
-        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
-      },
-      "artists": [
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
-        }
-      ],
-      "duration_ms": 280818,
-      "name": "The Cheek of Daniel",
-      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "A Light Without Flame",
         "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 203994,
       "name": "A Light Without Flame",
       "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Building Blocks, Pt. 5",
+        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 280818,
+      "name": "The Cheek of Daniel",
+      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Retour",
+        "url": "https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8"
+      },
+      "artists": [
+        {
+          "name": "Tony Anderson",
+          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
+        },
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 425440,
+      "name": "Retour",
+      "url": "https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Klass (MISSUXO Film Edit)",
         "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 214153,
       "name": "Wind",
       "url": "https://open.spotify.com/track/13teEhU18oa0T3sKvrMpgZ"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Retour",
-        "url": "https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8"
-      },
-      "artists": [
-        {
-          "name": "Tony Anderson",
-          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
-        },
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 425440,
-      "name": "Retour",
-      "url": "https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "False Sunset (Todd & Klein Rework)",
+        "url": "https://open.spotify.com/album/0g51tMtR6ktoyXnqTdSaqU"
+      },
+      "artists": [
+        {
+          "name": "Infralyd",
+          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
+        },
+        {
+          "name": "Todd & Klein",
+          "url": "https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz"
+        }
+      ],
+      "duration_ms": 187850,
+      "name": "False Sunset - Todd & Klein Rework",
+      "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Sound Visions",
         "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
       },
@@ -1323,22 +1343,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Sleepless Wake",
-        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 222187,
-      "name": "Sleepless Wake",
-      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Solitudes, Vol. II",
         "url": "https://open.spotify.com/album/3X8LQ3lxamJcRUSlOT7pxP"
       },
@@ -1355,22 +1359,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "False Sunset (Todd & Klein Rework)",
-        "url": "https://open.spotify.com/album/0g51tMtR6ktoyXnqTdSaqU"
+        "name": "Sleepless Wake",
+        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
       },
       "artists": [
         {
-          "name": "Infralyd",
-          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
-        },
-        {
-          "name": "Todd & Klein",
-          "url": "https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz"
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
         }
       ],
-      "duration_ms": 187850,
-      "name": "False Sunset - Todd & Klein Rework",
-      "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
+      "duration_ms": 222187,
+      "name": "Sleepless Wake",
+      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M"
+      },
+      "artists": [
+        {
+          "name": "Pascal Schumacher",
+          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 266785,
+      "name": "Charles Duke",
+      "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Higher Ground",
         "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
       },
@@ -1451,26 +1471,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M"
-      },
-      "artists": [
-        {
-          "name": "Pascal Schumacher",
-          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        }
-      ],
-      "duration_ms": 266785,
-      "name": "Charles Duke",
-      "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Vale",
         "url": "https://open.spotify.com/album/7bzBIJynVYnwioBEY248DP"
       },
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Tidal Oscillations (XXIM:EXPO #1)",
-        "url": "https://open.spotify.com/album/7tZWWtjUsSpKSSoD9JYw7r"
+        "name": "Rift",
+        "url": "https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8"
       },
       "artists": [
         {
-          "name": "Paddy Mulcahy",
-          "url": "https://open.spotify.com/artist/675ED60nNejweHsAdDFR7C"
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
         }
       ],
-      "duration_ms": 329999,
-      "name": "A Dream, A Sequence",
-      "url": "https://open.spotify.com/track/32VUIIpKt22BW8V1mLt4R4"
+      "duration_ms": 393813,
+      "name": "mist",
+      "url": "https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Rift",
-        "url": "https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8"
+        "name": "Tidal Oscillations (XXIM:EXPO #1)",
+        "url": "https://open.spotify.com/album/7tZWWtjUsSpKSSoD9JYw7r"
       },
       "artists": [
         {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+          "name": "Paddy Mulcahy",
+          "url": "https://open.spotify.com/artist/675ED60nNejweHsAdDFR7C"
         }
       ],
-      "duration_ms": 393813,
-      "name": "mist",
-      "url": "https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt"
+      "duration_ms": 329999,
+      "name": "A Dream, A Sequence",
+      "url": "https://open.spotify.com/track/32VUIIpKt22BW8V1mLt4R4"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1607,18 +1607,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Critical Spirit (Live)",
-        "url": "https://open.spotify.com/album/39Mnio6xUJ9bmEacmj6SfS"
+        "name": "Classical Garden",
+        "url": "https://open.spotify.com/album/5hSeTmPGplQl7AvLjPzEqS"
       },
       "artists": [
         {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
         }
       ],
-      "duration_ms": 669726,
-      "name": "Critical Spirit - Live",
-      "url": "https://open.spotify.com/track/0hlFgnsQV1zPdCD9agrSc2"
+      "duration_ms": 215760,
+      "name": "Gnossienne N\u00b03 (Variation)",
+      "url": "https://open.spotify.com/track/4CFmGRGcMY9OP4XESg8CqM"
     }
   ],
   "unique_name": "Classical X",

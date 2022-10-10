@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 525416,
+  "num_followers": 525791,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODU2MCwwMDAwMDAwMDllNmRlNjM4NzU0NzE4NTljNGI5MmNlMjljYmY1Yzkz",
+  "snapshot_id": "MTY2NTExODU2MCwwMDAwMDAwMDNjYjQyYTZmYjNiYzhiY2IwY2E3ZjE3ZjJkN2NjYjBi",
   "tracks": [
     {
       "added_at": "2022-10-07 04:56:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 203491,
+      "name": "SNAP - Low and Slow",
+      "url": "https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb"
+    },
+    {
+      "added_at": "2022-10-07 04:56:00",
+      "album": {
         "name": "Wet (She Got That\u2026) [Slowed & Reverbed]",
         "url": "https://open.spotify.com/album/0ZHgUZ8A92ie2Bd5dxEbNP"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
-        "name": "This December (slow)",
-        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
         "name": "My Head In The Sky",
         "url": "https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ"
       },
@@ -939,26 +939,18 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
-        "name": "Us and Them",
-        "url": "https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ"
+        "name": "This December (slow)",
+        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
       },
       "artists": [
         {
-          "name": "Brothel",
-          "url": "https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0"
-        },
-        {
-          "name": "barnacle boi",
-          "url": "https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu"
-        },
-        {
-          "name": "Derek Pope",
-          "url": "https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Us and Them",
-      "url": "https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx"
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
     }
   ],
   "unique_name": "slowed and reverbed",

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Bad Gyal.",
-  "num_followers": 506367,
+  "num_followers": 506395,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDVhYWQ0ZWVkMzMwNTU0OWZkMGU4ZmMxMTVlZDE1MDE5",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDY3MTk3MGY1MDg2ZTAyNjdlZWYxZWI2NWJkZDE4MjQw",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "UN PASO",
-        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 192143,
-      "name": "UN PASO",
-      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 226490,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -751,6 +751,30 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "No Conf\u00edo",
+      "url": "https://open.spotify.com/track/2UieOcTk0Kl4bzLVBW4oVj"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Somos Iguales",
         "url": "https://open.spotify.com/album/3Q9cZSRC2at6mZjfdOlVJ3"
       },
@@ -775,30 +799,6 @@
       "duration_ms": 172414,
       "name": "Somos Iguales",
       "url": "https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "No Conf\u00edo",
-      "url": "https://open.spotify.com/track/2UieOcTk0Kl4bzLVBW4oVj"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Mi Peor Error",
+        "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mi Peor Error",
+      "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 234255,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Mi Peor Error",
-        "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mi Peor Error",
-      "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1075,42 +1075,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "SEDUR (Remix)",
-        "url": "https://open.spotify.com/album/7MIaEZVsXW6qXYvsMZcZRx"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 164036,
-      "name": "SEDUR - (Remix)",
-      "url": "https://open.spotify.com/track/4ro79kkFGZ0lRaZlh07MjE"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "The Love & Sex Tape (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200269,
-      "name": "28",
-      "url": "https://open.spotify.com/track/3CNAh2F7pfyUu7KAEYHtMl"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "La Bruja",
         "url": "https://open.spotify.com/album/3wYjwsYatnNrbwTOSAt5AL"
       },
@@ -1131,6 +1095,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "SEDUR (Remix)",
+        "url": "https://open.spotify.com/album/7MIaEZVsXW6qXYvsMZcZRx"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 164036,
+      "name": "SEDUR - (Remix)",
+      "url": "https://open.spotify.com/track/4ro79kkFGZ0lRaZlh07MjE"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Baby Glock",
         "url": "https://open.spotify.com/album/2DrhWoIRw9mMDCHPxSwaSA"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 165298,
       "name": "Baby Glock",
       "url": "https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "The Love & Sex Tape (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200269,
+      "name": "28",
+      "url": "https://open.spotify.com/track/3CNAh2F7pfyUu7KAEYHtMl"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Racks On Me",
+        "url": "https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 183065,
+      "name": "Racks On Me",
+      "url": "https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Contacto",
         "url": "https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL"
       },
@@ -1235,22 +1255,6 @@
       "duration_ms": 197333,
       "name": "Contacto",
       "url": "https://open.spotify.com/track/60UZ3rIcDkjoN5i2aZalNh"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Bad Bichi",
-        "url": "https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "Bad Bichi",
-      "url": "https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1271,22 +1275,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Racks On Me",
-        "url": "https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc"
+        "name": "Bad Bichi",
+        "url": "https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ"
       },
       "artists": [
         {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
         }
       ],
-      "duration_ms": 183065,
-      "name": "Racks On Me",
-      "url": "https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp"
+      "duration_ms": 175058,
+      "name": "Bad Bichi",
+      "url": "https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Tu Mam\u00e1",
-        "url": "https://open.spotify.com/album/5EdGxZQTBt0gjKa5ioxolF"
-      },
-      "artists": [
-        {
-          "name": "Chris Wandell",
-          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
-        },
-        {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
-        }
-      ],
-      "duration_ms": 167147,
-      "name": "Tu Mam\u00e1",
-      "url": "https://open.spotify.com/track/5VdVHZJzHcRVSs1vyUH1oB"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Despues Siempre Es Tarde",
         "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 303230,
       "name": "Besties - Remix",
       "url": "https://open.spotify.com/track/1ac7A5aXklR4RttUlaMRcI"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Tu Mam\u00e1",
+        "url": "https://open.spotify.com/album/5EdGxZQTBt0gjKa5ioxolF"
+      },
+      "artists": [
+        {
+          "name": "Chris Wandell",
+          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        }
+      ],
+      "duration_ms": 167147,
+      "name": "Tu Mam\u00e1",
+      "url": "https://open.spotify.com/track/5VdVHZJzHcRVSs1vyUH1oB"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Nadie La Mantiene",
-        "url": "https://open.spotify.com/album/4VsBy8wJ0Tq1gbdX7gjPPK"
-      },
-      "artists": [
-        {
-          "name": "YoGambii",
-          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Nadie La Mantiene",
-      "url": "https://open.spotify.com/track/3dvMNHL50mtjkr47j9g5Qo"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Quien Soy?",
         "url": "https://open.spotify.com/album/1I9cP54N1kFGnrDsmsILFY"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 201332,
       "name": "Quien Soy?",
       "url": "https://open.spotify.com/track/2WJ648KGSA8bhvJe0T9N4p"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Nadie La Mantiene",
+        "url": "https://open.spotify.com/album/4VsBy8wJ0Tq1gbdX7gjPPK"
+      },
+      "artists": [
+        {
+          "name": "YoGambii",
+          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Nadie La Mantiene",
+      "url": "https://open.spotify.com/track/3dvMNHL50mtjkr47j9g5Qo"
     },
     {
       "added_at": "2022-10-07 04:01:00",

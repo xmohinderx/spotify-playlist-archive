@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Cover: Surf Curse
 
-672 songs - 1 day 12 hr 33 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+673 songs - 1 day 12 hr 36 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [be my guest](https://open.spotify.com/track/6EsxMkOPOgMvRcGJO02pyt) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [the world i love](https://open.spotify.com/album/0PGaguvVjayjOSfFjwVKRV) | 3:06 | 2021-06-11 | 2022-04-15 |
 | [bed head fever](https://open.spotify.com/track/4zq2Yo2ry2y2f7sSeq4EFf) | [Matty Reynolds](https://open.spotify.com/artist/1UOd3DL67HSbpWgwnbG1sZ) | [bed head fever](https://open.spotify.com/album/4vjZilqqGbx4jHWzWlScfX) | 2:32 | 2022-01-28 | 2022-06-08 |
 | [Before We Knew](https://open.spotify.com/track/2tPXuksuhokCBYmAcKnx5B) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Before We Knew](https://open.spotify.com/album/6dwYzHRbq3591ac7ThF4rn) | 3:31 | 2021-08-13 | 2022-06-05 |
-| [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-23 |  |
+| [Belinda Says](https://open.spotify.com/track/6P68mPQLzCYoxa6d5Xemr1) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:45 | 2022-09-23 |  |
+| [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-23 | 2022-10-10 |
 | [Ben Franklin](https://open.spotify.com/track/5epwtR5dDDRzxdD7AGorzX) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Ben Franklin](https://open.spotify.com/album/2VfCI8EO1rfuGF0VmcM57O) | 3:01 | 2021-10-22 | 2022-04-12 |
 | [Best of Me](https://open.spotify.com/track/1sDovYD581U1a5hk1QLBcs) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [All The Ways We Are Together](https://open.spotify.com/album/44wiGP3EtCvu6lDACZAvkC) | 2:37 | 2021-06-07 | 2022-05-04 |
 | [Better Than I Know Myself](https://open.spotify.com/track/0xg79a3ac7iAOILS1QQbPa) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Better Than I Know Myself](https://open.spotify.com/album/6UB2H0P4aSqExfV7GWvtKO) | 4:22 | 2021-07-23 | 2022-06-11 |

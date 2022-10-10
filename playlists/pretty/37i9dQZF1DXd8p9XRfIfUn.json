@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Alu Mix, Yoss Bones",
-  "num_followers": 59155,
+  "num_followers": 59159,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjgwMCwwMDAwMDAwMGZkYzM4MjYxYzZmOTg5ZjRjZTlkODZjODQ1YzU3ZGIx",
+  "snapshot_id": "MTY2NDUwNjgwMCwwMDAwMDAwMGJlYzkwZDUyN2FiZWEwNGI4NWQ4NWI2ODNlMDFjOGU3",
   "tracks": [
     {
       "added_at": "2022-09-30 03:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Me Juquie",
-        "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Me Juquie",
-      "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "Cu\u00e1ndo Ser\u00e1",
         "url": "https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 176000,
       "name": "Cu\u00e1ndo Ser\u00e1",
       "url": "https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Me Juquie",
+        "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Me Juquie",
+      "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
+        "name": "Que a Pasao",
+        "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
+      },
+      "artists": [
+        {
+          "name": "Big Apple",
+          "url": "https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 125923,
+      "name": "Que a Pasao",
+      "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
         "name": "La Nueva (feat. Blessd, Nath & Natan & Shander)",
         "url": "https://open.spotify.com/album/4vXH6cXYjOKlVr46RjclrF"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 260000,
       "name": "La Nueva (feat. Blessd, Nath & Natan & Shander)",
       "url": "https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
-        "name": "Que a Pasao",
-        "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
-      },
-      "artists": [
-        {
-          "name": "Big Apple",
-          "url": "https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 125923,
-      "name": "Que a Pasao",
-      "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -1071,6 +1071,30 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
+        "name": "HOR\u00d3SCOPO",
+        "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
+      },
+      "artists": [
+        {
+          "name": "Javiielo",
+          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 248659,
+      "name": "HOR\u00d3SCOPO",
+      "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
         "name": "Sigue Sola (with Juhn & KHEA feat. Totoy El Frio, Jerry Di & Be\u00e9le)",
         "url": "https://open.spotify.com/album/2I8pcFT4wfrgXi3hynkzag"
       },
@@ -1107,46 +1131,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "HOR\u00d3SCOPO",
-        "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
-      },
-      "artists": [
-        {
-          "name": "Javiielo",
-          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 248659,
-      "name": "HOR\u00d3SCOPO",
-      "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
-        "name": "Qu\u00e9 Te Est\u00e1 Pasando",
-        "url": "https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 220284,
-      "name": "Qu\u00e9 Te Est\u00e1 Pasando",
-      "url": "https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "Te Juro",
         "url": "https://open.spotify.com/album/1rwYQzE9zwJfz8gkqeRVVY"
       },
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Verificada",
-        "url": "https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 158546,
-      "name": "Verificada",
-      "url": "https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "La Pr\u00e1ctica",
         "url": "https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F"
       },
@@ -1203,6 +1171,38 @@
       "duration_ms": 164002,
       "name": "La Pr\u00e1ctica",
       "url": "https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Verificada",
+        "url": "https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 158546,
+      "name": "Verificada",
+      "url": "https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Qu\u00e9 Te Est\u00e1 Pasando",
+        "url": "https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 220284,
+      "name": "Qu\u00e9 Te Est\u00e1 Pasando",
+      "url": "https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW"
     },
     {
       "added_at": "2022-09-30 03:00:00",

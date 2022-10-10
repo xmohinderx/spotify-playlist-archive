@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 45949,
+  "num_followers": 45958,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQxNTIxOSwwMDAwMDAwMDkwYTUxZTU2OTQ1MmJhNzE5NjY4YzMzZTBlNTU4NGQz",
+  "snapshot_id": "MTY1NjQxNTIxOSwwMDAwMDAwMGMxNjI2M2QzZTMwNGY5NDA4ZmE2YTc4Y2Q4ZDBhN2U4",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Bent Elgiran & Haga Mestikhabya",
+        "url": "https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8"
+      },
+      "artists": [
+        {
+          "name": "Toni Qattan",
+          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Bent Elgiran & Haga Mestikhabya",
+      "url": "https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "A Girl Within My Soul",
         "url": "https://open.spotify.com/album/299UA28OE1Nk7AnmUAv2ED"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 391386,
       "name": "A Girl Within My Soul",
       "url": "https://open.spotify.com/track/2LT201aq632QgRQqLWFN5O"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Bent Elgiran & Haga Mestikhabya",
-        "url": "https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8"
-      },
-      "artists": [
-        {
-          "name": "Toni Qattan",
-          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Bent Elgiran & Haga Mestikhabya",
-      "url": "https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Identit\u00e9",
+        "url": "https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR"
+      },
+      "artists": [
+        {
+          "name": "Labess",
+          "url": "https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "El Kess Yaddour",
+      "url": "https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Brya",
         "url": "https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 199636,
       "name": "Ahwak Hiba",
       "url": "https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Identit\u00e9",
-        "url": "https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR"
-      },
-      "artists": [
-        {
-          "name": "Labess",
-          "url": "https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "El Kess Yaddour",
-      "url": "https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
-        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
-      },
-      "artists": [
-        {
-          "name": "Amir Eid",
-          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
-        }
-      ],
-      "duration_ms": 232048,
-      "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
-      "url": "https://open.spotify.com/track/73JzEqIY2tKAkbZB63rrbG"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Keda Bardou (Acoustic Version)",
         "url": "https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 163631,
       "name": "Keda Bardou - Acoustic Version",
       "url": "https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
+        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "duration_ms": 232048,
+      "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
+      "url": "https://open.spotify.com/track/73JzEqIY2tKAkbZB63rrbG"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Brya",
-        "url": "https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe"
-      },
-      "artists": [
-        {
-          "name": "Babylone",
-          "url": "https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Mnam",
-      "url": "https://open.spotify.com/track/2Sf3tqzeuPldmDH1hDgzd2"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Baby Baby (Acoustic Version)",
         "url": "https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 160000,
       "name": "Baby Baby - Acoustic Version",
       "url": "https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Brya",
+        "url": "https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe"
+      },
+      "artists": [
+        {
+          "name": "Babylone",
+          "url": "https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Mnam",
+      "url": "https://open.spotify.com/track/2Sf3tqzeuPldmDH1hDgzd2"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Between City Walls",
-        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
-      },
-      "artists": [
-        {
-          "name": "Maysa Daw",
-          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
-        }
-      ],
-      "duration_ms": 221043,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
         "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 199277,
       "name": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
       "url": "https://open.spotify.com/track/6BgqI86Dtk0YLUkLnSJk14"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Between City Walls",
+        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
+      },
+      "artists": [
+        {
+          "name": "Maysa Daw",
+          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
+        }
+      ],
+      "duration_ms": 221043,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
-        "url": "https://open.spotify.com/album/3YVwJwSUGOnWiDgIirPjoN"
-      },
-      "artists": [
-        {
-          "name": "Nabyla Maan",
-          "url": "https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
-      "url": "https://open.spotify.com/track/1ZrtmwKkF7LEl8fgOn4h0d"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "El Nour",
         "url": "https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 199171,
       "name": "Sahar El Layali (Kan Enna Tahoun)",
       "url": "https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/3YVwJwSUGOnWiDgIirPjoN"
+      },
+      "artists": [
+        {
+          "name": "Nabyla Maan",
+          "url": "https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/1ZrtmwKkF7LEl8fgOn4h0d"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1183,18 +1183,30 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "A Night in the Forest (Live)",
-        "url": "https://open.spotify.com/album/5AF1PIF5WibTqUzjnaZDaq"
+        "name": "Ombre de mon amant",
+        "url": "https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1"
       },
       "artists": [
         {
-          "name": "Luna Abu Nassar",
-          "url": "https://open.spotify.com/artist/3JuUykT51S5TP7BNngL5uz"
+          "name": "Michel Lambert",
+          "url": "https://open.spotify.com/artist/6DIgXovySNbDB3K5lTtUKT"
+        },
+        {
+          "name": "Rima Khcheich",
+          "url": "https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y"
+        },
+        {
+          "name": "Maarten Ornstein",
+          "url": "https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl"
+        },
+        {
+          "name": "Mike Fentross",
+          "url": "https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH"
         }
       ],
-      "duration_ms": 266175,
-      "name": "Mishwar\u202b \u202c - Live",
-      "url": "https://open.spotify.com/track/6S850blEnGG1CS6ehAi4Dk"
+      "duration_ms": 389472,
+      "name": "Ombre de mon amant",
+      "url": "https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE"
     }
   ],
   "unique_name": "Acoustic Arabic",

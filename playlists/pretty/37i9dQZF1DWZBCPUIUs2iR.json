@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: George Strait",
-  "num_followers": 322042,
+  "num_followers": 322296,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzIxNDQwMCwwMDAwMDAwMDc2ZGFiMjJjNTE4NGZiOWExNjIyNDc0OWExZmE4OTk4",
+  "snapshot_id": "MTY2MzIxNDQwMCwwMDAwMDAwMDJjYTNlNDU3Zjc1NGZmMDA1NGUwZjMxN2RmOTAwYWE5",
   "tracks": [
     {
       "added_at": "2022-09-15 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "My Church",
-      "url": "https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U"
-    },
-    {
-      "added_at": "2022-09-15 04:00:00",
-      "album": {
         "name": "Golden Road",
         "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 323040,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
+    },
+    {
+      "added_at": "2022-09-15 04:00:00",
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197930,
+      "name": "My Church",
+      "url": "https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U"
     },
     {
       "added_at": "2022-09-15 04:00:00",
@@ -683,8 +683,8 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
-        "name": "Live Like You Were Dying",
-        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 300333,
-      "name": "Live Like You Were Dying",
-      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2022-09-15 04:00:00",
@@ -715,8 +715,8 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+        "name": "Live Like You Were Dying",
+        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+      "duration_ms": 300333,
+      "name": "Live Like You Were Dying",
+      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
     },
     {
       "added_at": "2022-09-15 04:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
-        "name": "When I Call Your Name",
-        "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
       "artists": [
         {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 255133,
-      "name": "When I Call Your Name",
-      "url": "https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT"
+      "duration_ms": 179333,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
     },
     {
       "added_at": "2022-09-15 04:00:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+        "name": "When I Call Your Name",
+        "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 179333,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
+      "duration_ms": 255133,
+      "name": "When I Call Your Name",
+      "url": "https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT"
     },
     {
       "added_at": "2022-09-15 04:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
+    },
+    {
+      "added_at": "2022-09-15 04:00:00",
+      "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
+        "name": "Greatest Hits - Finest Performances",
+        "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
+      "duration_ms": 174666,
+      "name": "Fightin Side Of Me",
+      "url": "https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf"
     },
     {
       "added_at": "2022-09-15 04:00:00",
@@ -1467,22 +1483,6 @@
       "duration_ms": 258346,
       "name": "Lost In The Fifties Tonight",
       "url": "https://open.spotify.com/track/1p7hfw8melMsCbaaX36C0v"
-    },
-    {
-      "added_at": "2022-09-15 04:00:00",
-      "album": {
-        "name": "Greatest Hits - Finest Performances",
-        "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Fightin Side Of Me",
-      "url": "https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf"
     },
     {
       "added_at": "2022-09-15 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
-        "name": "The Very Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Hello Darlin' - Single Version",
-      "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
-    },
-    {
-      "added_at": "2022-09-15 04:00:00",
-      "album": {
         "name": "Straight Ahead (Expanded Edition)",
         "url": "https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 157533,
       "name": "All the Gold In California",
       "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
+    },
+    {
+      "added_at": "2022-09-15 04:00:00",
+      "album": {
+        "name": "The Very Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Hello Darlin' - Single Version",
+      "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
     },
     {
       "added_at": "2022-09-15 04:00:00",

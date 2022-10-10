@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 308954,
+  "num_followers": 308994,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDc1OTdhOWQ0OTg1N2QxZTE5ZWI3MTRkNTIwZDdkOWVm",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGNhNGQ1NWE3NjA4MzdmZjNmMmU5OTI2NDdkMWUwYjE0",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/5KdJVf0tqurkIDdBEbIJVG"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Black Betty - Single",
-        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 189956,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
-    },
-    {
       "added_at": "2021-03-19 05:01:00",
       "album": {
         "name": "Wellerman",
@@ -391,6 +375,22 @@
       "duration_ms": 138645,
       "name": "Wellerman - Electro Swing Mix",
       "url": "https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Black Betty - Single",
+        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 189956,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -471,22 +471,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Mambo Rap",
-        "url": "https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "Mambo Rap",
-      "url": "https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Bend the Rules",
         "url": "https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 196586,
       "name": "Swing It Like Roger",
       "url": "https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Mambo Rap",
+        "url": "https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Mambo Rap",
+      "url": "https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "No Swinggity",
+        "url": "https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio"
+      },
+      "artists": [
+        {
+          "name": "Minimatic",
+          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "No Swinggity",
+      "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
+    },
+    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Crazy Out There",
@@ -787,22 +803,6 @@
       "duration_ms": 194741,
       "name": "Crazy Out There",
       "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "No Swinggity",
-        "url": "https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio"
-      },
-      "artists": [
-        {
-          "name": "Minimatic",
-          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "No Swinggity",
-      "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -973,6 +973,38 @@
       "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Wake Up Romeo",
+        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
+      },
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+        }
+      ],
+      "duration_ms": 207793,
+      "name": "Wake Up Romeo",
+      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Get This (Bang Bang)",
+        "url": "https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 225728,
+      "name": "Get This (Bang Bang)",
+      "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
+    },
+    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "One for the Road",
@@ -997,22 +1029,6 @@
       "url": "https://open.spotify.com/track/5YotzD692xl8wcqMi9pj8X"
     },
     {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
-        "name": "Get This (Bang Bang)",
-        "url": "https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 225728,
-      "name": "Get This (Bang Bang)",
-      "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "The Electric Swing Circus - Remixed Vol. 1",
@@ -1031,22 +1047,6 @@
       "duration_ms": 224588,
       "name": "Mr Magpie - Jamie Berry Remix",
       "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Wake Up Romeo",
-        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
-      },
-      "artists": [
-        {
-          "name": "Caro Emerald",
-          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
-        }
-      ],
-      "duration_ms": 207793,
-      "name": "Wake Up Romeo",
-      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1113,26 +1113,6 @@
       "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Keep Cool and Carry On (Glenn Gatsby Remix)",
-        "url": "https://open.spotify.com/album/5hErFOZFuxAzVoS7dkUxVJ"
-      },
-      "artists": [
-        {
-          "name": "The Stargazers",
-          "url": "https://open.spotify.com/artist/0X8gimy9OVbGOQBZxazD4z"
-        },
-        {
-          "name": "Glenn Gatsby",
-          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Keep Cool and Carry On - Glenn Gatsby Remix",
-      "url": "https://open.spotify.com/track/1rtZIsfbOp7nxrd2ifFYyO"
-    },
-    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "Shotgun Swing",
@@ -1163,6 +1143,46 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "The Shocking Miss Emerald The Remixes",
+        "url": "https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx"
+      },
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+        },
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 207531,
+      "name": "Pack Up The Louie - Caravan Palace Remix",
+      "url": "https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Keep Cool and Carry On (Glenn Gatsby Remix)",
+        "url": "https://open.spotify.com/album/5hErFOZFuxAzVoS7dkUxVJ"
+      },
+      "artists": [
+        {
+          "name": "The Stargazers",
+          "url": "https://open.spotify.com/artist/0X8gimy9OVbGOQBZxazD4z"
+        },
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Keep Cool and Carry On - Glenn Gatsby Remix",
+      "url": "https://open.spotify.com/track/1rtZIsfbOp7nxrd2ifFYyO"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Doorsteps",
         "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
       },
@@ -1179,6 +1199,22 @@
       "duration_ms": 328441,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -1199,22 +1235,6 @@
       "duration_ms": 173735,
       "name": "It Don't Mean A Thing - Electro Swing Mix",
       "url": "https://open.spotify.com/track/5tNZ1Wj6jXBuTKLeDX5w5S"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2021-10-29 04:02:00",
@@ -1239,26 +1259,6 @@
       "duration_ms": 187838,
       "name": "New Ground",
       "url": "https://open.spotify.com/track/6BsAJNoNjKEkFqfvHsztIc"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "The Shocking Miss Emerald The Remixes",
-        "url": "https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx"
-      },
-      "artists": [
-        {
-          "name": "Caro Emerald",
-          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
-        },
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 207531,
-      "name": "Pack Up The Louie - Caravan Palace Remix",
-      "url": "https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP"
     },
     {
       "added_at": "2022-07-05 12:46:20",

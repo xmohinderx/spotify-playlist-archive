@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 115456,
+  "num_followers": 115509,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGZhMzI4ODgwZGI4MDU4OTA2MDUwZDYzNWI5MTZmMTUz",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDA4ODM3NTg4ZGU1Yzc4MjFlZDBiMTBiYjg0MTNkNmU4",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -599,6 +599,30 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "duration_ms": 194734,
+      "name": "\u00d1eri",
+      "url": "https://open.spotify.com/track/6Cgj3VVfcYJN9vZbMVcKRd"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "FULL PIOLI 2.O (feat. Julianno Sosa, El Jordan 23, King Savagge, Polima West Coast, Drago200, Jairo Vera, Galee Galee, Best)",
         "url": "https://open.spotify.com/album/792dWqv1qLtDwjjlW36kTi"
       },
@@ -651,30 +675,6 @@
       "duration_ms": 400188,
       "name": "FULL PIOLI 2.O (feat. Julianno Sosa, El Jordan 23, King Savagge, Polima West Coast, Drago200, Jairo Vera, Galee Galee, Best)",
       "url": "https://open.spotify.com/track/62aT1Uk0pCl1QG4LLBMVUn"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
-          "name": "TATOOL",
-          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
-        }
-      ],
-      "duration_ms": 194734,
-      "name": "\u00d1eri",
-      "url": "https://open.spotify.com/track/6Cgj3VVfcYJN9vZbMVcKRd"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -871,8 +871,8 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Morado",
-        "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Morado",
-      "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Alocao (With Bad Gyal)",
+        "url": "https://open.spotify.com/album/6pEhppkTzrKKGkQw4fNqOD"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "Alocao (With Bad Gyal)",
+      "url": "https://open.spotify.com/track/6RyuoOJXNzlVWpfC5xQyeI"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Trakat\u00e1",
         "url": "https://open.spotify.com/album/4v2y8esBwi06vh3jydfUA4"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 178064,
       "name": "Trakat\u00e1",
       "url": "https://open.spotify.com/track/5fghgRsc8a3pSDXtjQ238F"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Alocao (With Bad Gyal)",
-        "url": "https://open.spotify.com/album/6pEhppkTzrKKGkQw4fNqOD"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "Alocao (With Bad Gyal)",
-      "url": "https://open.spotify.com/track/6RyuoOJXNzlVWpfC5xQyeI"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1023,8 +1023,8 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+        "name": "Morado",
+        "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
       },
       "artists": [
         {
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 158800,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+      "duration_ms": 200666,
+      "name": "Morado",
+      "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "No Vuelvas M\u00e1s",
+        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "No Vuelvas M\u00e1s",
+      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 173226,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "No Vuelvas M\u00e1s",
-        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "No Vuelvas M\u00e1s",
-      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "Perreito - Remix",
-      "url": "https://open.spotify.com/track/32s0Cuu1pe94ih0PlRKFCb"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Guayo",
         "url": "https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN"
       },
@@ -1627,6 +1603,30 @@
       "duration_ms": 222301,
       "name": "Guayo",
       "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "Perreito - Remix",
+      "url": "https://open.spotify.com/track/32s0Cuu1pe94ih0PlRKFCb"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1719,30 +1719,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo"
-      },
-      "artists": [
-        {
-          "name": "Kiddtetoon",
-          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Maripilili",
         "url": "https://open.spotify.com/album/2MZrJsF1esve4XOPwzo2HB"
       },
@@ -1763,6 +1739,30 @@
       "duration_ms": 164693,
       "name": "Maripilili",
       "url": "https://open.spotify.com/track/49yDQnnHEJWRscoRYQrroF"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo"
+      },
+      "artists": [
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Rompe Rodillas",
+        "url": "https://open.spotify.com/album/4c2CcCaHwWtZePbqfDUI9u"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 149080,
+      "name": "Rompe Rodillas",
+      "url": "https://open.spotify.com/track/3DlM7Wmirw96FVBMPLeaSD"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Como Si Nah (feat. KEVVO)",
         "url": "https://open.spotify.com/album/4OhsVQMAJ94vPXS4KCOn0M"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 196261,
       "name": "Como Si Nah (feat. KEVVO)",
       "url": "https://open.spotify.com/track/5yUW86tRavTvP8OTfVChtL"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Rompe Rodillas",
-        "url": "https://open.spotify.com/album/4c2CcCaHwWtZePbqfDUI9u"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 149080,
-      "name": "Rompe Rodillas",
-      "url": "https://open.spotify.com/track/3DlM7Wmirw96FVBMPLeaSD"
     },
     {
       "added_at": "2022-08-26 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 38178,
+  "num_followers": 38177,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDU3MDgzN2QxZDAzMGI2YzA3OTI5M2QyODRjMDBlZjZj",
+  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDQxM2U3MDFkNTljY2E4NzBkYjcyODRlYTY1YjViMmE5",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -571,34 +571,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Spartanz (Bou Remix)",
-        "url": "https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI"
-      },
-      "artists": [
-        {
-          "name": "Dominator",
-          "url": "https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn"
-        },
-        {
-          "name": "Nu Elementz",
-          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 222068,
-      "name": "Spartanz - Bou Remix",
-      "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Rampage Anthem VIP",
         "url": "https://open.spotify.com/album/69szID4oSWL2iSddE56ryG"
       },
@@ -635,6 +607,34 @@
       "duration_ms": 226285,
       "name": "Rampage Anthem VIP",
       "url": "https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Spartanz (Bou Remix)",
+        "url": "https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI"
+      },
+      "artists": [
+        {
+          "name": "Dominator",
+          "url": "https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn"
+        },
+        {
+          "name": "Nu Elementz",
+          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "duration_ms": 222068,
+      "name": "Spartanz - Bou Remix",
+      "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
     },
     {
       "added_at": "2022-08-12 16:34:51",

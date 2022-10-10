@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 
 > The best Blues for a long trip behind the wheel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,134 likes - 118 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,153 likes - 118 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 49 | [Rock Me Baby](https://open.spotify.com/track/7jixAsWYi2j8kI8SCFO84j) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Twice Removed from Yesterday](https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu) | 4:15 |
 | 50 | [Blues In D Natural](https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Galloping Horses a Lazy Mule / Blues in D Natural](https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ) | 2:15 |
 | 51 | [Long Grey Mare](https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Blues For Greeny](https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU) | 2:06 |
-| 52 | [Wild Indian Woman](https://open.spotify.com/track/30UbWFhYVVcIjIR7L0VXI3) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:40 |
-| 53 | [Smokestack Lightning \- Live at the Marquee Club, 1964 \- 2015 Remaster](https://open.spotify.com/track/0L4v0fDHbaWeAaIB7Vpirj) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Five Live Yardbirds \(Live at the Marquee Club, London 1964 \- 2015 Remaster\)](https://open.spotify.com/album/1916j8cvFXL67burTXJ0Mv) | 6:47 |
+| 52 | [Smokestack Lightning \- Live at the Marquee Club, 1964 \- 2015 Remaster](https://open.spotify.com/track/0L4v0fDHbaWeAaIB7Vpirj) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Five Live Yardbirds \(Live at the Marquee Club, London 1964 \- 2015 Remaster\)](https://open.spotify.com/album/1916j8cvFXL67burTXJ0Mv) | 6:47 |
+| 53 | [Wild Indian Woman](https://open.spotify.com/track/30UbWFhYVVcIjIR7L0VXI3) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:40 |
 | 54 | [Confessin' The Blues](https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:55 |
 | 55 | [Black Rat \- Take 4](https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 2:52 |
 | 56 | [I Got What It Takes](https://open.spotify.com/track/4HiVCsnJH9P35ASXLL60ip) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I Got What It Takes](https://open.spotify.com/album/6Ia8ZSI8AkeaSz7ILpd7MU) | 3:42 |
-| 57 | [Built For Comfort](https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Howlin' Wolf Album](https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT) | 5:11 |
-| 58 | [You Got Me](https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:55 |
+| 57 | [You Got Me](https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:55 |
+| 58 | [Built For Comfort](https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Howlin' Wolf Album](https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT) | 5:11 |
 | 59 | [Blue Shadows](https://open.spotify.com/track/6rGuOsQMY1UsvyPcpvbE4i) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 5:09 |
 | 60 | [Drivin' Blues \- Remastered](https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL) | [Frijid Pink](https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od) | [Frijid Pink \(Digitially Remastered\)](https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI) | 3:48 |
 | 61 | [Big Legs, Tight Skirt](https://open.spotify.com/track/1RjsFNsXnkFETdkLNRpAg0) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:17 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 87 | [You Can't Judge A Book By Its Cover](https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:29 |
 | 88 | [Love Like I Wanna](https://open.spotify.com/track/1YmXV80xrumomhpnSai6GS) | [Buster Benton](https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4) | [Spider in My Stew](https://open.spotify.com/album/1QLaueGOJPQnXPnV7ZZP0h) | 4:58 |
 | 89 | [Somebody Help Me \- Mono Version](https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 2:16 |
-| 90 | [Buzz Me Baby](https://open.spotify.com/track/03orX7fg8pH3tXBhJiuQC7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Men of the World: The Early Years](https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt) | 3:34 |
-| 91 | [\(He Said Yeah\) Baby, You´re the One](https://open.spotify.com/track/3OHvbRM4MoyvN3RJpN015b) | [Nita, Rita & Ruby](https://open.spotify.com/artist/0UfaffDVhmyk03vTITLrBc) | [Hot Boppin Girls Vol\. 1](https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx) | 2:03 |
-| 92 | [Highway 60](https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Vivid Sound](https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF) | 2:30 |
+| 90 | [Highway 60](https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Vivid Sound](https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF) | 2:30 |
+| 91 | [Buzz Me Baby](https://open.spotify.com/track/03orX7fg8pH3tXBhJiuQC7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Men of the World: The Early Years](https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt) | 3:34 |
+| 92 | [\(He Said Yeah\) Baby, You´re the One](https://open.spotify.com/track/3OHvbRM4MoyvN3RJpN015b) | [Nita, Rita & Ruby](https://open.spotify.com/artist/0UfaffDVhmyk03vTITLrBc) | [Hot Boppin Girls Vol\. 1](https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx) | 2:03 |
 | 93 | [Still Got The Blues](https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:05 |
 | 94 | [Hard Luck Blues](https://open.spotify.com/track/75SPHJFXqvEWhUg4a9GrlJ) | [Tommy Tucker](https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf) | [Hi\-Heel Sneakers](https://open.spotify.com/album/3i7uEh9Ahiknj8bQGOSBJe) | 3:44 |
 | 95 | [Let Me Love You Baby](https://open.spotify.com/track/4X8Toq5ww0tDllQHhMv7DR) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 3:03 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 117 | [Crack Your Head](https://open.spotify.com/track/3EFG47BHNvUfAcHyO3622C) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 2:56 |
 | 118 | [Two Way Wishing](https://open.spotify.com/track/2lGyivhfiH4jqGpJGSqSZ4) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:46 |
 
-Snapshot ID: `MTY2MTQzNjgwNSwwMDAwMDAwMGM4N2NiNzA3Zjg2NjdjNjU2Zjg5Njk3YzQxOTgwYjEy`
+Snapshot ID: `MTY2MTQzNjgwNSwwMDAwMDAwMDJkZDEzZmJlNjQ3Y2NkMGQ3MTkxNDZkZGIyNWQ3NGI0`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 51919,
+  "num_followers": 51937,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMDc5ZGU4YTI4MThhMjk2YzliMzdiMmEyMzhmZDY1MGNm",
+  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMDg1OTJiZjhjNmQ3YzY4ZDdmM2EyMGY3ZjU5NGI2NjYz",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Paloma Negra Desde Monterrey (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1nDrZypr1O0xzkrlwugYo8"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "La Gran Se\u00f1ora - Live",
-      "url": "https://open.spotify.com/track/3o1P4v1P33w5Chvt5VUMUu"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Mariachi Hit Parade",
         "url": "https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 191733,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/74nYy9TioHzoaPghz6m77N"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Paloma Negra Desde Monterrey (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1nDrZypr1O0xzkrlwugYo8"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "La Gran Se\u00f1ora - Live",
+      "url": "https://open.spotify.com/track/3o1P4v1P33w5Chvt5VUMUu"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Un Canto de M\u00e9xico: Alejandro Fern\u00e1ndez en Vivo desde Bellas Artes",
-        "url": "https://open.spotify.com/album/7b0VncFO0NxyndB5MMa9mo"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Un Mundo Raro",
-      "url": "https://open.spotify.com/track/6prAkGQ86DXdjHksDQpvUD"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "En el Palacio de Bellas Artes",
         "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 483000,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/2kxbxknNZcgfpOCk1SOtY1"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Un Canto de M\u00e9xico: Alejandro Fern\u00e1ndez en Vivo desde Bellas Artes",
+        "url": "https://open.spotify.com/album/7b0VncFO0NxyndB5MMa9mo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Un Mundo Raro",
+      "url": "https://open.spotify.com/track/6prAkGQ86DXdjHksDQpvUD"
     },
     {
       "added_at": "2021-12-29 23:15:19",

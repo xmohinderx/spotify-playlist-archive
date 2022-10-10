@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Flyboiz",
-  "num_followers": 454583,
+  "num_followers": 454580,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDQxNDUxZjczMTQwNzU5MTc3ZDM5ZWZjNWM0OGQ1YmU2",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDcwMWRkNTVkMTJmYTM1OWJkOTJjNGQ5ZDRjZTJlMzUz",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Inmortales",
+        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "duration_ms": 190017,
+      "name": "Aquella Noche",
+      "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 181765,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Inmortales",
-        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
-      },
-      "artists": [
-        {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
-        }
-      ],
-      "duration_ms": 190017,
-      "name": "Aquella Noche",
-      "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -835,8 +835,8 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
-        "url": "https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c"
+        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
       },
       "artists": [
         {
@@ -844,13 +844,13 @@
           "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 201507,
-      "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
-      "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
+      "duration_ms": 258540,
+      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -927,8 +927,8 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
-        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
+        "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
+        "url": "https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c"
       },
       "artists": [
         {
@@ -936,13 +936,13 @@
           "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 258540,
-      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
-      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
+      "duration_ms": 201507,
+      "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
+      "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "ANTI JUDAS RELOADED",
+        "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 208537,
+      "name": "HOLY SHIT - REMIX",
+      "url": "https://open.spotify.com/track/6jgj0rDsHJ7LiMf8lzCTTl"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Pa To' Los Combos",
         "url": "https://open.spotify.com/album/7yinu5ZWVI3S3qYBETiHbb"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 340480,
       "name": "Pa To Los Combo",
       "url": "https://open.spotify.com/track/1fui3e4HmhPSkxmblO5U0h"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "ANTI JUDAS RELOADED",
-        "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        },
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 208537,
-      "name": "HOLY SHIT - REMIX",
-      "url": "https://open.spotify.com/track/6jgj0rDsHJ7LiMf8lzCTTl"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Nena Trampa",
-        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+        "name": "Baby Schai",
+        "url": "https://open.spotify.com/album/2Wqz2QJ5XyofmG6xqWHAEa"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 173959,
-      "name": "Yo Yo y Yo",
-      "url": "https://open.spotify.com/track/2dMp9jC7cpEj9wY8FQ8GMa"
+      "duration_ms": 190608,
+      "name": "Baby Schai",
+      "url": "https://open.spotify.com/track/1p01JS6Kpbwvizl2VXjkbZ"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Baby Schai",
-        "url": "https://open.spotify.com/album/2Wqz2QJ5XyofmG6xqWHAEa"
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 190608,
-      "name": "Baby Schai",
-      "url": "https://open.spotify.com/track/1p01JS6Kpbwvizl2VXjkbZ"
+      "duration_ms": 173959,
+      "name": "Yo Yo y Yo",
+      "url": "https://open.spotify.com/track/2dMp9jC7cpEj9wY8FQ8GMa"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2147,26 +2147,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Corta y Palo",
-        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
-      },
-      "artists": [
-        {
-          "name": "Joniel",
-          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
-        },
-        {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Corta y Palo",
-      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/2eJQaFgNUndmCjFinYg2Nj"
       },
@@ -2183,6 +2163,26 @@
       "duration_ms": 181800,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/7rEtMAUYYJXjtOi7jPC2qp"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Corta y Palo",
+        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
+      },
+      "artists": [
+        {
+          "name": "Joniel",
+          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
+        },
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Corta y Palo",
+      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/6rMh8VwpK8SK2Uzrlihllf"
-      },
-      "artists": [
-        {
-          "name": "Trainer",
-          "url": "https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2"
-        }
-      ],
-      "duration_ms": 138053,
-      "name": "Reset",
-      "url": "https://open.spotify.com/track/2FmUnhzYRfemmL0uAxjeJa"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "La Dieta del Barrio",
         "url": "https://open.spotify.com/album/5Ny1vmeCcN2QXMRPUtTbFS"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 233286,
       "name": "XKITTLEZ (with Arcangel)",
       "url": "https://open.spotify.com/track/0EeeiUfFGbKYyvIQcI9TGf"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/6rMh8VwpK8SK2Uzrlihllf"
+      },
+      "artists": [
+        {
+          "name": "Trainer",
+          "url": "https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2"
+        }
+      ],
+      "duration_ms": 138053,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/2FmUnhzYRfemmL0uAxjeJa"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2807,22 +2807,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "USTEDES [EL CASTii FREESTYLE 1]",
-        "url": "https://open.spotify.com/album/1PjbGR9WPwbIOP1Q7c1QgT"
-      },
-      "artists": [
-        {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "USTEDES [EL CASTii FREESTYLE 1]",
-      "url": "https://open.spotify.com/track/2ec5JlpJ5kfkehso4n6B8J"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "M\u00fasica Prohibida",
         "url": "https://open.spotify.com/album/4lgrPArcFGHMKgqxmTeSMA"
       },
@@ -2851,6 +2835,22 @@
       "duration_ms": 226000,
       "name": "Arriba el Tiro",
       "url": "https://open.spotify.com/track/65sEPl3jMl4QWWVzluPTqk"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "USTEDES [EL CASTii FREESTYLE 1]",
+        "url": "https://open.spotify.com/album/1PjbGR9WPwbIOP1Q7c1QgT"
+      },
+      "artists": [
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "USTEDES [EL CASTii FREESTYLE 1]",
+      "url": "https://open.spotify.com/track/2ec5JlpJ5kfkehso4n6B8J"
     },
     {
       "added_at": "2022-10-07 04:01:00",

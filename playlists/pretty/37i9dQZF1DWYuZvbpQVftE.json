@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 11401,
+  "num_followers": 11406,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMDk2NTI0M2MwOGM1MzBiYmY5ZjNlYTIyNjc2MGMxMTM3",
+  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMDNiMWY5NjBmODMxMDc1ZDBmN2IyN2UxZWYzYzJmNmNl",
   "tracks": [
     {
       "added_at": "2022-10-07 08:48:01",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Cast Your Fate to the Wind",
+      "url": "https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -251,26 +267,6 @@
       "duration_ms": 362040,
       "name": "With A Little Bit Of Luck - Instrumental",
       "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
-        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
-        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "J.J. Johnson",
-          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
-        }
-      ],
-      "duration_ms": 508093,
-      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
-      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -307,18 +303,22 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
+        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "J.J. Johnson",
+          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
         }
       ],
-      "duration_ms": 190360,
-      "name": "Cast Your Fate to the Wind",
-      "url": "https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz"
+      "duration_ms": 508093,
+      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
+      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "Coolin'",
-        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
+        "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
       },
       "artists": [
         {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+          "name": "Gerry Mulligan Quartet",
+          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
         }
       ],
-      "duration_ms": 463346,
-      "name": "The Eagle Flies",
-      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
+      "duration_ms": 175080,
+      "name": "Nights At The Turntable",
+      "url": "https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
+        "name": "Coolin'",
+        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 463346,
+      "name": "The Eagle Flies",
+      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
         "name": "Four!",
         "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 294600,
       "name": "Thou Swell",
       "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
-        "name": "The Latin Side Of Vince Guaraldi",
-        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Star Song",
-      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
+        "name": "The Latin Side Of Vince Guaraldi",
+        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan Quartet",
-          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
         }
       ],
-      "duration_ms": 175080,
-      "name": "Nights At The Turntable",
-      "url": "https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA"
+      "duration_ms": 216440,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "The Teddy Charles Tentet",
-        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
-      },
-      "artists": [
-        {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
-        }
-      ],
-      "duration_ms": 350720,
-      "name": "The Quiet Time",
-      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
         "name": "Bob Brookmeyer & Friends",
         "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 244466,
       "name": "Sometime Ago",
       "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
+        "name": "The Teddy Charles Tentet",
+        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 350720,
+      "name": "The Quiet Time",
+      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "Westward Bound! (Live)",
-        "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
-      },
-      "artists": [
-        {
-          "name": "Harold Land",
-          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
-        },
-        {
-          "name": "Carmell Jones",
-          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
-        }
-      ],
-      "duration_ms": 518000,
-      "name": "Happily Dancing / Deep Harmonies Falling - Live",
-      "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
         "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
         "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 225906,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
+        "name": "Westward Bound! (Live)",
+        "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
+      },
+      "artists": [
+        {
+          "name": "Harold Land",
+          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
+        },
+        {
+          "name": "Carmell Jones",
+          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
+        }
+      ],
+      "duration_ms": 518000,
+      "name": "Happily Dancing / Deep Harmonies Falling - Live",
+      "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "What Is There To Say?",
-        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "News From Blueport",
-      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
         "name": "Take Me Along",
         "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 304093,
       "name": "Sid, Ol' Kid",
       "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "News From Blueport",
+      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
     },
     {
       "added_at": "2022-10-07 08:48:01",

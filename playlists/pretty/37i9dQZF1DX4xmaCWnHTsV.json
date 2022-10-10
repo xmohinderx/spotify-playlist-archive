@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3ODY3MTAzMSwwMDAwMDAwMGIwMDAzNjg0NDU3ZGUwM2M2NDUxYTk2YmNkNTkxMWU1",
+  "snapshot_id": "MTU3ODY3MTAzMSwwMDAwMDAwMDM2YTVmMTYyOWRiOTc0MTEwODhkMGQ0YTQxODQyY2E0",
   "tracks": [
     {
       "added_at": "2020-01-10 15:43:51",
@@ -159,22 +159,6 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "Like, Mann: Carl Mann Sings",
-        "url": "https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ"
-      },
-      "artists": [
-        {
-          "name": "Carl Mann",
-          "url": "https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT"
-        }
-      ],
-      "duration_ms": 146728,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
-    },
-    {
-      "added_at": "2020-01-10 15:43:51",
-      "album": {
         "name": "Flyin' Saucers Rock & Roll / I Want You Baby",
         "url": "https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 122108,
       "name": "Flyin' Saucers Rock & Roll",
       "url": "https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv"
+    },
+    {
+      "added_at": "2020-01-10 15:43:51",
+      "album": {
+        "name": "Like, Mann: Carl Mann Sings",
+        "url": "https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ"
+      },
+      "artists": [
+        {
+          "name": "Carl Mann",
+          "url": "https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT"
+        }
+      ],
+      "duration_ms": 146728,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
     },
     {
       "added_at": "2020-01-10 15:43:51",
@@ -579,18 +579,18 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "A Date With Elvis",
-        "url": "https://open.spotify.com/album/2OBpjUGDDEluQzrp8vwtyi"
+        "name": "At the Rock House",
+        "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
         }
       ],
-      "duration_ms": 131573,
-      "name": "Good Rockin' Tonight",
-      "url": "https://open.spotify.com/track/6k3FE2tlTymnsPMTkL8slE"
+      "duration_ms": 123000,
+      "name": "Rock House",
+      "url": "https://open.spotify.com/track/36YXD9jFfw446zqlOVGFD2"
     },
     {
       "added_at": "2020-01-10 15:43:51",
@@ -627,18 +627,18 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "At the Rock House",
-        "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
+        "name": "A Date With Elvis",
+        "url": "https://open.spotify.com/album/2OBpjUGDDEluQzrp8vwtyi"
       },
       "artists": [
         {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 123000,
-      "name": "Rock House",
-      "url": "https://open.spotify.com/track/36YXD9jFfw446zqlOVGFD2"
+      "duration_ms": 131573,
+      "name": "Good Rockin' Tonight",
+      "url": "https://open.spotify.com/track/6k3FE2tlTymnsPMTkL8slE"
     },
     {
       "added_at": "2020-01-10 15:43:51",

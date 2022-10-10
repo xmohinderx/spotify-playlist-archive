@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Kim Scott",
-  "num_followers": 36989,
+  "num_followers": 37003,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGExODNjYjc3NTY5Y2M2MDMyMjAzMDVhMDA1ZDM4ZDQ4",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGViZWZjNGY0ZTY3OWRkMTMxMTYxYTA5N2YyNGVkNWIy",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
     },
     {
-      "added_at": "2022-10-09 19:48:30",
+      "added_at": "2022-10-10 01:22:35",
       "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
     },
     {
-      "added_at": "2022-10-09 19:48:30",
+      "added_at": "2022-10-10 01:22:35",
       "album": {
         "name": "Look Both Ways",
         "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Donut Jam",
-        "url": "https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ"
-      },
-      "artists": [
-        {
-          "name": "Peet Project",
-          "url": "https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD"
-        }
-      ],
-      "duration_ms": 216437,
-      "name": "Donut Jam",
-      "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Savoir Faire",
@@ -547,6 +531,22 @@
       "duration_ms": 318733,
       "name": "Savoir Faire",
       "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Donut Jam",
+        "url": "https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ"
+      },
+      "artists": [
+        {
+          "name": "Peet Project",
+          "url": "https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD"
+        }
+      ],
+      "duration_ms": 216437,
+      "name": "Donut Jam",
+      "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -773,6 +773,30 @@
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Ticket to Pittsburgh",
+        "url": "https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        },
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 323500,
+      "name": "Ticket to Pittsburgh",
+      "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
+    },
+    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "A Sunny Day",
@@ -807,30 +831,6 @@
       "duration_ms": 210714,
       "name": "Driving All Night",
       "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Ticket to Pittsburgh",
-        "url": "https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        },
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 323500,
-      "name": "Ticket to Pittsburgh",
-      "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
       "added_at": "2022-04-15 04:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,447 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,451 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 25 | [Someday at Christmas](https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 3:02 |
 | 26 | [Have Yourself A Merry Little Christmas \(feat\. Sheléa\)](https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Sheléa](https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG) | [Christmas with PJ Morton \(Deluxe Edition\)](https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo) | 3:23 |
 | 27 | [Joyful, Joyful](https://open.spotify.com/track/671bbzZZlT7tjVUR8CQ5p8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Joyful, Joyful](https://open.spotify.com/album/208bCz548yflYMALLMh1kN) | 3:54 |
-| 28 | [Deck the Halls / Silent Night](https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 4:29 |
-| 29 | [Every Year, Every Christmas](https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Classic Christmas Album](https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5) | 5:05 |
+| 28 | [Every Year, Every Christmas](https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Classic Christmas Album](https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5) | 5:05 |
+| 29 | [Deck the Halls / Silent Night](https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 4:29 |
 | 30 | [This Christmas \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Kdhb8UqEMYPjUMOXRQWD0) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [This Christmas \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/3X3z40mBB0GyMVX3LFRfrg) | 3:29 |
 | 31 | [Hallelujah](https://open.spotify.com/track/7nuW6IlOP5kxsv4C2vrOOf) | [Vanessa Bell Armstrong, Patti Austin, Bernie K., Daryl Coley, Commissioned, Andrae Crouch, Sandra Crouch, Clifton Davis,](https://open.spotify.com/artist/69OLLm0ZAylIU7piver5Go) | [Handel's Messiah: A Soulful Celebration](https://open.spotify.com/album/4Loq4n1JyJHnW5WKKnxPhr) | 5:53 |
 | 32 | [Someday At Christmas](https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Someday At Christmas](https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq) | 3:23 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 34 | [All I Want For Christmas Is You \(feat\. Stokley\)](https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Stokley](https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA) | [Christmas With PJ Morton](https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6) | 4:22 |
 | 35 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 |
 | 36 | [Jingle Bells](https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:23 |
-| 37 | [Litmas](https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Litmas](https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR) | 3:08 |
-| 38 | [I'll Be Home for Christmas](https://open.spotify.com/track/5Dxh4Vuy9eBI8h99kqwGfn) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:11 |
-| 39 | [The First Noel](https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [A Mary Christmas](https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke) | 4:24 |
-| 40 | [Wishlist \(feat\. PJ Morton\)](https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [December Baby](https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT) | 3:57 |
+| 37 | [I'll Be Home for Christmas](https://open.spotify.com/track/5Dxh4Vuy9eBI8h99kqwGfn) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:11 |
+| 38 | [Litmas](https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Litmas](https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR) | 3:08 |
+| 39 | [Wishlist \(feat\. PJ Morton\)](https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [December Baby](https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT) | 3:57 |
+| 40 | [The First Noel](https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [A Mary Christmas](https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke) | 4:24 |
 | 41 | [Soul Holidays](https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 6:00 |
 | 42 | [Christmas Time Is Here](https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu) | 4:11 |
 | 43 | [Winter Wonderland](https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 49 | [Sleigh Ride](https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Winter Loversland](https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm) | 1:57 |
 | 50 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
 
-Snapshot ID: `MTYzOTU4OTQyOSwwMDAwMDAwMGY3ODVlNTA0M2I1ZDUyY2YxYjUzZjgxZmRjY2FkMjc5`
+Snapshot ID: `MTYzOTU4OTQyOSwwMDAwMDAwMDVhZWM0OTVkMzE4NGQwYzRhYTA2ZDljNjI5ZGVlN2Ew`

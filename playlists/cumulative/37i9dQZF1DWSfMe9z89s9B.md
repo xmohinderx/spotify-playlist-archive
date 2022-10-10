@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Flwr Chyld
 
-619 songs - 1 day 9 hr 37 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+620 songs - 1 day 9 hr 41 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-06-10 |  |
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-01-28 | 2022-07-29 |
 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 | 2021-03-19 | 2022-07-05 |
-| [City of Angels](https://open.spotify.com/track/6dQ2LusAx9Lr7NwkwHkYIC) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [City of Angels](https://open.spotify.com/album/7LuzVcbZIaIH3MYWo81k2q) | 2:10 | 2022-08-12 |  |
+| [City of Angels](https://open.spotify.com/track/6dQ2LusAx9Lr7NwkwHkYIC) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [City of Angels](https://open.spotify.com/album/7LuzVcbZIaIH3MYWo81k2q) | 2:10 | 2022-08-12 | 2022-10-10 |
 | [Clear My Mind](https://open.spotify.com/track/47zF41JzRRdJEJQPXlDQvz) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Clear My Mind](https://open.spotify.com/album/7DWz3qJP7YjXwhoEknFpz0) | 2:35 | 2022-04-01 | 2022-04-16 |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-08-13 | 2022-07-16 |
 | [Coconut Oil](https://open.spotify.com/track/22G3GGfNEx4LMv5BYLkXad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Coconut Oil](https://open.spotify.com/album/24otSlk8g6JzdO6vNpCUD5) | 2:01 | 2022-04-01 | 2022-04-16 |
@@ -478,6 +478,7 @@
 | [Save My Number](https://open.spotify.com/track/2NCcyscxO8FRjfycY1xCa2) | [Lance Skiiiwalker](https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O), [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Tales From The Telescope Chapter 2: Internal Shine](https://open.spotify.com/album/08MjfVgkdqINsqCeY67xaG) | 2:39 | 2022-07-15 | 2022-07-29 |
 | [Self!](https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Self!](https://open.spotify.com/album/0R4NeOHuEtXXpjG0xkIKcX) | 3:50 | 2021-03-19 | 2022-08-06 |
 | [Self\-Contained](https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:01 | 2022-09-30 |  |
+| [Selfish \(feat\. BEAM\)](https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Selfish \(feat\. BEAM\)](https://open.spotify.com/album/7mNmUp5h4G9vHec9g6Ul3S) | 3:31 | 2022-10-07 |  |
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-20 |  |
 | [Send My Love](https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Send My Love](https://open.spotify.com/album/4gmsZ9xHzrC5Xxto8DjySB) | 4:04 | 2022-04-01 | 2022-04-14 |
 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 | 2022-04-01 | 2022-04-09 |

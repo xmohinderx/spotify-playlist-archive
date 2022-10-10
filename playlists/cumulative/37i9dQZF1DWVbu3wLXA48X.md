@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: grentperez
 
-605 songs - 1 day 11 hr 52 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+606 songs - 1 day 11 hr 55 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Be Sweet \- Korean Version](https://open.spotify.com/track/5smkxS3MeevRwRt86AADR9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Be Sweet \(Korean Version\)](https://open.spotify.com/album/5WfeCVyCMFpTkkYkcVHT1x) | 3:15 | 2022-07-22 | 2022-09-17 |
 | [Be There](https://open.spotify.com/track/1f15d63XOFV97kLcPJsW5P) | [daynim](https://open.spotify.com/artist/5TJfVhMs1wOBcLLl56fiu6) | [final\_sketch\_001.mp3](https://open.spotify.com/album/171MAtr60Xtt68ye9LyzAD) | 4:30 | 2022-03-31 | 2022-04-15 |
 | [Begin Again](https://open.spotify.com/track/1JsGUb867p0YhDa22fnByZ) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:23 | 2022-06-17 | 2022-08-19 |
-| [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-22 |  |
+| [Belinda Says](https://open.spotify.com/track/6P68mPQLzCYoxa6d5Xemr1) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:45 | 2022-09-30 |  |
+| [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-22 | 2022-10-10 |
 | [Best of Me](https://open.spotify.com/track/0UDrCg4m4RFN5ql0KLZifR) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [Best of Me](https://open.spotify.com/album/7dPU8IgZEI5zWYUm9c9dsy) | 3:29 | 2022-04-07 | 2022-05-21 |
 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 | 2022-04-22 | 2022-05-06 |
 | [Between Me and Chicago](https://open.spotify.com/track/1PhvvtogiRMvf21bNpSbAF) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Chicago](https://open.spotify.com/album/6goOtwMw4OF57CNsO7MfRV) | 3:24 | 2022-07-22 | 2022-09-17 |
@@ -150,8 +151,8 @@
 | [Déjà Vu](https://open.spotify.com/track/29Hg1jaX5ZY5miqr3ScQSn) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Déjà Vu](https://open.spotify.com/album/6lk6qAKg7sIIXdXejLDWuz) | 2:42 | 2022-03-31 | 2022-04-29 |
 | [Easy](https://open.spotify.com/track/2QZIrVL1RnFFrl3YuP6DiP) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Easy](https://open.spotify.com/album/70HeUV33B447KbycGdxC6D) | 3:17 | 2022-06-11 | 2022-07-02 |
 | [Easy Like 123](https://open.spotify.com/track/5WafeWUNLnf2BY9UJ3xgRP) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [FUNFAIR](https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i) | 2:28 | 2022-04-07 | 2022-05-13 |
-| [Easy On Your Own?](https://open.spotify.com/track/2Bh6gPXFkzkqIHLmXyLvle) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:54 | 2022-09-30 |  |
-| [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 | 2022-08-11 | 2022-10-09 |
+| [Easy On Your Own?](https://open.spotify.com/track/2Bh6gPXFkzkqIHLmXyLvle) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:54 | 2022-09-30 | 2022-10-10 |
+| [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 | 2022-08-11 |  |
 | [Eden](https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK) | [All We Are](https://open.spotify.com/artist/2dsuoOdH05Dx4GxAoYscpT) | [Eden](https://open.spotify.com/album/4vCmjawcuV3RcX7XyvQppt) | 4:12 | 2021-12-16 | 2021-12-31 |
 | [Ego](https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn) | 2:15 | 2022-08-11 | 2022-09-23 |
 | [Em Trang Trí](https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Em Trang Trí](https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3) | 2:45 | 2021-12-23 | 2022-01-21 |

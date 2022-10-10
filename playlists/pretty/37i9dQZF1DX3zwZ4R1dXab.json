@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
-  "num_followers": 842,
+  "num_followers": 844,
   "original_name": "PAUSE: Anxiety",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMDQ3OTA0YWU2NTgyNWE2Yjg5MGNiZmI2ZWRjNGViMGE0",
+  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMDM2YTY2M2YyZDkxNWZjMTMzM2MxMjVhNjdkMTUyYWQ2",
   "tracks": [
     {
       "added_at": "2022-09-15 11:18:16",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Castleman",
+          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
+        }
+      ],
+      "duration_ms": 248210,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
         "name": "Ensamma n\u00e4tter",
         "url": "https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 122466,
       "name": "Arcticgrey",
       "url": "https://open.spotify.com/track/0zhaw7PAf3Wofl1yANAOa0"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Castleman",
-          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
-        }
-      ],
-      "duration_ms": 248210,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "On the Stairs",
-        "url": "https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "On the Stairs",
-      "url": "https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/1qN9ZsA6ELL3C5dOOdwrTf"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 133193,
       "name": "Silent",
       "url": "https://open.spotify.com/track/2wtXjG8mWHPGKbJcVNzjAR"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "On the Stairs",
+        "url": "https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "On the Stairs",
+      "url": "https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Comtemplating Still",
-        "url": "https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo"
-      },
-      "artists": [
-        {
-          "name": "Bree Arnold",
-          "url": "https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV"
-        }
-      ],
-      "duration_ms": 100472,
-      "name": "Comtemplating Still",
-      "url": "https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "The Grass",
         "url": "https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 157000,
       "name": "The Grass",
       "url": "https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Comtemplating Still",
+        "url": "https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo"
+      },
+      "artists": [
+        {
+          "name": "Bree Arnold",
+          "url": "https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV"
+        }
+      ],
+      "duration_ms": 100472,
+      "name": "Comtemplating Still",
+      "url": "https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Papperssvalan",
-        "url": "https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV"
-      },
-      "artists": [
-        {
-          "name": "Norr\u00f6ga",
-          "url": "https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Papperssvalan",
-      "url": "https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Vejlefjord",
         "url": "https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 134067,
       "name": "Vejlefjord",
       "url": "https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Papperssvalan",
+        "url": "https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV"
+      },
+      "artists": [
+        {
+          "name": "Norr\u00f6ga",
+          "url": "https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Papperssvalan",
+      "url": "https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi"
     },
     {
       "added_at": "2022-09-15 11:18:16",

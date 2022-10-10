@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Trompetas, piano y timbal para darle saz\u00f3n a tu mediod\u00eda!",
-  "num_followers": 30882,
+  "num_followers": 30889,
   "original_name": "Brunch Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMDU5OGYyYmIzMzU1YmQ4MWEzMWRmMmRjZDAxYmRkOTY3",
+  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMDY4MmIzMGIyNzY3YTYxMzBlNjc5NzhmNmJhMzAyZTBm",
   "tracks": [
     {
       "added_at": "2021-10-20 21:31:00",
@@ -317,6 +317,22 @@
       "url": "https://open.spotify.com/track/6tH3VW64C62rEUMnUzjKEw"
     },
     {
+      "added_at": "2022-04-20 05:00:00",
+      "album": {
+        "name": "The Afrosound Of Colombia Volume 1",
+        "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
+      },
+      "artists": [
+        {
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Los sabanales",
+      "url": "https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh"
+    },
+    {
       "added_at": "2021-10-20 21:31:00",
       "album": {
         "name": "Cumbia del Monte Fuji",
@@ -335,22 +351,6 @@
       "duration_ms": 264842,
       "name": "Cumbia del Monte Fuji",
       "url": "https://open.spotify.com/track/24fMHoWCFcyuuSDbHWzbPc"
-    },
-    {
-      "added_at": "2022-04-20 05:00:00",
-      "album": {
-        "name": "The Afrosound Of Colombia Volume 1",
-        "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
-      },
-      "artists": [
-        {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Los sabanales",
-      "url": "https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -435,6 +435,26 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
+        "name": "Frente Cumbiero Meets Mad Professor",
+        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        },
+        {
+          "name": "Mad Professor",
+          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Chucusteady",
+      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
         "name": "Dog With a Rope",
         "url": "https://open.spotify.com/album/1DKfTnMLIUo2yXXSrfwVNH"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 152066,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Frente Cumbiero Meets Mad Professor",
-        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Mad Professor",
-          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Chucusteady",
-      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Bleu de lune (El Buho Remix)",
-        "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
-      },
-      "artists": [
-        {
-          "name": "Zoufris Maracas",
-          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 281100,
-      "name": "Bleu de lune (El Buho Remix)",
-      "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
         "name": "Black is Beltza (Soinu-banda)",
         "url": "https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 257853,
       "name": "Bocanegra",
       "url": "https://open.spotify.com/track/57e8weoxM68ESpTZrv1KPX"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Bleu de lune (El Buho Remix)",
+        "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
+      },
+      "artists": [
+        {
+          "name": "Zoufris Maracas",
+          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Bleu de lune (El Buho Remix)",
+      "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
     },
     {
       "added_at": "2022-04-20 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 42852,
+  "num_followers": 42876,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMDNkYTRmNzlhMzE2OGMyNjM0ZDMxZjEwNzliMmJkM2E5",
+  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMDZkZGEyMTdjNDc1ODZiNmE0ZDRjYzgxYTNkNzgwMzY3",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "On the Border (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 218269,
-      "name": "James Dean - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Baddest Of George Thorogood And The Destroyers",
         "url": "https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 258800,
       "name": "Move It On Over",
       "url": "https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 218269,
+      "name": "James Dean - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Get The Picture?",
-        "url": "https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 139240,
-      "name": "Midnight To Six Man",
-      "url": "https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Morning After",
         "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
       },
@@ -495,8 +479,24 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Top Priority (Remastered 2017)",
-        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
+        "name": "Get The Picture?",
+        "url": "https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 139240,
+      "name": "Midnight To Six Man",
+      "url": "https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
         }
       ],
-      "duration_ms": 290670,
-      "name": "Hell Cat",
-      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
+      "duration_ms": 213626,
+      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
+      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -655,8 +655,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
+        "name": "Top Priority (Remastered 2017)",
+        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
         }
       ],
-      "duration_ms": 213626,
-      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
-      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
+      "duration_ms": 290670,
+      "name": "Hell Cat",
+      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
     },
     {
       "added_at": "2020-12-01 05:01:00",

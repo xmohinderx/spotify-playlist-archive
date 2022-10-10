@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 213825,
+  "num_followers": 213876,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGE2NjkyMDlkYWNmMGMwM2E1MzU2NjZhZWMyYmQ2MDg5",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDc4NDJhYTMwODNjZGVkZWZmYWVhZTEyOGU2OWU4N2I4",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "You Feel Me",
-        "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 191443,
-      "name": "You Feel Me",
-      "url": "https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Mysterious Traveller",
@@ -687,6 +671,22 @@
       "duration_ms": 500866,
       "name": "Cucumber Slumber",
       "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "You Feel Me",
+        "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 191443,
+      "name": "You Feel Me",
+      "url": "https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H"
     },
     {
-      "added_at": "2021-12-17 05:02:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 290080,
-      "name": "Pull Your Pants Up",
-      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Bitches Brew",
@@ -911,6 +895,22 @@
       "duration_ms": 841333,
       "name": "Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
       "url": "https://open.spotify.com/track/0n8sBhOtUb6pDFKjpxfakj"
+    },
+    {
+      "added_at": "2021-12-17 05:02:00",
+      "album": {
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 290080,
+      "name": "Pull Your Pants Up",
+      "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "Declassified",
+        "url": "https://open.spotify.com/album/5Qi3Ifed8PIXJjlpGEcsMk"
+      },
+      "artists": [
+        {
+          "name": "Groove Collective",
+          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
+        }
+      ],
+      "duration_ms": 349440,
+      "name": "Everything Is Changing",
+      "url": "https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "The 2nd Crusade",
         "url": "https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Declassified",
-        "url": "https://open.spotify.com/album/5Qi3Ifed8PIXJjlpGEcsMk"
+        "name": "Gears",
+        "url": "https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH"
       },
       "artists": [
         {
-          "name": "Groove Collective",
-          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
+          "name": "Johnny \"Hammond\" Smith",
+          "url": "https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq"
         }
       ],
-      "duration_ms": 349440,
-      "name": "Everything Is Changing",
-      "url": "https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ"
+      "duration_ms": 317957,
+      "name": "Tell Me What To Do",
+      "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Gears",
-        "url": "https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Hammond\" Smith",
-          "url": "https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq"
-        }
-      ],
-      "duration_ms": 317957,
-      "name": "Tell Me What To Do",
-      "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Shout It Out",
         "url": "https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1"
       },
@@ -1225,36 +1225,20 @@
       "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
+      "added_at": "2021-06-11 04:01:00",
       "album": {
-        "name": "Toots (Radio Edit)",
-        "url": "https://open.spotify.com/album/2cLQ4mLJR8hqkRD2IYXJIc"
+        "name": "Mutual Attraction Vol. 2",
+        "url": "https://open.spotify.com/album/18hpk0Vz7PAcbKEPNsNfsq"
       },
       "artists": [
         {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        },
-        {
-          "name": "Michael Miller",
-          "url": "https://open.spotify.com/artist/2SSxS71ODYETIEEsEYfVwL"
-        },
-        {
-          "name": "John Polace",
-          "url": "https://open.spotify.com/artist/4r6OedFsNy518CrCkPIoHl"
-        },
-        {
-          "name": "Thin Thicket",
-          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        },
-        {
-          "name": "Chris Walker",
-          "url": "https://open.spotify.com/artist/7wWrgVcKp70TmEyZVy7cyw"
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
         }
       ],
-      "duration_ms": 352197,
-      "name": "Toots - Radio Edit",
-      "url": "https://open.spotify.com/track/7GPHQaLK0TrkMKIopusoK4"
+      "duration_ms": 193598,
+      "name": "Presente Grego",
+      "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -1289,36 +1273,36 @@
       "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
+      "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Mutual Attraction Vol. 2",
-        "url": "https://open.spotify.com/album/18hpk0Vz7PAcbKEPNsNfsq"
+        "name": "Toots (Radio Edit)",
+        "url": "https://open.spotify.com/album/2cLQ4mLJR8hqkRD2IYXJIc"
       },
       "artists": [
         {
-          "name": "High Pulp",
-          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
-        }
-      ],
-      "duration_ms": 193598,
-      "name": "Presente Grego",
-      "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Linger Lane",
-        "url": "https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1"
-      },
-      "artists": [
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
         {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+          "name": "Michael Miller",
+          "url": "https://open.spotify.com/artist/2SSxS71ODYETIEEsEYfVwL"
+        },
+        {
+          "name": "John Polace",
+          "url": "https://open.spotify.com/artist/4r6OedFsNy518CrCkPIoHl"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Chris Walker",
+          "url": "https://open.spotify.com/artist/7wWrgVcKp70TmEyZVy7cyw"
         }
       ],
-      "duration_ms": 320773,
-      "name": "Mountain Caravan",
-      "url": "https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn"
+      "duration_ms": 352197,
+      "name": "Toots - Radio Edit",
+      "url": "https://open.spotify.com/track/7GPHQaLK0TrkMKIopusoK4"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1335,6 +1319,22 @@
       "duration_ms": 252026,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Linger Lane",
+        "url": "https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 320773,
+      "name": "Mountain Caravan",
+      "url": "https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn"
     },
     {
       "added_at": "2021-05-07 04:09:00",
@@ -1405,20 +1405,28 @@
       "url": "https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
+      "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Spoon (Mike Casey Remix)",
-        "url": "https://open.spotify.com/album/2LmcUC52wK3UTfySCDKN33"
+        "name": "Touchy (Tiny Room Sessions)",
+        "url": "https://open.spotify.com/album/7iOTpcUuQA5k5zOYCsdFgF"
       },
       "artists": [
         {
-          "name": "Mike Casey",
-          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Ronald Bruner, Jr.",
+          "url": "https://open.spotify.com/artist/5uiYVTlSFQqK08L1MKuBnW"
+        },
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/71DLOjjNflV6J67OQrR54B"
         }
       ],
-      "duration_ms": 113785,
-      "name": "Spoon (Mike Casey Remix) [No Sax]",
-      "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
+      "duration_ms": 250451,
+      "name": "Touchy (Tiny Room Sessions)",
+      "url": "https://open.spotify.com/track/17nDpLJL5JfCCa7olHnEg9"
     },
     {
       "added_at": "2020-10-09 04:01:00",

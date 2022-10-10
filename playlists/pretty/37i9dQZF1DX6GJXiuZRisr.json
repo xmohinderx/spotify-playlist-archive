@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1376726,
+  "num_followers": 1376823,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGU3Yjg3YTZmYTQ4ZjM5ZTQ5Mzk4MWZmMDQ2MWRkZWUw",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGMwYWQ4M2QwMDczMjQwMGZlYTI5MDEzYjkzMzcxMDdk",
   "tracks": [
     {
       "added_at": "2022-07-01 11:37:35",
@@ -771,6 +771,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Skyscrapers (Hi-Lo Remix)",
         "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 296368,
       "name": "Skyscrapers - Hi-Lo Remix",
       "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR"
+        "name": "Elements Of A New Life",
+        "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
       "artists": [
         {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+          "name": "VER:WEST",
+          "url": "https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 221090,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
+      "duration_ms": 205161,
+      "name": "Elements Of A New Life",
+      "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Elements Of A New Life",
-        "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR"
       },
       "artists": [
         {
-          "name": "VER:WEST",
-          "url": "https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Elements Of A New Life",
-      "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
+      "duration_ms": 221090,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1385,106 +1385,6 @@
       "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Feel Again",
-      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "All I Want (feat. Goatchy)",
-        "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
-      },
-      "artists": [
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        },
-        {
-          "name": "Goatchy",
-          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
-        }
-      ],
-      "duration_ms": 224978,
-      "name": "All I Want (feat. Goatchy)",
-      "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO"
-      },
-      "artists": [
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        },
-        {
-          "name": "Stylo",
-          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
-        }
-      ],
-      "duration_ms": 403902,
-      "name": "Dreamers",
-      "url": "https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Artefact",
-        "url": "https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3"
-      },
-      "artists": [
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        },
-        {
-          "name": "Fuenka",
-          "url": "https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Artefact",
-      "url": "https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI"
-    },
-    {
-      "added_at": "2022-09-09 10:15:52",
-      "album": {
-        "name": "Love Instead",
-        "url": "https://open.spotify.com/album/60TqE96idOeQrOV29DNpk8"
-      },
-      "artists": [
-        {
-          "name": "SKGN",
-          "url": "https://open.spotify.com/artist/4sVaOfvOqPgs3Qr1NDorKN"
-        },
-        {
-          "name": "Rico 56",
-          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "Love Instead",
-      "url": "https://open.spotify.com/track/40VOWVEYAZ4PQZSW6yHzAP"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Atlas (Shall Ocin & Artbat Remix)",
@@ -1513,6 +1413,86 @@
       "url": "https://open.spotify.com/track/1CgZ0pKxdBB9trUYULmKSs"
     },
     {
+      "added_at": "2022-09-09 10:15:52",
+      "album": {
+        "name": "Love Instead",
+        "url": "https://open.spotify.com/album/60TqE96idOeQrOV29DNpk8"
+      },
+      "artists": [
+        {
+          "name": "SKGN",
+          "url": "https://open.spotify.com/artist/4sVaOfvOqPgs3Qr1NDorKN"
+        },
+        {
+          "name": "Rico 56",
+          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "Love Instead",
+      "url": "https://open.spotify.com/track/40VOWVEYAZ4PQZSW6yHzAP"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "All I Want (feat. Goatchy)",
+        "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
+      },
+      "artists": [
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        },
+        {
+          "name": "Goatchy",
+          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
+        }
+      ],
+      "duration_ms": 224978,
+      "name": "All I Want (feat. Goatchy)",
+      "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        }
+      ],
+      "duration_ms": 403902,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Elamy",
@@ -1527,6 +1507,26 @@
       "duration_ms": 278400,
       "name": "Elamy",
       "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Artefact",
+        "url": "https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Fuenka",
+          "url": "https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Artefact",
+      "url": "https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1559,6 +1559,26 @@
       "duration_ms": 337500,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Neon Jungle Remixes",
+        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 249919,
+      "name": "Neon Jungle - Lane 8 Remix",
+      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1599,26 +1619,6 @@
       "duration_ms": 170880,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/5HopfU98O15r6TiQorUxSD"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Neon Jungle Remixes",
-        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 249919,
-      "name": "Neon Jungle - Lane 8 Remix",
-      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/1fY8TWeIEA2EXH24sT9RJn"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Davey Havok",
-          "url": "https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8"
-        }
-      ],
-      "duration_ms": 350322,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yT31cuPzcqkE2BJV4Fusx"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Roar (Adana Twins Remix)",
         "url": "https://open.spotify.com/album/3FY1RYMswstlQcPkPIF9hX"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 493580,
       "name": "Roar - Adana Twins Remix",
       "url": "https://open.spotify.com/track/5cWtZM21FH4YL0aWq3Syfv"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/1fY8TWeIEA2EXH24sT9RJn"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Davey Havok",
+          "url": "https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8"
+        }
+      ],
+      "duration_ms": 350322,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yT31cuPzcqkE2BJV4Fusx"
     },
     {
       "added_at": "2022-07-01 11:37:35",

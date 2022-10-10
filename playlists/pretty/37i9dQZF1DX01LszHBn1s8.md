@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > sweater weather & pumpkin spice 🍂 october is here 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,481 likes - 590 songs - 1 day 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,635 likes - 590 songs - 1 day 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

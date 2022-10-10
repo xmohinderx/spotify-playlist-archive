@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Godsmack",
-  "num_followers": 705605,
+  "num_followers": 705593,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTY2MCwwMDAwMDAwMGE3MWQyYjgwZGE2NGJkNDcwMjY0ZDE4MDExNjMxZGZj",
+  "snapshot_id": "MTY2NTExMTY2MCwwMDAwMDAwMDU1NWM0MTU2OTAwZGQ5ODZmZDk2ZDIwMjI4MWZlYWU0",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
+        "name": "The Art Of Survival",
+        "url": "https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 228119,
+      "name": "Slow Me",
+      "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
         "name": "Leeches",
         "url": "https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 241954,
       "name": "Actions Speak Louder Than Words (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
-        "name": "The Art Of Survival",
-        "url": "https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 228119,
-      "name": "Slow Me",
-      "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
     },
     {
       "added_at": "2022-10-07 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Stephen Sanchez",
-  "num_followers": 786459,
+  "num_followers": 786489,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGQ0MmFlMDg2ODg3YjRlNThlYzJmNjFkZGIzZDI5MzM3",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDcyOGQ3NmRiZjU5M2M4Y2RiODBiZWY5ZDAzOWZmMDI5",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Austin Plaine",
+        "url": "https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN"
+      },
+      "artists": [
+        {
+          "name": "Austin Plaine",
+          "url": "https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN"
+        }
+      ],
+      "duration_ms": 196240,
+      "name": "Never Come Back Again",
+      "url": "https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Call You in the Morning",
         "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 257893,
       "name": "See the World",
       "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Austin Plaine",
-        "url": "https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN"
-      },
-      "artists": [
-        {
-          "name": "Austin Plaine",
-          "url": "https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN"
-        }
-      ],
-      "duration_ms": 196240,
-      "name": "Never Come Back Again",
-      "url": "https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 136378,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "The Worth Of The Wait",
         "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 171800,
       "name": "The Worth Of The Wait",
       "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 136378,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Kick Out the Windows (Radio Edit)",
         "url": "https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 216066,
       "name": "These Cold Nights",
       "url": "https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
-      },
-      "artists": [
-        {
-          "name": "Soll",
-          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
-        }
-      ],
-      "duration_ms": 243776,
-      "name": "River",
-      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Don't Say",
         "url": "https://open.spotify.com/album/5zjEdsCxqIh5e3q3yPSbl3"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Some Kind Of Love",
-        "url": "https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT"
+        "name": "River",
+        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
       },
       "artists": [
         {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+          "name": "Soll",
+          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
         }
       ],
-      "duration_ms": 228986,
-      "name": "Some Kind Of Love",
-      "url": "https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW"
+      "duration_ms": 243776,
+      "name": "River",
+      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Some Kind Of Love",
+        "url": "https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT"
+      },
+      "artists": [
+        {
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Some Kind Of Love",
+      "url": "https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Kairos",
-        "url": "https://open.spotify.com/album/1pL3wgi9NPJFviJ6dnNs8k"
-      },
-      "artists": [
-        {
-          "name": "Sam Brookes",
-          "url": "https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh"
-        }
-      ],
-      "duration_ms": 211106,
-      "name": "James",
-      "url": "https://open.spotify.com/track/64PvmmEK0qTUaVUVvrYR7W"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Left With The Wolves",
         "url": "https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 229334,
       "name": "Left With The Wolves",
       "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/1pL3wgi9NPJFviJ6dnNs8k"
+      },
+      "artists": [
+        {
+          "name": "Sam Brookes",
+          "url": "https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh"
+        }
+      ],
+      "duration_ms": 211106,
+      "name": "James",
+      "url": "https://open.spotify.com/track/64PvmmEK0qTUaVUVvrYR7W"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1577,38 +1577,6 @@
       "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
     },
     {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "San Isabel",
-        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 280813,
-      "name": "Crazy World (Judgement Day)",
-      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "I Know the Way Home",
-        "url": "https://open.spotify.com/album/3xyzbwzDORDLA6QgQRASvj"
-      },
-      "artists": [
-        {
-          "name": "Andrew Galucki",
-          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
-        }
-      ],
-      "duration_ms": 201875,
-      "name": "I Know the Way Home",
-      "url": "https://open.spotify.com/track/4uTnmU2jXpoI87haPWMqTi"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Carving Canyons",
@@ -1623,6 +1591,22 @@
       "duration_ms": 188619,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "San Isabel",
+        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Crazy World (Judgement Day)",
+      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1655,6 +1639,22 @@
       "duration_ms": 208495,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "I Know the Way Home",
+        "url": "https://open.spotify.com/album/3xyzbwzDORDLA6QgQRASvj"
+      },
+      "artists": [
+        {
+          "name": "Andrew Galucki",
+          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "I Know the Way Home",
+      "url": "https://open.spotify.com/track/4uTnmU2jXpoI87haPWMqTi"
     }
   ],
   "unique_name": "Folk Pop",

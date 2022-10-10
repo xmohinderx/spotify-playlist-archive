@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Samaria
 
-341 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
+342 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [BILL$](https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:23 | 2022-08-05 |  |
 | [Bitch Don't Be Mad](https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Habits](https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq) | 3:05 | 2021-12-15 |  |
 | [Bitter](https://open.spotify.com/track/4POE6bABqxHcXeUeJDebhn) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Bitter](https://open.spotify.com/album/75Web3RXKzSyN8zP82idur) | 3:05 | 2022-04-08 | 2022-07-22 |
-| [Bitter](https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:03 | 2022-05-06 |  |
+| [Bitter](https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:03 | 2022-05-06 | 2022-10-10 |
 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/77nSU6xoiBDJZAMqBSxLav) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 3:56 | 2022-03-25 | 2022-04-21 |
 | [Bling Up](https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Bling Up](https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ) | 2:57 | 2021-12-15 | 2022-07-18 |
 | [Blue Mercedes](https://open.spotify.com/track/017Eh4VHT4kkOu65GuSg1H) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Blue Mercedes](https://open.spotify.com/album/1LitlkT715pr7BolzIvrf7) | 3:07 | 2022-02-04 | 2022-04-21 |
@@ -325,6 +325,7 @@
 | [VICES](https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [VICES](https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ) | 3:03 | 2022-06-10 |  |
 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 | 2022-09-09 |  |
 | [WASTE TIME](https://open.spotify.com/track/0pAV6EBJ5nBKbGfi3QpPtB) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:20 | 2022-07-15 | 2022-10-08 |
+| [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 | 2022-09-30 |  |
 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2021-12-15 | 2022-08-06 |
 | [WE DON'T HAVE TO TALK ABOUT IT](https://open.spotify.com/track/0hTx619IpMPXDZJTtejmgo) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/2QbggCXuxIF9ZINGfzR8Md) | 3:19 | 2021-12-15 | 2022-07-29 |
 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 | 2021-12-15 | 2022-07-29 |

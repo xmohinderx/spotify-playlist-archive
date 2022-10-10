@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 6062,
+  "num_followers": 6064,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMDE0YjJmOWFhYjU4NWMyNzAyZTUxOTczYTRlNWQ4N2M0",
+  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMDkwNTUzYTZlMmFkODY4MTdmOGNjOWU2NzE2ODdjZDM0",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Dead Summer",
-        "url": "https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5"
+        "name": "H\u00f4tel d\u00e9lices",
+        "url": "https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML"
       },
       "artists": [
         {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
         }
       ],
-      "duration_ms": 165569,
-      "name": "Dead Summer",
-      "url": "https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE"
+      "duration_ms": 208160,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3H0AwabHiugPGdHwYIZUYf"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Dead Summer",
+        "url": "https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 165569,
+      "name": "Dead Summer",
+      "url": "https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Bonhomme Pendu (Chapitre 3)",
         "url": "https://open.spotify.com/album/590NTKVPSghzSqjd7QX5fn"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 206733,
       "name": "Badman",
       "url": "https://open.spotify.com/track/6JmVD6HWmhgUKMqAz11qIk"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "H\u00f4tel d\u00e9lices",
-        "url": "https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML"
-      },
-      "artists": [
-        {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3H0AwabHiugPGdHwYIZUYf"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Ind\u00e9l\u00e9bile",
-        "url": "https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf"
-      },
-      "artists": [
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 166835,
-      "name": "Kr\u00e8ve",
-      "url": "https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Encore Des Histoires De Trap",
         "url": "https://open.spotify.com/album/5f27f4CYjasBqMXVn6nbuw"
       },
@@ -1207,26 +1187,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/6bAD8hkcYj2bCFZg6CzhmC"
+        "name": "Ind\u00e9l\u00e9bile",
+        "url": "https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf"
       },
       "artists": [
         {
-          "name": "TNGHT",
-          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
         },
         {
-          "name": "Lunice",
-          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
         }
       ],
-      "duration_ms": 193293,
-      "name": "Dollaz",
-      "url": "https://open.spotify.com/track/4ONsmdb2GIWjZ667tiD7HT"
+      "duration_ms": 166835,
+      "name": "Kr\u00e8ve",
+      "url": "https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1247,6 +1223,30 @@
       "duration_ms": 147853,
       "name": "Undercover",
       "url": "https://open.spotify.com/track/3wz9q30Ip0dqpi4wWw6g1q"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/6bAD8hkcYj2bCFZg6CzhmC"
+      },
+      "artists": [
+        {
+          "name": "TNGHT",
+          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+        },
+        {
+          "name": "Lunice",
+          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Dollaz",
+      "url": "https://open.spotify.com/track/4ONsmdb2GIWjZ667tiD7HT"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Oc\u00e9an",
-        "url": "https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL"
-      },
-      "artists": [
-        {
-          "name": "Manu Militari",
-          "url": "https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "Peace and Love",
-      "url": "https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/0ce1MQn7HJBr1OPyJOoDB3"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 214726,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/2jnNLZ4GcmstGoS0d591jD"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Oc\u00e9an",
+        "url": "https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL"
+      },
+      "artists": [
+        {
+          "name": "Manu Militari",
+          "url": "https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE"
+        }
+      ],
+      "duration_ms": 305906,
+      "name": "Peace and Love",
+      "url": "https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN"
     },
     {
       "added_at": "2022-03-11 05:02:00",

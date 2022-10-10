@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-10",
       "duration_ms": 218880,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7LcLYZ330ybUVStyPovt4y"
@@ -1629,6 +1629,36 @@
       "duration_ms": 487680,
       "name": "In The Shadows",
       "url": "https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P"
+    },
+    {
+      "album": {
+        "name": "Remix EP",
+        "url": "https://open.spotify.com/album/2o4SFDvTSB7Kg1uFBoGK55"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        },
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        },
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186741,
+      "name": "Invincible - David Morales Remix",
+      "url": "https://open.spotify.com/track/37hv4SnvsL9G47lIt8grBw"
     },
     {
       "album": {

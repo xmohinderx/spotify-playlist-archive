@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Kim Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,989 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,003 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 28 | [Nine 2 Five](https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Cool Shades](https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz) | 4:00 |
 | 29 | [G\-Wiggle](https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream 2\-Turn It Up](https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8) | 4:30 |
 | 30 | [Make Up Your Mind \- Radio Edit](https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [Make Up Your Mind \(Radio Edit\)](https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC) | 4:00 |
-| 31 | [Donut Jam](https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs) | [Peet Project](https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD) | [Donut Jam](https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ) | 3:36 |
-| 32 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
+| 31 | [Savoir Faire](https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Savoir Faire](https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp) | 5:18 |
+| 32 | [Donut Jam](https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs) | [Peet Project](https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD) | [Donut Jam](https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ) | 3:36 |
 | 33 | [Drive](https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Drive](https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD) | 4:21 |
 | 34 | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0) | 3:30 |
 | 35 | [Stride](https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Stride](https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF) | 4:14 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 43 | [Radio Vibe \- radio single](https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9), [Jeanette Harris](https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn) | [Radio Vibe](https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq) | 4:09 |
 | 44 | [Feet First](https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Feet First](https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0) | 4:00 |
 | 45 | [Pioneer Town](https://open.spotify.com/track/53djpTONT01aF8xYjuLosr) | [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [A Midnight Rendezvous](https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x) | 3:57 |
-| 46 | [Fika Talk](https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U) | [WaKaNa](https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6), [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [A Sunny Day](https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA) | 4:15 |
-| 47 | [Driving All Night](https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz) | [Igor Gerzina](https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW) | [Driving All Night](https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz) | 3:30 |
-| 48 | [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 |
+| 46 | [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 |
+| 47 | [Fika Talk](https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U) | [WaKaNa](https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6), [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [A Sunny Day](https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA) | 4:15 |
+| 48 | [Driving All Night](https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz) | [Igor Gerzina](https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW) | [Driving All Night](https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz) | 3:30 |
 | 49 | [Relentless](https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Red Tiger](https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV) | 4:09 |
 | 50 | [Way Maker](https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Simply Worship](https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9) | 4:09 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGExODNjYjc3NTY5Y2M2MDMyMjAzMDVhMDA1ZDM4ZDQ4`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGViZWZjNGY0ZTY3OWRkMTMxMTYxYTA5N2YyNGVkNWIy`

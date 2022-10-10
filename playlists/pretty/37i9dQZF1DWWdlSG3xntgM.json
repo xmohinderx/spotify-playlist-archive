@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 31605,
+  "num_followers": 31609,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY1NzUwMiwwMDAwMDAwMGFhYmZmNDQwYWU4NmI1YWY2MmEzNDk1YmM4YTFlMTc0",
+  "snapshot_id": "MTY1NDY1NzUwMiwwMDAwMDAwMDI5NTk2YWY5MjU3OTgxMjFlYTc5YjU2NGU3Y2ViMDAz",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:33",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-03-11 05:02:33",
       "album": {
-        "name": "\u0110i\u1ec7u Bu\u1ed3n L\u1ee5c T\u1ec9nh",
-        "url": "https://open.spotify.com/album/7eT0iZ0tW8rNJSF8TkfKXr"
-      },
-      "artists": [
-        {
-          "name": "Qu\u1ef3nh Trang",
-          "url": "https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw"
-        }
-      ],
-      "duration_ms": 287473,
-      "name": "Chuy\u1ec7n T\u00ecnh Kh\u00f4ng D\u0129 V\u00e3ng",
-      "url": "https://open.spotify.com/track/6Kju3c7MNva9FJgi0NqY0t"
-    },
-    {
-      "added_at": "2022-03-11 05:02:33",
-      "album": {
         "name": "Hoa Trinh N\u1eef (The Best Of Ch\u1ebf Linh 1)",
         "url": "https://open.spotify.com/album/2LAGCevpiBk3XbgPvyROS0"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 329800,
       "name": "Hoa Trinh N\u1eef",
       "url": "https://open.spotify.com/track/2w7ozeoqAPTB0CPsMu4fPp"
+    },
+    {
+      "added_at": "2022-03-11 05:02:33",
+      "album": {
+        "name": "\u0110i\u1ec7u Bu\u1ed3n L\u1ee5c T\u1ec9nh",
+        "url": "https://open.spotify.com/album/7eT0iZ0tW8rNJSF8TkfKXr"
+      },
+      "artists": [
+        {
+          "name": "Qu\u1ef3nh Trang",
+          "url": "https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw"
+        }
+      ],
+      "duration_ms": 287473,
+      "name": "Chuy\u1ec7n T\u00ecnh Kh\u00f4ng D\u0129 V\u00e3ng",
+      "url": "https://open.spotify.com/track/6Kju3c7MNva9FJgi0NqY0t"
     },
     {
       "added_at": "2022-03-11 05:02:33",

@@ -1,12 +1,12 @@
 {
   "description": "The home of today\u2019s cutting edge Ambient, Atmospheric and Neo Classical music. Clark on cover.",
-  "num_followers": 106064,
+  "num_followers": 106087,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4MTk5NCwwMDAwMDAwMDNlZTJmYzBiODI2ZWIxMWRjMzFhOTI3NGE4NzVlM2M0",
+  "snapshot_id": "MTY2NDg4MTk5NCwwMDAwMDAwMDE2YmZkMTZmYmQ5Mjc1OWM1ZDRkYzY2N2ZkYjk0MmRh",
   "tracks": [
     {
       "added_at": "2022-10-04 11:13:14",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
         "name": "Seconds / H\u00f3lar",
         "url": "https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 123750,
       "name": "Seconds",
       "url": "https://open.spotify.com/track/2ROZkHmSV46OD2ESB6gpzs"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
+        "name": "the storm before the calm",
+        "url": "https://open.spotify.com/album/5mXNbzv8w9yL7yT4fcls2r"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 328320,
+      "name": "light\u2014the lightworker\u2019s lament",
+      "url": "https://open.spotify.com/track/2eIfwGaVlemywEmFrGdgpd"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -1243,42 +1259,6 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "the storm before the calm",
-        "url": "https://open.spotify.com/album/5mXNbzv8w9yL7yT4fcls2r"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "light\u2014the lightworker\u2019s lament",
-      "url": "https://open.spotify.com/track/2eIfwGaVlemywEmFrGdgpd"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "Sons Of",
-        "url": "https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        },
-        {
-          "name": "John McEntire",
-          "url": "https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg"
-        }
-      ],
-      "duration_ms": 471786,
-      "name": "A Ghost At Noon",
-      "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1323,6 +1303,42 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
+        "name": "Sons Of",
+        "url": "https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        },
+        {
+          "name": "John McEntire",
+          "url": "https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg"
+        }
+      ],
+      "duration_ms": 471786,
+      "name": "A Ghost At Noon",
+      "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 445980,
+      "name": "Right Right Right",
+      "url": "https://open.spotify.com/track/4eHxj67kulo8NO4l7RexJl"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
         "name": "Attract",
         "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
       },
@@ -1347,6 +1363,22 @@
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "Upstream Dream",
+        "url": "https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 256005,
+      "name": "Upstream Dream",
+      "url": "https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1391,38 +1423,6 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Upstream Dream",
-        "url": "https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 256005,
-      "name": "Upstream Dream",
-      "url": "https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "Music for Animals",
-        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 445980,
-      "name": "Right Right Right",
-      "url": "https://open.spotify.com/track/4eHxj67kulo8NO4l7RexJl"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
         "name": "Space 1.8",
         "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "The Sacrificial Code",
-        "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
-      },
-      "artists": [
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 653904,
-      "name": "Spectacle Of Ritual",
-      "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
         "name": "Nouveau-N\u00e9",
         "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
       },
@@ -1487,18 +1471,34 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Tri Repetae",
-        "url": "https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL"
+        "name": "The Sacrificial Code",
+        "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
       },
       "artists": [
         {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
         }
       ],
-      "duration_ms": 255933,
-      "name": "Eutow",
-      "url": "https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ"
+      "duration_ms": 653904,
+      "name": "Spectacle Of Ritual",
+      "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 1111999,
+      "name": "Lemon Day",
+      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 255933,
+      "name": "Eutow",
+      "url": "https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
         "name": "March 13 (Zoon Remix)",
         "url": "https://open.spotify.com/album/1vD359X2yHjI6aOb2w0cK6"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Music for Animals",
-        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 1111999,
-      "name": "Lemon Day",
-      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
         "name": "5.17 / That's How Horses Are",
         "url": "https://open.spotify.com/album/4zZGOQCObrrQfGazMLy0Q7"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 241941,
       "name": "5.17",
       "url": "https://open.spotify.com/track/6oQMeM1K237gYHFiprtWb3"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
-        "name": "I Survived, It's Over",
-        "url": "https://open.spotify.com/album/1KErFGaU1RWUTJDeHKJoK2"
-      },
-      "artists": [
-        {
-          "name": "Rich Ruth",
-          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
-        }
-      ],
-      "duration_ms": 338053,
-      "name": "Taken Back",
-      "url": "https://open.spotify.com/track/2hJcalCWcwchGuVbZXPPic"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1615,22 +1599,6 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Spirit Exit",
-        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 619200,
-      "name": "Knot of Spirit - Synth Version",
-      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
-    },
-    {
-      "added_at": "2022-10-04 11:13:14",
-      "album": {
         "name": "Postcards for the Backyard, Pt. 1",
         "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
       },
@@ -1643,6 +1611,22 @@
       "duration_ms": 165701,
       "name": "Like We Were Dreaming All This Time, Pt. 1",
       "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "I Survived, It's Over",
+        "url": "https://open.spotify.com/album/1KErFGaU1RWUTJDeHKJoK2"
+      },
+      "artists": [
+        {
+          "name": "Rich Ruth",
+          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
+        }
+      ],
+      "duration_ms": 338053,
+      "name": "Taken Back",
+      "url": "https://open.spotify.com/track/2hJcalCWcwchGuVbZXPPic"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Theory",
-        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
+        "name": "Spirit Exit",
+        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
       },
       "artists": [
         {
-          "name": "TAKA",
-          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
         }
       ],
-      "duration_ms": 238846,
-      "name": "deaf",
-      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
+      "duration_ms": 619200,
+      "name": "Knot of Spirit - Synth Version",
+      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1699,6 +1683,22 @@
       "duration_ms": 331520,
       "name": "Monomom",
       "url": "https://open.spotify.com/track/083hSYQL8F0UScdHIXDBTN"
+    },
+    {
+      "added_at": "2022-10-04 11:13:14",
+      "album": {
+        "name": "Theory",
+        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
+      },
+      "artists": [
+        {
+          "name": "TAKA",
+          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
+        }
+      ],
+      "duration_ms": 238846,
+      "name": "deaf",
+      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Endless Filament",
-        "url": "https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl"
+        "name": "Let's Turn It Into Sound",
+        "url": "https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3"
       },
       "artists": [
         {
-          "name": "Fia Fiell",
-          "url": "https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         }
       ],
-      "duration_ms": 937000,
-      "name": "Endless Filament",
-      "url": "https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj"
+      "duration_ms": 234160,
+      "name": "Have You Felt Lately?",
+      "url": "https://open.spotify.com/track/2v7b1jWrpXzHRkeLmHE81K"
     },
     {
       "added_at": "2022-10-04 11:13:14",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2022-10-04 11:13:14",
       "album": {
-        "name": "Trans-Millenia Music",
-        "url": "https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw"
+        "name": "Endless Filament",
+        "url": "https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl"
       },
       "artists": [
         {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+          "name": "Fia Fiell",
+          "url": "https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e"
         }
       ],
-      "duration_ms": 274333,
-      "name": "Freedom at the 45th Floor",
-      "url": "https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR"
+      "duration_ms": 937000,
+      "name": "Endless Filament",
+      "url": "https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj"
     }
   ],
   "unique_name": "Ambiente",

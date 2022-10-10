@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123887,
+  "num_followers": 123886,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDVjZjY2OTJiODhlZmQyMWU1MGI4NjY3MjQ2ZWNlYWU2",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDMyNTg1NGJhNjlhNjZkYTVlODlkZjBlMzBhMWYyZWRl",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 177564,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Tiburones (Remix)",
         "url": "https://open.spotify.com/album/6DA3B00tS2tz6kaSlxyjrK"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 209373,
       "name": "Tiburones - Remix",
       "url": "https://open.spotify.com/track/73HSOVmGMA0Qfo4ujlM1GF"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 177564,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Latinoamericana",
+        "url": "https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "hebilla",
         "url": "https://open.spotify.com/album/3GxYLJZd0U74GvLipaMa7F"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 223000,
       "name": "hebilla",
       "url": "https://open.spotify.com/track/0W1x3Q875nkNUM0386f1Ha"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Latinoamericana",
-        "url": "https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Locura",
-      "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Te Doy Igual",
+        "url": "https://open.spotify.com/album/2Zx8OgxGlLq3FRYcFKvdhl"
+      },
+      "artists": [
+        {
+          "name": "Bearoid",
+          "url": "https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4"
+        }
+      ],
+      "duration_ms": 146024,
+      "name": "Te Doy Igual",
+      "url": "https://open.spotify.com/track/5MjgAWBRFkKU2OKgLHqWdZ"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
       },
@@ -1951,18 +1967,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Te Doy Igual",
-        "url": "https://open.spotify.com/album/2Zx8OgxGlLq3FRYcFKvdhl"
+        "name": "J\u00c1J\u00c1 \u00c9Q\u00da\u00cdSD\u00c9 (Distop\u00eda Aburrida)",
+        "url": "https://open.spotify.com/album/7bULGrCZjsDzXmXuvDoxbj"
       },
       "artists": [
         {
-          "name": "Bearoid",
-          "url": "https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4"
+          "name": "PUTOCHINOMARIC\u00d3N",
+          "url": "https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf"
+        },
+        {
+          "name": "Chenta Tsai",
+          "url": "https://open.spotify.com/artist/7BRP5V0xT5jrR0rfGuZb3p"
+        },
+        {
+          "name": "Tami T",
+          "url": "https://open.spotify.com/artist/1rlC0qRy1Ndg2uAoFoFlyJ"
         }
       ],
-      "duration_ms": 146024,
-      "name": "Te Doy Igual",
-      "url": "https://open.spotify.com/track/5MjgAWBRFkKU2OKgLHqWdZ"
+      "duration_ms": 233500,
+      "name": "Rubberhand",
+      "url": "https://open.spotify.com/track/09t1pMoR2CAJLzbIC3AhYp"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2007,26 +2031,18 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "J\u00c1J\u00c1 \u00c9Q\u00da\u00cdSD\u00c9 (Distop\u00eda Aburrida)",
-        "url": "https://open.spotify.com/album/7bULGrCZjsDzXmXuvDoxbj"
+        "name": "Brillo",
+        "url": "https://open.spotify.com/album/704X09kwq2A7jPVFAZMHF7"
       },
       "artists": [
         {
-          "name": "PUTOCHINOMARIC\u00d3N",
-          "url": "https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf"
-        },
-        {
-          "name": "Chenta Tsai",
-          "url": "https://open.spotify.com/artist/7BRP5V0xT5jrR0rfGuZb3p"
-        },
-        {
-          "name": "Tami T",
-          "url": "https://open.spotify.com/artist/1rlC0qRy1Ndg2uAoFoFlyJ"
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
         }
       ],
-      "duration_ms": 233500,
-      "name": "Rubberhand",
-      "url": "https://open.spotify.com/track/09t1pMoR2CAJLzbIC3AhYp"
+      "duration_ms": 170375,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/3hPgU45si92VnVuNyFFVFF"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2043,22 +2059,6 @@
       "duration_ms": 183857,
       "name": "Jap\u00f3n",
       "url": "https://open.spotify.com/track/4iL3fpAqZwE6jhsYAc6AKb"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Brillo",
-        "url": "https://open.spotify.com/album/704X09kwq2A7jPVFAZMHF7"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 170375,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/3hPgU45si92VnVuNyFFVFF"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Pill\u00e1ndome",
-        "url": "https://open.spotify.com/album/7g5KQmVTD7mtQSNWoO9S94"
-      },
-      "artists": [
-        {
-          "name": "Bearoid",
-          "url": "https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Pill\u00e1ndome",
-      "url": "https://open.spotify.com/track/6VOTtgE47gLBcaAradlOmk"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "El Valor",
         "url": "https://open.spotify.com/album/3NCBTlh4b6KwtbGq7R0Bku"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 249126,
       "name": "El Valor",
       "url": "https://open.spotify.com/track/5gNIp69h35QFolrSLpUUEE"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Pill\u00e1ndome",
+        "url": "https://open.spotify.com/album/7g5KQmVTD7mtQSNWoO9S94"
+      },
+      "artists": [
+        {
+          "name": "Bearoid",
+          "url": "https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Pill\u00e1ndome",
+      "url": "https://open.spotify.com/track/6VOTtgE47gLBcaAradlOmk"
     },
     {
       "added_at": "2022-07-05 19:20:04",

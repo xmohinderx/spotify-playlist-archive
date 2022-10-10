@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 237725,
+  "num_followers": 237765,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMSwwMDAwMDAwMDBmMWFhOTAwZmYxMjIzZTllMjBjN2UxZTI5ZGJmZDFj",
+  "snapshot_id": "MTY2MzMwMDgwMSwwMDAwMDAwMDM2ZmQ2NGE0MTE1NmIwNzNlZDM4YmVmODMyNmUyZjBm",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 196997,
-      "name": "Anita",
-      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Kanji Title",
         "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 183536,
       "name": "Ganbare",
       "url": "https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ"
+      },
+      "artists": [
+        {
+          "name": "Lordsun",
+          "url": "https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL"
+        }
+      ],
+      "duration_ms": 217370,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ"
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
       },
       "artists": [
         {
-          "name": "Lordsun",
-          "url": "https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL"
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
         }
       ],
-      "duration_ms": 217370,
-      "name": "Magic City",
-      "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
+      "duration_ms": 196997,
+      "name": "Anita",
+      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Summer Splash",
-        "url": "https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 227812,
-      "name": "Summer Splash",
-      "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "SAILORWAVE III",
         "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 164000,
       "name": "Sailor Saturn",
       "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Summer Splash",
+        "url": "https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 227812,
+      "name": "Summer Splash",
+      "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/6RsxQBaT4Is0CkuN05nwoa"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 195121,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/0zbmRwI3Cn0aPCkVIvxQtO"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1299,6 +1299,42 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Orca Adventure DX",
+        "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
+      },
+      "artists": [
+        {
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+        }
+      ],
+      "duration_ms": 171135,
+      "name": "Orca Adventure DX",
+      "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Get Up, Get Out",
+        "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
+      },
+      "artists": [
+        {
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        },
+        {
+          "name": "Dylan C. Greene",
+          "url": "https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4"
+        }
+      ],
+      "duration_ms": 202577,
+      "name": "Get Up, Get Out",
+      "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "This Is Just a Test",
         "url": "https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8"
       },
@@ -1331,18 +1367,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Orca Adventure DX",
-        "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
+        "name": "Waterbed (Deluxe)",
+        "url": "https://open.spotify.com/album/1cjuAssWUepRNTprygXosp"
       },
       "artists": [
         {
-          "name": "Groovy Kaiju",
-          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
         }
       ],
-      "duration_ms": 171135,
-      "name": "Orca Adventure DX",
-      "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
+      "duration_ms": 177479,
+      "name": "Waterbed",
+      "url": "https://open.spotify.com/track/15CiCRHe9xxosbyf6S2Q60"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1363,42 +1399,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Waterbed (Deluxe)",
-        "url": "https://open.spotify.com/album/1cjuAssWUepRNTprygXosp"
-      },
-      "artists": [
-        {
-          "name": "Tendencies",
-          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "Waterbed",
-      "url": "https://open.spotify.com/track/15CiCRHe9xxosbyf6S2Q60"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Get Up, Get Out",
-        "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
-      },
-      "artists": [
-        {
-          "name": "3kelves",
-          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
-        },
-        {
-          "name": "Dylan C. Greene",
-          "url": "https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4"
-        }
-      ],
-      "duration_ms": 202577,
-      "name": "Get Up, Get Out",
-      "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
       },
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "NeoGeo FM",
-        "url": "https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2"
+        "name": "Slowed Midnight",
+        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
       "artists": [
         {
-          "name": "Zai Kowen",
-          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
+          "name": "Cape Coral",
+          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
         }
       ],
-      "duration_ms": 192005,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/3QKRZ13JnLK5boY8BT4Igb"
+      "duration_ms": 171000,
+      "name": "Querelle",
+      "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1467,18 +1467,50 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Slowed Midnight",
-        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
+        "name": "NeoGeo FM",
+        "url": "https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2"
       },
       "artists": [
         {
-          "name": "Cape Coral",
-          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
+          "name": "Zai Kowen",
+          "url": "https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Querelle",
-      "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
+      "duration_ms": 192005,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/3QKRZ13JnLK5boY8BT4Igb"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "LORD GIVE ME ONE MORE CHANCE",
+        "url": "https://open.spotify.com/album/5W1QeUlrv6EyYzXM0mqJOC"
+      },
+      "artists": [
+        {
+          "name": "yuugen",
+          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
+        }
+      ],
+      "duration_ms": 120028,
+      "name": "LORD GIVE ME ONE MORE CHANCE",
+      "url": "https://open.spotify.com/track/7ED68OyaSlwkb65lRydjHn"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Disco's Revenge",
+        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        }
+      ],
+      "duration_ms": 80098,
+      "name": "Disco's Revenge",
+      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1523,22 +1555,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Disco's Revenge",
-        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        }
-      ],
-      "duration_ms": 80098,
-      "name": "Disco's Revenge",
-      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Mental Geller",
         "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "LORD GIVE ME ONE MORE CHANCE",
-        "url": "https://open.spotify.com/album/5W1QeUlrv6EyYzXM0mqJOC"
+        "name": "#TRUE FUTURE",
+        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
       },
       "artists": [
         {
-          "name": "yuugen",
-          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
+          "name": "Q-Rabbit",
+          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
         }
       ],
-      "duration_ms": 120028,
-      "name": "LORD GIVE ME ONE MORE CHANCE",
-      "url": "https://open.spotify.com/track/7ED68OyaSlwkb65lRydjHn"
+      "duration_ms": 138666,
+      "name": "keep down flyday",
+      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1623,38 +1639,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Late Night Love",
-        "url": "https://open.spotify.com/album/01KYMllThciCdk1c2XrS6L"
-      },
-      "artists": [
-        {
-          "name": "VIBE CHECK 95",
-          "url": "https://open.spotify.com/artist/67QzxVC1luWKpKnnsCsknr"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Back to the Disco",
-      "url": "https://open.spotify.com/track/3vmFjP7m0fofxuFIBwGulv"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "#TRUE FUTURE",
-        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
-      },
-      "artists": [
-        {
-          "name": "Q-Rabbit",
-          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "keep down flyday",
-      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "SOUL MATES",
-        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
+        "name": "Late Night Love",
+        "url": "https://open.spotify.com/album/01KYMllThciCdk1c2XrS6L"
       },
       "artists": [
         {
-          "name": "Javi That's Me",
-          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+          "name": "VIBE CHECK 95",
+          "url": "https://open.spotify.com/artist/67QzxVC1luWKpKnnsCsknr"
         }
       ],
-      "duration_ms": 149028,
-      "name": "CHERRY BLOSSOMS",
-      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
+      "duration_ms": 164761,
+      "name": "Back to the Disco",
+      "url": "https://open.spotify.com/track/3vmFjP7m0fofxuFIBwGulv"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1699,6 +1683,22 @@
       "duration_ms": 128032,
       "name": "Dancefloor Sneakers",
       "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "SOUL MATES",
+        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
+      },
+      "artists": [
+        {
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+        }
+      ],
+      "duration_ms": 149028,
+      "name": "CHERRY BLOSSOMS",
+      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
     },
     {
       "added_at": "2022-09-16 04:00:00",

@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Amapola
 
-268 songs - 16 hr 22 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+269 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [tournesol](https://open.spotify.com/track/0qJrBdxMDcKANTRrPxMZGB) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [tournesol](https://open.spotify.com/album/60CR0x9lxB2FUadJhSeKJg) | 3:09 | 2022-04-15 |  |
 | [Triálogo](https://open.spotify.com/track/7jhOHdaEHGCiGnRaNFNHTG) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [Cuatro](https://open.spotify.com/album/0UHvv58P5yJLGxHyAM66hS) | 2:30 | 2022-08-05 |  |
 | [Tu Centro Se Aferra a Mi](https://open.spotify.com/track/59OQfyqSyAbfJIKIaixaS1) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII), [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [III](https://open.spotify.com/album/2T9nC7wwk50wrpcFwpYxLz) | 3:16 | 2022-04-15 | 2022-07-27 |
+| [Tu Momento](https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1) | [Blanco Leal](https://open.spotify.com/artist/43WloHpCaVPjqESUDEDDVq), [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Tu Momento](https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki) | 3:49 | 2022-10-07 |  |
 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 | 2022-04-15 |  |
 | [tu voz en mis audífonos](https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [tu voz en mis audífonos](https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS) | 3:13 | 2022-04-15 |  |
 | [Tur Blues](https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Tur Blues](https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg) | 3:33 | 2022-04-29 |  |
@@ -255,7 +256,7 @@
 | [Tú crees que es normal?](https://open.spotify.com/track/0fvhVnXL3Nxc6UtjHSOReA) | [Dadalú](https://open.spotify.com/artist/1b8V4W56uUKVMcxeOVPtXt) | [El mapa de los días](https://open.spotify.com/album/63DY7CyV6Cl4UnoRn3IJnj) | 2:13 | 2022-04-15 | 2022-07-26 |
 | [Un Día Planté una Rosa](https://open.spotify.com/track/3BvyDuC2IhlSpG3DfnnXMR) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:41 | 2022-04-15 |  |
 | [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 | 2022-09-23 |  |
-| [Un Pendiente](https://open.spotify.com/track/0SeTcvqHKSCw0s94tub1gW) | [Autobus](https://open.spotify.com/artist/6aaS9VlYbesvg4cBoz63sw), [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Un Pendiente](https://open.spotify.com/album/49mVSm55zTkBdEfr8byid9) | 3:23 | 2022-04-15 |  |
+| [Un Pendiente](https://open.spotify.com/track/0SeTcvqHKSCw0s94tub1gW) | [Autobus](https://open.spotify.com/artist/6aaS9VlYbesvg4cBoz63sw), [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Un Pendiente](https://open.spotify.com/album/49mVSm55zTkBdEfr8byid9) | 3:23 | 2022-04-15 | 2022-10-10 |
 | [Un Punto](https://open.spotify.com/track/61Y1P7c57TUp2OMoeKq0ej) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Un Punto](https://open.spotify.com/album/1OWn8xwj4XdgvrclWNFFhR) | 5:42 | 2022-04-15 | 2022-07-16 |
 | [Un Último Encuentro](https://open.spotify.com/track/7c4UxItuj8p1l6ZOhWSTMa) | [Lomberr](https://open.spotify.com/artist/0Tfp8FQQcN3bRpFI5J70Rz) | [Un Último Encuentro](https://open.spotify.com/album/5IikbrVGPIEv6tnCr2tO76) | 5:37 | 2022-04-15 | 2022-07-29 |
 | [Una Calma](https://open.spotify.com/track/5nQj5zdIaN4saUEfwMTUWF) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Una Calma](https://open.spotify.com/album/42hxDhsnYMq64qqGxL6nr1) | 4:31 | 2022-04-15 |  |

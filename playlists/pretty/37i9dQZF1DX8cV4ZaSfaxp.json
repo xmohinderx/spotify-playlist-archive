@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: SURAN(\uc218\ub780)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 29809,
+  "num_followers": 29811,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NTQ0MywwMDAwMDAwMDU5ZWRhMWM3MDU2ZTQ0NThjNWE2YThkZDY4ODVhODBi",
+  "snapshot_id": "MTY2NDg5NTQ0MywwMDAwMDAwMDNmODlhNWMzYWUxYWI3MjU5NGQwMjdmOWE0MzYwZjky",
   "tracks": [
     {
       "added_at": "2022-09-05 15:47:43",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
     },
     {
-      "added_at": "2022-10-09 20:17:39",
+      "added_at": "2022-10-10 01:55:34",
       "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Heng:gar\u00e6",
-        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/3YtIeHuvBXkJAyv3twOYCC"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 235746,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Heng:gar\u00e6",
+        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3YtIeHuvBXkJAyv3twOYCC"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Elastic Love",
-        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Elastic Love",
-      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "\u90fd\u5e02\u5973\u5b50",
         "url": "https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 196092,
       "name": "\uc219\ub140 (\u6dd1\u5973) Lady",
       "url": "https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Elastic Love",
+        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Elastic Love",
+      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -543,22 +543,18 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "East Shore",
-        "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
       },
       "artists": [
         {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
         }
       ],
-      "duration_ms": 212750,
-      "name": "With The Star",
-      "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
+      "duration_ms": 198414,
+      "name": "Night Rather Than Day",
+      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -579,18 +575,22 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
+        "name": "East Shore",
+        "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
       },
       "artists": [
         {
-          "name": "EXID",
-          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
         }
       ],
-      "duration_ms": 198414,
-      "name": "Night Rather Than Day",
-      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
+      "duration_ms": 212750,
+      "name": "With The Star",
+      "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "Sunday Seoul Ep.1",
-        "url": "https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC"
-      },
-      "artists": [
-        {
-          "name": "uju",
-          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
-        }
-      ],
-      "duration_ms": 190363,
-      "name": "Give Me The Light",
-      "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 226453,
       "name": "A day of weather",
       "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "Sunday Seoul Ep.1",
+        "url": "https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC"
+      },
+      "artists": [
+        {
+          "name": "uju",
+          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
+        }
+      ],
+      "duration_ms": 190363,
+      "name": "Give Me The Light",
+      "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
     },
     {
       "added_at": "2022-09-05 15:47:43",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-09-05 15:47:43",
       "album": {
-        "name": "THIS CITY",
-        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
-      },
-      "artists": [
-        {
-          "name": "ROCOBERRY",
-          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "THIS CITY",
-      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
-    },
-    {
-      "added_at": "2022-09-05 15:47:43",
-      "album": {
         "name": "New Wave City",
         "url": "https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 207398,
       "name": "I Can't Let You Go (feat. Space Cowboy)",
       "url": "https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th"
+    },
+    {
+      "added_at": "2022-09-05 15:47:43",
+      "album": {
+        "name": "THIS CITY",
+        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "THIS CITY",
+      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
     },
     {
       "added_at": "2022-09-05 15:47:43",

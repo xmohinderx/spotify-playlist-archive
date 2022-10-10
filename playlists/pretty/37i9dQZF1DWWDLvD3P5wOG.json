@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks you can catch a wine to.",
-  "num_followers": 428369,
+  "num_followers": 428450,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1ODMzNSwwMDAwMDAwMDNkM2M1NjQ5MmM5NTA4ZDA4NmNiYzUyZmRjMWM2MTVi",
+  "snapshot_id": "MTY0MzE1ODMzNSwwMDAwMDAwMGJiMDQ0YzYyYWZiMGUwNzk5MDc1NDUwM2EyMWNjOTIw",
   "tracks": [
     {
       "added_at": "2021-02-24 08:50:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
-      },
-      "artists": [
-        {
-          "name": "Musical Youth",
-          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "Pass The Dutchie",
-      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "The Trinity",
         "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 218573,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
+        "name": "Tease Me",
+        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
+      },
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
         "name": "Dutty Rock",
         "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
       },
@@ -143,18 +159,18 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Tease Me",
-        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe"
       },
       "artists": [
         {
-          "name": "Chaka Demus & Pliers",
-          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Murder She Wrote",
-      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
+      "duration_ms": 233253,
+      "name": "Hold You - Hold Yuh",
+      "url": "https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -175,22 +191,6 @@
       "duration_ms": 224320,
       "name": "Gyal You A Party Animal - Remix",
       "url": "https://open.spotify.com/track/0Rj2yNpEvXOl8yn9UOuIRs"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
-        "name": "Hold You",
-        "url": "https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe"
-      },
-      "artists": [
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Hold You - Hold Yuh",
-      "url": "https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -259,34 +259,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
-        },
-        {
-          "name": "Jeremy Harding",
-          "url": "https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0"
-        },
-        {
-          "name": "Murray Elias",
-          "url": "https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL"
-        }
-      ],
-      "duration_ms": 273360,
-      "name": "I'm Still in Love with You (feat. Sasha)",
-      "url": "https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Whine & Kotch",
         "url": "https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ"
       },
@@ -319,6 +291,34 @@
       "duration_ms": 242560,
       "name": "Nuttin Nuh Go So",
       "url": "https://open.spotify.com/track/2eKcAEvYtwcuK4zFcYdtX3"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
+        },
+        {
+          "name": "Jeremy Harding",
+          "url": "https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0"
+        },
+        {
+          "name": "Murray Elias",
+          "url": "https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "I'm Still in Love with You (feat. Sasha)",
+      "url": "https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Like Glue",
-      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Pull up to Mi Bumper",
         "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 150279,
       "name": "Pull up to Mi Bumper",
       "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Like Glue",
+      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Gimme the Light",
-      "url": "https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "The Gaza Don",
         "url": "https://open.spotify.com/album/7E3KsCMrb6nMImvI0Cr3Ad"
       },
@@ -579,22 +563,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Many Moods Of Moses",
-        "url": "https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Only Man She Want",
         "url": "https://open.spotify.com/album/0xYKErJkWgfurZHmZo0blf"
       },
@@ -611,6 +579,22 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
+        "name": "Many Moods Of Moses",
+        "url": "https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 202600,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Gimme the Light",
+      "url": "https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Ova Dweet - Single",
-        "url": "https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 221194,
-      "name": "Ova Dweet",
-      "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Big Deal",
         "url": "https://open.spotify.com/album/6asuHZdgBoSxKEdVZ9xQj4"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 202626,
       "name": "Cheaters Prayer",
       "url": "https://open.spotify.com/track/0antMnmr4befD0U81xPyG7"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Ova Dweet - Single",
+        "url": "https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 221194,
+      "name": "Ova Dweet",
+      "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Unconditional Love",
-        "url": "https://open.spotify.com/album/4FcuMuFa8cnScLyb5n9DyX"
+        "name": "It (Incomparable Talent)",
+        "url": "https://open.spotify.com/album/1DHJhXAwi3cvPM0LscDsyZ"
       },
       "artists": [
         {
-          "name": "Marlon Asher",
-          "url": "https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 236906,
-      "name": "Ganja Farmer",
-      "url": "https://open.spotify.com/track/2zAJvh4y1DBXo7KIqQjumc"
+      "duration_ms": 165786,
+      "name": "Bedroom Bully",
+      "url": "https://open.spotify.com/track/5esGnzJMqZQP3XBWC4PJYY"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "It (Incomparable Talent)",
-        "url": "https://open.spotify.com/album/1DHJhXAwi3cvPM0LscDsyZ"
+        "name": "Unconditional Love",
+        "url": "https://open.spotify.com/album/4FcuMuFa8cnScLyb5n9DyX"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Marlon Asher",
+          "url": "https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y"
         }
       ],
-      "duration_ms": 165786,
-      "name": "Bedroom Bully",
-      "url": "https://open.spotify.com/track/5esGnzJMqZQP3XBWC4PJYY"
+      "duration_ms": 236906,
+      "name": "Ganja Farmer",
+      "url": "https://open.spotify.com/track/2zAJvh4y1DBXo7KIqQjumc"
     },
     {
       "added_at": "2021-02-24 08:50:00",

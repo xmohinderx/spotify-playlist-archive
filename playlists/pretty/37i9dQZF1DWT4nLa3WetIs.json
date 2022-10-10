@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 61134,
+  "num_followers": 61147,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDRmYjAyZGQ4MjM2NDEwNzI4Y2E4YzRjOTU0ZDFmMDBl",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDNlYzk2ZjhlY2RmMzE5NDU4NGU1MTIzNDg3Mzc4OWQ4",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "T.I.N.A.",
-        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
-      },
-      "artists": [
-        {
-          "name": "Fuse ODG",
-          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
-        }
-      ],
-      "duration_ms": 222750,
-      "name": "Antenna - UK Club Mix",
-      "url": "https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Legacy (Ahamefuna)",
         "url": "https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 221080,
       "name": "Obianuju",
       "url": "https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "T.I.N.A.",
+        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
+      },
+      "artists": [
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        }
+      ],
+      "duration_ms": 222750,
+      "name": "Antenna - UK Club Mix",
+      "url": "https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -895,6 +895,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Aben Wo Aha",
+        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 310666,
+      "name": "Aben Wo Aha",
+      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Dance for Me",
         "url": "https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 204173,
       "name": "Dance for Me",
       "url": "https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Aben Wo Aha",
-        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 310666,
-      "name": "Aben Wo Aha",
-      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Thanks Giving",
-        "url": "https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 220020,
-      "name": "Azonto Ghost",
-      "url": "https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Akube",
         "url": "https://open.spotify.com/album/0zELiFzMoNWd27BZ8t24TY"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 224586,
       "name": "Akube",
       "url": "https://open.spotify.com/track/4ulKfhOXLxTo0QRCpWfZYh"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Thanks Giving",
+        "url": "https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 220020,
+      "name": "Azonto Ghost",
+      "url": "https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz"
     },
     {
       "added_at": "2020-11-06 13:21:21",
