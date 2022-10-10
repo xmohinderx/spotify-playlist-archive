@@ -4189,6 +4189,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is SEGA SOUND TEAM](/playlists/pretty/37i9dQZF1DX2CtuHQcongT.md)
 - [This Is SHINee](/playlists/pretty/37i9dQZF1DX8To4GlhTfpA.md)
 - [This Is SPYAIR](/playlists/pretty/37i9dQZF1DZ06evO4iOisK.md)
+- [This Is SUBSHIFT](/playlists/pretty/37i9dQZF1DZ06evO3LZ0T8.md)
 - [This Is SUNMI](/playlists/pretty/37i9dQZF1DX5wTRh9H8LSC.md)
 - [This Is Sade](/playlists/pretty/37i9dQZF1DZ06evO2piM6c.md)
 - [This Is Salif Keita](/playlists/pretty/37i9dQZF1DZ06evO0unpD0.md)
