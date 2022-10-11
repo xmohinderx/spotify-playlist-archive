@@ -4,7 +4,7 @@
 
 > Upbeat piano for stepping out
 
-258 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/6T0dcge1HCXsvT3rcEc3mW)
+259 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/6T0dcge1HCXsvT3rcEc3mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Perfume](https://open.spotify.com/track/0giYe8sQbW7LaO2UqMcG7k) | [Hazel Dumoulin](https://open.spotify.com/artist/4ddvhBOBwHziZBPGwJPTjd) | [Perfume](https://open.spotify.com/album/0r7CY1aenIWvpO4tB7wPfH) | 2:57 | 2022-06-07 |  |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2022-06-07 |  |
 | [Piano Lessons](https://open.spotify.com/track/5j9Vjiln6TM2ZZ97Ht7kh6) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Piano Lessons](https://open.spotify.com/album/5vNFNc8TTZjNDrt88SBdux) | 2:32 | 2022-06-07 |  |
-| [Plane Of Incidence](https://open.spotify.com/track/0CpTqfYYWimRxn6qLNyX4O) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Plane Of Incidence](https://open.spotify.com/album/6SjT6FwVn6rgt9I1bqlVEz) | 2:21 | 2022-06-07 |  |
+| [Plane Of Incidence](https://open.spotify.com/track/0CpTqfYYWimRxn6qLNyX4O) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Plane Of Incidence](https://open.spotify.com/album/6SjT6FwVn6rgt9I1bqlVEz) | 2:21 | 2022-06-07 | 2022-10-11 |
 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 | 2022-06-07 |  |
 | [Primavera](https://open.spotify.com/track/0op5f2P9qpsXgnjUHmwkm6) | [David Adorno](https://open.spotify.com/artist/0ULHDRS5aJE5i7N77zz8rr) | [Primavera](https://open.spotify.com/album/06yEEIi3f6pEqUOqzQtFPk) | 2:59 | 2022-06-07 | 2022-07-29 |
 | [Primrose Hill](https://open.spotify.com/track/1at46An3uytKsd32hqQkpw) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Primrose Hill](https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa) | 2:52 | 2022-06-07 |  |
@@ -202,6 +202,7 @@
 | [Short Florentine Story](https://open.spotify.com/track/7EAgMj9f01js3aptHpeIcm) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Short Florentine Story](https://open.spotify.com/album/7JokpJ0adu93ZHpONJXYDu) | 2:18 | 2022-06-07 |  |
 | [Silent Rain](https://open.spotify.com/track/3HijOHaUfpWWJNEbU0QsHZ) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Silent Rain](https://open.spotify.com/album/71ceTov00b4SL0TiqvzIGy) | 2:19 | 2022-06-07 |  |
 | [Simple Beauty](https://open.spotify.com/track/2TAIbjpQTCZPkqB40Z8xA3) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Friendship](https://open.spotify.com/album/2l3vynWg9pdRYluf2AGaET) | 2:00 | 2022-06-07 | 2022-07-29 |
+| [Simpler Times](https://open.spotify.com/track/6RTgk5dsupZSeji1jh4zyB) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/01vBc9RVqwgUpsgI8qRWhY) | 2:21 | 2022-09-23 |  |
 | [Simpler Times](https://open.spotify.com/track/2Y5mfhY8iCRSU3jyHxMBFz) | [Christopher James Richardson](https://open.spotify.com/artist/549TBaWWzS9WNOiYT0XHw6), [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Simpler Times](https://open.spotify.com/album/0eHuURQcrJIDvbfy1gruAY) | 2:21 | 2022-06-07 | 2022-07-29 |
 | [Sketches](https://open.spotify.com/track/4g7wXitUwsMOjZMA9m1vy6) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Sketches](https://open.spotify.com/album/11g6l4agw2isqnalKB9bbS) | 2:37 | 2022-06-07 |  |
 | [Slow Voltage](https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Slow Voltage](https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX) | 2:58 | 2022-06-07 |  |

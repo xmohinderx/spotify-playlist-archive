@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 5999,
+  "num_followers": 6017,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODc2OCwwMDAwMDAwMDE1NWFiYjk5NTgwZmIyODcyY2M5Zjk3MDk3Zjc1NjQ1",
+  "snapshot_id": "MTY2NTExODc2OCwwMDAwMDAwMDBkZTNmOWY0MTczNjU0OWM3NGQyZmFmNWEwNjU1NDU5",
   "tracks": [
     {
       "added_at": "2022-10-04 14:56:25",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 316506,
+      "name": "My sea",
+      "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
         "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c, Pt. 3 Original Television Soundtrack",
         "url": "https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF"
       },
@@ -151,6 +167,22 @@
       "duration_ms": 302852,
       "name": "\ub9c8\uc74c\uc758 \ub9d0",
       "url": "https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 192430,
+      "name": "Forgetting You",
+      "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -207,34 +239,18 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 192430,
-      "name": "Forgetting You",
-      "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "My sea",
-      "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
+      "duration_ms": 211999,
+      "name": "Can't Go",
+      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -253,23 +269,7 @@
       "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
     },
     {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Can't Go",
-      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
-    },
-    {
-      "added_at": "2022-10-10 02:00:20",
+      "added_at": "2022-10-11 01:49:25",
       "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
@@ -283,6 +283,22 @@
       "duration_ms": 219746,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 281944,
+      "name": "Love Alone",
+      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -339,6 +355,22 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -359,34 +391,18 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
         }
       ],
-      "duration_ms": 281944,
-      "name": "Love Alone",
-      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
-        "name": "My Liberation Notes OST Part 11",
-        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 259056,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -407,18 +423,18 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
       "artists": [
         {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
         }
       ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -451,22 +467,6 @@
       "duration_ms": 235392,
       "name": "The day was beautiful",
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
         "name": "Replay (Original Television Soundtrack) Pt. 6",
         "url": "https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
         "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
         "url": "https://open.spotify.com/album/3I3bk770MRm5PJCL8BONKz"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 200974,
       "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
       "url": "https://open.spotify.com/track/04N4Wfxd7nB3dLV2amKdc0"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
-        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -683,6 +667,22 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
+        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "\uaf43",
-        "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 258872,
-      "name": "\uc81c\ubc1c",
-      "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 278454,
       "name": "Emptiness in Memory",
       "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "\uaf43",
+        "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 258872,
+      "name": "\uc81c\ubc1c",
+      "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
     },
     {
       "added_at": "2022-10-04 14:56:25",

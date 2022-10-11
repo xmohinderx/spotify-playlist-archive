@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-858 songs - 1 day 22 hr 41 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+859 songs - 1 day 22 hr 45 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Der Zug hat keine Bremse \- Mallorcastyle Edition](https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Malle Anja](https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd) | [Der Zug hat keine Bremse \(Mallorcastyle Edition\)](https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ) | 3:27 | 2022-07-19 | 2022-07-31 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-03-30 | 2022-05-07 |
 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 | 2022-05-24 | 2022-06-15 |
+| [Deserto \(Ao Vivo\)](https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Deserto \(Ao Vivo\)](https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW) | 4:28 | 2022-10-10 |  |
 | [DESIRES](https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:48 | 2021-12-27 | 2022-01-01 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-23 | 2022-09-09 |
 | [Deu Meia Noite, Eu Sumi, Geral Soltando Fogos](https://open.spotify.com/track/3hycwch1V1aCbKGlcfKg0I) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ MT7](https://open.spotify.com/artist/5lomh7H0yuxEtZnvtSCHI1) | [Deu Meia Noite, Eu Sumi, Geral Soltando Fogos](https://open.spotify.com/album/0AlJZSnFCRXtEhgBQ2Gnre) | 2:09 | 2022-01-01 | 2022-01-05 |
@@ -494,7 +495,7 @@
 | [Mercury](https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:55 | 2022-07-19 | 2022-07-25 |
 | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/track/4BoFJMLSO3ZoD48KgnslSe) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/album/1xT6hChxAkSLclY5Jvl65M) | 5:51 | 2022-08-22 | 2022-08-31 |
 | [Meri Jaan](https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Gangubai Kathiawadi](https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b) | 3:58 | 2022-03-15 | 2022-04-01 |
-| [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-09-14 |  |
+| [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-09-14 | 2022-10-11 |
 | [Með hækkandi sól](https://open.spotify.com/track/2J61KigpU07CFr5hwRPhQR) | [Systur](https://open.spotify.com/artist/2ZcBLLXgX6mpYvUciCT89i) | [Söngvakeppnin 2022](https://open.spotify.com/album/1dSJBiRjlYzWKLpN6h3WWV) | 3:00 | 2022-05-17 | 2022-05-24 |
 | [Með hækkandi sól](https://open.spotify.com/track/4t3gM4Rl5rz5du0Qn2Yd8K) | [Systur](https://open.spotify.com/artist/2ZcBLLXgX6mpYvUciCT89i) | [Söngvakeppnin 2022](https://open.spotify.com/album/1SZxfKraoJgUaqcxT3xdvi) | 3:00 | 2022-05-15 | 2022-05-29 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/7hl8yi5iItAYKwtSVtbEhO) | [Blazer Zero](https://open.spotify.com/artist/2ihGOBxVB7zeDYbieFyeHO) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/5plDkotyuP7UBM9jkDktLB) | 3:39 | 2022-07-18 | 2022-07-21 |

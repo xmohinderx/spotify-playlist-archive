@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. scene queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,108 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,201 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 13 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 |
 | 14 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 15 | [POSSESS ME](https://open.spotify.com/track/1Xvj8YGcG6DLcIrAM5rD2r) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [POSSESS ME](https://open.spotify.com/album/6c4OTInxbcdjDMvMED68Q7) | 2:00 |
-| 16 | [SICK OF IT\*](https://open.spotify.com/track/1G9Eww7gxSowO1RkcPXjmE) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [SICK OF IT\*](https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf) | 2:09 |
+| 16 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 |
 | 17 | [WARNING LABEL](https://open.spotify.com/track/57HGmkFTWz7U0iNvKpgxMJ) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [WARNING LABEL](https://open.spotify.com/album/7fCCrAOGRpTjMAmWVkP4JC) | 2:55 |
 | 18 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
 | 19 | [MINE](https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [MINE](https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU) | 2:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [Love You Better](https://open.spotify.com/track/1nXKFCz88CcR0ACWmyHrDS) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Love You Better](https://open.spotify.com/album/5Rr2SAaepFLbCSI955PEf9) | 3:57 |
 | 80 | [KILLIN](https://open.spotify.com/track/0QNXRzvMbrX2NC6eZ8nLSl) | [GREEN ORXNGE](https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G), [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [KILLIN](https://open.spotify.com/album/3Oy7WMxX7dtnKx4HVCnyHP) | 2:03 |
 
-Snapshot ID: `MTY2NTA5NzIwMCwwMDAwMDAwMDNiYTIzMGI1OGJlNGMxMmRjMTQ2Y2JmYjgyOTgyNGI0`
+Snapshot ID: `MTY2NTA5NzIwMCwwMDAwMDAwMGI3OWJiZjZiOTgxZDBjMjdhYjllZTljZDJiYzQzM2Q3`

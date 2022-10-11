@@ -20852,6 +20852,24 @@
     },
     {
       "album": {
+        "name": "\u00d8ZWALD Sings The Beatles",
+        "url": "https://open.spotify.com/album/5ytYhbyedbbZ8PGzAUWdeC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZWALD",
+          "url": "https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133666,
+      "name": "Norwegian Wood (This Bird Has Flown)",
+      "url": "https://open.spotify.com/track/2akwgKeDWZNllzgTsQi32S"
+    },
+    {
+      "album": {
         "name": "One Life",
         "url": "https://open.spotify.com/album/47dOZm3aGQAJ6iZC6fFkaK"
       },

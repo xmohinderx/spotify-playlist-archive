@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 18117,
+  "num_followers": 18121,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDkxYzNkMmVhYjUxMWMzNTc1YzlkNmMyYTQxN2U0MDQ4",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDU2ZWU3OTY1YmJiYWU0OWU1ODlkZjE0NzNmNzIzMDFl",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -183,6 +183,22 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "Why God",
+      "url": "https://open.spotify.com/track/7uF8xYuPV1ZXmSS98qqynh"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
         "name": "Forever on Your Side (Niles City Sound Sessions)",
         "url": "https://open.spotify.com/album/3qPcOQNFQgqvkEperYIjOq"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 294200,
       "name": "Forever on Your Side (with JOHNNYSWIM)",
       "url": "https://open.spotify.com/track/598Dy3TgV1SQulwjPOM0Z2"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
-      },
-      "artists": [
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Why God",
-      "url": "https://open.spotify.com/track/7uF8xYuPV1ZXmSS98qqynh"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -555,22 +555,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Celebrate Life",
-        "url": "https://open.spotify.com/album/5VtZ3j3pxbWT8MEqalffjK"
-      },
-      "artists": [
-        {
-          "name": "Alice Pisano",
-          "url": "https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH"
-        }
-      ],
-      "duration_ms": 235236,
-      "name": "Celebrate Life",
-      "url": "https://open.spotify.com/track/7qoJwPYtnQUEmltftJc7Id"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Never Far",
         "url": "https://open.spotify.com/album/7kRDQkDk7tBtv8hpoSdWrX"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 224346,
       "name": "Never Far",
       "url": "https://open.spotify.com/track/2fWrlXD3n603bKrL0UPXZj"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Celebrate Life",
+        "url": "https://open.spotify.com/album/5VtZ3j3pxbWT8MEqalffjK"
+      },
+      "artists": [
+        {
+          "name": "Alice Pisano",
+          "url": "https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH"
+        }
+      ],
+      "duration_ms": 235236,
+      "name": "Celebrate Life",
+      "url": "https://open.spotify.com/track/7qoJwPYtnQUEmltftJc7Id"
     },
     {
       "added_at": "2019-09-20 18:34:06",

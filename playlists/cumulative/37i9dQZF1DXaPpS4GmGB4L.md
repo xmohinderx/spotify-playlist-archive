@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-97 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/0ZGzl8ZDjgisJi8EmlTZqX)
+98 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/0ZGzl8ZDjgisJi8EmlTZqX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Killing Floor](https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:52 | 2021-12-20 |  |
 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 | 2021-12-20 |  |
 | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/track/6tc69oV0eeSgoQvGAzP7a1) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/album/5foGuU81PM8iNTwQBFlA9P) | 3:28 | 2021-12-20 | 2022-07-29 |
+| [Lovesick Blues](https://open.spotify.com/track/6orPIRUBKPWsi7awg7UPTY) | [Annie Keating](https://open.spotify.com/artist/2xKlrRpBoX4Vgas5prEf1n) | [Lovesick Blues](https://open.spotify.com/album/0Fm9l5ccn4T7xYOiyx6Ul9) | 3:33 | 2022-10-10 |  |
 | [Madison Blues](https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:22 | 2022-07-08 |  |
 | [Madison Blues](https://open.spotify.com/track/07d1bozzpuOLkG5EKTcYrt) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Slide Guitar Blues](https://open.spotify.com/album/6OpTLo3rOf4fS8GheHnuaX) | 2:26 | 2021-12-20 | 2022-07-29 |
 | [Mannish Boy](https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:21 | 2021-12-20 |  |
@@ -98,7 +99,7 @@
 | [The Wrong Number](https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 2:50 | 2021-12-20 | 2022-07-29 |
 | [Time to Get Movin'](https://open.spotify.com/track/1srQrPOCvEGRn5kScgDnTv) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Somebody Save Me](https://open.spotify.com/album/6FGuP68nWXCaLrskmUipbY) | 3:37 | 2022-05-27 | 2022-07-28 |
 | [Too Old To Grow Up](https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Too Old To Grow Up](https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH) | 3:21 | 2022-03-11 | 2022-08-19 |
-| [Trouble No More](https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 | 2022-08-18 |  |
+| [Trouble No More](https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 | 2022-08-18 | 2022-10-11 |
 | [Wang Dang Doodle](https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:27 | 2021-12-20 |  |
 | [West Texas](https://open.spotify.com/track/4gJ7mV2k4wjSYyFhVcJYx8) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/1jLZjlWU2HJ7S9SeydSvPZ) | 2:26 | 2022-05-13 | 2022-05-21 |
 | [What'd I Say](https://open.spotify.com/track/3UUhqPn6LaEMrgOFgOPoSM) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ), [The Noble Knights](https://open.spotify.com/artist/7ywg4kL9wJUyJQcQg9w1l2) | [Soul Twist with King Curtis](https://open.spotify.com/album/7kJGJzMCz47r0f3DRTxexk) | 3:22 | 2021-12-20 | 2022-07-25 |

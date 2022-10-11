@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-608 songs - 1 day 13 hr 32 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+609 songs - 1 day 13 hr 36 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Fast Car \(feat\. Kina Grannis\)](https://open.spotify.com/track/6ZimCGmTrqKyUnidBoLG13) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Cover Collaborations, Vol\. 1](https://open.spotify.com/album/16JVqQaupaBt030iKiD5S1) | 5:04 | 2021-10-20 | 2022-07-29 |
 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 | 2021-10-20 |  |
 | [Fast Car \- Acoustic](https://open.spotify.com/track/618v3huzqDQQBfMogznSb3) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car \(Acoustic\)](https://open.spotify.com/album/6UcZPki3VoKEEQrI6nDON7) | 3:37 | 2021-10-20 | 2022-07-29 |
+| [Fast Car \- Acoustic](https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Greatest Covers Ever](https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts) | 3:37 | 2022-06-10 |  |
 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 | 2022-06-10 |  |
 | [Fight Song](https://open.spotify.com/track/1e7HQG3E9nsK5JiwsHtVdu) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Fight Song](https://open.spotify.com/album/2XIpY89NBO1ar8jtCXypWE) | 4:00 | 2021-10-20 | 2022-06-17 |
 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 | 2022-06-10 |  |
@@ -601,7 +602,7 @@
 | [You Don't Know How It Feels](https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Don't Know How It Feels](https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX) | 3:42 | 2021-10-20 | 2022-07-19 |
 | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO) | 3:19 | 2022-06-10 |  |
 | [You Got It](https://open.spotify.com/track/2KWngvFybhtt7S4GV5Q0YC) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Covers EP](https://open.spotify.com/album/4ZC174JLjiBVFkV9pNcXAS) | 3:36 | 2022-06-10 | 2022-06-16 |
-| [You Never Can Tell](https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU) | 3:05 | 2022-06-10 |  |
+| [You Never Can Tell](https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU) | 3:05 | 2022-06-10 | 2022-10-11 |
 | [You Never Can Tell](https://open.spotify.com/track/1JYLgZ1ScjqXbKjBD32hXz) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [You Never Can Tell](https://open.spotify.com/album/7LmSlhjBa1CvEaxkbZJ3oP) | 3:05 | 2021-10-20 | 2022-07-29 |
 | [You Really Got a Hold on Me](https://open.spotify.com/track/3U7fJ0VfFR1Msntjgd3DPB) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/5FHgJlXkHfMP4vwK0hDN0i) | 3:59 | 2022-06-10 | 2022-07-14 |
 | [You Really Got A Hold On Me \- Remastered 2009](https://open.spotify.com/track/7rgUYidQh5tH0YlXCoKaYJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 3:01 | 2022-06-10 |  |

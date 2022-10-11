@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,408 likes - 175 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,540 likes - 175 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

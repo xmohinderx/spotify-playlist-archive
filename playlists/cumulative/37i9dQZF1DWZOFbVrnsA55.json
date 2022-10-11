@@ -2742,6 +2742,24 @@
     },
     {
       "album": {
+        "name": "Live at Commend (Part 2)",
+        "url": "https://open.spotify.com/album/3iXTjYZMXiOfRrHPrS45jU"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2047150,
+      "name": "Live at Commend (Part 2)",
+      "url": "https://open.spotify.com/track/3zjN54QAmvcJMCiI9xeLEk"
+    },
+    {
+      "album": {
         "name": "Fridman Variations",
         "url": "https://open.spotify.com/album/31oIw2hK2m7rIll2mLOqPy"
       },

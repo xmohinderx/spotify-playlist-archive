@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 329,704 likes - 63 songs - 3 hr 59 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 330,099 likes - 63 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 45 | [Merry Christmas, Love Your Neighbor](https://open.spotify.com/track/66DSXYhXuqoAamTF0mF9zd) | [Matthew Black](https://open.spotify.com/artist/5oqlBL6UgYXSZJd0WTKJkG) | [Merry Christmas, Love Your Neighbor](https://open.spotify.com/album/5ObJXCnrNfEnyPJfuSGOpl) | 5:20 |
 | 46 | [Make It Your Choice](https://open.spotify.com/track/16QixOtX6XLrKAy1c5Pezi) | [Jaroslav Pevno](https://open.spotify.com/artist/1zxW8NrD1JsMs3lYJLqWNA) | [Nocturne \(Music from the Tablestory Original Series\)](https://open.spotify.com/album/6MmVVRcfObGxhuxIPMSIJQ) | 4:12 |
 | 47 | [Ewig](https://open.spotify.com/track/5Eyklux1MDHpdeKjAQc0A7) | [Andreas Buttler](https://open.spotify.com/artist/2goDlOSq40ooMARezTq5it) | [Mehr Als 1 Gesicht](https://open.spotify.com/album/2OM2jmfg6eY0GRSnJdoLLB) | 4:01 |
-| 48 | [Elegant notes](https://open.spotify.com/track/3N5PMG0RZulyyniWLnGnhZ) | [HealthySounds MH](https://open.spotify.com/artist/0hwOGyfJW67nH2EenlKL2r) | [Rhythmic Notes](https://open.spotify.com/album/2oMbxNZPeJGj80XdIwS1x6) | 0:52 |
+| 48 | [Elegant notes](https://open.spotify.com/track/3N5PMG0RZulyyniWLnGnhZ) | [HealthySounds MH](https://open.spotify.com/artist/4P8uOtXLNcyVQ4qOEi3VqZ) | [Rhythmic Notes](https://open.spotify.com/album/2oMbxNZPeJGj80XdIwS1x6) | 0:52 |
 | 49 | [Persecusión y tiroteo](https://open.spotify.com/track/01rZfgicEEVTCzNwXJQWAs) | [Supermasita](https://open.spotify.com/artist/7zCW65GE1YwPDTYk7POovN) | [Persecusión y tiroteo](https://open.spotify.com/album/3Tp3xk6LLbOgimjdtr583U) | 2:44 |
 | 50 | [Breakup](https://open.spotify.com/track/0vaR6LIHIflqIkUXoU8oBo) | [Boiwise](https://open.spotify.com/artist/0qhXVWThNh3jCZkkvRh1GW) | [Spyciti](https://open.spotify.com/album/5sVNy4iTkohq7Bs5khoaXX) | 3:08 |
 | 51 | [Big Ass Shit](https://open.spotify.com/track/7F2N8cSTGlBVnW6AAylQrA) | [Phil Usherdowne](https://open.spotify.com/artist/2H9MF2G8JT7BPooB090P9K) | [Big Ass Shit](https://open.spotify.com/album/6UoQ35w7sbzxr7IWjK1DIy) | 1:26 |

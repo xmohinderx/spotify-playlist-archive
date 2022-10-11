@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43526,
+  "num_followers": 43546,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk3NiwzMTJiZTgzNzJhYWFmYzE4YWYwNTY2YmVmMzAyMmVhYTE2MjUyNzNl",
+  "snapshot_id": "Mjk3OCwwYTU1ZmY5NDVhNzZiNjU2YmNjMmZkNzczOWE0M2NjMDc3NzcwNTVk",
   "tracks": [
+    {
+      "added_at": "2022-10-10 08:02:51",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/5hENfb4W17kr2Xq0dnC3hS"
+      },
+      "artists": [
+        {
+          "name": "Pocket Sun",
+          "url": "https://open.spotify.com/artist/2AglFpK0fLt8IxuOPC3SbR"
+        }
+      ],
+      "duration_ms": 212882,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6BIwfeKvv16gjDnoYSGTdo"
+    },
     {
       "added_at": "2022-10-07 08:15:41",
       "album": {
@@ -411,26 +427,6 @@
       "duration_ms": 178142,
       "name": "IPANEMA",
       "url": "https://open.spotify.com/track/6vz5lQoqxfgDt3bXNsC4sq"
-    },
-    {
-      "added_at": "2022-07-19 08:52:10",
-      "album": {
-        "name": "AMBIANCE",
-        "url": "https://open.spotify.com/album/2cJm9GOLuDHLLew1pHgeFc"
-      },
-      "artists": [
-        {
-          "name": "FEE",
-          "url": "https://open.spotify.com/artist/5D1CTIyRb5B0MLhFV9W0J9"
-        },
-        {
-          "name": "Zay Doja",
-          "url": "https://open.spotify.com/artist/66v9Oo6OWqv7awEVmmQHJK"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "AMBIANCE",
-      "url": "https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo"
     },
     {
       "added_at": "2021-11-05 15:47:43",

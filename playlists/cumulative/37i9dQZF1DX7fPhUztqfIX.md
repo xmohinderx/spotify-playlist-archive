@@ -4,7 +4,7 @@
 
 > Emerging sounds in worship from everywhere.
 
-190 songs - 16 hr 38 min - [published](https://open.spotify.com/playlist/4xQpYPvJOTCYtrd1n12Jbo)
+191 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/4xQpYPvJOTCYtrd1n12Jbo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Nothing But The Blood \(Live\)](https://open.spotify.com/track/3PdUCd6MSSC6v7VLKSQvys) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige) | [Nothing But The Blood \(Live\)](https://open.spotify.com/album/11XGl4rNchRFrsiFO2yYM1) | 5:45 | 2021-06-12 | 2022-07-29 |
 | [Nothing Else](https://open.spotify.com/track/38cEd6plDcyQrNci5QjIsc) | [The Worship Project](https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3), [Darrick Tam](https://open.spotify.com/artist/7yRmKt0F9roUOE8nLsVvbH) | [The Worship Project, Vol\. 2](https://open.spotify.com/album/0y4vEdjKpRM5oQmLQvmURP) | 6:05 | 2021-06-12 |  |
 | [Nothing Else](https://open.spotify.com/track/7JBiUE9on9f4sZ91QcqA0y) | [The Worship Project](https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3), [Darrick Tam](https://open.spotify.com/artist/7yRmKt0F9roUOE8nLsVvbH) | [The Worship Project, Vol\. 2](https://open.spotify.com/album/5OCJ0TFd1qGPOkfY7g2p9u) | 6:05 | 2021-06-12 | 2022-07-29 |
-| [Nothing Matters More](https://open.spotify.com/track/7vCZQQlgKsQHJy8avGc7Pv) | [Crossway Worship](https://open.spotify.com/artist/217QaUTO2AttBXvVwS9N88) | [Nothing Matters More](https://open.spotify.com/album/2HOe9HRQyxXeJnxZLgGy7N) | 4:36 | 2021-06-12 |  |
+| [Nothing Matters More](https://open.spotify.com/track/7vCZQQlgKsQHJy8avGc7Pv) | [Crossway Worship](https://open.spotify.com/artist/217QaUTO2AttBXvVwS9N88) | [Nothing Matters More](https://open.spotify.com/album/2HOe9HRQyxXeJnxZLgGy7N) | 4:36 | 2021-06-12 | 2022-10-11 |
 | [Nothing To Fear \(feat\. Audrey Assad\)](https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Nothing To Fear \(feat\. Audrey Assad\)](https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU) | 3:04 | 2021-06-12 |  |
 | [Now More Than Ever](https://open.spotify.com/track/1eDt8P8oZAnpDJmXbKBVan) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Now More Than Ever](https://open.spotify.com/album/5L0mBphg0klwHIIJ3wSZ8b) | 5:47 | 2021-06-12 | 2022-07-29 |
 | [Now More Than Ever](https://open.spotify.com/track/6qWNtMLmOHLBeXKp2Si1Dv) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Now More Than Ever](https://open.spotify.com/album/3vKwTOrNs2cNoLxjcZpXBH) | 5:47 | 2021-06-12 |  |
@@ -149,6 +149,7 @@
 | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 | 2021-06-12 |  |
 | [Real Thing](https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Altars](https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes) | 5:00 | 2021-06-12 |  |
 | [Real Thing](https://open.spotify.com/track/5tnc2byIAzr9JwoOiIQWo0) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Real Thing](https://open.spotify.com/album/584F5hDrbibgUwJeu29aAk) | 5:08 | 2021-06-12 | 2022-07-29 |
+| [Rejoice](https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:02 | 2021-06-12 |  |
 | [Rejoice](https://open.spotify.com/track/6UEX4PS9R0HjfN3iG0mm7G) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Rejoice](https://open.spotify.com/album/0k5NWjpgHJb4AW22CcE6PP) | 4:03 | 2021-06-12 | 2022-10-09 |
 | [Reputation](https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Reputation](https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9) | 4:02 | 2021-06-12 |  |
 | [Rest on Us \- Live](https://open.spotify.com/track/5hbyxp9uM2iLSUTi5swnV3) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [Land of the Living \(Live\)](https://open.spotify.com/album/4CVXOAkmstbNySWmp5LXIx) | 5:25 | 2021-06-12 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 122478,
+  "num_followers": 122549,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA2ODQwMCwwMDAwMDAwMGI5MmQxZDI5MjRmZGRjOTExYzdjY2RkNGYwYTM4Yzc3",
+  "snapshot_id": "MTY2NTA2ODQwMCwwMDAwMDAwMDYzN2UzODlmZjNmMWI0YmZjMmVmMDMxNjk0YjY1ODg3",
   "tracks": [
     {
       "added_at": "2022-10-06 15:00:00",
@@ -467,22 +467,18 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6"
+        "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 233920,
-      "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
+      "duration_ms": 176919,
+      "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -503,22 +499,6 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
-        "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 176919,
-      "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
-      "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
-    },
-    {
-      "added_at": "2022-10-06 15:00:00",
-      "album": {
         "name": "SEPTEMBER",
         "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 275560,
       "name": "SEPTEMBER",
       "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
+    },
+    {
+      "added_at": "2022-10-06 15:00:00",
+      "album": {
+        "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
+        "name": "Happy Sad",
+        "url": "https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ"
       },
       "artists": [
         {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
+      "duration_ms": 170294,
+      "name": "Happy Sad",
+      "url": "https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "Happy Sad",
-        "url": "https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ"
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
         }
       ],
-      "duration_ms": 170294,
-      "name": "Happy Sad",
-      "url": "https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp"
+      "duration_ms": 197500,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -739,18 +739,22 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "DAILY BOP",
-        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
+        "name": "Last Train",
+        "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
         }
       ],
-      "duration_ms": 145384,
-      "name": "\u30a8\u30e2\u3081\u306e\u590f",
-      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+      "duration_ms": 217000,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -771,22 +775,18 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "Last Train",
-        "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
+        "name": "DAILY BOP",
+        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
       },
       "artists": [
         {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        },
-        {
-          "name": "THREE1989",
-          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Last Train",
-      "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
+      "duration_ms": 145384,
+      "name": "\u30a8\u30e2\u3081\u306e\u590f",
+      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 209620,
-      "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
-    },
-    {
-      "added_at": "2022-10-06 15:00:00",
-      "album": {
         "name": "Dancing Womer",
         "url": "https://open.spotify.com/album/5ZPkVkgnqXl4XOYyKe1q3w"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 243000,
       "name": "Dancing Womer",
       "url": "https://open.spotify.com/track/1gnwP3EsVfF9ZNB9ILG5Bq"
+    },
+    {
+      "added_at": "2022-10-06 15:00:00",
+      "album": {
+        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 209620,
+      "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
+        "name": "HONDA",
+        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 226779,
-      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
+      "duration_ms": 239745,
+      "name": "HONDA",
+      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -1111,6 +1107,22 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
+        "name": "white",
+        "url": "https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "white",
+      "url": "https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y"
+    },
+    {
+      "added_at": "2022-10-06 15:00:00",
+      "album": {
         "name": "MAGIC WAYS",
         "url": "https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw"
       },
@@ -1127,34 +1139,38 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "HONDA",
-        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
+        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
       },
       "artists": [
         {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
         }
       ],
-      "duration_ms": 239745,
-      "name": "HONDA",
-      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
+      "duration_ms": 226779,
+      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
     },
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "white",
-        "url": "https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG"
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
       "artists": [
         {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
         }
       ],
-      "duration_ms": 250000,
-      "name": "white",
-      "url": "https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y"
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -1175,22 +1191,6 @@
       "duration_ms": 208853,
       "name": "\u30e9\u30c3\u30ad\u30fc\u30fb\u30c9\u30e9\u30a4\u30d6",
       "url": "https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho"
-    },
-    {
-      "added_at": "2022-10-06 15:00:00",
-      "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
-      },
-      "artists": [
-        {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -1231,38 +1231,6 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "dance",
-        "url": "https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5"
-      },
-      "artists": [
-        {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
-        }
-      ],
-      "duration_ms": 199024,
-      "name": "dance",
-      "url": "https://open.spotify.com/track/4vURlCR65nymieanZFI26k"
-    },
-    {
-      "added_at": "2022-10-06 15:00:00",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 207006,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
-    },
-    {
-      "added_at": "2022-10-06 15:00:00",
-      "album": {
         "name": "Music Restaurant Royal Host",
         "url": "https://open.spotify.com/album/1jbldbepC2GKoqyn1ay8y3"
       },
@@ -1291,6 +1259,38 @@
       "duration_ms": 201642,
       "name": "Amber",
       "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
+    },
+    {
+      "added_at": "2022-10-06 15:00:00",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 207006,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
+    },
+    {
+      "added_at": "2022-10-06 15:00:00",
+      "album": {
+        "name": "dance",
+        "url": "https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 199024,
+      "name": "dance",
+      "url": "https://open.spotify.com/track/4vURlCR65nymieanZFI26k"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/0LMs2Sa0fiAVmNYoQkBgCJ"
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
       },
       "artists": [
         {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
         }
       ],
-      "duration_ms": 235700,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/6el3HQiV8Mr0PtKULqjFcl"
+      "duration_ms": 270133,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -1363,22 +1363,6 @@
       "duration_ms": 226933,
       "name": "Moonset",
       "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
-    },
-    {
-      "added_at": "2022-10-06 15:00:00",
-      "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
-      },
-      "artists": [
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/0LMs2Sa0fiAVmNYoQkBgCJ"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 235700,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/6el3HQiV8Mr0PtKULqjFcl"
+    },
+    {
+      "added_at": "2022-10-06 15:00:00",
+      "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "Capsule",
-        "url": "https://open.spotify.com/album/1oQ6rg9khddeMQkPhGNjyb"
-      },
-      "artists": [
-        {
-          "name": "TAIKING",
-          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Capsule",
-      "url": "https://open.spotify.com/track/63yICY4anYaDErIyT6sxv7"
-    },
-    {
-      "added_at": "2022-10-06 15:00:00",
-      "album": {
         "name": "BITTER!",
         "url": "https://open.spotify.com/album/0BSd8vQJG03o2NHVMA7kA5"
       },
@@ -1551,6 +1535,54 @@
       "duration_ms": 211562,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/4iELGQQnXwloNqbQZ0rfNZ"
+    },
+    {
+      "added_at": "2022-10-06 15:00:00",
+      "album": {
+        "name": "\u5c11\u3057\u6ce3\u304f",
+        "url": "https://open.spotify.com/album/5ybAA6CJFxuDRZLmJEoB5D"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
+        }
+      ],
+      "duration_ms": 311100,
+      "name": "\u5c11\u3057\u6ce3\u304f",
+      "url": "https://open.spotify.com/track/3UG4sW8T05V7raSbLA67o8"
+    },
+    {
+      "added_at": "2022-10-06 15:00:00",
+      "album": {
+        "name": "Natsume",
+        "url": "https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 157999,
+      "name": "Natsume",
+      "url": "https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il"
+    },
+    {
+      "added_at": "2022-10-06 15:00:00",
+      "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Amber Bare Skin",
+      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -1575,50 +1607,18 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
+        "name": "Capsule",
+        "url": "https://open.spotify.com/album/1oQ6rg9khddeMQkPhGNjyb"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "TAIKING",
+          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
         }
       ],
-      "duration_ms": 205253,
-      "name": "Amber Bare Skin",
-      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
-    },
-    {
-      "added_at": "2022-10-06 15:00:00",
-      "album": {
-        "name": "Natsume",
-        "url": "https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm"
-      },
-      "artists": [
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 157999,
-      "name": "Natsume",
-      "url": "https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il"
-    },
-    {
-      "added_at": "2022-10-06 15:00:00",
-      "album": {
-        "name": "\u5c11\u3057\u6ce3\u304f",
-        "url": "https://open.spotify.com/album/5ybAA6CJFxuDRZLmJEoB5D"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
-          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
-        }
-      ],
-      "duration_ms": 311100,
-      "name": "\u5c11\u3057\u6ce3\u304f",
-      "url": "https://open.spotify.com/track/3UG4sW8T05V7raSbLA67o8"
+      "duration_ms": 220600,
+      "name": "Capsule",
+      "url": "https://open.spotify.com/track/63yICY4anYaDErIyT6sxv7"
     },
     {
       "added_at": "2022-10-06 15:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/70EOTJ54prWfxlJiAlmu49"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 250880,
-      "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt"
-    },
-    {
-      "added_at": "2022-10-06 15:00:00",
-      "album": {
         "name": "Are U Romantic?",
         "url": "https://open.spotify.com/album/5R1RHDWNPxzdvZVJcUAZEz"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 258600,
       "name": "Ocha",
       "url": "https://open.spotify.com/track/34AxhxmQ3L3ZL1s6M05pcX"
+    },
+    {
+      "added_at": "2022-10-06 15:00:00",
+      "album": {
+        "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/70EOTJ54prWfxlJiAlmu49"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 250880,
+      "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt"
     },
     {
       "added_at": "2022-10-06 15:00:00",

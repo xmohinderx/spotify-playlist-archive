@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-373 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
+374 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bacha Drill](https://open.spotify.com/track/5ClmUS0EX91calScR72J1Y) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Bacha Drill](https://open.spotify.com/album/51v88qgd9pBDcreNctPsjr) | 3:22 | 2022-02-04 | 2022-05-11 |
 | [Back Then](https://open.spotify.com/track/4vSOPcWRHOxoXHfHZTUVLi) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 4:26 | 2022-04-30 |  |
 | [BackFromTheDEAD](https://open.spotify.com/track/78C9EoGlquveRwSxGTMYWz) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [BackFromTheDEAD](https://open.spotify.com/album/1QLo8FSmf3uw0krewhQ4TU) | 4:35 | 2022-02-04 | 2022-10-04 |
+| [BackFromTheDEAD](https://open.spotify.com/track/7x9BU4heU6sRyxSOsqWlVB) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [BackFromTheDEAD](https://open.spotify.com/album/70KmscuOxB2bTBpdKwfsYD) | 4:35 | 2022-10-01 |  |
 | [BADMAN](https://open.spotify.com/track/4TIg48icSzqwThnahl0tR1) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [BADMAN](https://open.spotify.com/album/2eHRubiT5zlBfrr2Mz5CVQ) | 2:38 | 2022-03-23 | 2022-07-28 |
 | [Banner \(feat\. Zay Jones & Torey D'Shaun\)](https://open.spotify.com/track/7K1u44U0085H0hu2BbPxbI) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk), [Zay Jones](https://open.spotify.com/artist/0E4tZUFpHURZ2NFqc2hluK), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Banner \(feat\. Zay Jones & Torey D'Shaun\)](https://open.spotify.com/album/43QDVMXACG2khCZNFGlgOP) | 3:03 | 2022-02-04 |  |
 | [Barely Finshed](https://open.spotify.com/track/0iR4jOBv5KLk6zUvq4ilVI) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Barely Finished](https://open.spotify.com/album/2wYzw1ql4o0Zp0uqZw6F9m) | 3:06 | 2022-02-04 | 2022-06-06 |
@@ -57,7 +58,7 @@
 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 | 2022-02-04 | 2022-04-21 |
 | [BURBERRY COAT!](https://open.spotify.com/track/475oF6CksHeKkdsbxoNmcq) | [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Wxlf](https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM) | [BURBERRY COAT!](https://open.spotify.com/album/0s4maTbXOB6YHd8I0jHO8x) | 3:01 | 2022-04-30 | 2022-10-02 |
 | [burn for u](https://open.spotify.com/track/08irXCG7gXLeufqcZtT7mh) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [burn for u](https://open.spotify.com/album/3G42vqO6lmiKRTiBVVnx1g) | 2:05 | 2022-04-30 |  |
-| [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 | 2022-07-17 |  |
+| [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 | 2022-07-17 | 2022-10-11 |
 | [By Your Power \(feat\. Hulvey\)](https://open.spotify.com/track/188vYbJMU4hbfLb2bWUTUA) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [By Your Power \(feat\. Hulvey\)](https://open.spotify.com/album/7hUoPoTdZAW4ETjJt7cZGp) | 3:34 | 2022-02-04 |  |
 | [Cafeteria](https://open.spotify.com/track/69YWagZDFxgqZmXKJyZwdT) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [Cafeteria](https://open.spotify.com/album/6q84E0z9N2ZWBFLBWgADP5) | 2:56 | 2022-05-28 | 2022-07-25 |
 | [Came For It All](https://open.spotify.com/track/1VBEsSJhh3HGkz7XNt85OK) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [George Rose](https://open.spotify.com/artist/28h0WaWhmOoJ4t1eWfH0Er) | [Came For It All](https://open.spotify.com/album/2nYf6yyUwlPmdSLyYe5Gzi) | 3:34 | 2022-04-30 | 2022-07-28 |

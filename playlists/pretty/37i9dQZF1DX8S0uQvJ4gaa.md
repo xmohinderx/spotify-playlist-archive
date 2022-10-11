@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Restless Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,094 likes - 115 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,839 likes - 115 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

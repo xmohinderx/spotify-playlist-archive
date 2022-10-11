@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 226013,
       "name": "1 AM",
       "url": "https://open.spotify.com/track/4Y6A9QvLI7t1k0RrhnDJII"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 205123,
       "name": "20-20",
       "url": "https://open.spotify.com/track/3SXqbJNTe2s1xePDzYwkZm"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 235903,
       "name": "Across the Sea",
       "url": "https://open.spotify.com/track/3DkLoVlNKDnJ1kJ8L5Ff0g"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 227369,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/5X1GfVhiWsCWF2yL4cNeqM"
@@ -1060,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/4iX0dcaiZF6G5i2zuc9JOk"
+      },
+      "artists": [
+        {
+          "name": "Voyageur",
+          "url": "https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245160,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/6gKYn1J8fnTI5te9IV89fq"
+    },
+    {
+      "album": {
         "name": "Anytime I Go",
         "url": "https://open.spotify.com/album/1Lw09wDiTHSecY0HL84Fek"
       },
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 187440,
       "name": "Apollo (New Love)",
       "url": "https://open.spotify.com/track/2JLPTE5z1NM1x4dlM2xFt8"
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 196433,
       "name": "Brave New World",
       "url": "https://open.spotify.com/track/0VeDBqHeOuor2s11sWLNJT"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 221647,
       "name": "California",
       "url": "https://open.spotify.com/track/3rvpOqZcWke5BwppbvU7g4"
@@ -2509,7 +2527,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 159750,
       "name": "Calling Home",
       "url": "https://open.spotify.com/track/4cmXWLslqqk6dX8Oihq6zC"
@@ -2827,7 +2845,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 188866,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
@@ -4041,7 +4059,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 271440,
       "name": "Didn't See It Coming",
       "url": "https://open.spotify.com/track/7GnXKlzSWy0oeKZwV8RiPE"
@@ -4143,6 +4161,24 @@
       "duration_ms": 234789,
       "name": "Do or Die (feat. Kinn)",
       "url": "https://open.spotify.com/track/3Mqp9pFEaLqMdR3zouGWOJ"
+    },
+    {
+      "album": {
+        "name": "Do You Remember",
+        "url": "https://open.spotify.com/album/7FMy7yzs3fo4qFWo0KtbYs"
+      },
+      "artists": [
+        {
+          "name": "Channel 13",
+          "url": "https://open.spotify.com/artist/2DpTalP2jtmMLnNlTmqR2A"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/4PqILBZzehwyoa3zfiTUDH"
     },
     {
       "album": {
@@ -4371,7 +4407,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 219396,
       "name": "drive",
       "url": "https://open.spotify.com/track/7KBG1qVBp3H8zEIYmcFH8T"
@@ -4851,7 +4887,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 236957,
       "name": "Every Colour",
       "url": "https://open.spotify.com/track/7nNq5Q2Khh1bOyF1QQFLjd"
@@ -5775,7 +5811,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 172048,
       "name": "Forgetful",
       "url": "https://open.spotify.com/track/49GbHcoGBub4YVdR4KX43i"
@@ -6190,6 +6226,24 @@
     },
     {
       "album": {
+        "name": "Go Out With My Friends",
+        "url": "https://open.spotify.com/album/6pxNpXRTGhKncUjphy4SrM"
+      },
+      "artists": [
+        {
+          "name": "STRUAN",
+          "url": "https://open.spotify.com/artist/2HMnTx5HskhESJ4x5jVPyb"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "Go Out With My Friends",
+      "url": "https://open.spotify.com/track/1WpZfNuejhzOofjaOCMdXf"
+    },
+    {
+      "album": {
         "name": "Under My Influence",
         "url": "https://open.spotify.com/album/0KPgrwFMQKpRaBcmeLg1Rw"
       },
@@ -6295,6 +6349,24 @@
       "duration_ms": 176173,
       "name": "Good Plates",
       "url": "https://open.spotify.com/track/7aKy6nmCDAKPhpHrEzdoZl"
+    },
+    {
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/3lEvW4ApvTcBjNMQDaqQpW"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Love",
+          "url": "https://open.spotify.com/artist/7rXqz0rDbv4CSANhKePfyu"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198721,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/27DViojCFGFFyVrTVWJaiW"
     },
     {
       "album": {
@@ -7380,6 +7452,24 @@
     },
     {
       "album": {
+        "name": "Palmetto",
+        "url": "https://open.spotify.com/album/1fIrr8sVrdoF0nCALY2fiD"
+      },
+      "artists": [
+        {
+          "name": "By The Coast",
+          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237386,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7fewVF0RojQhY7lHjxCQJz"
+    },
+    {
+      "album": {
         "name": "Honey + Tea (Acoustic)",
         "url": "https://open.spotify.com/album/2FRQcAUBgCjQVUoZ8OuEOw"
       },
@@ -7735,7 +7825,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 186500,
       "name": "i don't wanna know - acoustic",
       "url": "https://open.spotify.com/track/4Z5LVvODOf8KDgxa0DCwG1"
@@ -8241,7 +8331,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 262623,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
@@ -8729,7 +8819,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 219000,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/5S1Dx0DalOtXpvR4nNZfwR"
@@ -9279,7 +9369,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 201440,
       "name": "Kiss My Scars",
       "url": "https://open.spotify.com/track/3U3A6fnEHGvUhzHm1LIAld"
@@ -10639,7 +10729,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 187080,
       "name": "Lucky Soul",
       "url": "https://open.spotify.com/track/3ItvBwiZjuuk1oPUxTb8Vd"
@@ -13575,7 +13665,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 223508,
       "name": "Quiet Talkers",
       "url": "https://open.spotify.com/track/3i14gY5jFmHrQ7tD0Qnfod"
@@ -13940,6 +14030,24 @@
     },
     {
       "album": {
+        "name": "Crescent Spoon",
+        "url": "https://open.spotify.com/album/2YFHOiLVwsKRRqck9EXA30"
+      },
+      "artists": [
+        {
+          "name": "Regressor",
+          "url": "https://open.spotify.com/artist/0z8ShnIyctKoYwU68qKzRT"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313500,
+      "name": "Saffron Sunset",
+      "url": "https://open.spotify.com/track/5mpTv6Y3IDGKcGHZaXv2VI"
+    },
+    {
+      "album": {
         "name": "Symphony Sessions",
         "url": "https://open.spotify.com/album/5EiQd7YNy6rt0qyaOg0iPt"
       },
@@ -14279,7 +14387,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 234002,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/1DExDLmVbJrsmZ7Uy5OOXN"
@@ -15489,7 +15597,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 205000,
       "name": "Storms",
       "url": "https://open.spotify.com/track/4qjmcTsLSV0LJcCBsT9Ay1"
@@ -15973,7 +16081,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 204949,
       "name": "sydney",
       "url": "https://open.spotify.com/track/3Ug1BrdE7qBi7pCyt0KM4n"
@@ -16525,7 +16633,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 204051,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/2Tus0XEu4LmNlk97CLML9u"
@@ -16803,7 +16911,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 251557,
       "name": "The Way You Break My Heart",
       "url": "https://open.spotify.com/track/0KSGdHcZJU8nINet2H8bEn"
@@ -18083,7 +18191,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 265981,
       "name": "Were You Lying? - Demo",
       "url": "https://open.spotify.com/track/78iyj6Ii2RyUHiq4eb2lZS"
@@ -19225,7 +19333,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 163133,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/4EwXv3EP9oQq87nZ0SiNf4"

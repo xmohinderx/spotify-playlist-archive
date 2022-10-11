@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Sergio Dalma & La K'onga.
 
-164 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+165 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [De un Tiempo a Esta Parte](https://open.spotify.com/track/5Iyp4ikp4LdVXDnb45lstv) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Javier Ortega](https://open.spotify.com/artist/6jGIY0FDKLEWixfXTgh8wI) | [De un Tiempo a Esta Parte](https://open.spotify.com/album/62t8oGmohX5zc3gzgDZN2R) | 4:44 | 2021-12-24 |  |
 | [Debería Odiarte](https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:28 | 2021-12-24 |  |
 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 | 2021-12-24 |  |
-| [El Campanero](https://open.spotify.com/track/5G4g6BDM5hdleQF99Hq8nK) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Campanero](https://open.spotify.com/album/5DUClhRJXZW2RqHd8jlwmj) | 4:33 | 2022-01-11 |  |
+| [El Campanero](https://open.spotify.com/track/5G4g6BDM5hdleQF99Hq8nK) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Campanero](https://open.spotify.com/album/5DUClhRJXZW2RqHd8jlwmj) | 4:33 | 2022-01-11 | 2022-10-11 |
+| [El Campanero](https://open.spotify.com/track/6YF8AXgrIDJu7IjQAixYtD) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Campanero](https://open.spotify.com/album/4DRXD5RyV4aaOyW0RNXU0V) | 4:33 | 2022-09-23 |  |
 | [El Embrujo](https://open.spotify.com/track/3YBVqmMUSusvJyQwd545yw) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Embrujo](https://open.spotify.com/album/3TGUkmPnQzcG2NHoXwPufy) | 3:56 | 2021-12-24 |  |
 | [EL Gil De Tu Ex](https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:13 | 2021-12-24 |  |
 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 | 2021-12-24 |  |

@@ -1,13 +1,29 @@
 {
   "description": "Epic playlist full of amazing cyperpunk-themed Synthwave &#x2F; Retrowave. Updated regularly.",
-  "num_followers": 9594,
+  "num_followers": 9591,
   "original_name": "Cyberpunk Synthwave",
   "owner": {
     "name": "Squares",
     "url": "https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht"
   },
-  "snapshot_id": "NzY4LDkzMTMyM2FmZWNhMjY0NzdkODU5YjMwYmViNTBkNzZiYTE2YTZmZjE=",
+  "snapshot_id": "Nzc1LDcwNGY3MTg1OWE1ZjQyY2QzODI4NmRlZjg1MGYxZWEzMmIxMzc1MDI=",
   "tracks": [
+    {
+      "added_at": "2022-10-10 06:57:20",
+      "album": {
+        "name": "mushroom wasteland",
+        "url": "https://open.spotify.com/album/2qYsj7QW30DzqAEtge6uTw"
+      },
+      "artists": [
+        {
+          "name": "divmod",
+          "url": "https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC"
+        }
+      ],
+      "duration_ms": 211406,
+      "name": "mushroom wasteland",
+      "url": "https://open.spotify.com/track/1Z2k3s16pyNUpuBoI3EmoK"
+    },
     {
       "added_at": "2020-12-14 15:05:17",
       "album": {
@@ -77,10 +93,10 @@
       "url": "https://open.spotify.com/track/7w0UOQGNVnj5w9oXWoaRp2"
     },
     {
-      "added_at": "2022-08-01 07:02:22",
+      "added_at": "2022-10-10 06:56:44",
       "album": {
-        "name": "save states",
-        "url": "https://open.spotify.com/album/7g3kpYucY8onA8SRCvdqzl"
+        "name": "mushroom wasteland",
+        "url": "https://open.spotify.com/album/2qYsj7QW30DzqAEtge6uTw"
       },
       "artists": [
         {
@@ -88,9 +104,9 @@
           "url": "https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC"
         }
       ],
-      "duration_ms": 225078,
-      "name": "save states",
-      "url": "https://open.spotify.com/track/1UOTXqK4T6hseoOkDjksH6"
+      "duration_ms": 316875,
+      "name": "the princess is dead",
+      "url": "https://open.spotify.com/track/3ScYy6HZHERDpkNk6ZmXlR"
     },
     {
       "added_at": "2021-12-03 11:00:37",
@@ -319,6 +335,22 @@
       "duration_ms": 212500,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/5e20l8hl7vcF96rYn9FxAM"
+    },
+    {
+      "added_at": "2022-10-10 07:09:15",
+      "album": {
+        "name": "mushroom wasteland",
+        "url": "https://open.spotify.com/album/2qYsj7QW30DzqAEtge6uTw"
+      },
+      "artists": [
+        {
+          "name": "divmod",
+          "url": "https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC"
+        }
+      ],
+      "duration_ms": 240468,
+      "name": "toadstool's revenge (kingdom restored)",
+      "url": "https://open.spotify.com/track/633ANjWJwfT0mQFSd4wrqs"
     },
     {
       "added_at": "2022-01-28 13:22:39",

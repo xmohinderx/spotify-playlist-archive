@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 317053,
+  "num_followers": 317228,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDhjYjY3YmFmZTUyMTk3MGZiODYxODQyZWY1OWZmOTFi",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDEwNjU0MDNlYjVkZTMxZjY0NjFmODNhMjQyYzk4M2E5",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "At San Quentin",
-        "url": "https://open.spotify.com/album/6bYqwLMVRQzwPQweVzCiry"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
-      "url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "I Get Lonely In A Hurry",
         "url": "https://open.spotify.com/album/3yktxl8Ut7EDn4KBXMPYhZ"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 127400,
       "name": "The Race Is On",
       "url": "https://open.spotify.com/track/2LyRC7gfWFJd6JI5i8fTJe"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "At San Quentin",
+        "url": "https://open.spotify.com/album/6bYqwLMVRQzwPQweVzCiry"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Daddy Sang Bass",
-      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "The Complete Capitol Hits Of Faron Young",
         "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
       },
@@ -439,22 +423,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Fist City",
-        "url": "https://open.spotify.com/album/069layftQtjJZ6KqZWHk6q"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "Fist City",
-      "url": "https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Flowers On The Wall: The Essential Statler Brothers 1964-1969",
         "url": "https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD"
       },
@@ -471,18 +439,34 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
-        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
+        "name": "Fist City",
+        "url": "https://open.spotify.com/album/069layftQtjJZ6KqZWHk6q"
       },
       "artists": [
         {
-          "name": "Jeannie C. Riley",
-          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Harper Valley P.T.A.",
-      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
+      "duration_ms": 133933,
+      "name": "Fist City",
+      "url": "https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Daddy Sang Bass",
+      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -519,6 +503,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
+        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
+      },
+      "artists": [
+        {
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Tammy's Greatest Hits",
         "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
       },
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Jim Reeves",
-        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+        "name": "Blue Kentucky Girl",
+        "url": "https://open.spotify.com/album/5958wwjPRxw2GmGJbOVuLc"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 138640,
-      "name": "He'll Have to Go",
-      "url": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
+      "duration_ms": 163640,
+      "name": "Blue Kentucky Girl",
+      "url": "https://open.spotify.com/track/2mqXqQnxcFq5tmG98kUQZw"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Blue Kentucky Girl",
-        "url": "https://open.spotify.com/album/5958wwjPRxw2GmGJbOVuLc"
+        "name": "The Essential Jim Reeves",
+        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 163640,
-      "name": "Blue Kentucky Girl",
-      "url": "https://open.spotify.com/track/2mqXqQnxcFq5tmG98kUQZw"
+      "duration_ms": 138640,
+      "name": "He'll Have to Go",
+      "url": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Okie From Muskogee",
         "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 156160,
       "name": "The Last Thing On My Mind",
       "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
-        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Devil Woman",
-      "url": "https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
         "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 197293,
       "name": "Homecoming - Single Version",
       "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
+        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Devil Woman",
+      "url": "https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "RCA Country Legends",
-        "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
-      },
-      "artists": [
-        {
-          "name": "Hank Locklin",
-          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
-        }
-      ],
-      "duration_ms": 141466,
-      "name": "Please Help Me, I'm Falling",
-      "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Folk-Country",
         "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+        "name": "RCA Country Legends",
+        "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
       },
       "artists": [
         {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
         }
       ],
-      "duration_ms": 151773,
-      "name": "Sea of Heartbreak",
-      "url": "https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0"
+      "duration_ms": 141466,
+      "name": "Please Help Me, I'm Falling",
+      "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1035,6 +1019,22 @@
       "duration_ms": 150093,
       "name": "It's Such A Pretty World Today",
       "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Sea of Heartbreak",
+      "url": "https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Walk On By",
+        "url": "https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8"
+      },
+      "artists": [
+        {
+          "name": "Leroy Van Dyke",
+          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
+        }
+      ],
+      "duration_ms": 144200,
+      "name": "Walk On By",
+      "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
         "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 169933,
       "name": "Detroit City",
       "url": "https://open.spotify.com/track/7eNM9suHz80f4fbC8aobod"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Walk On By",
-        "url": "https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8"
-      },
-      "artists": [
-        {
-          "name": "Leroy Van Dyke",
-          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
-        }
-      ],
-      "duration_ms": 144200,
-      "name": "Walk On By",
-      "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "500 Miles Away from Home",
+      "url": "https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Hawkshaw Hawkins 28 Big Ones",
         "url": "https://open.spotify.com/album/6PY8NzMXhWfO5psQjbsQBb"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 201173,
       "name": "Yesterday When I Was Young",
       "url": "https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "500 Miles Away from Home",
-      "url": "https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7"
     },
     {
       "added_at": "2022-07-29 04:02:00",

@@ -925,7 +925,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 276647,
       "name": "Childhood memories \ub0b4 \uae30\uc5b5\uc18d\uc758 \uc18c\ub144 - \uc790\uc791\uace1",
       "url": "https://open.spotify.com/track/3b1LFRH2KiY1nnWo3nyDfU"
@@ -2885,7 +2885,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 280944,
       "name": "Is there nobody? \ub204\uad6c \uc5c6\uc18c",
       "url": "https://open.spotify.com/track/1RLilsBEx4XenTOMzAqrdW"
@@ -4839,7 +4839,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 224632,
       "name": "TEASER \uc608\uace0\ud3b8",
       "url": "https://open.spotify.com/track/6ItyEGt61NAgy3kC7Z8ko6"
@@ -4891,7 +4891,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 279085,
       "name": "The Dance in the Rhythm \ub9ac\ub4ec\uc18d\uc5d0 \uadf8 \ucda4\uc744",
       "url": "https://open.spotify.com/track/7pIwxrsbICmhaVJhlT1ldY"
@@ -5671,7 +5671,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 319381,
       "name": "With you \ub108\uc640 \ud568\uaed8",
       "url": "https://open.spotify.com/track/5cUFvpQRyGqyeoh0RaKc6P"
@@ -6221,10 +6221,40 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 276647,
       "name": "\ub0b4 \uae30\uc5b5\uc18d\uc758 \uc18c\ub144 (\uc790\uc791\uace1)",
       "url": "https://open.spotify.com/track/712CnIf2mGUEmBRIgnPBBK"
+    },
+    {
+      "album": {
+        "name": "JTBC SuperBand Episode 10",
+        "url": "https://open.spotify.com/album/7aqd5ycYlxjy2k6R6EXl3f"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        },
+        {
+          "name": "Kevin Oh",
+          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
+        },
+        {
+          "name": "\uc591\uc9c0\uc644",
+          "url": "https://open.spotify.com/artist/5AXdXxLHB1KQg3YgkgbdSO"
+        },
+        {
+          "name": "\uc774\ub098\uc6b0",
+          "url": "https://open.spotify.com/artist/2ZP48Ljd7wLNg47xB15r2M"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319381,
+      "name": "\ub108\uc640 \ud568\uaed8",
+      "url": "https://open.spotify.com/track/2R205R7M4IokckGlCmtBzj"
     },
     {
       "album": {
@@ -6251,7 +6281,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 280944,
       "name": "\ub204\uad6c \uc5c6\uc18c",
       "url": "https://open.spotify.com/track/2WDFyE0cdWx5wWFVKl28v0"
@@ -6546,6 +6576,32 @@
     },
     {
       "album": {
+        "name": "JTBC SuperBand Episode 9",
+        "url": "https://open.spotify.com/album/39IoiBfxla6LVH34vkPDj1"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc885\ud6c8",
+          "url": "https://open.spotify.com/artist/3IW9SLNC65Dyx1UgA28d29"
+        },
+        {
+          "name": "\uc815\uad11\ud604",
+          "url": "https://open.spotify.com/artist/2SmLmkMniKAB0pmrjRFvUH"
+        },
+        {
+          "name": "\ucc44\ubcf4\ud6c8",
+          "url": "https://open.spotify.com/artist/4VXCqbE9JLdgBJrg7vcr75"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279085,
+      "name": "\ub9ac\ub4ec\uc18d\uc5d0 \uadf8 \ucda4\uc744",
+      "url": "https://open.spotify.com/track/7KNTh5W4NkkcwpMKl1QTvS"
+    },
+    {
+      "album": {
         "name": "SuperBand2 - Episode.6",
         "url": "https://open.spotify.com/album/27vjZvFRnTd7dOoZ9KmRwd"
       },
@@ -6781,7 +6837,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 224632,
       "name": "\uc608\uace0\ud3b8 (TEASER)",
       "url": "https://open.spotify.com/track/4lkqAjYmpIvV1eWD11ocBI"

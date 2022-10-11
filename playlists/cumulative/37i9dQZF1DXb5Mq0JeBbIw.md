@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-182 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
+183 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,12 +85,13 @@
 | [I'll Follow You into the Dark](https://open.spotify.com/track/6dVkbvvcOpQ9tuGo7uSl10) | [King Leer](https://open.spotify.com/artist/73OeR5E9pYJ0zKU597trah) | [I'll Follow You into the Dark](https://open.spotify.com/album/4hwxB6K2T3u8Oh53qjgwgQ) | 2:27 | 2022-05-30 | 2022-07-28 |
 | [I'm Doing Everything I Can](https://open.spotify.com/track/4dnXWvzIOioHBd9X12ffz3) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm Doing Everything I Can](https://open.spotify.com/album/73ZKq5NUiOAYbCUgb4Qqrd) | 3:00 | 2022-05-30 | 2022-07-29 |
 | [I'm Not The Only One \- Acoustic Version](https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [I'm Not The Only One \(Acoustic Version\)](https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884) | 3:33 | 2022-06-24 |  |
-| [I'm on Fire](https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm on Fire](https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg) | 2:20 | 2022-05-30 |  |
+| [I'm on Fire](https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm on Fire](https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg) | 2:20 | 2022-05-30 | 2022-10-11 |
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-08-05 |  |
 | [If I Were You](https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [If I Were You](https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R) | 3:12 | 2022-08-05 |  |
 | [Intentions of Gold \- Ann\-Ki & Her Son, Pt\. 1](https://open.spotify.com/track/4kYZQLzbwrKHhIkZ8EEy1f) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Intentions of Gold \(Ann\-Ki & Her Son, Pt\. 1\)](https://open.spotify.com/album/4xxunx1DdCq6Oxb5nENc4l) | 5:11 | 2022-05-30 | 2022-07-29 |
 | [Issues \- Acoustic](https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC) | 2:55 | 2022-05-30 |  |
 | [It Aint Me](https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [\#Covers](https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB) | 3:12 | 2022-05-30 |  |
+| [IT'S YOU \(feat\. keshi\) \- Stripped Version](https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\) \[Stripped Version\]](https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP) | 2:38 | 2022-10-07 |  |
 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 | 2022-05-30 |  |
 | [Kill Em With Kindness \- Acoustic](https://open.spotify.com/track/6pezb9EwyygkHnJqkjLphG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [13 Reasons Why \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/2OicPkzxga0ybQIdl3kvaa) | 3:32 | 2022-06-24 |  |
 | [Leave a Light On](https://open.spotify.com/track/1oMUzCv0tKfrm2CK3DmMTi) | [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz) | [Leave a Light On](https://open.spotify.com/album/3pr3n0FMxhgOBQE3JycU3E) | 3:33 | 2022-06-24 | 2022-08-06 |

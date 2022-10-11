@@ -1354,6 +1354,28 @@
     },
     {
       "album": {
+        "name": "El pavo real",
+        "url": "https://open.spotify.com/album/1U651FMxGylI8PoQysziz6"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208005,
+      "name": "El pavo real",
+      "url": "https://open.spotify.com/track/02z57uGfEd82kcbpssAmcq"
+    },
+    {
+      "album": {
         "name": "De Aqu\u00ed Hasta Aqu\u00ed",
         "url": "https://open.spotify.com/album/2kle3HDOBmnyx5BrR9B8EW"
       },
@@ -3671,7 +3693,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 311141,
       "name": "Soma",
       "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
@@ -3953,7 +3975,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 213146,
       "name": "Tamarugal (Para de Mirarme)",
       "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
@@ -4429,6 +4451,28 @@
       "duration_ms": 383360,
       "name": "Yo Me Voy - Cerrero Remix",
       "url": "https://open.spotify.com/track/51dzuq7fCzEYJJn6WSw8pP"
+    },
+    {
+      "album": {
+        "name": "Yo-Po-No-Po Prieto Riddiman Remixes",
+        "url": "https://open.spotify.com/album/0ahus37xHDFIzFfq7sdzU4"
+      },
+      "artists": [
+        {
+          "name": "Semblanzas del Rio Guapi",
+          "url": "https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H"
+        },
+        {
+          "name": "Prieto Riddiman",
+          "url": "https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214738,
+      "name": "Yo-Po-No-Po Prieto Riddiman Remixes - Yo-Po-No-Po, Versi\u00f3n 1 - Prieto Riddiman Remix",
+      "url": "https://open.spotify.com/track/7xgBaxGvCFnyJqLhMrMAIJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > everyone is dumb dumb dumb  Cover: mazie
 
-1,319 songs - 2 day 19 hr 52 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,320 songs - 2 day 19 hr 54 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [everybody's fine but me](https://open.spotify.com/track/0r9vj3shKehGiJqlmkZSnR) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [everybody's fine but me](https://open.spotify.com/album/49ARfwZ0TaxWu7pzxTfSi1) | 2:26 | 2021-10-14 | 2021-10-16 |
 | [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 | 2021-08-06 | 2022-03-26 |
 | [Ew](https://open.spotify.com/track/5uucqkAbfZCxwdTWolFyju) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Ew](https://open.spotify.com/album/3Q4uaS3TVjQg4dsX0fn8F6) | 2:35 | 2022-02-04 | 2022-06-24 |
+| [ExBox](https://open.spotify.com/track/2fwC1bsAd5GrTwvGBRep0p) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/4fS2Qd6JEg1q6LCWPOEh9G) | 2:09 | 2022-10-07 |  |
 | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/track/4QnJgCPkDgqSyOdjlI83ys) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/album/0SUEY2iGWTpFiqLBr1GXHr) | 3:07 | 2019-06-27 | 2020-04-18 |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 |  |
 | [eyeroll](https://open.spotify.com/track/4PmIgAWDClzcK8e3wVPUaz) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [eyeroll](https://open.spotify.com/album/42ZCXqkaOueRzUDba5L0Tt) | 2:49 | 2019-08-17 | 2021-01-30 |
@@ -1080,7 +1081,7 @@
 | [Stay Forever \(feat\. STRFKR\)](https://open.spotify.com/track/5gTyK0ylsqQbhFugP7eYmz) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Stay Forever \(feat\. STRFKR\)](https://open.spotify.com/album/1x535ZgCy1Zf2VZoOQ66Jm) | 2:33 | 2020-01-11 | 2021-10-16 |
 | [Stay up with Me](https://open.spotify.com/track/22lTLpwZQBh1uooSDTnobD) | [Liyv](https://open.spotify.com/artist/7BTM2IUcZZsdCANUS3wFKy) | [Stay up with Me](https://open.spotify.com/album/3fRZMgL8KM3TqLoirbsYc1) | 2:53 | 2019-06-15 | 2021-02-12 |
 | [Step Mom](https://open.spotify.com/track/33yL9mCGvvVCjLKCZsnm1w) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Step Mom](https://open.spotify.com/album/6KTdmgQ3PwBVgZfc6j2R8I) | 3:34 | 2022-07-01 | 2022-08-13 |
-| [STFU](https://open.spotify.com/track/7KDs1jdpDww170OCpPsjV4) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [STFU](https://open.spotify.com/album/13xF7dlZO7Y8wUM1g4Hvrl) | 2:21 | 2022-07-22 |  |
+| [STFU](https://open.spotify.com/track/7KDs1jdpDww170OCpPsjV4) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [STFU](https://open.spotify.com/album/13xF7dlZO7Y8wUM1g4Hvrl) | 2:21 | 2022-07-22 | 2022-10-11 |
 | [STFU](https://open.spotify.com/track/74I5Zaz3B2DQp5lAgvOA3V) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [STFU](https://open.spotify.com/album/5F6OtMKcioMKLCaUSgQchc) | 3:29 | 2019-06-15 | 2020-06-07 |
 | [stimulation](https://open.spotify.com/track/4bEUXJIYBbTsQRfkF5gIfq) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [stimulation](https://open.spotify.com/album/5Dkr7XMmdh8zHGPfcHsbkS) | 2:40 | 2021-04-19 | 2021-08-15 |
 | [Stoned Nights](https://open.spotify.com/track/71rTViUIFq4eDyd8bWtjtJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Stoned Nights](https://open.spotify.com/album/63dmsjTvTlAgBRjXlDznF2) | 3:25 | 2021-12-03 | 2022-01-08 |

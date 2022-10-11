@@ -4,13 +4,14 @@
 
 > 🩹 \(in cover, i lost kids\)
 
-138 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+140 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(SEMBRA BELLO\)](https://open.spotify.com/track/4GrmcHXgRRnXqAaO4XJgqT) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI](https://open.spotify.com/album/707aADY01oMofgUyyX92mC) | 1:56 | 2022-04-21 | 2022-07-29 |
 | [\(SEMBRA BELLO\)](https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 1:56 | 2022-07-28 |  |
 | [14](https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ) | [Jayred](https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [14](https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk) | 1:50 | 2022-04-21 |  |
+| [Acqua salata](https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Acqua salata](https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv) | 3:49 | 2022-10-10 |  |
 | [Amianto](https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Spazio](https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p) | 2:59 | 2022-09-08 |  |
 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 | 2022-04-21 |  |
 | [APNEA \- MTV Unplugged](https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER \(MTV Unplugged\)](https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8) | 3:25 | 2022-07-28 |  |
@@ -109,6 +110,7 @@
 | [Polmoni](https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Polmoni](https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV) | 2:03 | 2022-04-21 |  |
 | [poster](https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [poster](https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge) | 2:49 | 2022-04-21 |  |
 | [Punti di vista](https://open.spotify.com/track/5zi9PcOcGBQNbYGOquC4Lt) | [Mael+](https://open.spotify.com/artist/5WI9ughINoRS2iom1SU79n), [Puhf](https://open.spotify.com/artist/6Wg5mZaSksZatBkTApBsPj) | [Dove la luce non arriva](https://open.spotify.com/album/2nc0nFlQBDrqriStBtOEZs) | 2:43 | 2022-06-09 |  |
+| [Quando tu mi baci](https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Powv\_fsk](https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf) | [Quando tu mi baci](https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd) | 3:18 | 2022-10-10 |  |
 | [Ragazzi tristi](https://open.spotify.com/track/1yL6WPvqXdgDbnHGsTtQ1z) | [Neediz](https://open.spotify.com/artist/0cKIYS5SG83ka3FZTLlj3m), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI), [VDN](https://open.spotify.com/artist/4aINMnSbwDnkR44YPqGqHx) | [Ragazzi tristi](https://open.spotify.com/album/77VRWDD2qWWhXDHFHUzVcm) | 3:16 | 2022-06-23 |  |
 | [Resta Vivo](https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Resta Vivo](https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp) | 2:56 | 2022-05-26 |  |
 | [Rottami](https://open.spotify.com/track/3Qwqat3qIk2JL8IcXVdnjl) | [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax), [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Rottami](https://open.spotify.com/album/6vrZwg5BfH2T7JbY1UDiqq) | 3:19 | 2022-07-14 |  |

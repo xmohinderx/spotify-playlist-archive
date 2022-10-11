@@ -7920,6 +7920,24 @@
     },
     {
       "album": {
+        "name": "La Maldita Bulla",
+        "url": "https://open.spotify.com/album/24b3NeVqgYWZtwM9LZ7o4L"
+      },
+      "artists": [
+        {
+          "name": "Many Malon",
+          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83887,
+      "name": "La Maldita Bulla",
+      "url": "https://open.spotify.com/track/6Z0USdAMfe3eDQRaye0yF1"
+    },
+    {
+      "album": {
         "name": "Best Of & Variations",
         "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
       },
@@ -15795,7 +15813,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"

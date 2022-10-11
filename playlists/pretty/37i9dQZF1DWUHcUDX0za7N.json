@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=EllDDQAVS4yqcJZIYteRcg\" > Blaqbonez </a> ",
-  "num_followers": 10914,
+  "num_followers": 10971,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0NDY3NCwwMDAwMDAwMDk2YjE3ZWY3NTBiZTA4ODk3ZDkxNzYyMDJkNGNmZjY2",
+  "snapshot_id": "MTY2NTE0NDY3NCwwMDAwMDAwMGExOTUyODRiYzg2MTkyNTFlMTQ0MjkyNGMyNGFlMjgz",
   "tracks": [
     {
       "added_at": "2022-10-07 00:35:02",
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
     },
     {
-      "added_at": "2022-10-10 01:24:02",
+      "added_at": "2022-10-11 01:18:25",
       "album": {
         "name": "Outside II",
         "url": "https://open.spotify.com/album/1yE4tyZV5U53xd8eSRMbA1"
@@ -439,26 +439,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 214615,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Shakara",
-        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Shakara",
-      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Green With Envy",
         "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 216013,
       "name": "Who's True",
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Shakara",
+        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Shakara",
+      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/77d2unihXnydqo5vWeFGEo"
     },
     {
+      "added_at": "2022-07-21 23:00:00",
+      "album": {
+        "name": "Holy Gee",
+        "url": "https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "duration_ms": 164808,
+      "name": "Holy Gee",
+      "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
+    },
+    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "The Lost Boy",
@@ -743,22 +759,6 @@
       "duration_ms": 208572,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA"
-    },
-    {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "Holy Gee",
-        "url": "https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 164808,
-      "name": "Holy Gee",
-      "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -799,6 +799,34 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Bando Diaries",
         "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
@@ -831,34 +859,6 @@
       "duration_ms": 138857,
       "name": "Go Home",
       "url": "https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -969,6 +969,38 @@
       "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "Elephant Man",
+        "url": "https://open.spotify.com/album/2CG9eOhIFEh9SDraWK8Olm"
+      },
+      "artists": [
+        {
+          "name": "Cobhams Asuquo",
+          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Elephant Man",
+      "url": "https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Alaye Toh Se Gogo",
+        "url": "https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a"
+      },
+      "artists": [
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Alaye Toh Se Gogo",
+      "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
@@ -995,18 +1027,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Alaye Toh Se Gogo",
-        "url": "https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a"
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5"
       },
       "artists": [
         {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 149250,
-      "name": "Alaye Toh Se Gogo",
-      "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
+      "duration_ms": 135889,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1029,22 +1065,6 @@
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
     },
     {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "Elephant Man",
-        "url": "https://open.spotify.com/album/2CG9eOhIFEh9SDraWK8Olm"
-      },
-      "artists": [
-        {
-          "name": "Cobhams Asuquo",
-          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Elephant Man",
-      "url": "https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Suliya",
@@ -1059,26 +1079,6 @@
       "duration_ms": 131500,
       "name": "Suliya",
       "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Ice Cream",
-        "url": "https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 135889,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Symbiosis",
-        "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Nissi",
-          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
-        }
-      ],
-      "duration_ms": 249286,
-      "name": "Symbiosis",
-      "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/68p8Jpj5aTeZHeyEVpApJA"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 165000,
       "name": "Okwaraji",
       "url": "https://open.spotify.com/track/4ghRDR6c8VNISdVTCQ5FK4"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Symbiosis",
+        "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+        }
+      ],
+      "duration_ms": 249286,
+      "name": "Symbiosis",
+      "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO"
     },
     {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Guns&Roses (QuestionYaHeart)",
-        "url": "https://open.spotify.com/album/1Peac33r475KxGeggGxKvP"
-      },
-      "artists": [
-        {
-          "name": "Ay\u00fc\u00fc",
-          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Guns&Roses (QuestionYaHeart)",
-      "url": "https://open.spotify.com/track/0dbUId7P0gcHUvgroQm6Qj"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Body Language",
@@ -1283,6 +1267,22 @@
       "duration_ms": 151048,
       "name": "Rap Jesu",
       "url": "https://open.spotify.com/track/7j8WXEaW42vHouOocKCiF9"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Guns&Roses (QuestionYaHeart)",
+        "url": "https://open.spotify.com/album/1Peac33r475KxGeggGxKvP"
+      },
+      "artists": [
+        {
+          "name": "Ay\u00fc\u00fc",
+          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Guns&Roses (QuestionYaHeart)",
+      "url": "https://open.spotify.com/track/0dbUId7P0gcHUvgroQm6Qj"
     },
     {
       "added_at": "2022-06-09 23:00:00",

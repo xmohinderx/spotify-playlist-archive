@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-319 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+320 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Take Me Higher](https://open.spotify.com/track/3HiKUx9he5EtseHYyMv27L) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:43 | 2022-07-21 | 2022-07-23 |
 | [Take Me Higher](https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Take Me Higher](https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9) | 4:43 | 2022-04-14 |  |
 | [Talk \(with Royal & the Serpent\)](https://open.spotify.com/track/0DnA3UhB37Iaq1XwnZwbIZ) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [To Believe \- EP](https://open.spotify.com/album/54meck8D5fOrFRuPTGmXG9) | 3:12 | 2022-06-24 |  |
+| [TEAR ME UP](https://open.spotify.com/track/5Jsc4Z9MkLB6tfjpByhQzR) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [TEAR ME UP](https://open.spotify.com/album/5uhWQVC6tunHHBBrZD93Xa) | 2:57 | 2022-10-10 |  |
 | [Tears '06](https://open.spotify.com/track/363StpInH8eU79r1ZEmn2F) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Tears '06](https://open.spotify.com/album/3iT6LycWhaHIsb9dslPOtK) | 4:38 | 2022-02-28 | 2022-03-31 |
 | [tellmewhatuwant](https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [tellmewhatuwant](https://open.spotify.com/album/6VlPTrrwFR2Z6sEnT9YIMR) | 3:13 | 2022-01-21 | 2022-02-16 |
 | [The Drunk Song](https://open.spotify.com/track/3eq75k7Y2KnA1VmDXO5fDx) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Lain](https://open.spotify.com/artist/2V7qTNoIHlrmDGhjI005us) | [The Drunk Song](https://open.spotify.com/album/5N1I5GterExcrrM0sesPsR) | 3:18 | 2022-04-01 | 2022-06-25 |

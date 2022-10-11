@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-460 songs - 1 day 2 hr 56 min - [published](https://open.spotify.com/playlist/40ibOn4vxhSEyiHRK9rUTk)
+461 songs - 1 day 2 hr 59 min - [published](https://open.spotify.com/playlist/40ibOn4vxhSEyiHRK9rUTk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Hunters Lullaby 2020](https://open.spotify.com/track/1bBulMudM0DHxcYHnEXEiq) | [Øien](https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic) | [Hunters Lullaby 2020](https://open.spotify.com/album/0i5gJYigY7VPKGQ9nvxuyt) | 2:53 | 2021-12-16 | 2022-07-29 |
 | [Hurricane](https://open.spotify.com/track/6eyuU00bw19YhHGhvbLKcr) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [We Rule The Night](https://open.spotify.com/album/0PWPBGsa0h5E6YVVGLRV38) | 4:55 | 2021-12-16 | 2022-07-29 |
 | [Hurricane \- Radio Edit](https://open.spotify.com/track/3kLqJ09xramYW9I9gAXTWl) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [We Rule The Night](https://open.spotify.com/album/7dTraFnFY6BGZFZtjMwBxs) | 4:55 | 2022-07-22 |  |
+| [I Like To Party](https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [I Like To Party](https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ) | 2:39 | 2022-10-11 |  |
 | [I Need You](https://open.spotify.com/track/0t9ofbK0n9oXlcikIzKXUs) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [I Need You](https://open.spotify.com/album/5mBxNOjCabew97eWYtNq71) | 3:22 | 2022-05-23 | 2022-05-30 |
 | [I'm Alive](https://open.spotify.com/track/36KGP1dk6Pq4Vaalswving) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF) | [I'm Alive \(Rebirth Festival Anthem 2019\)](https://open.spotify.com/album/5BG29J3q8EHnb1py1nRMEH) | 3:44 | 2021-12-16 | 2022-07-29 |
 | [I'm Alive \- Rebirth Anthem 2019](https://open.spotify.com/track/749ZUdCd2sGwGZfAPnZJos) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF) | [I'm Alive](https://open.spotify.com/album/4aAyxSa4XSM2Bi3qjr99LU) | 3:44 | 2022-07-22 |  |
@@ -216,7 +217,7 @@
 | [Irrenhaus](https://open.spotify.com/track/4SR46lHTitWMTzRTwsFIa6) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Irrenhaus](https://open.spotify.com/album/0oMSnIuTuOV4A4V6DynPif) | 3:23 | 2021-12-16 |  |
 | [Irreplaceable](https://open.spotify.com/track/6QtWNJCHebWxkFlRxlhDAu) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Artificial Intoxication](https://open.spotify.com/album/1UzOa746jQMejJtvImrB5O) | 2:51 | 2022-05-23 | 2022-05-30 |
 | [It's On](https://open.spotify.com/track/3Y3bmSM9VKxrdtc50c8LhQ) | [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [It's On](https://open.spotify.com/album/4wrmkrh7lo1GiXYoSDLDLO) | 3:29 | 2022-03-24 | 2022-04-21 |
-| [Jaipur \- Radio Edit](https://open.spotify.com/track/0toVxnrTHTMb0RbILsF4a0) | [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Jaipur](https://open.spotify.com/album/1pm3Vl3O9ztw1XjvnSXMT3) | 2:50 | 2021-12-16 |  |
+| [Jaipur \- Radio Edit](https://open.spotify.com/track/0toVxnrTHTMb0RbILsF4a0) | [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Jaipur](https://open.spotify.com/album/1pm3Vl3O9ztw1XjvnSXMT3) | 2:50 | 2021-12-16 | 2022-10-11 |
 | [Journey Of The Mind](https://open.spotify.com/track/4AkU0GgysCbG75vNq09abL) | [Project One](https://open.spotify.com/artist/7fMJN4fdEwmFWd8uz5pnKx), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Journey Of The Mind](https://open.spotify.com/album/1PmHVrljyA6IkTQlccT49I) | 4:38 | 2022-03-24 | 2022-04-21 |
 | [Jupiter \- Brennan Heart Remix](https://open.spotify.com/track/6JRzMGFKTgf5c76qV6uT9F) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Jupiter \(Brennan Heart Remix\)](https://open.spotify.com/album/5at5TJmqZH2NnDhQiv9fVM) | 3:03 | 2021-12-16 | 2022-07-29 |
 | [Jupiter \- Brennan Heart Remix](https://open.spotify.com/track/6m04xxSJv2P5VfNbuhsdEy) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Jupiter \(Brennan Heart Remix\)](https://open.spotify.com/album/0wf6AdSfavF10y3TgZAQF9) | 3:03 | 2022-07-22 |  |

@@ -4,7 +4,7 @@
 
 > Raggen måste gå!!
 
-398 songs - 18 hr 3 min - [published](https://open.spotify.com/playlist/1lQZeKZO86vF18J2l093qd)
+399 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/1lQZeKZO86vF18J2l093qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Paradise \- Topic Remix](https://open.spotify.com/track/4PZW5GQCtmdHAocDXLdU4j) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Paradise \(Topic Remix\)](https://open.spotify.com/album/7AzUBs2mUyC8CX9yPJkr2F) | 2:53 | 2021-12-16 | 2022-08-23 |
 | [Party To Survive](https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI) | [TADROS](https://open.spotify.com/artist/1hMVsPngYpyuvTdACJLdFN) | [Party To Survive](https://open.spotify.com/album/0JEYg8YC63DbGeK7KtUEsH) | 2:24 | 2022-06-02 | 2022-07-29 |
 | [Party Trick \(Burp Song\)](https://open.spotify.com/track/1pNEqaiH3SESSKbkmtpytA) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Party Trick \(Burp Song\)](https://open.spotify.com/album/4lQXhmqL41qE9YYFJwmpTT) | 2:21 | 2022-09-08 |  |
+| [Pass me the rum](https://open.spotify.com/track/1bFBNbZHpR4CRjUJuRKaq3) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z) | [Pass me the rum](https://open.spotify.com/album/1QKsB8aNfNIYbRtSjoehmY) | 2:32 | 2022-10-10 |  |
 | [Pasta & Vin](https://open.spotify.com/track/6M2cedsUtEFPAY2vIdy6H0) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Stånkarna](https://open.spotify.com/artist/5eIcN17Kbrk8PGWvuPd21J) | [Pasta & Vin](https://open.spotify.com/album/4weklnGZlBMCg9wlyiZgM0) | 2:22 | 2021-12-16 | 2022-04-22 |
 | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Kayla Rose](https://open.spotify.com/artist/36xsrPKnUIN1ZCSlO5Xnqk) | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/album/53ai1YrajGquql1qDvB6d7) | 3:40 | 2021-12-16 | 2022-07-27 |
 | [PCP](https://open.spotify.com/track/72H8hxvjqEzfsb3uB4gzvo) | [Essa](https://open.spotify.com/artist/7hBhO7vg4hjrYu9l6LccsZ) | [PCP](https://open.spotify.com/album/0w6mlrPJXCHdwSrOHvRhTj) | 3:39 | 2021-12-16 | 2022-04-22 |
@@ -298,7 +299,7 @@
 | [Sideways](https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4) | [Sideways](https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p) | 4:11 | 2022-03-24 | 2022-05-26 |
 | [Sistematic](https://open.spotify.com/track/0DWzI4UbUIOBXuTpKmvkWM) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [JAMASTER A](https://open.spotify.com/artist/2nl2YNznEcnLUdT7MeZxEI), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Sistematic](https://open.spotify.com/album/1jY9iaiVxDFVmm22QVKyHD) | 1:51 | 2022-01-06 | 2022-07-13 |
 | [SKOGSREJV](https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [SKOGSREJV](https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi) | 3:00 | 2022-05-26 | 2022-08-26 |
-| [SKÅL](https://open.spotify.com/track/0H7EEBVrmoupdLzj22cXDp) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx) | [SKÅL](https://open.spotify.com/album/1I0pYY5YxW5EYSBv4UYeD2) | 2:29 | 2022-06-02 |  |
+| [SKÅL](https://open.spotify.com/track/0H7EEBVrmoupdLzj22cXDp) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx) | [SKÅL](https://open.spotify.com/album/1I0pYY5YxW5EYSBv4UYeD2) | 2:29 | 2022-06-02 | 2022-10-11 |
 | [Skål då!](https://open.spotify.com/track/0Q3MqvGBtkI8YaDb7GzlWS) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [Skål då!](https://open.spotify.com/album/6lZERp4Vt0fs99if7Jx6zS) | 2:06 | 2021-12-16 | 2022-04-22 |
 | [SNABB](https://open.spotify.com/track/23Aq54DbkbK2Bo1PicKxF2) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [Julia Kedhammar](https://open.spotify.com/artist/24JKr8xzxciKUmpx8fu8AY) | [SNABB](https://open.spotify.com/album/3Of7CxWmAnTswawayj6X6I) | 2:24 | 2022-08-25 |  |
 | [SNE](https://open.spotify.com/track/7pgbgIwcoKAzp5n7NXxAUw) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [SNE](https://open.spotify.com/album/4btDGRubgdOiHAjjvDl4PA) | 2:19 | 2022-01-06 | 2022-07-29 |

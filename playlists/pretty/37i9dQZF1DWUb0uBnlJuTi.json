@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 213876,
+  "num_followers": 214111,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDc4NDJhYTMwODNjZGVkZWZmYWVhZTEyOGU2OWU4N2I4",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGViNWFhNmE4OTY4ZmQ4MTMzOWY3ZTJkYTcwZGJiMjUy",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Wind Parade",
-        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "Wind Parade",
-      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "What Happened to Television?",
         "url": "https://open.spotify.com/album/2guvIXBJ1DeKg1c85D8j6C"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Blacks And Blues",
-        "url": "https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv"
+        "name": "Wind Parade",
+        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
       },
       "artists": [
         {
-          "name": "Bobbi Humphrey",
-          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 470640,
-      "name": "Harlem River Drive",
-      "url": "https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh"
+      "duration_ms": 288640,
+      "name": "Wind Parade",
+      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -399,6 +383,22 @@
       "duration_ms": 320426,
       "name": "Funkier Than a Mosquito's Tweeter",
       "url": "https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Blacks And Blues",
+        "url": "https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Humphrey",
+          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
+        }
+      ],
+      "duration_ms": 470640,
+      "name": "Harlem River Drive",
+      "url": "https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/63dv2zKXPamiHHOKQBOzbU"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Satin Doll",
-        "url": "https://open.spotify.com/album/7Fil4ZuDB04CjP4GDT1Lxs"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Humphrey",
-          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
-        }
-      ],
-      "duration_ms": 413893,
-      "name": "New York Times - Remastered 2002",
-      "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
-    },
-    {
       "added_at": "2021-02-13 05:01:00",
       "album": {
         "name": "Always Let Me Go",
@@ -531,6 +515,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "Satin Doll",
+        "url": "https://open.spotify.com/album/7Fil4ZuDB04CjP4GDT1Lxs"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Humphrey",
+          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
+        }
+      ],
+      "duration_ms": 413893,
+      "name": "New York Times - Remastered 2002",
+      "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "Harlem Bush Music - Uhuru",
         "url": "https://open.spotify.com/album/031Ay5otjVJvC6OLAkT23D"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 456114,
       "name": "Celestial Blues",
       "url": "https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg"
-    },
-    {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
-        "name": "Jimmy's Groove",
-        "url": "https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 377171,
-      "name": "Jimmy's Groove",
-      "url": "https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -607,6 +591,22 @@
       "duration_ms": 219173,
       "name": "Mr. Funky samba",
       "url": "https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Jimmy's Groove",
+        "url": "https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 377171,
+      "name": "Jimmy's Groove",
+      "url": "https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1077,38 +1077,6 @@
       "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "May The Funk Be With You",
-        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 267213,
-      "name": "May The Funk Be With You",
-      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Doin' Something",
-        "url": "https://open.spotify.com/album/2WHbq7Vj0lFt2RnAwfcuNP"
-      },
-      "artists": [
-        {
-          "name": "Soulive",
-          "url": "https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO"
-        }
-      ],
-      "duration_ms": 316493,
-      "name": "One In Seven",
-      "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Be on the Lookout",
@@ -1125,6 +1093,22 @@
       "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
     },
     {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "May The Funk Be With You",
+        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 267213,
+      "name": "May The Funk Be With You",
+      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Pigna",
@@ -1139,6 +1123,22 @@
       "duration_ms": 277867,
       "name": "Midnight Getaway",
       "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Doin' Something",
+        "url": "https://open.spotify.com/album/2WHbq7Vj0lFt2RnAwfcuNP"
+      },
+      "artists": [
+        {
+          "name": "Soulive",
+          "url": "https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO"
+        }
+      ],
+      "duration_ms": 316493,
+      "name": "One In Seven",
+      "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1189,26 +1189,6 @@
       "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Misfit",
-        "url": "https://open.spotify.com/album/1SnBz7YabIvC7Ho1rmkdQg"
-      },
-      "artists": [
-        {
-          "name": "Joe Jam Sumrell",
-          "url": "https://open.spotify.com/artist/3d6KL8ojlbObgyImmZTpEm"
-        },
-        {
-          "name": "Day 7",
-          "url": "https://open.spotify.com/artist/5bSQh428JevlpqlqHInzy6"
-        }
-      ],
-      "duration_ms": 221790,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/4prllBcCDVY0CUDnbvnRZ3"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Shout It Out",
@@ -1239,6 +1219,26 @@
       "duration_ms": 193598,
       "name": "Presente Grego",
       "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Misfit",
+        "url": "https://open.spotify.com/album/1SnBz7YabIvC7Ho1rmkdQg"
+      },
+      "artists": [
+        {
+          "name": "Joe Jam Sumrell",
+          "url": "https://open.spotify.com/artist/3d6KL8ojlbObgyImmZTpEm"
+        },
+        {
+          "name": "Day 7",
+          "url": "https://open.spotify.com/artist/5bSQh428JevlpqlqHInzy6"
+        }
+      ],
+      "duration_ms": 221790,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/4prllBcCDVY0CUDnbvnRZ3"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -1273,38 +1273,6 @@
       "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Toots (Radio Edit)",
-        "url": "https://open.spotify.com/album/2cLQ4mLJR8hqkRD2IYXJIc"
-      },
-      "artists": [
-        {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        },
-        {
-          "name": "Michael Miller",
-          "url": "https://open.spotify.com/artist/2SSxS71ODYETIEEsEYfVwL"
-        },
-        {
-          "name": "John Polace",
-          "url": "https://open.spotify.com/artist/4r6OedFsNy518CrCkPIoHl"
-        },
-        {
-          "name": "Thin Thicket",
-          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        },
-        {
-          "name": "Chris Walker",
-          "url": "https://open.spotify.com/artist/7wWrgVcKp70TmEyZVy7cyw"
-        }
-      ],
-      "duration_ms": 352197,
-      "name": "Toots - Radio Edit",
-      "url": "https://open.spotify.com/track/7GPHQaLK0TrkMKIopusoK4"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Pressure Sensitive",
@@ -1335,6 +1303,38 @@
       "duration_ms": 320773,
       "name": "Mountain Caravan",
       "url": "https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Toots (Radio Edit)",
+        "url": "https://open.spotify.com/album/2cLQ4mLJR8hqkRD2IYXJIc"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Michael Miller",
+          "url": "https://open.spotify.com/artist/2SSxS71ODYETIEEsEYfVwL"
+        },
+        {
+          "name": "John Polace",
+          "url": "https://open.spotify.com/artist/4r6OedFsNy518CrCkPIoHl"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Chris Walker",
+          "url": "https://open.spotify.com/artist/7wWrgVcKp70TmEyZVy7cyw"
+        }
+      ],
+      "duration_ms": 352197,
+      "name": "Toots - Radio Edit",
+      "url": "https://open.spotify.com/track/7GPHQaLK0TrkMKIopusoK4"
     },
     {
       "added_at": "2021-05-07 04:09:00",

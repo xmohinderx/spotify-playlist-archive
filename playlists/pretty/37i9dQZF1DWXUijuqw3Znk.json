@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2224,
+  "num_followers": 2231,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMDllNTMzZGIzZDQ5ODBmMGEyNGIwYWMxZWIyMDZiN2Iz",
+  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMGQ0NzljOTAzNWU4MDRlNTIzMGFjMGIwYTViMzZlYWFk",
   "tracks": [
     {
       "added_at": "2022-10-07 04:35:55",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "DPR ARCHIVES",
-        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "thirst",
-      "url": "https://open.spotify.com/track/7kyupZQftQDUUxlATGGmOe"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "TELEVISION",
         "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 192827,
       "name": "Artist",
       "url": "https://open.spotify.com/track/12GJcC8SdDYpkbHvFrgp1w"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "DPR ARCHIVES",
+        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "thirst",
+      "url": "https://open.spotify.com/track/7kyupZQftQDUUxlATGGmOe"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -443,6 +443,30 @@
       "duration_ms": 200142,
       "name": "Siren",
       "url": "https://open.spotify.com/track/4eFXETUyAguBzHZ1KkOAAZ"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Rollin' (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -507,6 +531,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "DPR ARCHIVES",
+        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 103119,
+      "name": "just dream it",
+      "url": "https://open.spotify.com/track/0Iz4In7qPeiZXLvt6YhOwP"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
@@ -535,30 +575,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        },
-        {
-          "name": "Mirani",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Rollin' (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "RUN IT",
         "url": "https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 191187,
       "name": "RUN IT",
       "url": "https://open.spotify.com/track/3sznlAy0sce8la6GVzhnKU"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "DPR ARCHIVES",
-        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 103119,
-      "name": "just dream it",
-      "url": "https://open.spotify.com/track/0Iz4In7qPeiZXLvt6YhOwP"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -667,6 +667,30 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "School Rapper 2 Final",
+        "url": "https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE"
+      },
+      "artists": [
+        {
+          "name": "Rohann",
+          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        },
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 279884,
+      "name": "Lee Rohan (Prod. by Padi)",
+      "url": "https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/4WkcSqzSz1q7oNpZEBNZFc"
       },
@@ -691,30 +715,6 @@
       "duration_ms": 221142,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/69F89vyxsDnnYNJ9HfwoKr"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "School Rapper 2 Final",
-        "url": "https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE"
-      },
-      "artists": [
-        {
-          "name": "Rohann",
-          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
-        },
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 279884,
-      "name": "Lee Rohan (Prod. by Padi)",
-      "url": "https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 224856,
+      "name": "Flow Away",
+      "url": "https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "ENGINE",
         "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 220717,
       "name": "ENGINE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 224856,
-      "name": "Flow Away",
-      "url": "https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Ghetto Kids",
-        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Lighter in my blow fist",
-      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -891,30 +875,6 @@
       "duration_ms": 225506,
       "name": "The Beauty of Void (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/65iHekI2A2NYREOyfmo97U"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 362314,
-      "name": "WORLDWIDE",
-      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -987,6 +947,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Ghetto Kids",
+        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Lighter in my blow fist",
+      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 208771,
       "name": "Predator",
       "url": "https://open.spotify.com/track/0U90SCa9RwlfQOKAwRdawq"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 362314,
+      "name": "WORLDWIDE",
+      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "20/22",
-        "url": "https://open.spotify.com/album/4fK0dbAHFf3iSaAZBSWYPB"
-      },
-      "artists": [
-        {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
-        }
-      ],
-      "duration_ms": 182578,
-      "name": "20/22",
-      "url": "https://open.spotify.com/track/1GHTF1xicBhrNo3RgKvoki"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 4",
         "url": "https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 231023,
       "name": "RUN DAMOIM",
       "url": "https://open.spotify.com/track/69tNPP4pKkRmXGqFAMxlyE"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "20/22",
+        "url": "https://open.spotify.com/album/4fK0dbAHFf3iSaAZBSWYPB"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "duration_ms": 182578,
+      "name": "20/22",
+      "url": "https://open.spotify.com/track/1GHTF1xicBhrNo3RgKvoki"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1431,26 +1431,6 @@
       "duration_ms": 218526,
       "name": "Writer's Block",
       "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 186644,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1543,6 +1523,26 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 186644,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "BLAZE",
         "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
       },
@@ -1631,34 +1631,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
-        "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
-      },
-      "artists": [
-        {
-          "name": "BOYCOLD",
-          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
-        },
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 206783,
-      "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
-      "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "RESPECT",
         "url": "https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT"
       },
@@ -1699,6 +1671,34 @@
       "duration_ms": 256071,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/4nohFGugGn3NLIomiG9r4U"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
+        "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
+      },
+      "artists": [
+        {
+          "name": "BOYCOLD",
+          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 206783,
+      "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
+      "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1831,6 +1831,26 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG"
+      },
+      "artists": [
+        {
+          "name": "A-chess",
+          "url": "https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR"
+        },
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Going Home (feat. Koonta)",
+      "url": "https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Yessir!",
         "url": "https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV"
       },
@@ -1855,26 +1875,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Going Home",
-        "url": "https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG"
-      },
-      "artists": [
-        {
-          "name": "A-chess",
-          "url": "https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR"
-        },
-        {
-          "name": "KOONTA",
-          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Going Home (feat. Koonta)",
-      "url": "https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1895,6 +1895,26 @@
       "duration_ms": 189834,
       "name": "Double Up (Feat. skinny brown, CK)",
       "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "changes",
+        "url": "https://open.spotify.com/album/3K8JviLmeuvMixS8N9oWbn"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "duration_ms": 249875,
+      "name": "changes (feat. Loopy)",
+      "url": "https://open.spotify.com/track/6Mc2Kn5zFjmAHDN9vIzywI"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1935,26 +1955,6 @@
       "duration_ms": 237986,
       "name": "Mask On (Feat. Paloalto & Coogie) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/0jbjJFQsatcRCswxTl9X7J"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "changes",
-        "url": "https://open.spotify.com/album/3K8JviLmeuvMixS8N9oWbn"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
-        },
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        }
-      ],
-      "duration_ms": 249875,
-      "name": "changes (feat. Loopy)",
-      "url": "https://open.spotify.com/track/6Mc2Kn5zFjmAHDN9vIzywI"
     },
     {
       "added_at": "2022-10-07 04:35:55",

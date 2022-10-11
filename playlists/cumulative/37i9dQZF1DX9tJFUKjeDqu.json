@@ -196,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Blue Nights",
+        "url": "https://open.spotify.com/album/0vhl5DqH30xs6lj7V1QzNO"
+      },
+      "artists": [
+        {
+          "name": "Jonnie Snoilsky",
+          "url": "https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158568,
+      "name": "Blue Nights",
+      "url": "https://open.spotify.com/track/4nQkcnKRluoyu2UfanfqWX"
+    },
+    {
+      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI"
       },

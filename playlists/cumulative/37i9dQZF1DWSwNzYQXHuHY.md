@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-157 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
+158 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 | 2022-05-11 |  |
 | [lovelylove \- 사랑에 빠진 것을 아무에게도 말하지 않는](https://open.spotify.com/track/4x9IutN92CBDbNM7xaTBF8) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Choi Su Bin](https://open.spotify.com/artist/1VID9LmA67Y0pD63zpR9Px) | [lovelylove \- 사랑에 빠진 것을 아무에게도 말하지 않는](https://open.spotify.com/album/5cbBd9MOAXVGUJrbGUVZEe) | 3:10 | 2022-05-11 | 2022-06-07 |
 | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/track/6lJUvqmdG1jt1y3nWT9Exh) | [Camtono](https://open.spotify.com/artist/6hZ5K83wnSmPDM4R3iGF9s), [MNZU](https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9) | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/album/5eRzpXBXvklSf1LucQJxdA) | 3:09 | 2022-07-08 | 2022-08-10 |
+| [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 | 2022-10-07 |  |
 | [Maudie](https://open.spotify.com/track/7qcdtKc7dflDG35ieESgo9) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 4:04 | 2022-05-11 | 2022-07-12 |
 | [Maybe](https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Maybe](https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs) | 3:41 | 2022-08-12 |  |
 | [Meet Me At Your Place \(Feat\. KANTO\)](https://open.spotify.com/track/0To6ccckBxRNuKkoG8xku1) | [1%](https://open.spotify.com/artist/4Eyqj9gm4OX7A6IltsD5W7), [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju) | [Meet Me At Your Place](https://open.spotify.com/album/0yrtUoCc020xe7Zy3Mu7vd) | 3:00 | 2022-06-09 | 2022-07-26 |
@@ -110,7 +111,7 @@
 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 | 2022-05-11 | 2022-08-15 |
 | [see you](https://open.spotify.com/track/5qwogqCsf0RDUVzywwlfzI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:15 | 2022-05-11 | 2022-07-26 |
 | [See You Again](https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:44 | 2022-05-11 |  |
-| [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 | 2022-05-11 |  |
+| [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 | 2022-05-11 | 2022-10-11 |
 | [Should not love you \(Part.2\)](https://open.spotify.com/track/49EViTtQ88ssFquryh5e9C) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Should not love you \(Part.2\)](https://open.spotify.com/album/7kvX7N3RNIJlBbuUvP92n2) | 2:42 | 2022-06-18 | 2022-07-29 |
 | [Shutter \(feat\. Kinn\)](https://open.spotify.com/track/1hisjif3DM0ITkDTdrRrao) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Kinn](https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo) | [Shutter](https://open.spotify.com/album/1WdDr0SPN5osJNzKJB6RKl) | 3:03 | 2022-06-09 | 2022-07-22 |
 | [So Sweet](https://open.spotify.com/track/0i2ph7eYTjreLPe3VAd6N4) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Forever yours](https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5) | 3:59 | 2022-05-11 | 2022-06-07 |

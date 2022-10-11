@@ -4,7 +4,7 @@
 
 > Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: Manuel Agnelli
 
-192 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+193 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [EKOMOSTRO](https://open.spotify.com/track/1gPkmYuKbTfw5VdPCTpcNB) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [EKOMOSTRO](https://open.spotify.com/album/0ElZoCtcEi1ff0iSFIhG1j) | 3:23 | 2022-09-01 |  |
 | [ELDORADO](https://open.spotify.com/track/5ED0vMBYJ4hQXxmyt3APxx) | [ULTIMA HAINE](https://open.spotify.com/artist/1MzzYW4rW9deiCRPS7Pjf9), [Pierpaolo Capovilla](https://open.spotify.com/artist/7fLhVDO3fSZI9M9HG803aq) | [ELDORADO](https://open.spotify.com/album/67fALE8nxySO3qF5B8MUh5) | 3:47 | 2022-06-23 | 2022-07-15 |
 | [Elena's Beauty Theme](https://open.spotify.com/track/2SOdY5uljAC0Nf0ij678ER) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Elena's Beauty Theme](https://open.spotify.com/album/12o45mm8xoSWby7NYpra6C) | 4:56 | 2022-09-22 | 2022-10-07 |
-| [Eroe](https://open.spotify.com/track/6q0e4HCA3LuPFkDhsOEmrI) | [Edoardo Elia](https://open.spotify.com/artist/2cFlxnBPQbRd31eOu6soe8) | [Eroe](https://open.spotify.com/album/144VL2vm7JEivoQ90Bafub) | 3:21 | 2022-09-22 |  |
+| [Eroe](https://open.spotify.com/track/6q0e4HCA3LuPFkDhsOEmrI) | [Edoardo Elia](https://open.spotify.com/artist/2cFlxnBPQbRd31eOu6soe8) | [Eroe](https://open.spotify.com/album/144VL2vm7JEivoQ90Bafub) | 3:21 | 2022-09-22 | 2022-10-11 |
 | [Estate di Merda](https://open.spotify.com/track/2tKDMOvBIIP47ngRpHQsDl) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [Estate di Merda](https://open.spotify.com/album/77Lhio4DcfwZ8PRhNzquc5) | 2:51 | 2022-06-02 | 2022-08-26 |
 | [EUFORIA](https://open.spotify.com/track/5ApsbsFX5SQhGF80DKSq9c) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [EUFORIA](https://open.spotify.com/album/6RtT9E1MvIfvR3d0hkkIqI) | 2:16 | 2022-07-14 | 2022-09-30 |
 | [Fading into Day](https://open.spotify.com/track/27IYZNTtmNT7aZExGrJCzv) | [An Early Bird](https://open.spotify.com/artist/3FVXLavQJNLUKjTyFWRpOv), [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [Fading into Day](https://open.spotify.com/album/0lcTfY7Bazk27HmeMTguXx) | 3:36 | 2022-07-14 | 2022-08-26 |
@@ -143,6 +143,7 @@
 | [PROVARCI](https://open.spotify.com/track/6A3cyQqgcK7etGZr3ytxWb) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [PROVARCI](https://open.spotify.com/album/4gc0RD4I7jZv4JTvfxzlq5) | 2:39 | 2022-05-09 | 2022-09-02 |
 | [Punk](https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Punk](https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc) | 2:58 | 2022-09-01 |  |
 | [Quattro Mani](https://open.spotify.com/track/3t7lGtFe1sWmlC9XbmZMtR) | [Bluagata](https://open.spotify.com/artist/7omRRCthvOtMCaRhEHx30S) | [Quattro Mani](https://open.spotify.com/album/31YHeb8EdstnKJ40HKYOAI) | 3:08 | 2022-05-09 | 2022-05-13 |
+| [Requiem for TP](https://open.spotify.com/track/2tKkwGSScN2lXKPt4WnZ8r) | [Marnero](https://open.spotify.com/artist/1x22C5vb3nBm1GAmQxwz8N) | [Requiem for TP](https://open.spotify.com/album/3G2XhOuo98pWcII855p9ub) | 4:11 | 2022-10-10 |  |
 | [Respiro](https://open.spotify.com/track/0bL0U4dxXlSNKgtJfVEgDL) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Respiro](https://open.spotify.com/album/1LykpuCRBeWXB9KnFYcYL8) | 3:33 | 2022-06-02 | 2022-09-30 |
 | [Resto solo io](https://open.spotify.com/track/0uLcIYwzGnHKxG395CCzu1) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY), [Omar Pedrini](https://open.spotify.com/artist/61qOS3wPz5dNeycrYEzfbb) | [Fulmini](https://open.spotify.com/album/0b7cQnE7oNuoB1NKWPNI0t) | 2:51 | 2022-09-15 | 2022-10-07 |
 | [Rincorretevi](https://open.spotify.com/track/5cZHjGtsw6vsu5DVOrDBRP) | [Androgy̆nus](https://open.spotify.com/artist/4vOuZX3Pw0gO295lAdpDZT) | [Rincorretevi](https://open.spotify.com/album/6mPLQCRlvvFyWFW8A3Rd8K) | 5:05 | 2022-05-19 | 2022-07-01 |

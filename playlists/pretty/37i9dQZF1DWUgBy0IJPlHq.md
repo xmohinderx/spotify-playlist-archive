@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Warren Zeiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,636 likes - 130 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,862 likes - 130 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

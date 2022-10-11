@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287533,
+      "name": "Battle Belongs",
+      "url": "https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT"
+    },
+    {
+      "album": {
         "name": "Bondade de Deus",
         "url": "https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx"
       },
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 590911,
       "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) - Ao Vivo",
       "url": "https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9"

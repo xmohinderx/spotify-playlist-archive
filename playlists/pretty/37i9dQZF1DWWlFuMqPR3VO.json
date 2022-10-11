@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 9328,
+  "num_followers": 9338,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAwMGU4MzBiZmQ4ZTJlNjk5ZDJiYTE3ZTc1MGQwN2I0MmQz",
+  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAwMGRiNDEwODQ5ZjkxZGNjNzdlZTFhOWRiZWNiN2U4YjJk",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -188,7 +188,7 @@
       "added_at": "2022-03-28 20:10:01",
       "album": {
         "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry"
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
       "artists": [
         {
@@ -196,9 +196,25 @@
           "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 143520,
-      "name": "Saint James Infirmary",
-      "url": "https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9"
+      "duration_ms": 193333,
+      "name": "I Got a Woman",
+      "url": "https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Creole Moon",
+        "url": "https://open.spotify.com/album/0Jzf95x1LjqhTda3HMH5ZU"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 514866,
+      "name": "Creole Moon",
+      "url": "https://open.spotify.com/track/7uf7sRGi0DkGgTOTSjrBUG"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -235,22 +251,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "New Orleans Blues",
         "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
       },
@@ -283,38 +283,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Creole Moon",
-        "url": "https://open.spotify.com/album/0Jzf95x1LjqhTda3HMH5ZU"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 514866,
-      "name": "Creole Moon",
-      "url": "https://open.spotify.com/track/7uf7sRGi0DkGgTOTSjrBUG"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "I Got a Woman",
-      "url": "https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "New Orleans Piano (Mono)",
         "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
       },
@@ -327,6 +295,38 @@
       "duration_ms": 158902,
       "name": "Tipitina - Mono",
       "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "Saint James Infirmary",
+      "url": "https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -359,22 +359,6 @@
       "duration_ms": 267466,
       "name": "Louella",
       "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Heart and Soul",
-        "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 235431,
-      "name": "Reconsider Me",
-      "url": "https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -431,22 +415,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Brown Skin Woman",
-      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Alligator",
         "url": "https://open.spotify.com/album/7bWzWGdmK5QepRg00IoKDV"
       },
@@ -479,18 +447,34 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Hooked On Your Love",
-        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
       "artists": [
         {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 277933,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
+      "duration_ms": 227960,
+      "name": "Brown Skin Woman",
+      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Heart and Soul",
+        "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 235431,
+      "name": "Reconsider Me",
+      "url": "https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -511,18 +495,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Zodico Blues & Boogie",
-        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
+        "name": "Hooked On Your Love",
+        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
       },
       "artists": [
         {
-          "name": "Clifton Chenier",
-          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Boppin' The Rock",
-      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
+      "duration_ms": 277933,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -543,6 +527,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Zodico Blues & Boogie",
+        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
+      },
+      "artists": [
+        {
+          "name": "Clifton Chenier",
+          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Boppin' The Rock",
+      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "I'm A Mojo Man: The Best Of The Excello Singles",
         "url": "https://open.spotify.com/album/6ubAM1dJPDqNTDjgIssTha"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 126266,
       "name": "Gonna Stick To You Baby",
       "url": "https://open.spotify.com/track/5rTs9t774oyGMOlEgAOgz6"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "By the Water",
+      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -587,22 +603,6 @@
       "duration_ms": 356773,
       "name": "Greasy Man",
       "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "By the Water",
-      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
     },
     {
       "added_at": "2022-03-28 20:10:01",

@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5?si=z9VxVVX5SYK2kCKNBl5HmQ">Quavo</a> and <a href="https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW?si=XMe1PjoUQp2ZuJv8a5Vo\_A">Offset</a>
+> Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5?si=z9VxVVX5SYK2kCKNBl5HmQ">Quavo</a> and <a href="https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J?si=yPfLjUUcRE2pogKiqfM\_cQ">Takeoff</a>
 
 79 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/6I6oFpcK7RBFahZIAhJPwX)
 

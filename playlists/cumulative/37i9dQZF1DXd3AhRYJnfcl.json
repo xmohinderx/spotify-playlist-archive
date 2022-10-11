@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062a\u064a \u0644\u0646 \u062a\u062a\u0648\u0642\u0641 \u0639\u0646 \u0627\u0644\u0627\u0633\u062a\u0645\u0627\u0639 \u0625\u0644\u064a\u0647\u0627 \ud83d\udd1d \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u0645\u064a\u0631 \u0639\u064a\u062f \u0648 \u0645\u0631\u0648\u0627\u0646 \u0628\u0627\u0628\u0644\u0648",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062a\u064a \u0644\u0646 \u062a\u062a\u0648\u0642\u0641 \u0639\u0646 \u0627\u0644\u0627\u0633\u062a\u0645\u0627\u0639 \u0625\u0644\u064a\u0647\u0627 \ud83d\udd1d \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u062d\u0645\u062f \u0628\u0647\u0627\u0621 \u0648 \u062d\u0633\u0646 \u0634\u0627\u0643\u0648\u0634",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "published_playlist_ids": [
     "1xdcB9YfQyjFUOOHCAvmJA"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 242735,
       "name": "Ba'ad Gheyabo",
       "url": "https://open.spotify.com/track/2pO1mQeV6Sd9Y20HYVJYYr"
@@ -327,6 +327,32 @@
       "duration_ms": 196206,
       "name": "Dawly",
       "url": "https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU"
+    },
+    {
+      "album": {
+        "name": "Di Halawa",
+        "url": "https://open.spotify.com/album/7hy7jpcDzPXmIde1fICTvT"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Bahaa",
+          "url": "https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx"
+        },
+        {
+          "name": "Hassan Shakosh",
+          "url": "https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt"
+        },
+        {
+          "name": "Sary Hany",
+          "url": "https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196952,
+      "name": "Di Halawa",
+      "url": "https://open.spotify.com/track/3BW4RcvJUYGtnPOzppeVW9"
     },
     {
       "album": {
@@ -827,7 +853,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 138857,
       "name": "Khamsa",
       "url": "https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR"
@@ -953,7 +979,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 126857,
       "name": "LOGAN",
       "url": "https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO"
@@ -1191,7 +1217,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 168465,
       "name": "Mesytara",
       "url": "https://open.spotify.com/track/7H2uwSkd2mhRKyTOPRDE2L"
@@ -1615,7 +1641,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 253908,
       "name": "Ya Salam - Remix",
       "url": "https://open.spotify.com/track/7kFcz3xHq7hsOrfQWkipvP"
@@ -1703,7 +1729,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 192000,
       "name": "\u0627\u0646\u062a\u064a \u0642\u0644\u0628\u064a",
       "url": "https://open.spotify.com/track/1z4wa1hxM6Ja7Cpq5cljsb"
@@ -1925,7 +1951,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 214674,
       "name": "\u0636\u064a\u0639\u0646\u0627",
       "url": "https://open.spotify.com/track/5yTfxpokxXoYxaeqHNPnUE"

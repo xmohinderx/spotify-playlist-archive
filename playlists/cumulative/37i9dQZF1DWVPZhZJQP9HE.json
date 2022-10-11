@@ -694,6 +694,24 @@
     },
     {
       "album": {
+        "name": "Edhuvum Kedaikalana? (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/15uNR5mPqm88Kj5Y614Oxc"
+      },
+      "artists": [
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Edhuvum Kedaikalana? - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/5Qbu0YMMuM7CfiAmPhhFlb"
+    },
+    {
+      "album": {
         "name": "Elley Loh",
         "url": "https://open.spotify.com/album/5pp4p2QpfEVkZajZZVMWdw"
       },
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 258870,
       "name": "Idhu Varai",
       "url": "https://open.spotify.com/track/5K3D32FfrqVGyry1y8vhiJ"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 268800,
       "name": "Kadhalkaari",
       "url": "https://open.spotify.com/track/1NxzU4MHV6PzdFWi3QA2hg"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 189000,
       "name": "kalla mouni.",
       "url": "https://open.spotify.com/track/2GKvmifoEde5qP39fPtRD5"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 244847,
       "name": "Maayam Seithaai Poovae - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/2QLaEmLzz4tfHtdxmMHbqX"
@@ -2865,7 +2883,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 188571,
       "name": "PAKKAMAAGA",
       "url": "https://open.spotify.com/track/27v9HwwfUPsTx0mcnrj8S4"
@@ -3007,7 +3025,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 269000,
       "name": "Perth - Tamil Cover",
       "url": "https://open.spotify.com/track/4ZQ0GVESzV875sbZljIsYK"
@@ -4133,7 +4151,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 161400,
       "name": "Vaanavil Pole (From \"Karthik & Kika\")",
       "url": "https://open.spotify.com/track/7o67V6N8WkCytc1KoUisMx"
@@ -4465,7 +4483,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 194673,
       "name": "Yaavum Dooram",
       "url": "https://open.spotify.com/track/2lJgbECznMqSoeLr9u0Dfq"

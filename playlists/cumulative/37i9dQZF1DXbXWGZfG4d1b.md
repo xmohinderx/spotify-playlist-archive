@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-371 songs - 22 hr 2 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+372 songs - 22 hr 5 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Pie](https://open.spotify.com/track/5FIL4xyTK6b5ISNTOB2Fr4) | [Los Lugares](https://open.spotify.com/artist/0r2rovEzv0fYVqPsMQ1aPx) | [Los Días Que Pasan](https://open.spotify.com/album/6peHGFuyfqTB089wxysb9n) | 3:41 | 2022-07-01 | 2022-07-25 |
 | [A Veces](https://open.spotify.com/track/5vgP0xhU3BEiTTdD7hEHuQ) | [Canti](https://open.spotify.com/artist/5lCHYFMjHUnw7hXyt6wBdu) | [A Veces](https://open.spotify.com/album/2QgIK76T271y1woRtzl2KB) | 4:04 | 2022-07-01 | 2022-07-27 |
 | [Acantilados](https://open.spotify.com/track/3ye5LxSF9ckZBvuKgfOggW) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Acantilados](https://open.spotify.com/album/4oOSQbhvA8Rn6tMVkdWfAX) | 3:17 | 2022-06-03 | 2022-07-29 |
+| [ACAPULCO GOLD](https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [ACAPULCO GOLD](https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x) | 2:58 | 2022-10-07 |  |
 | [ACUARIOS](https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [ORDEN Y PROGRESO](https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx) | 3:05 | 2022-07-01 |  |
 | [Al Aterrizar](https://open.spotify.com/track/0oA1c3ufDFlHv0KeimrXky) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Muñecas](https://open.spotify.com/album/4Zj3UQH2PK5dmUe0MgTJlj) | 3:27 | 2022-07-15 | 2022-07-20 |
 | [Algo de Mí, Algo de Vos](https://open.spotify.com/track/5QLSpgVelBjHe6S7tMxzY7) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Algo de Mí, Algo de Vos](https://open.spotify.com/album/2OjRONkL7HZt4jhaXX0MDn) | 4:33 | 2022-06-03 | 2022-07-29 |
@@ -96,7 +97,7 @@
 | [Dos Extraños](https://open.spotify.com/track/17yXvD0RNnQ9HY9Fqi16KW) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Joaquin Vitola](https://open.spotify.com/artist/6AVOBzrRdAIHk63HPUsrWF) | [El Elogio de la Sombra](https://open.spotify.com/album/54nnTiHDWtEELhu5XnUW2A) | 2:52 | 2022-07-01 | 2022-07-22 |
 | [Dos Extraños](https://open.spotify.com/track/0gGG5ljkVeSfUe387KwpOn) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [El Elogio de la Sombra](https://open.spotify.com/album/13S2Q6iGiVAyCXP28hTTZ1) | 2:52 | 2022-07-15 |  |
 | [Egnaro](https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV) | [Los Valses](https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47) | [Egnaro](https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ) | 3:07 | 2022-07-15 | 2022-09-21 |
-| [El Acto](https://open.spotify.com/track/6WQrjWaTSok6YUxysG9WUQ) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [El Acto](https://open.spotify.com/album/4d1dGEGCKCc2WcREKHU5Wx) | 3:44 | 2022-07-15 |  |
+| [El Acto](https://open.spotify.com/track/6WQrjWaTSok6YUxysG9WUQ) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [El Acto](https://open.spotify.com/album/4d1dGEGCKCc2WcREKHU5Wx) | 3:44 | 2022-07-15 | 2022-10-11 |
 | [El Año Pasado](https://open.spotify.com/track/6ZI3xXHtM4zHcUjLw890uT) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [El Año Pasado](https://open.spotify.com/album/6Slw89lUaL9yjwRLahp8yF) | 3:30 | 2022-07-01 | 2022-07-28 |
 | [El Beso](https://open.spotify.com/track/638RCwvucTFj33BeWrHXVF) | [De Trueno](https://open.spotify.com/artist/6QPxvCeqJ4kJ12x5VAtscJ) | [El Beso](https://open.spotify.com/album/3GGkEkURaOYMY6njqqG5Rv) | 3:29 | 2022-07-01 | 2022-08-23 |
 | [El Bien Pensante Acuario](https://open.spotify.com/track/24KWT9AGa6MBTWr6snWUPm) | [Niño Elefante](https://open.spotify.com/artist/6acinmwqNCJbgvPoRpaO2n) | [Niño Elefante](https://open.spotify.com/album/0xi8vLCdwBS2pgtVj9tjmq) | 3:42 | 2022-07-01 | 2022-07-23 |

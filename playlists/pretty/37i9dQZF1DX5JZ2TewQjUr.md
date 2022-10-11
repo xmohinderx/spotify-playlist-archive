@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Michael C
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,430 likes - 116 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,439 likes - 116 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

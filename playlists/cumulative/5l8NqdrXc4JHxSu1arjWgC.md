@@ -4,7 +4,7 @@
 
 > 
 
-655 songs - 1 day 20 hr 0 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+656 songs - 1 day 20 hr 4 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Growin' Up](https://open.spotify.com/track/6XqFS3UxIiDh0s6aNvSpc7) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Delorean Highway](https://open.spotify.com/album/2bzz6q23UzitaG2UAdrrNN) | 4:07 | 2018-11-26 |  |
 | [Guess I'm Doing Fine](https://open.spotify.com/track/6Pxqd7tcXE0t4mfK7PGDra) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:49 | 2021-04-18 |  |
 | [Hand Mouth Dancer](https://open.spotify.com/track/5cvzazmKknWEYWG3taVUys) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:40 | 2019-03-23 |  |
+| [Hang a Cross on Me](https://open.spotify.com/track/3WbDe3G6zK798x8J0YUxOR) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s), [Cowboy John](https://open.spotify.com/artist/5m3zenzxU6mfbi5HwVBgR4) | [9 \(Deluxe Edition\)](https://open.spotify.com/album/1OPNyMf1xQGDLE1PEwdkgs) | 4:45 | 2022-10-10 |  |
 | [Happiness Is A Warm Gun \- 2018 Mix](https://open.spotify.com/track/3z2ngCk1Us5E0DtNGczXwJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 2:44 | 2018-11-27 |  |
 | [Have a Cigar](https://open.spotify.com/track/3CmHvyZQQAGkKkTjTBFWN6) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:07 | 2019-10-18 |  |
 | [Head On/Pill](https://open.spotify.com/track/1QRF2G6fikn2HfRiasawb2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Float Along \- Fill Your Lungs](https://open.spotify.com/album/2ejooTHUieuzc8Lh9IfTTG) | 16:01 | 2019-05-22 |  |

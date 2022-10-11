@@ -3798,6 +3798,28 @@
     },
     {
       "album": {
+        "name": "9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1OPNyMf1xQGDLE1PEwdkgs"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        },
+        {
+          "name": "Cowboy John",
+          "url": "https://open.spotify.com/artist/5m3zenzxU6mfbi5HwVBgR4"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285314,
+      "name": "Hang a Cross on Me",
+      "url": "https://open.spotify.com/track/3WbDe3G6zK798x8J0YUxOR"
+    },
+    {
+      "album": {
         "name": "The Beatles",
         "url": "https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5"
       },

@@ -4,14 +4,14 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-221 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/3DsOFDYX7Pe6GJzMeJ9QUl)
+222 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/3DsOFDYX7Pe6GJzMeJ9QUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!Pum\-!Pum, Bang\-Bang!](https://open.spotify.com/track/5UDoPAgMsSQ4giy3sl2ssa) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos Escuchese Bien Fuerte](https://open.spotify.com/album/21T3aN8NPYUBqZnqNHnIna) | 3:52 | 2021-09-03 | 2022-07-26 |
 | [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 | 2022-03-11 |  |
 | [96 Lagrimas](https://open.spotify.com/track/00KMOWuq9s94Nbv3PXKRUB) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:27 | 2021-09-03 | 2022-07-29 |
-| [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A Go\-Go](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 | 2021-09-03 |  |
+| [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A Go\-Go](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 | 2021-09-03 | 2022-10-11 |
 | [Acapulco Golden](https://open.spotify.com/track/0GipqaZSPznaEikzGgygwb) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 2:27 | 2021-09-03 | 2022-08-20 |
 | [Acapulco Golden](https://open.spotify.com/track/27ytIflM3JBuOEO8cz16XK) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua) | 2:27 | 2021-09-03 | 2022-07-29 |
 | [Agente Naranja](https://open.spotify.com/track/5OuGBKgNoJKbAuCVf8QoJM) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [The Return of the Champiñons](https://open.spotify.com/album/5GWNXyFe76ENUIcpXhSHcp) | 2:12 | 2021-09-03 | 2022-07-22 |
@@ -108,6 +108,7 @@
 | [Introducción](https://open.spotify.com/track/2aMG9YYvvHojwf7Dg7UAm6) | [Los Supersónicos](https://open.spotify.com/artist/4RFAwiTOsIV30Ef4A13gnE) | [Introducción](https://open.spotify.com/album/0NGc64udtT4FL26C0Cffxp) | 3:08 | 2021-09-03 | 2022-07-29 |
 | [Intruder](https://open.spotify.com/track/0WyAiymmsxOqoujctf8MrB) | [The Madeira](https://open.spotify.com/artist/0onb2OjHiGTxu5kylK1CXp) | [Ruins](https://open.spotify.com/album/3GYgCKeM5X33IflH762MAO) | 3:55 | 2021-09-03 | 2022-07-11 |
 | [It's Monster Surfing Time](https://open.spotify.com/track/60xQKEF7PVW14ITUCVC8ip) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3D6VjAipDxmTrWtlqfEmlI) | 2:11 | 2021-09-03 | 2022-07-27 |
+| [It's Monster Surfing Time](https://open.spotify.com/track/70FzFTP41ewLArLpyO8YKZ) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6) | 2:11 | 2021-09-03 |  |
 | [I’ll Be Loving You](https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [Invisible Girl](https://open.spotify.com/album/7DP9LpHXZ4Ak560LIqDsFT) | 3:10 | 2021-09-03 |  |
 | [Jaan Pehechaan Ho](https://open.spotify.com/track/1hyvt4Nz36V3HiiH2xlnVH) | [Olivia Jean](https://open.spotify.com/artist/4elV7QXSkvQNskYUEc5SFe) | [Night Owl](https://open.spotify.com/album/1GXzJea9SIMyWz6yds1rxI) | 4:10 | 2021-09-03 | 2022-07-29 |
 | [Jaley Jaley](https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cera Perdida](https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh) | 3:09 | 2021-09-03 |  |

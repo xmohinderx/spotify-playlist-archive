@@ -4,7 +4,7 @@
 
 > Big rooms with big sounds\. Cover: Quintino
 
-197 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
+198 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Firefly](https://open.spotify.com/track/2JUekZEDv8GYGsTfSmI9Ek) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Firefly](https://open.spotify.com/album/6ERhkBSo8GO7c5pcLynXNV) | 2:54 | 2022-04-14 | 2022-04-29 |
 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 | 2022-04-14 |  |
 | [Follow Me](https://open.spotify.com/track/5CCoCTMHmpTZSZa8THlRZN) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Follow Me](https://open.spotify.com/album/5VgSUSOi7Negq9NQt4ILGy) | 3:06 | 2022-04-14 | 2022-04-28 |
-| [Forever Alive](https://open.spotify.com/track/1yFuObxGNWiCFzHNcZOJt1) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Forever Alive](https://open.spotify.com/album/3snb4hL3dBpX81UsoKjFUX) | 3:01 | 2022-04-14 |  |
+| [Forever Alive](https://open.spotify.com/track/1yFuObxGNWiCFzHNcZOJt1) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Forever Alive](https://open.spotify.com/album/3snb4hL3dBpX81UsoKjFUX) | 3:01 | 2022-04-14 | 2022-10-11 |
 | [Forget You](https://open.spotify.com/track/5yo9aAVvgiINP2lowSXP5Y) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Jimmy Clash](https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb) | [Forget You](https://open.spotify.com/album/52ZSrn0YqEzPtIlzpQjhv3) | 2:45 | 2022-04-14 |  |
 | [Founding Fathers](https://open.spotify.com/track/0XvtB7JNbIvWaQGVAy8amP) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Founding Fathers](https://open.spotify.com/album/38J3tt4rEVpjQxqGIVhg5J) | 3:09 | 2022-04-14 | 2022-07-30 |
 | [Funky Town](https://open.spotify.com/track/4A7aOnpjE4yytIbXTg6BxT) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Funky Town](https://open.spotify.com/album/6oiwGJoWZv4EX7wknq8MyA) | 2:48 | 2022-04-14 |  |
@@ -180,6 +180,7 @@
 | [The Age Of Rave](https://open.spotify.com/track/0MJrPeuSXdHBPfsoaaFEIG) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Age Of Rave](https://open.spotify.com/album/5Xb58SF94wdSAJd5iaA5KP) | 3:04 | 2022-05-26 |  |
 | [The Ashes](https://open.spotify.com/track/77TqubLV7jUg5fxvOCbjtM) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Ashes](https://open.spotify.com/album/1zdhuNHo4sdVF90RMtqVDG) | 4:11 | 2022-04-14 | 2022-05-29 |
 | [The Chase](https://open.spotify.com/track/00JoqMc5KZFLpdrtymo6f0) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [The Chase](https://open.spotify.com/album/2oR0zKDQpFKxWJjyHqrDpq) | 3:14 | 2022-07-28 | 2022-09-02 |
+| [The Feeling \- 2022 Remaster](https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:08 | 2022-10-11 |  |
 | [The Launch](https://open.spotify.com/track/7peqYrbdxhtRCg8rDp3gok) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [The Launch](https://open.spotify.com/album/7cZbQpz7BIkXMAMUnGWl8P) | 4:27 | 2022-04-14 | 2022-07-29 |
 | [The Lone Ranger](https://open.spotify.com/track/12KMoAMzaeBFh91O5sxP2o) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [The Lone Ranger](https://open.spotify.com/album/3tkyV2SZsHRE8GZ9SkCIVP) | 2:36 | 2022-04-14 | 2022-07-29 |
 | [The Lone Ranger](https://open.spotify.com/track/2gfqlKUkAMyyxDaCuYF8Xf) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [The Lone Ranger](https://open.spotify.com/album/4dRU6vnG1rmVgBvXs8dIFd) | 2:36 | 2022-07-28 | 2022-10-05 |

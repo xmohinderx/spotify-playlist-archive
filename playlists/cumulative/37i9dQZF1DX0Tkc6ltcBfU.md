@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Finesse2tymes
 
-432 songs - 20 hr 43 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
+433 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Havin Fun](https://open.spotify.com/track/5eaT3Qg8dJBD83Y6NOSCiM) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [Havin Fun](https://open.spotify.com/album/02Tnpc6luN8SwW8bgFw6Kx) | 2:35 | 2022-09-16 |  |
 | [Heartaches](https://open.spotify.com/track/6RHEIXw8U4SWBda3fxXAXT) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Heartaches](https://open.spotify.com/album/16PP7symx7pyBKDsLFkCDj) | 3:18 | 2022-09-23 |  |
 | [Hell](https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hell](https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6) | 2:19 | 2022-09-02 | 2022-09-24 |
+| [Heyy](https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Heyy](https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue) | 3:12 | 2022-10-10 |  |
 | [HIT](https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [HIT](https://open.spotify.com/album/03ckoZhTfbWybngUkIHqWv) | 2:05 | 2022-01-21 | 2022-02-19 |
 | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12) | 3:41 | 2022-04-22 | 2022-07-23 |
 | [Holy Spirit](https://open.spotify.com/track/5Br0IdRT5uRmKCckyr4juy) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Vibe Forever](https://open.spotify.com/album/5ZrM0Brv8XBs3XVHfkd6bk) | 3:09 | 2022-07-15 | 2022-09-17 |

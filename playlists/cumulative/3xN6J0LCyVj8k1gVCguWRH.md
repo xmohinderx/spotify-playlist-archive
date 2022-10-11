@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,737 songs - 4 day 4 hr 46 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,738 songs - 4 day 4 hr 49 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1094,6 +1094,7 @@
 | [Nobody but You](https://open.spotify.com/track/5kSryTV4RESbp1NDMkjAAb) | [Cheyenne Nicole](https://open.spotify.com/artist/2l4FAvt83HA9UNtXdAoiJg) | [Nobody but You](https://open.spotify.com/album/29OBxWcLGvHtuGia3u3smo) | 3:41 | 2020-09-30 | 2020-10-16 |
 | [Nobody Knows Me](https://open.spotify.com/track/1KYHkZsd4FTUELD2gpb7ll) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Greatest Hits](https://open.spotify.com/album/5HSvUWTkpSvGsK1TMQ1Cwq) | 3:06 | 2022-07-26 |  |
 | [Northern Lights \(Norbz Remix\)](https://open.spotify.com/track/5kcUaa9CD5QCS11N15eh96) | [Jordan Bolch](https://open.spotify.com/artist/5W50j5JKTlmNOMh6ndEUji), [NORBZ](https://open.spotify.com/artist/2OXrjcnQwqvsrIiufc0Ci7) | [Worldwide Remixes](https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO) | 3:11 | 2020-07-21 | 2020-08-02 |
+| [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/track/2akwgKeDWZNllzgTsQi32S) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [ØZWALD Sings The Beatles](https://open.spotify.com/album/5ytYhbyedbbZ8PGzAUWdeC) | 2:13 | 2022-10-10 |  |
 | [Not A Love Story](https://open.spotify.com/track/3G5CMgF64FACY6yffqPFLn) | [Jax Jazer](https://open.spotify.com/artist/485GupVYsX6Yw5sRvV8Bjs), [Samantha Mora](https://open.spotify.com/artist/6q3Wbliv7rJ590BpCO1NT5) | [One Life](https://open.spotify.com/album/47dOZm3aGQAJ6iZC6fFkaK) | 3:04 | 2020-08-06 | 2020-08-21 |
 | [Not Around](https://open.spotify.com/track/21Th55skaCFIPiJiLywd4J) | [Len](https://open.spotify.com/artist/2iYJH0zXVSgpM6Ln6zslxj) | [Not Around](https://open.spotify.com/album/1j5R5m74zEodaLo4R8OUh2) | 2:48 | 2021-10-22 | 2021-11-07 |
 | [Not Finished Yet](https://open.spotify.com/track/5DxtWK5d9VQOuVz5nzWMY6) | [Philip Hamrick](https://open.spotify.com/artist/1Z3HWa1UfGZOdcRJZ4vfcM) | [Not Finished Yet](https://open.spotify.com/album/1r5p3MtU7XCyJ3UmuxaCVo) | 3:07 | 2022-03-23 | 2022-04-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Bad Gyal.",
-  "num_followers": 506395,
+  "num_followers": 506458,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDY3MTk3MGY1MDg2ZTAyNjdlZWYxZWI2NWJkZDE4MjQw",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDk4ZThmOTY5OTRmMzA2ZDE3M2ExMTJjZjY5OTA3NWFj",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Mercedes Tintia",
+        "url": "https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Mercedes Tintia",
+      "url": "https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "UN PASO",
         "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 192143,
       "name": "UN PASO",
       "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Mercedes Tintia",
-        "url": "https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "Mercedes Tintia",
-      "url": "https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Mi Peor Error",
+        "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mi Peor Error",
+      "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Mujer\u00f3n",
         "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 170721,
       "name": "Mujer\u00f3n",
       "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Mi Peor Error",
-        "url": "https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mi Peor Error",
-      "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "La Bruja",
-        "url": "https://open.spotify.com/album/3wYjwsYatnNrbwTOSAt5AL"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/1jYmFEVdOkPfhxuYF5fE7S"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "SEDUR (Remix)",
         "url": "https://open.spotify.com/album/7MIaEZVsXW6qXYvsMZcZRx"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 165298,
       "name": "Baby Glock",
       "url": "https://open.spotify.com/track/2W91Y6EMytPPXSyIpCOvtU"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "La Bruja",
+        "url": "https://open.spotify.com/album/3wYjwsYatnNrbwTOSAt5AL"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/1jYmFEVdOkPfhxuYF5fE7S"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Racks On Me",
-        "url": "https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 183065,
-      "name": "Racks On Me",
-      "url": "https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Contacto",
         "url": "https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 175058,
       "name": "Bad Bichi",
       "url": "https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Racks On Me",
+        "url": "https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 183065,
+      "name": "Racks On Me",
+      "url": "https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp"
     },
     {
       "added_at": "2022-10-07 04:01:00",

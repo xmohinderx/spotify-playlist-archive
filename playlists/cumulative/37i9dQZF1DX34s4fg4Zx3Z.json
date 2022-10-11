@@ -260,6 +260,32 @@
     },
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/2l9z4aAx7R3K3KQWru1tvw"
+      },
+      "artists": [
+        {
+          "name": "Young Draco",
+          "url": "https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA"
+        },
+        {
+          "name": "Young Bo5",
+          "url": "https://open.spotify.com/artist/3IKIHkOCcJqWpM3fYMqk6o"
+        },
+        {
+          "name": "Ozee Kxng",
+          "url": "https://open.spotify.com/artist/17vAfc5ZHLo0FHmutTI46A"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208235,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/4fol1mRfChVQotmqksmytV"
+    },
+    {
+      "album": {
         "name": "Ai \u0110\u00fang Ai Sai",
         "url": "https://open.spotify.com/album/27Xc6Q3hLMEwxJ42ZvWwAx"
       },
@@ -311,6 +337,24 @@
       "duration_ms": 143215,
       "name": "Anh Ch\u1ec9 C\u1ea7n N\u00f3i Love",
       "url": "https://open.spotify.com/track/1Lykz5OjNoA1bfNa9FBLZ5"
+    },
+    {
+      "album": {
+        "name": "Anh C\u00f3 C\u1ea7n Kh\u00f4ng",
+        "url": "https://open.spotify.com/album/2moKC9gCUh0rO0F4SeEek3"
+      },
+      "artists": [
+        {
+          "name": "Shin H\u1ed3ng V\u1ecbnh",
+          "url": "https://open.spotify.com/artist/4x1bGwkuFRoVqnCJ31ODel"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Anh C\u00f3 C\u1ea7n Kh\u00f4ng",
+      "url": "https://open.spotify.com/track/0NICxX2baAn6lhlaaVqEWY"
     },
     {
       "album": {
@@ -1177,7 +1221,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 268490,
       "name": "bu\u00f4ng tay \u0111\u1ec3 l\u00e0m g\u00ec",
       "url": "https://open.spotify.com/track/0mPRjwgebzm1k7ocnu1MGp"
@@ -1385,7 +1429,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 190000,
       "name": "B\u1ea5t C\u1ea7n",
       "url": "https://open.spotify.com/track/4NvUI0B8zb7OgV5z5n6pbS"
@@ -1411,7 +1455,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 235399,
       "name": "B\u1ea5t Ng\u1edd Ch\u01b0a B\u00e0 Gi\u00e0",
       "url": "https://open.spotify.com/track/1SRPJiGV1xdSK6XAh5qBMw"
@@ -3455,7 +3499,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 228000,
       "name": "Em Ngh\u0129 Sao",
       "url": "https://open.spotify.com/track/1naUzsMBOHs4hm15sTut0Q"
@@ -5094,6 +5138,28 @@
     },
     {
       "album": {
+        "name": "Kh\u00f4ng Mu\u1ed1n Ai Th\u1ea5y Anh T\u1ed5n Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/0yimTSK8t6eNhDz6USp9Sm"
+      },
+      "artists": [
+        {
+          "name": "Ng\u00f4 Th\u00e0nh D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/1xTKBiDwUhUQBQ2V0Qc272"
+        },
+        {
+          "name": "Nachi Khang",
+          "url": "https://open.spotify.com/artist/1qV9ThJ2DqKWlZ8zdS1Xpr"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "Kh\u00f4ng Mu\u1ed1n Ai Th\u1ea5y Anh T\u1ed5n Th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/71kgf0V4RGjykAHUflHZTW"
+    },
+    {
+      "album": {
         "name": "Kh\u00f4ng N\u00f3i N\u00ean L\u1eddi",
         "url": "https://open.spotify.com/album/1JVbP9rzNtSrCjCH676gGX"
       },
@@ -5447,7 +5513,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 193868,
       "name": "longbien bbi",
       "url": "https://open.spotify.com/track/4aBa8TmmskbVvAf765zzFF"
@@ -8144,6 +8210,24 @@
     },
     {
       "album": {
+        "name": "Phong Lan",
+        "url": "https://open.spotify.com/album/2gjf0mCeonTSeJPwyRlPPL"
+      },
+      "artists": [
+        {
+          "name": "V\u00f5 Dang T\u00e0i",
+          "url": "https://open.spotify.com/artist/3eBrBADJodSISYcc8giIJ4"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219789,
+      "name": "Phong Lan",
+      "url": "https://open.spotify.com/track/0easgugjN6uwY6OKrrhux0"
+    },
+    {
+      "album": {
         "name": "Ph\u00eda C\u00f4 \u0110\u01a1n",
         "url": "https://open.spotify.com/album/7dEe7RXcPv5W0tCYAH3uFr"
       },
@@ -10185,7 +10269,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 315226,
       "name": "T\u00e0n Hoa",
       "url": "https://open.spotify.com/track/0kyEyMahdYLi8onAPwYmkj"
@@ -10733,7 +10817,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 230057,
       "name": "Vintage",
       "url": "https://open.spotify.com/track/3DonzTW969v1Mn5a0Vy6CR"
@@ -10821,6 +10905,28 @@
       "duration_ms": 245333,
       "name": "V\u00e0 Em \u0110\u00e3 T\u1eebng Y\u00eau Anh Ch\u01b0a",
       "url": "https://open.spotify.com/track/1vhNswUSLvNvjLZMUDQLQ3"
+    },
+    {
+      "album": {
+        "name": "V\u00e0o Hang",
+        "url": "https://open.spotify.com/album/6AEI0sxsU0LfkVgleW2q5K"
+      },
+      "artists": [
+        {
+          "name": "LONGK",
+          "url": "https://open.spotify.com/artist/2zYHfXyQ432mvYJuP2cbp9"
+        },
+        {
+          "name": "Viet Devils",
+          "url": "https://open.spotify.com/artist/2BlyTKBwIQAJnV9j9fcmNg"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "V\u00e0o Hang",
+      "url": "https://open.spotify.com/track/2kG1zeBlXnvkUwPzmXt64W"
     },
     {
       "album": {
@@ -12039,7 +12145,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 286762,
       "name": "\u0110\u00d4N CH\u1ec0 TRAP (VINAHOUSE REMIX)",
       "url": "https://open.spotify.com/track/5NJQYSwA4tQFmpfstXqWCp"
@@ -12237,6 +12343,28 @@
       "duration_ms": 183092,
       "name": "\u0110\u1ea7u To",
       "url": "https://open.spotify.com/track/31HwayLskRLAbNRISnylKt"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1eacM S\u00c2U",
+        "url": "https://open.spotify.com/album/75JUMhyjihZANZzbe5ZvvV"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/2F7Jz1oc6c64rzPk6tnwV9"
+        },
+        {
+          "name": "Ng\u1eafn",
+          "url": "https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201652,
+      "name": "\u0110\u1eacM S\u00c2U",
+      "url": "https://open.spotify.com/track/0frxC5D0uIjToqh6OlVmro"
     },
     {
       "album": {

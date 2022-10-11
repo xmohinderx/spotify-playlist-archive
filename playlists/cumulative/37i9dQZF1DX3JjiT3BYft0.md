@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-309 songs - 22 hr 32 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
+310 songs - 22 hr 38 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [RED RED RED](https://open.spotify.com/track/2GOhP6o25z72Ka1bvM4zBz) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 3:44 | 2022-05-17 | 2022-07-25 |
 | [Redo](https://open.spotify.com/track/1LXfNtiu99qb3H61cyI3Ge) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:19 | 2022-05-17 | 2022-07-29 |
 | [Repaint](https://open.spotify.com/track/4ONakL7VOgMug2YNLLlg2i) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Repaint](https://open.spotify.com/album/0HBfHvwN912Vr7ggTW2PFP) | 3:53 | 2022-05-17 | 2022-07-28 |
+| [Returns](https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3) | 5:23 | 2022-09-20 |  |
 | [Returns](https://open.spotify.com/track/3U8CdxyJKZNYUrvC9NL1Xw) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Dreamers Go!/Returns](https://open.spotify.com/album/1G4nNcQeB7NO6eQs2uzPpx) | 5:24 | 2022-05-17 | 2022-07-27 |
 | [Ringing Bloom](https://open.spotify.com/track/47lKHyMERKqbCwYVw4ytTz) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/47gXlcUI10HgzKjkEfe69o) | 5:34 | 2022-09-20 |  |
 | [Ringing Bloom](https://open.spotify.com/track/3W7VUMkniIiLfPsc0fdLHW) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/2rkv0Q1Yn6raeCuk9U4ta5) | 5:34 | 2022-05-17 | 2022-07-23 |
@@ -210,7 +211,7 @@
 | [す、好きなんかじゃない!](https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 3:56 | 2022-09-20 |  |
 | [せかいのっびのびトレジャー!](https://open.spotify.com/track/1AdZsqtHt4XGHy2TLomUtC) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU) | 3:30 | 2022-06-23 | 2022-07-29 |
 | [ときめきエクスペリエンス!](https://open.spotify.com/track/52sMyIxbz7FuCnaQyCacIk) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TVアニメ「BanG Dream!」OP主題歌「ときめきエクスペリエンス!」](https://open.spotify.com/album/6W45N04MKzCr9KOK1MELWh) | 4:17 | 2022-05-17 | 2022-07-28 |
-| [どきどきSING OUT!](https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 4:08 | 2022-09-20 | 2022-10-08 |
+| [どきどきSING OUT!](https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 4:08 | 2022-09-20 |  |
 | [どきどきSING OUT!](https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [どきどきSING OUT!](https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm) | 4:09 | 2022-05-17 | 2022-07-28 |
 | [ないすみちゅっ!](https://open.spotify.com/track/2KBY80dH79sb17t4qNrbeJ) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 4:17 | 2022-06-23 | 2022-07-25 |
 | [にこ×にこ=ハイパースマイルパワー!](https://open.spotify.com/track/5W2FJECSmMGcEpzJ2g7cRL) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 3:52 | 2022-05-17 | 2022-06-23 |
@@ -255,7 +256,7 @@
 | [ツナグ、ソラモヨウ](https://open.spotify.com/track/6HJSR4oCtRxucJxjWPrjVX) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:08 | 2022-05-17 | 2022-06-18 |
 | [ティアドロップス](https://open.spotify.com/track/2SI7zaBCXvKEeASHS0I7cJ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 3:37 | 2022-09-20 |  |
 | [ティアドロップス](https://open.spotify.com/track/6LOwfEulHshS3CXEtPnnjr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「走り始めたばかりのキミに/ティアドロップス」](https://open.spotify.com/album/5naHriVgqbOAwQXqG6g7bD) | 3:37 | 2022-05-17 | 2022-07-28 |
-| [ティアドロップス \- Acoustic Ver.](https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 3:53 | 2022-09-20 |  |
+| [ティアドロップス \- Acoustic Ver.](https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 3:53 | 2022-09-20 | 2022-10-11 |
 | [ティアドロップス \- Acoustic Ver.](https://open.spotify.com/track/2yVV8WMakahuVZ4SJjQUSI) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [どきどきSING OUT!](https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm) | 3:52 | 2022-05-17 | 2022-07-29 |
 | [ティアドロップス \- Popipa Acoustic Ver.](https://open.spotify.com/track/1t3Vhpob56n9ASohIaYGzi) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/7uZ57BtKr2QWlsxC4T7fyH) | 3:52 | 2022-05-17 | 2022-07-11 |
 | [ハイファイブ∞あどべんちゃっ](https://open.spotify.com/track/1Gqjczdtzbpd3iMZq7goPy) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 4:30 | 2022-05-17 | 2022-07-28 |
@@ -280,7 +281,7 @@
 | [八月のif](https://open.spotify.com/track/0hSAZiAfscva2luVhSbfaP) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Time Lapse](https://open.spotify.com/album/1YMySyG5al3QpCnXQLey9R) | 4:33 | 2022-06-23 | 2022-07-15 |
 | [切ないSandglass](https://open.spotify.com/track/2LqbQ4a77YlutcDzVWlso0) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [ガールズコード](https://open.spotify.com/album/5aQYjcS94D6obHNC1S2x8I) | 4:06 | 2022-05-17 | 2022-07-27 |
 | [前へススメ!](https://open.spotify.com/track/2tp0eQNOwyIvUKe6wqNXsz) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [前へススメ!/夢みるSunflower](https://open.spotify.com/album/1aaYBoORgoYdB4pzqECejf) | 5:06 | 2022-05-17 | 2022-07-08 |
-| [勇気Limit!](https://open.spotify.com/track/4gUEvAch64yv0VcAblE2cg) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [夏に閉じこめて](https://open.spotify.com/album/42rOQUNEaZ2pjNlT6N0x67) | 3:42 | 2022-09-20 |  |
+| [勇気Limit!](https://open.spotify.com/track/4gUEvAch64yv0VcAblE2cg) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [夏に閉じこめて](https://open.spotify.com/album/42rOQUNEaZ2pjNlT6N0x67) | 3:42 | 2022-09-20 | 2022-10-11 |
 | [君じゃなきゃダメみたい](https://open.spotify.com/track/0vkj1rWmpzDvKr5hqCgk6K) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 3:58 | 2022-05-17 | 2022-07-29 |
 | [夏に閉じこめて](https://open.spotify.com/track/61Y9W12NmToaKokLMtJ6Y0) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [夏に閉じこめて](https://open.spotify.com/album/42rOQUNEaZ2pjNlT6N0x67) | 4:21 | 2022-08-30 |  |
 | [夏のドーン!](https://open.spotify.com/track/4oqDaQVeaY90SDe7Iz1Osr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Time Lapse](https://open.spotify.com/album/1YMySyG5al3QpCnXQLey9R) | 3:37 | 2022-05-17 | 2022-07-29 |

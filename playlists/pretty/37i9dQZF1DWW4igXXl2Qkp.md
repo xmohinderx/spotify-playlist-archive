@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Anti Da Menace
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,429 likes - 52 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,508 likes - 52 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Without It](https://open.spotify.com/track/6CoB0S7aB6xc1PfQKqGqEG) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Without It](https://open.spotify.com/album/6higufYr86g2bscfhaCukP) | 3:12 |
+| 1 | [Without It](https://open.spotify.com/track/6CoB0S7aB6xc1PfQKqGqEG) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Without It](https://open.spotify.com/album/6higufYr86g2bscfhaCukP) | 2:17 |
 | 2 | [Mr\. Do It Up](https://open.spotify.com/track/3KHRBIfbMAWIBxpNfyHuR3) | [ShaqO](https://open.spotify.com/artist/5JKI6b6ZEZpy5oNKzL1hbs) | [Oh My Fault](https://open.spotify.com/album/23mjPzCQtMK6bFRzHR3mNy) | 3:08 |
 | 3 | [Starry Night](https://open.spotify.com/track/3xUKMt4RGN9V3ofnWDbQ1X) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Do Your Worst](https://open.spotify.com/album/2zoKhONaJBKUHsbPZLFubF) | 2:14 |
 | 4 | [Ben10](https://open.spotify.com/track/7KBZKRX0WpvB5Wkqb7TcvD) | [Yung Sinn](https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c) | [Ben10](https://open.spotify.com/album/1nA3Vx5C8t2yduDXgkHQbW) | 2:51 |

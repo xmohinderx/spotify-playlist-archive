@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMDA2NzY2NTE0Y2Y3ZWNlM2I2OTIyYWY3OWM4YjRjMzY0",
+  "snapshot_id": "MTY2Mzc1NTEyNywwMDAwMDAwMGEyM2U2NzNiYjUzMDJjMjExYmVjNWQ3YjhhNjViYmI5",
   "tracks": [
     {
       "added_at": "2022-09-21 10:12:07",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 235766,
       "name": "Love Story (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 156505,
-      "name": "parachute",
-      "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Love To Lose",
         "url": "https://open.spotify.com/album/1K5uj6UM29p2LCqUm0kv1Q"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 177731,
       "name": "Love To Lose",
       "url": "https://open.spotify.com/track/11lFSEnkj3810ojPLj53RO"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 156505,
+      "name": "parachute",
+      "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Catch & Release",
-        "url": "https://open.spotify.com/album/4Jud0iQM1DiF0kfOL0ASfC"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Catch & Release",
-      "url": "https://open.spotify.com/track/29MwtMspIroR2wFYEJ7ps0"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "love + everything else",
         "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 199169,
       "name": "cheap sunglasses",
       "url": "https://open.spotify.com/track/2FwP6d7xG5Hch65LBsa7Zi"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/4Jud0iQM1DiF0kfOL0ASfC"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Catch & Release",
+      "url": "https://open.spotify.com/track/29MwtMspIroR2wFYEJ7ps0"
     },
     {
       "added_at": "2022-09-21 10:12:07",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-09-21 10:12:07",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2022-09-21 10:12:07",
-      "album": {
         "name": "Off",
         "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 197993,
       "name": "Dynamite - Acoustic Remix",
       "url": "https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA"
+    },
+    {
+      "added_at": "2022-09-21 10:12:07",
+      "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2022-09-21 10:12:07",

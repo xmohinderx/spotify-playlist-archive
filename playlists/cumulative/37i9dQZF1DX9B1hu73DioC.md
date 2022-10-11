@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-514 songs - 1 day 7 hr 31 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+515 songs - 1 day 7 hr 34 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [DARLING](https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [DARLING](https://open.spotify.com/album/5gfKoVTEJqa1mTuSczsgdL) | 2:27 | 2021-08-27 | 2022-07-27 |
 | [Daughter](https://open.spotify.com/track/4H4p1B3GrZHnh71vgPtHQW) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:55 | 2020-10-06 | 2022-04-12 |
 | [Day 7.5093](https://open.spotify.com/track/3a4jtq7w9N7qOrIjCaxO8v) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Feeling Lucky?](https://open.spotify.com/album/0mWQGICfoe7XAWueJRuAgV) | 3:41 | 2022-06-01 | 2022-07-29 |
+| [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-10-07 |  |
 | [Daydreaming Pilot](https://open.spotify.com/track/57yvSpTYfbERraGRd81zHU) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Daydreaming Pilot](https://open.spotify.com/album/1PYLJ3tiH3r35C3MkWcVpS) | 2:44 | 2020-10-05\* | 2022-04-21 |
 | [Dear To Me](https://open.spotify.com/track/5n2kAftaxSkdW4443xGxy4) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Plural](https://open.spotify.com/album/3Vk3O4odIVWLzg2hWFfMVy) | 4:01 | 2020-10-05\* | 2021-05-27 |
 | [Deep Down \- Blood Orange Remix](https://open.spotify.com/track/1qDXiACY4IrRsQ6mfTXrqA) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 4:24 | 2021-05-08 | 2022-07-29 |
@@ -466,7 +467,7 @@
 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 | 2022-06-01 | 2022-07-27 |
 | [Too Much](https://open.spotify.com/track/5PnnEBtTbte2jhhfao9aJ9) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Too Much / Happens](https://open.spotify.com/album/3WDWz3K3bOlkzJeaMkUK4c) | 2:59 | 2021-03-14 | 2022-04-21 |
 | [Too Young to Burn](https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Tomorrow Is Alright](https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh) | 3:19 | 2020-10-05\* | 2020-10-06 |
-| [Touch](https://open.spotify.com/track/3A1kkAIXl4IPxeJRCCF4Bc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:52 | 2020-10-05\* |  |
+| [Touch](https://open.spotify.com/track/3A1kkAIXl4IPxeJRCCF4Bc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:52 | 2020-10-05\* | 2022-10-11 |
 | [Track](https://open.spotify.com/track/3lmiUjD283FiDGWB6LHAkr) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 3:34 | 2021-04-05 | 2022-04-18 |
 | [Trouble](https://open.spotify.com/track/62UQj5LkqTpNaXqpY4i0Io) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 3:23 | 2020-10-05\* | 2022-04-21 |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 | 2022-07-25 |  |

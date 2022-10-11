@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Acqua salata",
+        "url": "https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229175,
+      "name": "Acqua salata",
+      "url": "https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS"
+    },
+    {
+      "album": {
         "name": "Spazio",
         "url": "https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p"
       },
@@ -2023,6 +2041,28 @@
       "duration_ms": 163392,
       "name": "Punti di vista",
       "url": "https://open.spotify.com/track/5zi9PcOcGBQNbYGOquC4Lt"
+    },
+    {
+      "album": {
+        "name": "Quando tu mi baci",
+        "url": "https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        },
+        {
+          "name": "Powv_fsk",
+          "url": "https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Quando tu mi baci",
+      "url": "https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf"
     },
     {
       "album": {

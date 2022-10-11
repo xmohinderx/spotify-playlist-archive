@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-352 songs - 1 day 1 hr 1 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+353 songs - 1 day 1 hr 5 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Chaos Possession](https://open.spotify.com/track/1DHf4SG3bLDoHXAstlcAWV) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Chaos Possession](https://open.spotify.com/album/0vLCfHnHq5VcM8tt9gG8OP) | 3:53 | 2021-12-17 | 2022-07-28 |
 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:06 | 2022-07-13 |  |
 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/74Ijstyp0EXcdEZzyLOJy6) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/album/6EhTaVPe67FETk9tIbi8nq) | 4:06 | 2022-04-15 | 2022-08-27 |
+| [Circle of the Tyrants](https://open.spotify.com/track/4esTgfKqcMbrjs9MLsxpO8) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [To Mega Therion \(Expanded Version\)](https://open.spotify.com/album/4jlatOhKoYXYXxoFJsBMDg) | 4:27 | 2022-09-09 |  |
 | [Circle of the Tyrants](https://open.spotify.com/track/4PAsYAQCAm5pNPPtqIZmwF) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 4:28 | 2022-07-13 | 2022-09-04 |
 | [Clickbait](https://open.spotify.com/track/0HpfDXJFYDF8ZZAWhTa7Aq) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Clickbait](https://open.spotify.com/album/0Niay8TGkPcu9gm5DdtCi7) | 4:31 | 2021-12-17 | 2022-07-27 |
 | [Combat Mosh](https://open.spotify.com/track/04FfBJZBfU0UR5uqR4CJAD) | [Lich King](https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz) | [Born Of The Bomb](https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca) | 4:39 | 2021-12-17 |  |
@@ -227,7 +228,7 @@
 | [Path of Discipline](https://open.spotify.com/track/7ek4uZo41eieLg4e9zYPcX) | [Red Death](https://open.spotify.com/artist/1uBhFijojfN4nXW4huTJ4r) | [Sickness Divine](https://open.spotify.com/album/5o517FcrGcBgyYPPcGWa30) | 3:39 | 2021-12-17 | 2022-07-16 |
 | [Peace Sells \- Remastered](https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(25th Anniversary\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:04 | 2022-07-13 |  |
 | [Perpetual Blood Oath](https://open.spotify.com/track/1uH1Vkb8bPqgHVdXUMm9Zl) | [Protector](https://open.spotify.com/artist/4LfucwWOrS5NHbgxwtYbH3) | [Excessive Outburst of Depravity](https://open.spotify.com/album/1rRn36ZY7U5Phm8u3854d7) | 4:13 | 2022-07-01 | 2022-07-05 |
-| [Perpetual Chaos](https://open.spotify.com/track/0twaN8lzgWZVbBBBWJsEkh) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:39 | 2022-09-09 |  |
+| [Perpetual Chaos](https://open.spotify.com/track/0twaN8lzgWZVbBBBWJsEkh) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2GNKNsKKMdZJ9oPf3fvVWY) | 3:39 | 2022-09-09 | 2022-10-11 |
 | [Perpetual Chaos](https://open.spotify.com/track/5Qk5KU60bM84nUt7kyyMPG) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2DJTZaqrWVPoIRgWtMTgPy) | 3:39 | 2021-12-17 | 2022-07-28 |
 | [Phantom Force](https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Phantom Force](https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH) | 2:59 | 2021-12-17 | 2022-07-29 |
 | [Phantom Graves](https://open.spotify.com/track/58RBSrRamSP8hhrYpvJYqe) | [Accuser](https://open.spotify.com/artist/5QCQHF5hJbsMFtE4dY0Ifq) | [Phantom Graves](https://open.spotify.com/album/5ozspVZcxfm1RIee5CKmWK) | 3:59 | 2021-12-17 | 2022-03-03 |

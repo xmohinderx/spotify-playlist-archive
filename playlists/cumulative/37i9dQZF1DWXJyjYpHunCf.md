@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Stephen Sanchez
 
-229 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
+230 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 | 2022-03-12 |  |
 | [I Keep Ticking On](https://open.spotify.com/track/7BgN5iMlbla6J4LpEDrFMn) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/3xFx5kmywwhfFtTlbX5u2U) | 2:36 | 2022-03-12 | 2022-04-25 |
 | [I Know the Way Home](https://open.spotify.com/track/2TkbdIwr5UmOMqUcQmD5sE) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/7uoGfhhJZZgeEGL22VfipY) | 3:21 | 2021-11-12 | 2022-07-29 |
-| [I Know the Way Home](https://open.spotify.com/track/4uTnmU2jXpoI87haPWMqTi) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/3xyzbwzDORDLA6QgQRASvj) | 3:21 | 2022-03-12 |  |
+| [I Know the Way Home](https://open.spotify.com/track/4uTnmU2jXpoI87haPWMqTi) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/3xyzbwzDORDLA6QgQRASvj) | 3:21 | 2022-03-12 | 2022-10-11 |
 | [I Wish I Knew Jesus \- Like You Do](https://open.spotify.com/track/4AA8t1KeyuycKusIjHcAYE) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [I Wish I Knew Jesus \(Like You Do\)](https://open.spotify.com/album/0WyUvt3wn8s2BKxDcBCr3m) | 2:55 | 2021-11-12 | 2022-07-29 |
 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-02-21 |  |
 | [If It's Cool With You, I'm Cool With Being Through](https://open.spotify.com/track/0shbrNXspWANKNatl7E4OD) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [If It's Cool With You, I'm Cool With Being Through](https://open.spotify.com/album/0ny7XUdcuKAHbTWRAKTjwA) | 3:39 | 2022-02-21 | 2022-06-08 |
@@ -138,6 +138,7 @@
 | [Losing from Within](https://open.spotify.com/track/32yqbK3xTvNU0EdA9BMi37) | [Hayley Reardon](https://open.spotify.com/artist/4US8FhryQWWUOPmLmreZDW) | [Losing from Within](https://open.spotify.com/album/7FzoIWP5nniks0bag7330P) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/37GoX99NfDFMNcbmXTe40O) | [Jack and White](https://open.spotify.com/artist/2U5RgZDZdAR13tX6yivvRy), [Brooke White](https://open.spotify.com/artist/1feuQE7d9izI54MoL5Lc7t) | [Lost](https://open.spotify.com/album/54bkovX3Y2sBVWerGMHpeb) | 3:45 | 2021-11-12 | 2022-07-28 |
 | [Lottery](https://open.spotify.com/track/5F3QLG5Vnc1kT02PM9Mk37) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 2:31 | 2022-03-12 | 2022-09-15 |
+| [Lottery](https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:33 | 2022-08-19 |  |
 | [Love in Vain](https://open.spotify.com/track/5MarctIzuTHNE914cieIlz) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Love in Vain](https://open.spotify.com/album/3xdQaXYUwTrTuBjMy4hWco) | 3:25 | 2021-11-12 | 2022-07-29 |
 | [Lover, I](https://open.spotify.com/track/01mIMINaQNlKX8m02pj1ti) | [Garden Gloves](https://open.spotify.com/artist/7LvkKnhytQkJg72KAu49sF), [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz), [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Outside the Chateau Apartments](https://open.spotify.com/album/6IeuhpS6DhsKHD8vdVGyqo) | 2:41 | 2021-11-12 | 2022-06-29 |
 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 | 2021-11-12 |  |

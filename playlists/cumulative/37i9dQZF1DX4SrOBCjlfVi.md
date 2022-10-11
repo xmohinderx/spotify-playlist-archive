@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Quavo & Takeoff, A Boogie and more\. Cover: G Herbo
 
-1,592 songs - 3 day 2 hr 39 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,593 songs - 3 day 2 hr 41 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [Hellcat feat\. Eli Fross \(feat\. Eli Fross\)](https://open.spotify.com/track/4YbdzFgT3dkDx4ODhGOyul) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [Hellcat \(feat\. Eli Fross\)](https://open.spotify.com/album/40857gk5fqBY0D7gQ47v6D) | 2:56 | 2022-03-25 | 2022-04-02 |
 | [Hello \(with Saucy Santana\)](https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Hello \(with Saucy Santana\)](https://open.spotify.com/album/5EnqzpQ9kXinG5Gs93urB9) | 2:48 | 2022-02-04 | 2022-02-12 |
 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 | 2022-08-12 | 2022-08-20 |
+| [Heyy](https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Heyy](https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue) | 3:12 | 2022-10-10 |  |
 | [HIDE IN THE PHANTOM](https://open.spotify.com/track/6qJBMyVUKTQNFAP64r9ChQ) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [HIDE IN THE PHANTOM](https://open.spotify.com/album/1FQCz9vP5ltHU7ib9JbCME) | 2:36 | 2022-06-17 | 2022-06-25 |
 | [HIT](https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [HIT](https://open.spotify.com/album/03ckoZhTfbWybngUkIHqWv) | 2:05 | 2022-01-21 | 2022-02-05 |
 | [Hit Different](https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Hit Different](https://open.spotify.com/album/1WzVjuIybpEJPVN3MiUg7k) | 3:03 | 2022-03-04 | 2022-03-12 |
@@ -1568,7 +1569,7 @@
 | [WIN](https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WIN](https://open.spotify.com/album/4CenGyZ0UR5yccbM5b7Zk1) | 2:49 | 2022-01-14 | 2022-01-22 |
 | [Wish Upon a Star \(feat\. Curren$y\)](https://open.spotify.com/track/1uc1uCGQb0MLtophGL51fB) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Wish Upon a Star \(feat\. Curren$y\)](https://open.spotify.com/album/3bzKPtpfImmoLjEHvcQUo2) | 3:36 | 2022-09-16 | 2022-09-24 |
 | [With The Villains](https://open.spotify.com/track/0zkOra5e9BZHIdK91pgKXP) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [With The Villains / Lucky](https://open.spotify.com/album/50KiZ0amgdlobUzEnriTTl) | 2:23 | 2022-03-11 | 2022-03-26 |
-| [Without It](https://open.spotify.com/track/6CoB0S7aB6xc1PfQKqGqEG) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Without It](https://open.spotify.com/album/6higufYr86g2bscfhaCukP) | 3:12 | 2022-09-30 |  |
+| [Without It](https://open.spotify.com/track/6CoB0S7aB6xc1PfQKqGqEG) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Without It](https://open.spotify.com/album/6higufYr86g2bscfhaCukP) | 2:17 | 2022-09-30 |  |
 | [Wockin’ On A Wire \(feat\. NoCap\)](https://open.spotify.com/track/6MInFLWke89xMBOeMXEqLH) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Wockin’ On A Wire \(feat\. NoCap\)](https://open.spotify.com/album/44lgLZ8UtTfTlLiZb1W9hV) | 3:16 | 2022-07-22 | 2022-07-30 |
 | [WOKEUPTHINKINBOUT](https://open.spotify.com/track/3HpRwCE2XIB9u1VXj5R6T9) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [WOKEUPTHINKINBOUT / HIDDEN VOICES](https://open.spotify.com/album/5YvxEnP5o1gFq3tynqsPBf) | 2:34 | 2022-01-07 | 2022-01-22 |
 | [Woman – Spotify Studio 100 Recording](https://open.spotify.com/track/2NsStPAsAhgdVqFl67R56M) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Woman – Spotify Studio 100 Recording](https://open.spotify.com/album/4qGxMmnCtIluxut29qDVUy) | 2:18 | 2022-02-11 | 2022-02-19 |

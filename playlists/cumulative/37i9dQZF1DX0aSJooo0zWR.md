@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea & Nino Josele
 
-131 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
+132 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Even Song](https://open.spotify.com/track/54nbMd4MHkfhCxJ425ANJi) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Even Song](https://open.spotify.com/album/1M43rju5xutOMHXO2jj6BP) | 8:23 | 2021-02-12 | 2022-07-29 |
 | [Face First](https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 7:04 | 2021-02-12 |  |
 | [Far And Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/track/7hUfeFl3SpwWli75e0VA1j) | [Benjamin Croft](https://open.spotify.com/artist/6DrVJByeJgHqJ7A3SsBnFE), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [Far and Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/album/39Opdt7XBmjgKFfbdlH8De) | 6:13 | 2021-08-06 | 2022-07-29 |
+| [Fire](https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE) | [Alina Bzhezhinska](https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN), [HipHarpCollective](https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e) | [Reflections](https://open.spotify.com/album/7vm57UmS0tpc8zaAV0rSUR) | 7:10 | 2022-09-02 |  |
 | [Friction](https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:00 | 2021-02-12 |  |
 | [Fuel City](https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:52 | 2022-09-30 |  |
 | [Funkdombe \- edit](https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU) | [Hector Bingert](https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Funkdombe \- edit](https://open.spotify.com/album/283Munji1hx8ykXv5sY57R) | 3:50 | 2022-04-08 | 2022-10-04 |
@@ -106,7 +107,7 @@
 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 | 2021-08-27 |  |
 | [S&R Video \(feat\. Randy Brecker\)](https://open.spotify.com/track/3kOzWLkvTi1uPAo7cPYxpe) | [Benjamin Croft](https://open.spotify.com/artist/6DrVJByeJgHqJ7A3SsBnFE), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [S&R Video \(feat\. Randy Brecker\)](https://open.spotify.com/album/356BiZhePgIIHCwm3DFaMf) | 5:07 | 2021-06-11 | 2022-07-29 |
 | [Sand](https://open.spotify.com/track/1ShkndHksfid3GCvIuSu2k) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/7HzTW0cBacJZwUomqAWPId) | 5:25 | 2021-02-12 | 2022-07-28 |
-| [Sand](https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 5:25 | 2021-02-12 |  |
+| [Sand](https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 5:25 | 2021-02-12 | 2022-10-11 |
 | [Savannah](https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Free Colors](https://open.spotify.com/album/5To6BwgtYKNgZnODcbexMa) | 4:11 | 2022-04-08 | 2022-07-26 |
 | [School Days](https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 7:49 | 2021-02-12 |  |
 | [Seventh String](https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:05 | 2022-09-30 |  |

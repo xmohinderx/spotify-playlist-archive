@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 201213,
       "name": "Eroe",
       "url": "https://open.spotify.com/track/6q0e4HCA3LuPFkDhsOEmrI"
@@ -2523,6 +2523,24 @@
       "duration_ms": 188141,
       "name": "Quattro Mani",
       "url": "https://open.spotify.com/track/3t7lGtFe1sWmlC9XbmZMtR"
+    },
+    {
+      "album": {
+        "name": "Requiem for TP",
+        "url": "https://open.spotify.com/album/3G2XhOuo98pWcII855p9ub"
+      },
+      "artists": [
+        {
+          "name": "Marnero",
+          "url": "https://open.spotify.com/artist/1x22C5vb3nBm1GAmQxwz8N"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251251,
+      "name": "Requiem for TP",
+      "url": "https://open.spotify.com/track/2tKkwGSScN2lXKPt4WnZ8r"
     },
     {
       "album": {

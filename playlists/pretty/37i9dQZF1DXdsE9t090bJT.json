@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 16150,
+  "num_followers": 16211,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDU1ZTJlZWY2OWIyMGNkNWEwYTZmYTgzMTk3N2MwYmYy",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDNjOGIwYjcyZjZkYTkxOTI4ODZiNjJkZDk5ZWNmZWU1",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 278073,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
@@ -355,6 +339,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 278073,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Todo Depende De Ti",
         "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
       },
@@ -367,6 +367,22 @@
       "duration_ms": 188413,
       "name": "Ni\u00f1a De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 173663,
+      "name": "Me Estoy Enamorando - en Vivo",
+      "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -407,34 +423,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Desde El Cant\u00f3n (en Vivo)",
-        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 173663,
-      "name": "Me Estoy Enamorando - en Vivo",
-      "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 270668,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
+      "duration_ms": 209664,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 270668,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 170720,
       "name": "Eres Una Ni\u00f1a",
       "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "Que Bonito Es Querer",
-      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 245911,
-      "name": "Dame Tu Calor",
-      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 281106,
       "name": "Amor",
       "url": "https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 245911,
+      "name": "Dame Tu Calor",
+      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "80% M\u00edo",
+        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Sin Sentimientos",
         "url": "https://open.spotify.com/album/3lG97wu5XvXTzclZNqkAGU"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 194329,
       "name": "Antes y Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "80% M\u00edo",
-        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Porque T\u00fa Llegaste (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/08Gd99qF2Dx89cRRQzhIbM"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Porque T\u00fa Llegaste - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/7kK0WBjfXWBXrIxgxhpXd9"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Ariel Camacho Para Siempre",
         "url": "https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 211776,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Porque T\u00fa Llegaste (Versi\u00f3n Banda)",
-        "url": "https://open.spotify.com/album/08Gd99qF2Dx89cRRQzhIbM"
-      },
-      "artists": [
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Porque T\u00fa Llegaste - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/7kK0WBjfXWBXrIxgxhpXd9"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Te Volver\u00eda A Elegir",
-      "url": "https://open.spotify.com/track/4Z9c9WrWh168eKq5L45DLm"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Seguimos Avanzando",
         "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 192576,
       "name": "De Mi Para Ti",
       "url": "https://open.spotify.com/track/1IrdLJmBmhIrzl52VwyAZQ"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Te Volver\u00eda A Elegir",
+      "url": "https://open.spotify.com/track/4Z9c9WrWh168eKq5L45DLm"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "Bien Me Conoces",
-      "url": "https://open.spotify.com/track/2evi3YjhkOYdeE8l6meZtS"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Amor Del Bueno",
-        "url": "https://open.spotify.com/album/2DU3xMuP9OOOzVNMgsTJ1h"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Amor Del Bueno",
-      "url": "https://open.spotify.com/track/5ZyWRrIdTZx4TneEv0FklV"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Dejame Decir",
         "url": "https://open.spotify.com/album/5xO35NsDA3TfOdAZQjfyUJ"
       },
@@ -1111,6 +1079,22 @@
       "duration_ms": 217703,
       "name": "Dejame Decir",
       "url": "https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "Bien Me Conoces",
+      "url": "https://open.spotify.com/track/2evi3YjhkOYdeE8l6meZtS"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1143,6 +1127,22 @@
       "duration_ms": 163253,
       "name": "Ella Es Mi Mujer",
       "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Amor Del Bueno",
+        "url": "https://open.spotify.com/album/2DU3xMuP9OOOzVNMgsTJ1h"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Amor Del Bueno",
+      "url": "https://open.spotify.com/track/5ZyWRrIdTZx4TneEv0FklV"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Te Quiero Aqui (Live Session)",
+        "url": "https://open.spotify.com/album/45371KQq8N3dbYubEAHnk7"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Te Quiero Aqui (Live Session)",
+      "url": "https://open.spotify.com/track/6Nr9lecX2OdRSFDf39CLld"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Con M\u00e1s Pawer",
         "url": "https://open.spotify.com/album/6Btf5qRQjRvQKPGFUAstvg"
       },
@@ -1343,42 +1363,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Te Quiero Aqui (Live Session)",
-        "url": "https://open.spotify.com/album/45371KQq8N3dbYubEAHnk7"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        },
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Te Quiero Aqui (Live Session)",
-      "url": "https://open.spotify.com/track/6Nr9lecX2OdRSFDf39CLld"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/2QUyaN7C939RpX11Zz1dQA"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 191692,
-      "name": "Ten\u00eda Que Ser As\u00ed",
-      "url": "https://open.spotify.com/track/0pEHlTn2r3JD3trdrZpmZG"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Porque Te Amo",
         "url": "https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 186462,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/2QUyaN7C939RpX11Zz1dQA"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 191692,
+      "name": "Ten\u00eda Que Ser As\u00ed",
+      "url": "https://open.spotify.com/track/0pEHlTn2r3JD3trdrZpmZG"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Mi Flaca",
-        "url": "https://open.spotify.com/album/6ER067IaW5l1r0vmvzefpq"
-      },
-      "artists": [
-        {
-          "name": "Elebier Lopez",
-          "url": "https://open.spotify.com/artist/3ePsUyFbJdTgoiGV6iIn6r"
-        }
-      ],
-      "duration_ms": 147078,
-      "name": "Mi Flaca",
-      "url": "https://open.spotify.com/track/1IZkTeEnEeUHbZDUqN6yOi"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Ya Me Vi",
         "url": "https://open.spotify.com/album/2yj7jiUObCnbAmUZJroe25"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 171586,
       "name": "Ya Me Vi",
       "url": "https://open.spotify.com/track/4KutOSvfb2MFvR0ROX4jtS"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Mi Flaca",
+        "url": "https://open.spotify.com/album/6ER067IaW5l1r0vmvzefpq"
+      },
+      "artists": [
+        {
+          "name": "Elebier Lopez",
+          "url": "https://open.spotify.com/artist/3ePsUyFbJdTgoiGV6iIn6r"
+        }
+      ],
+      "duration_ms": 147078,
+      "name": "Mi Flaca",
+      "url": "https://open.spotify.com/track/1IZkTeEnEeUHbZDUqN6yOi"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1579,22 +1579,6 @@
       "duration_ms": 162866,
       "name": "D\u00e9jame Llevarte",
       "url": "https://open.spotify.com/track/0UJs00Ps6vf3SuI84DjufP"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "M\u00eda",
-        "url": "https://open.spotify.com/album/3ly22PHkAVV8oZT0hJ18bp"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/1FtgJQpa7QUD30TxjnzzpL"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1631,22 +1615,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "En Vivo Desde El Rancho San Vicente",
-        "url": "https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA"
+        "name": "M\u00eda",
+        "url": "https://open.spotify.com/album/3ly22PHkAVV8oZT0hJ18bp"
       },
       "artists": [
         {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Me Gustas - Live",
-      "url": "https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB"
+      "duration_ms": 176335,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/1FtgJQpa7QUD30TxjnzzpL"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1663,6 +1643,26 @@
       "duration_ms": 196048,
       "name": "No Te Voy a Enga\u00f1ar",
       "url": "https://open.spotify.com/track/5MqeIXeVi4oMnyrtLFVUVh"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "En Vivo Desde El Rancho San Vicente",
+        "url": "https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Me Gustas - Live",
+      "url": "https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB"
     },
     {
       "added_at": "2022-02-11 20:24:54",

@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Anthony Gomes",
-  "num_followers": 134547,
+  "num_followers": 134585,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGY5NDE4OTExOWMwZDExNmY2ZTM0ZTM2NzViM2Y2NWYx",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDUxNzc0OGZiZDQwZmJhNGZiZDFkZDFhOGU5OWNiM2U4",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "WAYS",
-        "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 181218,
-      "name": "Any Way the Wind Blows",
-      "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "Every Hour Is A Dollar Gone",
         "url": "https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
+        "name": "WAYS",
+        "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 181218,
+      "name": "Any Way the Wind Blows",
+      "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -279,38 +279,6 @@
       "duration_ms": 160543,
       "name": "Eagle Birds",
       "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
-    },
-    {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -345,6 +313,22 @@
       "url": "https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d"
     },
     {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
+    },
+    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Feral Roots",
@@ -375,6 +359,22 @@
       "duration_ms": 168440,
       "name": "Sailing Down",
       "url": "https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw"
+    },
+    {
+      "added_at": "2021-04-30 04:01:00",
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -427,22 +427,6 @@
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -511,6 +495,22 @@
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -673,10 +673,10 @@
       "url": "https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Ain't None Watered Down",
-        "url": "https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2"
+        "name": "Truth And Lies",
+        "url": "https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
         }
       ],
-      "duration_ms": 192436,
-      "name": "Ain't None Watered Down",
-      "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
+      "duration_ms": 206173,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR"
     },
     {
       "added_at": "2021-03-05 05:01:00",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Lie Lie Lie",
-        "url": "https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Lie Lie Lie",
-      "url": "https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Scarborough Street Fight",
@@ -771,6 +755,38 @@
       "duration_ms": 270753,
       "name": "Scarborough Street Fight",
       "url": "https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Ain't None Watered Down",
+        "url": "https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "duration_ms": 192436,
+      "name": "Ain't None Watered Down",
+      "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Lie Lie Lie",
+        "url": "https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Lie Lie Lie",
+      "url": "https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4"
     },
     {
       "added_at": "2021-03-26 04:01:00",
@@ -803,22 +819,6 @@
       "duration_ms": 215600,
       "name": "Gotta Be Movin\u2019",
       "url": "https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Ones to Keep Close",
-        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 196843,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
     }
   ],
   "unique_name": "Modern Blues Rock",

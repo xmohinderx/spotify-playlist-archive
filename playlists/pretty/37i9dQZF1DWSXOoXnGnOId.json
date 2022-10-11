@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14325,
+  "num_followers": 14330,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDAxYzk3ZDQwN2JhNzFjNTdhNDg3MzU3MmY3OTM2YTFm",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGQ4MzljODQ2MWRkZjQzMzBhNDU2MDA4ZTY0OWM0NmVi",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 265570,
+      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 307889,
       "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 265570,
-      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -863,30 +863,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Let's Love (feat. Sia) [Vintage Culture, Fancy Inc Remix]",
-        "url": "https://open.spotify.com/album/12X0NZhNTn734YUWNL6Ojo"
+        "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
+        "url": "https://open.spotify.com/album/7rg1EDt1ggAvyiVsQRRVFr"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         },
         {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
         },
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
         }
       ],
-      "duration_ms": 220194,
-      "name": "Let's Love (feat. Sia) - Vintage Culture, Fancy Inc Remix",
-      "url": "https://open.spotify.com/track/2UxQYmVl8d5OczJnIUWxwH"
+      "duration_ms": 166875,
+      "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
+      "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -915,30 +915,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
-        "url": "https://open.spotify.com/album/7rg1EDt1ggAvyiVsQRRVFr"
+        "name": "Let's Love (feat. Sia) [Vintage Culture, Fancy Inc Remix]",
+        "url": "https://open.spotify.com/album/12X0NZhNTn734YUWNL6Ojo"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         },
         {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
         },
         {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 166875,
-      "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
-      "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
+      "duration_ms": 220194,
+      "name": "Let's Love (feat. Sia) - Vintage Culture, Fancy Inc Remix",
+      "url": "https://open.spotify.com/track/2UxQYmVl8d5OczJnIUWxwH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Love Line (with Tinashe) [HUGEL Remix]",
-        "url": "https://open.spotify.com/album/0uYAo4XuwGXdsPQaWDcmqb"
-      },
-      "artists": [
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 145638,
-      "name": "Love Line (with Tinashe) - HUGEL Remix",
-      "url": "https://open.spotify.com/track/5JLJspwJ2bV0MHQw5zTdsj"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Free Your Body (Noizu Remix)",
         "url": "https://open.spotify.com/album/2huZSD1rl3OePdo2y6in6t"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 228070,
       "name": "Free Your Body - Noizu Remix",
       "url": "https://open.spotify.com/track/1XcPgQVOzNYHIQ9LBjU10p"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Love Line (with Tinashe) [HUGEL Remix]",
+        "url": "https://open.spotify.com/album/0uYAo4XuwGXdsPQaWDcmqb"
+      },
+      "artists": [
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 145638,
+      "name": "Love Line (with Tinashe) - HUGEL Remix",
+      "url": "https://open.spotify.com/track/5JLJspwJ2bV0MHQw5zTdsj"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Alive (Remixes)",
-        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Alive - Solomun Remix Edit",
-      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Do It Like Me (feat. B-Case) [Robin Schulz Remix]",
         "url": "https://open.spotify.com/album/0x8JzrQkNVJJ6GHZOsOJ4Z"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 172020,
       "name": "Do It Like Me (feat. B-Case) - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/4Zy6ClzaV1UbBPxhw1J1RP"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Alive (Remixes)",
+        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Alive - Solomun Remix Edit",
+      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1943,6 +1943,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Pomegranate (Jay Robinson Remix)",
+        "url": "https://open.spotify.com/album/3I4jrDAM138QXgHszi4N8K"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        },
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        }
+      ],
+      "duration_ms": 332691,
+      "name": "Pomegranate - Jay Robinson Remix",
+      "url": "https://open.spotify.com/track/7v94HEWxH9qdM5eAXcY2lR"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Rise (twocolors Remix)",
         "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
       },
@@ -1983,30 +2007,6 @@
       "duration_ms": 259286,
       "name": "Nobody - Devault Remix",
       "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Pomegranate (Jay Robinson Remix)",
-        "url": "https://open.spotify.com/album/3I4jrDAM138QXgHszi4N8K"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "The Neptunes",
-          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
-        },
-        {
-          "name": "Jay Robinson",
-          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
-        }
-      ],
-      "duration_ms": 332691,
-      "name": "Pomegranate - Jay Robinson Remix",
-      "url": "https://open.spotify.com/track/7v94HEWxH9qdM5eAXcY2lR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2111,26 +2111,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Views of a Room",
-        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        }
-      ],
-      "duration_ms": 373890,
-      "name": "Babel - Maceo Plex Remix",
-      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Purple Hat (KC Lights Remix)",
         "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
       },
@@ -2147,6 +2127,26 @@
       "duration_ms": 209959,
       "name": "Purple Hat - KC Lights Remix",
       "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Views of a Room",
+        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "duration_ms": 373890,
+      "name": "Babel - Maceo Plex Remix",
+      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
     },
     {
       "added_at": "2021-07-30 04:00:00",

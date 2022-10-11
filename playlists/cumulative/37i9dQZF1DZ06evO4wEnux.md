@@ -4,11 +4,12 @@
 
 > This is Fatherson\. The essential tracks, all in one playlist.
 
-29 songs - 1 hr 47 min - [published](https://open.spotify.com/playlist/2w9AMEYmRxcqw1vx49H6j4)
+30 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/2w9AMEYmRxcqw1vx49H6j4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Always](https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:11 | 2022-09-16 |  |
+| [An Island](https://open.spotify.com/track/677aexYSCY66OqFPoVhA57) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:14 | 2022-10-10 |  |
 | [Better Friend](https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 4:17 | 2022-09-16 |  |
 | [Cat Stevens](https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:30 | 2022-09-16 |  |
 | [Charm School](https://open.spotify.com/track/5J1RjqttTtHcMimE4C1RZn) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:30 | 2022-09-16 |  |
@@ -20,7 +21,7 @@
 | [Ghost](https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:02 | 2022-09-16 |  |
 | [Gratitude](https://open.spotify.com/track/3U0VBpy0YU3dAE7KCh9s0W) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:37 | 2022-09-25 | 2022-10-05 |
 | [Half the Things](https://open.spotify.com/track/7iHkJ0K8sWYs9R8xERHd5s) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:30 | 2022-09-29 | 2022-10-08 |
-| [Hometown](https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:23 | 2022-09-16 |  |
+| [Hometown](https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:23 | 2022-09-16 | 2022-10-11 |
 | [Honest To God](https://open.spotify.com/track/5ZTCrAYPecQ2zjt7lmwNYw) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 | 2022-09-16 | 2022-09-26 |
 | [I Like Not Knowing](https://open.spotify.com/track/4fX5Tn7EGAuyYIk2VUaQER) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:21 | 2022-09-16 |  |
 | [James](https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 4:57 | 2022-09-16 |  |
@@ -31,8 +32,8 @@
 | [Making Waves](https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:32 | 2022-09-16 |  |
 | [Mine for Me](https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:00 | 2022-09-16 |  |
 | [Normal People](https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 2:58 | 2022-09-16 |  |
-| [Nothing to No One](https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9), [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:44 | 2022-09-16 | 2022-10-09 |
-| [Oh Yes](https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 5:19 | 2022-10-09 |  |
+| [Nothing to No One](https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9), [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:44 | 2022-09-16 |  |
+| [Oh Yes](https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 5:19 | 2022-10-09 | 2022-10-11 |
 | [Open Book](https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:09 | 2022-09-16 |  |
 | [Reflection](https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 5:14 | 2022-09-16 |  |
 | [Sleeping Over](https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:13 | 2022-09-16 |  |

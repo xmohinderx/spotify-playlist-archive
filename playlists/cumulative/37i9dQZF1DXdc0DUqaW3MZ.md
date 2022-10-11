@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-293 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
+294 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 | 2022-06-20 |  |
 | [Morning Matters](https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk) | 4:06 | 2021-12-07 | 2022-07-28 |
 | [Mounemouma](https://open.spotify.com/track/7diF7X2vCFc15ee69L2YI7) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Youkounkoun EP](https://open.spotify.com/album/3YIQqz7YAlNxVyH3M7brj9) | 3:38 | 2021-12-07 | 2022-07-28 |
+| [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 | 2022-06-20 |  |
 | [Moves](https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/3ZkymHWkq4HgtD200354OI) | 3:43 | 2021-12-07 | 2022-07-28 |
 | [Moving](https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:15 | 2022-06-20 |  |
 | [Moving](https://open.spotify.com/track/41BPaKM3OVc8gs3VXbAAu6) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/4iWfNxkqoDI2E1FOhnQnvg) | 5:15 | 2021-12-07 | 2022-07-29 |
@@ -296,7 +297,7 @@
 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 | 2022-06-20 |  |
 | [Word & Sound](https://open.spotify.com/track/49IoKe4k5cojTVuyLJYWVK) | [Natty](https://open.spotify.com/artist/2bYR6To8Z49UmceWctNMIb), [Benjamin Zephaniah](https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6), [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [Word & Sound](https://open.spotify.com/album/77HdqQWBiGEbtOaUxNi5en) | 4:39 | 2022-04-11 | 2022-04-13 |
 | [Work It Out](https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [Work It Out](https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ) | 3:06 | 2022-05-06 |  |
-| [You \(1000 Beasts Remix\)](https://open.spotify.com/track/1TzakCl94k0i561dxoNZWs) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elaine Malone](https://open.spotify.com/artist/5LHrdQzcsW8MCvaLNOlaqT) | [You \(1000 Beasts Remix\)](https://open.spotify.com/album/1XaAFaAtmfDiNi1t4vkIlP) | 3:43 | 2021-12-07 |  |
+| [You \(1000 Beasts Remix\)](https://open.spotify.com/track/1TzakCl94k0i561dxoNZWs) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elaine Malone](https://open.spotify.com/artist/5LHrdQzcsW8MCvaLNOlaqT) | [You \(1000 Beasts Remix\)](https://open.spotify.com/album/1XaAFaAtmfDiNi1t4vkIlP) | 3:43 | 2021-12-07 | 2022-10-11 |
 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 | 2021-12-07 |  |
 | [You Lose](https://open.spotify.com/track/3wmjDdktkLMElzYPSwJioq) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [You Lose](https://open.spotify.com/album/7bycJdJwYLKIHzov3reXLn) | 3:01 | 2022-04-11 | 2022-04-21 |
 | [You Will Find It](https://open.spotify.com/track/2AoygDLupCmri0iCtEJsGc) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk), [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [You Will Find It](https://open.spotify.com/album/0A8oruLld7zmdVJnh7SATi) | 4:34 | 2022-04-11 | 2022-04-14 |

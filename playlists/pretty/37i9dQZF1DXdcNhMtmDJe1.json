@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 72491,
+  "num_followers": 72507,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGRiMGViNzg4NmIxM2JlMTRmNGQ1ZGRmOWE4YTdkNTE4",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDk5NDFlMTNjNTVjYzYzNmFkNjE3MWI1YTc4ZGMyY2Y3",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
         "url": "https://open.spotify.com/album/2vz9bOelnO5EoDBPkzEJjt"
       },
@@ -247,18 +231,18 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 197066,
-      "name": "Who Cares?",
-      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
+      "duration_ms": 169786,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -283,6 +267,22 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Who Cares?",
+      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -303,26 +303,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: An American In Paris / Porgy And Bess",
-        "url": "https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ"
-      },
-      "artists": [
-        {
-          "name": "New Zealand Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        }
-      ],
-      "duration_ms": 642240,
-      "name": "Cuban Overture",
-      "url": "https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: 6 Songs / Corea: Children's Songs",
         "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 78000,
       "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
       "url": "https://open.spotify.com/track/2e0YXuNYzhUb9dKpBnGmWq"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: An American In Paris / Porgy And Bess",
+        "url": "https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ"
+      },
+      "artists": [
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 642240,
+      "name": "Cuban Overture",
+      "url": "https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 510600,
-      "name": "A Damsel In Distress: A Foggy Day",
-      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
+      "duration_ms": 366960,
+      "name": "Rosalie: How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 366960,
-      "name": "Rosalie: How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
+      "duration_ms": 510600,
+      "name": "A Damsel In Distress: A Foggy Day",
+      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Works",
-        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        }
-      ],
-      "duration_ms": 96266,
-      "name": "Song Book: That Certain Feeling. Ardently",
-      "url": "https://open.spotify.com/track/5wdTS5phmn9ehfcAreEyvb"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Rhapsody in Blue; Piano Concerto in F; Catfish Row etc",
         "url": "https://open.spotify.com/album/5xOmD6lLCcDtmsj61EbxOi"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 389173,
       "name": "Concerto in F: 3. Allegro agitato",
       "url": "https://open.spotify.com/track/0VIGqlNjBUuRs37Habo8Rn"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 96266,
+      "name": "Song Book: That Certain Feeling. Ardently",
+      "url": "https://open.spotify.com/track/5wdTS5phmn9ehfcAreEyvb"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1083,34 +1083,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
-        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Peter Jablonski",
-          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 799826,
-      "name": "Piano Concerto in F: 2. Adagio",
-      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Fantasy",
         "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
       },
@@ -1135,6 +1107,34 @@
       "duration_ms": 1224000,
       "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
       "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
+        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Peter Jablonski",
+          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 799826,
+      "name": "Piano Concerto in F: 2. Adagio",
+      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
     },
     {
       "added_at": "2022-08-05 04:02:00",

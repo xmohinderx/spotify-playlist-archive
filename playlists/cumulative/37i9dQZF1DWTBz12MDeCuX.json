@@ -204,6 +204,24 @@
     },
     {
       "album": {
+        "name": "A Place For Us",
+        "url": "https://open.spotify.com/album/4lznvxisVJ1fTu5EaxxrKu"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194769,
+      "name": "A Place For Us",
+      "url": "https://open.spotify.com/track/5XQkLMeRBFzb8zq3Gkr23N"
+    },
+    {
+      "album": {
         "name": "A$AP & Rihanna",
         "url": "https://open.spotify.com/album/7mwRWlmAOQEWnEOgV3NEt2"
       },
@@ -630,6 +648,28 @@
     },
     {
       "album": {
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/7nC6jmFJ2jpycTEgeu9a4J"
+      },
+      "artists": [
+        {
+          "name": "pxzvc",
+          "url": "https://open.spotify.com/artist/4zFUPBeN9jhNn8qkgxEpW9"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114108,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/4Z0qEl50Xg5oHY1T6XZpQX"
+    },
+    {
+      "album": {
         "name": "Bamba (feat. Aitch & BIA)",
         "url": "https://open.spotify.com/album/3cOBmVLauHdg4S3F7sJHyF"
       },
@@ -969,6 +1009,24 @@
       "duration_ms": 172563,
       "name": "BLUTMOND",
       "url": "https://open.spotify.com/track/32tWeWmR8GNs2vq2n7mEJ2"
+    },
+    {
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/7xz8opvNwGppaQixU3usRD"
+      },
+      "artists": [
+        {
+          "name": "Barnette",
+          "url": "https://open.spotify.com/artist/6WzBnbxi0amnDNYseFC6VB"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Bordeaux",
+      "url": "https://open.spotify.com/track/3E5XC3fJJZETpfe3IuQAda"
     },
     {
       "album": {
@@ -1456,6 +1514,24 @@
     },
     {
       "album": {
+        "name": "Phonk MixTape (Remix)",
+        "url": "https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u"
+      },
+      "artists": [
+        {
+          "name": "Fxbii",
+          "url": "https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117434,
+      "name": "Crazy Phonk - Remix",
+      "url": "https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY"
+    },
+    {
+      "album": {
         "name": "cro hat mir gesagt es wird easy",
         "url": "https://open.spotify.com/album/6hl9RsxvCWtNxnZeGqk0tH"
       },
@@ -1885,7 +1961,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 165960,
       "name": "Elfbars",
       "url": "https://open.spotify.com/track/5ukfal4wrVoQSRZfSJBiVp"
@@ -1925,7 +2001,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 185266,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
@@ -1961,7 +2037,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 123829,
       "name": "Erstmal Essen",
       "url": "https://open.spotify.com/track/00SCoeeKghqbYfxHSRV64D"
@@ -1997,7 +2073,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 140001,
       "name": "Etepetete",
       "url": "https://open.spotify.com/track/1h40cvRTFPEYv6nf0b2Agu"
@@ -2237,7 +2313,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -3171,6 +3247,24 @@
       "duration_ms": 105120,
       "name": "In Love",
       "url": "https://open.spotify.com/track/5e6AR8ACevdfJHBi3xxNJn"
+    },
+    {
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177609,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU"
     },
     {
       "album": {
@@ -4438,6 +4532,24 @@
     },
     {
       "album": {
+        "name": "No Wind Resistance SPED UP!",
+        "url": "https://open.spotify.com/album/5QOIpTHNCMfnDJSXU2pCv1"
+      },
+      "artists": [
+        {
+          "name": "Kinneret",
+          "url": "https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "No Wind Resistance SPED UP!",
+      "url": "https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq"
+    },
+    {
+      "album": {
         "name": "not a home",
         "url": "https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln"
       },
@@ -4679,7 +4791,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 193994,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/61Np0MhnQO1B1LZGIxxX0d"
@@ -5208,6 +5320,24 @@
     },
     {
       "album": {
+        "name": "Oso Different",
+        "url": "https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI"
+      },
+      "artists": [
+        {
+          "name": "MarMar Oso",
+          "url": "https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233023,
+      "name": "Ruthless (Nice Guys Always Finish Last)",
+      "url": "https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9"
+    },
+    {
+      "album": {
         "name": "S-Bahn",
         "url": "https://open.spotify.com/album/29RE8Cu8rzMa6gnJsOWBQE"
       },
@@ -5259,6 +5389,24 @@
       "duration_ms": 169789,
       "name": "saddest soundtrack",
       "url": "https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4"
+    },
+    {
+      "album": {
+        "name": "First Draft",
+        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127934,
+      "name": "Save Me, Please",
+      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
     },
     {
       "album": {
@@ -5353,7 +5501,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 138028,
       "name": "Schon gut",
       "url": "https://open.spotify.com/track/3XFbTdznmfjLogWvVJTrhc"
@@ -6145,7 +6293,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 160321,
       "name": "S\u00fc\u00dfe Tr\u00e4ume",
       "url": "https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk"
@@ -6233,6 +6381,24 @@
       "duration_ms": 241840,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
       "album": {
@@ -6345,6 +6511,24 @@
       "duration_ms": 270079,
       "name": "the way i make things feel okay",
       "url": "https://open.spotify.com/track/6cwoWIlnIjELEUroEMLAwl"
+    },
+    {
+      "album": {
+        "name": "Those Eyes Alternate Versions",
+        "url": "https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167658,
+      "name": "Those Eyes - Sped Up",
+      "url": "https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq"
     },
     {
       "album": {
@@ -6627,7 +6811,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -6881,7 +7065,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 121508,
       "name": "Was du denkst Pt.1",
       "url": "https://open.spotify.com/track/66L1VvqXXBCRYB0coJLt5t"

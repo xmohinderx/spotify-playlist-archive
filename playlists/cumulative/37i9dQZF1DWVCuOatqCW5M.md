@@ -4,7 +4,7 @@
 
 > New music from popular Hindi artists\. Cover\- Sonu Kakkar
 
-266 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
+267 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Behosh](https://open.spotify.com/track/5b4liCyMaLHS2qMUYsZTXp) | [Shivai Vyas](https://open.spotify.com/artist/37q4Yd87zFhJmXx5Xn7v35) | [Behosh](https://open.spotify.com/album/5vm07tPLS9GneWP2TPO5YU) | 3:40 | 2022-07-01 | 2022-09-02 |
 | [Bekal](https://open.spotify.com/track/14K54JjzB6hPczfOoekvpz) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Bekal](https://open.spotify.com/album/3a6uB1GWxknOfS5HaR96tb) | 3:42 | 2022-05-27 | 2022-07-09 |
 | [Bekhabar](https://open.spotify.com/track/20H7gJ6egUmfOzQ00t5DEH) | [Deepanshi Nagar](https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Bekhabar](https://open.spotify.com/album/1NvOkJwsKFEzthlxDr9UnV) | 2:50 | 2022-08-05 | 2022-09-23 |
-| [Bekhabar](https://open.spotify.com/track/4xq298E10Z5GL9WPdSuItk) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Bekhabar](https://open.spotify.com/album/7cC9JeIRIWavxxxqHOeyTA) | 3:46 | 2022-09-16 |  |
+| [Bekhabar](https://open.spotify.com/track/4xq298E10Z5GL9WPdSuItk) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Bekhabar](https://open.spotify.com/album/7cC9JeIRIWavxxxqHOeyTA) | 3:46 | 2022-09-16 | 2022-10-11 |
 | [Benaqaab](https://open.spotify.com/track/3KDutI0zWNCsVDqxcymKNU) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c), [Unluv](https://open.spotify.com/artist/1gfBkrHfGufMP7P5eiZKsN) | [Benaqaab](https://open.spotify.com/album/7qOmSz1poR9PDk9lWzbaFA) | 3:16 | 2022-06-24 | 2022-07-16 |
 | [Bharosa](https://open.spotify.com/track/3pYe2NYbHcabSrfbKxWoS6) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Nishawn Bhullar](https://open.spotify.com/artist/0PSwUlsuLrXzPlWIMW8wFZ), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Bharosa](https://open.spotify.com/album/2Uy2JxwpkLsWxKu8nGue95) | 2:55 | 2022-09-16 |  |
 | [Bole De](https://open.spotify.com/track/2j9MxHSFiSN3Y7juV1fwzn) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Bole De \- Bhoy Peona](https://open.spotify.com/album/64NXQX11JvRNS1c40WQJSM) | 3:38 | 2022-05-27 | 2022-07-09 |
@@ -199,6 +199,7 @@
 | [papertown.](https://open.spotify.com/track/7pZfo6kOmU3f6TriyvJL5O) | [jeevana.](https://open.spotify.com/artist/1EGJR0noOlMQQP0xHcpThj), [Essjay.](https://open.spotify.com/artist/2nNsc7eXh2INGow0d5s1VR) | [papertown.](https://open.spotify.com/album/7IPo7adoztdt95QSQSurwK) | 2:19 | 2022-06-17 | 2022-06-25 |
 | [Pareshaan](https://open.spotify.com/track/5Infc095QF0BDwCF9rMyxD) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Pareshaan](https://open.spotify.com/album/45CSYEp4RHs2bNSiUUdfMb) | 4:04 | 2022-06-03 | 2022-06-18 |
 | [Paris Ka Trip](https://open.spotify.com/track/4t22MCG1GHjKlXRCIlJlDd) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Asli GOLD](https://open.spotify.com/artist/0MDuneb2yM4vkubU0FwDKp) | [Paris Ka Trip](https://open.spotify.com/album/3wrAkSJmYHwokdHci0Iuyh) | 3:16 | 2022-10-07 |  |
+| [Paris London Amsterdam](https://open.spotify.com/track/3GWeh6TZPVUnvya1nawN2j) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Paris London Amsterdam](https://open.spotify.com/album/34O1GF6fBegS1jalmpTRjv) | 2:24 | 2022-10-10 |  |
 | [Pasbaan](https://open.spotify.com/track/0tiLDRf1GiKejG9M0WBqdd) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey), [XTACY](https://open.spotify.com/artist/6YOZBKPwkJvn3lVxzkFIBP), [Hashim Nawaz](https://open.spotify.com/artist/2zurwnLzcPvY8n3jJEse5E) | [Pasbaan](https://open.spotify.com/album/44SnPFNd4MMe5sQyonRO36) | 4:01 | 2022-09-08 | 2022-10-08 |
 | [Payal](https://open.spotify.com/track/5CSoKVWkEDOnpS3Gl8ZmN1) | [Shivam Grover](https://open.spotify.com/artist/7J7OU0Z2CbX61VuOiV6NHL), [Akriti Kakkar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW) | [Payal](https://open.spotify.com/album/3eFDlUm2xapYjxy0Qsnnew) | 3:24 | 2022-05-27 | 2022-06-11 |
 | [Phir Bekhabar](https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Phir Bekhabar](https://open.spotify.com/album/0cGn21RY35wMplh6OB7nRL) | 3:17 | 2022-09-16 |  |

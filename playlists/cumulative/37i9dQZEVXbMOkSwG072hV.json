@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 176973,
       "name": "After LIKE",
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 320872,
       "name": "Agora Eu Quero \u00c9 Lula L\u00e1",
       "url": "https://open.spotify.com/track/084RRLE3vLyu8PfonriKuu"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 180504,
       "name": "Assunto Delicado - Ao Vivo",
       "url": "https://open.spotify.com/track/3yHXEidSu4gYVRqKoI653O"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 251259,
       "name": "Baile de Favela - Remix",
       "url": "https://open.spotify.com/track/70v2lrNsFa38VeEEWKCjLP"
@@ -2063,7 +2063,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 182968,
       "name": "Bolsonaro \u00c9 o Melhor",
       "url": "https://open.spotify.com/track/1wiwxozTgRbZYIxW0XtjvL"
@@ -2081,7 +2081,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 203372,
       "name": "Bolsonaro \u00c9 o Melhor pro Meu Pa\u00eds",
       "url": "https://open.spotify.com/track/0HD2M7H5F8I4WEAkmDaps9"
@@ -2313,6 +2313,28 @@
       "duration_ms": 200156,
       "name": "BRUXARIA ALTERNATIVA",
       "url": "https://open.spotify.com/track/729sVXS7KQK9akjCfAcXmL"
+    },
+    {
+      "album": {
+        "name": "Rel\u00edquia da Putaria",
+        "url": "https://open.spotify.com/album/232WBvvmumGeBFN1rCBZ3D"
+      },
+      "artists": [
+        {
+          "name": "DJ R7",
+          "url": "https://open.spotify.com/artist/6WuTZb8WWZ5xitAQrgAJY2"
+        },
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174823,
+      "name": "Buceta Desgra\u00e7ada",
+      "url": "https://open.spotify.com/track/28dloadHfXGXg6ixIuyDXF"
     },
     {
       "album": {
@@ -3109,6 +3131,24 @@
       "duration_ms": 150108,
       "name": "Correntinha (Ao Vivo)",
       "url": "https://open.spotify.com/track/3dfgx39R70gnhgTbEUN1AN"
+    },
+    {
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "album": {
@@ -5159,7 +5199,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 275435,
       "name": "Gatinha Comunista",
       "url": "https://open.spotify.com/track/0LjY5kfLP4TfD8wX3plY62"
@@ -5739,7 +5779,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
@@ -5943,7 +5983,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 139703,
       "name": "Imprevisto",
       "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
@@ -6493,7 +6533,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 181048,
       "name": "Lance Livre - Ao vivo",
       "url": "https://open.spotify.com/track/6LBDtzlM7s9XGB7diqpB8z"
@@ -6767,7 +6807,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 196388,
       "name": "Lula 2022",
       "url": "https://open.spotify.com/track/3J3oeKeRYWzYRuPKoOxzdY"
@@ -6829,7 +6869,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 103594,
       "name": "Lula L\u00e1 no Funk 150 Bpm",
       "url": "https://open.spotify.com/track/33IX6O7YB75VvNQOmxzlry"
@@ -7845,7 +7885,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
@@ -9899,7 +9939,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 134113,
       "name": "Passinho do Lula Livre",
       "url": "https://open.spotify.com/track/3H1ryMuJhgOCNx5e640u7L"
@@ -12752,6 +12792,28 @@
     },
     {
       "album": {
+        "name": "Te Taco Vs Vem Dj Me Arrasta Pra Treta",
+        "url": "https://open.spotify.com/album/5TmS6Mr7XfSy0W8WiBjpot"
+      },
+      "artists": [
+        {
+          "name": "Dj PT do Coqueiro",
+          "url": "https://open.spotify.com/artist/4rWeIbGhIWvNhAp2NFYrw7"
+        },
+        {
+          "name": "Mc Nick",
+          "url": "https://open.spotify.com/artist/3ShnwaSECgcrXtWIe3A9Mz"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60070,
+      "name": "Te Taco Vs Vem Dj Me Arrasta Pra Treta",
+      "url": "https://open.spotify.com/track/6o0f8BSvMdstMm3Absxwmr"
+    },
+    {
+      "album": {
         "name": "TE VI LEMBREI QUE TU ERA DA MINHA SALA TIKTOK",
         "url": "https://open.spotify.com/album/0CfbNDJpsZUsnMslOqOesM"
       },
@@ -13341,7 +13403,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 132949,
       "name": "Traz de Volta o Lula e Manda Embora o Bolsonaro",
       "url": "https://open.spotify.com/track/3zHhmDnPEKM4ZbeDStAmXH"
@@ -13413,7 +13475,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 176666,
       "name": "Tropa do Homem",
       "url": "https://open.spotify.com/track/7qpINotJcNjlbxzwZYWFOm"
@@ -13623,7 +13685,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 126380,
       "name": "T\u00f4 Com Saudade do Tempo de Lula",
       "url": "https://open.spotify.com/track/5J0xpihXuHvMxj7L70y6KH"
@@ -13769,7 +13831,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -13871,7 +13933,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 165558,
       "name": "Vai dar PT",
       "url": "https://open.spotify.com/track/4Ti7WdCbPoxBBURxuY6sT9"

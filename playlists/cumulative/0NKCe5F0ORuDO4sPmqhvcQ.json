@@ -5532,6 +5532,24 @@
     },
     {
       "album": {
+        "name": "TEAR ME UP",
+        "url": "https://open.spotify.com/album/5uhWQVC6tunHHBBrZD93Xa"
+      },
+      "artists": [
+        {
+          "name": "Khamsin",
+          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "TEAR ME UP",
+      "url": "https://open.spotify.com/track/5Jsc4Z9MkLB6tfjpByhQzR"
+    },
+    {
+      "album": {
         "name": "Tears '06",
         "url": "https://open.spotify.com/album/3iT6LycWhaHIsb9dslPOtK"
       },

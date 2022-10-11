@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 29322,
+  "num_followers": 29353,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGMzMWUzNTlkZGZjNTFmYTM3OGE0NGI1NWJhNjM1MWUx",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDM2ZmI2NDJhMjRiNDZlYTUyZjliMzZjODQxODhkNDZi",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -159,6 +159,38 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
+        "name": "Apostrophe(')",
+        "url": "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "duration_ms": 349786,
+      "name": "Apostrophe'",
+      "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 267635,
+      "name": "The Knew Untitled",
+      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
         "name": "Extraction",
         "url": "https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT"
       },
@@ -179,22 +211,6 @@
       "duration_ms": 373813,
       "name": "Extraction",
       "url": "https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 267635,
-      "name": "The Knew Untitled",
-      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -219,22 +235,6 @@
       "duration_ms": 233523,
       "name": "Flight of the Murder Hornet",
       "url": "https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Apostrophe(')",
-        "url": "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
-      },
-      "artists": [
-        {
-          "name": "Frank Zappa",
-          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
-        }
-      ],
-      "duration_ms": 349786,
-      "name": "Apostrophe'",
-      "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "XD [Experience Design]",
-        "url": "https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr"
-      },
-      "artists": [
-        {
-          "name": "Immortal Onion",
-          "url": "https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz"
-        }
-      ],
-      "duration_ms": 347797,
-      "name": "Triggers",
-      "url": "https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu"
-    },
-    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Flowerbed",
@@ -323,6 +307,22 @@
       "duration_ms": 266535,
       "name": "Flowerbed",
       "url": "https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "XD [Experience Design]",
+        "url": "https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr"
+      },
+      "artists": [
+        {
+          "name": "Immortal Onion",
+          "url": "https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz"
+        }
+      ],
+      "duration_ms": 347797,
+      "name": "Triggers",
+      "url": "https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y"
     },
     {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Zeal",
-        "url": "https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp"
-      },
-      "artists": [
-        {
-          "name": "Bill Laurance",
-          "url": "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
-        }
-      ],
-      "duration_ms": 383881,
-      "name": "Zeal",
-      "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Never Ending",
@@ -619,6 +603,22 @@
       "duration_ms": 169000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Zeal",
+        "url": "https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp"
+      },
+      "artists": [
+        {
+          "name": "Bill Laurance",
+          "url": "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
+        }
+      ],
+      "duration_ms": 383881,
+      "name": "Zeal",
+      "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Casting for Gravity (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
-        "url": "https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki"
-      },
-      "artists": [
-        {
-          "name": "Donny McCaslin",
-          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
-        }
-      ],
-      "duration_ms": 437607,
-      "name": "Stadium Jazz",
-      "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 183601,
       "name": "Taurian Matador",
       "url": "https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Casting for Gravity (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+        "url": "https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki"
+      },
+      "artists": [
+        {
+          "name": "Donny McCaslin",
+          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
+        }
+      ],
+      "duration_ms": 437607,
+      "name": "Stadium Jazz",
+      "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
     },
     {
       "added_at": "2021-03-26 04:01:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Two Drink Minimum",
-        "url": "https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP"
-      },
-      "artists": [
-        {
-          "name": "Wayne Krantz",
-          "url": "https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "Whippersnapper",
-      "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "Lingua Franca",
         "url": "https://open.spotify.com/album/2xoZN3Rk6x5Llp8PgJjwlh"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 284186,
       "name": "Consider Yourself Judged",
       "url": "https://open.spotify.com/track/2L11VPEQ44OCSTjjHp4HdE"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Two Drink Minimum",
+        "url": "https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP"
+      },
+      "artists": [
+        {
+          "name": "Wayne Krantz",
+          "url": "https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "Whippersnapper",
+      "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
     },
     {
       "added_at": "2021-04-16 05:00:00",

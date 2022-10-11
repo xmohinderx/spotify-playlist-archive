@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 55383,
+  "num_followers": 55400,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMDFhYjU1MmEzZmI2MzVkNDQxMGU4MjIxOGQ0OGU2MTAy",
+  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMDczNTFjNWM3NWExOWU0Y2Q2MWM0ZDkwNjk0NTcwMDk3",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Coraz\u00f3n D' Roto",
-        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
+        "name": "120 Km/Hr.",
+        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
       },
       "artists": [
         {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
         }
       ],
-      "duration_ms": 217920,
-      "name": "Apariencia",
-      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
+      "duration_ms": 221066,
+      "name": "Vamos Otra Vez",
+      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "120 Km/Hr.",
-        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Vamos Otra Vez",
-      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "J\u00e4ula",
         "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 226063,
       "name": "Cc (Como Compas)",
       "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Coraz\u00f3n D' Roto",
+        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
+      },
+      "artists": [
+        {
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+        }
+      ],
+      "duration_ms": 217920,
+      "name": "Apariencia",
+      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Gran Blanco",
-        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
-      },
-      "artists": [
-        {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "La B\u00fasqueda del Tiempo Perdido",
         "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 224680,
       "name": "Desamorados",
       "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Gran Blanco",
+        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
+      },
+      "artists": [
+        {
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Y Si Patinan?",
-        "url": "https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD"
-      },
-      "artists": [
-        {
-          "name": "Skates Mx",
-          "url": "https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Siempre Fuerte",
-      "url": "https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Disparos",
         "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 229500,
       "name": "Disparos",
       "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Y Si Patinan?",
+        "url": "https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD"
+      },
+      "artists": [
+        {
+          "name": "Skates Mx",
+          "url": "https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Siempre Fuerte",
+      "url": "https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "Al infierno y de regreso",
+        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
+      },
+      "artists": [
+        {
+          "name": "NUNO",
+          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "Clavo",
         "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 170400,
       "name": "Clavo",
       "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Al infierno y de regreso",
-        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
-      },
-      "artists": [
-        {
-          "name": "NUNO",
-          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
     },
     {
       "added_at": "2022-10-01 18:54:42",

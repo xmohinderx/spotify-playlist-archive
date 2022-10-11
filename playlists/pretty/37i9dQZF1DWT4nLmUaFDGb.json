@@ -1,15 +1,15 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 238370,
+  "num_followers": 239304,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyODc4MiwwMDAwMDAwMDdmZTRkOTVjOThlY2ZkZTllNjRjOTgyNGE4YTM4MmJl",
+  "snapshot_id": "MTY2NTQwOTMzNCwwMDAwMDAwMDQxOTQ0OTc2M2U5ZTI0YWM1MjA1MmEwODFjZTUyMGVi",
   "tracks": [
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Lovers Rock",
         "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "The Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Live In Paris",
         "url": "https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Renee Olstead",
         "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
@@ -105,71 +105,7 @@
       "url": "https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Liquid Spirit (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Hey Laura",
-      "url": "https://open.spotify.com/track/3VFr9JYb6ppsl4yxwerUXq"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "(Getting Some) Fun out of Life",
-      "url": "https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Just A Little Lovin'",
-        "url": "https://open.spotify.com/album/1Qp047VBGL9d1PkHWKuqG5"
-      },
-      "artists": [
-        {
-          "name": "Shelby Lynne",
-          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "I Only Want To Be With You",
-      "url": "https://open.spotify.com/track/1oAs44xVvu4QaZpX9033S5"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
@@ -185,7 +121,71 @@
       "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Liquid Spirit (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Hey Laura",
+      "url": "https://open.spotify.com/track/3VFr9JYb6ppsl4yxwerUXq"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 192173,
+      "name": "(Getting Some) Fun out of Life",
+      "url": "https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Just A Little Lovin'",
+        "url": "https://open.spotify.com/album/1Qp047VBGL9d1PkHWKuqG5"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/1oAs44xVvu4QaZpX9033S5"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Worrisome Heart",
         "url": "https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y"
@@ -201,135 +201,7 @@
       "url": "https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "The Boy Next Door (Special Edition)",
-        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 261920,
-      "name": "You've Got A Friend",
-      "url": "https://open.spotify.com/track/7CbgvHE083TAjaRuEfwwgm"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Bare Bones",
-        "url": "https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "To Love You All Over Again",
-      "url": "https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Just Like Chet",
-      "url": "https://open.spotify.com/track/7MUT6pSYjzAUJYSg3Hva02"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Introducing",
-        "url": "https://open.spotify.com/album/18k94eozbQ5Ro7AyYMxOSF"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Dream A Little Dream",
-      "url": "https://open.spotify.com/track/5vVLUqs9ogEGnH44Lh8Tuc"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "The Gospel Truth (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 225093,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Mother and Brother",
-        "url": "https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o"
-      },
-      "artists": [
-        {
-          "name": "Jeff Cascaro",
-          "url": "https://open.spotify.com/artist/7oGP1dZ6BymT9wrPFbuS8v"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "The Sun Is Shining for Our Love",
-      "url": "https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "The Beat Goes On",
-        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 280529,
-      "name": "Don't Think Twice, It's Alright",
-      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "The Girl In The Other Room",
-        "url": "https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 267720,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
@@ -345,7 +217,151 @@
       "url": "https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "The Boy Next Door (Special Edition)",
+        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 261920,
+      "name": "You've Got A Friend",
+      "url": "https://open.spotify.com/track/7CbgvHE083TAjaRuEfwwgm"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Just Like Chet",
+      "url": "https://open.spotify.com/track/7MUT6pSYjzAUJYSg3Hva02"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "The Gospel Truth (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Bare Bones",
+        "url": "https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "To Love You All Over Again",
+      "url": "https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Introducing",
+        "url": "https://open.spotify.com/album/18k94eozbQ5Ro7AyYMxOSF"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Dream A Little Dream",
+      "url": "https://open.spotify.com/track/5vVLUqs9ogEGnH44Lh8Tuc"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Mother and Brother",
+        "url": "https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o"
+      },
+      "artists": [
+        {
+          "name": "Jeff Cascaro",
+          "url": "https://open.spotify.com/artist/7oGP1dZ6BymT9wrPFbuS8v"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "The Sun Is Shining for Our Love",
+      "url": "https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 280529,
+      "name": "Don't Think Twice, It's Alright",
+      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "What Am I To You?",
+      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "The Girl In The Other Room",
+        "url": "https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 267720,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Make this moment",
         "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Sunset In The Blue",
         "url": "https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq"
@@ -377,23 +393,31 @@
       "url": "https://open.spotify.com/track/0zjOktNIgywCUwaJrIX93E"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
-        "name": "Moon Lover",
-        "url": "https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj"
+        "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
+        "url": "https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Silva Thordardottir",
+          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
+        },
+        {
+          "name": "Steingr\u00edmur Teague",
+          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+        },
+        {
+          "name": "J\u00f3el P\u00e1lsson",
+          "url": "https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND"
+      "duration_ms": 221000,
+      "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
+      "url": "https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
@@ -409,7 +433,75 @@
       "url": "https://open.spotify.com/track/4bOsrHAmfULYx4PmkLV7nr"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Moon Lover",
+        "url": "https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 145413,
+      "name": "Seven Years",
+      "url": "https://open.spotify.com/track/3oBsEd0mQKKge4HSSt5yV8"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 248416,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "I'm the Sky, I'm the Earth",
+        "url": "https://open.spotify.com/album/2QwPH97GI2FZtSIde5XYtq"
+      },
+      "artists": [
+        {
+          "name": "Deniz Ta\u015far",
+          "url": "https://open.spotify.com/artist/2Z7riPm17MlJxHaIFnQwP6"
+        },
+        {
+          "name": "Halil \u00c7a\u011flar Serin",
+          "url": "https://open.spotify.com/artist/7kxam8m0RJa1CvcEm7ufmd"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "I'm the Sky, I'm the Earth",
+      "url": "https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Ultimate Collection",
         "url": "https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u"
@@ -429,7 +521,7 @@
       "url": "https://open.spotify.com/track/49GsE7zUrjEea5QXfP4NWS"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw"
@@ -461,39 +553,7 @@
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 248416,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "What Am I To You?",
-      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
@@ -525,7 +585,7 @@
       "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Fictions",
         "url": "https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3"
@@ -541,7 +601,23 @@
       "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "As You Wish",
+        "url": "https://open.spotify.com/album/6jNGB51fvvkF49gqkDdOZG"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Place",
+          "url": "https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54"
+        }
+      ],
+      "duration_ms": 105721,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
@@ -557,7 +633,7 @@
       "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "once in a moon",
         "url": "https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963"
@@ -573,103 +649,7 @@
       "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "I've Never Been In Love Before",
-      "url": "https://open.spotify.com/track/5Hmwj4ggGHuHm0prNevBBA"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 251920,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 145413,
-      "name": "Seven Years",
-      "url": "https://open.spotify.com/track/3oBsEd0mQKKge4HSSt5yV8"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Currency Of Man (The Artist's Cut)",
-        "url": "https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 305578,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 150813,
-      "name": "Jimmy Jazz",
-      "url": "https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Careless Love",
-        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Don't Wait Too Long",
-      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Songs From Other Places (Special Edition)",
         "url": "https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1"
@@ -689,7 +669,135 @@
       "url": "https://open.spotify.com/track/0AdeVqrnbX2SeC9RGVgJWm"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "I've Never Been In Love Before",
+      "url": "https://open.spotify.com/track/5Hmwj4ggGHuHm0prNevBBA"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
+      },
+      "artists": [
+        {
+          "name": "Disco Loveless",
+          "url": "https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL"
+        }
+      ],
+      "duration_ms": 201577,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 251920,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Currency Of Man (The Artist's Cut)",
+        "url": "https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 305578,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 150813,
+      "name": "Jimmy Jazz",
+      "url": "https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "end credits",
+        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 248500,
+      "name": "end credits",
+      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7"
+      },
+      "artists": [
+        {
+          "name": "Alex Baird",
+          "url": "https://open.spotify.com/artist/1rosAujh5WdTHfT3eLlaUX"
+        }
+      ],
+      "duration_ms": 348013,
+      "name": "All I Needed",
+      "url": "https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Don't Wait Too Long",
+      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Genius Loves Company",
         "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
@@ -709,7 +817,7 @@
       "url": "https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
@@ -725,39 +833,7 @@
       "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "end credits",
-        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 248500,
-      "name": "end credits",
-      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Jazz Love",
-        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 236469,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Balm in Gilead",
         "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
@@ -773,7 +849,39 @@
       "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Hommage",
+        "url": "https://open.spotify.com/album/6RB1U1kb3u9TdNGy5zIZLX"
+      },
+      "artists": [
+        {
+          "name": "Marek Johnson",
+          "url": "https://open.spotify.com/artist/4y9tl1SgxrEhYnDN40Ls8T"
+        }
+      ],
+      "duration_ms": 214700,
+      "name": "Hommage",
+      "url": "https://open.spotify.com/track/4IbPRGOqxnJHF2H1wILXl4"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Jazz Love",
+        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 236469,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Standards (Deluxe)",
         "url": "https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy"
@@ -789,7 +897,7 @@
       "url": "https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Creole Love Call",
         "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
@@ -809,7 +917,7 @@
       "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
@@ -825,7 +933,7 @@
       "url": "https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Castles in the Air",
         "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
@@ -841,7 +949,7 @@
       "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Renee Olstead",
         "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
@@ -857,23 +965,7 @@
       "url": "https://open.spotify.com/track/11N6MAeBhzUfNVfsBVTcL4"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "From Paris With Love",
         "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
@@ -889,7 +981,23 @@
       "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Back to Bacharach (Expanded Edition)",
         "url": "https://open.spotify.com/album/0wfkSewGh40HvJ2Mo48kiJ"
@@ -905,7 +1013,7 @@
       "url": "https://open.spotify.com/track/6uQ6RYJ0Brt4laZCLF9gKC"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Songbird 20",
         "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
@@ -921,7 +1029,7 @@
       "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Soul Eyes",
         "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
@@ -937,7 +1045,7 @@
       "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "The Big Picture",
         "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
@@ -953,7 +1061,23 @@
       "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Sophie Milman",
+        "url": "https://open.spotify.com/album/3E7VyuP30Il3LCV46isqH5"
+      },
+      "artists": [
+        {
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "My Baby Just Cares For Me",
+      "url": "https://open.spotify.com/track/1b8AEwsyE0NTgvySRi6SFz"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Frenchy",
         "url": "https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o"
@@ -973,39 +1097,7 @@
       "url": "https://open.spotify.com/track/70DFIIL8qvunU5PWwsFDtw"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Sophie Milman",
-        "url": "https://open.spotify.com/album/3E7VyuP30Il3LCV46isqH5"
-      },
-      "artists": [
-        {
-          "name": "Sophie Milman",
-          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "My Baby Just Cares For Me",
-      "url": "https://open.spotify.com/track/1b8AEwsyE0NTgvySRi6SFz"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Sunset In The Blue",
-        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 272990,
-      "name": "Sunset In The Blue",
-      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "My Wonderland",
         "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
@@ -1021,7 +1113,7 @@
       "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "The Complete Great American Songbook",
         "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
@@ -1037,23 +1129,23 @@
       "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX"
+        "name": "Sunset In The Blue",
+        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
       },
       "artists": [
         {
-          "name": "Tok Tok Tok",
-          "url": "https://open.spotify.com/artist/6NuChX9FrWXTUYgJUT0DYH"
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
         }
       ],
-      "duration_ms": 230826,
-      "name": "Look Of Love",
-      "url": "https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w"
+      "duration_ms": 272990,
+      "name": "Sunset In The Blue",
+      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
@@ -1073,7 +1165,23 @@
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX"
+      },
+      "artists": [
+        {
+          "name": "Tok Tok Tok",
+          "url": "https://open.spotify.com/artist/6NuChX9FrWXTUYgJUT0DYH"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "Look Of Love",
+      "url": "https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
@@ -1089,7 +1197,7 @@
       "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Nobody but Me (Deluxe)",
         "url": "https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz"
@@ -1105,7 +1213,7 @@
       "url": "https://open.spotify.com/track/13QWQQW83ZMO1k8EDucqgZ"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
         "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
@@ -1121,7 +1229,7 @@
       "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
@@ -1145,7 +1253,7 @@
       "url": "https://open.spotify.com/track/0rAtoCCI9I2AnaoIpkoJeL"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Half The Perfect World",
         "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
@@ -1161,7 +1269,7 @@
       "url": "https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
@@ -1181,7 +1289,7 @@
       "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Kisses On The Bottom",
         "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
@@ -1197,7 +1305,7 @@
       "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
@@ -1217,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Lover Man (Oh, Where Can You Be?)",
         "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
@@ -1233,7 +1341,23 @@
       "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "Eternal Beauty",
+        "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 171306,
+      "name": "Love of My Life",
+      "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Dream a Little Dream",
         "url": "https://open.spotify.com/album/45VdrnQMcb43uBQyocSKqo"
@@ -1253,23 +1377,7 @@
       "url": "https://open.spotify.com/track/7zaiLgzejyT5M7fTsmqZ18"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Eternal Beauty",
-        "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 171306,
-      "name": "Love of My Life",
-      "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "C\u2019est si bon",
         "url": "https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI"
@@ -1293,7 +1401,7 @@
       "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
@@ -1309,7 +1417,7 @@
       "url": "https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Lumi\u00e9re",
         "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
@@ -1325,23 +1433,7 @@
       "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 124986,
-      "name": "They Can\u2019t Take That Away From Me",
-      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Bells On Sand",
         "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
@@ -1361,27 +1453,23 @@
       "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
-        "name": "LIVING ROOM 2",
-        "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
       "artists": [
         {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        },
-        {
-          "name": "Michael Stephenson",
-          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 217172,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
+      "duration_ms": 124986,
+      "name": "They Can\u2019t Take That Away From Me",
+      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
@@ -1401,7 +1489,27 @@
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "LIVING ROOM 2",
+        "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Michael Stephenson",
+          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
+        }
+      ],
+      "duration_ms": 217172,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "I Belong To You",
         "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
@@ -1417,7 +1525,7 @@
       "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC"
@@ -1437,7 +1545,7 @@
       "url": "https://open.spotify.com/track/79tHp1cHwQG5f0AD6rP38l"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Autumn Breeze",
         "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
@@ -1457,7 +1565,7 @@
       "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "On Vacation",
         "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
@@ -1477,7 +1585,7 @@
       "url": "https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
@@ -1493,7 +1601,7 @@
       "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "They Oughta Write a Song",
         "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
@@ -1509,7 +1617,7 @@
       "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Autumn Leaves (The Songs of Johnny Mercer)",
         "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
@@ -1525,7 +1633,23 @@
       "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
+      "album": {
+        "name": "The Boy Next Door (Special Edition)",
+        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 252840,
+      "name": "What The World Needs Now Is Love",
+      "url": "https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ"
+    },
+    {
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "The Lemonade Song",
         "url": "https://open.spotify.com/album/0HuI0DCboMnA7impm0IbrP"
@@ -1541,7 +1665,7 @@
       "url": "https://open.spotify.com/track/2kby1XWPnTc0fFMrViKbE4"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "I\u00b4m a Fool to Want You",
         "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
@@ -1569,23 +1693,7 @@
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "The Boy Next Door (Special Edition)",
-        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 252840,
-      "name": "What The World Needs Now Is Love",
-      "url": "https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
@@ -1605,7 +1713,7 @@
       "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "Flor",
         "url": "https://open.spotify.com/album/31DutanyKyJhX0CDb62IZa"
@@ -1633,59 +1741,7 @@
       "url": "https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84"
     },
     {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Heart First",
-        "url": "https://open.spotify.com/album/74fLArnOHs24KVKRui8r7w"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/6UMwlW88tuUf09Dj0CF6UX"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "La belle vie - The Good Life",
-        "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
-        },
-        {
-          "name": "Jeff Goldblum",
-          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "La belle vie - The Good Life",
-      "url": "https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "The Age of Anxiety",
-        "url": "https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 324826,
-      "name": "The Age Of Anxiety",
-      "url": "https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
+      "added_at": "2022-10-10 13:24:40",
       "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
@@ -1703,58 +1759,6 @@
       "duration_ms": 243373,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/4VT4kkO2o3n4HRjBHmo1jo"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "So in Love",
-        "url": "https://open.spotify.com/album/4jb9ocOzo7N66hCss8dZVA"
-      },
-      "artists": [
-        {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
-        }
-      ],
-      "duration_ms": 275043,
-      "name": "Close to You",
-      "url": "https://open.spotify.com/track/7IeAEMhtC2iFE910W1Ghvw"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "Passion World",
-        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 492520,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
-    },
-    {
-      "added_at": "2022-10-03 13:59:54",
-      "album": {
-        "name": "The Look Of Love - Burt Bacharach Songbook",
-        "url": "https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2"
-      },
-      "artists": [
-        {
-          "name": "Trijntje Oosterhuis",
-          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        }
-      ],
-      "duration_ms": 273960,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/6MZg4IeXiCaRe9MtWYmaul"
     }
   ],
   "unique_name": "Easy Jazz",

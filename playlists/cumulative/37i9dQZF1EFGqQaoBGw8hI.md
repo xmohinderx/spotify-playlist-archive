@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-489 songs - 1 day 11 hr 47 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
+490 songs - 1 day 11 hr 51 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [A Woman's Needs](https://open.spotify.com/track/3qqx8ZzV345NQwkMGIozFg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 5:17 | 2022-09-08 |  |
 | [A Word In Spanish](https://open.spotify.com/track/1EsN2D481Q3E8vz68nkNoA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:39 | 2022-09-08 |  |
 | [Act Of War \(Part 1\)](https://open.spotify.com/track/6eIheHaFM5KVclLQNuoixP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:43 | 2022-09-08 |  |
-| [After All](https://open.spotify.com/track/4A9g0WVvFYjJftYWWXXxP7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:28 | 2022-09-08 |  |
+| [After All](https://open.spotify.com/track/4A9g0WVvFYjJftYWWXXxP7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:28 | 2022-09-08 | 2022-10-11 |
+| [After All](https://open.spotify.com/track/6cnF63Qm1qAJ0sHKvM5BOg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:28 | 2022-10-10 |  |
 | [All Across The Havens](https://open.spotify.com/track/48QT3qnsdEfGf1RTQaWSbT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 2:52 | 2022-09-08 |  |
 | [All Quiet On The Western Front \- Remastered 2003](https://open.spotify.com/track/3Hsyqlz2VCeMi39JYkFX3k) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 6:07 | 2022-09-08 |  |
 | [All That I'm Allowed \(I'm Thankful\)](https://open.spotify.com/track/4BGm0moYOGolRz97B93HrH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:52 | 2022-09-08 |  |

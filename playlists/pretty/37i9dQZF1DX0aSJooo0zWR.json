@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 161906,
+  "num_followers": 161978,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMGY5YTZmODQ3MjhiM2ZlNWEzNTkwYmNhNDAwZmI3NTBj",
+  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMDU5NjAwODY1ZGY3YzEzYWRiOTc4M2IyOTNjMGEyMWJi",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "The Aristocrats",
-        "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
-      },
-      "artists": [
-        {
-          "name": "The Aristocrats",
-          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
-        }
-      ],
-      "duration_ms": 353666,
-      "name": "Bad Asteroid",
-      "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Asian Dreamer",
         "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 278240,
       "name": "Midnight Rendezvous",
       "url": "https://open.spotify.com/track/5dxRmXw3CeUEvWeALoJ1b2"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Aristocrats",
+        "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
+      },
+      "artists": [
+        {
+          "name": "The Aristocrats",
+          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
+        }
+      ],
+      "duration_ms": 353666,
+      "name": "Bad Asteroid",
+      "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -521,30 +521,6 @@
       "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Chapter One: Shredemption",
-        "url": "https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L"
-      },
-      "artists": [
-        {
-          "name": "Owane",
-          "url": "https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2"
-        },
-        {
-          "name": "Jack Gardiner",
-          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
-        },
-        {
-          "name": "Henrik Linder",
-          "url": "https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "U.T.F.F.",
-      "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
-    },
-    {
       "added_at": "2021-05-07 04:01:00",
       "album": {
         "name": "One More !!?!??",
@@ -567,6 +543,30 @@
       "duration_ms": 248174,
       "name": "One More !!?!??",
       "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Chapter One: Shredemption",
+        "url": "https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L"
+      },
+      "artists": [
+        {
+          "name": "Owane",
+          "url": "https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2"
+        },
+        {
+          "name": "Jack Gardiner",
+          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
+        },
+        {
+          "name": "Henrik Linder",
+          "url": "https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "U.T.F.F.",
+      "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -825,6 +825,22 @@
       "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Visions of the Emerald Beyond",
+        "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
+      },
+      "artists": [
+        {
+          "name": "Mahavishnu Orchestra",
+          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
+    },
+    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "The New Heritage",
@@ -853,20 +869,20 @@
       "url": "https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Visions of the Emerald Beyond",
-        "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
       },
       "artists": [
         {
-          "name": "Mahavishnu Orchestra",
-          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
         }
       ],
-      "duration_ms": 212560,
-      "name": "Be Happy",
-      "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
+      "duration_ms": 288909,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -883,22 +899,6 @@
       "duration_ms": 309800,
       "name": "Spacy Country",
       "url": "https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 288909,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
     },
     {
+      "added_at": "2021-07-02 04:01:00",
+      "album": {
+        "name": "Space-Time",
+        "url": "https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber Fusion",
+          "url": "https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1"
+        }
+      ],
+      "duration_ms": 275480,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
+    },
+    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -1073,20 +1089,20 @@
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
     },
     {
-      "added_at": "2021-07-02 04:01:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Space-Time",
-        "url": "https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W"
+        "name": "Big Fun (2022 Remaster)",
+        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
       },
       "artists": [
         {
-          "name": "Jeff Lorber Fusion",
-          "url": "https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 275480,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
+      "duration_ms": 1707435,
+      "name": "Go Ahead John (2022 Remaster)",
+      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1103,22 +1119,6 @@
       "duration_ms": 551733,
       "name": "Legends",
       "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Big Fun (2022 Remaster)",
-        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 1707435,
-      "name": "Go Ahead John (2022 Remaster)",
-      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1457,20 +1457,24 @@
       "url": "https://open.spotify.com/track/0vdB6LzEsOVBbtGZVK6TSM"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7vm57UmS0tpc8zaAV0rSUR"
       },
       "artists": [
         {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
+          "name": "Alina Bzhezhinska",
+          "url": "https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN"
+        },
+        {
+          "name": "HipHarpCollective",
+          "url": "https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e"
         }
       ],
-      "duration_ms": 325040,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
+      "duration_ms": 430373,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE"
     }
   ],
   "unique_name": "Fusion Fest",

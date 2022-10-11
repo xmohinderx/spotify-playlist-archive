@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 ### [Hip\-Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5?si=z9VxVVX5SYK2kCKNBl5HmQ">Quavo</a> and <a href="https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW?si=XMe1PjoUQp2ZuJv8a5Vo\_A">Offset</a>
+> Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5?si=z9VxVVX5SYK2kCKNBl5HmQ">Quavo</a> and <a href="https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J?si=yPfLjUUcRE2pogKiqfM\_cQ">Takeoff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,703 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,800 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 74 | [Till The Wheels Fall Off \(feat\. Lil Durk & Capella Grey\)](https://open.spotify.com/track/2oExMFdhTMgBTbHUvMJaC4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 5:11 |
 | 75 | [Little Miss](https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Little Miss](https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy) | 3:10 |
 
-Snapshot ID: `MTY2NTA5MzU0MCwwMDAwMDAwMGQ0OWJmYTU5NDliNWQ1Nzk2MGFlN2VhMTY3OGMzMWRh`
+Snapshot ID: `MTY2NTQxNDUzOSwwMDAwMDAwMGUzMzVlZTA4OGUxMjIxOGYyOTExOTE4OWFiMmJjMDE1`

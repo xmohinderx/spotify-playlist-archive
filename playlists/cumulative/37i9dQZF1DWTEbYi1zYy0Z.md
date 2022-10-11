@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Kim Scott
 
-277 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
+278 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [I Wanna Be Down](https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [I Wanna Be Down](https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ) | 4:54 | 2022-06-03 | 2022-09-24 |
 | [I'll Be There](https://open.spotify.com/track/3l1j42roicNXApsbTtebuo) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The Collective II](https://open.spotify.com/album/0pvXCuppcMxYTi2vCXmGyW) | 4:08 | 2021-04-16 | 2022-03-03 |
 | [Ignition](https://open.spotify.com/track/1HvQ21aHUGiuW1TVuLZmhe) | [Antonio Jackson](https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5) | [Ignition](https://open.spotify.com/album/41O77E8aABtnJHLv4FlOju) | 4:33 | 2021-07-16 | 2022-07-26 |
+| [III](https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz) | [Marco Giubileo](https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF), [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ), [Kim Stone](https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3), [Roberto Soggetti](https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r), [Simone Boffa](https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR) | [III](https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU) | 3:51 | 2022-10-11 |  |
 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 | 2022-06-17 |  |
 | [In Other Words](https://open.spotify.com/track/3og6j45E7aT2SWjkRf7fRs) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Real Life](https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv) | 4:53 | 2020-10-30 | 2022-03-08 |
 | [In the Moment](https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4) | [Deon Yates](https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO), [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [In the Moment](https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS) | 3:58 | 2020-10-30 | 2022-03-18 |
@@ -274,7 +275,7 @@
 | [Vision Realized](https://open.spotify.com/track/6iupviWvu7nbvJYkdrUflk) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Vision Realized](https://open.spotify.com/album/0sPOEr6fmqrtZz5VvVomHz) | 4:05 | 2020-10-30 | 2022-03-13 |
 | [Wait! \- Smooth Jazz Mix](https://open.spotify.com/track/5R7wrZ2QIHMFzNX76WDgCv) | [Da Phatfunk Clique](https://open.spotify.com/artist/6WFRo8ZfzZwINeTHSzTyGS), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Wait! \(Smooth Jazz Mix\)](https://open.spotify.com/album/1R57SXOmQjt2vdM0KIjY8l) | 3:50 | 2022-04-08 | 2022-07-29 |
 | [Walk It Like You Talk It \(feat\. Roberto Vally\)](https://open.spotify.com/track/0azw9XnJpvH2O852E8hzun) | [Rob Tardik](https://open.spotify.com/artist/2N4cj5HueGaJfIIHeBzz4D), [Roberto Vally](https://open.spotify.com/artist/2SgF3vAKj9RTljwNRWtCKh) | [Diversity, Vol\. 2: Contemporary Funky Jazz](https://open.spotify.com/album/1c2ZmpfoQSV2jyBZJSVO60) | 3:49 | 2021-03-12 | 2022-01-23 |
-| [Way Maker](https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Simply Worship](https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9) | 4:09 | 2022-02-25 |  |
+| [Way Maker](https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Simply Worship](https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9) | 4:09 | 2022-02-25 | 2022-10-11 |
 | [Wayman](https://open.spotify.com/track/5IbV5J5utEcAspeG0qzHxI) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Wayman](https://open.spotify.com/album/3rpM2guIq3eFlQJirasyu9) | 3:29 | 2021-05-21 | 2022-03-17 |
 | [Weekend Groove](https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [The Inauguration of Jtjazz \(Jesse Thompson the Man Behind the Keys\)](https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a) | 4:53 | 2022-05-06 |  |
 | [West Coast Soul](https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH) | [Chris Godber](https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53) | [West Coast Soul](https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V) | 4:19 | 2021-08-13 | 2022-09-17 |

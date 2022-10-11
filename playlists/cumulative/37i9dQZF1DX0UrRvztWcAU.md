@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-414 songs - 23 hr 21 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
+415 songs - 23 hr 23 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Love You Like That](https://open.spotify.com/track/3205YaV6srWWF1WmebkLdA) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Love You Like That](https://open.spotify.com/album/7pp9j4t8jVbTtBATKAI9Wk) | 2:57 | 2021-12-16 | 2022-07-29 |
 | [Love You Right](https://open.spotify.com/track/0eOK06PrPsSJ9rswCHaC50) | [Madden](https://open.spotify.com/artist/7LbuenKfQNLPKzvi1rKPBG) | [Love You Right](https://open.spotify.com/album/5x3IQ9nAVT0IBDaw3dOltZ) | 3:35 | 2021-12-16 | 2022-07-28 |
 | [Lovin' Each Day](https://open.spotify.com/track/61fUmn6wYvU7qS62wNvQFN) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 3:32 | 2021-12-16 |  |
-| [Lullaby](https://open.spotify.com/track/5xzCzOAOfRi4DOttSzvznR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Lullaby](https://open.spotify.com/album/1SR7c6j94aiuYEhUrfTbZ7) | 3:24 | 2021-12-16 |  |
+| [Lullaby](https://open.spotify.com/track/5xzCzOAOfRi4DOttSzvznR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Lullaby](https://open.spotify.com/album/1SR7c6j94aiuYEhUrfTbZ7) | 3:24 | 2021-12-16 | 2022-10-11 |
 | [Magnets \(feat\. Sophie Simmons\)](https://open.spotify.com/track/0jlpHhGUFn4aAWLsRRnwep) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Magnets \(feat\. Sophie Simmons\)](https://open.spotify.com/album/6IUzDCyxwQG7OpLtR7b1Kq) | 2:59 | 2021-12-16 | 2022-07-29 |
 | [Mambo No\. 5 \(A Little Bit of...\)](https://open.spotify.com/track/5lA6mFOvaiienokVbTZEQx) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [King of Mambo](https://open.spotify.com/album/2ZYW7Gnq62sNuZi1hDqgwC) | 3:39 | 2022-04-11 | 2022-04-20 |
 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2022-07-08 |  |
@@ -278,6 +278,7 @@
 | [Paradise](https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:42 | 2021-12-16 |  |
 | [Paradise](https://open.spotify.com/track/0wGxHftiB6j0SDzrFkF2G7) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Paradise](https://open.spotify.com/album/4Mj4vclsXNBozJcvfemjky) | 3:35 | 2021-12-16 | 2022-05-08 |
 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2022-08-26 |  |
+| [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2022-10-07 |  |
 | [Perfect to Me](https://open.spotify.com/track/0DC7Zs2qvAbNK1owWQ4mlL) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me](https://open.spotify.com/album/53WGU9U5hmgWPUdfNitaVO) | 3:17 | 2021-12-16 |  |
 | [Picnic In The Park](https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [Picnic In The Park](https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB) | 2:57 | 2022-02-25 | 2022-02-27 |
 | [Picture Of You](https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj) | 3:26 | 2021-12-16 |  |

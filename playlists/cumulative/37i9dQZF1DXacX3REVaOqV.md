@@ -4,7 +4,7 @@
 
 > The best in house music
 
-259 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/1jmDVl99lY2U7kbnO53Sgs)
+260 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/1jmDVl99lY2U7kbnO53Sgs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Heartbreak \- Kerri Chandler Remix](https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Heartbreak \(Kerri Chandler Remix\)](https://open.spotify.com/album/6gxKfyBsjJVL2GdH2YBajb) | 6:19 | 2022-04-14 |  |
 | [Heat \(feat\. Nathan Thomas\)](https://open.spotify.com/track/7rja0ZIAxyb0WoERq8Jpfz) | [Rapson](https://open.spotify.com/artist/1OuVd0otNEfZ4rvd6Q3RDZ), [Nathan Thomas](https://open.spotify.com/artist/3BRcxlj54wEnb8daqgiO2w) | [Heat \(feat\. Nathan Thomas\)](https://open.spotify.com/album/3SmqyGukt1Dl17Mo4E1i2W) | 4:24 | 2022-04-14 |  |
 | [Heaven](https://open.spotify.com/track/0y4BhKDH3cGPWg8UbHGlHl) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Mica Paris](https://open.spotify.com/artist/7ooehj86xYi05XJoVNxJGO) | [Boiling Point](https://open.spotify.com/album/6CyUL4F4TskBlqBYn4ft65) | 2:32 | 2022-04-14 |  |
+| [Hesitate](https://open.spotify.com/track/1HuT5rVMwycqqlQVpoptou) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [Hesitate](https://open.spotify.com/album/1Nu8RR9pgwyhhFYGGdYL7j) | 2:53 | 2022-10-10 |  |
 | [Higher \(feat\. your friend polly\)](https://open.spotify.com/track/7t6Q4FkHC53gXmLLP8OKNu) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Higher \(feat\. your friend polly\)](https://open.spotify.com/album/0dJWyX1g56b5myZiUDp58o) | 2:24 | 2022-04-20 |  |
 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 | 2022-04-28 |  |
 | [Hold on My Heart \- Zetbee Extended Remix](https://open.spotify.com/track/6xmiqFdYeWrRVwy4yqcqFm) | [Arturo Macchiavelli](https://open.spotify.com/artist/3CvncNwuUuYrEibiDhp7rk), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr), [Zetbee](https://open.spotify.com/artist/7ju7u4UaASOSjl2Vm53ulN) | [Hold On My Heart \(Zetbee Remix\)](https://open.spotify.com/album/7GLSltrywD7qoKjcCY5h0P) | 6:01 | 2022-04-14 | 2022-07-29 |
@@ -171,7 +172,7 @@
 | [Oh Yes \(feat\. Marvin Gaye & Tammi Terrell\)](https://open.spotify.com/track/1CdlRy7UMR7Oz8pnUFFX2G) | [Paris Green](https://open.spotify.com/artist/5ECHe2MSGF8z12B7wv08x5), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Oh Yes \(feat\. Marvin Gaye & Tammi Terrell\)](https://open.spotify.com/album/1WQt1d6HXFKXMCtxN7Zpud) | 2:39 | 2022-04-14 |  |
 | [OK \- Cool \- Aight feat\. Conquer Jones](https://open.spotify.com/track/1Fp1C2kQBNPNL7nWgQ7hVs) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Bon Bini EP](https://open.spotify.com/album/40BvOscZc5SsyKTAKmSsgF) | 6:29 | 2022-04-14 |  |
 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 | 2022-04-14 |  |
-| [On Da Groove](https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI) | [Stef Davidse](https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX) | [On Da Groove](https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI) | 5:12 | 2022-04-14 |  |
+| [On Da Groove](https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI) | [Stef Davidse](https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX) | [On Da Groove](https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI) | 5:12 | 2022-04-14 | 2022-10-11 |
 | [On My Mind](https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq) | 3:09 | 2022-04-14 | 2022-07-20 |
 | [On My Mind](https://open.spotify.com/track/1efNXameWDHwW1Bx0jgG0j) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [On My Mind](https://open.spotify.com/album/3hKR8rhN4plMOZFHXo4N3f) | 2:11 | 2022-04-14 |  |
 | [Once Again](https://open.spotify.com/track/1Xxa1bDLOyCK5ck8gu8hpg) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Once Again](https://open.spotify.com/album/4VhyIMeKieQlTY0fv5OHab) | 2:38 | 2022-05-19 |  |

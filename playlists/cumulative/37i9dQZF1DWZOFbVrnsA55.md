@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-321 songs - 4 day 22 hr 14 min - [published](https://open.spotify.com/playlist/4SP4Cy0AvsFCUHp75jyueu)
+322 songs - 4 day 22 hr 48 min - [published](https://open.spotify.com/playlist/4SP4Cy0AvsFCUHp75jyueu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Lear](https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 24:56 | 2022-05-25 |  |
 | [Life At The End Of The World](https://open.spotify.com/track/1ZVV1Ti8cm9uJ3kBG1edND) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Life At The End Of The World](https://open.spotify.com/album/2VMjw9XNqRYgx3Not9RVf5) | 14:38 | 2022-05-25 |  |
 | [Light\-Matrix Portal](https://open.spotify.com/track/3YXsOx0ucIfsSLLjKC9eeW) | [Max Corbacho](https://open.spotify.com/artist/0Qg8V53QwgXLDtN0xMUL5q) | [Ars Lucis](https://open.spotify.com/album/5uT0LQPeZxTV914X5hP9s9) | 14:13 | 2022-05-25 |  |
+| [Live at Commend \(Part 2\)](https://open.spotify.com/track/3zjN54QAmvcJMCiI9xeLEk) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Live at Commend \(Part 2\)](https://open.spotify.com/album/3iXTjYZMXiOfRrHPrS45jU) | 34:07 | 2022-10-10 |  |
 | [Live at Fridman Gallery](https://open.spotify.com/track/7pgfhfZd9QMeVNXUN5QlZS) | [Stephen Vitiello](https://open.spotify.com/artist/6UmTNwMWHnVgSA49K7aY8Y), [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fridman Variations](https://open.spotify.com/album/31oIw2hK2m7rIll2mLOqPy) | 18:15 | 2022-05-25 |  |
 | [Made of Air](https://open.spotify.com/track/6PI2CNvpsv3k2ofK6cq42N) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 11:24 | 2022-05-25 |  |
 | [Max](https://open.spotify.com/track/0EclmjRuVEVytDKJyz6n6J) | [Voices from The Lake](https://open.spotify.com/artist/5SbbRrhr7qhyu1jv75AzOh) | [Live at MAXXI](https://open.spotify.com/album/0SnY2qIBjo5ZZ3UwXJHUr8) | 13:01 | 2022-05-25 |  |

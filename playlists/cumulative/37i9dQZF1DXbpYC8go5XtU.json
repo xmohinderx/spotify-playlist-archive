@@ -1926,6 +1926,24 @@
     },
     {
       "album": {
+        "name": "Seagull",
+        "url": "https://open.spotify.com/album/3xQ4jTZ7uzPxq3wQNfRlBN"
+      },
+      "artists": [
+        {
+          "name": "Eyolf",
+          "url": "https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213010,
+      "name": "Seagull",
+      "url": "https://open.spotify.com/track/56rWZXYQEhqg2IamYjFf50"
+    },
+    {
+      "album": {
         "name": "Self Empathy 2",
         "url": "https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53"
       },
@@ -2823,6 +2841,24 @@
       "duration_ms": 192333,
       "name": "Zen Garden",
       "url": "https://open.spotify.com/track/4rn2BnxLvxIobCLUE96y1R"
+    },
+    {
+      "album": {
+        "name": "\u0915\u0941\u0923\u094d\u0921\u0932\u093f\u0928\u0940 (Awaken Kundalini)",
+        "url": "https://open.spotify.com/album/1dzVB7YwWKfVA3iIaaZgcx"
+      },
+      "artists": [
+        {
+          "name": "\u0938\u0924\u093f\u092a\u091f\u094d\u0920\u093e\u0928\u092e\u094d",
+          "url": "https://open.spotify.com/artist/72JhmGz5pm2OdMZ2ve63Wd"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97894,
+      "name": "\u0915\u0941\u0923\u094d\u0921\u0932\u093f\u0928\u0940 - Awaken Kundalini",
+      "url": "https://open.spotify.com/track/7fSNXDrj6fuLsXB7wigMCf"
     },
     {
       "album": {

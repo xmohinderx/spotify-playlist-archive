@@ -1460,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Once Upon a Small Town (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa"
+      },
+      "artists": [
+        {
+          "name": "Song Youjin",
+          "url": "https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204306,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY"
+    },
+    {
+      "album": {
         "name": "Forest part.1",
         "url": "https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA"
       },
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 219813,
       "name": "Should Not Love You",
       "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"

@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: LOVE PSYCHEDELICO
 
-614 songs - 1 day 15 hr 35 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+615 songs - 1 day 15 hr 38 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Radio song](https://open.spotify.com/track/5Li7CiLPW0LxAXw16xys6F) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/6sUwn2TICQMSAdXBeiq6lL) | 4:00 | 2022-10-04 | 2022-10-06 |
 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 | 2022-10-04 |  |
 | [rainy rainy rainy blues](https://open.spotify.com/track/5VAwJOVU4TvBKOUFzDJSGR) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [KOE](https://open.spotify.com/album/0GaqQrJcL8TAPuOckmcPqs) | 5:20 | 2022-06-02 | 2022-07-28 |
+| [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-04 |  |
 | [RED](https://open.spotify.com/track/1jWFyVDcJMsrJhOvSCZpLo) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [RED](https://open.spotify.com/album/6PqoriDdo4acuaWOEw6xgu) | 4:03 | 2022-06-07 | 2022-06-11 |
 | [rise](https://open.spotify.com/track/5qsfuw2YP4ZuoN3JLRafnY) | [yardlands](https://open.spotify.com/artist/7ebpEJGpj5bIAqlVylWOHf) | [rise](https://open.spotify.com/album/0000xgAyMIZGsrpj9zEbbp) | 4:20 | 2022-06-07 | 2022-07-15 |
 | [rock'n'roll wind](https://open.spotify.com/track/7MPFIm4QP2CtyOUdX4kjIS) | [Crispy Camera Club](https://open.spotify.com/artist/3qEb8wuWUimyFEe3a8kF90) | [rock'n'roll wind](https://open.spotify.com/album/3P4b4ewj4DmaGKzCDuf8p0) | 3:44 | 2022-06-16 | 2022-06-22 |
@@ -441,7 +442,7 @@
 | [ラッキー](https://open.spotify.com/track/5hNHGRXOhyHlUjk2WYHvBm) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [ラッキー](https://open.spotify.com/album/0nrgkBBMOtlE8ZPUnuQswD) | 2:37 | 2022-07-05 | 2022-07-28 |
 | [ララバイと一緒に](https://open.spotify.com/track/4D5NszspC2D1JvXBefEjqx) | [a.m\. 小径団地](https://open.spotify.com/artist/185SCnqCoFc34iJrOW1PCl) | [みちあんない](https://open.spotify.com/album/73OoiIsC5S492nSDsssW9D) | 3:49 | 2022-06-16 | 2022-06-18 |
 | [リドー](https://open.spotify.com/track/2ZKDT4B7UhV549F4FajHCX) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [リドー](https://open.spotify.com/album/6E4R01brTT1PaoQTw1AdUd) | 3:41 | 2022-08-23 |  |
-| [リベリオン](https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [リベリオン](https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE) | 2:58 | 2022-09-20 |  |
+| [リベリオン](https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [リベリオン](https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE) | 2:58 | 2022-09-20 | 2022-10-11 |
 | [リンカーネーション](https://open.spotify.com/track/4u1aJqeQ9hTJ24VpUrqPtg) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [リンカーネーション](https://open.spotify.com/album/7HfdgMA80IFSNZCmKjWGKN) | 4:25 | 2022-06-21 | 2022-06-23 |
 | [ロストガール](https://open.spotify.com/track/3dzbYWQxMQ4uB81wkdOqT0) | [Tsuru](https://open.spotify.com/artist/5qlAFhKHt8dw8mUtoOXing) | [ロストガール](https://open.spotify.com/album/0blhhXxgitz4YuXVYPdoC2) | 3:17 | 2022-06-07 | 2022-06-14 |
 | [ロックンロール](https://open.spotify.com/track/6L38yxclKDXjGrhxopnhGZ) | [ミチノヒ](https://open.spotify.com/artist/42p3PyDEc3qvUroKhh3DmR) | [ロックンロール](https://open.spotify.com/album/1QQArTWrUjbeCyDgV1TB2e) | 3:08 | 2022-06-02 | 2022-06-07 |

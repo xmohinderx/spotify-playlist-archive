@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 
 ### [Punto Tropical](https://open.spotify.com/playlist/37i9dQZF1DWZ1FUX6sM67g)
 
-> ¡En este punto tropical, se encuentra un poco de todo! Foto: Pipe Bueno, Silvestre Dangond, Gente de Zona
+> ¡En este punto tropical, se encuentra un poco de todo! Foto: Pipe Bueno, Silvestre Dangond, Darell
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,723 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,803 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 | 59 | [Me Tienes Mal](https://open.spotify.com/track/2atJaPb759uwrX8Z2tVeNA) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Al Son del Amor](https://open.spotify.com/album/6goR8Q0XST04Tef97Gy1aB) | 4:31 |
 | 60 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 |
 
-Snapshot ID: `MTY2NTExODgwMCwwMDAwMDAwMDUzMTE2ZmExYTZlZTI2NzU0MTU5OTRjYjI0MDFlNzVl`
+Snapshot ID: `MTY2NTQxMzM4OCwwMDAwMDAwMDdkMjgzNWY4Y2ZlYWQwOTZmMWVmOGVjMmE1YjAzMzdj`

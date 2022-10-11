@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 22494,
+  "num_followers": 22553,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5MzU5NSwwMDAwMDAwMGJiOTQzYmVjOGFmYmY5M2U3YzY3ZjYwOTk4NGY0ZDll",
+  "snapshot_id": "MTY2NDg5MzU5NSwwMDAwMDAwMGNjMjNkOTJmZDY0YTFmOWY0MmY4N2NiYWVhNGQyNWI2",
   "tracks": [
     {
       "added_at": "2022-10-04 14:26:35",
@@ -151,6 +151,22 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
+        "name": "Blues, Candy & Big Maybelle",
+        "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "That's A Pretty Good Love",
+      "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
         "name": "Hoodoo Lady (1933-1937)",
         "url": "https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn"
       },
@@ -179,38 +195,6 @@
       "duration_ms": 182400,
       "name": "Man Stealer Blues",
       "url": "https://open.spotify.com/track/6Ad9JbwY1HGjbNhVYddNbk"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
-        "name": "Blues, Candy & Big Maybelle",
-        "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
-      },
-      "artists": [
-        {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "That's A Pretty Good Love",
-      "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
-        "name": "What It Takes: The Chess Years",
-        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -263,22 +247,6 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "Rock Me Daddy, Vol. 1",
-        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
-      },
-      "artists": [
-        {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
-        }
-      ],
-      "duration_ms": 154840,
-      "name": "Boogie In \"G\"",
-      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
         "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
         "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
       },
@@ -291,6 +259,38 @@
       "duration_ms": 139000,
       "name": "Don't Mess With My Man",
       "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
+        "name": "What It Takes: The Chess Years",
+        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
+        "name": "Rock Me Daddy, Vol. 1",
+        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
+      },
+      "artists": [
+        {
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+        }
+      ],
+      "duration_ms": 154840,
+      "name": "Boogie In \"G\"",
+      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
-        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Sloppy Drunk Blues",
-      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 187146,
       "name": "Billie's Blues",
       "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
+        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
+        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
+      },
+      "artists": [
+        {
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Sloppy Drunk Blues",
+      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
+        "name": "The Essential Billie Holiday",
+        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "Billie's Blues - Take 1",
+      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
         "name": "The Victoria Spivey Collection 1926-27",
         "url": "https://open.spotify.com/album/5olLgL3yqz7EBV3VXxZwfe"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "The Essential Billie Holiday",
-        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
         }
       ],
-      "duration_ms": 157960,
-      "name": "Billie's Blues - Take 1",
-      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
+      "duration_ms": 139773,
+      "name": "Good Old Wagon",
+      "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -727,22 +743,6 @@
       "duration_ms": 164624,
       "name": "Trouble In Mind (9510)",
       "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "Good Old Wagon",
-      "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
     },
     {
       "added_at": "2022-10-04 14:26:35",

@@ -4,7 +4,7 @@
 
 > The official playlist for House of the Dragon \(and House Targaryen\)\. Watch Sundays on HBO Max.
 
-40 songs - 2 hr 12 min - [published](https://open.spotify.com/playlist/6wtPhYZd7evCLez2bU4QX6)
+41 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/6wtPhYZd7evCLez2bU4QX6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Mereen](https://open.spotify.com/track/66fCNaWh2YZ1mNrOozbZMj) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 2:53 | 2022-08-19 |  |
 | [Mhysa](https://open.spotify.com/track/4wxaEgPlUbEUwiAnThBUkw) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 3:54 | 2022-08-19 |  |
 | [Mother Of Dragons \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/4E7bdPSJTPdAMg0H2CUoqf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 2:35 | 2022-08-19 |  |
+| [Protector of the Realm \(from "House of the Dragon"\)](https://open.spotify.com/track/63BRmsStfDWwrP1vB49Sc0) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Protector of the Realm \(from "House of the Dragon"\)](https://open.spotify.com/album/262nTtnsUTVEIrlb2jm9jj) | 3:15 | 2022-10-10 |  |
 | [Pyat Pree \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/1GQAc1rnIjtLBKLv55yoOy) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 2:13 | 2022-08-19 |  |
 | [Qarth \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/519U1CWS12Yvfh9NttvBW8) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 2:12 | 2022-08-19 |  |
 | [Reign](https://open.spotify.com/track/4G2QBUTKjSNn4JRuShT7lB) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 6 \(Music from the HBO Series\)](https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg) | 3:16 | 2022-08-19 |  |

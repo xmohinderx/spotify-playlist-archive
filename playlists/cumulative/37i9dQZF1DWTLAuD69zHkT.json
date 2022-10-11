@@ -518,6 +518,24 @@
     },
     {
       "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e1inne Duffy",
+          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215946,
+      "name": "Good Love Had To Die",
+      "url": "https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz"
+    },
+    {
+      "album": {
         "name": "Good To Be (Home Again)",
         "url": "https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA"
       },

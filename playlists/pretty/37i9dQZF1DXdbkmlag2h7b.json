@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 627480,
+  "num_followers": 627525,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE2MDA2MCwwMDAwMDAwMDU3ZjYwMDQwYWRhNzA5ZjhlZWY3OTFjZGVmODg4ZDg2",
+  "snapshot_id": "MTY2NTE2MDA2MCwwMDAwMDAwMDgzNDk5YTMzZTkwYWU0MGVjMmNjNWIwOGQ5MmNmOWVi",
   "tracks": [
     {
       "added_at": "2022-10-04 11:16:30",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-10-04 11:16:30",
       "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj"
-      },
-      "artists": [
-        {
-          "name": "Sanyo Green",
-          "url": "https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy"
-        }
-      ],
-      "duration_ms": 215235,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx"
-    },
-    {
-      "added_at": "2022-10-04 11:16:30",
-      "album": {
         "name": "Sweven",
         "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 193500,
       "name": "Sweven",
       "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
+    },
+    {
+      "added_at": "2022-10-04 11:16:30",
+      "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj"
+      },
+      "artists": [
+        {
+          "name": "Sanyo Green",
+          "url": "https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy"
+        }
+      ],
+      "duration_ms": 215235,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx"
     },
     {
       "added_at": "2022-10-04 11:16:30",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-04 11:16:30",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
-      },
-      "artists": [
-        {
-          "name": "Miguel Serugetti",
-          "url": "https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz"
-        }
-      ],
-      "duration_ms": 145768,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
-    },
-    {
-      "added_at": "2022-10-04 11:16:30",
-      "album": {
         "name": "Neend",
         "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 157306,
       "name": "Neend",
       "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
+    },
+    {
+      "added_at": "2022-10-04 11:16:30",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
+      },
+      "artists": [
+        {
+          "name": "Miguel Serugetti",
+          "url": "https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz"
+        }
+      ],
+      "duration_ms": 145768,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
     },
     {
       "added_at": "2022-10-04 11:16:30",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-10-04 11:16:30",
       "album": {
-        "name": "Legend Of Zea",
-        "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
-      },
-      "artists": [
-        {
-          "name": "Cora Zea",
-          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
-        }
-      ],
-      "duration_ms": 211583,
-      "name": "Afternoon Spirits",
-      "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
-    },
-    {
-      "added_at": "2022-10-04 11:16:30",
-      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 172000,
       "name": "Prism",
       "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
+    },
+    {
+      "added_at": "2022-10-04 11:16:30",
+      "album": {
+        "name": "Legend Of Zea",
+        "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
+      },
+      "artists": [
+        {
+          "name": "Cora Zea",
+          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
+        }
+      ],
+      "duration_ms": 211583,
+      "name": "Afternoon Spirits",
+      "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
     },
     {
       "added_at": "2022-10-04 11:16:30",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-10-04 11:16:30",
       "album": {
-        "name": "Floating Hearts",
-        "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
       },
       "artists": [
         {
-          "name": "Julyan Brynn",
-          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
+          "name": "Fahda Mohamed",
+          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
         }
       ],
-      "duration_ms": 199831,
-      "name": "Svalbard",
-      "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
+      "duration_ms": 188000,
+      "name": "Takamatsu",
+      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
     },
     {
       "added_at": "2022-10-04 11:16:30",
@@ -795,6 +795,22 @@
       "duration_ms": 192748,
       "name": "Dreams of Mercury",
       "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+    },
+    {
+      "added_at": "2022-10-04 11:16:30",
+      "album": {
+        "name": "Floating Hearts",
+        "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
+      },
+      "artists": [
+        {
+          "name": "Julyan Brynn",
+          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
+        }
+      ],
+      "duration_ms": 199831,
+      "name": "Svalbard",
+      "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
     },
     {
       "added_at": "2022-10-04 11:16:30",
@@ -879,22 +895,6 @@
     {
       "added_at": "2022-10-04 11:16:30",
       "album": {
-        "name": "Arrivals",
-        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
-      },
-      "artists": [
-        {
-          "name": "Fahda Mohamed",
-          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Takamatsu",
-      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
-    },
-    {
-      "added_at": "2022-10-04 11:16:30",
-      "album": {
         "name": "Open Sky",
         "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-10-04 11:16:30",
       "album": {
-        "name": "Aion",
-        "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
-      },
-      "artists": [
-        {
-          "name": "Kolorascze",
-          "url": "https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ"
-        }
-      ],
-      "duration_ms": 124212,
-      "name": "Aion",
-      "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
-    },
-    {
-      "added_at": "2022-10-04 11:16:30",
-      "album": {
         "name": "Amorous Rebound",
         "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 109440,
       "name": "Amorous Rebound",
       "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
+    },
+    {
+      "added_at": "2022-10-04 11:16:30",
+      "album": {
+        "name": "Aion",
+        "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
+      },
+      "artists": [
+        {
+          "name": "Kolorascze",
+          "url": "https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ"
+        }
+      ],
+      "duration_ms": 124212,
+      "name": "Aion",
+      "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
     },
     {
       "added_at": "2022-10-04 11:16:30",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-10-04 11:16:30",
       "album": {
+        "name": "Long Time Gone",
+        "url": "https://open.spotify.com/album/66cbRBo9HSrZJjIzTGWYOM"
+      },
+      "artists": [
+        {
+          "name": "Viro Marix",
+          "url": "https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv"
+        }
+      ],
+      "duration_ms": 153325,
+      "name": "Long Time Gone",
+      "url": "https://open.spotify.com/track/2ttiWUOOJeaPDsKrQlHnhJ"
+    },
+    {
+      "added_at": "2022-10-04 11:16:30",
+      "album": {
         "name": "The Land of the Sun",
         "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2022-10-04 11:16:30",
       "album": {
-        "name": "Would I Bother",
-        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Johansson",
-          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Would I Bother",
-      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
-    },
-    {
-      "added_at": "2022-10-04 11:16:30",
-      "album": {
         "name": "Ver Weg",
         "url": "https://open.spotify.com/album/4AxpA6SoCBa7cWqMVrIrQO"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 194000,
       "name": "Ver Weg",
       "url": "https://open.spotify.com/track/1UbYOb8VDHmEyDO6S3UtGU"
+    },
+    {
+      "added_at": "2022-10-04 11:16:30",
+      "album": {
+        "name": "Would I Bother",
+        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Johansson",
+          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Would I Bother",
+      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
     },
     {
       "added_at": "2022-10-04 11:16:30",
@@ -1215,22 +1231,6 @@
       "duration_ms": 308000,
       "name": "Healing Keys of Light",
       "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
-    },
-    {
-      "added_at": "2022-10-04 11:16:30",
-      "album": {
-        "name": "Long Time Gone",
-        "url": "https://open.spotify.com/album/66cbRBo9HSrZJjIzTGWYOM"
-      },
-      "artists": [
-        {
-          "name": "Viro Marix",
-          "url": "https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv"
-        }
-      ],
-      "duration_ms": 153325,
-      "name": "Long Time Gone",
-      "url": "https://open.spotify.com/track/2ttiWUOOJeaPDsKrQlHnhJ"
     },
     {
       "added_at": "2022-10-04 11:16:30",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-10-04 11:16:30",
       "album": {
-        "name": "The Art of Subtlety",
-        "url": "https://open.spotify.com/album/41mrMfaXTOrPMyaL66iv0U"
-      },
-      "artists": [
-        {
-          "name": "Laura Antelme",
-          "url": "https://open.spotify.com/artist/1VyQIhBhaTFWcJMl44KcSJ"
-        }
-      ],
-      "duration_ms": 102300,
-      "name": "The Art of Subtlety",
-      "url": "https://open.spotify.com/track/42VUDVOwj9wUafDjvGJcGt"
-    },
-    {
-      "added_at": "2022-10-04 11:16:30",
-      "album": {
         "name": "Spaces in Serenity",
         "url": "https://open.spotify.com/album/6qo7I02DZokmxM0X5X7eRm"
       },
@@ -1603,18 +1587,34 @@
     {
       "added_at": "2022-10-04 11:16:30",
       "album": {
-        "name": "Lucent Path",
-        "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
+        "name": "The Art of Subtlety",
+        "url": "https://open.spotify.com/album/41mrMfaXTOrPMyaL66iv0U"
       },
       "artists": [
         {
-          "name": "NAYAT",
-          "url": "https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC"
+          "name": "Laura Antelme",
+          "url": "https://open.spotify.com/artist/1VyQIhBhaTFWcJMl44KcSJ"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Divine Light - Studio Edit",
-      "url": "https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh"
+      "duration_ms": 102300,
+      "name": "The Art of Subtlety",
+      "url": "https://open.spotify.com/track/42VUDVOwj9wUafDjvGJcGt"
+    },
+    {
+      "added_at": "2022-10-04 11:16:30",
+      "album": {
+        "name": "Sentiments in Emptiness",
+        "url": "https://open.spotify.com/album/0Wfx9bfeel0tvMe6BLyJMt"
+      },
+      "artists": [
+        {
+          "name": "Firas Zreik",
+          "url": "https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW"
+        }
+      ],
+      "duration_ms": 221525,
+      "name": "Sentiments in Emptiness",
+      "url": "https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU"
     }
   ],
   "unique_name": "DayDreamer",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Voost
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,359 likes - 36 songs - 1 hr 45 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,366 likes - 36 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Supernova](https://open.spotify.com/track/6lDWtYf106yyTHH1egFSAg) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Supernova](https://open.spotify.com/album/3UzxBGgASI2Ic7kmk1pO5I) | 2:18 |
-| 2 | [But U \(feat\. Izzy Bizu\)](https://open.spotify.com/track/4mAQv4VWJAtzYDRXU6ijCu) | [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO), [Parx](https://open.spotify.com/artist/2C45tSmv4vJEa6zD0aSwtO), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [But U \(feat\. Izzy Bizu\)](https://open.spotify.com/album/1EiXLu3sDxrN5py9HkbXIY) | 2:31 |
+| 1 | [But U \(feat\. Izzy Bizu\)](https://open.spotify.com/track/4mAQv4VWJAtzYDRXU6ijCu) | [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO), [Parx](https://open.spotify.com/artist/2C45tSmv4vJEa6zD0aSwtO), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [But U \(feat\. Izzy Bizu\)](https://open.spotify.com/album/1EiXLu3sDxrN5py9HkbXIY) | 2:31 |
+| 2 | [Supernova](https://open.spotify.com/track/6lDWtYf106yyTHH1egFSAg) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Supernova](https://open.spotify.com/album/3UzxBGgASI2Ic7kmk1pO5I) | 2:18 |
 | 3 | [Feel Good](https://open.spotify.com/track/3ZFBPl6PJegBAVdvcz8DQf) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Feel Good](https://open.spotify.com/album/094Iwf7oYz9afqYEmc4TY8) | 2:56 |
 | 4 | [Deep Blue](https://open.spotify.com/track/6N64uP2GdgSjC1AAx4Y8J2) | [jaakob](https://open.spotify.com/artist/3UzlexNjM9XmG3Fb3O6Enb) | [Deep Blue](https://open.spotify.com/album/6P41WRzxaUDfKxbLCQeKtn) | 3:05 |
 | 5 | [Juicy Flute](https://open.spotify.com/track/050Y5VPOnhoRWXN2GTQQZi) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Juicy Flute](https://open.spotify.com/album/6UtmzXnBFTzPMsKDU5rffy) | 2:43 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 35 | [Falling Into You](https://open.spotify.com/track/1OHDrloZphdqOuX7hYQ3oP) | [Lucas Butler](https://open.spotify.com/artist/50rD5iXXJY35zmuYs2POjk), [Max Lean](https://open.spotify.com/artist/4sOc3KgWiki8GMnvxYH8sh) | [Falling Into You](https://open.spotify.com/album/7fKHT41a28Xjt24VuQXLAV) | 3:12 |
 | 36 | [Another Baby \(feat\. Marion Woodseth\)](https://open.spotify.com/track/1MCVEHDgA1vOzzLc8Avdk1) | [SMYLES](https://open.spotify.com/artist/7bCRnTi1yDFfLbDFkMqvaS), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Marion Woodseth](https://open.spotify.com/artist/53he6pSbK4fLNP29lfqCwC) | [Another Baby \(feat\. Marion Woodseth\)](https://open.spotify.com/album/5rdUO8q4LlqLdk1NS4CR6R) | 2:45 |
 
-Snapshot ID: `NjI4NCxkMDJhM2E4MjA4ZDVkNWFlNGEwZjIxMDIyOTNjYWZmYTc4ZDk5YTAy`
+Snapshot ID: `NjI4OCw3M2I2NmQyYmZmYjg1MWQzZmZkNTMxMmJkMzUwMTY4YzViOWQzMzFm`

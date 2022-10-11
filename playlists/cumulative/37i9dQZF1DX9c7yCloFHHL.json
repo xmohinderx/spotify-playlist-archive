@@ -4529,7 +4529,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 274333,
       "name": "Freedom at the 45th Floor",
       "url": "https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR"
@@ -6248,6 +6248,24 @@
     },
     {
       "album": {
+        "name": "Library Fields",
+        "url": "https://open.spotify.com/album/0X6nasyqM34WZzrxTAv6I8"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212192,
+      "name": "Library Fields",
+      "url": "https://open.spotify.com/track/0bsLE7cI3RNuodCnDL64YU"
+    },
+    {
+      "album": {
         "name": "Light Falls On Every Door",
         "url": "https://open.spotify.com/album/1z5qh5UPVvcCA9vgDz3C5M"
       },
@@ -6793,7 +6811,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 475734,
       "name": "Marilene - Somewhere in Texas",
       "url": "https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37"
@@ -7455,6 +7473,24 @@
       "duration_ms": 143549,
       "name": "My All",
       "url": "https://open.spotify.com/track/55tBt9jUhfxLAzArswwyKV"
+    },
+    {
+      "album": {
+        "name": "Myfanwy (Ambient Mix)",
+        "url": "https://open.spotify.com/album/4Q0ZB1THID7YteRQSEfH4p"
+      },
+      "artists": [
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243818,
+      "name": "Myfanwy - Ambient Mix",
+      "url": "https://open.spotify.com/track/0eVZZGq7eM6VlkRJSeSmY5"
     },
     {
       "album": {
@@ -9017,7 +9053,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 288000,
       "name": "Rachel's Song",
       "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
@@ -9553,7 +9589,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 388373,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
@@ -9843,7 +9879,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 232173,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/4PE18K21iBZ21BhAkMKuXx"
@@ -9915,7 +9951,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 199310,
       "name": "Sidney's Lullaby",
       "url": "https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS"
@@ -9981,7 +10017,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 362950,
       "name": "Simple Song #3",
       "url": "https://open.spotify.com/track/3LFOeWFs0DIMtM4Gfgc90y"
@@ -10073,7 +10109,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 201600,
       "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
       "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
@@ -10549,7 +10585,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 419998,
       "name": "Stechm\u00fcck",
       "url": "https://open.spotify.com/track/2z4NFfIfg7Ljr545MOP4qu"
@@ -10885,7 +10921,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 217000,
       "name": "Tema para Peque\u00f1os Pilotos Aviadores",
       "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
@@ -11462,6 +11498,24 @@
     },
     {
       "album": {
+        "name": "Then",
+        "url": "https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf"
+    },
+    {
+      "album": {
         "name": "There Is",
         "url": "https://open.spotify.com/album/638sBZCKFHXn4bgPtsIPSz"
       },
@@ -11549,6 +11603,24 @@
       "duration_ms": 114857,
       "name": "this feeling (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/1PEKGePNN1XrdKG2QQDUCv"
+    },
+    {
+      "album": {
+        "name": "this world is sick",
+        "url": "https://open.spotify.com/album/2r358fWUeF3wtRtvuYsVjt"
+      },
+      "artists": [
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139980,
+      "name": "this world is sick",
+      "url": "https://open.spotify.com/track/7JlX4yZgXB4pmdR2wbWJOV"
     },
     {
       "album": {

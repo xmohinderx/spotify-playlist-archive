@@ -1,15 +1,15 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Kyan",
-  "num_followers": 34962,
+  "num_followers": 35084,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTkyNCwwMDAwMDAwMGY2YmRlODk4MjhmMDQ5YTY0N2RlMDE3ZDYzMjE1MDlj",
+  "snapshot_id": "MTY2NTExMTkyNCwwMDAwMDAwMGI2MmNlY2I2MDMxMDY5NzFiMmU5NmUxMzRlM2UxY2Q2",
   "tracks": [
     {
-      "added_at": "2022-10-10 01:38:39",
+      "added_at": "2022-10-11 01:30:18",
       "album": {
         "name": "Baby C\u00ea \u00e9 Gata",
         "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
@@ -223,62 +223,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Poesia Ac\u00fastica 11: Nada Mudou",
-        "url": "https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
-        }
-      ],
-      "duration_ms": 600000,
-      "name": "Poesia Ac\u00fastica 11: Nada Mudou",
-      "url": "https://open.spotify.com/track/6giaOyDFbE4J8iclhCdW7E"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Funk \u00e9 N\u00f3is GR6 3.1 - Vol. 1",
         "url": "https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU"
       },
@@ -391,6 +335,78 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
+        "name": "Poesia Ac\u00fastica 11: Nada Mudou",
+        "url": "https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        }
+      ],
+      "duration_ms": 600000,
+      "name": "Poesia Ac\u00fastica 11: Nada Mudou",
+      "url": "https://open.spotify.com/track/6giaOyDFbE4J8iclhCdW7E"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Perdi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6JJrn3h0bgZ886jTetGLfk"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Perdi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
         "name": "Google da Minha Vida",
         "url": "https://open.spotify.com/album/4aWAnS8KoF5bdS6r3aItEa"
       },
@@ -403,6 +419,22 @@
       "duration_ms": 137872,
       "name": "Google da Minha Vida",
       "url": "https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/43VVnPjqU6Hhsb5agEAYUB"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/59xgceM6ACWSn4vcdOzjJ0"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -427,70 +459,6 @@
       "duration_ms": 199384,
       "name": "Na Onda",
       "url": "https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Perdi\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6JJrn3h0bgZ886jTetGLfk"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Perdi\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-        "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-      "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/43VVnPjqU6Hhsb5agEAYUB"
-      },
-      "artists": [
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/59xgceM6ACWSn4vcdOzjJ0"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -567,8 +535,28 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Poesia Ac\u00fastica - Paris",
-        "url": "https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS"
+        "name": "Medley Lud Session - Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
+        "url": "https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 353696,
+      "name": "Medley Lud Session - Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
+      "url": "https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+        "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
       },
       "artists": [
         {
@@ -576,37 +564,49 @@
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Dk 47",
-          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         },
         {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
         }
       ],
-      "duration_ms": 420000,
-      "name": "Poesia Ac\u00fastica - Paris",
-      "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"
+      "duration_ms": 242526,
+      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+      "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Respeitada",
+        "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 140495,
+      "name": "Respeitada",
+      "url": "https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -647,50 +647,6 @@
       "duration_ms": 212018,
       "name": "Sobre N\u00f3s",
       "url": "https://open.spotify.com/track/5K1n3LwCVZg2TE9SLgIwem"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Medley Lud Session - Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
-        "url": "https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 353696,
-      "name": "Medley Lud Session - Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
-      "url": "https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Respeitada",
-        "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 140495,
-      "name": "Respeitada",
-      "url": "https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -747,26 +703,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Amor de Fim de Noite",
-        "url": "https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Amor de Fim de Noite",
-      "url": "https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -815,6 +751,50 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
+        "name": "Poesia Ac\u00fastica - Paris",
+        "url": "https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Dk 47",
+          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Poesia Ac\u00fastica - Paris",
+      "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
         "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 205333,
       "name": "Trinta Minutos",
       "url": "https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Amor de Fim de Noite",
+        "url": "https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Amor de Fim de Noite",
+      "url": "https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -907,42 +907,6 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
-        "name": "Nosso Flow",
-        "url": "https://open.spotify.com/album/6dqKRg8kzuAiWzFt6pj7JY"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 281904,
-      "name": "Nosso Flow",
-      "url": "https://open.spotify.com/track/2uK2zK0CBh8w2C4Uq8qo7z"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
         "name": "Ainda",
         "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
@@ -963,22 +927,6 @@
       "duration_ms": 154378,
       "name": "Essa Noite",
       "url": "https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Tudo No Priv\u00ea",
-        "url": "https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Tudo No Priv\u00ea",
-      "url": "https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -1031,6 +979,82 @@
     {
       "added_at": "2022-09-23 03:01:00",
       "album": {
+        "name": "Tudo No Priv\u00ea",
+        "url": "https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Tudo No Priv\u00ea",
+      "url": "https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Nosso Flow",
+        "url": "https://open.spotify.com/album/6dqKRg8kzuAiWzFt6pj7JY"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 281904,
+      "name": "Nosso Flow",
+      "url": "https://open.spotify.com/track/2uK2zK0CBh8w2C4Uq8qo7z"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Casal Mandrake",
+        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "Casal Mandrake",
+      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
         "name": "Outras Vidas",
         "url": "https://open.spotify.com/album/6wb4X7EEXq5e9EGtTjT31P"
       },
@@ -1067,30 +1091,6 @@
       "duration_ms": 210000,
       "name": "Dichave",
       "url": "https://open.spotify.com/track/3hYScvpnpwomGVVWhfZZA3"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Casal Mandrake",
-        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 139826,
-      "name": "Casal Mandrake",
-      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -1155,30 +1155,6 @@
       "duration_ms": 136764,
       "name": "Fora de Si - Spotify Singles",
       "url": "https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD"
-    },
-    {
-      "added_at": "2022-09-23 03:01:00",
-      "album": {
-        "name": "Mundo Pequeno",
-        "url": "https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 228252,
-      "name": "Mundo Pequeno",
-      "url": "https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5"
     },
     {
       "added_at": "2022-09-23 03:01:00",
@@ -1251,6 +1227,30 @@
       "duration_ms": 610515,
       "name": "Love - Ac\u00fastico",
       "url": "https://open.spotify.com/track/59glxsHIDG5MSdPuqh8fpW"
+    },
+    {
+      "added_at": "2022-09-23 03:01:00",
+      "album": {
+        "name": "Mundo Pequeno",
+        "url": "https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 228252,
+      "name": "Mundo Pequeno",
+      "url": "https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5"
     },
     {
       "added_at": "2022-09-23 03:01:00",

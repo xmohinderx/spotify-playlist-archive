@@ -4,7 +4,7 @@
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-118 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
+120 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ake](https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk) | 2:07 | 2022-09-06 |  |
 | [Alie 5.2](https://open.spotify.com/track/0fpGpTKzSEJZUGngNo4XpF) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Alie](https://open.spotify.com/album/5Nv5TTeUU0SDZu3rn1nhwY) | 3:15 | 2022-01-07 |  |
 | [Anohito](https://open.spotify.com/track/2AdZIcmVlDdnGKIu9QM9KA) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Ama](https://open.spotify.com/album/5tRiDmhSkJHwtoz1ZScCmS) | 3:08 | 2022-01-07 | 2022-02-23 |
+| [At Day's End](https://open.spotify.com/track/3Jt5IZqpG4VeV2LpFRhj5O) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [At Day's End/Small Hours](https://open.spotify.com/album/1lfOwDCvWL6rorNWNbtfoY) | 2:09 | 2022-10-10 |  |
 | [Bayou](https://open.spotify.com/track/4pmkk5jUvi46uAgnuA7D9c) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Canadian Love Letters](https://open.spotify.com/album/5MqeWE0BF5TkOjr4YHRRcr) | 4:35 | 2022-03-25 |  |
 | [Bird Ambience](https://open.spotify.com/track/5Ni3isgTBDXTr0lUXmoER1) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Bird Ambience](https://open.spotify.com/album/7ac3h9hdZZlxUa0uCxMTAS) | 7:28 | 2022-01-07 |  |
 | [birefringence](https://open.spotify.com/track/3cxBheYCzfiIHcyNdwXMEa) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [prism](https://open.spotify.com/album/6PhqghpzBPmBEfpC0hb4tZ) | 4:23 | 2022-01-07 |  |
@@ -91,6 +92,7 @@
 | [Sink](https://open.spotify.com/track/2sIqJEaOkljoxWkK6xeCXz) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Escapism](https://open.spotify.com/album/0lbBP62BrruZ4TYc4NFetE) | 6:24 | 2022-01-07 |  |
 | [Slow Flow](https://open.spotify.com/track/36rMFJK7q1LOwc3JBD6gne) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Soothe & Sleep, Vol.1](https://open.spotify.com/album/4cnvrE64yUSs7WlrfIzpAH) | 4:54 | 2022-07-22 | 2022-08-04 |
 | [Slow Flow](https://open.spotify.com/track/6gOotEcEdpVVxcGCpETBg4) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Slow Flow](https://open.spotify.com/album/28aB0w9WKYvpQeyoOATEfh) | 4:54 | 2022-01-07 |  |
+| [Small Hours](https://open.spotify.com/track/79T8Mwqagb44Amwk7xgNW4) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [At Day's End/Small Hours](https://open.spotify.com/album/1lfOwDCvWL6rorNWNbtfoY) | 3:27 | 2022-10-10 |  |
 | [Snow](https://open.spotify.com/track/52pPNQZglknCxoofqnP2te) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Alone](https://open.spotify.com/album/29uYtZzhSRS2aaVVefeStL) | 3:07 | 2022-07-22 |  |
 | [Snow](https://open.spotify.com/track/5r8izZmVzYfwN37RYMIAdq) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Snow](https://open.spotify.com/album/0Dal8lSNd8gCeWpDW1jj2n) | 3:07 | 2022-01-07 | 2022-07-29 |
 | [sour cloud](https://open.spotify.com/track/4UlHvguF9t6KpdCXq24qEP) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/1Vuv5R0WLEsksBxRZW7kyb) | 2:36 | 2022-01-07 |  |

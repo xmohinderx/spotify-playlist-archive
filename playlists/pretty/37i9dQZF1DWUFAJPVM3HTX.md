@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Avenoir
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,179 likes - 110 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,294 likes - 110 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/0wKCjEaixgpLA20mMEi2px) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 |
+| 1 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 |
 | 2 | [HEARTBREAK](https://open.spotify.com/track/4wfyPcZmzGtaqeX9fUQdvH) | [Thomas Dyer](https://open.spotify.com/artist/0zafkmWONVZBKA0vswzyaL) | [HEARTBREAK](https://open.spotify.com/album/5JW3DiuistWGjMIobU5X6n) | 2:29 |
 | 3 | [Perfect Timing](https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [In The Meantime...](https://open.spotify.com/album/1qUcbrfGhJtaYOpZRna9eX) | 2:10 |
 | 4 | [Area Codes](https://open.spotify.com/track/0Zj14AQbj7R8ZtNt1PUZZc) | [Mbrown](https://open.spotify.com/artist/5Wv0zAvGTssv5ZxRkIR5tY), [MADEINPARRIS](https://open.spotify.com/artist/2UiZpyNlTfTf1TX5pQ0cnU) | [Area Codes](https://open.spotify.com/album/5xiHOD2yUk2jrQragEFWoy) | 3:05 |

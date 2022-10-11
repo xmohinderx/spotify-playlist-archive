@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-500 songs - 1 day 4 hr 38 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+501 songs - 1 day 4 hr 41 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Rapport](https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Rapport](https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm) | 3:37 | 2022-06-21 | 2022-06-24 |
 | [re:GENERATE](https://open.spotify.com/track/2XpeTIdekDLKmj5Ewmr1h0) | [Araki](https://open.spotify.com/artist/09ONFXQOVjyy3AhFlBsZx8) | [re:GENERATE](https://open.spotify.com/album/2bNyilnde8t7oCDLVXFW28) | 2:45 | 2022-07-12 | 2022-07-15 |
 | [Re:銃の部品](https://open.spotify.com/track/4blZivIkAuztRriZxwdwN8) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Re:銃の部品](https://open.spotify.com/album/12CSRFbZYvZ7bYckJNlzLN) | 2:41 | 2022-06-30 | 2022-07-03 |
+| [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-06 |  |
 | [RestartSmile](https://open.spotify.com/track/7nn2z9nlUVacYiDDNbkrsi) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [RestartSmile](https://open.spotify.com/album/4Ne4UIGziyFGdReco9fNSi) | 3:28 | 2022-06-16 | 2022-07-12 |
 | [Saccharin \(feat\. natsumi\)](https://open.spotify.com/track/1kCn0Vx5jh6WNy7S7cCvab) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [natsumi](https://open.spotify.com/artist/0j5uL1aGwr2KzirkKWF2YD) | [Saccharin \(feat\. natsumi\)](https://open.spotify.com/album/4EhAU964ARXJZKR8oegtPk) | 4:08 | 2022-07-24 | 2022-07-26 |
 | [sakura breeze](https://open.spotify.com/track/0wA4jgSYocJbr3VMGhgFI7) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8), [sekai](https://open.spotify.com/artist/7fnGQtfTGswQS3T0tMZ0xZ) | [sakura breeze](https://open.spotify.com/album/5wG74dZ07tw3YFQu3BdpKp) | 3:33 | 2022-06-09 | 2022-07-15 |
@@ -311,7 +312,7 @@
 | [ラブの逃走](https://open.spotify.com/track/0qeOMkMqcCEWEU2cy9qLSS) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ラブの逃走](https://open.spotify.com/album/4Okc2drrejRZsZtKOPHv8D) | 3:08 | 2022-06-30 | 2022-07-25 |
 | [ラリー、ラリー](https://open.spotify.com/track/2pYVj8iCqwY1H8blVcecEW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH), [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [ラリー、ラリー](https://open.spotify.com/album/6NBNe7n3iMb1q86rTl2LKU) | 2:36 | 2022-06-09 | 2022-07-29 |
 | [ランデブー](https://open.spotify.com/track/5lacv3oHw1HtbCW87uCZqx) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [ランデブー](https://open.spotify.com/album/6sSdvm5IwggRQyFrbC4ZjV) | 3:00 | 2022-06-09 | 2022-06-14 |
-| [リベリオン](https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [リベリオン](https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE) | 2:58 | 2022-09-20 |  |
+| [リベリオン](https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [リベリオン](https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE) | 2:58 | 2022-09-20 | 2022-10-11 |
 | [レイニー ブルー feat.こぴ&未来](https://open.spotify.com/track/47Ndw7P01dq1kLZpxz7kZN) | [kobasolo](https://open.spotify.com/artist/4n2W84plMrq8WttT18Npwi), [こぴ](https://open.spotify.com/artist/7o5Zl6NC3E8gO3sDoEjyqU), [未来](https://open.spotify.com/artist/2XRMhre9OgtMDUA9byHD4O) | [これくしょん ヴァイナル](https://open.spotify.com/album/7JGNOCHjSXe6MLPRQiLfbo) | 4:24 | 2022-06-16 | 2022-07-13 |
 | [レインボー!](https://open.spotify.com/track/5HbCXXaf4o2hjw6s1tkLhc) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [間一発](https://open.spotify.com/album/1OmxRf8VOCmablACDWI6vF) | 1:32 | 2022-07-14 | 2022-07-16 |
 | [ロストボーイズ](https://open.spotify.com/track/7dTVamzAYrDWiK0s1k8ruu) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [七号線ロストボーイズ](https://open.spotify.com/album/0pqrWNxpcWBvR9A5A9JHHl) | 5:46 | 2022-06-23 | 2022-06-29 |

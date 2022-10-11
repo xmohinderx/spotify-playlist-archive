@@ -2,7 +2,7 @@
 
 ### [Punto Tropical](https://open.spotify.com/playlist/37i9dQZF1DWZ1FUX6sM67g)
 
-> ¡En este punto tropical, se encuentra un poco de todo! Foto: Pipe Bueno, Silvestre Dangond, Gente de Zona
+> ¡En este punto tropical, se encuentra un poco de todo! Foto: Pipe Bueno, Silvestre Dangond, Darell
 
 85 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/16anPiH3Ulo6h6pHaV7pop)
 

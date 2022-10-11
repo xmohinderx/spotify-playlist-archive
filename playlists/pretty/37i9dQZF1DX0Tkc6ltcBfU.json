@@ -1,13 +1,29 @@
 {
   "description": "The hottest out the south. Cover: Finesse2tymes",
-  "num_followers": 1092088,
+  "num_followers": 1092368,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDRlZGMxZDgzYTEwMzQwNmRlMGRlYTEyMzI3OTE0NDZm",
+  "snapshot_id": "MTY2NTQxNzYwMCwwMDAwMDAwMGRjYjY4OWE1MTUyMzg5Y2M5YTlmMDk4MTJhY2Y0MmE2",
   "tracks": [
+    {
+      "added_at": "2022-10-10 16:00:00",
+      "album": {
+        "name": "Heyy",
+        "url": "https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Heyy",
+      "url": "https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ"
+    },
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {

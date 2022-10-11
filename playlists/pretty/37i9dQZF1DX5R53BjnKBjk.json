@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: aocoral Arte: Isu Kim",
-  "num_followers": 12174,
+  "num_followers": 12187,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGU0MjRhNDVhMmFiYTg5MzUyOTE2MWIzYWNmZjEzODRi",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGJhNGNiMjZmNWNiYTAxMzkzZmI0YzQ3MDIxOGM0NzBj",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
+      },
+      "artists": [
+        {
+          "name": "Carolina Andrade",
+          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
+        }
+      ],
+      "duration_ms": 160337,
+      "name": "Nossa Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "VOU EMBORA DO BRASIL",
         "url": "https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
-      },
-      "artists": [
-        {
-          "name": "Carolina Andrade",
-          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
-        }
-      ],
-      "duration_ms": 160337,
-      "name": "Nossa Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Do Meu Lado",
         "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
       },
@@ -487,26 +487,6 @@
       "duration_ms": 144742,
       "name": "Esse Jogo",
       "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "A Nossa Bossa",
-        "url": "https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl"
-      },
-      "artists": [
-        {
-          "name": "NUNEZ",
-          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
-        },
-        {
-          "name": "Jair Oliveira",
-          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "A Nossa Bossa",
-      "url": "https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -559,6 +539,42 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Ex-Melhor Amigo",
+        "url": "https://open.spotify.com/album/3siYvHqoPipVcMasKdgg3b"
+      },
+      "artists": [
+        {
+          "name": "Veni",
+          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Ex-Melhor Amigo",
+      "url": "https://open.spotify.com/track/7m604nggEys9csDMi0pTsC"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "A Nossa Bossa",
+        "url": "https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl"
+      },
+      "artists": [
+        {
+          "name": "NUNEZ",
+          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
+        },
+        {
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "A Nossa Bossa",
+      "url": "https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Amor Vagabundo",
         "url": "https://open.spotify.com/album/6wOV2GjvqqfvRNtpVq6DDD"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 160413,
       "name": "Oxi (Dio Mio!)",
       "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Ex-Melhor Amigo",
-        "url": "https://open.spotify.com/album/3siYvHqoPipVcMasKdgg3b"
-      },
-      "artists": [
-        {
-          "name": "Veni",
-          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Ex-Melhor Amigo",
-      "url": "https://open.spotify.com/track/7m604nggEys9csDMi0pTsC"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -691,22 +691,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Da Vida",
-        "url": "https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb"
+        "name": "Queda livre",
+        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
       },
       "artists": [
         {
-          "name": "M\u00e1rcio Lug\u00f3",
-          "url": "https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM"
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
         },
         {
-          "name": "Hugo Branquinho",
-          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
         }
       ],
-      "duration_ms": 180680,
-      "name": "Da Vida",
-      "url": "https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6"
+      "duration_ms": 198000,
+      "name": "Queda livre",
+      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Da Vida",
+        "url": "https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcio Lug\u00f3",
+          "url": "https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM"
+        },
+        {
+          "name": "Hugo Branquinho",
+          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "Da Vida",
+      "url": "https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Ideia Errada",
         "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
       },
@@ -763,22 +783,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "<del>",
-        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
-      },
-      "artists": [
-        {
-          "name": "DeLuca",
-          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
-        }
-      ],
-      "duration_ms": 114081,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Por um Fio",
         "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
       },
@@ -791,6 +795,22 @@
       "duration_ms": 189271,
       "name": "Por um Fio",
       "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "<del>",
+        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
+      },
+      "artists": [
+        {
+          "name": "DeLuca",
+          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
+        }
+      ],
+      "duration_ms": 114081,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -831,6 +851,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Ent\u00e3o Me Diz",
+        "url": "https://open.spotify.com/album/5rS4Dlac0grWfVUgBUTUay"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 171038,
+      "name": "Ent\u00e3o Me Diz",
+      "url": "https://open.spotify.com/track/44jbh10mXNnHmrl1IWEWz5"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "0800",
         "url": "https://open.spotify.com/album/2eEkhalGRVyJ6mkGWwfuCf"
       },
@@ -851,18 +887,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Ent\u00e3o Me Diz",
-        "url": "https://open.spotify.com/album/5rS4Dlac0grWfVUgBUTUay"
+        "name": "Surrender!",
+        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
       },
       "artists": [
         {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
         }
       ],
-      "duration_ms": 171038,
-      "name": "Ent\u00e3o Me Diz",
-      "url": "https://open.spotify.com/track/44jbh10mXNnHmrl1IWEWz5"
+      "duration_ms": 189030,
+      "name": "Surrender!",
+      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -879,6 +915,22 @@
       "duration_ms": 223146,
       "name": "Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/7liHoUtzVaTmU9jbsUlEzf"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "4 Da Tarde",
+        "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
+      },
+      "artists": [
+        {
+          "name": "Dupoint",
+          "url": "https://open.spotify.com/artist/54GML44bZteHh8aoqc644G"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "4 Da Tarde",
+      "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -903,22 +955,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Surrender!",
-        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
-      },
-      "artists": [
-        {
-          "name": "Bemti",
-          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Surrender!",
-      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "AUGE",
         "url": "https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ"
       },
@@ -931,38 +967,6 @@
       "duration_ms": 194782,
       "name": "Meu Foco",
       "url": "https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "4 Da Tarde",
-        "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
-      },
-      "artists": [
-        {
-          "name": "Dupoint",
-          "url": "https://open.spotify.com/artist/54GML44bZteHh8aoqc644G"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "4 Da Tarde",
-      "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Rebuli\u00e7o",
-        "url": "https://open.spotify.com/album/4fsZp3nHy7vFiFHbov9rbw"
-      },
-      "artists": [
-        {
-          "name": "Nano Orquestra",
-          "url": "https://open.spotify.com/artist/2uvzTxbSGqlSBIKb6hCl2o"
-        }
-      ],
-      "duration_ms": 227637,
-      "name": "Rebuli\u00e7o",
-      "url": "https://open.spotify.com/track/3l8NUXSdk2sofDn6hcnkR1"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -983,6 +987,22 @@
       "duration_ms": 166611,
       "name": "Medo de Mim",
       "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Rebuli\u00e7o",
+        "url": "https://open.spotify.com/album/4fsZp3nHy7vFiFHbov9rbw"
+      },
+      "artists": [
+        {
+          "name": "Nano Orquestra",
+          "url": "https://open.spotify.com/artist/2uvzTxbSGqlSBIKb6hCl2o"
+        }
+      ],
+      "duration_ms": 227637,
+      "name": "Rebuli\u00e7o",
+      "url": "https://open.spotify.com/track/3l8NUXSdk2sofDn6hcnkR1"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1131,22 +1151,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "TARA",
-        "url": "https://open.spotify.com/album/15UnP9gEyIaskBAb6u7gJX"
-      },
-      "artists": [
-        {
-          "name": "Malu Rizzo",
-          "url": "https://open.spotify.com/artist/6OReJ6J8946lGFWrYugvdH"
-        }
-      ],
-      "duration_ms": 136002,
-      "name": "TARA",
-      "url": "https://open.spotify.com/track/2mci9VwSkwtxPaMGKJqOvt"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Boi Bacana",
         "url": "https://open.spotify.com/album/17Uzxdd9kXUJ3cvz4fMEPY"
       },
@@ -1163,6 +1167,22 @@
       "duration_ms": 140898,
       "name": "Boi Bacana",
       "url": "https://open.spotify.com/track/3cccuih9bCMA8Q3M9XJttH"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "TARA",
+        "url": "https://open.spotify.com/album/15UnP9gEyIaskBAb6u7gJX"
+      },
+      "artists": [
+        {
+          "name": "Malu Rizzo",
+          "url": "https://open.spotify.com/artist/6OReJ6J8946lGFWrYugvdH"
+        }
+      ],
+      "duration_ms": 136002,
+      "name": "TARA",
+      "url": "https://open.spotify.com/track/2mci9VwSkwtxPaMGKJqOvt"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1243,26 +1263,6 @@
       "duration_ms": 171068,
       "name": "Ei Voc\u00ea",
       "url": "https://open.spotify.com/track/6kEsR6wVuS0TF0pzdhq5ge"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Queda livre",
-        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
-      },
-      "artists": [
-        {
-          "name": "Playmoboys",
-          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
-        },
-        {
-          "name": "Oh! I Kill",
-          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Queda livre",
-      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
     },
     {
       "added_at": "2022-10-07 03:00:00",

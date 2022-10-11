@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marion Raw.",
-  "num_followers": 31018,
+  "num_followers": 31030,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDQxNTNhN2RhZDQ2YWMyYmY0YjFkOTM2MTM0NDk2ZTRj",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGU1YWEyN2YyZGMzN2MzYmRlYjQwMThhMjQzMWEyZTcx",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Perro de Playa (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z"
+        "name": "Hice Todo Mal",
+        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
       },
       "artists": [
         {
-          "name": "Man Ray",
-          "url": "https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm"
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
         }
       ],
-      "duration_ms": 186440,
-      "name": "Sola en los Bares (2020 Remasterizado)",
-      "url": "https://open.spotify.com/track/7HeOiPvLeOgdszASIZGCZX"
+      "duration_ms": 194999,
+      "name": "Hice Todo Mal",
+      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Perro de Playa (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z"
+      },
+      "artists": [
+        {
+          "name": "Man Ray",
+          "url": "https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Sola en los Bares (2020 Remasterizado)",
+      "url": "https://open.spotify.com/track/7HeOiPvLeOgdszASIZGCZX"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Avi\u00f3n",
         "url": "https://open.spotify.com/album/3PFOOi8DQZ6ai84QNhniAF"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 225732,
       "name": "Nunca ir\u00e9",
       "url": "https://open.spotify.com/track/2h7uFA27o5TQiKRN9499Fg"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Hice Todo Mal",
-        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Hice Todo Mal",
-      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Cosa M\u00eda",
+        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Cosa M\u00eda",
+      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Fuego Artificial",
         "url": "https://open.spotify.com/album/3e2SVjsf68I0bdnMxjIRPR"
       },
@@ -351,38 +367,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Gabinete De Curiosidades",
-        "url": "https://open.spotify.com/album/4Cj0aEHj3SzgnmjCiUB8VJ"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 195758,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/07gv03OUOc56ibUYXlh3CQ"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Cosa M\u00eda",
-        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Cosa M\u00eda",
-      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Seremos Primavera",
         "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 230259,
       "name": "Sorojchi",
       "url": "https://open.spotify.com/track/3G2oKpZKebeikGbTBiidsb"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Gabinete De Curiosidades",
+        "url": "https://open.spotify.com/album/4Cj0aEHj3SzgnmjCiUB8VJ"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 195758,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/07gv03OUOc56ibUYXlh3CQ"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -431,26 +431,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Ubicaci\u00f3n en Tiempo Real",
-        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        },
-        {
-          "name": "Paula Trama",
-          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
-        }
-      ],
-      "duration_ms": 255860,
-      "name": "Los D\u00edas Que No Est\u00e1s",
-      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 222706,
       "name": "Mi Playa",
       "url": "https://open.spotify.com/track/3C8l5qDzec8poDxsCUIZXp"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Ubicaci\u00f3n en Tiempo Real",
+        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        },
+        {
+          "name": "Paula Trama",
+          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
+        }
+      ],
+      "duration_ms": 255860,
+      "name": "Los D\u00edas Que No Est\u00e1s",
+      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Ruido Rosa",
-        "url": "https://open.spotify.com/album/411pxBTJ807CkrGZr2o3N0"
+        "name": "Seremos Primavera",
+        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
       },
       "artists": [
         {
-          "name": "Ruido Rosa",
-          "url": "https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE"
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
         }
       ],
-      "duration_ms": 185851,
-      "name": "Miedo a Caer",
-      "url": "https://open.spotify.com/track/56flcgaM3MdZS8jnzlabA5"
+      "duration_ms": 205704,
+      "name": "Carapaz\u00f3n",
+      "url": "https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Seremos Primavera",
-        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
+        "name": "Ruido Rosa",
+        "url": "https://open.spotify.com/album/411pxBTJ807CkrGZr2o3N0"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+          "name": "Ruido Rosa",
+          "url": "https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE"
         }
       ],
-      "duration_ms": 205704,
-      "name": "Carapaz\u00f3n",
-      "url": "https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji"
+      "duration_ms": 185851,
+      "name": "Miedo a Caer",
+      "url": "https://open.spotify.com/track/56flcgaM3MdZS8jnzlabA5"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Una Pel\u00edcula",
+        "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "duration_ms": 320167,
+      "name": "Una Pel\u00edcula",
+      "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Una Pel\u00edcula",
-        "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
+        "name": "Seremos Primavera en Vivo en La Ballena Azul",
+        "url": "https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
         }
       ],
-      "duration_ms": 320167,
-      "name": "Una Pel\u00edcula",
-      "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
+      "duration_ms": 298205,
+      "name": "Sorojchi - En Vivo en La Ballena Azul",
+      "url": "https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -707,22 +723,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Seremos Primavera en Vivo en La Ballena Azul",
-        "url": "https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 298205,
-      "name": "Sorojchi - En Vivo en La Ballena Azul",
-      "url": "https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 169398,
-      "name": "Clav\u00edcula",
-      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Misterio Relampago",
         "url": "https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 208573,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/6EPUMzPlw1YN4kAS70ZGG3"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 169398,
+      "name": "Clav\u00edcula",
+      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
-      },
-      "artists": [
-        {
-          "name": "Maria Gabriela Epumer",
-          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
-        }
-      ],
-      "duration_ms": 291280,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Viuda e Hijas de Roque Enroll",
         "url": "https://open.spotify.com/album/2zskKFjyqd5SDnoUJ2Gvw9"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Ojos que ladran",
-        "url": "https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT"
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
       },
       "artists": [
         {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+          "name": "Maria Gabriela Epumer",
+          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
         }
       ],
-      "duration_ms": 192984,
-      "name": "Palo de Amansar",
-      "url": "https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8"
+      "duration_ms": 291280,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -879,6 +863,22 @@
       "duration_ms": 257079,
       "name": "Azul Casi Morado",
       "url": "https://open.spotify.com/track/2UU9JV6RUuyveQWqq3xlBF"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Ojos que ladran",
+        "url": "https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT"
+      },
+      "artists": [
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "duration_ms": 192984,
+      "name": "Palo de Amansar",
+      "url": "https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Lo Que Dur\u00f3 la Vida de Alguien",
+        "url": "https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Lobo",
+          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Perro Agonizante",
+      "url": "https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Ruta Hotel",
         "url": "https://open.spotify.com/album/5198xcABxOJ3tJicMBwchi"
       },
@@ -1059,6 +1075,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "All\u00e1 en la Tierra",
+        "url": "https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn"
+      },
+      "artists": [
+        {
+          "name": "Sr Tomate",
+          "url": "https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Dibujo un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "bi/MENTAL",
         "url": "https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle"
       },
@@ -1071,6 +1103,22 @@
       "duration_ms": 220561,
       "name": "give/UP",
       "url": "https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Flores Sobre las Piedras",
+        "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
+      },
+      "artists": [
+        {
+          "name": "Carla Rivarola",
+          "url": "https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Flores Sobre las Piedras",
+      "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1095,38 +1143,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Lo Que Dur\u00f3 la Vida de Alguien",
-        "url": "https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Lobo",
-          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Perro Agonizante",
-      "url": "https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "All\u00e1 en la Tierra",
-        "url": "https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn"
-      },
-      "artists": [
-        {
-          "name": "Sr Tomate",
-          "url": "https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Dibujo un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Desvelo",
         "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
       },
@@ -1143,24 +1159,8 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Flores Sobre las Piedras",
-        "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
-      },
-      "artists": [
-        {
-          "name": "Carla Rivarola",
-          "url": "https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Flores Sobre las Piedras",
-      "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Preguntame",
-        "url": "https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx"
+        "name": "Buenas Noches Terr\u00edcolas",
+        "url": "https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD"
       },
       "artists": [
         {
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
         }
       ],
-      "duration_ms": 204336,
-      "name": "Preguntame",
-      "url": "https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK"
+      "duration_ms": 247970,
+      "name": "MANIQU\u00cd",
+      "url": "https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Buenas Noches Terr\u00edcolas",
-        "url": "https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD"
-      },
-      "artists": [
-        {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
-        }
-      ],
-      "duration_ms": 247970,
-      "name": "MANIQU\u00cd",
-      "url": "https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Todo el mundo miente",
         "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 207669,
       "name": "Todo el mundo miente",
       "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Preguntame",
+        "url": "https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx"
+      },
+      "artists": [
+        {
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        }
+      ],
+      "duration_ms": 204336,
+      "name": "Preguntame",
+      "url": "https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Friends And Lovers",
-        "url": "https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf"
-      },
-      "artists": [
-        {
-          "name": "Las Kellies",
-          "url": "https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze"
-        }
-      ],
-      "duration_ms": 252178,
-      "name": "Sugar Beat",
-      "url": "https://open.spotify.com/track/2dqE2QTIYEV54uysxuHt69"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Piel Fina",
         "url": "https://open.spotify.com/album/4W3lgXzDMNcHBi5ZS4QxYY"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 142222,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/40Y5HOWo4FsOYQITh36Vnj"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Friends And Lovers",
+        "url": "https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf"
+      },
+      "artists": [
+        {
+          "name": "Las Kellies",
+          "url": "https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze"
+        }
+      ],
+      "duration_ms": 252178,
+      "name": "Sugar Beat",
+      "url": "https://open.spotify.com/track/2dqE2QTIYEV54uysxuHt69"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Autodefensa",
-        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
-      },
-      "artists": [
-        {
-          "name": "Las Ex",
-          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
-        }
-      ],
-      "duration_ms": 180277,
-      "name": "Autodefensa",
-      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Truco o Trato (Cap\u00edtulo I)",
         "url": "https://open.spotify.com/album/1TCp9KH1KiLydlh3cXPnfJ"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "On\u00edrica",
-        "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
+        "name": "Autodefensa",
+        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
       },
       "artists": [
         {
-          "name": "Eva Ryjlen",
-          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
+          "name": "Las Ex",
+          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
         }
       ],
-      "duration_ms": 223205,
-      "name": "Shangri-La",
-      "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"
+      "duration_ms": 180277,
+      "name": "Autodefensa",
+      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1507,6 +1491,22 @@
       "duration_ms": 240528,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "On\u00edrica",
+        "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
+      },
+      "artists": [
+        {
+          "name": "Eva Ryjlen",
+          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
+        }
+      ],
+      "duration_ms": 223205,
+      "name": "Shangri-La",
+      "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"
     },
     {
       "added_at": "2022-10-07 03:00:00",

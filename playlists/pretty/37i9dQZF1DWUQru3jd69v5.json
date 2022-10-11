@@ -1,15 +1,31 @@
 {
   "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Yunes LaGrintaa",
-  "num_followers": 213281,
+  "num_followers": 213338,
   "original_name": "Raptopia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5MzY2MCwwMDAwMDAwMDg3NTRmNzEyODdhMWZmMTI2ODIxODYxNDE0MDA3NTQ2",
+  "snapshot_id": "MTY2NTQxNDYxOSwwMDAwMDAwMGFjOTMzOTJhMjEyNWM5ODBmY2NhZDU4YzI4YmMwMWYz",
   "tracks": [
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "TE STESSO",
+        "url": "https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "duration_ms": 159711,
+      "name": "TE STESSO",
+      "url": "https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Giro La Nuit",
         "url": "https://open.spotify.com/album/5OdTbldVWMzYUmJKy6zw0M"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/1bBuTSK4KzCBveyk8999Qa"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Trafficante",
         "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/1gDOQhITnrLJtvL1q3aTm2"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/4IUW8x8SdDkcbm8LivZRC1"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Plaquette",
         "url": "https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Cartier #1",
         "url": "https://open.spotify.com/album/0j18KQ9kbszuYt5GxDlj8D"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/0IZKfHXiZSlB6uGURuo29K"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "YO",
         "url": "https://open.spotify.com/album/27hO8daTikBVebKuEhZFGT"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/50ku9kOIoxwfKfdQCqbe8m"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Immigrato",
         "url": "https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ"
@@ -133,39 +149,7 @@
       "url": "https://open.spotify.com/track/1tC2jyKepT8S8xd7vzBcPK"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "Sottozero",
-        "url": "https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "FINISCIMI",
-      "url": "https://open.spotify.com/track/1FQFjNMOuOOsCPmnanGRcu"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "Walkie Talkie",
-        "url": "https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B"
-      },
-      "artists": [
-        {
-          "name": "Delaru\u00e0",
-          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Walkie Talkie",
-      "url": "https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "PLAYA",
         "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
@@ -181,7 +165,75 @@
       "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "Best Life",
+        "url": "https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "duration_ms": 139349,
+      "name": "Best Life",
+      "url": "https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "Giri",
+        "url": "https://open.spotify.com/album/6kuZ4J857hZmRKnqP6wyTU"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "duration_ms": 144638,
+      "name": "Giri",
+      "url": "https://open.spotify.com/track/14oEkVkKtqMOFsPw2Uas7v"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "Walkie Talkie",
+        "url": "https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B"
+      },
+      "artists": [
+        {
+          "name": "Delaru\u00e0",
+          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Walkie Talkie",
+      "url": "https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "Wroom Wroom",
+        "url": "https://open.spotify.com/album/1jVXH8SRRkuLIgLXn9JsD1"
+      },
+      "artists": [
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        },
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "duration_ms": 148190,
+      "name": "Wroom Wroom",
+      "url": "https://open.spotify.com/track/4xtSgGX5CQgVXTCRhagLf1"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Strade Unite (feat. Helmi sa7bi, emanuelino)",
         "url": "https://open.spotify.com/album/4pqW2BaSQ7qOdg8KMSxId3"
@@ -209,75 +261,7 @@
       "url": "https://open.spotify.com/track/6PYMcSZlBqCgFOojTLMJgD"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "TE STESSO",
-        "url": "https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ"
-      },
-      "artists": [
-        {
-          "name": "Il Ghost",
-          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
-        }
-      ],
-      "duration_ms": 159711,
-      "name": "TE STESSO",
-      "url": "https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "Best Life",
-        "url": "https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9za",
-          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
-        }
-      ],
-      "duration_ms": 139349,
-      "name": "Best Life",
-      "url": "https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "Giri",
-        "url": "https://open.spotify.com/album/6kuZ4J857hZmRKnqP6wyTU"
-      },
-      "artists": [
-        {
-          "name": "Nabi",
-          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
-        }
-      ],
-      "duration_ms": 144638,
-      "name": "Giri",
-      "url": "https://open.spotify.com/track/14oEkVkKtqMOFsPw2Uas7v"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "Wroom Wroom",
-        "url": "https://open.spotify.com/album/1jVXH8SRRkuLIgLXn9JsD1"
-      },
-      "artists": [
-        {
-          "name": "Kassimi",
-          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
-        },
-        {
-          "name": "Yunes LaGrintaa",
-          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
-        }
-      ],
-      "duration_ms": 148190,
-      "name": "Wroom Wroom",
-      "url": "https://open.spotify.com/track/4xtSgGX5CQgVXTCRhagLf1"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "SOCIAL",
         "url": "https://open.spotify.com/album/3G79iLNwARWJRjGSED29fP"
@@ -297,7 +281,23 @@
       "url": "https://open.spotify.com/track/2Q7XAHQ0bk3GooyDG8Nlb6"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "Sottozero",
+        "url": "https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "FINISCIMI",
+      "url": "https://open.spotify.com/track/1FQFjNMOuOOsCPmnanGRcu"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "RS6",
         "url": "https://open.spotify.com/album/1g7JxBAsczHAacw7rFcayW"
@@ -313,27 +313,7 @@
       "url": "https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "Ges\u00f9 Bambino",
-        "url": "https://open.spotify.com/album/73o3cVQvCogUq8jVRJ8DU4"
-      },
-      "artists": [
-        {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        },
-        {
-          "name": "Fri2",
-          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Pappone",
-      "url": "https://open.spotify.com/track/318VJBfV0eQarH5Bmq0NtV"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "MUJER",
         "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
@@ -349,7 +329,7 @@
       "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Dark Days",
         "url": "https://open.spotify.com/album/3BZfTdNv2jymCMUdmDmOnj"
@@ -369,27 +349,43 @@
       "url": "https://open.spotify.com/track/197sltAUVMru0iJmJwPcho"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
-        "name": "BABAMAN",
-        "url": "https://open.spotify.com/album/7kjwr8ZOGH8InOp1KQpohe"
+        "name": "OMC 2",
+        "url": "https://open.spotify.com/album/2Jdeflesd2uNZJ6DKTlEIq"
       },
       "artists": [
         {
-          "name": "FUCKYOURCLIQUE",
-          "url": "https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ"
-        },
-        {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
         }
       ],
-      "duration_ms": 187058,
-      "name": "BABAMAN",
-      "url": "https://open.spotify.com/track/4SoVmDaaTx0BCNDKI76NCf"
+      "duration_ms": 146672,
+      "name": "OMC 2",
+      "url": "https://open.spotify.com/track/3nMLwOUE2U8KWOMWZK7ve6"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "Ges\u00f9 Bambino",
+        "url": "https://open.spotify.com/album/73o3cVQvCogUq8jVRJ8DU4"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Fri2",
+          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Pappone",
+      "url": "https://open.spotify.com/track/318VJBfV0eQarH5Bmq0NtV"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Immigrato",
         "url": "https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ"
@@ -409,7 +405,7 @@
       "url": "https://open.spotify.com/track/2MwQjdvvuYF5XaXyJmlygR"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Dejavu",
         "url": "https://open.spotify.com/album/5qEPyzaTjIr9HRisws1uFm"
@@ -425,23 +421,7 @@
       "url": "https://open.spotify.com/track/6bcT7alWnBZmk5Ke0wsAIj"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "OMC 2",
-        "url": "https://open.spotify.com/album/2Jdeflesd2uNZJ6DKTlEIq"
-      },
-      "artists": [
-        {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
-        }
-      ],
-      "duration_ms": 146672,
-      "name": "OMC 2",
-      "url": "https://open.spotify.com/track/3nMLwOUE2U8KWOMWZK7ve6"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "4MEGA SHOO",
         "url": "https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn"
@@ -461,27 +441,7 @@
       "url": "https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "HO PERSO LA TESTA",
-        "url": "https://open.spotify.com/album/1pIp3y0hRQqLIPaHzWv1lu"
-      },
-      "artists": [
-        {
-          "name": "Lil Busso",
-          "url": "https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051"
-        },
-        {
-          "name": "sedd",
-          "url": "https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6"
-        }
-      ],
-      "duration_ms": 135241,
-      "name": "HO PERSO LA TESTA",
-      "url": "https://open.spotify.com/track/4AwTAhmlFlrco1blyGFKdR"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Vita",
         "url": "https://open.spotify.com/album/0SVrYSdrhwIblseZvJXtqS"
@@ -505,7 +465,7 @@
       "url": "https://open.spotify.com/track/7unxZsFlo58iTbnxkoJ8lk"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
@@ -549,7 +509,7 @@
       "url": "https://open.spotify.com/track/3I8BqKLrfzZk1oGRe2pcnV"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad"
@@ -565,7 +525,7 @@
       "url": "https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Dream Team",
         "url": "https://open.spotify.com/album/6NxPuLnfHoj7X2akdm2mFw"
@@ -585,7 +545,7 @@
       "url": "https://open.spotify.com/track/5Cv7syuN0JoYSCzj4Ow2mi"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/7pVf3kW6pBORKlEjnAzTek"
@@ -601,7 +561,27 @@
       "url": "https://open.spotify.com/track/1aOZK97dwvvi3oaSBdGAXh"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "BABAMAN",
+        "url": "https://open.spotify.com/album/7kjwr8ZOGH8InOp1KQpohe"
+      },
+      "artists": [
+        {
+          "name": "FUCKYOURCLIQUE",
+          "url": "https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ"
+        },
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "BABAMAN",
+      "url": "https://open.spotify.com/track/4SoVmDaaTx0BCNDKI76NCf"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Possessivo",
         "url": "https://open.spotify.com/album/0m2q33Rwf9bgzJVIishvPN"
@@ -621,7 +601,7 @@
       "url": "https://open.spotify.com/track/1StQ4CHZwKz54nXwZ1O3VM"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "QUATTERI #2",
         "url": "https://open.spotify.com/album/5rwB4fDaWfORiDU7KOhmuT"
@@ -637,7 +617,7 @@
       "url": "https://open.spotify.com/track/2mhjSMEAbReJIguSuAUP0Y"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "BLCK MAMBA",
         "url": "https://open.spotify.com/album/4h6LvD4A3oTBdpaZwHu5q5"
@@ -657,27 +637,7 @@
       "url": "https://open.spotify.com/track/2dw9segQF74a75R4F5moeh"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "CANTERA MACHETE, VOL. II",
-        "url": "https://open.spotify.com/album/41nzTTUD0063x7Te16AYau"
-      },
-      "artists": [
-        {
-          "name": "MACHETE",
-          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
-        },
-        {
-          "name": "BIANCOMARMO",
-          "url": "https://open.spotify.com/artist/4C3zbFkBgltRh40f62Cd49"
-        }
-      ],
-      "duration_ms": 161268,
-      "name": "PRIMO MAGGIO",
-      "url": "https://open.spotify.com/track/3TwuH2ibAph5VukmaBkl8x"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Minor\u00e8",
         "url": "https://open.spotify.com/album/1qjHdrXzVMs4ielAd5IkIZ"
@@ -693,7 +653,27 @@
       "url": "https://open.spotify.com/track/7LlYj0RhsOxFY3prYoj9Y3"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "HO PERSO LA TESTA",
+        "url": "https://open.spotify.com/album/1pIp3y0hRQqLIPaHzWv1lu"
+      },
+      "artists": [
+        {
+          "name": "Lil Busso",
+          "url": "https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051"
+        },
+        {
+          "name": "sedd",
+          "url": "https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6"
+        }
+      ],
+      "duration_ms": 135241,
+      "name": "HO PERSO LA TESTA",
+      "url": "https://open.spotify.com/track/4AwTAhmlFlrco1blyGFKdR"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "A TE",
         "url": "https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv"
@@ -709,7 +689,59 @@
       "url": "https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "La Night",
+        "url": "https://open.spotify.com/album/2euZMLQOMqxiepkLCGm8bg"
+      },
+      "artists": [
+        {
+          "name": "4m",
+          "url": "https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "La Night",
+      "url": "https://open.spotify.com/track/25BMe4HvZhR33AKt0feyYt"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "10 MILA",
+        "url": "https://open.spotify.com/album/6ZguOUjKVLCrAq6hLxSRvb"
+      },
+      "artists": [
+        {
+          "name": "Piccolo Plug",
+          "url": "https://open.spotify.com/artist/087NKpXhjsgavyDxM3vWzm"
+        }
+      ],
+      "duration_ms": 124511,
+      "name": "10 MILA",
+      "url": "https://open.spotify.com/track/2kesPCCmnyLpygemxcgNT5"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/4fMG0tZOJ4VqA1nbx8WJy6"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "duration_ms": 113877,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5AcsGDFaLi9t576So8hFZQ"
+    },
+    {
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "HANNIBAL",
         "url": "https://open.spotify.com/album/6djlLJmHozqyLytbQlrAS0"
@@ -733,59 +765,27 @@
       "url": "https://open.spotify.com/track/4goiLHnCVjXQUThiwMGOax"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
-        "name": "10 MILA",
-        "url": "https://open.spotify.com/album/6ZguOUjKVLCrAq6hLxSRvb"
+        "name": "CANTERA MACHETE, VOL. II",
+        "url": "https://open.spotify.com/album/41nzTTUD0063x7Te16AYau"
       },
       "artists": [
         {
-          "name": "Piccolo Plug",
-          "url": "https://open.spotify.com/artist/087NKpXhjsgavyDxM3vWzm"
-        }
-      ],
-      "duration_ms": 124511,
-      "name": "10 MILA",
-      "url": "https://open.spotify.com/track/2kesPCCmnyLpygemxcgNT5"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "La Night",
-        "url": "https://open.spotify.com/album/2euZMLQOMqxiepkLCGm8bg"
-      },
-      "artists": [
-        {
-          "name": "4m",
-          "url": "https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "La Night",
-      "url": "https://open.spotify.com/track/25BMe4HvZhR33AKt0feyYt"
-    },
-    {
-      "added_at": "2022-10-06 22:01:00",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/4fMG0tZOJ4VqA1nbx8WJy6"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+          "name": "MACHETE",
+          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
         },
         {
-          "name": "Blssd",
-          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+          "name": "BIANCOMARMO",
+          "url": "https://open.spotify.com/artist/4C3zbFkBgltRh40f62Cd49"
         }
       ],
-      "duration_ms": 113877,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5AcsGDFaLi9t576So8hFZQ"
+      "duration_ms": 161268,
+      "name": "PRIMO MAGGIO",
+      "url": "https://open.spotify.com/track/3TwuH2ibAph5VukmaBkl8x"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Estorsione",
         "url": "https://open.spotify.com/album/6foFbS96f9s22rApLXyEOa"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/2GRi9N2LVatxmdwHekDxpX"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "STRIPPER",
         "url": "https://open.spotify.com/album/0SGvbnqaOVcBP4BLPWDs6F"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/1qXVJGwvtHxFHTbxmam3Tk"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "NO CONFIDENCE",
         "url": "https://open.spotify.com/album/2I3c5Ebl05sIArI3uy3mtj"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/4aCdjK8tuejHwGSTpgRCez"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Round #1",
         "url": "https://open.spotify.com/album/6VxMRWN2d4rA5msVX5SIPN"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/6YhvuW3UM7wyGoZegel8hB"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Fogli strappati",
         "url": "https://open.spotify.com/album/5rQJ4922Vw9chnwYjabaG3"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/5ETvYjfhCSHcCSYVTco7oP"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "Delinquendo",
         "url": "https://open.spotify.com/album/6YC6UsqOCmC0TZ95LkivYx"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/5w37bmfEjH2atbVTuupyfo"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "BANDOLERO (feat. Kerim Levrai, Madprince, Marsiglia, Orfedi)",
         "url": "https://open.spotify.com/album/2xU8gbWf3TmX1cWQ1jwmen"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/5qlWyJHbr7X31fhnfwaley"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "MISS YOU",
         "url": "https://open.spotify.com/album/570ebPHKPWtW1K7jInF0Ic"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/0tEcORU8uVMkgFIQ0afTvb"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "ESTATE ZANZA",
         "url": "https://open.spotify.com/album/5fvmpFRfoI3V4hJJw7WZTi"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/2Zcm4bfzIeOyR2FPp2DMmt"
     },
     {
-      "added_at": "2022-10-06 22:01:00",
+      "added_at": "2022-10-10 15:10:19",
       "album": {
         "name": "GRA",
         "url": "https://open.spotify.com/album/0EPDrZtlH0TSj42kpu7Tnx"

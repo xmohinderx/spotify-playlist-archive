@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 253068,
       "name": "Azhagula Rasathi - From \"Pistha\"",
       "url": "https://open.spotify.com/track/2fmRdVTuJV8pvxEP972DHI"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 237235,
       "name": "Bullet Song",
       "url": "https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu"
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 209032,
       "name": "Dippam Dappam",
       "url": "https://open.spotify.com/track/3LEMmV0BgtM7TaJk40PFZU"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 74000,
       "name": "Enna Kolla Vantha - From \"Pistha\"",
       "url": "https://open.spotify.com/track/5YTheLnGsrTWRqmPBnl6hB"
@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 240252,
       "name": "Ezhundhu Vaa (From \"Singappenney\")",
       "url": "https://open.spotify.com/track/5vMSkvtLuYwx3ea7R56Zay"
@@ -2825,6 +2825,32 @@
       "duration_ms": 232513,
       "name": "Kannukkulle (From \"Sita Ramam (Tamil)\")",
       "url": "https://open.spotify.com/track/4WDya8Mau5wuqLnaNr2Ct0"
+    },
+    {
+      "album": {
+        "name": "Kaya Muya (From \"Haraa\")",
+        "url": "https://open.spotify.com/album/4aiD333tZISY1pQlT12Ylx"
+      },
+      "artists": [
+        {
+          "name": "Leander Lee Marty",
+          "url": "https://open.spotify.com/artist/49GHydwfSzTUZS4SFOV8Q3"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "Shakthi Muralidaran",
+          "url": "https://open.spotify.com/artist/6C6G7wkvUdWQgMcgbBwQDM"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274447,
+      "name": "Kaya Muya (From \"Haraa\")",
+      "url": "https://open.spotify.com/track/00ucQFcOC9gRxprPRzcfKU"
     },
     {
       "album": {
@@ -3977,7 +4003,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 243570,
       "name": "Naan Pizhai",
       "url": "https://open.spotify.com/track/6lQ7RWoymp53169COo4fLN"
@@ -4557,7 +4583,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 270521,
       "name": "Paartha Nyabhagam (From \"Kolai\")",
       "url": "https://open.spotify.com/track/66R1mgEw5IfOPCAtngwHlL"
@@ -4999,7 +5025,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 216774,
       "name": "Private Party (From \"Don\")",
       "url": "https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV"
@@ -5429,7 +5455,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 207000,
       "name": "Senthamaraiye",
       "url": "https://open.spotify.com/track/4ChL9SvOK2k34GGZcdl39C"
@@ -6003,7 +6029,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 138000,
       "name": "Theeyaai Ododi (From \"Repeat Shoe\")",
       "url": "https://open.spotify.com/track/6Ki4woLYLM25t6jspMXAXK"
@@ -6983,6 +7009,28 @@
       "duration_ms": 144428,
       "name": "Yaathri (From \"Gargi (Tamil)\")",
       "url": "https://open.spotify.com/track/39y2C8ORgW5Z4Pthdlfzrv"
+    },
+    {
+      "album": {
+        "name": "Yaerumayileri (From \"Sardar\")",
+        "url": "https://open.spotify.com/album/53MkyOm5WuQT7BUFbjNDgo"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Karthi",
+          "url": "https://open.spotify.com/artist/0B33QkzBOTcn3E0oTzqLfJ"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251988,
+      "name": "Yaerumayileri (From \"Sardar\")",
+      "url": "https://open.spotify.com/track/0TiYOkOkHtMUp5BaLhT4P3"
     },
     {
       "album": {

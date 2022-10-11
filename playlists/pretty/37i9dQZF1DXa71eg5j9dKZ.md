@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,446 likes - 128 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,603 likes - 128 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 87 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |
 | 88 | [So Clear](https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [So Clear](https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf) | 3:00 |
 | 89 | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81) | 4:31 |
-| 90 | [Honey Love](https://open.spotify.com/track/2AVhvo5Um8vmPoG5MjXgtA) | [Tony Njoku](https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK) | [Honey Love](https://open.spotify.com/album/40ezxkvhJmgNhmEtvTyfBK) | 3:35 |
+| 90 | [Honey Love](https://open.spotify.com/track/2g8BZuDDvlrRekDcrPQ2UJ) | [Tony Njoku](https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK) | [Our New Bloom](https://open.spotify.com/album/72jNFjmH4oultWxAeTzQCG) | 3:35 |
 | 91 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
 | 92 | [Gotta Do This, Gurl](https://open.spotify.com/track/1fiwPnzU3b50IhhhgDVorQ) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Gotta Do This, Gurl](https://open.spotify.com/album/5e2bl6tZIjQogNIy34S7c3) | 3:45 |
 | 93 | [Eventide in Orbit](https://open.spotify.com/track/3m1Z6IK6pCXs5jOydBlUAT) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Eventide in Orbit](https://open.spotify.com/album/0ZEzDscqxvp1Kp02aEtK8p) | 6:46 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 127 | [Magic Moment](https://open.spotify.com/track/6bcShXaH3ur6aM6mDxv95o) | [Francesca Lombardo](https://open.spotify.com/artist/53k6hml77TQV6Eub3zdbju), [VIKTORIIA](https://open.spotify.com/artist/0qXSZNPQ4kmgIamSn1ndHy) | [Magic Moment](https://open.spotify.com/album/4EPidCv1ztlKwUWct8A3CQ) | 9:21 |
 | 128 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 |
 
-Snapshot ID: `MTY2NTA5NzIwMCwwMDAwMDAwMDgxMTgwNzFlOTczNDJlN2U3ZDZiNjkyZjUzZjZiYTAz`
+Snapshot ID: `MTY2NTA5NzIwMCwwMDAwMDAwMDI0OGEyNDlhNjk0MGI1MTQyZGE2MzI3OTNkNmY4Zjcw`

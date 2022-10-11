@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 266123,
+  "num_followers": 266182,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMGJhYTE4NWEwMWIxZjEzYjVlNzczMGJkOGZhYTJlYzJl",
+  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMDY0YmU2YmQ3NzQ2N2ViMDQ1ZGRlMmY3M2JkYjQ0ZjVj",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/0uQ3hIVUT5NTkNGPokDlDw"
-      },
-      "artists": [
-        {
-          "name": "noelle",
-          "url": "https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy"
-        }
-      ],
-      "duration_ms": 205225,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 202026,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/0uQ3hIVUT5NTkNGPokDlDw"
+      },
+      "artists": [
+        {
+          "name": "noelle",
+          "url": "https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy"
+        }
+      ],
+      "duration_ms": 205225,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Full Hand",
+        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krauter",
+          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Full Hand",
-        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
-      },
-      "artists": [
-        {
-          "name": "Kevin Krauter",
-          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Twin Heavy",
-        "url": "https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V"
-      },
-      "artists": [
-        {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
-        }
-      ],
-      "duration_ms": 227681,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/7FX5YbkSnFCOLASH7MLxjU"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 273455,
       "name": "Detox",
       "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Twin Heavy",
+        "url": "https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 227681,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/7FX5YbkSnFCOLASH7MLxjU"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Morningside",
-        "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 240736,
-      "name": "Jennifer",
-      "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "What We Left Behind",
         "url": "https://open.spotify.com/album/4Kjh2sUqAaTT49bUglqrW5"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 235462,
       "name": "What We Left Behind",
       "url": "https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Morningside",
+        "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 240736,
+      "name": "Jennifer",
+      "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Now It's Gone",
-        "url": "https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr"
-      },
-      "artists": [
-        {
-          "name": "Maria BC",
-          "url": "https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Now It's Gone",
-      "url": "https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "James",
         "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 269268,
       "name": "James",
       "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Now It's Gone",
+        "url": "https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr"
+      },
+      "artists": [
+        {
+          "name": "Maria BC",
+          "url": "https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "Now It's Gone",
+      "url": "https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Seems Like Forever",
-        "url": "https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Rae",
-          "url": "https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K"
-        }
-      ],
-      "duration_ms": 318612,
-      "name": "Seems Like Forever",
-      "url": "https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Leviosa",
         "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 196985,
       "name": "De ma Tour",
       "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Seems Like Forever",
+        "url": "https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Rae",
+          "url": "https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K"
+        }
+      ],
+      "duration_ms": 318612,
+      "name": "Seems Like Forever",
+      "url": "https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Cosas Que Probablemente No Van a Pasar",
-        "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
-      },
-      "artists": [
-        {
-          "name": "Ev",
-          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Cosas que probablemente no van a pasar",
-      "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "House Of Mirrors",
         "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 191072,
       "name": "House Of Mirrors",
       "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Cosas Que Probablemente No Van a Pasar",
+        "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
+      },
+      "artists": [
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Cosas que probablemente no van a pasar",
+      "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
     },
     {
       "added_at": "2022-07-06 15:18:34",

@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 2468,
+  "num_followers": 2006,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA2NzMxMCwwMDAwMDAwMDRiOGUyMTI1OGE1OGQwM2JlZTIzNTM3YmQxMGViOTg3",
+  "snapshot_id": "MTY2NTA2NzMxMCwwMDAwMDAwMDM2OGY4NzU1ZDFiYWI5OGVkNGIyNjU1ZDA5YzI0MmVi",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Jazzy Belle",
-      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "The Water (S)",
         "url": "https://open.spotify.com/album/39yAlNzbQD6MAvveqeY3IP"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 260160,
       "name": "Jazz",
       "url": "https://open.spotify.com/track/2rk0lCpO1vkKAQ6BC8bjUX"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Jazzy Belle",
+      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
     },
     {
       "added_at": "2022-07-01 12:00:00",
@@ -877,7 +877,23 @@
       "url": "https://open.spotify.com/track/0FQeZmAKQLLnZC5iTN6JuR"
     },
     {
-      "added_at": "2022-06-24 12:00:00",
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 208570,
+      "name": "Understood",
+      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Donuts",
         "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
@@ -888,9 +904,9 @@
           "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 98720,
-      "name": "Time: The Donut of the Heart",
-      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
+      "duration_ms": 71666,
+      "name": "Welcome To The Show",
+      "url": "https://open.spotify.com/track/6YbfTiImEm6kH6gRXpdtgR"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -927,6 +943,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Da Dirty 30",
+        "url": "https://open.spotify.com/album/38qjFxaMcaV2ldcjFAxsus"
+      },
+      "artists": [
+        {
+          "name": "Cru",
+          "url": "https://open.spotify.com/artist/5ABjqwkg5LEPICnTeoeXKf"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Just Another Case",
+      "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Flamagra",
         "url": "https://open.spotify.com/album/5WfDyog8yO7ZF8JdJxeZfl"
       },
@@ -947,38 +979,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Da Dirty 30",
-        "url": "https://open.spotify.com/album/38qjFxaMcaV2ldcjFAxsus"
-      },
-      "artists": [
-        {
-          "name": "Cru",
-          "url": "https://open.spotify.com/artist/5ABjqwkg5LEPICnTeoeXKf"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Just Another Case",
-      "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 208570,
-      "name": "Understood",
-      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "This Thing Of Ours 2",
         "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 114092,
       "name": "6 Five Heartbeats (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
+    },
+    {
+      "added_at": "2022-06-24 12:00:00",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 98720,
+      "name": "Time: The Donut of the Heart",
+      "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1059,22 +1075,6 @@
       "duration_ms": 265826,
       "name": "Dancing In The Rain",
       "url": "https://open.spotify.com/track/5BegRQCcJu4trXT6PPdih9"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 71666,
-      "name": "Welcome To The Show",
-      "url": "https://open.spotify.com/track/6YbfTiImEm6kH6gRXpdtgR"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1153,38 +1153,6 @@
       "url": "https://open.spotify.com/track/4SN5Kkig8iJ8vdwsOoP7IO"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/76BINBQvavXWT13Hax9eXF"
-      },
-      "artists": [
-        {
-          "name": "LMD",
-          "url": "https://open.spotify.com/artist/4D5BJQmdXcLgnHcq1ImHn9"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "MED",
-          "url": "https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew"
-        },
-        {
-          "name": "Fly Anakin",
-          "url": "https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF"
-        },
-        {
-          "name": "J Rocc",
-          "url": "https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2"
-        }
-      ],
-      "duration_ms": 225303,
-      "name": "Kool",
-      "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "This Thing Of Ours",
@@ -1235,26 +1203,34 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Looking for Water (feat. Boldy James)",
-        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/76BINBQvavXWT13Hax9eXF"
       },
       "artists": [
         {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+          "name": "LMD",
+          "url": "https://open.spotify.com/artist/4D5BJQmdXcLgnHcq1ImHn9"
         },
         {
-          "name": "Real Bad Man",
-          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
         },
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "MED",
+          "url": "https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew"
+        },
+        {
+          "name": "Fly Anakin",
+          "url": "https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF"
+        },
+        {
+          "name": "J Rocc",
+          "url": "https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2"
         }
       ],
-      "duration_ms": 163850,
-      "name": "Looking for Water (feat. Boldy James)",
-      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
+      "duration_ms": 225303,
+      "name": "Kool",
+      "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -1295,6 +1271,30 @@
       "duration_ms": 159236,
       "name": "48 (feat. Pink Siifu)",
       "url": "https://open.spotify.com/track/5miJWaIbJqBnoybPj4B5ys"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Looking for Water (feat. Boldy James)",
+        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 163850,
+      "name": "Looking for Water (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
     },
     {
       "added_at": "2022-05-27 12:00:00",
@@ -1405,6 +1405,22 @@
       "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Lyrics to Go",
+      "url": "https://open.spotify.com/track/6YRZngBVAy2FgUQWk3lwL1"
+    },
+    {
       "added_at": "2022-08-19 19:38:15",
       "album": {
         "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
@@ -1423,22 +1439,6 @@
       "duration_ms": 214946,
       "name": "Barz Simpson (feat. MF DOOM & Jay Electronica)",
       "url": "https://open.spotify.com/track/5tPJshNuM5N7Pb9tDDg7H1"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Lyrics to Go",
-      "url": "https://open.spotify.com/track/6YRZngBVAy2FgUQWk3lwL1"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Fantastic, Vol. 2.10",
+        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 209119,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Aethiopes",
         "url": "https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 143781,
       "name": "Heavy Water",
       "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Fantastic, Vol. 2.10",
-        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 209119,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1813,6 +1813,22 @@
       "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
     },
     {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "50K or Brunch",
+        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "50K or Brunch",
+      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Feeling Like Jah",
@@ -1835,22 +1851,6 @@
       "duration_ms": 180500,
       "name": "Feeling Like Jah",
       "url": "https://open.spotify.com/track/0N4D8Z006iarE9WUhWCMlf"
-    },
-    {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "50K or Brunch",
-        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "50K or Brunch",
-      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1893,24 +1893,20 @@
       "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
+      "added_at": "2022-07-08 12:00:00",
       "album": {
-        "name": "To Kill A Sunrise",
-        "url": "https://open.spotify.com/album/0inJD6mDF0x5zIAv774uE2"
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
       },
       "artists": [
         {
           "name": "Kota the Friend",
           "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
         }
       ],
-      "duration_ms": 222439,
-      "name": "The Cold",
-      "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
+      "duration_ms": 68830,
+      "name": "Cherry Beach",
+      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1939,18 +1935,18 @@
     {
       "added_at": "2022-05-20 12:00:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
+        "name": "Deathfame",
+        "url": "https://open.spotify.com/album/3gNLleI1petZq52QmMkcNW"
       },
       "artists": [
         {
-          "name": "KUMBAYA",
-          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
+          "name": "Quelle Chris",
+          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
         }
       ],
-      "duration_ms": 146573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
+      "duration_ms": 205428,
+      "name": "DEATHFAME",
+      "url": "https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM"
     }
   ],
   "unique_name": "The Skate Shop",

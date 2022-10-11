@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-79 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
+80 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bill's Blues](https://open.spotify.com/track/0pI9XMjwp3Y7IIvFCXpFcr) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [Language Of The Soul](https://open.spotify.com/album/4MJvRWtQK30Xs4vjJGlpAg) | 2:32 | 2022-04-15 |  |
 | [Blue Clouds](https://open.spotify.com/track/44mG1PFJja5s8WUKHxVcQr) | [Gregor Hilden](https://open.spotify.com/artist/5z5KKPdDUQENyOcBuULpKC) | [Blue in Red](https://open.spotify.com/album/0AS15S5F73DD7Tc991CdXL) | 4:30 | 2022-04-15 |  |
 | [Blue Earth](https://open.spotify.com/track/4JAIpmm35zsuwvJvqG2gD6) | [Bo Ramsey](https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd) | [How Many Miles](https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0) | 3:23 | 2022-04-15 |  |
+| [Blue Nights](https://open.spotify.com/track/4nQkcnKRluoyu2UfanfqWX) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Blue Nights](https://open.spotify.com/album/0vhl5DqH30xs6lj7V1QzNO) | 2:38 | 2022-10-10 |  |
 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 | 2022-04-15 |  |
 | [Blues After Hours](https://open.spotify.com/track/56ENCoeGxJ9PWnAJpEktgs) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [If I Ever Get Lucky](https://open.spotify.com/album/5ypZMTcLSmNU8Bya5ZXaqK) | 5:09 | 2022-04-15 | 2022-07-29 |
 | [Blues After Hours](https://open.spotify.com/track/59AKB7WO9P4Z1jiS7zQntK) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues Legend Vol\. 13](https://open.spotify.com/album/3UeiL4Lg24S67ztbaBeL32) | 5:09 | 2022-07-08 |  |

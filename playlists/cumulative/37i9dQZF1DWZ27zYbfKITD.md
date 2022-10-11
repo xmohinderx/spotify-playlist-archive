@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-54 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
+55 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [The Museum](https://open.spotify.com/track/6VWTEGq1l81ciJnB4DDxOn) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Outer Wilds \(Original Soundtrack\)](https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o) | 2:48 | 2022-08-05 |  |
 | [The Poet Acts](https://open.spotify.com/track/0XiMoe7Dh3CcF5sYNWIwYR) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Hours \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/4F0LJueCDliCH7Bg4PPVil) | 3:43 | 2022-08-05 |  |
 | [The Red Strings Club](https://open.spotify.com/track/5gU6oziC1SWJTVgtYzzqaV) | [fingerspit](https://open.spotify.com/artist/0bKtV7eOLdtkULTDUeqjny) | [The Red Strings Club Original Soundtrack](https://open.spotify.com/album/3PiMG7hNXg92FIfbyjWg8p) | 4:01 | 2022-08-05 |  |
+| [The Riverlands](https://open.spotify.com/track/1anT56ZrRpmLzwmGNdsOUF) | [Yasunori Nishiki](https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv) | [OCTOPATH TRAVELER Original Soundtrack](https://open.spotify.com/album/7CY5mNBTBbHs1a4apdKCq6) | 4:32 | 2022-10-10 |  |
 | [The Streets of Whiterun](https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 4:04 | 2022-08-05 |  |
 | [Together Again](https://open.spotify.com/track/2hnA4tmaBMisNvz4TOl1Rk) | [Stephen Rennicks](https://open.spotify.com/artist/1qwshnqmsxCWhZAnBIISeL) | [Normal People \(Original Score from the Television Series\)](https://open.spotify.com/album/3WsKQ06VJYFnl5msx295V9) | 2:53 | 2022-08-05 |  |
 | [Vagrant's Rest \(A Place to Call Home\)](https://open.spotify.com/track/72OyVUVfEVFl3Iy7rebahm) | [e.hillman](https://open.spotify.com/artist/5I4vi0vVJXlwNMg9EDry3V) | [Ashen \(Original Soundtrack\)](https://open.spotify.com/album/6on5VDqh0Fpp5yFWlyo8kk) | 3:22 | 2022-08-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: Nino Josele
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,393 likes - 37 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,419 likes - 37 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

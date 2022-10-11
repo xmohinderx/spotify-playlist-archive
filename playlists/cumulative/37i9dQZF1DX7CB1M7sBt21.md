@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-157 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/7LLOCYnFLNo5JBC7Qx4h3g)
+158 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/7LLOCYnFLNo5JBC7Qx4h3g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Bass Goes Down](https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Bass Goes Down](https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0) | 2:24 | 2021-11-19 | 2022-06-22 |
 | [Be Happy](https://open.spotify.com/track/1WQuhznklzuM2xgGoGkg7m) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Be Happy](https://open.spotify.com/album/6uI0mITBz4yg5CbTleGPyu) | 3:01 | 2021-11-19 | 2022-07-29 |
 | [Better Break My Heart](https://open.spotify.com/track/4NaZsRd6ih0YJO7T27DrxN) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Better Break My Heart](https://open.spotify.com/album/5W5U10eHjq5dsQzrh0qfNZ) | 2:49 | 2021-11-19 | 2022-07-29 |
-| [Bittersweet Symphony](https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh) | 3:14 | 2022-07-28 |  |
+| [Bittersweet Symphony](https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh) | 3:14 | 2022-07-28 | 2022-10-11 |
 | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/track/6sYJuVcEu4gFHmeTLdHzRz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/album/4kFCmKMq1c6gl8eema7wkg) | 3:14 | 2021-11-19 | 2022-07-28 |
 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 | 2022-07-28 |  |
 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 | 2022-07-28 |  |
@@ -73,6 +73,7 @@
 | [If You're Looking for Trouble](https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd), [TASH](https://open.spotify.com/artist/0HpJaHrAoLTxAeveCl2nhJ) | [Trouble](https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq) | 3:12 | 2021-11-19 | 2022-07-29 |
 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 | 2022-07-28 |  |
 | [Jag mår bra nu \(feat\. Newkid\)](https://open.spotify.com/track/247LJ2oARxtQuFAlbPIx79) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Jag mår bra nu \(feat\. Newkid\)](https://open.spotify.com/album/46NgeK47Px9EjXI1ZdsWkY) | 3:09 | 2021-11-19 | 2022-07-29 |
+| [Kernkraft 400 \(A Better Day\) \- MistaJam Remix](https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2) | [Kernkraft 400 \(A Better Day\) \[MistaJam Remix\]](https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz) | 2:20 | 2022-10-10 |  |
 | [Kings & Queens](https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Kings & Queens](https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO) | 2:42 | 2021-11-19 | 2022-07-29 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-28 |  |
 | [Kiss Somebody](https://open.spotify.com/track/17XU1PTSv4OfcBUE8rNYWm) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Kiss Somebody](https://open.spotify.com/album/3irowXEVy9J7eOsdbRInIh) | 2:18 | 2021-11-19 | 2022-07-29 |

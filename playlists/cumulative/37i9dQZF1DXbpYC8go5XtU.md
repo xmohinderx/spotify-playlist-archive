@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-155 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+157 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Ruins](https://open.spotify.com/track/6fFAivepn154Gr6QGet6RT) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Spells](https://open.spotify.com/album/7iW4kZa3sPooLX2VzgCVVe) | 1:58 | 2021-12-22 | 2022-07-29 |
 | [Saguaro](https://open.spotify.com/track/6k9epHaioQVz1PHdgCu3Oj) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Suspended Memories](https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6), [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Forgotten Gods](https://open.spotify.com/album/5zHP5vjdv8V7bUYKW7w9zW) | 5:23 | 2021-12-22 |  |
 | [Sanctuary](https://open.spotify.com/track/2PQTnZLzgd4V0oU9zgcTOW) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Gaia](https://open.spotify.com/album/1w0K1wopsGPYTArqdmilZe) | 5:05 | 2021-12-22 |  |
+| [Seagull](https://open.spotify.com/track/56rWZXYQEhqg2IamYjFf50) | [Eyolf](https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8) | [Seagull](https://open.spotify.com/album/3xQ4jTZ7uzPxq3wQNfRlBN) | 3:33 | 2022-10-10 |  |
 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
 | [Shape of a Dream \- Sound Bath](https://open.spotify.com/track/3h58Vv1UpPgP88s0zh4OTs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Shape of a Dream](https://open.spotify.com/album/4wJXcvFwAEyMVWIW08znpO) | 4:04 | 2022-03-10 |  |
 | [Signals](https://open.spotify.com/track/3dmgdlknLnVte97AURFYyf) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Signals](https://open.spotify.com/album/7C7WpnmXw6RufxybdZbZlS) | 2:46 | 2021-12-22 |  |
@@ -159,6 +160,7 @@
 | [YACHIMATA\_180425](https://open.spotify.com/track/67F4kgmp8If9NveeKUtCt3) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA 5](https://open.spotify.com/album/02jV23EvkRi8IWPV0g8Gqq) | 3:37 | 2021-12-22 | 2022-03-11 |
 | [Yushin Valley](https://open.spotify.com/track/4CuwYWU5xXMtrG4iIzbCzf) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [By The Sea](https://open.spotify.com/album/0hmiyzFfuOGdLUp14nYlBU) | 4:15 | 2021-12-22 |  |
 | [Zen Garden](https://open.spotify.com/track/4rn2BnxLvxIobCLUE96y1R) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Chuck Plaisance](https://open.spotify.com/artist/4wfZxczwjNep3PNGUWMwkZ) | [Tranquility](https://open.spotify.com/album/26vcQV2TjPDV3BdZGABenp) | 3:12 | 2021-12-22 |  |
+| [कुण्डलिनी \- Awaken Kundalini](https://open.spotify.com/track/7fSNXDrj6fuLsXB7wigMCf) | [सतिपट्ठानम्](https://open.spotify.com/artist/72JhmGz5pm2OdMZ2ve63Wd) | [कुण्डलिनी \(Awaken Kundalini\)](https://open.spotify.com/album/1dzVB7YwWKfVA3iIaaZgcx) | 1:37 | 2022-10-10 |  |
 | [妙なる流れ](https://open.spotify.com/track/1pNWuhzSXaaSi1riaWCW91) | [小久保隆](https://open.spotify.com/artist/1yzyqMZjuHLEkX1zVARhu7) | [ウォーター・ヒーリング\~ビューティー・トリートメント・ミュージック](https://open.spotify.com/album/7IIIz33snPkVQQtI4imuqJ) | 7:21 | 2022-07-08 | 2022-08-13 |
 | [妙なる流れ](https://open.spotify.com/track/2sqR87ltjSZXdvBofA7R1n) | [小久保隆](https://open.spotify.com/artist/1yzyqMZjuHLEkX1zVARhu7) | [ウォーター・ヒーリング\~ビューティー・トリートメント・ミュージック](https://open.spotify.com/album/72cIdL4xCHj4NXSGQYjo0w) | 7:21 | 2021-12-22 | 2022-07-29 |
 | [気持ちを感ずる](https://open.spotify.com/track/7E0Dckv7CwrCybsPOcKwnN) | [Dreamy Music](https://open.spotify.com/artist/7bPhP47QpD0NZb9sA66TUm) | [自分と向き合う瞑想](https://open.spotify.com/album/2JQv9e6cJHdH0mu4z56aq2) | 7:45 | 2021-12-22 | 2022-09-24 |

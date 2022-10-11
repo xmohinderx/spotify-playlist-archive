@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 221000,
       "name": "AMBIANCE",
       "url": "https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo"
@@ -1587,6 +1587,24 @@
       "duration_ms": 198127,
       "name": "TTYL",
       "url": "https://open.spotify.com/track/0KBtXATQFDLMOjTKS9kiDt"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/5hENfb4W17kr2Xq0dnC3hS"
+      },
+      "artists": [
+        {
+          "name": "Pocket Sun",
+          "url": "https://open.spotify.com/artist/2AglFpK0fLt8IxuOPC3SbR"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212882,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6BIwfeKvv16gjDnoYSGTdo"
     },
     {
       "album": {

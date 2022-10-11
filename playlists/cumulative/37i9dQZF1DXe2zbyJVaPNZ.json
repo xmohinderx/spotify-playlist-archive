@@ -420,6 +420,24 @@
     },
     {
       "album": {
+        "name": "Dependent",
+        "url": "https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny"
+      },
+      "artists": [
+        {
+          "name": "Christopher Galovan",
+          "url": "https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192914,
+      "name": "Dependent",
+      "url": "https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna"
+    },
+    {
+      "album": {
         "name": "Distant Stars",
         "url": "https://open.spotify.com/album/2Wv7iYzGIQwUGLuZBUbkGR"
       },
@@ -677,6 +695,24 @@
       "duration_ms": 150651,
       "name": "Ever Slower",
       "url": "https://open.spotify.com/track/0ORNScPdY6pxfoqWUpv9f4"
+    },
+    {
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/0mJuu5yMJ9R9IRVBFY2DkI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig A.F.",
+          "url": "https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216195,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/3D31N4fyByXCIchCFRnVd5"
     },
     {
       "album": {
@@ -1640,6 +1676,24 @@
     },
     {
       "album": {
+        "name": "this world is sick",
+        "url": "https://open.spotify.com/album/2r358fWUeF3wtRtvuYsVjt"
+      },
+      "artists": [
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139980,
+      "name": "this world is sick",
+      "url": "https://open.spotify.com/track/7JlX4yZgXB4pmdR2wbWJOV"
+    },
+    {
+      "album": {
         "name": "Timelapses",
         "url": "https://open.spotify.com/album/6uP3uuCmDm2dd7ZQHNh0uW"
       },
@@ -1673,6 +1727,24 @@
       "duration_ms": 143142,
       "name": "Transience",
       "url": "https://open.spotify.com/track/1FI8eE3rHivYy7fAL6KCAq"
+    },
+    {
+      "album": {
+        "name": "Trying to Feel Everything",
+        "url": "https://open.spotify.com/album/7A7gggXbZBfXN8Ft1CZqbI"
+      },
+      "artists": [
+        {
+          "name": "E J R M",
+          "url": "https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212514,
+      "name": "Trying to Feel Everything",
+      "url": "https://open.spotify.com/track/5MOWnM1AWOcDwC7wha1Lss"
     },
     {
       "album": {

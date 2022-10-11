@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 316408,
+  "num_followers": 316474,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMGRlYjdhYzBhMTM4OTEzZWFkZmFhN2JkZTYyZGYxNTQ1",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDA4ZmFmNzNhYjE4MzYwYTM5NTNhMDMzNmQyMDgzM2Q5",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
-      },
-      "artists": [
-        {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
-        }
-      ],
-      "duration_ms": 110868,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "A Bad Dream That Will Pass Away",
         "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 176000,
       "name": "A Bad Dream That Will Pass Away",
       "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "duration_ms": 110868,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Starry Sky",
-        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
-      },
-      "artists": [
-        {
-          "name": "April Baxter",
-          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Starry Sky",
-      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Old Friends New Friends",
         "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Starry Sky",
+        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
+      },
+      "artists": [
+        {
+          "name": "April Baxter",
+          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Starry Sky",
+      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 191114,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Acceptance",
         "url": "https://open.spotify.com/album/0kNSxjrtG1jxZWb0BKfCHo"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 195840,
       "name": "Acceptance",
       "url": "https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 191114,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
       },
@@ -851,18 +867,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/79Dz2veZjjtnOFMNOHMKFl"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Elias Braun",
+          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
+        },
+        {
+          "name": "Arash Sanee",
+          "url": "https://open.spotify.com/artist/5e1mVc0tKg6XL7bSHRdBSa"
         }
       ],
-      "duration_ms": 141750,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
+      "duration_ms": 102515,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/6Xq1rE2hfjSMSK5mTpfzb6"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -899,22 +919,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/79Dz2veZjjtnOFMNOHMKFl"
+        "name": "Echoes In The Valley",
+        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
       },
       "artists": [
         {
-          "name": "Elias Braun",
-          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
-        },
-        {
-          "name": "Arash Sanee",
-          "url": "https://open.spotify.com/artist/5e1mVc0tKg6XL7bSHRdBSa"
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
         }
       ],
-      "duration_ms": 102515,
-      "name": "Daybreak",
-      "url": "https://open.spotify.com/track/6Xq1rE2hfjSMSK5mTpfzb6"
+      "duration_ms": 202288,
+      "name": "Billow Gently",
+      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -931,22 +947,6 @@
       "duration_ms": 130459,
       "name": "poetry in touch",
       "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Echoes In The Valley",
-        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 202288,
-      "name": "Billow Gently",
-      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "An Evening Scene",
-        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
       },
       "artists": [
         {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
         }
       ],
-      "duration_ms": 144625,
-      "name": "An Evening Scene",
-      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
+      "duration_ms": 182805,
+      "name": "how we sleep",
+      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1067,18 +1067,34 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
+        "name": "An Evening Scene",
+        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
       },
       "artists": [
         {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
         }
       ],
-      "duration_ms": 182805,
-      "name": "how we sleep",
-      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
+      "duration_ms": 144625,
+      "name": "An Evening Scene",
+      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "The Void (I Play Mine version)",
+        "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
+      },
+      "artists": [
+        {
+          "name": "Andrea Carri",
+          "url": "https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "The Void - I Play Mine version",
+      "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "The Void (I Play Mine version)",
-        "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
-      },
-      "artists": [
-        {
-          "name": "Andrea Carri",
-          "url": "https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "The Void - I Play Mine version",
-      "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "orange sky",
         "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sand and Stars",
-        "url": "https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie J Perry",
-          "url": "https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2"
-        }
-      ],
-      "duration_ms": 269904,
-      "name": "Sand and Stars",
-      "url": "https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Sleepwalk",
         "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 234545,
       "name": "Sleepwalk",
       "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Sand and Stars",
+        "url": "https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie J Perry",
+          "url": "https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2"
+        }
+      ],
+      "duration_ms": 269904,
+      "name": "Sand and Stars",
+      "url": "https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Stay Longer",
+        "url": "https://open.spotify.com/album/3xVzYw1poJVwmGG1dUcrRe"
+      },
+      "artists": [
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 130084,
+      "name": "Stay Longer",
+      "url": "https://open.spotify.com/track/4G6goSnfAiLNF59fc4Z6bU"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Summer Flowers",
         "url": "https://open.spotify.com/album/3ATS4x1NX1DWfc5NTCz7Eh"
       },
@@ -1307,26 +1323,6 @@
       "duration_ms": 144654,
       "name": "Summer Flowers",
       "url": "https://open.spotify.com/track/70GMSvwtcM7dg2lYNGDy2I"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "First Steps",
-        "url": "https://open.spotify.com/album/7FPTqt19aPN3Wly3go9342"
-      },
-      "artists": [
-        {
-          "name": "Niklas Blumenthaler",
-          "url": "https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG"
-        },
-        {
-          "name": "Jonas Gewald",
-          "url": "https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc"
-        }
-      ],
-      "duration_ms": 143140,
-      "name": "First Steps",
-      "url": "https://open.spotify.com/track/78VCEkQtYNDml6W5xXgw81"
     }
   ],
   "unique_name": "Soft Piano",

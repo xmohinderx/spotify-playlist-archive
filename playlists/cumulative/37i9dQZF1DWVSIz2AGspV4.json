@@ -2552,6 +2552,24 @@
     },
     {
       "album": {
+        "name": "Thawab Al Marajil",
+        "url": "https://open.spotify.com/album/336eJsYiToritUo974G0wr"
+      },
+      "artists": [
+        {
+          "name": "Jafar Al Ghazal",
+          "url": "https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145320,
+      "name": "Thawab Al Marajil",
+      "url": "https://open.spotify.com/track/562C7AOXcdWOSbjKosv0Jy"
+    },
+    {
+      "album": {
         "name": "Treed Amoot ?",
         "url": "https://open.spotify.com/album/07r7qpObINK0yR7V5UfWhS"
       },

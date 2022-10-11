@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Trompetas, piano y timbal para darle saz\u00f3n a tu mediod\u00eda!",
-  "num_followers": 30889,
+  "num_followers": 30897,
   "original_name": "Brunch Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMDY4MmIzMGIyNzY3YTYxMzBlNjc5NzhmNmJhMzAyZTBm",
+  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMDQyMjc4YjFkMmMwMGEyYTJmZDcxNGYwY2YyYTBhNTZl",
   "tracks": [
     {
       "added_at": "2021-10-20 21:31:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
+        "name": "Chico de Oro",
+        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
         "name": "Los Aut\u00e9nticos",
         "url": "https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 218640,
       "name": "Chango",
       "url": "https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Chico de Oro",
-        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts"
     },
     {
-      "added_at": "2022-04-20 05:00:00",
-      "album": {
-        "name": "Ska Cubano",
-        "url": "https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA"
-      },
-      "artists": [
-        {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
-        }
-      ],
-      "duration_ms": 271466,
-      "name": "Babalu",
-      "url": "https://open.spotify.com/track/1B6eTnzTdnL1FH94eRT5pQ"
-    },
-    {
       "added_at": "2021-10-20 21:31:00",
       "album": {
         "name": "Jungle Fire",
@@ -543,18 +527,18 @@
     {
       "added_at": "2022-04-20 05:00:00",
       "album": {
-        "name": "Tibiri Tabara",
-        "url": "https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4"
+        "name": "Ska Cubano",
+        "url": "https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA"
       },
       "artists": [
         {
-          "name": "Sierra Maestra",
-          "url": "https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w"
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
         }
       ],
-      "duration_ms": 313133,
-      "name": "D\u00f3nde Va Chichi?",
-      "url": "https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54"
+      "duration_ms": 271466,
+      "name": "Babalu",
+      "url": "https://open.spotify.com/track/1B6eTnzTdnL1FH94eRT5pQ"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -571,6 +555,22 @@
       "duration_ms": 161426,
       "name": "Cumbia De Los Pajaritos",
       "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
+    },
+    {
+      "added_at": "2022-04-20 05:00:00",
+      "album": {
+        "name": "Tibiri Tabara",
+        "url": "https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4"
+      },
+      "artists": [
+        {
+          "name": "Sierra Maestra",
+          "url": "https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "D\u00f3nde Va Chichi?",
+      "url": "https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Lazalypso",
+      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
         "name": "Hotline Bling",
         "url": "https://open.spotify.com/album/7fBRvRup48necAZiCwGugk"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/7dNOYhHNvhCs0uKkCQdH2M"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Baile Bucanero",
-        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lazalypso",
-      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
     },
     {
       "added_at": "2021-10-20 21:31:00",

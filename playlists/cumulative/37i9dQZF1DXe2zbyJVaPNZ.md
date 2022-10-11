@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-99 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
+103 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cosmic Dust](https://open.spotify.com/track/0yuKkb9X0PxKU5WWhpPD2i) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 3:51 | 2022-08-05 |  |
 | [Delsjön](https://open.spotify.com/track/0XSItwVvlVdO0hynKzwsSi) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Stochastic](https://open.spotify.com/album/4eWFIeWwhu48jhtbVnAlKu) | 6:33 | 2022-08-05 |  |
 | [Departure](https://open.spotify.com/track/75h0fwWf7pVVxreN5NGn1U) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Departure](https://open.spotify.com/album/4amuoVRYpYtpJ2Zzw2KIpz) | 3:35 | 2022-08-05 |  |
+| [Dependent](https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c) | [Dependent](https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny) | 3:12 | 2022-10-10 |  |
 | [Distant Stars](https://open.spotify.com/track/4Wtytfcgk9Giy8Hea4DG1i) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Distant Stars](https://open.spotify.com/album/2Wv7iYzGIQwUGLuZBUbkGR) | 3:19 | 2022-08-05 |  |
 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 | 2022-08-05 |  |
 | [Doodling Radar](https://open.spotify.com/track/335ANcnuKDzAuvQvGoklAh) | [Paco Salazar](https://open.spotify.com/artist/5Syv7DIBildXX75Q22tu74) | [Male Beige Reality](https://open.spotify.com/album/2lIY4Vw9rUNu7GwsrLXbrB) | 8:30 | 2022-08-05 |  |
@@ -44,6 +45,7 @@
 | [Emanating Fields](https://open.spotify.com/track/6jHBUzmz6QyCcSvpn93oZi) | [Poulson Sq.](https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp) | [Emanating Fields](https://open.spotify.com/album/2CEOLh0vmGbZ9DDQh95Jwv) | 4:48 | 2022-08-05 |  |
 | [Eos](https://open.spotify.com/track/6tR1g0NTadhTPjsGmVI3LW) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Heavenly](https://open.spotify.com/album/4ZN6SMfQ6ycPVuibQLLNj8) | 3:32 | 2022-08-05 |  |
 | [Ever Slower](https://open.spotify.com/track/0ORNScPdY6pxfoqWUpv9f4) | [Maximilian Sievert](https://open.spotify.com/artist/1KLfI1v6hjVZ1UCyrLJrC8) | [Ever Slower](https://open.spotify.com/album/5bc1qPYwtAwOYyMHXZDSxU) | 2:30 | 2022-09-08 |  |
+| [Feather](https://open.spotify.com/track/3D31N4fyByXCIchCFRnVd5) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Air](https://open.spotify.com/album/0mJuu5yMJ9R9IRVBFY2DkI) | 3:36 | 2022-10-10 |  |
 | [floodplain](https://open.spotify.com/track/2KzWApRFQisFvm31KVEQgJ) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [floodplain // wildflowers](https://open.spotify.com/album/3YRwUdirklDEUyBgaECIRg) | 7:03 | 2022-08-05 |  |
 | [Flux](https://open.spotify.com/track/2xl2BLcRSDHxguuUZPeZU5) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ), [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY) | [Flux](https://open.spotify.com/album/766wyCUyBT5Gyh0wG8WblZ) | 3:54 | 2022-08-05 |  |
 | [Gas 1](https://open.spotify.com/track/6orzHW7VBmbb5bsjn4nLKY) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Nah Und Fern](https://open.spotify.com/album/3KSzqblPw5mdapzJsVU6cy) | 6:27 | 2022-08-05 |  |
@@ -96,8 +98,10 @@
 | [Terra della straniera](https://open.spotify.com/track/6EGfGeXcbqVib95Q7JTv1E) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Terra della straniera](https://open.spotify.com/album/7hxO8Wb6TL4Nuov5xOToJc) | 2:49 | 2022-08-05 |  |
 | [Thaw](https://open.spotify.com/track/40EO9s8GbO9CfUoVnq7jAo) | [Good Weather For An Airstrike](https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [The Depths Between Us \(Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina\)](https://open.spotify.com/album/6VPuTWQ8alHnKhUjqBvIdP) | 3:24 | 2022-08-05 |  |
 | [The Contrarian](https://open.spotify.com/track/0QG72LD6gpxefMVt1aDV5X) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Godspeed](https://open.spotify.com/album/0su6VB6JvmK0X5NwuyT8Jf) | 4:04 | 2022-08-05 |  |
+| [this world is sick](https://open.spotify.com/track/7JlX4yZgXB4pmdR2wbWJOV) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [this world is sick](https://open.spotify.com/album/2r358fWUeF3wtRtvuYsVjt) | 2:19 | 2022-10-10 |  |
 | [Timelapses](https://open.spotify.com/track/3M0p85lGZSAirN47876OKc) | [Evelyn Ferrera](https://open.spotify.com/artist/3lWlO9shOnzBgTxgHj3ani) | [Timelapses](https://open.spotify.com/album/6uP3uuCmDm2dd7ZQHNh0uW) | 2:35 | 2022-09-08 |  |
 | [Transience](https://open.spotify.com/track/1FI8eE3rHivYy7fAL6KCAq) | [Arylith](https://open.spotify.com/artist/56XjeqEoAGHJDpHhGGnhwK) | [Aberration](https://open.spotify.com/album/2ZqOMsFOfI61ipnRimMmnb) | 2:23 | 2022-08-05 |  |
+| [Trying to Feel Everything](https://open.spotify.com/track/5MOWnM1AWOcDwC7wha1Lss) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ) | [Trying to Feel Everything](https://open.spotify.com/album/7A7gggXbZBfXN8Ft1CZqbI) | 3:32 | 2022-10-10 |  |
 | [tsukimi dango](https://open.spotify.com/track/6xFoMmZIkhOgRv7Zj3luYA) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tsukimi dango](https://open.spotify.com/album/3iof4fuNnejiULldVY8Z1R) | 3:02 | 2022-08-05 |  |
 | [Waiting for you in Utopia](https://open.spotify.com/track/7cI5rrvUPvZCHT7akwwGHB) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Waiting for you in Utopia](https://open.spotify.com/album/5zX5hruc8DfMpZIB2YN7Xx) | 2:54 | 2022-08-05 |  |
 | [Waiting..](https://open.spotify.com/track/62WZsVC65cpmJGVqzjjgDo) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [A Perfect Society](https://open.spotify.com/album/7wWLo4mYpOSXwlagXpIiB0) | 2:15 | 2022-08-05 |  |

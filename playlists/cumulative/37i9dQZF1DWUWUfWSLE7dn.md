@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-110 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+111 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Moonlight Prayer \- Piano & Strings](https://open.spotify.com/track/1CqSw1Rynu35M4EhqCh4xE) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN), [Francois Mathian](https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX) | [Moonlight Prayer](https://open.spotify.com/album/2xZAp8HYapMLx6HtA2i31r) | 3:03 | 2022-05-20 |  |
 | [My Head In The Clouds](https://open.spotify.com/track/11dmZhwlQtVxuIN6qp0i7G) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [My Head In The Clouds](https://open.spotify.com/album/0udR5qJBKSa1JdHtqWueN7) | 2:30 | 2022-05-27 |  |
 | [My Initial Intentions](https://open.spotify.com/track/21sQUGmVeEqhvjEBlxARFO) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [My Initial Intentions](https://open.spotify.com/album/06l5nJqJWDtM7WvMgOhigS) | 5:12 | 2022-06-10 | 2022-09-07 |
-| [My Initial Intentions](https://open.spotify.com/track/7h7R6kTMVdqFnoP0DFu1Ov) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [The Ever After](https://open.spotify.com/album/0fJwTIqN5z5PklqgqZB4x9) | 5:12 | 2022-09-02 |  |
+| [My Initial Intentions](https://open.spotify.com/track/2ImnNnUAgYopWTWBacxfqp) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Marble Sounds](https://open.spotify.com/album/49tRpXhp2kVugqFW41k7Z2) | 5:12 | 2022-09-09 |  |
+| [My Initial Intentions](https://open.spotify.com/track/7h7R6kTMVdqFnoP0DFu1Ov) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [The Ever After](https://open.spotify.com/album/0fJwTIqN5z5PklqgqZB4x9) | 5:12 | 2022-09-02 | 2022-10-11 |
 | [My Son](https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [My Son](https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr) | 1:58 | 2022-06-03 |  |
 | [Now Is The Time To Leave](https://open.spotify.com/track/2RbeJPjEW9kcoFVmiQabnU) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:08 | 2022-03-09 |  |
 | [Okinawa River](https://open.spotify.com/track/5XWOjKm9uFZC5dpUXMhi26) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Okinawa River](https://open.spotify.com/album/5P43AVNHUMn67YpTJi42ZY) | 2:23 | 2022-06-03 |  |

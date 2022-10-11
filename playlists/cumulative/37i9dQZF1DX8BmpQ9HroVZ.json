@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest local and global tracks in Pakistan. Cover - Kaifi Khalil",
+  "description": "The hottest local and global tracks in Pakistan. Cover - Asim Azhar",
   "name": "Hot Hits Pakistan",
   "published_playlist_ids": [
     "7dqZIhUmQUoc5otwsdY7F6"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 194906,
       "name": "6 Maheenay",
       "url": "https://open.spotify.com/track/6y6pBKHe151pglLIiJw6iD"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 245863,
       "name": "Hijaab-E-Hyaa",
       "url": "https://open.spotify.com/track/2qJlh1ndDSQuSPXWg61EYK"
@@ -807,6 +807,28 @@
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
+      "album": {
+        "name": "Jo Tu Na Mila x Habibi (Mashup)",
+        "url": "https://open.spotify.com/album/3zbB8G3qBkAK74gobhZ3RB"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Arshman Naeem",
+          "url": "https://open.spotify.com/artist/2WF847myArLiNE7Cjs9kgD"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189749,
+      "name": "Jo Tu Na Mila x Habibi (Mashup)",
+      "url": "https://open.spotify.com/track/2weDNfUaaHIy5ck06qCJ54"
     },
     {
       "album": {
@@ -1527,7 +1549,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 177302,
       "name": "Rush Hour (Feat. j-hope of BTS)",
       "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
@@ -1751,6 +1773,28 @@
       "duration_ms": 186947,
       "name": "Stunner",
       "url": "https://open.spotify.com/track/5uEqb1GoOV3W5vUaAIvyPc"
+    },
+    {
+      "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB"
+      },
+      "artists": [
+        {
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255764,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx"
     },
     {
       "album": {
@@ -2125,6 +2169,24 @@
       "duration_ms": 168439,
       "name": "Why Not Meri Jaan",
       "url": "https://open.spotify.com/track/2sKGFDYcN7mJ4S7xQHjCBr"
+    },
+    {
+      "album": {
+        "name": "Two Hearts Never Break The Same",
+        "url": "https://open.spotify.com/album/0eZKTY3yDMqMTrVvtcEokh"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199420,
+      "name": "Wo Noor",
+      "url": "https://open.spotify.com/track/32FVH23yFXr8Z0sfjRw4It"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8BmpQ9HroVZ"

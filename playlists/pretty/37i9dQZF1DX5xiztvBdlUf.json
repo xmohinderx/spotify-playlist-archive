@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 527870,
+  "num_followers": 528088,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1ODEyOSwwMDAwMDAwMDRlMWY1YWJkZGQyZjBkODRjZTYyNmEwN2Y3YTFiYzIy",
+  "snapshot_id": "MTY2NTE1ODEyOSwwMDAwMDAwMDAyNDc1MDBhZTQwYWIzMmU4NzdjYTRiYjYxNDY5YjNl",
   "tracks": [
     {
       "added_at": "2022-09-30 18:02:18",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Like A Friend",
-        "url": "https://open.spotify.com/album/7AdBvQZPfDBAbwbXXcOxpe"
-      },
-      "artists": [
-        {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "Like A Friend - Radio Edit",
-      "url": "https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
         "name": "Roda",
         "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 285123,
       "name": "Roda",
       "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
+        "name": "Like A Friend",
+        "url": "https://open.spotify.com/album/7AdBvQZPfDBAbwbXXcOxpe"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "Like A Friend - Radio Edit",
+      "url": "https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
+        "name": "If We Only Had",
+        "url": "https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 305800,
+      "name": "If We Only Had",
+      "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -675,18 +691,22 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "If We Only Had",
-        "url": "https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R"
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
       },
       "artists": [
         {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
         }
       ],
-      "duration_ms": 305800,
-      "name": "If We Only Had",
-      "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -723,26 +743,6 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
         "name": "Petit Matin",
         "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 447066,
       "name": "Petit Matin",
       "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -819,38 +835,6 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        }
-      ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
-        "name": "I WON'T STAY",
-        "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "I WON'T STAY",
-      "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
         "name": "Love Language (Imad Remix)",
         "url": "https://open.spotify.com/album/598hbZikyOUZzrVMtZzS1W"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 362928,
       "name": "Love Language - Imad Remix",
       "url": "https://open.spotify.com/track/5iwU7eycAjBcJt1iccuxua"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Voices Above",
-        "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Malone",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        },
-        {
-          "name": "Archila",
-          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
-        }
-      ],
-      "duration_ms": 190942,
-      "name": "Voices Above",
-      "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
         "name": "NOSTALGIA*",
         "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
       },
@@ -1103,6 +1079,30 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
+        "name": "Voices Above",
+        "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Malone",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "Archila",
+          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
+        }
+      ],
+      "duration_ms": 190942,
+      "name": "Voices Above",
+      "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
         "name": "alone with you (feat. Didi Han)",
         "url": "https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz"
       },
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
+        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
+        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
+      },
+      "artists": [
+        {
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
+        }
+      ],
+      "duration_ms": 446079,
+      "name": "ut i rommet",
+      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 214591,
       "name": "Lunaire",
       "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
-        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
-        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
-      },
-      "artists": [
-        {
-          "name": "Ka2",
-          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
-        }
-      ],
-      "duration_ms": 446079,
-      "name": "ut i rommet",
-      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
+        "name": "Future Disco: Poolside Sounds Vol. 10",
+        "url": "https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6"
+      },
+      "artists": [
+        {
+          "name": "Midnight Sky",
+          "url": "https://open.spotify.com/artist/3tcKyzeLj9cSobUJ1odvKP"
+        }
+      ],
+      "duration_ms": 228187,
+      "name": "All That Glitters",
+      "url": "https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
         "name": "Nefertari",
         "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 464628,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
-        "name": "Future Disco: Poolside Sounds Vol. 10",
-        "url": "https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6"
-      },
-      "artists": [
-        {
-          "name": "Midnight Sky",
-          "url": "https://open.spotify.com/artist/3tcKyzeLj9cSobUJ1odvKP"
-        }
-      ],
-      "duration_ms": 228187,
-      "name": "All That Glitters",
-      "url": "https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "WAIRUNGA",
-        "url": "https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk"
-      },
-      "artists": [
-        {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
-        }
-      ],
-      "duration_ms": 630336,
-      "name": "Dig Deep",
-      "url": "https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc"
-    },
-    {
-      "added_at": "2022-09-30 18:02:18",
-      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
+        "name": "WAIRUNGA",
+        "url": "https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        }
+      ],
+      "duration_ms": 630336,
+      "name": "Dig Deep",
+      "url": "https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc"
+    },
+    {
+      "added_at": "2022-09-30 18:02:18",
+      "album": {
         "name": "Deepest Thoughts",
         "url": "https://open.spotify.com/album/35OypZ3uJ5qR1OCX4Z3dtI"
       },
@@ -1439,18 +1439,22 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Carlito Archives",
-        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
+        "name": "Feels Good",
+        "url": "https://open.spotify.com/album/0nDWkPeHxo5aW66dbNm1PF"
       },
       "artists": [
         {
-          "name": "Carlo",
-          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
+          "name": "Audiojack",
+          "url": "https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 363960,
-      "name": "Anything Else Feat. Alix Edwards",
-      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
+      "duration_ms": 281891,
+      "name": "Feels Good",
+      "url": "https://open.spotify.com/track/2WYgu5SgxDS4F6LwLssMZt"
     },
     {
       "added_at": "2022-09-30 18:02:18",
@@ -1495,22 +1499,18 @@
     {
       "added_at": "2022-09-30 18:02:18",
       "album": {
-        "name": "Feels Good",
-        "url": "https://open.spotify.com/album/0nDWkPeHxo5aW66dbNm1PF"
+        "name": "Carlito Archives",
+        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
       },
       "artists": [
         {
-          "name": "Audiojack",
-          "url": "https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+          "name": "Carlo",
+          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
         }
       ],
-      "duration_ms": 281891,
-      "name": "Feels Good",
-      "url": "https://open.spotify.com/track/2WYgu5SgxDS4F6LwLssMZt"
+      "duration_ms": 363960,
+      "name": "Anything Else Feat. Alix Edwards",
+      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
     }
   ],
   "unique_name": "Deep House Blend",

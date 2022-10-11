@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Mati Gómez
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,770 likes - 308 songs - 16 hr 59 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,767 likes - 308 songs - 16 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

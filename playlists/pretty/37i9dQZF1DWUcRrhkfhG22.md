@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,043 likes - 77 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,080 likes - 77 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

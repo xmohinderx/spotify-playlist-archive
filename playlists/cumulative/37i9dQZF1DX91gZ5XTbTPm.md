@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Trippie Redd
 
-307 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
+307 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Who Not Turnt](https://open.spotify.com/track/6bf6EucSDjeVSez8eTm49M) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [Easy Money](https://open.spotify.com/album/5XPF5H3EUVmUQjZZcmkw5F) | 2:14 | 2022-02-04 | 2022-06-04 |
 | [Whole Gang \(feat\. Babyface Ray, HBK, Icewear Vezzo, Overlord Scooch & Lil Perry\)](https://open.spotify.com/track/1AUT51VbwtceSxcaOjWs8R) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [HBK](https://open.spotify.com/artist/5Px2gUGA6EDKiqqqUGR4ql), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Overlord Scooch](https://open.spotify.com/artist/7KEFFbWTInyFvAUfUtH2wH), [Lil Perry](https://open.spotify.com/artist/3u4MTDU82A6pK3H3WsNSoD) | [Ghetto Rich Niggaz](https://open.spotify.com/album/4pouaBO5mtR8Bc19crIidA) | 4:01 | 2022-02-11 | 2022-07-16 |
 | [Wicked Inna RaQ](https://open.spotify.com/track/6Qc6KIe2HMCtHAE8M7PC4s) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [Wicked Inna RaQ](https://open.spotify.com/album/2UQE2FyVFL2Sk3JLzqvmV7) | 2:31 | 2022-09-02 |  |
-| [Without It](https://open.spotify.com/track/6CoB0S7aB6xc1PfQKqGqEG) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Without It](https://open.spotify.com/album/6higufYr86g2bscfhaCukP) | 3:12 | 2022-09-30 |  |
+| [Without It](https://open.spotify.com/track/6CoB0S7aB6xc1PfQKqGqEG) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Without It](https://open.spotify.com/album/6higufYr86g2bscfhaCukP) | 2:17 | 2022-09-30 |  |
 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 | 2022-05-20 | 2022-09-24 |
 | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/track/69Q3vsqXFMKhZGTHssGSDC) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Shun](https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11), [DCG Bsavv](https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/album/5MTkjTQASZLLnrAze7GC90) | 3:16 | 2022-09-09 |  |
 | [Y NOT?](https://open.spotify.com/track/6ELtGA64w8OWCchaj1UU4T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Y NOT?](https://open.spotify.com/album/5b6QPwWgYmrWbLeBTwRjSZ) | 2:28 | 2022-06-17 | 2022-07-30 |

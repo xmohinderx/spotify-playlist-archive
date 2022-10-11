@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: G Herbo
 
-524 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
+525 songs - 1 day 0 hr 42 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [HEARTLESS \(feat\. Drakeo the Ruler\)](https://open.spotify.com/track/56ciHBiFTYcfJP2anTr6NW) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [SORRY 4 THA WAIT II](https://open.spotify.com/album/4pL9OktIEqLVwdxlwQHRhj) | 3:01 | 2022-07-01 | 2022-07-23 |
 | [Heaven Gates](https://open.spotify.com/track/6jRUBdaeGnZ60igqlQwY7L) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [All is Well \- EP](https://open.spotify.com/album/0EC10ZXXZippfmwd7KXiyH) | 1:43 | 2022-03-25 | 2022-06-25 |
 | [Hell](https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hell](https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6) | 2:19 | 2022-09-02 | 2022-09-17 |
+| [Heyy](https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Heyy](https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue) | 3:12 | 2022-10-10 |  |
 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 | 2021-12-17 | 2022-04-09 |
 | [HIM \(feat\. Yo Gotti\)](https://open.spotify.com/track/26O1Oc8sdrBuscSmx6NqQr) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [HIM, Not Them](https://open.spotify.com/album/4XluXu0qGePMLKvjsLWthS) | 3:23 | 2021-09-24 | 2022-02-26 |
 | [HIT](https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [HIT](https://open.spotify.com/album/03ckoZhTfbWybngUkIHqWv) | 2:05 | 2022-01-21 | 2022-02-05 |

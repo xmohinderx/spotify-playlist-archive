@@ -4,7 +4,7 @@
 
 > d4vd make anti pop.
 
-1,108 songs - 2 day 5 hr 50 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,110 songs - 2 day 5 hr 54 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [HOLLOW](https://open.spotify.com/track/6t4yjR0TVOzYN60ia1yzc3) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [HOLLOW](https://open.spotify.com/album/63npRp2W6kqRZtpHTvCof2) | 3:43 | 2020-10-13\* | 2021-02-27 |
 | [Hollywood High 16](https://open.spotify.com/track/3FjjoOFHM9kB2apdSiPa9o) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Hollywood High 16](https://open.spotify.com/album/7JjtHOIrAPvaeAj1Jdu16t) | 3:05 | 2022-05-09 | 2022-05-14 |
 | [Holy War](https://open.spotify.com/track/36X26h7bfJFZpCRdyUxHk6) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Holy War](https://open.spotify.com/album/1A0txF8WEPHA1hhGd32IdL) | 4:00 | 2021-01-16 | 2021-05-03 |
-| [Homesick \- slenderbodies remix](https://open.spotify.com/track/0PbDaCpUPMgP9TpwetRjW5) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [Homesick \(slenderbodies remix\)](https://open.spotify.com/album/0GAPSfuFZRWAC0APi8BGB8) | 3:03 | 2022-09-26 |  |
+| [Homesick \- slenderbodies remix](https://open.spotify.com/track/0PbDaCpUPMgP9TpwetRjW5) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [Homesick \(slenderbodies remix\)](https://open.spotify.com/album/0GAPSfuFZRWAC0APi8BGB8) | 3:03 | 2022-09-26 | 2022-10-11 |
 | [homeswitcher](https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy) | [dltzk](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Teen Week](https://open.spotify.com/album/0I4Mj0o5tw56sHVYkS6pm3) | 2:25 | 2022-05-09 | 2022-05-24 |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2021-06-25 | 2021-08-18 |
 | [Honest](https://open.spotify.com/track/7D43qtE2NSNZOZ9NTYWM0X) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Honest](https://open.spotify.com/album/6izPzxURr7qQhbauoNlfyB) | 3:19 | 2022-04-01 | 2022-05-14 |
@@ -485,6 +485,7 @@
 | [Ice Cream](https://open.spotify.com/track/4r0gNBmnMUbyj9DmVfnftn) | [Drelli](https://open.spotify.com/artist/6OO8a55KYiZw6WzH1npKd5) | [Ice Cream](https://open.spotify.com/album/4j3BuKpIifauN9ymSb9IFu) | 1:53 | 2020-10-13\* | 2020-11-03 |
 | [Icing](https://open.spotify.com/track/5TaJDVZLSreKLg31wRR284) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Icing](https://open.spotify.com/album/4gyxc8Wv6vQE8JXCcCmIAV) | 1:44 | 2021-08-01 | 2021-10-13 |
 | [Icon](https://open.spotify.com/track/22nyEAEM29tcBRhukR089b) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [SYRE](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) | 3:40 | 2021-07-24 | 2021-07-31 |
+| [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 |  |
 | [IDFIATOK](https://open.spotify.com/track/3UCfeH1mZnwErqWZhiN32y) | [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH) | [IDFIATOK](https://open.spotify.com/album/7hF7y6TV0pcV70Pn12QndM) | 1:57 | 2021-01-16 | 2021-05-03 |
 | [IDK](https://open.spotify.com/track/7n0Cmx3OxHPv1nJkGnk4CH) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [IDK](https://open.spotify.com/album/2Z3QtmTxOQZHtieshSHJAL) | 3:13 | 2021-01-09 | 2021-05-15 |
 | [idk idk wtf](https://open.spotify.com/track/7dUhr4rhm9rBuxuojNwTt5) | [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [kii.](https://open.spotify.com/artist/0YID73jGBDgGtyjwPrGtvm), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4) | [idk idk wtf](https://open.spotify.com/album/6SWFGC3QUrzMa9Vom2wbVc) | 2:00 | 2022-06-03 | 2022-08-06 |
@@ -858,7 +859,8 @@
 | [Shy Dancer](https://open.spotify.com/track/6rIXjTkphb5RB5cXGz6CyX) | [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [Shy Dancer](https://open.spotify.com/album/6qk0iK3VpzfcnlZDNlBAPz) | 2:51 | 2020-11-20 | 2021-05-03 |
 | [Sick](https://open.spotify.com/track/3P6BXQDPXeSR890gP7noMk) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Sick](https://open.spotify.com/album/33YuS9bCUXrSBFaWibPe8T) | 2:59 | 2022-05-09 | 2022-05-28 |
 | [SICK OF BEING HONEST](https://open.spotify.com/track/37tW6M8HCRM7aJiKErQv80) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [VOID](https://open.spotify.com/album/2EfkRv1L0INMDN8pPeYMTL) | 3:12 | 2021-01-07 | 2021-10-14 |
-| [SICK OF IT\*](https://open.spotify.com/track/1G9Eww7gxSowO1RkcPXjmE) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [SICK OF IT\*](https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf) | 2:09 | 2022-09-30 |  |
+| [SICK OF IT\*](https://open.spotify.com/track/1G9Eww7gxSowO1RkcPXjmE) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [SICK OF IT\*](https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf) | 2:09 | 2022-09-30 | 2022-10-11 |
+| [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 | 2022-10-04 |  |
 | [SICK! \(with ILOVEMAKONNEN\)](https://open.spotify.com/track/4ZOh05LdZe0vhTozXC0ohJ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [SICK! \(with ILOVEMAKONNEN\)](https://open.spotify.com/album/7oH4zbfnRUUHGs6eORHksY) | 2:06 | 2021-06-26 | 2021-10-16 |
 | [Siddhartha](https://open.spotify.com/track/5XWOBkdPZZT1l8wJMiVAjB) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [Siddhartha](https://open.spotify.com/album/2xxZ89dHbIxRy3lu0Vnevy) | 2:48 | 2020-11-28 | 2021-05-03 |
 | [signs](https://open.spotify.com/track/1YfqDbjEzIOmoSOEarcpGL) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [signs](https://open.spotify.com/album/3gfVDalK5kBVFZGrYNe9NC) | 2:35 | 2021-04-17 | 2021-05-29 |

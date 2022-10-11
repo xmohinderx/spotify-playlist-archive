@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > The perfect score to accompany your literary quest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,729 likes - 98 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,865 likes - 98 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 66 | [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 |
 | 67 | [Winterfell \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/6NTKYkRWHOMZz4O8N3NMZS) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 2:43 |
 | 68 | [Bathsheba and Oak Unite](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 |
-| 69 | [My Initial Intentions](https://open.spotify.com/track/7h7R6kTMVdqFnoP0DFu1Ov) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [The Ever After](https://open.spotify.com/album/0fJwTIqN5z5PklqgqZB4x9) | 5:12 |
+| 69 | [My Initial Intentions](https://open.spotify.com/track/2ImnNnUAgYopWTWBacxfqp) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Marble Sounds](https://open.spotify.com/album/49tRpXhp2kVugqFW41k7Z2) | 5:12 |
 | 70 | [Snow Scene](https://open.spotify.com/track/6tlqa8M2qLusIX5eSG1fJQ) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Snow Scene](https://open.spotify.com/album/745UVNtTG3NGjMV85zFIld) | 3:01 |
 | 71 | [Samurai Sword](https://open.spotify.com/track/0j0UE5JDkNhpWGmFo4RLMl) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Samurai Sword](https://open.spotify.com/album/7AbyUNTbyN8qkADD3GEM7g) | 2:16 |
 | 72 | [Colin](https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Colin](https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR) | 2:43 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 97 | [Legends of the Fall](https://open.spotify.com/track/31loMj4ZFxOedEd2bHHQjg) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr), [Vic Frasier](https://open.spotify.com/artist/4yDDgkE98qUsBfWkMSstfi) | [Legends Of The Fall Original Motion Picture Soundtrack](https://open.spotify.com/album/1h8CXTofLlK1jaLooye58o) | 4:16 |
 | 98 | [Restless, Tamriel Dreams](https://open.spotify.com/track/5GPpwG6GtAPPfdmxltXJnv) | [Brad Derrick](https://open.spotify.com/artist/0WgwTXh66Tz9hSU7LjZsww) | [The Elder Scrolls Online: Music of Tamriel, Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3CDobpkPE61sifIMbxvSN7) | 6:51 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMGY5ZjIwM2RjNjkyNmRmYzhjODlkNzNlOWE3MTJmNTEw`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMGZjYjRlMmViZGJlYzQyMjkzNDE2ZDlkMzQ5OWU5Y2U0`

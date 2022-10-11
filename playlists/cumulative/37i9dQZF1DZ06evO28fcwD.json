@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 113313,
       "name": "African Alphabet",
       "url": "https://open.spotify.com/track/3O5q4MvQzxYYzjRLchIOYi"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 170631,
       "name": "All Women Are Beautiful",
       "url": "https://open.spotify.com/track/5M6ayqZlReaOFQdnuIa2tQ"
@@ -179,10 +179,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 207466,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/1uC21NUDWcl11P8jgEaqop"
+    },
+    {
+      "album": {
+        "name": "Favourites",
+        "url": "https://open.spotify.com/album/3T8BcKcFCzyeMRft0Yeglt"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209706,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/0bA7InqHdTe6uwta4HNwOM"
     },
     {
       "album": {
@@ -259,7 +277,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 214133,
       "name": "Ayikh\u2019 Indaw\u2019 Enjengekhaya",
       "url": "https://open.spotify.com/track/4gjiWULubKgWGUWWeFIOGj"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 231416,
       "name": "Chain Gang (feat. Lou Rawls)",
       "url": "https://open.spotify.com/track/5qdqlHz8qxgi86txQbXp3x"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 481853,
       "name": "Isimanga Salomhlaba (Soul Drummer Mix)",
       "url": "https://open.spotify.com/track/7Hee2PI8TK81DKv8s8wm3o"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 160146,
       "name": "Kanye Nawe Nkosi Yami",
       "url": "https://open.spotify.com/track/4iPuOwtCMMdmS9uMbYxzKQ"
@@ -1054,6 +1072,24 @@
     },
     {
       "album": {
+        "name": "Thandani",
+        "url": "https://open.spotify.com/album/5CpTO5gyFU1s8NjWBdUIX1"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249133,
+      "name": "Ngingenwe Emoyeni",
+      "url": "https://open.spotify.com/track/1x7kjDyShNDBGvR1U2siok"
+    },
+    {
+      "album": {
         "name": "Africa in Harmony: 50th Anniversary Edition",
         "url": "https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD"
       },
@@ -1155,7 +1191,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 342880,
       "name": "Oh Happy Day",
       "url": "https://open.spotify.com/track/50yuka9B8lppoDIBsIwGLt"
@@ -1275,7 +1311,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 331093,
       "name": "River Of Dreams",
       "url": "https://open.spotify.com/track/3XCAO6v3Rkz4q2yzyMAauZ"
@@ -1351,10 +1387,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 232093,
       "name": "Swing Low Sweet Chariot",
       "url": "https://open.spotify.com/track/1xqIZGxTRGVp5ZTpdU4d7J"
+    },
+    {
+      "album": {
+        "name": "The Star and the Wiseman",
+        "url": "https://open.spotify.com/album/2D1Ph5BioeCgToYvGS6fbO"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "Swing Low Sweet Chariot",
+      "url": "https://open.spotify.com/track/5eTQdyKwV5KJCK1yuBmVOX"
     },
     {
       "album": {
@@ -1496,6 +1550,24 @@
     },
     {
       "album": {
+        "name": "Two Worlds One Heart",
+        "url": "https://open.spotify.com/album/6BtW4Rnw1IU89vHNb3MURa"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280573,
+      "name": "Township Jive",
+      "url": "https://open.spotify.com/track/4lTaWKl14MfGLgjzF8cbKZ"
+    },
+    {
+      "album": {
         "name": "Journey Of Dreams",
         "url": "https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL"
       },
@@ -1507,7 +1579,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 206133,
       "name": "Umusa Kankulunkulu (Mercy of God)",
       "url": "https://open.spotify.com/track/0GqlEEum0IeztVdE5RhllQ"
@@ -1555,7 +1627,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 226426,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/2be3NsmKfEWSbXYZ2S6A98"

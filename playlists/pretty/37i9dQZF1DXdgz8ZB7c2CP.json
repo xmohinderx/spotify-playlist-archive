@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring new music by Pauline Herr.",
-  "num_followers": 728743,
+  "num_followers": 728829,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDcyYWZhOTA4ZGY0YjM2YmU4NTQwNjQ2MTNmMDE3YWEz",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDVkOGFiNjZmNGE4YTk0M2Y3OGNjNGZkNGE4MjZkNGEz",
   "tracks": [
     {
       "added_at": "2021-11-26 07:27:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "Superdream",
+        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Pale Blue Dot",
+      "url": "https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "AUTOPILOT",
         "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 228000,
       "name": "Honest",
       "url": "https://open.spotify.com/track/1k3J7o5b0tDUzbllLycVUJ"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Superdream",
-        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Pale Blue Dot",
-      "url": "https://open.spotify.com/track/3XmNMIucTYuXOEpAjcaeVi"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Spoiled little brat",
-      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "Open Spaces",
         "url": "https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 206399,
       "name": "Open Spaces",
       "url": "https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Spoiled little brat",
+      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
       "added_at": "2021-10-08 04:03:00",
@@ -813,26 +813,6 @@
       "url": "https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Rumor",
-        "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        },
-        {
-          "name": "WYN",
-          "url": "https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D"
-        }
-      ],
-      "duration_ms": 278808,
-      "name": "Rumor",
-      "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
-    },
-    {
       "added_at": "2021-08-27 21:12:45",
       "album": {
         "name": "Honeydew",
@@ -889,6 +869,26 @@
       "url": "https://open.spotify.com/track/4isX1HXrZwPtobTgFAWokB"
     },
     {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Rumor",
+        "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "WYN",
+          "url": "https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D"
+        }
+      ],
+      "duration_ms": 278808,
+      "name": "Rumor",
+      "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Fallen",
@@ -927,6 +927,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "game point",
+        "url": "https://open.spotify.com/album/4uQ7FC2FsJjv3RdQLKPhHZ"
+      },
+      "artists": [
+        {
+          "name": "weird inside",
+          "url": "https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "game point",
+      "url": "https://open.spotify.com/track/2JMCa4YAC2wp0HY0ChY0BQ"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "Fallout (The Remixes)",
         "url": "https://open.spotify.com/album/4Cu81bSfAU70eRUmDi6qoY"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 236800,
       "name": "Chemical (feat. Ahsha & Lemay) - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/6dO718ifYwuMljavDSLTTD"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "game point",
-        "url": "https://open.spotify.com/album/4uQ7FC2FsJjv3RdQLKPhHZ"
-      },
-      "artists": [
-        {
-          "name": "weird inside",
-          "url": "https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "game point",
-      "url": "https://open.spotify.com/track/2JMCa4YAC2wp0HY0ChY0BQ"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "T0NITE",
+        "url": "https://open.spotify.com/album/7CDwsplCHROyARa7H91RS1"
+      },
+      "artists": [
+        {
+          "name": "HELLHEIM",
+          "url": "https://open.spotify.com/artist/4y0E0pMRFCgOkesrCPtUmU"
+        }
+      ],
+      "duration_ms": 123259,
+      "name": "T0NITE",
+      "url": "https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "For One to Follow",
         "url": "https://open.spotify.com/album/5APyA3dx7QBAzXu4kXP8wq"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 354708,
       "name": "All I Really Need",
       "url": "https://open.spotify.com/track/1swFJw7cDPCqzMfC7a2bWb"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "T0NITE",
-        "url": "https://open.spotify.com/album/7CDwsplCHROyARa7H91RS1"
-      },
-      "artists": [
-        {
-          "name": "HELLHEIM",
-          "url": "https://open.spotify.com/artist/4y0E0pMRFCgOkesrCPtUmU"
-        }
-      ],
-      "duration_ms": 123259,
-      "name": "T0NITE",
-      "url": "https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1089,30 +1089,6 @@
       "url": "https://open.spotify.com/track/6oPoNJcfeXXBAjLwNmiVds"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/5SBJTWXuATqUi9pzhK5MnH"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "Rando",
-          "url": "https://open.spotify.com/artist/6JdqHrxwmL2eeJO2oAnQG9"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 193865,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/4heGpp2Hkh0xyTnwduAPxc"
-    },
-    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
         "name": "Data Loss",
@@ -1151,6 +1127,30 @@
       "duration_ms": 217500,
       "name": "Brooklyn '95",
       "url": "https://open.spotify.com/track/1KxLWCQJG4RSeymZdHhDOV"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/5SBJTWXuATqUi9pzhK5MnH"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Rando",
+          "url": "https://open.spotify.com/artist/6JdqHrxwmL2eeJO2oAnQG9"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 193865,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/4heGpp2Hkh0xyTnwduAPxc"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1381,6 +1381,22 @@
       "url": "https://open.spotify.com/track/1RiuDvXUH1rBwqeFL5BsZi"
     },
     {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Open Blinds",
+        "url": "https://open.spotify.com/album/1FjlCRtCcyuwWfGf7ZJLgs"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 255579,
+      "name": "Open Blinds",
+      "url": "https://open.spotify.com/track/0cR04cbujsPTTyKUazySY0"
+    },
+    {
       "added_at": "2021-11-26 07:27:00",
       "album": {
         "name": "Sticky Love",
@@ -1419,38 +1435,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Intrastellar EP",
-        "url": "https://open.spotify.com/album/5UVbYO6W3Pfoa8HRaqOalI"
-      },
-      "artists": [
-        {
-          "name": "thomfjord",
-          "url": "https://open.spotify.com/artist/4HozTjFfieqgVzmsn5CK5a"
-        }
-      ],
-      "duration_ms": 321535,
-      "name": "Intrastellar",
-      "url": "https://open.spotify.com/track/2xvnpwPX8JTysO083rju7y"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Open Blinds",
-        "url": "https://open.spotify.com/album/1FjlCRtCcyuwWfGf7ZJLgs"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 255579,
-      "name": "Open Blinds",
-      "url": "https://open.spotify.com/track/0cR04cbujsPTTyKUazySY0"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "Blueberry",
         "url": "https://open.spotify.com/album/4r0rVzP7g7nZWpiDHxDKTr"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 212840,
       "name": "Blueberry",
       "url": "https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Intrastellar EP",
+        "url": "https://open.spotify.com/album/5UVbYO6W3Pfoa8HRaqOalI"
+      },
+      "artists": [
+        {
+          "name": "thomfjord",
+          "url": "https://open.spotify.com/artist/4HozTjFfieqgVzmsn5CK5a"
+        }
+      ],
+      "duration_ms": 321535,
+      "name": "Intrastellar",
+      "url": "https://open.spotify.com/track/2xvnpwPX8JTysO083rju7y"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1517,24 +1517,24 @@
       "url": "https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4"
     },
     {
-      "added_at": "2022-03-25 04:00:00",
+      "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Mirror Mountain",
-        "url": "https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K"
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/50ivZBGeYJPiAnvrpElesT"
       },
       "artists": [
         {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+          "name": "Duumu",
+          "url": "https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF"
         },
         {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 225000,
-      "name": "When You Feel Like This",
-      "url": "https://open.spotify.com/track/4yYYjy0Dtj4CkWeqljwpLq"
+      "duration_ms": 217846,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/0yxqE17S8mauxiv10mMVS0"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1557,24 +1557,24 @@
       "url": "https://open.spotify.com/track/7pWtm7wDWIoT0TWoqySBy5"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
+      "added_at": "2022-03-25 04:00:00",
       "album": {
-        "name": "Keep You",
-        "url": "https://open.spotify.com/album/50ivZBGeYJPiAnvrpElesT"
+        "name": "Mirror Mountain",
+        "url": "https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K"
       },
       "artists": [
         {
-          "name": "Duumu",
-          "url": "https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF"
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
         },
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
         }
       ],
-      "duration_ms": 217846,
-      "name": "Keep You",
-      "url": "https://open.spotify.com/track/0yxqE17S8mauxiv10mMVS0"
+      "duration_ms": 225000,
+      "name": "When You Feel Like This",
+      "url": "https://open.spotify.com/track/4yYYjy0Dtj4CkWeqljwpLq"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "NOWHERE",
-        "url": "https://open.spotify.com/album/4SRfe7tZOJZLArlEJBxVwD"
-      },
-      "artists": [
-        {
-          "name": "Stereotype",
-          "url": "https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq"
-        },
-        {
-          "name": "Shir Koren",
-          "url": "https://open.spotify.com/artist/0f2yl3A95DaAPLYW7qqKP7"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/79IUdU0benwGkJQsK6iMla"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/53W9i1T6OTOEvLuKfUTzfr"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 190163,
       "name": "Gone",
       "url": "https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "NOWHERE",
+        "url": "https://open.spotify.com/album/4SRfe7tZOJZLArlEJBxVwD"
+      },
+      "artists": [
+        {
+          "name": "Stereotype",
+          "url": "https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq"
+        },
+        {
+          "name": "Shir Koren",
+          "url": "https://open.spotify.com/artist/0f2yl3A95DaAPLYW7qqKP7"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/79IUdU0benwGkJQsK6iMla"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2037,22 +2037,6 @@
       "url": "https://open.spotify.com/track/1XGKJIMxvFfi9MCm9Csqlk"
     },
     {
-      "added_at": "2021-08-20 04:00:00",
-      "album": {
-        "name": "Possibilities",
-        "url": "https://open.spotify.com/album/6z0UK4WmK0vrxVkbBR04do"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 175932,
-      "name": "Possibilities",
-      "url": "https://open.spotify.com/track/3GJP6nsQ2BVQErSsxrRDgB"
-    },
-    {
       "added_at": "2021-10-08 04:03:00",
       "album": {
         "name": "Drugs in California",
@@ -2067,6 +2051,22 @@
       "duration_ms": 182578,
       "name": "Everything Everything",
       "url": "https://open.spotify.com/track/28SH5XV1NNVDiW5gPklCk7"
+    },
+    {
+      "added_at": "2021-08-20 04:00:00",
+      "album": {
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/6z0UK4WmK0vrxVkbBR04do"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 175932,
+      "name": "Possibilities",
+      "url": "https://open.spotify.com/track/3GJP6nsQ2BVQErSsxrRDgB"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2115,8 +2115,8 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "kora",
-        "url": "https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc"
+        "name": "gold",
+        "url": "https://open.spotify.com/album/2P56f3HlbQGgGkjaS02ji0"
       },
       "artists": [
         {
@@ -2124,9 +2124,9 @@
           "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
         }
       ],
-      "duration_ms": 282870,
-      "name": "kora",
-      "url": "https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn"
+      "duration_ms": 193175,
+      "name": "gold",
+      "url": "https://open.spotify.com/track/3vGgCXDCJZmkO83Yi5eUqf"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Dish",
-        "url": "https://open.spotify.com/album/1zUmUJ2iSbCnafPoZRkSg1"
-      },
-      "artists": [
-        {
-          "name": "Pheeno",
-          "url": "https://open.spotify.com/artist/4C1Mbwae9oliXTKjl8vzbD"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Dish",
-      "url": "https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "Night Goggles (Rome in Silver Remix)",
         "url": "https://open.spotify.com/album/7js3eob7PU1CkZhcB5Ueve"
       },
@@ -2255,6 +2239,38 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "Dish",
+        "url": "https://open.spotify.com/album/1zUmUJ2iSbCnafPoZRkSg1"
+      },
+      "artists": [
+        {
+          "name": "Pheeno",
+          "url": "https://open.spotify.com/artist/4C1Mbwae9oliXTKjl8vzbD"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "Dish",
+      "url": "https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "kora",
+        "url": "https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc"
+      },
+      "artists": [
+        {
+          "name": "The Sanctuary",
+          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
+        }
+      ],
+      "duration_ms": 282870,
+      "name": "kora",
+      "url": "https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/01ycBgYCovBlkq6S6VRsdg"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 210000,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/1OisORzsNmtki9guAiG4mU"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "gold",
-        "url": "https://open.spotify.com/album/2P56f3HlbQGgGkjaS02ji0"
-      },
-      "artists": [
-        {
-          "name": "The Sanctuary",
-          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
-        }
-      ],
-      "duration_ms": 193175,
-      "name": "gold",
-      "url": "https://open.spotify.com/track/3vGgCXDCJZmkO83Yi5eUqf"
     },
     {
       "added_at": "2021-08-06 15:53:29",

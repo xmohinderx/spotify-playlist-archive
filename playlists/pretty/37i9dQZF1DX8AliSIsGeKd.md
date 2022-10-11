@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Schlepp Geist
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,808 likes - 80 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,998 likes - 80 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
