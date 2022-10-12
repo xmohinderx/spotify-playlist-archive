@@ -5125,3 +5125,4 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [재즈맛 힙합](/playlists/pretty/37i9dQZF1DX5x5ck36i2uO.md)
 - [포근 편안 폭신](/playlists/pretty/37i9dQZF1DWSvk1AxYsbvo.md)
 - [힐링 힙합](/playlists/pretty/37i9dQZF1DWZiWafrEIdA8.md)
+- [🌓 Light Night Group Playlist](/playlists/pretty/3byfICXn1tEvIDpgTYzeXx.md)
