@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Dayglow
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,211 likes - 108 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,064 likes - 108 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

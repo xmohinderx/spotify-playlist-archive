@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 61917,
+  "num_followers": 61929,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGNiZmM3MDQzMjgyOTI5MDk4MGM0ZGI4M2ZjZTQ2NjA4",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGM2N2ZlNTIxY2YxM2ZlZWUyMjAyYWIwMTJhNDNmY2Fk",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "10 PM (Popular)",
-        "url": "https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR"
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 213180,
-      "name": "10 PM - Popular",
-      "url": "https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao"
+      "duration_ms": 207333,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
+        "name": "10 PM (Popular)",
+        "url": "https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 207333,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ"
+      "duration_ms": 213180,
+      "name": "10 PM - Popular",
+      "url": "https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Te Seguir\u00e9 Queriendo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX"
-      },
-      "artists": [
-        {
-          "name": "Crecer German",
-          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "El Diluvio",
         "url": "https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 197720,
       "name": "Amarlas Es Un Placer",
       "url": "https://open.spotify.com/track/79TGd2i6kti3xxiVP5wDWU"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Te Seguir\u00e9 Queriendo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX"
+      },
+      "artists": [
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Porqu\u00e9 Como T\u00fa",
-        "url": "https://open.spotify.com/album/38mjeIx9MryT6uUTHXcHNU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 239520,
-      "name": "Porqu\u00e9 Como T\u00fa",
-      "url": "https://open.spotify.com/track/0RuwQiOJAqcDqnnMMzkcYf"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Siempre Te Voy A Recordar",
         "url": "https://open.spotify.com/album/0uEVN2fgECxF04lRe8IiJh"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 187960,
       "name": "Siempre Te Voy A Recordar",
       "url": "https://open.spotify.com/track/2QW4BERfECAthx967SSNy5"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Porqu\u00e9 Como T\u00fa",
+        "url": "https://open.spotify.com/album/38mjeIx9MryT6uUTHXcHNU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 239520,
+      "name": "Porqu\u00e9 Como T\u00fa",
+      "url": "https://open.spotify.com/track/0RuwQiOJAqcDqnnMMzkcYf"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "T\u00fa Solo T\u00fa",
-        "url": "https://open.spotify.com/album/5cWsl9DuZTi8l6RvI7RSzy"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "T\u00fa Solo T\u00fa",
-      "url": "https://open.spotify.com/track/2ZwbOtOwLTNggNYeEkOpcZ"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Quiero Confesarte",
         "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 155365,
       "name": "Quiero Confesarte",
       "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "T\u00fa Solo T\u00fa",
+        "url": "https://open.spotify.com/album/5cWsl9DuZTi8l6RvI7RSzy"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "T\u00fa Solo T\u00fa",
+      "url": "https://open.spotify.com/track/2ZwbOtOwLTNggNYeEkOpcZ"
     },
     {
       "added_at": "2022-07-29 04:00:00",

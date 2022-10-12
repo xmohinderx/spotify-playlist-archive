@@ -2,7 +2,7 @@
 
 ### [The 2000s Indie Scene](https://open.spotify.com/playlist/37i9dQZF1DX9LbdoYID5v7)
 
-> The music that created modern indie as we know it\. Cover: Florence + The Machine
+> Music that created modern indie as we know it\. Cover: MGMT
 
 149 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/1TmwbF2mvZkA61FjUDdoHe)
 

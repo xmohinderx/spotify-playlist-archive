@@ -4,7 +4,7 @@
 
 > Top Arabic hits are right here\. Cover: Ahmad Bahaa, Hassan Shakosh
 
-223 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
+226 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,11 +33,12 @@
 | [Baad Shu](https://open.spotify.com/track/051Ijb9ebRNDpKEDBakTyU) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Baad Shu](https://open.spotify.com/album/5ydfkQUK4cyeGDJ77oO5sH) | 3:21 | 2022-02-07 |  |
 | [Baby Baby](https://open.spotify.com/track/0xgP0lR6VpAl4ruqu6bE45) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Baby Baby](https://open.spotify.com/album/59ilTq126YceY3mWtoTcbg) | 3:30 | 2021-12-12 | 2022-07-29 |
 | [Bahr Shar](https://open.spotify.com/track/1AZjgKOrI1MVwoDKYlZIdF) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Houda Bondok](https://open.spotify.com/artist/3h9whENZphIzFOkg0brmgK) | [Bahr Shar](https://open.spotify.com/album/60jBCD1LI5FDHxPQV3mef5) | 2:51 | 2021-12-12 | 2022-07-27 |
-| [Baree](https://open.spotify.com/track/54nQpzXkuEqeYcw5CrkIBI) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [BAREE?](https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X) | 2:33 | 2021-12-23 |  |
+| [Baree](https://open.spotify.com/track/54nQpzXkuEqeYcw5CrkIBI) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [BAREE?](https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X) | 2:33 | 2021-12-23 | 2022-10-12 |
 | [Baskotaya M2armesha](https://open.spotify.com/track/0ZW94xTUKrsNDXAYMsMXEv) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Hamada Magdy](https://open.spotify.com/artist/4kYlR8TU22EJ77zl3NfmeM) | [Baskotaya M2armesha](https://open.spotify.com/album/0L5HPsf9TBTQaJESlx8JmC) | 3:43 | 2021-12-12 | 2022-09-19 |
 | [Basrah w Atooh](https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:57 | 2022-09-26 |  |
 | [Beautiful](https://open.spotify.com/track/330mHGqozNG0Eh1hzqNk8x) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Beautiful](https://open.spotify.com/album/3tqAPIuaO8FlN1PyZHbvy0) | 2:20 | 2022-06-24 | 2022-07-05 |
 | [Beautiful](https://open.spotify.com/track/33kN7MSsfmxCG4HT2vn7j8) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Beautiful](https://open.spotify.com/album/7EFMPafpTIPs0V2RsNhF9T) | 2:20 | 2022-07-04 |  |
+| [Bel Ahlam](https://open.spotify.com/track/2p6TxDI6Slpp69ZZxsCvqV) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [بالأحلام](https://open.spotify.com/album/4FK3MDZXQHciricJ7zUcop) | 2:49 | 2022-10-11 |  |
 | [Bel Bont El3areedh](https://open.spotify.com/track/4ZU4yHDLZcMcy8BF6Y89fu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Bel Bont El3areedh](https://open.spotify.com/album/6w5blHKUDHSspaKU5cuf9J) | 3:18 | 2021-12-12 | 2022-09-19 |
 | [Btaaref Shuur](https://open.spotify.com/track/48wOhHtZNVEDL05Vxrp7eZ) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Btaaref Shuur](https://open.spotify.com/album/1Ztk0OR6YwkmsTTnVubzLc) | 3:21 | 2021-12-12 | 2022-02-08 |
 | [Btwhasheni](https://open.spotify.com/track/1Cm3f5zjPhCrR0VqodoJhK) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Btwhasheni](https://open.spotify.com/album/3M315U7mkSSUoxoUXv6M27) | 3:51 | 2021-12-12 | 2022-09-19 |
@@ -59,6 +60,7 @@
 | [Eish'ha B Afia](https://open.spotify.com/track/0VoGUSTCDyz5855v4S278P) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Eish'ha B Afia](https://open.spotify.com/album/3qgIRDfNgnyxHi0YykyrWW) | 3:18 | 2022-09-18 |  |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2021-12-12 |  |
 | [El Donia El Helwa](https://open.spotify.com/track/6W6lYqKuPScYWchL6bS7Ly) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [El Donia El Helwa](https://open.spotify.com/album/7FX0RpQPmbmFk8QXxiRFf8) | 3:16 | 2021-12-12 | 2022-02-22 |
+| [El Hala'](https://open.spotify.com/track/75erM0i0rM96ydo1ujzn7g) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [El Hala'](https://open.spotify.com/album/72a9NuF8ZI7ynsbjqGEj3o) | 2:52 | 2022-10-11 |  |
 | [El Hob Dayaani](https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [El Hob Dayaani](https://open.spotify.com/album/4GQkyZMC7NjgtfMwdIkWrs) | 3:10 | 2021-12-12 | 2022-01-04 |
 | [El Lahza El Helwa](https://open.spotify.com/track/2UNRHZy7aYHlJEg0gfLeG9) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [El Lahza El Helwa](https://open.spotify.com/album/3fjWvwsLFrLCIoVD7JYHSg) | 3:06 | 2021-12-23 | 2022-01-03 |
 | [El Melouk \- الملوك](https://open.spotify.com/track/04vHPXVGnb51q13NBoW22W) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [El Melouk \- الملوك](https://open.spotify.com/album/3eMTz433EZ3pEHtszeiIL2) | 3:15 | 2022-04-15 | 2022-10-05 |
@@ -95,6 +97,7 @@
 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 | 2022-07-20 |  |
 | [Hadal Ahbek](https://open.spotify.com/track/0ymn3NBfT1W2QW0d7U5kHS) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/5NUgTQnW5TqzsqzDVEVITx) | 3:29 | 2022-03-22 | 2022-04-21 |
 | [Hadal Ahbek](https://open.spotify.com/track/6nIGMTqiL0cZYyNa8gzj0e) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [BAREE?](https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X) | 3:29 | 2022-07-22 | 2022-09-19 |
+| [Hadalaany \- From Bhabak Movie](https://open.spotify.com/track/2MBqyVD794w8Tn0IPGLEBW) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hadalaany \(From Bhabak Movie\)](https://open.spotify.com/album/2dQZwRz9UH0MLwKmxeegsz) | 3:26 | 2022-10-11 |  |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2021-12-12 |  |
 | [Han AlAn](https://open.spotify.com/track/2MaVjzNUXijqQM9ULZMRzq) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Han AlAn](https://open.spotify.com/album/1ew6D40gSEKZKWxbNGXAvC) | 3:40 | 2021-12-12 | 2022-02-07 |
 | [Hathi Ente W Hatha Ana](https://open.spotify.com/track/2Ee2FsZHiLfYQIb6mBZx9z) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Hathi Ente W Hatha Ana](https://open.spotify.com/album/4mxm6atuAvaReJeYSS2A2w) | 3:45 | 2021-12-12 | 2022-02-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118381,
+  "num_followers": 118375,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGY0MmYwODZjMGEzOTczNjQ0MWE2YTRkNzE5YWMxZTMy",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDNlOWNmZDY5ZmVhNWMwYmUzZjJmYWQyZWNiZGM3ZjEx",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 154424,
-      "name": "No Idea",
-      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 131240,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 154424,
+      "name": "No Idea",
+      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -423,6 +423,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 98413,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Life Is Good (feat. Drake)",
         "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 98413,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1863,6 +1863,26 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "Smile (with The Weeknd)",
+        "url": "https://open.spotify.com/album/1NJfa8mJWJjYzigrMU6Fd3"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 196180,
+      "name": "Smile (with The Weeknd)",
+      "url": "https://open.spotify.com/track/09NtNfFG4vpHsAUbdUug0M"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "T\u00e3o Real",
         "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 185333,
       "name": "Pipa Voada (feat. Emicida)",
       "url": "https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Smile (with The Weeknd)",
-        "url": "https://open.spotify.com/album/1NJfa8mJWJjYzigrMU6Fd3"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 196180,
-      "name": "Smile (with The Weeknd)",
-      "url": "https://open.spotify.com/track/09NtNfFG4vpHsAUbdUug0M"
     },
     {
       "added_at": "2020-10-20 20:23:39",

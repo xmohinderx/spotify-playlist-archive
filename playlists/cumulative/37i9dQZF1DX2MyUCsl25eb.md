@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-432 songs - 1 day 1 hr 13 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
+433 songs - 1 day 1 hr 16 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2021-08-04 | 2022-08-13 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 | 2021-08-04 | 2022-05-04 |
 | [I Just Don't Think I'll Ever Get Over You](https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN) | [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Transcendental Highway](https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m) | 5:28 | 2021-08-04 | 2022-04-21 |
+| [I Just Want a Lover](https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:21 | 2022-09-16 |  |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-10-07 |
 | [I Love You](https://open.spotify.com/track/0KEJPuUHG7rKPwGgoIEOJt) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:01 | 2022-09-23 | 2022-10-01 |
 | [I Went Hunting](https://open.spotify.com/track/2X0B89nchlocmZ12zyYd7H) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [I Went Hunting](https://open.spotify.com/album/1P1G2eyoP4UphHDjRiol6T) | 3:45 | 2022-06-03 | 2022-09-10 |
@@ -257,7 +258,7 @@
 | [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 | 2022-05-06 | 2022-05-14 |
 | [Medieval \- Spotify Singles](https://open.spotify.com/track/2WtXFUMBeHogKEMQnzQ78e) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Spotify Singles](https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j) | 3:10 | 2022-03-11 | 2022-04-19 |
 | [Meet Again](https://open.spotify.com/track/4VeTqMj8t14gF7UcBaAkzC) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Meet Again](https://open.spotify.com/album/3DdC09yrkiSQRDCE2v2UNl) | 4:01 | 2022-04-08 | 2022-07-29 |
-| [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-05-13 |  |
+| [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-05-13 | 2022-10-12 |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-04-15 |  |
 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 | 2021-08-04 | 2022-04-02 |
 | [Million Little Problems](https://open.spotify.com/track/1nccRXlgqIuC8WiAuTieBo) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Million Little Problems](https://open.spotify.com/album/3YDmWON2aVb6IayCjQwkj5) | 2:27 | 2022-04-15 | 2022-04-23 |
@@ -347,7 +348,7 @@
 | [SOME TIME\(S\)](https://open.spotify.com/track/3si68QloSfvdnNopCbtbh2) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 7: SOME TIME\(S\)](https://open.spotify.com/album/5jNH3x7fryq5BaPt1YhcYJ) | 2:11 | 2022-01-21 | 2022-07-06 |
 | [Somebody Else](https://open.spotify.com/track/4eaW9mt8VdDWqtC9CRUhLm) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Somebody Else](https://open.spotify.com/album/7BG5k1KQgcjVwB7knOwhHQ) | 3:13 | 2022-02-25 | 2022-04-17 |
 | [Somebody's Nobody](https://open.spotify.com/track/3Bc5XUS5sTHtAde1ZA2FzC) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Somebody's Nobody](https://open.spotify.com/album/5tuZ5QFAdNcQqd6ghXAfbb) | 3:42 | 2022-06-24 | 2022-07-02 |
-| [Someone Who Loved You](https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone Who Loved You](https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9) | 2:57 | 2022-09-30 | 2022-10-08 |
+| [Someone Who Loved You](https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone Who Loved You](https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9) | 2:57 | 2022-09-30 |  |
 | [Something New](https://open.spotify.com/track/1i5cR4r7eiPcl1X8JYPDFu) | [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Something New](https://open.spotify.com/album/0WJ9MrW2T4ogWvBoH6u4iI) | 4:34 | 2022-04-22 | 2022-07-29 |
 | [Something To Hold](https://open.spotify.com/track/2oPczwxIHoFxNkl7SbKNAH) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Something To Hold](https://open.spotify.com/album/58WEkFrueGp8HFOZlJKRdw) | 4:31 | 2021-10-22 | 2022-07-28 |
 | [something worth working on](https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [something worth working on](https://open.spotify.com/album/1J2zpeRhVvBCggMKbLIGIT) | 2:59 | 2022-08-26 | 2022-09-03 |
@@ -409,7 +410,7 @@
 | [Way With Words](https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:20 | 2021-08-04 | 2022-03-28 |
 | [We'll Be Alright](https://open.spotify.com/track/6klNPAhUTmsYNlWbOyVbsy) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [We’ll Be Alright](https://open.spotify.com/album/7kpo8rHIFoa15JMwzxBDdf) | 3:53 | 2021-08-04 | 2022-05-21 |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 |  |
-| [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-06 |  |
+| [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-06 | 2022-10-12 |
 | [What a Convincing Illusion](https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Golden Age](https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC) | 3:17 | 2022-08-12 | 2022-08-20 |
 | [What Does Sorry Mean](https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [What Does Sorry Mean](https://open.spotify.com/album/1fH8s1jiVXfxVB9WkdzzXf) | 3:01 | 2022-09-09 | 2022-09-17 |
 | [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 | 2022-08-05 | 2022-09-10 |

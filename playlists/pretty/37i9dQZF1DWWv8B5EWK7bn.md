@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,815 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,934 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 47 | [Robot Riot](https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Robot Riot](https://open.spotify.com/album/4dnVdfbC0z2EkLPC9D2MJ4) | 2:56 |
 | 48 | [What Has Happened](https://open.spotify.com/track/5JkXLujwK0t6zq2qwo5bon) | [Tonstartssbandht](https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW) | [Petunia](https://open.spotify.com/album/1Q7Vtfnna0m7ZCwf9nwEWj) | 7:02 |
 | 49 | [See Her](https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [See Her](https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho) | 3:00 |
-| 50 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 |
-| 51 | [Behind The Sun](https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Behind The Sun](https://open.spotify.com/album/74awnhwIvK6XAFL3q68iuG) | 3:29 |
-| 52 | [Dirt on the Bed](https://open.spotify.com/track/1mhVCuP7ebwpmfCc2zE64U) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 4:28 |
-| 53 | [Dicen](https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Dicen](https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq) | 2:44 |
-| 54 | [Homing](https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:40 |
-| 55 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 |
-| 56 | [Starved for Glamour](https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [High January](https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE) | 4:26 |
+| 50 | [Starved for Glamour](https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [High January](https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE) | 4:26 |
+| 51 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 |
+| 52 | [Behind The Sun](https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Behind The Sun](https://open.spotify.com/album/74awnhwIvK6XAFL3q68iuG) | 3:29 |
+| 53 | [Dirt on the Bed](https://open.spotify.com/track/1mhVCuP7ebwpmfCc2zE64U) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 4:28 |
+| 54 | [Dicen](https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Dicen](https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq) | 2:44 |
+| 55 | [Homing](https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:40 |
+| 56 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 |
 | 57 | [Right is Alright, Wrong is to Belong](https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [Moot!](https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT) | 4:57 |
 | 58 | [The Universe Is Always Right](https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [The Universe Is Always Right](https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ) | 4:04 |
 | 59 | [Underwater](https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature](https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF) | 6:45 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 75 | [Robber](https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5) | 5:20 |
 | 76 | [Jour 3](https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV) | 3:06 |
 | 77 | [Big Appetite](https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 5:16 |
-| 78 | [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 |
-| 79 | [Keep Your Mind Free](https://open.spotify.com/track/2JoAsRpfSpuCGsEOtlFS7W) | [Damon Locks](https://open.spotify.com/artist/6TlQM2KMbYG7xE7Zy1BMUy), [Black Monument Ensemble](https://open.spotify.com/artist/4UTQycdCDv5HBn2NdhOraF), [Ben LaMar Gay](https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR) | [NOW](https://open.spotify.com/album/42yBiH8auH9zsloOembHL0) | 5:54 |
+| 78 | [Keep Your Mind Free](https://open.spotify.com/track/2JoAsRpfSpuCGsEOtlFS7W) | [Damon Locks](https://open.spotify.com/artist/6TlQM2KMbYG7xE7Zy1BMUy), [Black Monument Ensemble](https://open.spotify.com/artist/4UTQycdCDv5HBn2NdhOraF), [Ben LaMar Gay](https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR) | [NOW](https://open.spotify.com/album/42yBiH8auH9zsloOembHL0) | 5:54 |
+| 79 | [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 |
 | 80 | [THE 55](https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70) | [GUSPY](https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp) | [THE 55](https://open.spotify.com/album/3VRckeo4W4pLalver76sg1) | 2:52 |
 | 81 | [The Revolution Of Super Visions](https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Revolution Of Super Visions](https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP) | 5:01 |
 | 82 | [Victims of Victimless Crimes](https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE) | [Kübler\-Ross](https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy) | [Kübler\-Ross](https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 99 | [Run \(feat\. Gareth Jones & Ólavur Jákupsson\)](https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 5:11 |
 | 100 | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/track/1A86VFnly66e3OGEpoNYsL) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/album/34AeLleD5JHCTphmCLyCgI) | 4:00 |
 
-Snapshot ID: `MTY2NDk3OTE1MCwwMDAwMDAwMDYyNzlhZTVkMDdiYmFmMDI2ZmJiZDQ0MjIzMzgzNWUw`
+Snapshot ID: `MTY2NDk3OTE1MCwwMDAwMDAwMDM0NjNkOWMwM2NiYzE5YjdiOWNkNTQ4YzUxZjE0ZWE0`

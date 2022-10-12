@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 647890,
+  "num_followers": 648018,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDk5Y2I5NDVjMGU5NDFiZDQ2ZmUyYzkzYjNhZjY4NjM4",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGQ2MTQ5YjI0ODQ0ZWM4YmRmYTdkYmQ3MmY5ZjA0NDUw",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 212157,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 346373,
       "name": "Harvest Moon - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 212157,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "You'll Never Walk Alone",
-        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 118476,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Mercy Mercy Me (The Ecology)",
         "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 190885,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "You'll Never Walk Alone",
+        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 118476,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Delta Tour EP (Live)",
+        "url": "https://open.spotify.com/album/4DNU3xDmnwdwNoep47QR22"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 359691,
+      "name": "With a Little Help from My Friends - Live From London",
+      "url": "https://open.spotify.com/track/3X7xrRkcn6VwmvFDhor91i"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Here Comes Your Man",
         "url": "https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 159541,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Delta Tour EP (Live)",
-        "url": "https://open.spotify.com/album/4DNU3xDmnwdwNoep47QR22"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 359691,
-      "name": "With a Little Help from My Friends - Live From London",
-      "url": "https://open.spotify.com/track/3X7xrRkcn6VwmvFDhor91i"
     },
     {
       "added_at": "2022-09-30 04:00:00",

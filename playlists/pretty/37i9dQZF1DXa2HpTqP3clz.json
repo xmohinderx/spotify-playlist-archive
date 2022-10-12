@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Billy Strings",
-  "num_followers": 111899,
+  "num_followers": 111974,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDBiNzMyMTIwZjVmMTY0NDc2ZWExZmJkMjYwYjViZTI5",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDhhODBhNzcwNGQ0MGM2ZDM1YWFhYTczYWRkN2JlMjBj",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "\u201cThe Long-Awaited Album\u201d",
         "url": "https://open.spotify.com/album/18a2XSMBz1cgZyqVnsG684"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 153106,
       "name": "On The Water",
       "url": "https://open.spotify.com/track/6sVBfdmhr8SrqUJDynPZKQ"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Black Muddy River",
-        "url": "https://open.spotify.com/album/4NEAI6IneYPx1gyD0drCON"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        },
-        {
-          "name": "Anders Osborne",
-          "url": "https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888"
-        }
-      ],
-      "duration_ms": 379576,
-      "name": "Black Muddy River",
-      "url": "https://open.spotify.com/track/4l6NIYohNjIPQQ4h1BTgNL"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Harder Than Steel",
         "url": "https://open.spotify.com/album/3pei7yQ2k0a5pgcRZkCjBr"
       },
@@ -1163,18 +1143,38 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Run, Rose, Run",
-        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Yes Ma'am",
+          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
         }
       ],
-      "duration_ms": 193173,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
+      "duration_ms": 153968,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Black Muddy River",
+        "url": "https://open.spotify.com/album/4NEAI6IneYPx1gyD0drCON"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        },
+        {
+          "name": "Anders Osborne",
+          "url": "https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888"
+        }
+      ],
+      "duration_ms": 379576,
+      "name": "Black Muddy River",
+      "url": "https://open.spotify.com/track/4l6NIYohNjIPQQ4h1BTgNL"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
+        "name": "Run, Rose, Run",
+        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
       },
       "artists": [
         {
-          "name": "Yes Ma'am",
-          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 153968,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
+      "duration_ms": 193173,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Arms of a Lover",
-        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 201292,
-      "name": "Don't Cry",
-      "url": "https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 205933,
       "name": "She Left Me Standing on the Mountain",
       "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Arms of a Lover",
+        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 201292,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
+      },
+      "artists": [
+        {
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
+        }
+      ],
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Laws Of Gravity",
         "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
-      },
-      "artists": [
-        {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
-        }
-      ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Ladies & Gentlemen",
-        "url": "https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm"
+        "name": "Sidetrack My Engine",
+        "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
         }
       ],
-      "duration_ms": 190634,
-      "name": "Run To Heaven",
-      "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
+      "duration_ms": 165213,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1479,6 +1475,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 190634,
+      "name": "Run To Heaven",
+      "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Sidetrack My Engine",
-        "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1559,22 +1559,6 @@
       "duration_ms": 209040,
       "name": "All The Lilacs In Ohio",
       "url": "https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Rise Sun",
-        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 348849,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Rise Sun",
+        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 348849,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Rivers And Roads",
         "url": "https://open.spotify.com/album/7tPitSQcPX2drfsf4Uuw7F"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Firebound Road",
-        "url": "https://open.spotify.com/album/1z3HBD32gxoPdnRUFP0HXR"
-      },
-      "artists": [
-        {
-          "name": "Town Mountain",
-          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Firebound Road",
-      "url": "https://open.spotify.com/track/1IZKl9DScdfu56ssIfg87r"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "My Bluegrass Heart",
         "url": "https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR"
       },
@@ -1727,22 +1711,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Shenandoah",
-        "url": "https://open.spotify.com/album/1QFmpfj9SakhUQe7iWBIzu"
+        "name": "Firebound Road",
+        "url": "https://open.spotify.com/album/1z3HBD32gxoPdnRUFP0HXR"
       },
       "artists": [
         {
-          "name": "Hannah Read",
-          "url": "https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9"
-        },
-        {
-          "name": "Michael Starkey",
-          "url": "https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk"
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
         }
       ],
-      "duration_ms": 236386,
-      "name": "Shenandoah",
-      "url": "https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY"
+      "duration_ms": 215173,
+      "name": "Firebound Road",
+      "url": "https://open.spotify.com/track/1IZKl9DScdfu56ssIfg87r"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1783,6 +1763,26 @@
       "duration_ms": 229120,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/2vIaCDb7ZVDCtcReCMthKP"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Shenandoah",
+        "url": "https://open.spotify.com/album/1QFmpfj9SakhUQe7iWBIzu"
+      },
+      "artists": [
+        {
+          "name": "Hannah Read",
+          "url": "https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9"
+        },
+        {
+          "name": "Michael Starkey",
+          "url": "https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "Shenandoah",
+      "url": "https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY"
     },
     {
       "added_at": "2022-09-30 04:00:00",

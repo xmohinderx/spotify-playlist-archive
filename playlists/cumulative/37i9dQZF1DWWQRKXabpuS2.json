@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641: \u0641\u0624\u0627\u062f \u0639\u0628\u062f\u0627\u0644\u0648\u0627\u062d\u062f",
+  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u062f\u0631 \u0627\u0644\u0634\u0639\u064a\u0628\u064a",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "published_playlist_ids": [
     "4PSk8NVZJlLmYibT60mLzt"
@@ -381,6 +381,24 @@
       "duration_ms": 184513,
       "name": "Amina Haf",
       "url": "https://open.spotify.com/track/0Vj0ZTyPQIlRwOcbHZW6A4"
+    },
+    {
+      "album": {
+        "name": "An Hob",
+        "url": "https://open.spotify.com/album/2zLFbF01L9wYqm98OLTKZy"
+      },
+      "artists": [
+        {
+          "name": "Bader AlShuaibi",
+          "url": "https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "An Hob",
+      "url": "https://open.spotify.com/track/3QEJRUVij90qdzU1AObDZY"
     },
     {
       "album": {

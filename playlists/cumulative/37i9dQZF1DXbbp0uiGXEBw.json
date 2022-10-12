@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "C\u00f4 \u0110\u01a1n",
+        "url": "https://open.spotify.com/album/6QkdiY2GGYp07Re4ztE988"
+      },
+      "artists": [
+        {
+          "name": "Ai Phuong",
+          "url": "https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272864,
+      "name": "C\u00f4 \u0110\u01a1n",
+      "url": "https://open.spotify.com/track/0dxfg8dLCL3ox7qj8QmFaK"
+    },
+    {
+      "album": {
         "name": "c\u00f4 \u0111\u01a1n s\u1edbm t\u1ed1i",
         "url": "https://open.spotify.com/album/4qYvvuBK3FkOVg1Qw0liko"
       },
@@ -951,7 +969,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 266815,
       "name": "L\u1ed7i \u1ede Y\u00eau Th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/1s8AfdYyV8IWMeUAJyKR4S"

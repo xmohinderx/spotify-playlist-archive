@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Yunes LaGrintaa
 
-249 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+252 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Crack In Casa 24/7](https://open.spotify.com/track/35fUr9dMYSHsSI5hCjeklu) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Crack In Casa 24/7](https://open.spotify.com/album/37DP2uMZ4Rn1c33MOMzdzt) | 2:19 | 2022-09-08 | 2022-09-23 |
 | [Cucaracha](https://open.spotify.com/track/4h9MncHxnveRZ6NOEdslYL) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [SUL RADAR](https://open.spotify.com/album/5zutyRN7Mia7iC6Zq2Du6L) | 2:34 | 2022-07-14 | 2022-07-29 |
 | [Cugino](https://open.spotify.com/track/3gg5KTw2TP6CLiQKRRzN9o) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [Cugino](https://open.spotify.com/album/1JZEbWvE21FBzVtf4wFfSw) | 2:06 | 2022-05-12 | 2022-06-23 |
+| [Dal Dolore](https://open.spotify.com/track/1ZjXB8zCroH0K2D3HS3KYr) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw) | [Dal Dolore](https://open.spotify.com/album/1LQz5dOHJWA00wtDeuL2hp) | 2:48 | 2022-10-11 |  |
 | [Dark Days](https://open.spotify.com/track/5bip9BjmfwlOXJq6ji1JFk) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/4KLl1gfpWPK2orHkhyyAVH) | 2:39 | 2022-06-16 | 2022-07-22 |
 | [Dawg](https://open.spotify.com/track/59BWRUiUYhNxv7y8Ji6pXA) | [STT](https://open.spotify.com/artist/6c60C0NWReBTcF3GPLvjYY), [Julian Ross](https://open.spotify.com/artist/1zS6KfVgteM7pt8GvkNyKR) | [Dawg](https://open.spotify.com/album/3ungEzXZWgpVqIpfONaecE) | 2:28 | 2022-09-01 | 2022-09-23 |
 | [Dejavu](https://open.spotify.com/track/6bcT7alWnBZmk5Ke0wsAIj) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Dejavu](https://open.spotify.com/album/5qEPyzaTjIr9HRisws1uFm) | 2:47 | 2022-09-08 |  |
@@ -84,6 +85,7 @@
 | [Drillin'](https://open.spotify.com/track/5yMYtbypj4UNornVo4zwGf) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Drillin'](https://open.spotify.com/album/35RjfCOtW30zX04JiqxPMp) | 2:38 | 2022-05-10 | 2022-06-03 |
 | [DRUG DEALER](https://open.spotify.com/track/1VZMjXdmyH6WvBFJeIDuG1) | [AF6914](https://open.spotify.com/artist/2nSxU1GDMM5V87yXKVnGsz) | [DRUG DEALER](https://open.spotify.com/album/0DpRoF12BKXnso55BfjJYQ) | 2:17 | 2022-05-10 | 2022-06-23 |
 | [Ds Ep.8](https://open.spotify.com/track/4lnWGDZzX2zj8GreOGNhV7) | [Drillout](https://open.spotify.com/artist/2vCtOs0qQegutXqIuYzZgc), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Ds Ep.8](https://open.spotify.com/album/2ZV10RrQnYRFVqFtslTJJS) | 1:58 | 2022-06-09 | 2022-07-15 |
+| [Effetto](https://open.spotify.com/track/6WaLjJvWJOKOvObkVYI9eK) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [Effetto](https://open.spotify.com/album/2cYxdi5eLmxnfqBCBNwxbV) | 3:16 | 2022-10-11 |  |
 | [EGO](https://open.spotify.com/track/6i88tx7811AzFNDknwILat) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/0iJVjnO4uw4vTJImGTwyXb) | 2:51 | 2022-05-24 | 2022-07-22 |
 | [Entriamo d'abuso](https://open.spotify.com/track/26d8hSpEjm2snnNZNZXW9Y) | [Oro Bianco](https://open.spotify.com/artist/7ClSHMB7VFSKtsNNuS6x8u), [Darié Baby](https://open.spotify.com/artist/5WUPU4vX8WxHQzLreRXwLX) | [Entriamo d'abuso](https://open.spotify.com/album/7mW1GfBtSbbg57PTUi4Nvc) | 2:04 | 2022-07-21 | 2022-08-19 |
 | [Equipo](https://open.spotify.com/track/4Rkmo8hFBbqooJ2ZqsaDdM) | [Marlon](https://open.spotify.com/artist/7M7GtzszIlcS03qCa03oqh), [SEEKER](https://open.spotify.com/artist/0pEzJIVWyMgjuDM44DZ55A), [UFO](https://open.spotify.com/artist/4tzyI3h5baq5BVp6LayRuQ), [2nd world](https://open.spotify.com/artist/5WMWuJLN6grX3KQ42wKEZj) | [Equipo](https://open.spotify.com/album/74YFul3c3ygjXtYKnfmrhx) | 2:58 | 2022-05-26 | 2022-06-24 |
@@ -212,6 +214,7 @@
 | [Round \#1](https://open.spotify.com/track/6YhvuW3UM7wyGoZegel8hB) | [Lokita](https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp) | [Round \#1](https://open.spotify.com/album/6VxMRWN2d4rA5msVX5SIPN) | 2:27 | 2022-10-06 |  |
 | [RS6](https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [RS6](https://open.spotify.com/album/1g7JxBAsczHAacw7rFcayW) | 2:12 | 2022-08-25 |  |
 | [Salto nel vuoto](https://open.spotify.com/track/6XTkT4PPwwbg8sWWWSH8Lu) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Salto nel vuoto](https://open.spotify.com/album/4fUTP5dYBbYd0lraO7wwjv) | 3:11 | 2022-05-10 | 2022-06-10 |
+| [Sangue Amaro](https://open.spotify.com/track/02FIr9g30oCZSU2q8OuFZ1) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [Sangue Amaro](https://open.spotify.com/album/3y9hd1w6S3PzmX93mmFP4U) | 2:37 | 2022-10-11 |  |
 | [Sentimenti](https://open.spotify.com/track/7sJRzuQqgVClgfFlnQbmxO) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Sentimenti](https://open.spotify.com/album/4qzdxKWxQUzxtXAwqbWFBx) | 2:38 | 2022-05-10 | 2022-07-02 |
 | [SENTINELLE](https://open.spotify.com/track/4l1CHvnhxrktFLxAR34f8z) | [Piccolo Plug](https://open.spotify.com/artist/087NKpXhjsgavyDxM3vWzm) | [SENTINELLE](https://open.spotify.com/album/6oZY9U6bofUkhIXPzQ2nlJ) | 2:55 | 2022-05-10 | 2022-06-23 |
 | [Senza Invito](https://open.spotify.com/track/69He6CqCLPkym4XLGd2vOJ) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Wairaki](https://open.spotify.com/artist/7IB3VckCEheDZlvQxCDLvr) | [Senza Invito](https://open.spotify.com/album/1hmflQiiBLzPu016EDz5vN) | 3:13 | 2022-05-12 | 2022-05-27 |

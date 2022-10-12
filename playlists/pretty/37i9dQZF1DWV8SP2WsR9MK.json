@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 40927,
+  "num_followers": 41027,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0MTM2OCwwMDAwMDAwMDljYjdjODI2Mzk5MTViZjNjYzBhYWZiZDFjOWVhZjk4",
+  "snapshot_id": "MTY2NTA0MTM2OCwwMDAwMDAwMGQyMDk3YmUwZjcxMWQ4MDAzYzU5ZWY0Nzk1YTRmYjhj",
   "tracks": [
     {
       "added_at": "2022-10-06 07:29:28",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
         "name": "Kessel Plays Standards",
         "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 188333,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "added_at": "2022-10-06 07:29:28",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
+        "name": "The Genius Of The Electric Guitar",
+        "url": "https://open.spotify.com/album/4QIxeBZfEtZpUWFbOrMrjV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Christian",
+          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "I Found a New Baby",
+      "url": "https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
         "name": "Intermodulation",
         "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 290000,
       "name": "All Across The City",
       "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
-        "name": "The Genius Of The Electric Guitar",
-        "url": "https://open.spotify.com/album/4QIxeBZfEtZpUWFbOrMrjV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Christian",
-          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "I Found a New Baby",
-      "url": "https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh"
     },
     {
       "added_at": "2022-10-06 07:29:28",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
+      },
+      "artists": [
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Joachim Schoenecker",
+          "url": "https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
         "name": "Idlewild",
         "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 448413,
       "name": "Rumspringa",
       "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
-        "name": "Dialogues",
-        "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
-      },
-      "artists": [
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        },
-        {
-          "name": "Joachim Schoenecker",
-          "url": "https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
     },
     {
       "added_at": "2022-10-06 07:29:28",

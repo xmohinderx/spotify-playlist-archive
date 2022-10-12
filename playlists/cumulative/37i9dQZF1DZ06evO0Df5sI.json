@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 265266,
       "name": "Crawl",
       "url": "https://open.spotify.com/track/3VsFBlBhHKN9TpsvRjH8c7"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 211773,
       "name": "Goodbye Fire Island",
       "url": "https://open.spotify.com/track/11b8iIU8p1DnkrMaVipeSp"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 138693,
       "name": "I'm Dying Tomorrow",
       "url": "https://open.spotify.com/track/3KPa8afyEGV9CsBGVRiZWF"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 250266,
       "name": "Keep 'Em Coming",
       "url": "https://open.spotify.com/track/7Cs6qrf3bKvbD5mL9vKmhP"
@@ -944,6 +944,24 @@
     },
     {
       "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "Throw Me To The Lions",
+      "url": "https://open.spotify.com/track/13Gj4md0u6NbxORz9TiisU"
+    },
+    {
+      "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
       },
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "You've Got So Far To Go",
       "url": "https://open.spotify.com/track/03EV0UHtbLLZxRMk2k638B"

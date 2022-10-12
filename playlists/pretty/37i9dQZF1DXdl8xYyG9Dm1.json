@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=nOiYYMd5SSuw6cmc_LG3Dw\"> Black Sherif </a> ",
-  "num_followers": 101179,
+  "num_followers": 101304,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyMTk2NSwwMDAwMDAwMGYzNjZiZDhjOGYwMjhiNzNkMTU5ODhkYzFiYWVkZmQ0",
+  "snapshot_id": "MTY2NTEyMTk2NSwwMDAwMDAwMDdmZmQxMGEzYzE3NDEwMGY2MjI1NjFmNWEzZTRmMTc3",
   "tracks": [
     {
       "added_at": "2022-07-07 23:00:00",
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
-      "added_at": "2022-10-11 01:54:33",
+      "added_at": "2022-10-12 02:10:41",
       "album": {
         "name": "Back In Uni",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
@@ -421,10 +421,10 @@
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
     },
     {
-      "added_at": "2021-10-14 23:00:00",
+      "added_at": "2022-10-12 02:10:41",
       "album": {
-        "name": "Second Sermon",
-        "url": "https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C"
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 166147,
-      "name": "Second Sermon",
-      "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
+      "duration_ms": 172800,
+      "name": "45",
+      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -469,42 +469,6 @@
       "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
-      "added_at": "2022-08-05 04:04:48",
-      "album": {
-        "name": "Mabadiliko",
-        "url": "https://open.spotify.com/album/6IFsDy5C0kynOzSTMQVolo"
-      },
-      "artists": [
-        {
-          "name": "Octopizzo",
-          "url": "https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o"
-        },
-        {
-          "name": "Fadhilee Itulya",
-          "url": "https://open.spotify.com/artist/3iWzdkOgIDqZDiakNnnlig"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Mabadiliko",
-      "url": "https://open.spotify.com/track/0fEw1TI2CPzXs93EEKo0cl"
-    },
-    {
-      "added_at": "2022-10-11 01:54:33",
-      "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "45",
-      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
-    },
-    {
       "added_at": "2021-10-14 23:00:00",
       "album": {
         "name": "Green With Envy",
@@ -527,6 +491,42 @@
       "duration_ms": 216013,
       "name": "Who's True",
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Second Sermon",
+        "url": "https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 166147,
+      "name": "Second Sermon",
+      "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
+    },
+    {
+      "added_at": "2022-08-05 04:04:48",
+      "album": {
+        "name": "Mabadiliko",
+        "url": "https://open.spotify.com/album/6IFsDy5C0kynOzSTMQVolo"
+      },
+      "artists": [
+        {
+          "name": "Octopizzo",
+          "url": "https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o"
+        },
+        {
+          "name": "Fadhilee Itulya",
+          "url": "https://open.spotify.com/artist/3iWzdkOgIDqZDiakNnnlig"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Mabadiliko",
+      "url": "https://open.spotify.com/track/0fEw1TI2CPzXs93EEKo0cl"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -925,6 +925,38 @@
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
+      "added_at": "2022-09-30 06:04:35",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6sA74tgIX4A7qmcBTyYeV7"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 193507,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3v1o4wJ9lHcN1n2eztLJxg"
+    },
+    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "ANXIETY+",
@@ -967,38 +999,6 @@
       "duration_ms": 185196,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
-    },
-    {
-      "added_at": "2022-09-30 06:04:35",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6sA74tgIX4A7qmcBTyYeV7"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliqe",
-          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
-        },
-        {
-          "name": "25K",
-          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
-        },
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
-        },
-        {
-          "name": "MashBeatz",
-          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 193507,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/3v1o4wJ9lHcN1n2eztLJxg"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -1097,6 +1097,26 @@
       "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
     },
     {
+      "added_at": "2021-12-21 12:27:53",
+      "album": {
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
+      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+    },
+    {
       "added_at": "2021-10-14 23:00:00",
       "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
@@ -1119,26 +1139,6 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
-    },
-    {
-      "added_at": "2021-12-21 12:27:53",
-      "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
-      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -1209,6 +1209,26 @@
       "url": "https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm"
     },
     {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Love is War",
+        "url": "https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 121750,
+      "name": "Lord Protect My Steppings",
+      "url": "https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5"
+    },
+    {
       "added_at": "2022-02-17 23:00:00",
       "album": {
         "name": "Koobi",
@@ -1231,26 +1251,6 @@
       "duration_ms": 160418,
       "name": "Koobi",
       "url": "https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH"
-    },
-    {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Love is War",
-        "url": "https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq"
-      },
-      "artists": [
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 121750,
-      "name": "Lord Protect My Steppings",
-      "url": "https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -1361,6 +1361,22 @@
       "url": "https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a"
     },
     {
+      "added_at": "2021-11-25 23:02:00",
+      "album": {
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 132765,
+      "name": "4 Door Jeep",
+      "url": "https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso"
+    },
+    {
       "added_at": "2021-10-14 23:00:00",
       "album": {
         "name": "Yp & Azanti, Vol. 1",
@@ -1379,22 +1395,6 @@
       "duration_ms": 181874,
       "name": "Long Way from Home",
       "url": "https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA"
-    },
-    {
-      "added_at": "2021-11-25 23:02:00",
-      "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 132765,
-      "name": "4 Door Jeep",
-      "url": "https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso"
     }
   ],
   "unique_name": "No Wahala",

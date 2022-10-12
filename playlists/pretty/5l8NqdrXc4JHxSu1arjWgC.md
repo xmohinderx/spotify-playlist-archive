@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,701 likes - 656 songs - 1 day 20 hr 4 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,703 likes - 656 songs - 1 day 20 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -483,7 +483,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 473 | [That's All For Everyone](https://open.spotify.com/track/7pZ2G35GjXBfBHYBIvfvHx) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Just Tell Me That You Want Me: A Tribute To Fleetwood Mac](https://open.spotify.com/album/5SvR8CpXqz7afDba17EgN1) | 3:42 |
 | 474 | [South Of Reality](https://open.spotify.com/track/0yoFBb7Ndih88lRJSzkiku) | [The Claypool Lennon Delirium](https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b) | [South Of Reality](https://open.spotify.com/album/7ErIX3vunFAfsNJ8nAKkVo) | 3:27 |
 | 475 | [3's & 7's](https://open.spotify.com/track/63wsuMhok6GgcBRd2strGk) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL) | 3:34 |
-| 476 | [Everything You’ve Come To Expect](https://open.spotify.com/track/01M9XvRcT8hEOf6NOLBHew) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:13 |
+| 476 | [Everything You’ve Come To Expect](https://open.spotify.com/track/01M9XvRcT8hEOf6NOLBHew) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:13 |
 | 477 | [Amethyst Realm](https://open.spotify.com/track/7IPmmOkhYE1gJWMZQGBsCt) | [The Claypool Lennon Delirium](https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b) | [South Of Reality](https://open.spotify.com/album/7ErIX3vunFAfsNJ8nAKkVo) | 7:47 |
 | 478 | [Apeman \- 2014 Remastered Version](https://open.spotify.com/track/1NXUWyPJk5kO6DQJ5t7bDu) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola vs\. Powerman and the Moneygoround, Pt\. One + Percy \(Super Deluxe\)](https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse) | 3:53 |
 | 479 | [Comfort Zone](https://open.spotify.com/track/3V1sRkYY4jtSSiXoFTOPZj) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Manic Candid Episode](https://open.spotify.com/album/54R5CTHFKYvlFXL3nYjyvI) | 3:59 |
@@ -506,7 +506,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 496 | [Sunday Driver](https://open.spotify.com/track/7dNDyDsDdN2X2n0cWIon5e) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Sunday Driver / Now That You're Gone](https://open.spotify.com/album/0vOrIwTMeu6vTRRkBkdkoG) | 3:39 |
 | 497 | [The Boys Are Killing Me](https://open.spotify.com/track/0Wl33FzpvOf6SpMw0FfGd0) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 3:46 |
 | 498 | [Nova Baby](https://open.spotify.com/track/5S7kFUo496CoItemffWQb9) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:27 |
-| 499 | [Dracula Teeth](https://open.spotify.com/track/1x9EqJg2UOhlhDAaTUyOIZ) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 2:51 |
+| 499 | [Dracula Teeth](https://open.spotify.com/track/1x9EqJg2UOhlhDAaTUyOIZ) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 2:51 |
 | 500 | [The Book Lovers](https://open.spotify.com/track/4O76joQmZKoZm78s0vOHTJ) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/7kqQeOzeLJxSlQEQXyIkqH) | 4:49 |
 | 501 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 |
 | 502 | [Goodnight, P.C.C.](https://open.spotify.com/track/6rGuFgh4Dte5hyCq3dUx4C) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 5:24 |

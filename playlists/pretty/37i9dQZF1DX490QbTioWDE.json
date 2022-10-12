@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga & Marama.",
-  "num_followers": 516129,
+  "num_followers": 516314,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGIzMDIxYzU4NzY4MzA1ZmYzZDJkOWVkODllYzI1OWJi",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDIxMjg4NmZlZTgzMGNjNTA4ZDQ0ZjQyNGY0YjNjYTVi",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -467,22 +467,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "10 A\u00f1os Con Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
         },
         {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 236543,
-      "name": "La Mejor Version de M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu"
+      "duration_ms": 244900,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -503,22 +503,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
+        "name": "10 A\u00f1os Con Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
         },
         {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
-      "duration_ms": 244900,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
+      "duration_ms": 236543,
+      "name": "La Mejor Version de M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Adelantos (Live)",
-        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Marquez",
-          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
-        }
-      ],
-      "duration_ms": 239726,
-      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
-      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Luna En Capricornio",
         "url": "https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 179957,
       "name": "Luna En Capricornio",
       "url": "https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Adelantos (Live)",
+        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Marquez",
+          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
+        }
+      ],
+      "duration_ms": 239726,
+      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1079,30 +1079,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Todo de T\u00ed",
-        "url": "https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "El Joaco",
-          "url": "https://open.spotify.com/artist/126j2pVbpt1Ai1frvJzUeA"
-        }
-      ],
-      "duration_ms": 179855,
-      "name": "Todo de T\u00ed",
-      "url": "https://open.spotify.com/track/1DeyreZEMTeGKKPgSvzppL"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Fern\u00e9, Cola y Cuarteto: Los 24 Grandes del Cuarteto!!",
         "url": "https://open.spotify.com/album/4sXZ2L8IViN0Qrg9dxlewT"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 1500920,
       "name": "Fragmentos Enganchados, Pt. 2",
       "url": "https://open.spotify.com/track/5tyaPG41AJwJmdv2lS7H1c"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Todo de T\u00ed",
+        "url": "https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "El Joaco",
+          "url": "https://open.spotify.com/artist/126j2pVbpt1Ai1frvJzUeA"
+        }
+      ],
+      "duration_ms": 179855,
+      "name": "Todo de T\u00ed",
+      "url": "https://open.spotify.com/track/1DeyreZEMTeGKKPgSvzppL"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Eran dos locos de amor",
-        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Eran dos locos de amor",
-      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 178816,
       "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Eran dos locos de amor",
+        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+        }
+      ],
+      "duration_ms": 169496,
+      "name": "Eran dos locos de amor",
+      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "El 22",
+        "url": "https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 480888,
+      "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
+      "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 242950,
       "name": "Perfecto Idiota",
       "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "El 22",
-        "url": "https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 480888,
-      "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
-      "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Cuarte Party",
-        "url": "https://open.spotify.com/album/71ThIp5nc4WB4v7el7IlGA"
+        "name": "Un Nuevo Tiempo",
+        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
       },
       "artists": [
         {
-          "name": "Tyago Griffo",
-          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
         }
       ],
-      "duration_ms": 572488,
-      "name": "Cuarte Party",
-      "url": "https://open.spotify.com/track/0J4qiHlBwF77wr5lxufr4Q"
+      "duration_ms": 136318,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Un Nuevo Tiempo",
-        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
+        "name": "Cuarte Party",
+        "url": "https://open.spotify.com/album/71ThIp5nc4WB4v7el7IlGA"
       },
       "artists": [
         {
-          "name": "Ale Ceberio",
-          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
         }
       ],
-      "duration_ms": 136318,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
+      "duration_ms": 572488,
+      "name": "Cuarte Party",
+      "url": "https://open.spotify.com/track/0J4qiHlBwF77wr5lxufr4Q"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Pleno",
+        "url": "https://open.spotify.com/album/0ZSwCQoWXkBeDIGphjawWr"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Vigencia",
         "url": "https://open.spotify.com/album/1Qjyr4cWyDWLStIviRmhXw"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 228048,
       "name": "D\u00f3nde",
       "url": "https://open.spotify.com/track/695KiRLxI1e49JKP5WCh22"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Espectacular Monada",
-        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Dame un Poco Mas",
-      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
     }
   ],
   "unique_name": "100% Cuarteto",

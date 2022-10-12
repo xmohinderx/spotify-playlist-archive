@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 250973,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/5FKnuwsKf7YFpmhA5Wnl0q"
@@ -1679,6 +1679,24 @@
       "duration_ms": 235653,
       "name": "Infinity - Piano Version",
       "url": "https://open.spotify.com/track/1UigUkLa6PNiHZPuh16Q22"
+    },
+    {
+      "album": {
+        "name": "Songs of Sonder",
+        "url": "https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252657,
+      "name": "Innocence and Sadness",
+      "url": "https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw"
     },
     {
       "album": {

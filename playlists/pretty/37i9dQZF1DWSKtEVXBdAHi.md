@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,074 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,072 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 61 | [All I Wanna Do](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [All I Wanna Do](https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm) | 3:14 |
 | 62 | [Living \(feat\. Alex Clare\)](https://open.spotify.com/track/63Qco1ncI5U4qEUnxL1DsH) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl) | [Living \(feat\. Alex Clare\)](https://open.spotify.com/album/0dHBCgs7zfH2mQXHTghume) | 3:17 |
 | 63 | [FOMO](https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Sylo Songs](https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR) | 2:07 |
-| 64 | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/track/4cTo1wbzGiVJJiCG3BdZ64) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Eskeemo](https://open.spotify.com/artist/6c1KIrxttQDU6A31FwNlXg) | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/album/3GlialhdlVuLTrU3BGF4aj) | 2:24 |
-| 65 | [Hotel Walls](https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:26 |
+| 64 | [Hotel Walls](https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:26 |
+| 65 | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/track/4cTo1wbzGiVJJiCG3BdZ64) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Eskeemo](https://open.spotify.com/artist/6c1KIrxttQDU6A31FwNlXg) | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/album/3GlialhdlVuLTrU3BGF4aj) | 2:24 |
 | 66 | [Blinding Lights](https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blinding Lights](https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD) | 2:10 |
 | 67 | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH) | 3:11 |
 | 68 | [Lion](https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lion](https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [We Were Young](https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Were Young](https://open.spotify.com/album/3kZ0FRj4CvEhzvfAws1YfJ) | 3:34 |
 | 80 | [Walk Me Home \- R3HAB Remix](https://open.spotify.com/track/7wJFBZXG4AFQS9YwBQLkqL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Walk Me Home \(R3HAB Remix\)](https://open.spotify.com/album/7dcv4xAh00fkPQZrOMNYly) | 2:39 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGIxNDQ1NzZlMjI0Y2Y2NThiZTIyYTY0NDk4ZTNjODBm`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGJmODYyZTk5NDJmZTAzZDA1NDE3OGQxY2Q4Nzc3ZjU4`

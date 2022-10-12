@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,306 likes - 42 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,816 likes - 43 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,6 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 39 | [Take It Back](https://open.spotify.com/track/325toqbCzE1g1pYIED7U4C) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 6:12 |
 | 40 | [A Great Day For Freedom 2022](https://open.spotify.com/track/08ZP6LzduiKEURYbNex8SH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/album/6A3OZcFfaYhUINlQU7McWU) | 4:07 |
 | 41 | [Let There Be More Light](https://open.spotify.com/track/5xUz3xvyPPrNfnBrh9IOZa) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Saucerful of Secrets](https://open.spotify.com/album/2vnJKtGjZXRUg0mYPZ3HGH) | 5:36 |
-| 42 | [Interstellar Overdrive](https://open.spotify.com/track/3xyTufSSGLP3oZnomceAVW) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 9:40 |
+| 42 | [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 |
+| 43 | [Interstellar Overdrive](https://open.spotify.com/track/3xyTufSSGLP3oZnomceAVW) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 9:40 |
 
-Snapshot ID: `Mjc3NTY4MTYsMDAwMDAwMDBmYzk3Y2Y5MzI5NTc2YmNlOTk4NjlhM2EzZGQ1NzNiOQ==`
+Snapshot ID: `Mjc3NTgyNjEsMDAwMDAwMDBlNjEwZDZmZTE1ODgwNGIyYzE5Y2MwM2I3MGRlM2FmOQ==`

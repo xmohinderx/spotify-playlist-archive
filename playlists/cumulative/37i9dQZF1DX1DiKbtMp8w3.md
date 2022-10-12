@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-230 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
+231 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,11 +181,12 @@
 | [Tell me](https://open.spotify.com/track/2kuxMt9uBIJ63li6NQWhlU) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 2:43 | 2022-08-12 |  |
 | [The End of the Ocean](https://open.spotify.com/track/1SmuDqAn0DIjmdtUhICTRv) | [JACKINGCONG](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Moondance](https://open.spotify.com/album/7F6xABbnn5TXMJQfxYAnuL) | 3:07 | 2022-09-06 |  |
 | [The Taste of Pomegranate](https://open.spotify.com/track/3t9vPkoROil4XsRCGxZ4vc) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Capital Disease](https://open.spotify.com/album/0glXbKYknQlnd2FnxsxWez) | 8:11 | 2022-08-25 |  |
+| [The time of walking on remembrance](https://open.spotify.com/track/0LSmb1eo894EJ7eIWPaAgQ) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Separation Anxiety](https://open.spotify.com/album/4qQ0t1Feq5AjdT8tw1C73h) | 5:12 | 2022-10-11 |  |
 | [The Wave](https://open.spotify.com/track/0ZlIv0GSqYEKQK5Zf5cZTM) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Summer Plumage](https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq) | 4:44 | 2022-08-12 |  |
 | [THORNAPPLE\(쏜애플\) \- Stage Comment 1](https://open.spotify.com/track/6sAxXZbYnu8zdLJUoaRF39) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:39 | 2022-10-06 |  |
 | [THORNAPPLE\(쏜애플\) \- Stage Comment 2](https://open.spotify.com/track/7E8Z0oOsZHlCmkyBJg6iZc) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 1:06 | 2022-10-06 |  |
 | [Time Out](https://open.spotify.com/track/3NW79QWH1WCQdIofrvM1Ph) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:44 | 2022-10-06 |  |
-| [Time Walking on Memories](https://open.spotify.com/track/6XkrfYmgPGSvgufoivTQgj) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let’s Part](https://open.spotify.com/album/1gtx8gQjltBxIWjmk87QpB) | 6:29 | 2022-10-07 |  |
+| [Time Walking on Memories](https://open.spotify.com/track/6XkrfYmgPGSvgufoivTQgj) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let’s Part](https://open.spotify.com/album/1gtx8gQjltBxIWjmk87QpB) | 6:29 | 2022-10-07 | 2022-10-12 |
 | [Tunnel \(With KARDI\)](https://open.spotify.com/track/2sa1g3kg5YZ38ljNXgka0R) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9), [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Bulgasal: Immortal Souls \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/5EihymcBwn2WRu1RQ7RxW9) | 3:59 | 2022-09-06 |  |
 | [Turn It Up](https://open.spotify.com/track/6wFKwkqFmB3SJcJ7dCodMp) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Electric Jungle](https://open.spotify.com/album/1aIyeNpu0Z2tKtOfIjSZp0) | 0:59 | 2022-08-12 |  |
 | [Twilight](https://open.spotify.com/track/6cVJX9UtgpKipNUCjpPJG8) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Twilight](https://open.spotify.com/album/4JMRCWEQ9RGYs1ta3YWU5c) | 4:43 | 2022-08-12 |  |

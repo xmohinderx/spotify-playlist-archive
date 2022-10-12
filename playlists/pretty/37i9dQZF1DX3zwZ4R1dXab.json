@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
-  "num_followers": 855,
+  "num_followers": 878,
   "original_name": "PAUSE: Anxiety",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMGNmOTU3YzY5MTQ0NTM0ZTA3NjQ2N2JjYzVlOWJiMWI0",
+  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMGVkYWY2MjkyODhjOTUwNDE2ZjkxY2ZkY2YzNDFmYzIy",
   "tracks": [
     {
       "added_at": "2022-09-15 11:18:16",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
-      },
-      "artists": [
-        {
-          "name": "Eva Slott",
-          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 248210,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
+      },
+      "artists": [
+        {
+          "name": "Eva Slott",
+          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Light in the Mist",
-        "url": "https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU"
-      },
-      "artists": [
-        {
-          "name": "Anna Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw"
-        }
-      ],
-      "duration_ms": 240099,
-      "name": "Light in the Mist",
-      "url": "https://open.spotify.com/track/4Be0A7S5hA8MvzB7rbFuHc"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Persistence",
         "url": "https://open.spotify.com/album/6orrmY7UOM4QMlFLnFwobd"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 166487,
       "name": "Persistence",
       "url": "https://open.spotify.com/track/3ZAlpXJWeKniBrqSMffs0j"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Light in the Mist",
+        "url": "https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU"
+      },
+      "artists": [
+        {
+          "name": "Anna Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw"
+        }
+      ],
+      "duration_ms": 240099,
+      "name": "Light in the Mist",
+      "url": "https://open.spotify.com/track/4Be0A7S5hA8MvzB7rbFuHc"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd"
-      },
-      "artists": [
-        {
-          "name": "Ferdinando Zetticci",
-          "url": "https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O"
-        }
-      ],
-      "duration_ms": 170124,
-      "name": "Salve",
-      "url": "https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/1qN9ZsA6ELL3C5dOOdwrTf"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "On the Stairs",
-        "url": "https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu"
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd"
       },
       "artists": [
         {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+          "name": "Ferdinando Zetticci",
+          "url": "https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O"
         }
       ],
-      "duration_ms": 141818,
-      "name": "On the Stairs",
-      "url": "https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0"
+      "duration_ms": 170124,
+      "name": "Salve",
+      "url": "https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -767,6 +751,22 @@
       "duration_ms": 121500,
       "name": "Sleeping Beauty",
       "url": "https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "On the Stairs",
+        "url": "https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "On the Stairs",
+      "url": "https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx"
-      },
-      "artists": [
-        {
-          "name": "Oliver \u00c9vilo",
-          "url": "https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y"
-        }
-      ],
-      "duration_ms": 126750,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/041EqVueOI4pszWGJfKerh"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Pragmatique",
         "url": "https://open.spotify.com/album/4Ex97kKG6Boz9EYF6hivhc"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 120636,
       "name": "Pragmatique",
       "url": "https://open.spotify.com/track/5lLjOkaJ7pqx2qOS7bN22M"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx"
+      },
+      "artists": [
+        {
+          "name": "Oliver \u00c9vilo",
+          "url": "https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y"
+        }
+      ],
+      "duration_ms": 126750,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/041EqVueOI4pszWGJfKerh"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Desiderium",
-        "url": "https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU"
-      },
-      "artists": [
-        {
-          "name": "Christine Papst",
-          "url": "https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Desiderium",
-      "url": "https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Space And Time",
         "url": "https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 109733,
       "name": "Calm",
       "url": "https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU"
+      },
+      "artists": [
+        {
+          "name": "Christine Papst",
+          "url": "https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Desiderium",
+      "url": "https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg"
     },
     {
       "added_at": "2022-09-15 11:18:16",

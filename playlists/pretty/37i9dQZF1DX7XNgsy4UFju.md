@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Alvvays
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,267 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,260 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 43 | [One Of A Million](https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of A Million](https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG) | 3:36 |
 | 44 | [PIRATE RADIO\*](https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PIRATE RADIO\*](https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3) | 3:09 |
 | 45 | [Space and Time](https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Space and Time](https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n) | 3:32 |
-| 46 | [BREAK ME DOWN](https://open.spotify.com/track/3View4Eq2QWlXVrOME2j39) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:13 |
+| 46 | [BREAK ME DOWN](https://open.spotify.com/track/3View4Eq2QWlXVrOME2j39) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:11 |
 | 47 | [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 |
 | 48 | [Wish](https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 3:01 |
 | 49 | [Cowboy Gangster Politician](https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt) | 3:52 |

@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 104747,
+  "num_followers": 104774,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMGUwNDUzOTBlMDNhNmEwMzZlZDFiZGY5N2U1MzA4YjEx",
+  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDlkNTIwNmE1OGYxY2MzOWJiOTU5ODFiMWMzZGVlZWU1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -781,26 +781,6 @@
       "url": "https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Too Much (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 215397,
-      "name": "Too Much (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Abhi vs The Universe",
@@ -819,6 +799,26 @@
       "duration_ms": 112762,
       "name": "Bag",
       "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Too Much (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 215397,
+      "name": "Too Much (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
       "added_at": "2022-07-30 02:24:25",

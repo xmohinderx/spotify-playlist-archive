@@ -4322,6 +4322,24 @@
     },
     {
       "album": {
+        "name": "Astrosat",
+        "url": "https://open.spotify.com/album/3P1lcWQ2sc7RGGiY4nQuL1"
+      },
+      "artists": [
+        {
+          "name": "Applefish",
+          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295714,
+      "name": "Into the Aether",
+      "url": "https://open.spotify.com/track/6YbO0zdg4pPK5wYOA3Q5Ij"
+    },
+    {
+      "album": {
         "name": "Into The Blue",
         "url": "https://open.spotify.com/album/2pA1qgtYKBjH83o5z4ZELD"
       },
@@ -9259,7 +9277,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 320933,
       "name": "Underwater Lament",
       "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"

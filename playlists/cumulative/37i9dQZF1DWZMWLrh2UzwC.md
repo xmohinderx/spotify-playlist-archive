@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Charlie Puth
 
-3,408 songs - 7 day 19 hr 32 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
+3,409 songs - 7 day 19 hr 36 min - [published](https://open.spotify.com/playlist/0N7RJ8Z6HROviqzRpgPKEn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Always On My Mind](https://open.spotify.com/track/4sWH0Fhl1a6yBCXnYm73Jp) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH1](https://open.spotify.com/album/62XwEYC2iJIX37oZlJbsvi) | 2:44 | 2022-01-06 | 2022-01-14 |
 | [AM Gold](https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [AM Gold](https://open.spotify.com/album/1zTCggliz6km8kM63FIqI9) | 2:49 | 2022-02-17 | 2022-02-25 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-17 | 2022-02-25 |
-| [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [The Golden Dregs](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 | 2022-10-06 |  |
+| [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 | 2022-10-06 |  |
 | [American Dream](https://open.spotify.com/track/5fnYDXLhFOioudAeiQGOPD) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [American Dream](https://open.spotify.com/album/0ySQ4Viqi1pDRZEC3Wwx1z) | 2:40 | 2022-03-10 | 2022-03-18 |
 | [American Psycho \(with Mae Muller feat\. Trippie Redd\)](https://open.spotify.com/track/32il27dOrLpIru8Evp4Pu7) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [American Psycho \(with Mae Muller feat\. Trippie Redd\)](https://open.spotify.com/album/6iB6SNSkqxjN65t5tBETcp) | 2:33 | 2022-07-28 | 2022-08-05 |
 | [Amnesia \(with Nightly\)](https://open.spotify.com/track/7FBtH4DLSGoURtst3KHcTA) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Digital Dreamscape](https://open.spotify.com/album/6lUpam3soOFv53wKbC1KaS) | 3:01 | 2022-05-12 | 2022-05-20 |
@@ -2728,6 +2728,7 @@
 | [Survived Suffering](https://open.spotify.com/track/2GWByDDwmO0bhBlXfcHLGX) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Survived Suffering](https://open.spotify.com/album/3vVo5zWIwoMUjcn9uwUG39) | 2:57 | 2022-06-09 | 2022-06-17 |
 | [SUSTENTO](https://open.spotify.com/track/2N2zdSWXytUAjziN6LJWFw) | [K\-Clique](https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh) | [SUSTENTO](https://open.spotify.com/album/0Agoz3tn21HjcaPo6gZmZW) | 3:00 | 2022-03-31 | 2022-04-08 |
 | [SUTERA](https://open.spotify.com/track/3kDvYWOTRzs5dEGKRsCizB) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [SUTERA](https://open.spotify.com/album/2apVqruZkI2V9EQheYcjzp) | 3:18 | 2022-07-28 | 2022-08-05 |
+| [Suzie](https://open.spotify.com/track/7KzZ1f667FYKudSIst9paz) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Suzie](https://open.spotify.com/album/6uAV69hWf44gJa8BcLKZFm) | 3:40 | 2022-10-06 |  |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-30 | 2022-10-07 |
 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 | 2022-08-04 | 2022-08-12 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-06 |  |

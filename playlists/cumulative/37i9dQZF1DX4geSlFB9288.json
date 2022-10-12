@@ -1100,6 +1100,24 @@
     },
     {
       "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127464,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte"
+    },
+    {
+      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/4FV4yInzGNhC6iSh1kX1qF"
       },
@@ -1923,7 +1941,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 216539,
       "name": "Fear",
       "url": "https://open.spotify.com/track/4rHfpAN2CK3H6eRWd7j7E0"

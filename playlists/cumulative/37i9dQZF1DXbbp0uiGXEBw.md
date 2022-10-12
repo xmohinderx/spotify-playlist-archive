@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Ái Phương
 
-112 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
+113 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Có Một Người Từng Là Tất Cả](https://open.spotify.com/track/0zvG8nb0KNKhNUS1cIn4MV) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Có Một Người Từng Là Tất Cả](https://open.spotify.com/album/2m0ag1i8rTNo1hRqsnwBhZ) | 4:59 | 2021-12-07 | 2022-07-01 |
 | [Có Những Yêu Thương Nào](https://open.spotify.com/track/3dqeOJby9bSAZ6Bxo12HFh) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s), [Huỳnh Thanh Bình](https://open.spotify.com/artist/3cllIHis9we6lup5Rb3SjT) | [The Singer](https://open.spotify.com/album/6mqV4lo8LrZhDS3NzjVLP5) | 3:07 | 2022-04-06 | 2022-05-27 |
 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 | 2022-10-05 |  |
+| [Cô Đơn](https://open.spotify.com/track/0dxfg8dLCL3ox7qj8QmFaK) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Cô Đơn](https://open.spotify.com/album/6QkdiY2GGYp07Re4ztE988) | 4:32 | 2022-10-11 |  |
 | [cô đơn sớm tối](https://open.spotify.com/track/6nwPpjXk97fYF2aOUq2fcp) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [cô đơn sớm tối](https://open.spotify.com/album/4qYvvuBK3FkOVg1Qw0liko) | 4:21 | 2021-12-07 | 2021-12-31 |
 | [Cầu Hôn \- Happy Version](https://open.spotify.com/track/4p0oGfPJqrrmdBC2GG6iK2) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 4:04 | 2021-12-07 |  |
 | [Da Lau Roi](https://open.spotify.com/track/6SiVDtUuESkBzjUl2raZkN) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Da Lau Roi](https://open.spotify.com/album/4BIytzT0MGjXs8nfrkF2FO) | 4:10 | 2021-12-07 | 2022-05-20 |
@@ -56,7 +57,7 @@
 | [Liệu Chân Thành Có Đổi Được Chân Tình](https://open.spotify.com/track/6N877oVBaZveFGDvBIVlXm) | [Huyền Tâm Môn](https://open.spotify.com/artist/5udW05zLTeswVyS7fTHdlc) | [Liệu Chân Thành Có Đổi Được Chân Tình](https://open.spotify.com/album/0XDBxevzLBe2wT8YOO6GcW) | 6:30 | 2021-12-07 | 2022-04-07 |
 | [Love Rosie](https://open.spotify.com/track/1WRTkAAByYdNhoTLIf49bV) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Love Rosie](https://open.spotify.com/album/2YMZpcfL4mTkCXngmLaPBH) | 4:18 | 2022-06-01 | 2022-06-08 |
 | [Lâu Lâu Nhắc Lại](https://open.spotify.com/track/5B66uVtd4X6Tls9I2VQm4N) | [Ha Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL), [Khói](https://open.spotify.com/artist/3FZ4GX2mWNn7XElse3fQWd) | [Lâu Lâu Nhắc Lại](https://open.spotify.com/album/6RLMsEvmNeILizkH0RRNQ0) | 4:30 | 2022-09-27 |  |
-| [Lỗi Ở Yêu Thương](https://open.spotify.com/track/1s8AfdYyV8IWMeUAJyKR4S) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Lỗi Ở Yêu Thương](https://open.spotify.com/album/0EBXI8fCIpcocbLG88lDzt) | 4:26 | 2022-10-04 |  |
+| [Lỗi Ở Yêu Thương](https://open.spotify.com/track/1s8AfdYyV8IWMeUAJyKR4S) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Lỗi Ở Yêu Thương](https://open.spotify.com/album/0EBXI8fCIpcocbLG88lDzt) | 4:26 | 2022-10-04 | 2022-10-12 |
 | [Lỗi Ở Yêu Thương](https://open.spotify.com/track/2Wdkr6L7CxdSH5C2HRliEP) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Lỗi Ở Yêu Thương](https://open.spotify.com/album/66GdlFHolfWr4mu6ZYZb2b) | 4:26 | 2021-12-07 | 2022-04-07 |
 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0) | 3:34 | 2022-07-24 |  |
 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/2EMbVMhUtYNfuAhTi9HvBk) | [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/7oZP3YD6tt4RAreNqTsjGv) | 3:34 | 2021-12-07 | 2022-07-29 |

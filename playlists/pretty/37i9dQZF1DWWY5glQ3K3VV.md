@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Rhove
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,363 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,419 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 41 | [Baby \(with J Balvin\)](https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:13 |
 | 42 | [SENZA RUMORE](https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:49 |
 | 43 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
-| 44 | [No y No](https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No y No](https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4) | 4:15 |
-| 45 | [PLAYA](https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [PLAYA](https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE) | 2:34 |
+| 44 | [PLAYA](https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [PLAYA](https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE) | 2:34 |
+| 45 | [No y No](https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No y No](https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4) | 4:15 |
 | 46 | [Lento](https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl) | [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Lento](https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P) | 2:42 |
 | 47 | [BlaBlaBla](https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [BlaBlaBla](https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7) | 1:53 |
-| 48 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:21 |
-| 49 | [PULL UP \(feat\. Big P\)](https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [IL MINORENNE + BASTARDO](https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE) | 2:46 |
+| 48 | [PULL UP \(feat\. Big P\)](https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [IL MINORENNE + BASTARDO](https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE) | 2:46 |
+| 49 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:21 |
 | 50 | [HO PAURA DI USCIRE 2 \- prod\. Mace](https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:57 |
 | 51 | [Corso Europa](https://open.spotify.com/track/5uzsoxwEGHQe1xcUTrn55e) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Corso Europa](https://open.spotify.com/album/0xrJZ8UIzLxx93BrOXLusE) | 2:12 |
 | 52 | [181](https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 79 | [Serio \(feat\. Capo Plaza\)](https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Serio](https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3) | 3:38 |
 | 80 | [Italiano Anthem](https://open.spotify.com/track/4fF0PqNas0SQSQnOyAsaeG) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:15 |
 
-Snapshot ID: `MTY2MTUxNzM0MiwwMDAwMDAwMDJjZmI4OGU2MzY2NTYxMGFkMTY1OWVlMmMzODkwNGNj`
+Snapshot ID: `MTY2MTUxNzM0MiwwMDAwMDAwMDQ2MWQzN2VhODgzNzVmMmJhZjBiNmUyNGE2NWExYWZm`

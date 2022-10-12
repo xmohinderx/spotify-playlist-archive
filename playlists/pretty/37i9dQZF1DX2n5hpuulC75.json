@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 241099,
+  "num_followers": 241146,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGEyZWFlZTkwMDkyNjQwYmJmZjlmZmQyYjczZDg3YWFm",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDI4ZGIwZGQyNGJlZmExZDQ5MDRhMWVkNzQ0ZDNmYTNh",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -679,6 +679,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Self Edit",
+        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
+      },
+      "artists": [
+        {
+          "name": "Vesce",
+          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Zender",
+      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Naps",
         "url": "https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 189445,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Self Edit",
-        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
-      },
-      "artists": [
-        {
-          "name": "Vesce",
-          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Zender",
-      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -763,22 +763,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub"
-      },
-      "artists": [
-        {
-          "name": "Drinker",
-          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
-        }
-      ],
-      "duration_ms": 339921,
-      "name": "Fragment II",
-      "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Island -EP",
         "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
       },
@@ -791,6 +775,26 @@
       "duration_ms": 185758,
       "name": "Together Alone",
       "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Homegrown (Remixes)",
+        "url": "https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        },
+        {
+          "name": "Empty Woods",
+          "url": "https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Homegrown - Empty Woods Remix",
+      "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -815,22 +819,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Homegrown (Remixes)",
-        "url": "https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt"
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub"
       },
       "artists": [
         {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        },
-        {
-          "name": "Empty Woods",
-          "url": "https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM"
+          "name": "Drinker",
+          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Homegrown - Empty Woods Remix",
-      "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
+      "duration_ms": 339921,
+      "name": "Fragment II",
+      "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
-      },
-      "artists": [
-        {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "VALIS",
@@ -919,6 +903,22 @@
       "duration_ms": 198958,
       "name": "Echo Park",
       "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
+      },
+      "artists": [
+        {
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "They Came Along",
-        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
       },
       "artists": [
         {
-          "name": "Haulm",
-          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
+          "name": "Hazey Eyes",
+          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
         }
       ],
-      "duration_ms": 357894,
-      "name": "They Came Along",
-      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
+      "duration_ms": 145174,
+      "name": "Our Story",
+      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
     }
   ],
   "unique_name": "Mellow Mood",

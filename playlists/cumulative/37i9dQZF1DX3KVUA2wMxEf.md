@@ -4,7 +4,7 @@
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-75 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/20tmJ1BJdJTTUlBOfl3Mrz)
+76 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/20tmJ1BJdJTTUlBOfl3Mrz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [Con Vos](https://open.spotify.com/track/0UYtcbHyTJYuWLTHBx9GGe) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Vibrasound](https://open.spotify.com/album/1x5SELdr0eqHfNDMsMJnv6) | 5:16 | 2021-12-14 |  |
 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 | 2021-12-14 |  |
 | [Cuando Estoy Con Vos](https://open.spotify.com/track/64ibxIzfWFYM2cUTaFyTRb) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Con Permisito](https://open.spotify.com/album/2L83bqcJ6WfhoWK1zoThRF) | 5:17 | 2021-12-14 |  |
-| [Cuando Pienso en Ti](https://open.spotify.com/track/0ikGQ95Lg2PVIasuhnzqkb) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko) | [Tierra](https://open.spotify.com/album/2zU5UlskfUY62O4i38aU3b) | 5:19 | 2022-02-22 |  |
+| [Cuando Pienso en Ti](https://open.spotify.com/track/0ikGQ95Lg2PVIasuhnzqkb) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko) | [Tierra](https://open.spotify.com/album/2zU5UlskfUY62O4i38aU3b) | 5:19 | 2022-02-22 | 2022-10-12 |
 | [Cuando Pienso en Ti](https://open.spotify.com/track/6bk08yC2wyEF8P4o1fcYkw) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko) | [Tierra](https://open.spotify.com/album/7KGUoRC4gZdPm5L6elVviz) | 5:19 | 2021-12-14 | 2022-07-29 |
+| [Cuando Pienso en Ti](https://open.spotify.com/track/6d49mKNcJT2426oYiC09gJ) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko) | [Tierra](https://open.spotify.com/album/4mbl2aKs7pes6EKvInIsLL) | 5:19 | 2022-02-22 |  |
 | [De Antes](https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 5:04 | 2021-12-14 |  |
 | [Distancia y Ficción](https://open.spotify.com/track/6YZFu1qIZA9o8ryEeoCVpl) | [Tarará](https://open.spotify.com/artist/3pOCFYJe0tWqFlX7XqF4cn) | [Distancia y Ficción](https://open.spotify.com/album/3dpycFGnz2H4v4CGOHs1kO) | 2:15 | 2021-12-14 |  |
 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 | 2021-12-14 |  |

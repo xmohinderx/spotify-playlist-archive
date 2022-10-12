@@ -261,6 +261,28 @@
     {
       "album": {
         "name": "Planet Pop",
+        "url": "https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3"
+      },
+      "artists": [
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        },
+        {
+          "name": "Pete Konemann",
+          "url": "https://open.spotify.com/artist/0PEfbjTw85CAN5G0lz9n3p"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "Around the World (La La La La La) - Radio Version",
+      "url": "https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB"
+    },
+    {
+      "album": {
+        "name": "Planet Pop",
         "url": "https://open.spotify.com/album/42VmhABPuAF8lb26CHUFIl"
       },
       "artists": [
@@ -279,28 +301,6 @@
       "duration_ms": 215506,
       "name": "Around the World (La La La La La) - Radio Version",
       "url": "https://open.spotify.com/track/6inVHhmG2qEhwFR2eiWXjH"
-    },
-    {
-      "album": {
-        "name": "Planet Pop",
-        "url": "https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3"
-      },
-      "artists": [
-        {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
-        },
-        {
-          "name": "Peter K\u00f6nemann",
-          "url": "https://open.spotify.com/artist/1SSMgwqlrkQm2Hcu6cZYcm"
-        }
-      ],
-      "date_added": "2022-03-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214533,
-      "name": "Around the World (La La La La La) - Radio Version",
-      "url": "https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB"
     },
     {
       "album": {

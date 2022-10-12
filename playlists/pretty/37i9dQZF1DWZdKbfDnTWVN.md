@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: Boutross
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,164 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,176 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 31 | [Feelin' It](https://open.spotify.com/track/1KqtoMNOZbvsiB0K7ZWiHp) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Feelin' It](https://open.spotify.com/album/1tYGnwCO1uFu49hkYKK2nc) | 2:54 |
 | 32 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 |
 | 33 | [Thao Moja](https://open.spotify.com/track/1PO7W6fuOlFqM7bdNhzN1q) | [Hiribae](https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3), [DEZ](https://open.spotify.com/artist/3msuv9fbuApqt9E4cJ6HWv) | [Thao Moja](https://open.spotify.com/album/0BJkuk75Yj4gVz11P8ckuM) | 2:39 |
-| 34 | [Wasp](https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [BIGGS](https://open.spotify.com/album/4pxNzFrgUzRCJupYUXjs8y) | 3:20 |
+| 34 | [Wasp](https://open.spotify.com/track/76TeUkPnBIKQuj3aNgSvNn) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs](https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD) | 3:22 |
 | 35 | [Day In The Life](https://open.spotify.com/track/4ZO9Y99uojl291TjD2U0eJ) | [JackyBoyD](https://open.spotify.com/artist/6RqBs6Cc37m6dBDYfUlmoC) | [Day In The Life](https://open.spotify.com/album/5YHWe62ygI6WMaBqGb1rOk) | 3:06 |
 | 36 | [Shetani 1](https://open.spotify.com/track/7cLVeJHt6Liw5HRfDSma5Q) | [Jodye Faneto](https://open.spotify.com/artist/3v6SQTs83vlDVAIcQgs1r6) | [Shetani 1](https://open.spotify.com/album/5vuN0k9yJlWiiqFh3Mbgo3) | 2:31 |
 | 37 | [GVNG](https://open.spotify.com/track/2x0IbiX2uIrA3rH8G3Nzb3) | [Bout Paper Boyz](https://open.spotify.com/artist/2EXPwSRAffYH1zNCalvcaB), [TwennyEights](https://open.spotify.com/artist/6wsz9QSirpcHgvkZ2Huhv0), [BoutPaperMasey](https://open.spotify.com/artist/7u408StdmIpsqxET0fm3dW) | [GVNG](https://open.spotify.com/album/5AUM8rsUTPiTldUtH7k0ux) | 1:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [PREE](https://open.spotify.com/track/0voJpkHOyEcHiTmCS6rFEB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [PREE](https://open.spotify.com/album/6dNMrRjXb7bSU6uI2jRVX0) | 3:17 |
 | 60 | [Sawa](https://open.spotify.com/track/0wJmCGVg0JTGE3iyHUqyWK) | [KABUGA](https://open.spotify.com/artist/68d2olhtpyi3Lt3vKY6uWa) | [Sawa](https://open.spotify.com/album/6qzmfRbYjwYP4unvKH9BSV) | 2:25 |
 
-Snapshot ID: `MTY2NTA4OTk0MCwwMDAwMDAwMDI2ODMxYzcxNGIwZWM1Zjk1YjgzNjI0OTczZjRiMmQ2`
+Snapshot ID: `MTY2NTA4OTk0MCwwMDAwMDAwMDlkM2YzYWRkMTk4Y2RlODQyMGU2YmQxNzE5NGNhYTAy`

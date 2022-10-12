@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Charlie Puth
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,482 likes - 92 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,485 likes - 93 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,27 +78,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 68 | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP) | 2:58 |
 | 69 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 |
 | 70 | [your mom](https://open.spotify.com/track/6rp15O3RvL5sOMjHfLjxTK) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [your mom](https://open.spotify.com/album/0MDDf0IrpoEaYU0sMJ98H4) | 3:20 |
-| 71 | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z) | 3:08 |
-| 72 | [careless](https://open.spotify.com/track/0SBylBekAoBQ6JpYtGDaCA) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:06 |
-| 73 | [gone](https://open.spotify.com/track/6rRgZPx71jR3C9HuMHboje) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [gone](https://open.spotify.com/album/69fQ99VuqUX8HYDKaxONvu) | 2:40 |
-| 74 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 |
-| 75 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 |
-| 76 | [Mad About the Boy](https://open.spotify.com/track/6lWGw8WJNowRYY6mTYMrZw) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Mad About the Boy](https://open.spotify.com/album/3j2L0K6cvEOxQVOROZEoIS) | 2:50 |
-| 77 | [stay close](https://open.spotify.com/track/2jajPzkjTecTxrcSBnb4J4) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [stay close](https://open.spotify.com/album/05CV2db056PerekmifWzfA) | 2:46 |
-| 78 | [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 |
-| 79 | [Never Gonna Change](https://open.spotify.com/track/3F8xxwdpfi50qEuHn6rrNH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Never Gonna Change](https://open.spotify.com/album/1kfPbv9rWWhaHV2cAivjiN) | 3:38 |
-| 80 | [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [The Golden Dregs](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 |
-| 81 | [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 |
-| 82 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 |
-| 83 | [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 |
-| 84 | [Paradise](https://open.spotify.com/track/3ykUxF5IqZjldwnIYeuAGs) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Paradise](https://open.spotify.com/album/0KHrgTIvfMjTHRJjVBjPB0) | 2:57 |
-| 85 | [Hang On](https://open.spotify.com/track/28PvEJuegs01Cs1zElNScW) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Castle St](https://open.spotify.com/album/4xsF8vbA01OKUvapkElizI) | 2:42 |
-| 86 | [The Happier One \- retro style](https://open.spotify.com/track/06Dq3j5tDBCPH9sFAadrXQ) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [The Happier One \(retro style\)](https://open.spotify.com/album/1afhpd9AIpuItPVobU9cbO) | 3:37 |
-| 87 | [why don't you remember me](https://open.spotify.com/track/6BfUZXWYF6nYrLhJipbNTQ) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [crybox](https://open.spotify.com/album/1etOALJ9XwB1iHpOfLB0On) | 4:21 |
-| 88 | [In Another Life](https://open.spotify.com/track/1jpgacTEqXNNhTLTQTeUcl) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [In Another Life](https://open.spotify.com/album/4KDL14uRiNvUfIhVhkJfKx) | 2:27 |
-| 89 | [No Noise](https://open.spotify.com/track/2KPgtfJNuOcRu2dwpGW7Mf) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [No Features](https://open.spotify.com/album/280LYzCeuLO2DIIOdoYdAw) | 2:36 |
-| 90 | [In my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 |
-| 91 | [Gin & Soda](https://open.spotify.com/track/7lFihcfRNVSGfMiWiXJzH2) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Gin & Soda](https://open.spotify.com/album/38UGREYisQWILn6iLTcKnM) | 3:50 |
-| 92 | [Caramel](https://open.spotify.com/track/6GQOeSP0Oh7XRlh522vIVm) | [Monday Off With Bluesy](https://open.spotify.com/artist/0OwLX5KcmGFbIZPORrK6xB) | [Caramel](https://open.spotify.com/album/7pJ3vpCpbPy4RTACGs0ThQ) | 3:05 |
+| 71 | [Suzie](https://open.spotify.com/track/7KzZ1f667FYKudSIst9paz) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Suzie](https://open.spotify.com/album/6uAV69hWf44gJa8BcLKZFm) | 3:40 |
+| 72 | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z) | 3:08 |
+| 73 | [careless](https://open.spotify.com/track/0SBylBekAoBQ6JpYtGDaCA) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:06 |
+| 74 | [gone](https://open.spotify.com/track/6rRgZPx71jR3C9HuMHboje) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [gone](https://open.spotify.com/album/69fQ99VuqUX8HYDKaxONvu) | 2:40 |
+| 75 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 |
+| 76 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 |
+| 77 | [Mad About the Boy](https://open.spotify.com/track/6lWGw8WJNowRYY6mTYMrZw) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Mad About the Boy](https://open.spotify.com/album/3j2L0K6cvEOxQVOROZEoIS) | 2:50 |
+| 78 | [stay close](https://open.spotify.com/track/2jajPzkjTecTxrcSBnb4J4) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [stay close](https://open.spotify.com/album/05CV2db056PerekmifWzfA) | 2:46 |
+| 79 | [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 |
+| 80 | [Never Gonna Change](https://open.spotify.com/track/3F8xxwdpfi50qEuHn6rrNH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Never Gonna Change](https://open.spotify.com/album/1kfPbv9rWWhaHV2cAivjiN) | 3:38 |
+| 81 | [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 |
+| 82 | [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 |
+| 83 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 |
+| 84 | [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 |
+| 85 | [Paradise](https://open.spotify.com/track/3ykUxF5IqZjldwnIYeuAGs) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Paradise](https://open.spotify.com/album/0KHrgTIvfMjTHRJjVBjPB0) | 2:57 |
+| 86 | [Hang On](https://open.spotify.com/track/28PvEJuegs01Cs1zElNScW) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Castle St](https://open.spotify.com/album/4xsF8vbA01OKUvapkElizI) | 2:42 |
+| 87 | [The Happier One \- retro style](https://open.spotify.com/track/06Dq3j5tDBCPH9sFAadrXQ) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [The Happier One \(retro style\)](https://open.spotify.com/album/1afhpd9AIpuItPVobU9cbO) | 3:37 |
+| 88 | [why don't you remember me](https://open.spotify.com/track/6BfUZXWYF6nYrLhJipbNTQ) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [crybox](https://open.spotify.com/album/1etOALJ9XwB1iHpOfLB0On) | 4:21 |
+| 89 | [In Another Life](https://open.spotify.com/track/1jpgacTEqXNNhTLTQTeUcl) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [In Another Life](https://open.spotify.com/album/4KDL14uRiNvUfIhVhkJfKx) | 2:27 |
+| 90 | [No Noise](https://open.spotify.com/track/2KPgtfJNuOcRu2dwpGW7Mf) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [No Features](https://open.spotify.com/album/280LYzCeuLO2DIIOdoYdAw) | 2:36 |
+| 91 | [In my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 |
+| 92 | [Gin & Soda](https://open.spotify.com/track/7lFihcfRNVSGfMiWiXJzH2) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Gin & Soda](https://open.spotify.com/album/38UGREYisQWILn6iLTcKnM) | 3:50 |
+| 93 | [Caramel](https://open.spotify.com/track/6GQOeSP0Oh7XRlh522vIVm) | [Monday Off With Bluesy](https://open.spotify.com/artist/0OwLX5KcmGFbIZPORrK6xB) | [Caramel](https://open.spotify.com/album/7pJ3vpCpbPy4RTACGs0ThQ) | 3:05 |
 
-Snapshot ID: `MTY2NTExNTEwMCwwMDAwMDAwMDE1N2UwOTZlZDA1ZWZjOTBkNDM3YzNjMTg0NDcyMzcz`
+Snapshot ID: `MTY2NTExNTEwMCwwMDAwMDAwMDRlOTkzODgyYTFkMmVlZjViNzA1OTBkYmExM2RiM2I3`

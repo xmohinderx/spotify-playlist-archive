@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Duelo en portada.",
-  "num_followers": 323272,
+  "num_followers": 323689,
   "original_name": "Norte\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDc3MzIwMCwwMDAwMDAwMDkyNGVlNzQxNjJlMmEyOWNhNjdmNTk1NTI5MDZjOTBj",
+  "snapshot_id": "MTY2NDc3MzIwMCwwMDAwMDAwMDBiMGY4ZWUyMjgyZWI3NjNmZmE1MDJjMjk2MDI2Njdi",
   "tracks": [
     {
       "added_at": "2022-10-03 05:00:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "Billete Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
       },
@@ -115,6 +99,22 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
         "name": "Borrachera Con Los Honorables (Live)",
         "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
       },
@@ -127,6 +127,22 @@
       "duration_ms": 188416,
       "name": "La Boda Del Huitlacoche - Live",
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -147,22 +163,6 @@
       "duration_ms": 241106,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - En Vivo",
-      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Soy El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 222669,
-      "name": "Soy El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 186360,
       "name": "El Precio De La Soledad",
       "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "Soy El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 222669,
+      "name": "Soy El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "No",
-      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "Pideme (En Vivo)",
         "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 256170,
       "name": "Pideme - En Vivo",
       "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "No",
+      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p"
     },
     {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "No Estar\u00e9 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 146233,
-      "name": "No Estar\u00e9 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
-    },
-    {
       "added_at": "2022-09-02 05:00:00",
       "album": {
         "name": "Ya Me Entere (En Vivo)",
@@ -935,6 +919,22 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "No Estar\u00e9 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 146233,
+      "name": "No Estar\u00e9 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -985,6 +985,22 @@
       "url": "https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL"
     },
     {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+    },
+    {
       "added_at": "2022-08-29 18:05:53",
       "album": {
         "name": "El Callado",
@@ -999,22 +1015,6 @@
       "duration_ms": 178986,
       "name": "El Callado",
       "url": "https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "Me Dicen El Chavo",
-        "url": "https://open.spotify.com/album/2GAQ8DhWnILWXcnbLTny2W"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "Me Dicen El Chavo",
-      "url": "https://open.spotify.com/track/2Qtbqu3XEudTeqB31PKGu4"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1035,34 +1035,18 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+        "name": "Me Dicen El Chavo",
+        "url": "https://open.spotify.com/album/2GAQ8DhWnILWXcnbLTny2W"
       },
       "artists": [
         {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 135247,
-      "name": "El Compa Carlos - En Vivo",
-      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "De Parranda Lives Vol. 5",
-        "url": "https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 252883,
-      "name": "Te vez Buena",
-      "url": "https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys"
+      "duration_ms": 187037,
+      "name": "Me Dicen El Chavo",
+      "url": "https://open.spotify.com/track/2Qtbqu3XEudTeqB31PKGu4"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1083,6 +1067,38 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
+        "name": "De Parranda Lives Vol. 5",
+        "url": "https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 252883,
+      "name": "Te vez Buena",
+      "url": "https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 135247,
+      "name": "El Compa Carlos - En Vivo",
+      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
         "name": "De Cuando Ac\u00e1",
         "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 178474,
       "name": "De Cuando Ac\u00e1",
       "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 187929,
-      "name": "Mas Que Amigos - En Vivo",
-      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1147,6 +1147,22 @@
       "duration_ms": 184874,
       "name": "El Corrido Del Piyi (LDLG)",
       "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "Provocame",
         "url": "https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Chambeando Recio",
-        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Chambeando Recio",
-      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
         "name": "Mi Trokita Cumbia",
         "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Gato de Madrugada",
-        "url": "https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0"
+        "name": "Chambeando Recio",
+        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 244653,
-      "name": "Gato de Madrugada",
-      "url": "https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q"
+      "duration_ms": 157749,
+      "name": "Chambeando Recio",
+      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1347,6 +1331,22 @@
       "duration_ms": 167230,
       "name": "Amandote",
       "url": "https://open.spotify.com/track/1YloxcHYgx9UHpJGSY5dPx"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
+        "name": "Gato de Madrugada",
+        "url": "https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Gato de Madrugada",
+      "url": "https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q"
     },
     {
       "added_at": "2022-08-29 18:05:53",
@@ -1433,6 +1433,22 @@
       "url": "https://open.spotify.com/track/2Tyf0QV9468mwVR70FIBHR"
     },
     {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Millennial",
+        "url": "https://open.spotify.com/album/2eTrKUYyEnLdvN6awc6PK4"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/1XCotAsDLWl4Xv1hy9qaiG"
+    },
+    {
       "added_at": "2022-08-29 18:05:53",
       "album": {
         "name": "Que Te Vaya Bien",
@@ -1463,22 +1479,6 @@
       "duration_ms": 234094,
       "name": "La Siembra",
       "url": "https://open.spotify.com/track/14VOqso0CLZIowdMAWT4nH"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Millennial",
-        "url": "https://open.spotify.com/album/2eTrKUYyEnLdvN6awc6PK4"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/1XCotAsDLWl4Xv1hy9qaiG"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
+        "name": "Te Amar\u00e9 M\u00e1s",
+        "url": "https://open.spotify.com/album/2d7b3fXbYvWpBDuIyPbAS9"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Te Amar\u00e9 M\u00e1s",
+      "url": "https://open.spotify.com/track/4i7s10avxVqIdMERsS996a"
+    },
+    {
+      "added_at": "2022-08-29 18:05:53",
+      "album": {
         "name": "Jalas o No Jalas, Vol.2",
         "url": "https://open.spotify.com/album/1W2Atto04JwV3G32tP5rPO"
       },
@@ -1597,6 +1613,26 @@
       "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
     },
     {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Super Poderes",
+        "url": "https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/6SHAWeSDnokcCA2XhPNgHh"
+        }
+      ],
+      "duration_ms": 173305,
+      "name": "Super Poderes",
+      "url": "https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX"
+    },
+    {
       "added_at": "2022-08-29 18:05:53",
       "album": {
         "name": "El Predilecto",
@@ -1611,38 +1647,6 @@
       "duration_ms": 186780,
       "name": "Agarra La Onda",
       "url": "https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "Te Amar\u00e9 M\u00e1s",
-        "url": "https://open.spotify.com/album/2d7b3fXbYvWpBDuIyPbAS9"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "Te Amar\u00e9 M\u00e1s",
-      "url": "https://open.spotify.com/track/4i7s10avxVqIdMERsS996a"
-    },
-    {
-      "added_at": "2022-08-29 18:05:53",
-      "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/1JNPLcUJAcPHnkB6cgxU39"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 189224,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/2lQ907kdNk2IL7WRQZHlZy"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1663,22 +1667,18 @@
     {
       "added_at": "2022-08-29 18:05:53",
       "album": {
-        "name": "Por Ella Tomo",
-        "url": "https://open.spotify.com/album/0a5Wnsr4Z7LHcqzONGR1XY"
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/1JNPLcUJAcPHnkB6cgxU39"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 185987,
-      "name": "Por Ella Tomo",
-      "url": "https://open.spotify.com/track/0FkATCT3LOTcMaDh6nwFsl"
+      "duration_ms": 189224,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/2lQ907kdNk2IL7WRQZHlZy"
     }
   ],
   "unique_name": "Norte\u00f1o 2022",

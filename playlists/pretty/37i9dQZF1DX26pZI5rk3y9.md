@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,323 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,327 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 28 | [I Asked For Water](https://open.spotify.com/track/0aT9f7DKBo3SsYHSMrtOGD) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:52 |
 | 29 | [Red Beans \- Remastered](https://open.spotify.com/track/47kPRfB3tVR0LWiY2QTSog) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 4:10 |
 | 30 | [The Sun Is Shining](https://open.spotify.com/track/2oVoSWx4NLAJ6xulHAGYJx) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:43 |
-| 31 | [Peaches](https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:18 |
+| 31 | [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 |
 | 32 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 4:32 |
-| 33 | [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 |
+| 33 | [Peaches](https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:18 |
 | 34 | [Back Water Blues](https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [The Soul Queen Of New Orleans: 50th Anniversary Celebration](https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs) | 3:30 |
 | 35 | [Little By Little \(I'm Losing You\)](https://open.spotify.com/track/25vYkkypWmtzS88Podza8X) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 2:33 |
 | 36 | [I Love The Woman](https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Freddy King Sings](https://open.spotify.com/album/6Y8ECXmI1sZ10MKFZ3Grgs) | 2:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
 | 70 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 
-Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDBkOTQ0Njg1NzUyOGFjNjg1MWZhNjAyNDViNzc4M2Zh`
+Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDVlMzE4MjQ1ZWQ4NGNkMjViYTEyMWY3ZGNhOGFmOGMy`

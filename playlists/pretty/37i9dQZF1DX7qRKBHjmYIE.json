@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. A mixture of sounds and artists. Cover: Cuco",
-  "num_followers": 749645,
+  "num_followers": 749656,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMDkzOWY0ZWY1MDIzZWE0MGE5MjA1ZDJlZWYyZjg3YzEx",
+  "snapshot_id": "MTY2MjQ4MjQ0MywwMDAwMDAwMGNjMWUyYzM1YTA1ODFjZmU5MWIyNWQzZmM2YTFkMzg2",
   "tracks": [
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
         "name": "FEEL SOMETHING DIFFERENT",
         "url": "https://open.spotify.com/album/3FheSC4Vgn2ASKTyYt9WcA"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 207327,
       "name": "FEEL SOMETHING DIFFERENT",
       "url": "https://open.spotify.com/track/5Q4UX8hxcaJEtAE9RtsmSY"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "DOLORES",
-      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/4afpvkbRnopag8f3lEP3XE"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 185686,
       "name": "H2O",
       "url": "https://open.spotify.com/track/3S6dUc6K59ciPiOuNH57Xr"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "DOLORES",
+      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
     },
     {
       "added_at": "2022-09-06 16:40:42",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-09-06 16:40:42",
       "album": {
-        "name": "Fashion Freak",
-        "url": "https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        }
-      ],
-      "duration_ms": 150606,
-      "name": "Fashion Freak",
-      "url": "https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2"
-    },
-    {
-      "added_at": "2022-09-06 16:40:42",
-      "album": {
         "name": "Love Letters From Houston",
         "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 172092,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
+    },
+    {
+      "added_at": "2022-09-06 16:40:42",
+      "album": {
+        "name": "Fashion Freak",
+        "url": "https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 150606,
+      "name": "Fashion Freak",
+      "url": "https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2"
     },
     {
       "added_at": "2022-09-06 16:40:42",

@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 813383,
+  "num_followers": 813773,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1MTQ1OCwwMDAwMDAwMGI0OTBjNjUzMDQwMjYxOTZhZDgzNmFiM2E0Yjc4M2E5",
+  "snapshot_id": "MTY2NTE1MTQ1OCwwMDAwMDAwMDZiMWI1YjIzYjhhZjQxZmY5Mzk5NDJmYjhlNmE5YWQy",
   "tracks": [
     {
       "added_at": "2022-09-30 14:30:48",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "8701",
         "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Very Necessary",
         "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
         }
       ],
-      "duration_ms": 265106,
-      "name": "That's The Way Love Goes",
-      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
+      "duration_ms": 315640,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -627,6 +611,22 @@
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 265106,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "Brown Sugar",
-      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "What Goes Around...Comes Around",
         "url": "https://open.spotify.com/album/0NvpeY8oCm6oIlhH5Jw4fo"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 313133,
       "name": "What Goes Around...Comes Around - Radio Edit",
       "url": "https://open.spotify.com/track/0R03f3Axt495bkgGhivLEe"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 262893,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Diggin' On You",
+      "url": "https://open.spotify.com/track/2W2vmNmTLERMWT9XBxm35E"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 254560,
-      "name": "Diggin' On You",
-      "url": "https://open.spotify.com/track/2W2vmNmTLERMWT9XBxm35E"
+      "duration_ms": 184938,
+      "name": "Petit Prince Du Macadam",
+      "url": "https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1439,22 +1455,6 @@
       "duration_ms": 163320,
       "name": "Groovin' - Remastered",
       "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 184938,
-      "name": "Petit Prince Du Macadam",
-      "url": "https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Conex\u00e3o - EP",
-        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 299131,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/4vvFklYoPTicMqbYUo7qyG"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/2l5jrbQaw9la2srKsDt7D6"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 210026,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/0nruobjhKItGHfkH3VbTXy"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Conex\u00e3o - EP",
+        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 299131,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/4vvFklYoPTicMqbYUo7qyG"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Conscience",
-        "url": "https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W"
-      },
-      "artists": [
-        {
-          "name": "Womack & Womack",
-          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "M.P.B.",
-      "url": "https://open.spotify.com/track/0w4QlIOtXEJEPvftQo9VSe"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
       },
@@ -1863,18 +1847,18 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Playing For You",
-        "url": "https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD"
+        "name": "Conscience",
+        "url": "https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W"
       },
       "artists": [
         {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+          "name": "Womack & Womack",
+          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
         }
       ],
-      "duration_ms": 258895,
-      "name": "Playing For You",
-      "url": "https://open.spotify.com/track/3DmMNjjYb4xedWBXAN6IUM"
+      "duration_ms": 238066,
+      "name": "M.P.B.",
+      "url": "https://open.spotify.com/track/0w4QlIOtXEJEPvftQo9VSe"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1895,6 +1879,22 @@
       "duration_ms": 259333,
       "name": "911 (feat. Mary J. Blige)",
       "url": "https://open.spotify.com/track/28hgx2bWXcaBJeC9zVwrBq"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Playing For You",
+        "url": "https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD"
+      },
+      "artists": [
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        }
+      ],
+      "duration_ms": 258895,
+      "name": "Playing For You",
+      "url": "https://open.spotify.com/track/3DmMNjjYb4xedWBXAN6IUM"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Limbo/Lagune",
-        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
-        }
-      ],
-      "duration_ms": 190903,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 272211,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Limbo/Lagune",
+        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 190903,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Limbo/Lagune",
-        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -2067,6 +2051,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/6BXDMsoy2zam0un1DTMp9U"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 172874,
+      "name": "Little Bit of Lovin",
+      "url": "https://open.spotify.com/track/5l5wRXA7asTNjh3V0oNGPs"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/1qn0kla1XZSbLSb1u81kSc"
       },
@@ -2087,18 +2087,18 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/6BXDMsoy2zam0un1DTMp9U"
+        "name": "Limbo/Lagune",
+        "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
       },
       "artists": [
         {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
         }
       ],
-      "duration_ms": 172874,
-      "name": "Little Bit of Lovin",
-      "url": "https://open.spotify.com/track/5l5wRXA7asTNjh3V0oNGPs"
+      "duration_ms": 209090,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/3nPTKsx1v2lGffS8IRJZYA"
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
       "artists": [
         {
-          "name": "Elias Boussnina",
-          "url": "https://open.spotify.com/artist/3VBjLrfRolCjRRPN5y5XIU"
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
         }
       ],
-      "duration_ms": 202560,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/3LgPy7zNzoSl2VKjx1o0Pp"
+      "duration_ms": 272360,
+      "name": "So Fine",
+      "url": "https://open.spotify.com/track/2cIcOEMjo8uqi4eXjiJpdr"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/3nPTKsx1v2lGffS8IRJZYA"
+      },
+      "artists": [
+        {
+          "name": "Elias Boussnina",
+          "url": "https://open.spotify.com/artist/3VBjLrfRolCjRRPN5y5XIU"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/3LgPy7zNzoSl2VKjx1o0Pp"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Living My Life",
         "url": "https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 362293,
       "name": "My Jamaican Guy",
       "url": "https://open.spotify.com/track/7zcC5yZZp1IKnI73ztsIaE"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
-        }
-      ],
-      "duration_ms": 272360,
-      "name": "So Fine",
-      "url": "https://open.spotify.com/track/2cIcOEMjo8uqi4eXjiJpdr"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Between Thought And Expression",
-        "url": "https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Walk on the Wild Side",
-      "url": "https://open.spotify.com/track/3V0dGluD6yXFk3gfAKzDEF"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
         "name": "NEXT 2 U",
         "url": "https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 169484,
       "name": "NEXT 2 U",
       "url": "https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/0yPPQFsu18ZvricvGcULjZ"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "duration_ms": 230187,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/1EdktpB83X3KfUavH6Vf7b"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2311,18 +2311,18 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/0yPPQFsu18ZvricvGcULjZ"
+        "name": "Between Thought And Expression",
+        "url": "https://open.spotify.com/album/5RxespHDjnx3LgzAC7f2jS"
       },
       "artists": [
         {
-          "name": "Nenashi",
-          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 230187,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/1EdktpB83X3KfUavH6Vf7b"
+      "duration_ms": 253373,
+      "name": "Walk on the Wild Side",
+      "url": "https://open.spotify.com/track/3V0dGluD6yXFk3gfAKzDEF"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2347,18 +2347,18 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
-        "name": "You Ain't The Problem",
-        "url": "https://open.spotify.com/album/6J37CAUxNhrqlX9iuSzVVR"
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/69bgbAILh3pnvCe7W9AZ5q"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Joseph Lawrence",
+          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
         }
       ],
-      "duration_ms": 249333,
-      "name": "You Ain't The Problem",
-      "url": "https://open.spotify.com/track/0QDe6nlExlt3AM1NHTh4nn"
+      "duration_ms": 191135,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/0Bc3PSRh7mZP0jgjMMG4zW"
     },
     {
       "added_at": "2022-09-30 14:30:48",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2022-09-30 14:30:48",
       "album": {
+        "name": "You Ain't The Problem",
+        "url": "https://open.spotify.com/album/6J37CAUxNhrqlX9iuSzVVR"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "You Ain't The Problem",
+      "url": "https://open.spotify.com/track/0QDe6nlExlt3AM1NHTh4nn"
+    },
+    {
+      "added_at": "2022-09-30 14:30:48",
+      "album": {
         "name": "Love In Synthesis",
         "url": "https://open.spotify.com/album/69rgvUHKOYmwre7xkWDJcf"
       },
@@ -2395,22 +2411,6 @@
       "duration_ms": 208000,
       "name": "Soulmate (Heartstrings)",
       "url": "https://open.spotify.com/track/7tC8VI0VlMv4ZyNssmKpJG"
-    },
-    {
-      "added_at": "2022-09-30 14:30:48",
-      "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/69bgbAILh3pnvCe7W9AZ5q"
-      },
-      "artists": [
-        {
-          "name": "Joseph Lawrence",
-          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
-        }
-      ],
-      "duration_ms": 191135,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/0Bc3PSRh7mZP0jgjMMG4zW"
     },
     {
       "added_at": "2022-09-30 14:30:48",

@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1699241,
+  "num_followers": 1699456,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMGJlNjNhZDE5YThlMGE2MTUzYjk5MTI4ZDg2ZjY3YzYx",
+  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMDc4NzgwOTc3MzBmNmNmMzk3NzE3NGYwM2I4NmYwMzgw",
   "tracks": [
     {
       "added_at": "2022-08-31 06:52:27",
@@ -875,18 +875,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Montaner",
-        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
+        "name": "Una Mentira M\u00e1s",
+        "url": "https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
         }
       ],
-      "duration_ms": 224693,
-      "name": "\u00bfQu\u00e9 Vas a Hacer?",
-      "url": "https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S"
+      "duration_ms": 202300,
+      "name": "Una Mentira M\u00e1s",
+      "url": "https://open.spotify.com/track/6jGNM4ntC8xzMHo5t0YNDF"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -907,22 +911,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Una Mentira M\u00e1s",
-        "url": "https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI"
+        "name": "Montaner",
+        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
       },
       "artists": [
         {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        },
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
         }
       ],
-      "duration_ms": 202300,
-      "name": "Una Mentira M\u00e1s",
-      "url": "https://open.spotify.com/track/6jGNM4ntC8xzMHo5t0YNDF"
+      "duration_ms": 224693,
+      "name": "\u00bfQu\u00e9 Vas a Hacer?",
+      "url": "https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Cuerno",
-        "url": "https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 178199,
-      "name": "Cuerno",
-      "url": "https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Tiene Que Existir",
         "url": "https://open.spotify.com/album/7rZehTzCB1s3QlUFGMFUGo"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 189473,
       "name": "Tiene Que Existir",
       "url": "https://open.spotify.com/track/6Hc7T09nwRTTm4X6iTJbKN"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Cuerno",
+        "url": "https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "duration_ms": 178199,
+      "name": "Cuerno",
+      "url": "https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "Limonada",
+        "url": "https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "C\u00f3mo Decirle",
+      "url": "https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Son Tantas Cosas",
         "url": "https://open.spotify.com/album/2QshaPSs5R2x3da2jCHrFj"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 199521,
       "name": "Tiempo Pa Olvidar",
       "url": "https://open.spotify.com/track/69dNigIQhkCnL6pr7iRJPA"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Limonada",
-        "url": "https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "C\u00f3mo Decirle",
-      "url": "https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke"
     },
     {
       "added_at": "2022-08-31 06:52:27",

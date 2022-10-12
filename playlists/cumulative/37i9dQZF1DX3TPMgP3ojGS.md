@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,539 songs - 2 day 21 hr 41 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,540 songs - 2 day 21 hr 44 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Deriva](https://open.spotify.com/track/1XncYtwNg603tTHmYrDBwz) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Deriva](https://open.spotify.com/album/0xCGEjP5LmBUKcvIC0zaKp) | 3:11 | 2022-02-22 | 2022-07-26 |
 | [Derrière le carreau fermé](https://open.spotify.com/track/659EQJMW0XdMy1aLN4Kcxo) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Derrière le carreau fermé](https://open.spotify.com/album/2AkX2csT7kUNklUxwQQOpB) | 2:11 | 2022-02-01 | 2022-04-10 |
 | [Des ponts plutôt que des murs](https://open.spotify.com/track/2raTq4pOKZfeg2h61gnI0L) | [Zdenek Lemelin](https://open.spotify.com/artist/7z8fwNUZFxgizWrG2GDQt3) | [Des ponts plutôt que des murs](https://open.spotify.com/album/7v3sEjmd6HV2rC4gbTYiv0) | 2:28 | 2021-03-26 | 2022-07-27 |
+| [Desenlace](https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Emociones](https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88) | 2:50 | 2022-09-29 |  |
 | [Despair](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Despair](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 3:14 | 2021-04-28 | 2022-04-19 |
 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 | 2022-05-03 | 2022-07-13 |
 | [Die Amsel](https://open.spotify.com/track/4fQDNzhiPAryhqihnOlsCi) | [Graham Potter](https://open.spotify.com/artist/44yL8NZimkcLdA63E4vEl8) | [Die Amsel](https://open.spotify.com/album/5FFbYlcyUHVj0okb8qCjnZ) | 2:35 | 2021-05-08 | 2022-04-21 |
@@ -1156,7 +1157,7 @@
 | [Skinny Love](https://open.spotify.com/track/2qhsUyXlhgQUfFNSR6ayuS) | [David Fischbein](https://open.spotify.com/artist/4SnnTtHKeeWxZ8FxzMv435) | [Skinny Love](https://open.spotify.com/album/4Ne3QvIzbvy9BMYmoguoL7) | 4:13 | 2021-05-04 | 2022-03-31 |
 | [Sky](https://open.spotify.com/track/1K9UBbr4hJfl9GSL0el09P) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Nostalgia](https://open.spotify.com/album/7nrrxQIJRlJvF0HivbzhaN) | 2:33 | 2021-03-07 | 2022-07-28 |
 | [Skye](https://open.spotify.com/track/07nMoeNxaY9nZtvD01snY8) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Skye](https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw) | 2:24 | 2022-07-08 | 2022-07-29 |
-| [Skymning](https://open.spotify.com/track/2jRlPB32YMnpz1qcIY97oY) | [Vanja Lind](https://open.spotify.com/artist/2L3FiPy8Ek8kHpSD6EdFLV) | [Skymning](https://open.spotify.com/album/6iB98euArvi49Fl9ys2CQP) | 2:03 | 2021-11-26 |  |
+| [Skymning](https://open.spotify.com/track/2jRlPB32YMnpz1qcIY97oY) | [Vanja Lind](https://open.spotify.com/artist/2L3FiPy8Ek8kHpSD6EdFLV) | [Skymning](https://open.spotify.com/album/6iB98euArvi49Fl9ys2CQP) | 2:03 | 2021-11-26 | 2022-10-12 |
 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 | 2022-03-24 | 2022-03-27 |
 | [Sleeping Giant](https://open.spotify.com/track/07mYJZtAOLNsmCTQ8lt1BN) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Sleeping Giant](https://open.spotify.com/album/6ehXRByrOmrh5mwEjzXhCP) | 2:42 | 2022-04-12 | 2022-04-15 |
 | [Sleeping like the Birchwood](https://open.spotify.com/track/2FCFesDX0QOFkKIzpoqWD6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Sleeping Like the Birchwood](https://open.spotify.com/album/0uf3tqNtWuAyznHWI6foBg) | 3:24 | 2021-03-23 | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Pixies",
-  "num_followers": 344566,
+  "num_followers": 344604,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM0NzQ5NSwwMDAwMDAwMDc5ZDNmN2E4NWQwNDBlNTEyMTk5YzQ5ZTIxYjIwOWUy",
+  "snapshot_id": "MTY2NTM0NzQ5NSwwMDAwMDAwMDAyZmYyMWRlM2RmZjY4YWQ1ZTc3NTBkNGU0MGJmZWUz",
   "tracks": [
     {
       "added_at": "2022-09-29 23:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-29 23:00:00",
       "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 246800,
       "name": "I Hate Myself for Loving You",
       "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+    },
+    {
+      "added_at": "2022-09-29 23:00:00",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2022-09-29 23:00:00",
@@ -811,6 +811,22 @@
       "duration_ms": 276666,
       "name": "Live Forever - Remastered",
       "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
+    },
+    {
+      "added_at": "2022-09-29 23:00:00",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2022-09-29 23:00:00",
@@ -891,22 +907,6 @@
       "duration_ms": 266160,
       "name": "Ashes to Ashes - 2017 Remaster",
       "url": "https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2022-09-29 23:00:00",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
     },
     {
+      "added_at": "2022-10-07 22:26:41",
+      "album": {
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 219043,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT"
+    },
+    {
       "added_at": "2022-09-29 23:00:00",
       "album": {
         "name": "Second Coming",
@@ -1103,22 +1119,6 @@
       "duration_ms": 251333,
       "name": "Love Is The Drug",
       "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
-    },
-    {
-      "added_at": "2022-10-07 22:26:41",
-      "album": {
-        "name": "Those Days",
-        "url": "https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 219043,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT"
     },
     {
       "added_at": "2022-09-29 23:00:00",

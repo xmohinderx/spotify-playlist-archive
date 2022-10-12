@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 237960,
+  "num_followers": 238148,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMSwwMDAwMDAwMGYwZThmZTIxMzAzYmZkYWM5NmE4Yjk1NTg5YzJjMjI1",
+  "snapshot_id": "MTY2MzMwMDgwMSwwMDAwMDAwMDYzMGU3YmU1YzA1YzRhZDUxZWQ5YTJhYWM1OWNlOWVj",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "HANDZ",
+        "url": "https://open.spotify.com/album/1xJmZFeiff6jrbTTJjKCSQ"
+      },
+      "artists": [
+        {
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
+        }
+      ],
+      "duration_ms": 280975,
+      "name": "NOTFAIR",
+      "url": "https://open.spotify.com/track/1goU1eKM9JG3Jmru219zDG"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Sessions: Star Guardian Taliyah",
         "url": "https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 195979,
       "name": "Shimmer City",
       "url": "https://open.spotify.com/track/5uwFzyBfdwU6r1JlrGwCRi"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "HANDZ",
-        "url": "https://open.spotify.com/album/1xJmZFeiff6jrbTTJjKCSQ"
-      },
-      "artists": [
-        {
-          "name": "Hatena",
-          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
-        }
-      ],
-      "duration_ms": 280975,
-      "name": "NOTFAIR",
-      "url": "https://open.spotify.com/track/1goU1eKM9JG3Jmru219zDG"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 196997,
-      "name": "Anita",
-      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Slowed Midnight",
         "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 155750,
       "name": "Ritmo.",
       "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+        }
+      ],
+      "duration_ms": 196997,
+      "name": "Anita",
+      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Summer Splash",
-        "url": "https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 227812,
-      "name": "Summer Splash",
-      "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 232699,
       "name": "Mode",
       "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Summer Splash",
+        "url": "https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 227812,
+      "name": "Summer Splash",
+      "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "DaFuture Is Now",
+        "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
+      },
+      "artists": [
+        {
+          "name": "Android Apartment",
+          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sunset On The Shore",
+      "url": "https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Yacht World",
         "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 128399,
       "name": "Need Somebody",
       "url": "https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "DaFuture Is Now",
-        "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
-      },
-      "artists": [
-        {
-          "name": "Android Apartment",
-          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sunset On The Shore",
-      "url": "https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
-      },
-      "artists": [
-        {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        }
-      ],
-      "duration_ms": 173232,
-      "name": "Lovin' Is Everywhere",
-      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Waterbed (Deluxe)",
         "url": "https://open.spotify.com/album/1cjuAssWUepRNTprygXosp"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/6RsxQBaT4Is0CkuN05nwoa"
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
       },
       "artists": [
         {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
         }
       ],
-      "duration_ms": 207874,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/6RrxIc1TzDcUE0vaIYaNQL"
+      "duration_ms": 173232,
+      "name": "Lovin' Is Everywhere",
+      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 183750,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/6RsxQBaT4Is0CkuN05nwoa"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "duration_ms": 207874,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/6RrxIc1TzDcUE0vaIYaNQL"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1335,50 +1335,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "This Is Just a Test",
-        "url": "https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8"
+        "name": "LORD GIVE ME ONE MORE CHANCE",
+        "url": "https://open.spotify.com/album/5W1QeUlrv6EyYzXM0mqJOC"
       },
       "artists": [
         {
-          "name": "UniBe@t",
-          "url": "https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg"
+          "name": "yuugen",
+          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
         }
       ],
-      "duration_ms": 363156,
-      "name": "This Is Just a Test",
-      "url": "https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Waterbed (Deluxe)",
-        "url": "https://open.spotify.com/album/1cjuAssWUepRNTprygXosp"
-      },
-      "artists": [
-        {
-          "name": "Tendencies",
-          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "Waterbed",
-      "url": "https://open.spotify.com/track/15CiCRHe9xxosbyf6S2Q60"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
-      },
-      "artists": [
-        {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+      "duration_ms": 120028,
+      "name": "LORD GIVE ME ONE MORE CHANCE",
+      "url": "https://open.spotify.com/track/7ED68OyaSlwkb65lRydjHn"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1399,18 +1367,50 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "LORD GIVE ME ONE MORE CHANCE",
-        "url": "https://open.spotify.com/album/5W1QeUlrv6EyYzXM0mqJOC"
+        "name": "This Is Just a Test",
+        "url": "https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8"
       },
       "artists": [
         {
-          "name": "yuugen",
-          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
+          "name": "UniBe@t",
+          "url": "https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg"
         }
       ],
-      "duration_ms": 120028,
-      "name": "LORD GIVE ME ONE MORE CHANCE",
-      "url": "https://open.spotify.com/track/7ED68OyaSlwkb65lRydjHn"
+      "duration_ms": 363156,
+      "name": "This Is Just a Test",
+      "url": "https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Glimmer / Change",
+        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
+      },
+      "artists": [
+        {
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Waterbed (Deluxe)",
+        "url": "https://open.spotify.com/album/1cjuAssWUepRNTprygXosp"
+      },
+      "artists": [
+        {
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
+        }
+      ],
+      "duration_ms": 177479,
+      "name": "Waterbed",
+      "url": "https://open.spotify.com/track/15CiCRHe9xxosbyf6S2Q60"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "#TRUE FUTURE",
+        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
+      },
+      "artists": [
+        {
+          "name": "Q-Rabbit",
+          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "keep down flyday",
+      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "NeoGeo FM",
         "url": "https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2"
       },
@@ -1515,6 +1531,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Mental Geller",
+        "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
+      },
+      "artists": [
+        {
+          "name": "The Phantom's Revenge",
+          "url": "https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe"
+        }
+      ],
+      "duration_ms": 348750,
+      "name": "DJ BFF Slideshow",
+      "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
       },
@@ -1531,34 +1563,38 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "#TRUE FUTURE",
-        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
       },
       "artists": [
         {
-          "name": "Q-Rabbit",
-          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
         }
       ],
-      "duration_ms": 138666,
-      "name": "keep down flyday",
-      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
+      "duration_ms": 128032,
+      "name": "Dancefloor Sneakers",
+      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
     },
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Mental Geller",
-        "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
+        "name": "Bae 5",
+        "url": "https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM"
       },
       "artists": [
         {
-          "name": "The Phantom's Revenge",
-          "url": "https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe"
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
         }
       ],
-      "duration_ms": 348750,
-      "name": "DJ BFF Slideshow",
-      "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
+      "duration_ms": 161314,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/31GGop5dcxgwHupVB7RRyi"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1587,26 +1623,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Bae 5",
-        "url": "https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Desired",
-          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
-        }
-      ],
-      "duration_ms": 161314,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/31GGop5dcxgwHupVB7RRyi"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "EMAIL",
         "url": "https://open.spotify.com/album/6WDrx0SJVfuDoJrLwG9Hye"
       },
@@ -1619,38 +1635,6 @@
       "duration_ms": 176269,
       "name": "SOULLL",
       "url": "https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "NONPLUSULTRA, Vol. 1",
-        "url": "https://open.spotify.com/album/1nLLRRW9QjBi57ZzUpovg7"
-      },
-      "artists": [
-        {
-          "name": "Android52",
-          "url": "https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG"
-        }
-      ],
-      "duration_ms": 308837,
-      "name": "Atlantic",
-      "url": "https://open.spotify.com/track/2glcDKAWowkn7s4VMgTdcl"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 128032,
-      "name": "Dancefloor Sneakers",
-      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "SOUL MATES",
         "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
       },
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
+        "name": "NONPLUSULTRA, Vol. 1",
+        "url": "https://open.spotify.com/album/1nLLRRW9QjBi57ZzUpovg7"
       },
       "artists": [
         {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+          "name": "Android52",
+          "url": "https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG"
         }
       ],
-      "duration_ms": 164647,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
+      "duration_ms": 308837,
+      "name": "Atlantic",
+      "url": "https://open.spotify.com/track/2glcDKAWowkn7s4VMgTdcl"
     },
     {
       "added_at": "2022-09-16 04:00:00",

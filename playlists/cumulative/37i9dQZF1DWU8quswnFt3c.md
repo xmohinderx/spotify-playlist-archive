@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Rina Sawayama
 
-755 songs - 1 day 17 hr 33 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+758 songs - 1 day 17 hr 42 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2022-04-06 | 2022-05-05 |
 | [Cute Boy](https://open.spotify.com/track/7DS5SpsWS7rtKeAfe9rbfn) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a), [Forever Tel Aviv](https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q) | [Cute Boy](https://open.spotify.com/album/3oOsxujiwXlaed2q2h71Fv) | 3:05 | 2022-10-04 |  |
 | [Czy masz jak ja?](https://open.spotify.com/track/4ggEwdFC2VoR2BXgR3qGwW) | [Karolina Stanisławczyk](https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t) | [Czy masz jak ja?](https://open.spotify.com/album/3e4uOHJWH3HIo6Q0OzlAvZ) | 2:45 | 2021-12-11 | 2022-01-06 |
-| [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/track/3ZthqBSfjJFftiFMYrIJbk) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/album/5Kqt68osUGwjQJgKpqkjrA) | 3:11 | 2022-10-04 |  |
+| [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/track/3ZthqBSfjJFftiFMYrIJbk) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/album/5Kqt68osUGwjQJgKpqkjrA) | 3:11 | 2022-10-04 | 2022-10-12 |
+| [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/track/5IdhOcCGRjpmEBFmOJTM6g) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP) | 3:11 | 2022-10-11 |  |
 | [D for Something](https://open.spotify.com/track/4l1mUk6XftMVXlmNOoP1RO) | [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O) | [D for Something](https://open.spotify.com/album/4G10kiMizgCFhpoJ7n5m4Y) | 2:18 | 2022-05-04 | 2022-06-01 |
 | [Dai Pao \(ได้ป่าว\)](https://open.spotify.com/track/4fr50FYIlCFu64gqXcwHp4) | [Tsunari](https://open.spotify.com/artist/1jiktv8es5sE3GMGO4Ago6) | [Dai Pao \(ได้ป่าว\)](https://open.spotify.com/album/2pPmlIB6zh8H90KGHjr0kt) | 2:21 | 2022-02-02 | 2022-03-09 |
 | [DAMN](https://open.spotify.com/track/2uLQt24HvFA9dhmx2mbz3K) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [DAMN](https://open.spotify.com/album/5pJkggCtP22LI2KIMdkeGC) | 3:19 | 2022-05-04 | 2022-06-01 |
@@ -387,6 +388,7 @@
 | [Meisjes Van Honing](https://open.spotify.com/track/66dGbMxzOVbhv2CwnfA3MJ) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Meisjes Van Honing](https://open.spotify.com/album/3UObXg8uHcVOWPH5nM523V) | 3:06 | 2021-12-11 | 2022-01-06 |
 | [Mera Yaar](https://open.spotify.com/track/64jOyhiu4UPPnkSbG0t489) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Mera Yaar](https://open.spotify.com/album/3d01wHpz2Wvm9sJ1qwZGG2) | 3:12 | 2021-12-11 | 2022-01-06 |
 | [MERICHANE](https://open.spotify.com/track/3o3YFP1o1SEb4Rh5jNkVT4) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [PUTA](https://open.spotify.com/album/2ctwMRxRCZabremU4pGcz4) | 4:18 | 2022-08-03 | 2022-09-09 |
+| [Mermaid Avenue](https://open.spotify.com/track/72qBzteCINzfZGqOCkD4sA) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Mermaid Avenue](https://open.spotify.com/album/6mdXgYc7y2rHgMEvk0oU0t) | 3:08 | 2022-10-11 |  |
 | [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 | 2022-06-01 | 2022-07-07 |
 | [Meu Guri](https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Meu Guri](https://open.spotify.com/album/7DDRi1Dqg5EdB5pZgHc9zR) | 3:04 | 2022-05-04 | 2022-06-01 |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-07 | 2022-10-05 |
@@ -725,8 +727,9 @@
 | [פנתרה](https://open.spotify.com/track/5A3bEckI7AjWTguGqZOzUm) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [פנתרה](https://open.spotify.com/album/25E9FesbHAUYUxUJCswURR) | 2:53 | 2022-09-07 | 2022-10-05 |
 | [קוביד 19](https://open.spotify.com/track/7dEtCKY2MthcyP0U6aiMCW) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [סטטוס](https://open.spotify.com/album/25NrLi2xwYYO8WniTmdKL6) | 2:22 | 2022-08-03 | 2022-09-09 |
 | [שלושה בנות](https://open.spotify.com/track/63TUZWEmunvQnAdLUD61yY) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Gitit Fisher](https://open.spotify.com/artist/1dhPws7AA939zNL1Fb7Nz0) | [שלושה בנות](https://open.spotify.com/album/6pUQfBq9yXndShYxbpi84y) | 3:37 | 2022-07-06 | 2022-08-04 |
+| [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-10-11 |  |
 | [الوردة البيضا](https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [الوردة البيضا](https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO) | 3:57 | 2022-08-03 | 2022-09-09 |
-| [حيرة](https://open.spotify.com/track/4GXFUW1qZiScZl9yYXiDn1) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [حيرة](https://open.spotify.com/album/2FFFl04tJ4aahE15xIvp6J) | 2:09 | 2022-10-04 |  |
+| [حيرة](https://open.spotify.com/track/4GXFUW1qZiScZl9yYXiDn1) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [حيرة](https://open.spotify.com/album/2FFFl04tJ4aahE15xIvp6J) | 2:09 | 2022-10-04 | 2022-10-12 |
 | [سم فالكاندي](https://open.spotify.com/track/6eAxR7gY30dCryenLq0WDS) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7ojSmQcXWruyeYQqlf71OX) | 2:27 | 2022-08-03 | 2022-08-28 |
 | [سم فالكاندي](https://open.spotify.com/track/7qk1ioFJUp5wNzPtSvi2E3) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7j5yTR9UnX8gVfOJ8OdqCo) | 2:27 | 2022-08-03 | 2022-09-09 |
 | [شفت النجوم](https://open.spotify.com/track/2GQB3Xe1J9D2sK90AtHfhI) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [شفت النجوم](https://open.spotify.com/album/7150HyQxphdEnrai0PoxAc) | 3:50 | 2022-06-01 | 2022-07-07 |

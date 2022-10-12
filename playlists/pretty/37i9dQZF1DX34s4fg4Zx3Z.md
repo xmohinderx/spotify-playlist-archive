@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,181 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,200 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 11 | [Ngủ sớm đi em](https://open.spotify.com/track/4npevI1mOdm4ZQBkfBjHj4) | [DucMinh](https://open.spotify.com/artist/6uT7bp7jeZwhkYkRVWfL8H) | [Ngủ sớm đi em](https://open.spotify.com/album/3pLiDmck1nidXgFLoFQ4qj) | 3:55 |
 | 12 | [Anh Có Cần Không](https://open.spotify.com/track/0NICxX2baAn6lhlaaVqEWY) | [Shin Hồng Vịnh](https://open.spotify.com/artist/4x1bGwkuFRoVqnCJ31ODel) | [Anh Có Cần Không](https://open.spotify.com/album/2moKC9gCUh0rO0F4SeEek3) | 3:19 |
 | 13 | [Không Muốn Ai Thấy Anh Tổn Thương](https://open.spotify.com/track/71kgf0V4RGjykAHUflHZTW) | [Ngô Thành Dương](https://open.spotify.com/artist/1xTKBiDwUhUQBQ2V0Qc272), [Nachi Khang](https://open.spotify.com/artist/1qV9ThJ2DqKWlZ8zdS1Xpr) | [Không Muốn Ai Thấy Anh Tổn Thương](https://open.spotify.com/album/0yimTSK8t6eNhDz6USp9Sm) | 5:48 |
-| 14 | [Phong Lan](https://open.spotify.com/track/0easgugjN6uwY6OKrrhux0) | [Võ Dang Tài](https://open.spotify.com/artist/3eBrBADJodSISYcc8giIJ4) | [Phong Lan](https://open.spotify.com/album/2gjf0mCeonTSeJPwyRlPPL) | 3:39 |
+| 14 | [Phong Lan](https://open.spotify.com/track/0easgugjN6uwY6OKrrhux0) | [Võ Dang Tài](https://open.spotify.com/artist/2aXkcDMrATRVaHBCrLdTVy) | [Phong Lan](https://open.spotify.com/album/2gjf0mCeonTSeJPwyRlPPL) | 3:39 |
 | 15 | [ĐẬM SÂU](https://open.spotify.com/track/0frxC5D0uIjToqh6OlVmro) | [Lor](https://open.spotify.com/artist/2F7Jz1oc6c64rzPk6tnwV9), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [ĐẬM SÂU](https://open.spotify.com/album/75JUMhyjihZANZzbe5ZvvV) | 3:21 |
 | 16 | [Adrenaline](https://open.spotify.com/track/4fol1mRfChVQotmqksmytV) | [Young Draco](https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA), [Young Bo5](https://open.spotify.com/artist/3IKIHkOCcJqWpM3fYMqk6o), [Ozee Kxng](https://open.spotify.com/artist/17vAfc5ZHLo0FHmutTI46A) | [Adrenaline](https://open.spotify.com/album/2l9z4aAx7R3K3KQWru1tvw) | 3:28 |
 | 17 | [Vào Hang](https://open.spotify.com/track/2kG1zeBlXnvkUwPzmXt64W) | [LONGK](https://open.spotify.com/artist/2zYHfXyQ432mvYJuP2cbp9), [Viet Devils](https://open.spotify.com/artist/2BlyTKBwIQAJnV9j9fcmNg) | [Vào Hang](https://open.spotify.com/album/6AEI0sxsU0LfkVgleW2q5K) | 3:10 |

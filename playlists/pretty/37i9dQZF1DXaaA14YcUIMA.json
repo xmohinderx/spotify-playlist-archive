@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Bukis en portada. ",
-  "num_followers": 278230,
+  "num_followers": 278416,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3NjM4NywwMDAwMDAwMGFiNDM0YmYxMDgyYmM3NmEyNTU4MzJmZWJjNTI0ZGNh",
+  "snapshot_id": "MTY0NzQ3NjM4NywwMDAwMDAwMDAyMjYwN2Q4MDlkYjM0MWZiYzQ0ZGJmYmVlMTZiYjAx",
   "tracks": [
     {
       "added_at": "2022-03-17 00:19:47",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1",
-        "url": "https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Abracadabra",
-          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "En Realidad",
-      "url": "https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Verano De Amor",
         "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 210800,
       "name": "Rosas Rojas",
       "url": "https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Abracadabra",
+          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "En Realidad",
+      "url": "https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS"
     },
     {
       "added_at": "2022-03-17 00:19:47",

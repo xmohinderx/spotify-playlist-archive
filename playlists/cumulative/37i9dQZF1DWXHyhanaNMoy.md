@@ -4,7 +4,7 @@
 
 > De playlist voor magic, motion en good vibes! Cover: Jinho 9
 
-210 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+211 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 | 2022-07-21 | 2022-08-26 |
 | [Actief in de night](https://open.spotify.com/track/4EPomXYQdoGjFbBH03Tvf0) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [C.c](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT) | [Actief in de night](https://open.spotify.com/album/2BqrpEnSgDTsrD6ZcVmHA7) | 2:53 | 2022-09-15 |  |
 | [Activeren](https://open.spotify.com/track/2BTLc3HjGW71DtDGe0ngbB) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Passion](https://open.spotify.com/artist/1J83abhW7lGHgDpTeTUuSd) | [Activeren](https://open.spotify.com/album/3diG0itmo6d1DN24tNl7CF) | 2:48 | 2022-09-15 | 2022-10-07 |
+| [Air Max](https://open.spotify.com/track/5G65Qm4RBZM7VzsiP8tZ0P) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [Koning Met Principes](https://open.spotify.com/album/4u9j22MWqT44ICoxWoV9nc) | 2:46 | 2022-10-11 |  |
 | [Allez Allez](https://open.spotify.com/track/0IeRfqzN4AonzZIKaPMXtw) | [Ismo](https://open.spotify.com/artist/2vRJ1xr5DT4PdBnM63DBJZ) | [Allez Allez](https://open.spotify.com/album/0s2RgOo6slU8PkcfuoRaox) | 2:02 | 2022-09-08 | 2022-09-16 |
 | [Als Het Lukt](https://open.spotify.com/track/6ZKYbnNV87dPVG0FXLp7n3) | [Ella Banks](https://open.spotify.com/artist/5hQfwoHdd8NBpDKXWHORIM) | [Als Het Lukt](https://open.spotify.com/album/3DX2CDY4G0M8O1NikcatSE) | 2:06 | 2022-07-14 | 2022-09-16 |
 | [Amazin' \- Remix](https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Amazin’ \(Remix\)](https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h) | 2:55 | 2022-07-14 |  |

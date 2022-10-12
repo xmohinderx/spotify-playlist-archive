@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127193,
+  "num_followers": 127188,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzY4MywzYTkyYjBmNTAxNmYxOTg5ZGMwM2RhN2MxOWRhNzg5YmI1YTgyMGRl",
+  "snapshot_id": "MzY4NSwwZjAxN2I1YzgxMGMxYmRiNDc0YWFiNTRlZjY5MmExYjUyOTcwMGVh",
   "tracks": [
+    {
+      "added_at": "2022-10-11 17:36:14",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/1qPdose5MyZE37xgnGKz1e"
+      },
+      "artists": [
+        {
+          "name": "Leah Culver",
+          "url": "https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts"
+        }
+      ],
+      "duration_ms": 158440,
+      "name": "October",
+      "url": "https://open.spotify.com/track/3dI7bW8OnWBUCCeBNwQ08J"
+    },
     {
       "added_at": "2022-10-10 16:37:14",
       "album": {

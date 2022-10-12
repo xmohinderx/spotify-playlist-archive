@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joan Manuel Serrat.
 
-199 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/1rcqnJTuxkgmJDpLbQBBLY)
+200 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/1rcqnJTuxkgmJDpLbQBBLY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A cántaros](https://open.spotify.com/track/6mZQ848txlUxzLmHtKTlxx) | [Pablo Guerrero](https://open.spotify.com/artist/27s7VFWdC1HrBcNI3fzCPp) | [En el Olympia \(Cantautores para la libertad\)](https://open.spotify.com/album/2ZxlSQfRHXrFOxk4udiw95) | 3:07 | 2022-06-30 | 2022-07-29 |
 | [A la Sombra de un León](https://open.spotify.com/track/4jptQwyaHK6SmHlUMClolD) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Los Grandes Exitos..\. Y Mas](https://open.spotify.com/album/2bDPIzb4w8HRT7JX479CTz) | 4:00 | 2022-06-09 | 2022-07-29 |
 | [A Little Respect](https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tú Ve](https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV) | 3:28 | 2022-06-30 | 2022-08-12 |
-| [A Tu Vida](https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Árbol y el Bosque](https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT) | 3:16 | 2022-06-09 |  |
+| [A Tu Vida](https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Árbol y el Bosque](https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT) | 3:16 | 2022-06-09 | 2022-10-12 |
 | [Adios rios, adios fontes](https://open.spotify.com/track/5QYwFUayrzxqwVV7GEMXM3) | [Amancio Prada](https://open.spotify.com/artist/2zzdcDYrrZE11oQ4xo2Ufr) | [Rosalia de Castro](https://open.spotify.com/album/3DnXxEHxaVU2J1QjYPwKc7) | 2:36 | 2022-06-09 | 2022-07-25 |
 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 | 2022-06-09 |  |
 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 | 2022-06-09 |  |
@@ -176,6 +176,7 @@
 | [Solo le Pido a Dios](https://open.spotify.com/track/5zXJVUTFMZlwZ3BKC9FBSC) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [La Negra \- The Definitive Collection](https://open.spotify.com/album/0a46V30Rb49IYla0NQQaqe) | 4:39 | 2022-06-09 | 2022-07-29 |
 | [Solo Otra Vez \- Alone Again](https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:26 | 2022-06-09 |  |
 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 | 2022-06-09 |  |
+| [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 | 2022-09-22 |  |
 | [Soñar Contigo](https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Los Mares De China](https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA) | 3:06 | 2022-06-09 |  |
 | [Soñar Contigo](https://open.spotify.com/track/5WKzka1jZPxUDW6gIjKOSQ) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Soñar Contigo](https://open.spotify.com/album/4ViiFnAxrjJsARuAKD756H) | 4:35 | 2022-06-09 | 2022-07-29 |
 | [Sólo Le Pido a Dios \- En Directo](https://open.spotify.com/track/3L7BpEVfClIMpJHy5e0Ehv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mercedes Sosa En Argentina \(En Directo\)](https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC) | 4:39 | 2022-06-30 |  |

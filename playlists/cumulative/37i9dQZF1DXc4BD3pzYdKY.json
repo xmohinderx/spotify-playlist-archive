@@ -3233,7 +3233,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 148302,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/0QyCYdkhrrpilgmIfPsDhm"
@@ -6194,6 +6194,24 @@
     },
     {
       "album": {
+        "name": "JUDAS",
+        "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100587,
+      "name": "ICE COLD",
+      "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
+    },
+    {
+      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/4yhrYvq3KBDsFGrtqM6ATh"
       },
@@ -6970,6 +6988,32 @@
     },
     {
       "album": {
+        "name": "Life I Chose",
+        "url": "https://open.spotify.com/album/67RbE9vpMGTm1PiZNrFGOH"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        },
+        {
+          "name": "2J Mako",
+          "url": "https://open.spotify.com/artist/4PW8LhWM1NaETYEzlYTpqV"
+        },
+        {
+          "name": "GQ DASTEPPA",
+          "url": "https://open.spotify.com/artist/6FJTRJCbi7oGB9n8CyLMNU"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251306,
+      "name": "Life I Chose (feat. 2j Mako & Gq Dasteppa)",
+      "url": "https://open.spotify.com/track/7cmOHJCAMp9D7GENfvyyJy"
+    },
+    {
+      "album": {
         "name": "Lift You Up (feat. Gabe De La Fuego)",
         "url": "https://open.spotify.com/album/1jCVfXdWpyPvJq1yXkYtf9"
       },
@@ -7609,7 +7653,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 150857,
       "name": "MAYBACH DREAMS",
       "url": "https://open.spotify.com/track/02A7EPAAXMUes29ey5FBBJ"

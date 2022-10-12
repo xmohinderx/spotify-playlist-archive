@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-516 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+517 songs - 1 day 3 hr 12 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Hometown Heroes](https://open.spotify.com/track/5WIm8DA0JdrHz9tVFcOnxW) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Hometown Heroes](https://open.spotify.com/album/1kvvoby3nAXtMZebuRtVxp) | 3:06 | 2022-03-24 | 2022-04-18 |
 | [Honest](https://open.spotify.com/track/6GA5TVYR34SoRv8OvRKarY) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [Honest](https://open.spotify.com/album/4cH11OunMUMHKuhSvWEMvL) | 3:46 | 2022-03-24 | 2022-04-04 |
 | [House Burn Down](https://open.spotify.com/track/48oBIuYRNSsKPigKQAQzXp) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [House Burn Down](https://open.spotify.com/album/5hoJlHBaY7391kmYXbV4zu) | 3:10 | 2022-03-24 | 2022-04-14 |
-| [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 | 2022-08-09 |  |
+| [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 | 2022-08-09 | 2022-10-12 |
 | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/track/2ymOJYGe3noIiQF83yAysV) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E), [Lydia Night](https://open.spotify.com/artist/0J5n8cS1rKCAZ7eJek1uYK) | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/album/6JMXuj7c10IpXdwHWp7ZHd) | 3:12 | 2022-03-24 | 2022-05-24 |
 | [How Do You Love Somebody](https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [How Do You Love Somebody](https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc) | 3:00 | 2022-06-03 |  |
 | [How Not To Drown \(feat\. Robert Smith\)](https://open.spotify.com/track/0gNnngLmd8zSikRqUGt2DU) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [How Not To Drown](https://open.spotify.com/album/3QDXgEZ8LfC1CxkZpETteX) | 5:31 | 2022-03-24 | 2022-04-17 |
@@ -486,6 +486,7 @@
 | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/track/2qP3VifO2gnLn7sj5md688) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/album/1xeTGwmriV3NHmNgMzvPav) | 2:57 | 2022-03-24 | 2022-04-17 |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2022-03-24 | 2022-04-10 |
 | [Up From A Dream](https://open.spotify.com/track/3MKdPWUmCXymXVGKf2Njdr) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:17 | 2022-03-24 | 2022-04-16 |
+| [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:05 | 2022-10-06 |  |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-03-17 | 2022-08-30 |
 | [Velvet](https://open.spotify.com/track/1wwM5H5qpU0PfHEDsFEiJW) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 2:58 | 2022-03-24 | 2022-04-20 |
 | [Vertigo](https://open.spotify.com/track/4N6KMuOIpoCE97UiXOml1S) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Vertigo](https://open.spotify.com/album/4Ee1r6lPG1neAJZUT6Drz7) | 2:19 | 2022-03-24 | 2022-04-19 |

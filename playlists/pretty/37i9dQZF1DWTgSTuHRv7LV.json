@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Flyboiz",
-  "num_followers": 454596,
+  "num_followers": 454632,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDJlOTNhZGM5N2ZhMjRmZmVlOGYyNjliOGFkZTFiMThh",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDliOWQ1ZDc5MTMwYmFkOTEyOTIwMWNmNjkyYjJkNTg4",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Inmortales",
+        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "duration_ms": 190017,
+      "name": "Aquella Noche",
+      "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Complicado",
         "url": "https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 240600,
       "name": "Complicado",
       "url": "https://open.spotify.com/track/5LxtXRqA2i3LBWdJiqE91O"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Inmortales",
-        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
-      },
-      "artists": [
-        {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
-        }
-      ],
-      "duration_ms": 190017,
-      "name": "Aquella Noche",
-      "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -671,22 +671,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/5AcJamqKm6zHdBdwvztI0Z"
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 167254,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/5VD5mr12uonOBeEFbqobXA"
+      "duration_ms": 199825,
+      "name": "SOLO POR VOS",
+      "url": "https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -743,18 +739,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/5AcJamqKm6zHdBdwvztI0Z"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 199825,
-      "name": "SOLO POR VOS",
-      "url": "https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE"
+      "duration_ms": 167254,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/5VD5mr12uonOBeEFbqobXA"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Baby Schai",
+        "url": "https://open.spotify.com/album/2Wqz2QJ5XyofmG6xqWHAEa"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 190608,
+      "name": "Baby Schai",
+      "url": "https://open.spotify.com/track/1p01JS6Kpbwvizl2VXjkbZ"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Pa To' Los Combos",
         "url": "https://open.spotify.com/album/7yinu5ZWVI3S3qYBETiHbb"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 340480,
       "name": "Pa To Los Combo",
       "url": "https://open.spotify.com/track/1fui3e4HmhPSkxmblO5U0h"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Baby Schai",
-        "url": "https://open.spotify.com/album/2Wqz2QJ5XyofmG6xqWHAEa"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 190608,
-      "name": "Baby Schai",
-      "url": "https://open.spotify.com/track/1p01JS6Kpbwvizl2VXjkbZ"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "KLK",
-        "url": "https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 181802,
-      "name": "KLK",
-      "url": "https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "TRAP DE VERDAD",
         "url": "https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 194484,
       "name": "TODO AUTOMATICO",
       "url": "https://open.spotify.com/track/38uRnUZTf0eCKfKNnVUSaT"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "KLK",
+        "url": "https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 181802,
+      "name": "KLK",
+      "url": "https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Vocales",
-        "url": "https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 158570,
-      "name": "Vocales",
-      "url": "https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "No Creyeron",
         "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
       },
@@ -1787,50 +1771,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Explicita",
-        "url": "https://open.spotify.com/album/3LtFl0dohF761jukARAR5L"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        },
-        {
-          "name": "Josephlee",
-          "url": "https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY"
-        },
-        {
-          "name": "Freestyle Mania",
-          "url": "https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp"
-        }
-      ],
-      "duration_ms": 189913,
-      "name": "Explicita",
-      "url": "https://open.spotify.com/track/2E3XW68AKV6tVB5Jr1OQJ9"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Socios II",
-        "url": "https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Problem\u00e1tico",
-      "url": "https://open.spotify.com/track/6mDxG6lF6qQNxl0sv4UnZh"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "On The Road (feat. Elpatron970, Felp 22)",
         "url": "https://open.spotify.com/album/2YSdNZSMUEkwSp0vWkuSYh"
       },
@@ -1859,6 +1799,66 @@
       "duration_ms": 237244,
       "name": "On The Road (feat. Elpatron970, Felp 22)",
       "url": "https://open.spotify.com/track/4M7xavogNEIQUsZzYpczCr"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Vocales",
+        "url": "https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 158570,
+      "name": "Vocales",
+      "url": "https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Socios II",
+        "url": "https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Problem\u00e1tico",
+      "url": "https://open.spotify.com/track/6mDxG6lF6qQNxl0sv4UnZh"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Explicita",
+        "url": "https://open.spotify.com/album/3LtFl0dohF761jukARAR5L"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        },
+        {
+          "name": "Josephlee",
+          "url": "https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY"
+        },
+        {
+          "name": "Freestyle Mania",
+          "url": "https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp"
+        }
+      ],
+      "duration_ms": 189913,
+      "name": "Explicita",
+      "url": "https://open.spotify.com/track/2E3XW68AKV6tVB5Jr1OQJ9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2127,22 +2127,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Chapter 1: Comentarios",
-        "url": "https://open.spotify.com/album/7msrBR2PXYJy3epn5hbruN"
+        "name": "Corta y Palo",
+        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
       },
       "artists": [
         {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+          "name": "Joniel",
+          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
         },
         {
-          "name": "Elio Mafiaboy",
-          "url": "https://open.spotify.com/artist/220fH9KvHqXP9T4r3IwlJH"
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
         }
       ],
-      "duration_ms": 193125,
-      "name": "Chapter 1: Comentarios",
-      "url": "https://open.spotify.com/track/68UjQzzvXO0HTZvMEkcTsx"
+      "duration_ms": 220689,
+      "name": "Corta y Palo",
+      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2167,22 +2167,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Corta y Palo",
-        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
+        "name": "Chapter 1: Comentarios",
+        "url": "https://open.spotify.com/album/7msrBR2PXYJy3epn5hbruN"
       },
       "artists": [
         {
-          "name": "Joniel",
-          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         },
         {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+          "name": "Elio Mafiaboy",
+          "url": "https://open.spotify.com/artist/220fH9KvHqXP9T4r3IwlJH"
         }
       ],
-      "duration_ms": 220689,
-      "name": "Corta y Palo",
-      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
+      "duration_ms": 193125,
+      "name": "Chapter 1: Comentarios",
+      "url": "https://open.spotify.com/track/68UjQzzvXO0HTZvMEkcTsx"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "La Calle Pide Trap",
-        "url": "https://open.spotify.com/album/63kNYPAtFjKYKWcllm1HfU"
-      },
-      "artists": [
-        {
-          "name": "Frijo",
-          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
-        }
-      ],
-      "duration_ms": 181764,
-      "name": "La Calle Pide Trap",
-      "url": "https://open.spotify.com/track/38NcqOyy10j5WUzLujHPkZ"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Freestyle 15",
         "url": "https://open.spotify.com/album/3X9CTnU2UNfL9kfIP2MvUQ"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 115615,
       "name": "Freestyle 15",
       "url": "https://open.spotify.com/track/0hR5ZTx3IexoOJLBcsh1x3"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "La Calle Pide Trap",
+        "url": "https://open.spotify.com/album/63kNYPAtFjKYKWcllm1HfU"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "La Calle Pide Trap",
+      "url": "https://open.spotify.com/track/38NcqOyy10j5WUzLujHPkZ"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Seres de Noche",
-        "url": "https://open.spotify.com/album/7lmm7sVUgcVkSLlXD4hdi0"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 228292,
-      "name": "Seres de Noche",
-      "url": "https://open.spotify.com/track/4hRWp9ouazLXyfZpucb621"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Pantomima",
         "url": "https://open.spotify.com/album/5YsaJHsw59oY9ZeKylIfVw"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 178440,
       "name": "Pantomima",
       "url": "https://open.spotify.com/track/4fsXDxTG07fGWnmfT5EZP8"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Seres de Noche",
+        "url": "https://open.spotify.com/album/7lmm7sVUgcVkSLlXD4hdi0"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "Seres de Noche",
+      "url": "https://open.spotify.com/track/4hRWp9ouazLXyfZpucb621"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2671,22 +2671,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "X Ley",
-        "url": "https://open.spotify.com/album/6Xp1BnOqHLIyXo0VDetv3u"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "X Ley",
-      "url": "https://open.spotify.com/track/5ym3peRbw8U3v2SOZ9HtBi"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Harlem Pr",
         "url": "https://open.spotify.com/album/1p6rtnEH4ic1L9fzlLqeis"
       },
@@ -2703,6 +2687,22 @@
       "duration_ms": 214165,
       "name": "Harlem Pr",
       "url": "https://open.spotify.com/track/740mUk7sXKRH3k39Mv7q5n"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "X Ley",
+        "url": "https://open.spotify.com/album/6Xp1BnOqHLIyXo0VDetv3u"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "X Ley",
+      "url": "https://open.spotify.com/track/5ym3peRbw8U3v2SOZ9HtBi"
     },
     {
       "added_at": "2022-10-07 04:01:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGNkYzA0ZjZkOTcxMjNhN2EyYjFlODdiNmRlNjhmYzkw",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGE5ZTY0ZjJkZGY3ZjcxNWRmNWE0Njc0NjZjZTU4OTFm",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -303,22 +303,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "South Rampart Street Parade",
-        "url": "https://open.spotify.com/album/6ZlaNBrehRvuDtOb9mXVG1"
-      },
-      "artists": [
-        {
-          "name": "Bob Crosby & His Orchestra",
-          "url": "https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4"
-        }
-      ],
-      "duration_ms": 213906,
-      "name": "South Rampart Street Parade",
-      "url": "https://open.spotify.com/track/1iz1K5LJL5FpXAUGXNAIQE"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "New Orleans Preservation, Vol. 1",
         "url": "https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 266866,
       "name": "I Wish I Could Shimmy Like My Sister Kate",
       "url": "https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "South Rampart Street Parade",
+        "url": "https://open.spotify.com/album/6ZlaNBrehRvuDtOb9mXVG1"
+      },
+      "artists": [
+        {
+          "name": "Bob Crosby & His Orchestra",
+          "url": "https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4"
+        }
+      ],
+      "duration_ms": 213906,
+      "name": "South Rampart Street Parade",
+      "url": "https://open.spotify.com/track/1iz1K5LJL5FpXAUGXNAIQE"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Complete Set - 1923-1926",
-        "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
-      },
-      "artists": [
-        {
-          "name": "Freddie Keppard",
-          "url": "https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "Stock Yards Strut",
-      "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Presenting Eddie Condon",
         "url": "https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 217520,
       "name": "I'm Gonna Stomp, Mr Henry Lee",
       "url": "https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Complete Set - 1923-1926",
+        "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
+      },
+      "artists": [
+        {
+          "name": "Freddie Keppard",
+          "url": "https://open.spotify.com/artist/0y247K7t0JULOQuGx17ZFJ"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "Stock Yards Strut",
+      "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -971,6 +971,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "The Best Of Dixieland Volume 1",
+        "url": "https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4"
+      },
+      "artists": [
+        {
+          "name": "Pete Fountain and The Kings Of Dixieland",
+          "url": "https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So"
+        }
+      ],
+      "duration_ms": 192783,
+      "name": "Washington Post March",
+      "url": "https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Roaring' 20's",
         "url": "https://open.spotify.com/album/6yGyFKhtYmeatToldl421e"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 182360,
       "name": "Dixie",
       "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Best Of Dixieland Volume 1",
-        "url": "https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4"
-      },
-      "artists": [
-        {
-          "name": "Pete Fountain and The Kings Of Dixieland",
-          "url": "https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So"
-        }
-      ],
-      "duration_ms": 192783,
-      "name": "Washington Post March",
-      "url": "https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q"
     },
     {
       "added_at": "2020-08-19 17:19:14",

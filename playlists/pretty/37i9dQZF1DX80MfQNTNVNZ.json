@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul",
-  "num_followers": 119178,
+  "num_followers": 119237,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA2ODQwMCwwMDAwMDAwMDE1NzlmYTUwNGQ5OGRjNjhkM2M4OTE0Mjc0ZmE4YjNm",
+  "snapshot_id": "MTY2NTA2ODQwMCwwMDAwMDAwMGIwN2JjZTQ1NzkwM2NhZmIyZjkwYTczYTBjZTE2NmZj",
   "tracks": [
     {
       "added_at": "2022-10-06 15:00:00",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2022-10-06 15:00:00",
       "album": {
-        "name": "Mind Games (feat. Jackson Wang)",
-        "url": "https://open.spotify.com/album/1fbmGW0Sy8WQlhCZ5UC5zb"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        }
-      ],
-      "duration_ms": 193251,
-      "name": "Mind Games (feat. Jackson Wang)",
-      "url": "https://open.spotify.com/track/6JbxkCyeOto3xXjcFalZ3e"
-    },
-    {
-      "added_at": "2022-10-06 15:00:00",
-      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 237517,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
+    },
+    {
+      "added_at": "2022-10-06 15:00:00",
+      "album": {
+        "name": "Mind Games (feat. Jackson Wang)",
+        "url": "https://open.spotify.com/album/1fbmGW0Sy8WQlhCZ5UC5zb"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "duration_ms": 193251,
+      "name": "Mind Games (feat. Jackson Wang)",
+      "url": "https://open.spotify.com/track/6JbxkCyeOto3xXjcFalZ3e"
     },
     {
       "added_at": "2022-10-06 15:00:00",

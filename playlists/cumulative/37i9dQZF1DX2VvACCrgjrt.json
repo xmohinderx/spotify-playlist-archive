@@ -4303,7 +4303,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 140701,
       "name": "Move It",
       "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
@@ -5005,6 +5005,24 @@
       "duration_ms": 147031,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/3TKYpVvhTKoKl5vIrX96AD"
+    },
+    {
+      "album": {
+        "name": "Public",
+        "url": "https://open.spotify.com/album/1CS7DBWXXeY4lnsOX6tT78"
+      },
+      "artists": [
+        {
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Public",
+      "url": "https://open.spotify.com/track/4dg7IXEgbNCqogvzBITcPj"
     },
     {
       "album": {

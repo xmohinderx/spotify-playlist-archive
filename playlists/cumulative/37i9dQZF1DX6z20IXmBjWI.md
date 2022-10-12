@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems.
 
-327 songs - 20 hr 23 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
+328 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2021-12-10 |  |
 | [It'll Work Itself Out](https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1) | 3:02 | 2022-06-08 |  |
 | [It'll Work Itself Out](https://open.spotify.com/track/1WvRxjDesc8qkTwYQO55gI) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/2dtz6kpnXfJygR4QpYE6cG) | 3:02 | 2021-12-10 | 2022-07-27 |
-| [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 | 2021-12-10 |  |
+| [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 | 2021-12-10 | 2022-10-12 |
 | [Keep 'Em on They Toes](https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Keep 'Em on They Toes](https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD) | 2:43 | 2022-06-08 |  |
 | [Keep 'Em on They Toes](https://open.spotify.com/track/5OXrQDOfnEp52MvMnAk7pp) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shut up and Sing](https://open.spotify.com/album/5XLbgFB2qMD77ww4zaSaPQ) | 2:43 | 2021-12-10 | 2022-07-29 |
 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 | 2021-12-10 |  |
@@ -274,6 +274,7 @@
 | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75) | 3:00 | 2022-06-08 |  |
 | [The Trouble with Wanting](https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:55 | 2021-12-10 | 2022-07-29 |
 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 | 2022-06-08 |  |
+| [The West Coast Of Clare](https://open.spotify.com/track/51iBStlAJlUriO53s93F6l) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P) | 5:26 | 2022-06-08 |  |
 | [The West Coast Of Clare](https://open.spotify.com/track/5Jd4WYKDUvvGQyAkkMLSsP) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The West Coast Of Clare](https://open.spotify.com/album/50Vlxh0lJvptb6NMS9NCma) | 5:26 | 2021-12-10 | 2022-07-29 |
 | [The Wolves](https://open.spotify.com/track/5yUfBfsoFd1PzQHrkWVTdV) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/3Z2WGCFNGlAJgiyG2tOkjs) | 4:05 | 2021-12-10 | 2022-07-29 |
 | [The Wolves](https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:05 | 2022-06-08 |  |

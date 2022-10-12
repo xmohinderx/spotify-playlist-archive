@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,055 songs - 4 day 22 hr 21 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,056 songs - 4 day 22 hr 23 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1477,6 +1477,7 @@
 | [Light](https://open.spotify.com/track/2VcNtkkyAQI0bKg7jF7oqb) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Fountain](https://open.spotify.com/album/6XIr3Kp2QBQyqeDzSMeGXU) | 1:58 | 2019-05-26\* | 2019-08-13 |
 | [Light Voyage](https://open.spotify.com/track/4FavKfLIxRpy9C5aERZE0i) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Light Voyage](https://open.spotify.com/album/1xuCp4UgFn33EsuLOurbWS) | 2:09 | 2020-05-01 | 2020-07-10 |
 | [Lights](https://open.spotify.com/track/6PStVF9NRkaGba63BdYVBS) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [Lights](https://open.spotify.com/album/0vqdLY4WsIGDSE9xZFcD7t) | 2:12 | 2021-08-07 | 2022-03-25 |
+| [Lights Out](https://open.spotify.com/track/6S9TAvxvhHt3ASUMxcvvCz) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Lights Out](https://open.spotify.com/album/2ZCPxfJJJLdh3EO11edL6C) | 1:48 | 2022-10-06 |  |
 | [Like A Bird](https://open.spotify.com/track/3OTcXmVsChQzflumr0BtK8) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Like A Bird](https://open.spotify.com/album/6jf9OHWeJUmygZeGzkslQS) | 2:13 | 2021-04-30 | 2022-01-21 |
 | [Like Night Owls](https://open.spotify.com/track/6D6WzLKZ0e7qnHsANlslAQ) | [This Is Tomorrow](https://open.spotify.com/artist/3G5wyB2uNUo9x4nFXgPrws) | [Like Night Owls](https://open.spotify.com/album/5iNSTGaMQevZHHL5EzgLhL) | 2:19 | 2021-08-19 | 2021-09-17 |
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2021-08-13 | 2021-11-12 |
@@ -2471,7 +2472,7 @@
 | [Starry Skies](https://open.spotify.com/track/0YGM7B0MuN8ckaNdW7YOtR) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Starry Skies](https://open.spotify.com/album/0XM1dDM5Nul9nwCAgH26af) | 1:48 | 2020-05-15 | 2020-07-24 |
 | [Starry\-eyed](https://open.spotify.com/track/09MLBbbSEclHFNhTWGmHEq) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Starry\-eyed](https://open.spotify.com/album/48kYocYHBWxLoVpikQMxwd) | 1:52 | 2021-09-10 | 2021-10-16 |
 | [Stars](https://open.spotify.com/track/2fPtFdtqKVF2JV7Yu9aanO) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Stars](https://open.spotify.com/album/25izLIieLtCxiuuhL15lSA) | 1:51 | 2022-01-27 |  |
-| [Starshine](https://open.spotify.com/track/0cKNygs8IvaQ4ljxUWZWTy) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Starshine](https://open.spotify.com/album/6HDssgGT7U3SmmqndSOSlM) | 3:20 | 2022-09-22 |  |
+| [Starshine](https://open.spotify.com/track/0cKNygs8IvaQ4ljxUWZWTy) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Starshine](https://open.spotify.com/album/6HDssgGT7U3SmmqndSOSlM) | 3:20 | 2022-09-22 | 2022-10-12 |
 | [STATEMENTS](https://open.spotify.com/track/47SYiKPJaav8VpmzRsKQzO) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [STATEMENTS](https://open.spotify.com/album/6Y7a6oD5zQM2FVyH5XK8MH) | 2:05 | 2019-05-26\* | 2019-06-15 |
 | [Stay Cozy](https://open.spotify.com/track/5KdvoOJBvMBVlTeOWK5pq4) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Stay Cozy](https://open.spotify.com/album/3ac67d2E6MvupYDizRU2hY) | 1:59 | 2021-07-09 | 2021-08-18 |
 | [Stay True](https://open.spotify.com/track/1vXy8zHVAY4EIE4BUxIMAV) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Stay True](https://open.spotify.com/album/769Z2dFn9KTY0l5I5SLa11) | 1:36 | 2022-05-20 |  |

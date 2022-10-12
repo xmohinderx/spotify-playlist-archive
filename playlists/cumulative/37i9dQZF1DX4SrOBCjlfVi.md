@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Quavo & Takeoff, A Boogie and more\. Cover: G Herbo
 
-1,593 songs - 3 day 2 hr 41 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,594 songs - 3 day 2 hr 43 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1074,6 +1074,7 @@
 | [Playa \(feat\. H.E.R.\)](https://open.spotify.com/track/2yLDniiA2kYECf7IE3f2bd) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Playa](https://open.spotify.com/album/1W06ElmmLtIuontPTRxw7v) | 2:38 | 2022-04-01 | 2022-04-09 |
 | [Plenty](https://open.spotify.com/track/2ss1LPi7nbrzUKjxsRxkWH) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Whale Games](https://open.spotify.com/album/3GjJR2eVc3KOAzrB1uTnca) | 1:42 | 2022-05-02 | 2022-05-20 |
 | [Pogo Stick](https://open.spotify.com/track/1qJQmFwpaW4RQEjw55nUjE) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [Pogo Stick](https://open.spotify.com/album/3TpiW7u9Ja6qQj2K7znFiW) | 2:26 | 2022-07-22 | 2022-07-30 |
+| [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-11 |  |
 | [Politics](https://open.spotify.com/track/05qqgspXrDuKexaw0iO0kI) | [Yhung T.O.](https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l) | [Politics](https://open.spotify.com/album/3GYdWkyO494FsxVOm4D6YC) | 2:45 | 2022-10-07 |  |
 | [Pon de River](https://open.spotify.com/track/2j8JwskHQF2SZcli0PwhDJ) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Pon de River](https://open.spotify.com/album/33cO3U6w4Voi8C7CT5jAo1) | 2:32 | 2022-06-24 | 2022-07-02 |
 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-01-21 | 2022-02-05 |

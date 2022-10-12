@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Michael C
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,439 likes - 116 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,449 likes - 116 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 115 | [Fuccboi 2.0](https://open.spotify.com/track/7b60XiOYeu5ZVC2xfzgZe4) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [柒羊](https://open.spotify.com/artist/7w0DcVVbW8WKwc5xx0wlgW) | [Live Twice](https://open.spotify.com/album/2ZFnWV0PjomKo5TAGr0HW8) | 2:30 |
 | 116 | [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 |
 
-Snapshot ID: `MTY2NTA3MjAwMCwwMDAwMDAwMGQ2ZThlNDVhOTAwZTI5ODQ4ZTY3MDRjMmVkODdkNDM4`
+Snapshot ID: `MTY2NTQ2NTEwNywwMDAwMDAwMDE1ZjIwNGU4MGEwZDk1ZDdlZGI5ODdhZThiZTI0NTJm`

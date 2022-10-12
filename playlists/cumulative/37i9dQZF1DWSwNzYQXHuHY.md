@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-158 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
+159 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Heart in Motion](https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 3:47 | 2022-05-11 | 2022-07-26 |
 | [Hide and Seek](https://open.spotify.com/track/4dv1Ygd62DuZEjzqVivgKE) | [Park Seo Ryoung](https://open.spotify.com/artist/3feVktwro8QoXPKQqe20gy) | [Hide and Seek](https://open.spotify.com/album/1QgeqdZEcBZXSUqykXvyDZ) | 3:06 | 2022-05-11 | 2022-07-27 |
 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 | 2022-05-11 |  |
+| [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 | 2022-10-07 |  |
 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 | 2022-05-11 |  |
 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 | 2022-05-11 | 2022-07-24 |
 | [I Have A Crush On You \(feat\. Meriberry\)](https://open.spotify.com/track/2KCV2Iaug6B6ygEO5c2ZPa) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN), [Meriberry](https://open.spotify.com/artist/0Nf0qk7EHwnEfRMgqac3qb) | [I Have A Crush On You](https://open.spotify.com/album/7izgPF1TAkWkm7G1QNqlLE) | 3:13 | 2022-07-04 | 2022-07-12 |
@@ -88,7 +89,7 @@
 | [Maudie](https://open.spotify.com/track/7qcdtKc7dflDG35ieESgo9) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 4:04 | 2022-05-11 | 2022-07-12 |
 | [Maybe](https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Maybe](https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs) | 3:41 | 2022-08-12 |  |
 | [Meet Me At Your Place \(Feat\. KANTO\)](https://open.spotify.com/track/0To6ccckBxRNuKkoG8xku1) | [1%](https://open.spotify.com/artist/4Eyqj9gm4OX7A6IltsD5W7), [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju) | [Meet Me At Your Place](https://open.spotify.com/album/0yrtUoCc020xe7Zy3Mu7vd) | 3:00 | 2022-06-09 | 2022-07-26 |
-| [Milky Way](https://open.spotify.com/track/1BcokUlDjWwaTPu05OarRG) | [SEOHYUN](https://open.spotify.com/artist/5uM1Et50auro2hTS6ZLcmT) | [Jinxed at First \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/2fe7Nm865FuJYBn0L2sjw8) | 2:56 | 2022-07-08 |  |
+| [Milky Way](https://open.spotify.com/track/1BcokUlDjWwaTPu05OarRG) | [SEOHYUN](https://open.spotify.com/artist/5uM1Et50auro2hTS6ZLcmT) | [Jinxed at First \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/2fe7Nm865FuJYBn0L2sjw8) | 2:56 | 2022-07-08 | 2022-10-12 |
 | [NDGGA](https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [NDGGA](https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg) | 2:55 | 2022-07-08 |  |
 | [NDGGA](https://open.spotify.com/track/4k4PQkx007qoo6XPbijp9z) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [NDGGA](https://open.spotify.com/album/6odNnyBlFKEmh4stF55VrI) | 2:55 | 2022-05-11 | 2022-07-29 |
 | [Night Walk](https://open.spotify.com/track/4vjPhD54kvJTZCdk0Eguob) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [Temperature of Love](https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV) | 3:33 | 2022-05-11 | 2022-07-13 |

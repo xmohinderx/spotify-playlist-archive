@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: محمد التركي
 
-160 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+161 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Kolshy Ma Bayha](https://open.spotify.com/track/17bI0GhEjP59OHu4yuYjst) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Kolshy Ma Bayha](https://open.spotify.com/album/58XqFD7G0i5cMDbFqnkqmH) | 3:24 | 2022-05-31 |  |
 | [Kul Aaqlik](https://open.spotify.com/track/3KLBisaDEYNU8cZqCu8rc1) | [Naser Almansouri](https://open.spotify.com/artist/0knsv9nmoVyEDtz3N2vBoB) | [Kul Aaqlik](https://open.spotify.com/album/0AhXjQFS4bh1mIpVnMlb2c) | 2:41 | 2021-12-23 | 2022-01-07 |
 | [Kursi AlMalk](https://open.spotify.com/track/4wAujWCFWU2sP8zXnIALRa) | [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu), [Aya Alqaisi](https://open.spotify.com/artist/012QJkuaDN2iAgnTAGoMXS) | [Kursi AlMalk](https://open.spotify.com/album/3iVeuoQc68GSfAMQoeff57) | 3:20 | 2021-12-23 | 2022-04-06 |
+| [La Ta3lik \- لا تعليق](https://open.spotify.com/track/2idrLeovShKhSEgxpbXJPZ) | [Humam Ibrahim](https://open.spotify.com/artist/5G8jeOHN04AHRt5Ln3kbX4) | [La Ta3lik \(لا تعليق\)](https://open.spotify.com/album/21527GyQ0xj6EHB5SqDAv8) | 3:02 | 2022-10-11 |  |
 | [La Yalbukht](https://open.spotify.com/track/3q6f7xBrpHwt8PvmWCMuXZ) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [La Yalbukht](https://open.spotify.com/album/4hWmhWJk8VZeoIfl8nesys) | 3:23 | 2022-02-03 | 2022-06-07 |
 | [Lef Elkon](https://open.spotify.com/track/5Rzq5P1v9xDfPc5jTOieAM) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Lef Elkon](https://open.spotify.com/album/1y0OCBu84DwxC6Ba3toGRA) | 3:20 | 2022-07-10 |  |
 | [Lo Bdali](https://open.spotify.com/track/5gz4UWI9X5NGHL5ZWQz1SK) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Lo Bdali](https://open.spotify.com/album/6ZVzhlLAa79Og3pvyihTXm) | 3:38 | 2021-12-23 | 2022-03-12 |

@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 534263,
+  "num_followers": 534495,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMGZkNzMwMzY0MGE5MmZjMTAwZGViZWEyYjM1Yjk2ZjNj",
+  "snapshot_id": "MTY2NDUxNDAwMCwwMDAwMDAwMGY4NmZjMmY1MzhlMWZkYjIzN2VjOWJkOWVmNTkwYWI2",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/1keL9AYEQKlL5K99Y1lsOT"
     },
     {
+      "added_at": "2022-04-12 02:43:31",
+      "album": {
+        "name": "Isle Of Magic",
+        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
+      },
+      "artists": [
+        {
+          "name": "Mop Mop",
+          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
+        }
+      ],
+      "duration_ms": 246799,
+      "name": "Kamakumba",
+      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
+    },
+    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "\u00c7a fait 2x plus de bien",
@@ -973,22 +989,6 @@
       "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
     },
     {
-      "added_at": "2022-04-12 02:43:31",
-      "album": {
-        "name": "Isle Of Magic",
-        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
-      },
-      "artists": [
-        {
-          "name": "Mop Mop",
-          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
-        }
-      ],
-      "duration_ms": 246799,
-      "name": "Kamakumba",
-      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
-    },
-    {
       "added_at": "2022-08-31 04:41:35",
       "album": {
         "name": "Suburban Breeze",
@@ -1003,22 +1003,6 @@
       "duration_ms": 127545,
       "name": "Suburban Breeze",
       "url": "https://open.spotify.com/track/5zz75fDAvsJj7e63D5iMyY"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Haditouni (Habibi Funk 015)",
-        "url": "https://open.spotify.com/album/6sRXH84YpSaYltT7qDCxMM"
-      },
-      "artists": [
-        {
-          "name": "Douaa",
-          "url": "https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io"
-        }
-      ],
-      "duration_ms": 205874,
-      "name": "Haditouni (Habibi Funk 015)",
-      "url": "https://open.spotify.com/track/40Eql6g1f9BLSWeJ8mZgOU"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Haditouni (Habibi Funk 015)",
+        "url": "https://open.spotify.com/album/6sRXH84YpSaYltT7qDCxMM"
+      },
+      "artists": [
+        {
+          "name": "Douaa",
+          "url": "https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io"
+        }
+      ],
+      "duration_ms": 205874,
+      "name": "Haditouni (Habibi Funk 015)",
+      "url": "https://open.spotify.com/track/40Eql6g1f9BLSWeJ8mZgOU"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
         "url": "https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 420718,
       "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
       "url": "https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Je k'abere",
-        "url": "https://open.spotify.com/album/29vQ4mgLzNjx3t7GB4Qbr1"
-      },
-      "artists": [
-        {
-          "name": "Surv",
-          "url": "https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ"
-        }
-      ],
-      "duration_ms": 261167,
-      "name": "Je k'abere",
-      "url": "https://open.spotify.com/track/0mNYzvTXVvwWlmywEqnzHv"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1101,20 +1085,20 @@
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
-      "added_at": "2022-08-13 01:36:14",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ"
+        "name": "Je k'abere",
+        "url": "https://open.spotify.com/album/29vQ4mgLzNjx3t7GB4Qbr1"
       },
       "artists": [
         {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+          "name": "Surv",
+          "url": "https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ"
         }
       ],
-      "duration_ms": 101560,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"
+      "duration_ms": 261167,
+      "name": "Je k'abere",
+      "url": "https://open.spotify.com/track/0mNYzvTXVvwWlmywEqnzHv"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1135,6 +1119,22 @@
       "duration_ms": 235795,
       "name": "Porsche 944",
       "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
+    },
+    {
+      "added_at": "2022-08-13 01:36:14",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 101560,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
     },
     {
-      "added_at": "2022-08-25 00:38:25",
-      "album": {
-        "name": "Doone Doone",
-        "url": "https://open.spotify.com/album/7mdIUHlz8Pmu4uPRAtT9rX"
-      },
-      "artists": [
-        {
-          "name": "Liraz",
-          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Doone Doone",
-      "url": "https://open.spotify.com/track/2LMsEc6igAKXA5pBFRwpMP"
-    },
-    {
       "added_at": "2022-04-17 20:13:34",
       "album": {
         "name": "Roots in the Air",
@@ -1207,6 +1191,22 @@
       "duration_ms": 215202,
       "name": "Vampire",
       "url": "https://open.spotify.com/track/4oRvjHoSmt1mOagLCdgtkK"
+    },
+    {
+      "added_at": "2022-08-25 00:38:25",
+      "album": {
+        "name": "Doone Doone",
+        "url": "https://open.spotify.com/album/7mdIUHlz8Pmu4uPRAtT9rX"
+      },
+      "artists": [
+        {
+          "name": "Liraz",
+          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Doone Doone",
+      "url": "https://open.spotify.com/track/2LMsEc6igAKXA5pBFRwpMP"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
     },
     {
-      "added_at": "2022-02-11 00:29:03",
-      "album": {
-        "name": "Darker Than Blue",
-        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
-      },
-      "artists": [
-        {
-          "name": "Devon Russell",
-          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Padremontes",
@@ -1291,6 +1275,22 @@
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
+    },
+    {
+      "added_at": "2022-02-11 00:29:03",
+      "album": {
+        "name": "Darker Than Blue",
+        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
+      },
+      "artists": [
+        {
+          "name": "Devon Russell",
+          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
     },
     {
       "added_at": "2022-03-29 03:12:27",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
     },
     {
-      "added_at": "2022-04-26 02:37:33",
-      "album": {
-        "name": "Let the Festivities Begin!",
-        "url": "https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Las Panteras",
-      "url": "https://open.spotify.com/track/78wov1rtJdf7ZnPNNXBDWY"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Ya Aen Daly (Habibi Funk 015)",
@@ -1343,6 +1327,22 @@
       "duration_ms": 214750,
       "name": "Ya Aen Daly (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/1WfRCBqkSWqXF7rPKBJ0dr"
+    },
+    {
+      "added_at": "2022-04-26 02:37:33",
+      "album": {
+        "name": "Let the Festivities Begin!",
+        "url": "https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Las Panteras",
+      "url": "https://open.spotify.com/track/78wov1rtJdf7ZnPNNXBDWY"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Late Night Tales: Khruangbin",
-        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
-      },
-      "artists": [
-        {
-          "name": "Maxwell Udoh",
-          "url": "https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9"
-        }
-      ],
-      "duration_ms": 390121,
-      "name": "I Like It (Don't Stop)",
-      "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Anima latina",
         "url": "https://open.spotify.com/album/6Dm9F6WuFAbYrevLFAfyfZ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 397586,
       "name": "Anima latina",
       "url": "https://open.spotify.com/track/6XOguNHu0tyQRFhPqoBFeV"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Late Night Tales: Khruangbin",
+        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Udoh",
+          "url": "https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9"
+        }
+      ],
+      "duration_ms": 390121,
+      "name": "I Like It (Don't Stop)",
+      "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Belle Wahallah",
+        "url": "https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc"
+      },
+      "artists": [
+        {
+          "name": "Kondi Band",
+          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
+        }
+      ],
+      "duration_ms": 326606,
+      "name": "Yeanoh (Powe'hande Binga'dbe)",
+      "url": "https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 181427,
       "name": "Ginga",
       "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Belle Wahallah",
-        "url": "https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc"
-      },
-      "artists": [
-        {
-          "name": "Kondi Band",
-          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
-        }
-      ],
-      "duration_ms": 326606,
-      "name": "Yeanoh (Powe'hande Binga'dbe)",
-      "url": "https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1549,6 +1549,26 @@
       "url": "https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Wahala Wahala",
+        "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
+      },
+      "artists": [
+        {
+          "name": "K.O.G",
+          "url": "https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi"
+        },
+        {
+          "name": "The Zongo Brigade",
+          "url": "https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd"
+        }
+      ],
+      "duration_ms": 361715,
+      "name": "Suro Nipa",
+      "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
+    },
+    {
       "added_at": "2022-08-31 05:19:50",
       "album": {
         "name": "Ghibli",
@@ -1579,26 +1599,6 @@
       "duration_ms": 199240,
       "name": "Bukaroo Bank",
       "url": "https://open.spotify.com/track/4mAXzM7ZF1nFrJY6qSjdpX"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Wahala Wahala",
-        "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
-      },
-      "artists": [
-        {
-          "name": "K.O.G",
-          "url": "https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi"
-        },
-        {
-          "name": "The Zongo Brigade",
-          "url": "https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd"
-        }
-      ],
-      "duration_ms": 361715,
-      "name": "Suro Nipa",
-      "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Expansions",
-        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
-      },
-      "artists": [
-        {
-          "name": "Bacao Rhythm & Steel Band",
-          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
-        }
-      ],
-      "duration_ms": 151948,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Pase lo Que Pase",
         "url": "https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/4eNcQUEVbRkIIu9HdfN180"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Expansions",
+        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
+      },
+      "artists": [
+        {
+          "name": "Bacao Rhythm & Steel Band",
+          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
+        }
+      ],
+      "duration_ms": 151948,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
     },
     {
       "added_at": "2021-10-26 03:22:21",
@@ -1737,20 +1737,20 @@
       "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
     },
     {
-      "added_at": "2022-04-26 02:37:33",
+      "added_at": "2022-04-17 17:23:49",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+        "name": "Tinko Tinko (Don't Play Me For a Fool)",
+        "url": "https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 272375,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/1R2g3aWdOv9BOUjqMgZTic"
+      "duration_ms": 187906,
+      "name": "Tinko Tinko (Don't Play Me for a Fool)",
+      "url": "https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6"
     }
   ],
   "unique_name": "Global Groove",

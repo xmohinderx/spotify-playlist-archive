@@ -4220,6 +4220,24 @@
     },
     {
       "album": {
+        "name": "North Memphis",
+        "url": "https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq"
+      },
+      "artists": [
+        {
+          "name": "Pharmacist",
+          "url": "https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135826,
+      "name": "North Memphis",
+      "url": "https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr"
+    },
+    {
+      "album": {
         "name": "NOTHING",
         "url": "https://open.spotify.com/album/3CygmOk16boufN92DA7xxR"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 164 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 196 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 19 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
 | 20 | [Mary Jane \(All Night Long\)](https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:39 |
 | 21 | [Touch It](https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Big Bang](https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq) | 3:34 |
-| 22 | [Gangsta](https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [Gangsta \(Remix\)](https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD) | 3:36 |
-| 23 | [Find Someone Like You](https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:26 |
+| 22 | [Find Someone Like You](https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:26 |
+| 23 | [Gangsta](https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [Gangsta \(Remix\)](https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD) | 3:36 |
 | 24 | [Hate Me Now \(feat\. Diddy\)](https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [I Am...](https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa) | 4:44 |
 | 25 | [On To The Next One](https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:16 |
 | 26 | [Around The Way Girl](https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 49 | [Inner G](https://open.spotify.com/track/37tNZm4rc7JurO55X6xHTi) | [Jahnya](https://open.spotify.com/artist/6y09dM8DdPHYCtoIDxAHT2) | [Inner G](https://open.spotify.com/album/1u5uKl52hG6kODMImLNI8B) | 2:50 |
 | 50 | [Flex](https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Dancehall 101 Vol\. 3](https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH) | 3:50 |
 
-Snapshot ID: `MTY2NDY0MjU4MywwMDAwMDAwMDkwMmEyMWRjY2Y3NjIwZTU4YTYwMWY4ZWE2ODkyYjdk`
+Snapshot ID: `MTY2NDY0MjU4MywwMDAwMDAwMGFmOGYxNzkzZGI4YTBhOTYzOTJjY2YyZmY3MmYzY2Nl`

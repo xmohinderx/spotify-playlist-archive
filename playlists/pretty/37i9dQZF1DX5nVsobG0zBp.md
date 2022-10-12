@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,234 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,282 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 14 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
 | 15 | [Mo Boy](https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 3:52 |
 | 16 | [Meu Deus](https://open.spotify.com/track/0PdCHtiX5w5P4W8NvLrUx2) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Meu Deus](https://open.spotify.com/album/0ypWv4RvWiIL1gRgXQKIvh) | 3:42 |
-| 17 | [Irresponsável](https://open.spotify.com/track/1AgqELuodwiIUbJhXM74Jx) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Irresponsável](https://open.spotify.com/album/1kPMe6IT9S56HnFRnHiISK) | 4:22 |
-| 18 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
+| 17 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
+| 18 | [Irresponsável](https://open.spotify.com/track/1AgqELuodwiIUbJhXM74Jx) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Irresponsável](https://open.spotify.com/album/1kPMe6IT9S56HnFRnHiISK) | 4:22 |
 | 19 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 20 | [Bairro](https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Bairro](https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46) | 4:18 |
 | 21 | [Moncler](https://open.spotify.com/track/2jwNTvtfC1JoroZURUspXC) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [Moncler](https://open.spotify.com/album/5V9MRkH3TQlZJKtHJl00kV) | 3:40 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 26 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 |
 | 27 | [TRIBUNAL](https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [SYSTEM](https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1) | 4:06 |
 | 28 | [Dado](https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Dado](https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn) | 3:27 |
-| 29 | [Primeira Vez](https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Primeira Vez](https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE) | 2:35 |
-| 30 | [Bolero](https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Los Cavakitos](https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi) | [Bolero](https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT) | 4:20 |
+| 29 | [Bolero](https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Los Cavakitos](https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi) | [Bolero](https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT) | 4:20 |
+| 30 | [Primeira Vez](https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Primeira Vez](https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE) | 2:35 |
 | 31 | [Voodoo](https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR) | 4:50 |
 | 32 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
 | 33 | [Gravidade](https://open.spotify.com/track/1xKyLu1AbYauopjoAi0bQU) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Gravidade](https://open.spotify.com/album/7LuTGQfSAmdbOi1SRv7C7W) | 4:03 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 45 | [Só Queria Sorrir](https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 3:42 |
 | 46 | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/track/46Pfb5oErr8WVn3frcXybC) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:39 |
 | 47 | [Conto](https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Conto](https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi) | 3:22 |
-| 48 | [Mo Money Mo Problems](https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Mo Money Mo Problems](https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap) | 2:38 |
-| 49 | [La Bella Mafia](https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [La Bella Mafia](https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP) | 4:00 |
+| 48 | [La Bella Mafia](https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [La Bella Mafia](https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP) | 4:00 |
+| 49 | [Mo Money Mo Problems](https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Mo Money Mo Problems](https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap) | 2:38 |
 | 50 | [Sentimento Safari](https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sentimento Safari](https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv) | 3:25 |
 | 51 | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2) | 3:29 |
 | 52 | [Nós](https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Nós](https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz) | 4:38 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 54 | [À Vontade \(feat\. Fínix MG\)](https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fínix MG](https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 5:36 |
 | 55 | [Noite De Loucura](https://open.spotify.com/track/2V8nMMUbjGSjwSTYfx6zjq) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [NOCAP](https://open.spotify.com/artist/3Btn1ywwqv6SaBQnkWesMb), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0) | [Noite De Loucura](https://open.spotify.com/album/4Y3A4edz8Uqya0a1eIk7qn) | 3:35 |
 | 56 | [Não há impossíveis](https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Não há impossíveis](https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI) | 2:34 |
-| 57 | [Perseus](https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Perseus](https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ) | 3:34 |
-| 58 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
+| 57 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
+| 58 | [Perseus](https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Perseus](https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ) | 3:34 |
 | 59 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
 | 60 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
 
-Snapshot ID: `MTY2NTA5MzYwMCwwMDAwMDAwMDMzZjQ1MDBhZDcxYjBmNDE1ZDVmNzgzNDg4ODI0MWNi`
+Snapshot ID: `MTY2NTA5MzYwMCwwMDAwMDAwMDEzOTVlOGZiOTAzYjE5NzA4ZjY4YzFiZDE1YmQyY2Zh`

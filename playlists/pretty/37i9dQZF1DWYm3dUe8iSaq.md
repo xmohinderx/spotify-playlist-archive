@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,226 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,270 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 32 | [Old Times](https://open.spotify.com/track/2LpnnVITgcXV3vaQysj37V) | [Tamu Massif](https://open.spotify.com/artist/2kU7oX1Uxv4xalarIEjMpm) | [Old Times](https://open.spotify.com/album/6Ub6Ympxgyntxct4EgrpKw) | 4:34 |
 | 33 | [Smoke](https://open.spotify.com/track/24Avnz5JAgVmH0xNBsXUvH) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Smoke](https://open.spotify.com/album/6bbFvcKFbe4xqSxGzyIegJ) | 3:38 |
 | 34 | [Alpine Green](https://open.spotify.com/track/5eBrtJj35okckUbYP78X14) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Alpine Green](https://open.spotify.com/album/0nocoG26Snubuxek095d2y) | 2:30 |
-| 35 | [Butterfly](https://open.spotify.com/track/2husMCUsF2HdWmGKhr0lo2) | [Nanuk](https://open.spotify.com/artist/1tiS5alc7qw8Ag9yYePWY0) | [Butterfly](https://open.spotify.com/album/7vDC6freFYc73J5YHbBzvh) | 3:13 |
+| 35 | [Butterfly](https://open.spotify.com/track/2husMCUsF2HdWmGKhr0lo2) | [Nanuk](https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7) | [Butterfly](https://open.spotify.com/album/7vDC6freFYc73J5YHbBzvh) | 3:13 |
 | 36 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
 | 37 | [Drive You Home](https://open.spotify.com/track/1xUTQQKrTrGc7JPUi5gWPg) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq), [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Drive You Home](https://open.spotify.com/album/3uu5fit1E8Oa6Vv2bVwz8c) | 2:49 |
 | 38 | [Way Again](https://open.spotify.com/track/2bXHgXfMFF67xirAn2dsLA) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Each Memory and Every Fall](https://open.spotify.com/album/2YOx7Bj4WBtWPMw8JwGm4s) | 4:48 |

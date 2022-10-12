@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Beltran, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,091 likes - 101 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,152 likes - 101 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: Manuel Agnelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,622 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,634 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

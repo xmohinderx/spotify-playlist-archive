@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 7,342 likes - 42 songs - 2 hr 39 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 7,349 likes - 42 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 33 | [Forgotten Boy](https://open.spotify.com/track/4WgfbLxBL75X5xqmP1zACV) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/2CKqapMPL6O0T8cqvFmyVz) | 3:44 |
 | 34 | [Haze](https://open.spotify.com/track/2N6yK82VDU4wKMFd56XesU) | [Lesser Evil](https://open.spotify.com/artist/4SH8pEXJuSWb6zwmA4zMFl) | [Haze](https://open.spotify.com/album/4UgbzHcO2ppQnknyhqDXYX) | 4:48 |
 | 35 | [Growing Wild](https://open.spotify.com/track/7MKpsMv2cniTc8nRnu6H9G) | [I Was A King](https://open.spotify.com/artist/0SannT3hsrgAXQ9abyVQsB) | [Growing Wild](https://open.spotify.com/album/2iJPzpIK2rrfh0DWpuXWx1) | 2:38 |
-| 36 | [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [The Golden Dregs](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 |
+| 36 | [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 |
 | 37 | [sunday](https://open.spotify.com/track/3zr4TeNjRDqvGBCdXPhSmT) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [sunday](https://open.spotify.com/album/4GACDuLDmUJ1twsLW9N3Ak) | 4:24 |
 | 38 | [Save the Phenomenon](https://open.spotify.com/track/14Ykc7zF64qrKVj1mMDoGE) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [Save the Phenomenon](https://open.spotify.com/album/2TcDBUuP9cpHPsBfVyRNIa) | 1:46 |
 | 39 | [Do The Dance](https://open.spotify.com/track/7KH8IMHpgrWV1Hi8sRoa4m) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Do The Dance](https://open.spotify.com/album/1zO5VoC7hYn3Tm1kIcvsWd) | 3:14 |

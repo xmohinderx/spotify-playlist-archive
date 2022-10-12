@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Amon Amarth
 
-659 songs - 2 day 1 hr 10 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+660 songs - 2 day 1 hr 14 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A New Heartbeat](https://open.spotify.com/track/3sstQegc7AaQqP20x2TrL0) | [Tygers Of Pan Tang](https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna) | [A New Heartbeat](https://open.spotify.com/album/4JTsXydqlKIYCTJ2HOjG0u) | 4:12 | 2022-04-08 | 2022-07-19 |
 | [A New Land](https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Resurrection Day](https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl) | 3:50 | 2021-12-17 | 2022-07-28 |
 | [A Perfect Apocalypse](https://open.spotify.com/track/7bYey6XdAn8I5fTXWPrXOz) | [Reece](https://open.spotify.com/artist/3y2xjLsVCS4M4pMoYY3dM5) | [A Perfect Apocalypse](https://open.spotify.com/album/380JHizLF357lyRGRCGP8c) | 4:07 | 2022-01-14 | 2022-04-17 |
-| [A Perfect Day to Die](https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [A Perfect Day to Die](https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD) | 3:50 | 2021-12-17 |  |
+| [A Perfect Day to Die](https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [A Perfect Day to Die](https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD) | 3:50 | 2021-12-17 | 2022-10-12 |
 | [A Statue of the King](https://open.spotify.com/track/6onJXFCCG302XlD7j0puR8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Avatar Country](https://open.spotify.com/album/4n3K2YQ2TYUppYdXN2xDFY) | 3:44 | 2022-03-22 | 2022-04-20 |
 | [Absinthe Children](https://open.spotify.com/track/1sLuebUQL26k6N47EE7lD7) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [Ruins](https://open.spotify.com/album/7ddNWr43lXlo6LbFZgOLdf) | 5:31 | 2022-01-28 | 2022-07-26 |
 | [Abyss](https://open.spotify.com/track/45NROGUYtGuOJzO7NTlgx9) | [Mind Riot](https://open.spotify.com/artist/1TfGMeYSHRoSmgkNqhPdRw) | [Abyss](https://open.spotify.com/album/5LHQvwBOHoHQb45ss15KkH) | 3:49 | 2021-12-17 | 2022-04-20 |
@@ -224,6 +224,7 @@
 | [Going Hunting \- Edit](https://open.spotify.com/track/722ZaBl6RTzYP3bq1P7Nit) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Going Hunting](https://open.spotify.com/album/39uxGGCb4dTwsIFl9VdKEv) | 3:56 | 2021-12-17 | 2022-07-29 |
 | [Gordian Naught](https://open.spotify.com/track/6QD6PReeaIZ5iZXVEntcKE) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Gordian Naught](https://open.spotify.com/album/4NZVjgBQQw9iscGkydO5J2) | 4:48 | 2022-03-22 | 2022-04-02 |
 | [Grayscale](https://open.spotify.com/track/2e9mDdiPdwkyyTceSiNHbQ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Grayscale](https://open.spotify.com/album/4ujTrzNAnVZid6lnVUULvu) | 3:59 | 2022-09-09 | 2022-10-09 |
+| [Grayscale](https://open.spotify.com/track/3mnSgoZalFJkqsbIaQQOfW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x) | 3:59 | 2022-10-07 |  |
 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 | 2022-08-19 |  |
 | [Guiding Light](https://open.spotify.com/track/580BXGwESv2tV5K7YR9GI0) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Guiding Light](https://open.spotify.com/album/7D7bLUMdrReUVeavqhMlkX) | 6:00 | 2022-01-14 | 2022-04-20 |
 | [Gunfire](https://open.spotify.com/track/0fMuzQi38wXOcW4lVLJYpW) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [Gunfire](https://open.spotify.com/album/4OIbjD6PkHuR2kwIkl6Bsk) | 5:20 | 2021-12-17 | 2022-07-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Major RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,566 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,631 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 8 | [Mais Que Isso](https://open.spotify.com/track/7cwOSjgr1DexGiCOeO4mAK) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Mais Que Isso](https://open.spotify.com/album/1K7HUVEUPfDuai2PY91Hfa) | 2:42 |
 | 9 | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl) | 3:27 |
 | 10 | [Lembro](https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Lembro](https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT) | 2:44 |
-| 11 | [Como É Que Tá?](https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 2:19 |
-| 12 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
+| 11 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
+| 12 | [Como É Que Tá?](https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 2:19 |
 | 13 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 |
 | 14 | [Mandrake](https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [Mandrake](https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg) | 1:52 |
 | 15 | [Aonde Eu Sou Cria](https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Aonde Eu Sou Cria](https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Dez e Faixa](https://open.spotify.com/track/6IL4ZRTz8QlJ6VuSg3F3Rv) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [TONCALi](https://open.spotify.com/artist/3enZVLaByIf1A6appp41gc) | [Dez e Faixa](https://open.spotify.com/album/0soK3TwSlDh53P3q48WPdK) | 2:37 |
 | 50 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
 
-Snapshot ID: `MTY2NTExMTg1MywwMDAwMDAwMGY3ZmM4NjA5M2RjMjcwNDExMTA4ZTRhYjA1MWJhYzBi`
+Snapshot ID: `MTY2NTExMTg1MywwMDAwMDAwMDAwYjFiZGM1ODRiNDRhMWJhZmViMWI1OTM5Y2Q3NTQ2`

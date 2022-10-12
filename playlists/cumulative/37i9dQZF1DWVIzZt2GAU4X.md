@@ -4,7 +4,7 @@
 
 > Vocals and keys, front and center\. Cover: Adele
 
-199 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/1Q4zrbwq1b10L5GOd0I2Ek)
+200 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/1Q4zrbwq1b10L5GOd0I2Ek)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Always Yours](https://open.spotify.com/track/7migRLi1DXN3x0Fz3RA5pP) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [Always Yours](https://open.spotify.com/album/4EWYTqj1Ye7FD6ZkW94csN) | 2:57 | 2021-11-19 | 2022-07-29 |
 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 | 2022-04-01 |  |
 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 | 2022-03-25 | 2022-04-21 |
-| [Another Love](https://open.spotify.com/track/5FKnuwsKf7YFpmhA5Wnl0q) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Songs from Another Love](https://open.spotify.com/album/51ZlqbsTCEQfpvtrcRIxXB) | 4:10 | 2022-03-25 |  |
+| [Another Love](https://open.spotify.com/track/5FKnuwsKf7YFpmhA5Wnl0q) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Songs from Another Love](https://open.spotify.com/album/51ZlqbsTCEQfpvtrcRIxXB) | 4:10 | 2022-03-25 | 2022-10-12 |
 | [Apologize \- feat\. One Republic](https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:04 | 2022-03-25 |  |
 | [Back To Black](https://open.spotify.com/track/1YkV2y6QU4zya9sonV0m8R) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/6NykKu6IjzO1r7UFANX8kh) | 4:00 | 2022-03-25 | 2022-04-21 |
 | [Back To Black](https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:01 | 2022-07-15 |  |
@@ -99,6 +99,7 @@
 | [Imagining \(feat\. Gabrielle Aplin\) \- Piano Version](https://open.spotify.com/track/1NIEvaYOcyBq5aGAXligPq) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Imagining \(feat\. Gabrielle Aplin\) \[Piano Version\]](https://open.spotify.com/album/2QnQjwP6Vg4R6WKW3aOwnj) | 3:32 | 2021-11-19 | 2022-03-17 |
 | [Impossible \- Acoustic](https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 4:10 | 2021-11-19 | 2022-07-29 |
 | [Infinity \- Piano Version](https://open.spotify.com/track/1UigUkLa6PNiHZPuh16Q22) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Infinity \(Piano Version\)](https://open.spotify.com/album/4VPba64zSa5M8Sl77LNQ5e) | 3:55 | 2021-11-19 | 2022-04-21 |
+| [Innocence and Sadness](https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 4:12 | 2022-10-07 |  |
 | [Is That Alright?](https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:11 | 2021-11-19 | 2022-07-29 |
 | [Last Of The True Believers \- Acoustic](https://open.spotify.com/track/0p0nJ9xWdY5wTmVCbiIQ62) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:41 | 2021-11-19 | 2022-07-29 |
 | [Latch \- Acoustic](https://open.spotify.com/track/3XyU03WycJQ02kExHb9dqW) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Nirvana](https://open.spotify.com/album/4v62Eu3WGIFCBMy9WlD7hY) | 3:41 | 2022-03-25 | 2022-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, karma driven, hard hitting pop\. This is SALT\. Cover: Maisie Peters
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,212 likes - 66 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,395 likes - 66 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

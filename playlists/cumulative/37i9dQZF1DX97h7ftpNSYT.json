@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Taking it back to the 2010s. Cover: PnB Rock",
+  "description": "Taking it back to the 2010s. Cover: Kendrick Lamar",
   "name": "I Love My 2010s Hip-Hop",
   "published_playlist_ids": [
     "0NVnLMZLWX74QAANrVArj1"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 310720,
       "name": "Bitch, Don\u2019t Kill My Vibe",
       "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9"
@@ -7098,6 +7098,28 @@
     },
     {
       "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o"
+    },
+    {
+      "album": {
         "name": "good kid, m.A.A.d city",
         "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
@@ -7113,7 +7135,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -7289,7 +7311,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 246320,
       "name": "Mula (feat. French Montana)",
       "url": "https://open.spotify.com/track/58TVklmpOY1envnRmzZJlu"
@@ -8637,7 +8659,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 300160,
       "name": "Poetic Justice",
       "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
@@ -10313,6 +10335,24 @@
       "duration_ms": 247800,
       "name": "Swimming Pools (Drank)",
       "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313786,
+      "name": "Swimming Pools (Drank) - Extended Version",
+      "url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
     },
     {
       "album": {

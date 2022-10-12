@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhruv Vikram
 
-204 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+205 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Semma Bodha \(From "Think Originals"\)](https://open.spotify.com/track/4tugggYmgNVjmMPIMzLC45) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH) | [Semma Bodha \(From "Think Originals"\)](https://open.spotify.com/album/7nC9Y3QpO4fWpj0FfqMJMA) | 3:16 | 2021-12-01 |  |
 | [Shades of Kadhal](https://open.spotify.com/track/7kJVLzF7COXgFVlKRaYwoK) | [Maran](https://open.spotify.com/artist/7JhSxGPLRqMPRncKAaNCmU) | [Shades of Kadhal](https://open.spotify.com/album/17zOJvxutXuxVYYx9O1Zsk) | 2:56 | 2021-12-01 |  |
 | [Sirikkiriye \- From "Azhagi"](https://open.spotify.com/track/0yZgCSrAQ2TF06H31LJLdB) | [Praveen Ram](https://open.spotify.com/artist/6HyAuuOnTQuz48aHvCAAa7), [Praveen Gunendran](https://open.spotify.com/artist/1AXchzqueZFYKft4uSMMzC) | [Sirikkiriye \(From "Azhagi"\)](https://open.spotify.com/album/7kHdcZPNjizrptjbl31GSo) | 3:42 | 2022-09-12 |  |
+| [Solladi Kanave](https://open.spotify.com/track/7AOhwDbECq6kzmC9ZMwBx4) | [Sathushan](https://open.spotify.com/artist/1aTh7hMXvlie2jR0WjeNAm), [Ajay Lakshan](https://open.spotify.com/artist/4mvBpIbJQkEeopjO5x1BkD), [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60) | [Solladi Kanave](https://open.spotify.com/album/40fVGnuvBETqevco0wIMoE) | 5:22 | 2022-10-12 |  |
 | [Summertime Kaadhal](https://open.spotify.com/track/5nkn93sR9oU8XBuWRnpC44) | [Ashwin Vinayagamoorthy](https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h) | [Summertime Kaadhal](https://open.spotify.com/album/0uMFEpvLWVwlb507BCDyiP) | 2:58 | 2022-05-18 |  |
 | [SuNaPaNa](https://open.spotify.com/track/3cWWmzOqkHkMnAR1ER8hKM) | [Vibin Baskar](https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w), [Sriram Seethapathy](https://open.spotify.com/artist/294LTYgwMylGoWZp3O6CCX), [Ramya Vasanth](https://open.spotify.com/artist/7FPtsbiDbRhJt2yoYnzigU) | [SuNaPaNa](https://open.spotify.com/album/4wXjujaVpp2gvi3lEXBkZD) | 3:19 | 2022-03-07 |  |
 | [Swipe Right Material](https://open.spotify.com/track/1iqvIcsgUfOGuqSltgPfQY) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dee MC](https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C), [Kartik Shah](https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb) | [Swipe Right Material](https://open.spotify.com/album/5PVTBm7DZXOXBfKdkDVFVN) | 3:23 | 2022-02-15 | 2022-07-16 |

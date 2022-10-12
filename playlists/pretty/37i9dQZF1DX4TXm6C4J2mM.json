@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157108,
+  "num_followers": 157100,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMDdmNmMyZGJmZjZhODQzYWE3MTk3OTIyYTE2MWRjOGY0",
+  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMDdlYTdiN2VjNzA3NjZkNmMwNmU0YjQ5MzU5M2I4ZjM1",
   "tracks": [
     {
       "added_at": "2022-10-10 21:14:39",
@@ -735,30 +735,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "In Your Eyes (feat. Alida) [LUM!X Remix]",
-        "url": "https://open.spotify.com/album/7uqg0348XuSZ9GZzndW20W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 203906,
-      "name": "In Your Eyes (feat. Alida) - LUM!X Remix",
-      "url": "https://open.spotify.com/track/4sDsOUcpA53YU5HZ8A3VZT"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
         "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 140078,
       "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
       "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "In Your Eyes (feat. Alida) [LUM!X Remix]",
+        "url": "https://open.spotify.com/album/7uqg0348XuSZ9GZzndW20W"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "In Your Eyes (feat. Alida) - LUM!X Remix",
+      "url": "https://open.spotify.com/track/4sDsOUcpA53YU5HZ8A3VZT"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Bass Goes Down",
-        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
-      },
-      "artists": [
-        {
-          "name": "MOLOW",
-          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
-        },
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        }
-      ],
-      "duration_ms": 144449,
-      "name": "Bass Goes Down",
-      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Mockingbirds (VIZE Remix)",
         "url": "https://open.spotify.com/album/3lNy3fNdMHRw0oxMHpXxuz"
       },
@@ -1575,26 +1555,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Raindrops",
-        "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
-      },
-      "artists": [
-        {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
-        },
-        {
-          "name": "Violet Days",
-          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
-        }
-      ],
-      "duration_ms": 151832,
-      "name": "Raindrops",
-      "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU"
       },
@@ -1655,6 +1615,26 @@
       "duration_ms": 159425,
       "name": "Tell Me I'm Pretty - Icona Pop Remix",
       "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
+      },
+      "artists": [
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        },
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        }
+      ],
+      "duration_ms": 151832,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -2131,6 +2111,26 @@
       "duration_ms": 161760,
       "name": "Hypnotize (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/0LyrSQgF6gZfWAyt24LsfU"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Next to Neon",
+          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
     }
   ],
   "unique_name": "Tr\u00e4ning",

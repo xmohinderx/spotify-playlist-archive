@@ -1,12 +1,12 @@
 {
   "description": "A pop rock running mix.",
-  "num_followers": 157550,
+  "num_followers": 157756,
   "original_name": "Pop Rock Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0ODYwMSwwMDAwMDAwMDc5MGEzZWQ4NGRlNTYwYThkNzEwYzhmODRkYjVhOWQ3",
+  "snapshot_id": "MTY2NTA0ODYwMSwwMDAwMDAwMDI4MzVlYzY3MzdhZDA2MGY2M2FjOTAzOTAzMjRlZjdj",
   "tracks": [
     {
       "added_at": "2022-08-12 10:55:26",
@@ -217,6 +217,22 @@
       "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
     },
     {
+      "added_at": "2022-10-12 01:34:26",
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 215734,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
+    },
+    {
       "added_at": "2022-08-12 10:55:26",
       "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
@@ -231,22 +247,6 @@
       "duration_ms": 216600,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
-    },
-    {
-      "added_at": "2022-10-11 01:18:45",
-      "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 215734,
-      "name": "Bad Omens",
-      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
     },
     {
       "added_at": "2022-08-12 10:55:26",
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
     },
     {
-      "added_at": "2022-10-11 01:18:45",
+      "added_at": "2022-10-12 01:34:26",
       "album": {
         "name": "Tissues",
         "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-08-12 10:55:26",
       "album": {
+        "name": "ATLAS (Deluxe)",
+        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Money Run Low",
+      "url": "https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI"
+    },
+    {
+      "added_at": "2022-08-12 10:55:26",
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
-    },
-    {
-      "added_at": "2022-08-12 10:55:26",
-      "album": {
-        "name": "ATLAS (Deluxe)",
-        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Money Run Low",
-      "url": "https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI"
     },
     {
       "added_at": "2022-08-12 10:55:26",

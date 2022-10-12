@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-437 songs - 1 day 2 hr 33 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+438 songs - 1 day 2 hr 37 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [The 1](https://open.spotify.com/track/7noKYyf85hoLDrUIE57lN5) | [Otis Junior](https://open.spotify.com/artist/3JWTfcIZq4OUdC6oBunofK), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Nova le grand mix 2016](https://open.spotify.com/album/1TlzWlyjSPJqgGi3nAnU8i) | 3:07 | 2022-03-30 | 2022-04-21 |
 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 | 2022-06-21 |  |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-12-16 | 2022-06-16 |
+| [The Keys](https://open.spotify.com/track/1s8NdAvVPL7MveFNADDkNj) | [Matt Duncan](https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl) | [Soft Times](https://open.spotify.com/album/0OLMUtL6pwJ4X4G1VTFq4C) | 3:37 | 2022-09-26 |  |
 | [The Keys](https://open.spotify.com/track/6ikh8e4YxgOlb11LWUaBp4) | [Matt Duncan](https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl) | [Soft Times](https://open.spotify.com/album/2m5JZAFs0blQ8S4Gm8VJ7a) | 3:37 | 2021-12-16 | 2022-09-25 |
 | [The Next Time Around](https://open.spotify.com/track/6sT8KTifge2F0lcdtyDkDa) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy \(US Edition\)](https://open.spotify.com/album/6uoMTt6m0GlGFASfdfEIVE) | 2:36 | 2022-03-30 | 2022-04-19 |
 | [The Otherside](https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Get On The Otherside](https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3) | 3:49 | 2022-09-26 |  |
@@ -415,7 +416,7 @@
 | [Wake Up](https://open.spotify.com/track/3FKJaFrmNNDuYeUSY8HhmF) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [Wake Up](https://open.spotify.com/album/6HpB2a7hn3T1gKcxIVWN8L) | 3:59 | 2022-03-30 | 2022-04-20 |
 | [Walk the Streets of Love](https://open.spotify.com/track/595G8mWzlzHOpCtWWKOMUm) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk the Streets of Love](https://open.spotify.com/album/5FGRNVfQPJXBvmBdfQeUDB) | 3:29 | 2021-12-16 | 2022-07-29 |
 | [Walking in the Sun](https://open.spotify.com/track/7GGguiA9LkgFT3BZbzHjwQ) | [PANG!](https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3) | [Walking in the Sun](https://open.spotify.com/album/2e3omo3BZINdmAM1QBZSI7) | 3:33 | 2022-03-30 | 2022-10-04 |
-| [Watch What Happens](https://open.spotify.com/track/5pLYbOJYUHdnim9lbjhN2C) | [Chris Montez](https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA) | [Watch What Happens](https://open.spotify.com/album/7EQnweNkqdHRsVc95xxxIV) | 2:42 | 2022-03-30 |  |
+| [Watch What Happens](https://open.spotify.com/track/5pLYbOJYUHdnim9lbjhN2C) | [Chris Montez](https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA) | [Watch What Happens](https://open.spotify.com/album/7EQnweNkqdHRsVc95xxxIV) | 2:42 | 2022-03-30 | 2022-10-12 |
 | [We Got It](https://open.spotify.com/track/0oPU2tJWXRktWAmNhSKfDa) | [Mikala](https://open.spotify.com/artist/1pRds8HK8cbbVG5VyrPjx8) | [We Got It](https://open.spotify.com/album/0TASWp412dquPoBviE8NHG) | 3:52 | 2022-03-30 | 2022-04-20 |
 | [Weaker](https://open.spotify.com/track/4Sp8P7De6b3jCXFnh9mTh0) | [Jimmy Smash](https://open.spotify.com/artist/3ziswS6VSBGwPzIlvEV2zQ) | [Weaker](https://open.spotify.com/album/4qPnf2UGotYpLyVRqGI35d) | 3:39 | 2021-12-30 | 2022-04-20 |
 | [What You Don't Do \- Tom Misch Remix](https://open.spotify.com/track/2pygzLN7fwCgeW5FNaugEm) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [What You Don't Do \(Tom Misch Remix\)](https://open.spotify.com/album/134HP01Gf7TECy2tb4Cj1V) | 3:49 | 2022-03-30 | 2022-04-17 |

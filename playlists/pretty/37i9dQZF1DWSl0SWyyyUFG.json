@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. En portada: Cuisillos de Arturo Mac\u00edas",
-  "num_followers": 103677,
+  "num_followers": 103880,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjI2NCwwMDAwMDAwMGE3Yjc3MDg1NDc1NDRjOTk1ZmY2NjFmNmY1NTY0ZDBl",
+  "snapshot_id": "MTYzNTI1NjI2NCwwMDAwMDAwMDE4Y2I1MWU5OTIwZDhlYTkxNWE3ZjQyNjM1NGFhOTAz",
   "tracks": [
     {
       "added_at": "2021-10-22 05:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 188128,
       "name": "El Indio Enamorado",
       "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "La ni\u00f1a fresa",
-      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Prov\u00f3came",
         "url": "https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X"
       },
@@ -223,18 +207,34 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 154110,
-      "name": "Soy C\u00f3mo Quiero Ser",
-      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
+      "duration_ms": 160626,
+      "name": "La ni\u00f1a fresa",
+      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Volver a Verte",
+        "url": "https://open.spotify.com/album/7Fr4KyfCljns3TO7M0gS1S"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 248520,
+      "name": "Cuatro Rosas",
+      "url": "https://open.spotify.com/track/4MNshDc0FgyiddMjlGbeCV"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Volver a Verte",
-        "url": "https://open.spotify.com/album/7Fr4KyfCljns3TO7M0gS1S"
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
       "artists": [
         {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 248520,
-      "name": "Cuatro Rosas",
-      "url": "https://open.spotify.com/track/4MNshDc0FgyiddMjlGbeCV"
+      "duration_ms": 154110,
+      "name": "Soy C\u00f3mo Quiero Ser",
+      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 157222,
+      "name": "El Viejo Joven",
+      "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
         "name": "Banda Sinaloense los Recoditos",
         "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 174106,
       "name": "La nena",
       "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "El Ultimo Trago",
-        "url": "https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Frio De Ausencia",
-      "url": "https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Joan Sebastian con Tambora",
-        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 157222,
-      "name": "El Viejo Joven",
-      "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "La Estrella de Los Bailes",
         "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 167466,
       "name": "Eva Maria",
       "url": "https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "El Ultimo Trago",
+        "url": "https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Frio De Ausencia",
+      "url": "https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
-      },
-      "artists": [
-        {
-          "name": "Banda Cuisillos",
-          "url": "https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX"
-        }
-      ],
-      "duration_ms": 178590,
-      "name": "Peque\u00f1a Orgullosa",
-      "url": "https://open.spotify.com/track/01Ql3SAvnNIXQRO4Ajjwyl"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Frente A Frente",
         "url": "https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 180337,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
+      },
+      "artists": [
+        {
+          "name": "Banda Cuisillos",
+          "url": "https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX"
+        }
+      ],
+      "duration_ms": 178590,
+      "name": "Peque\u00f1a Orgullosa",
+      "url": "https://open.spotify.com/track/01Ql3SAvnNIXQRO4Ajjwyl"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 252213,
-      "name": "MI Vida Sin Ti",
-      "url": "https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "California Adi\u00f3s",
         "url": "https://open.spotify.com/album/3UePWSFrp52fyNLW0jVVfl"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 166823,
       "name": "Anda Borracho El Buey",
       "url": "https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 252213,
+      "name": "MI Vida Sin Ti",
+      "url": "https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "A Mover el Guayin",
-        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Las mujeres quieren bailar",
-      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Ladr\u00f3n de Amor",
         "url": "https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p"
       },
@@ -1131,22 +1115,6 @@
       "duration_ms": 205280,
       "name": "Borracho Morir\u00e9",
       "url": "https://open.spotify.com/track/2DxXeD084VPwQDQxTiTaSo"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "Como Loco Alucino",
-        "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Nunca se Acabo el Encanto",
-      "url": "https://open.spotify.com/track/4UY78AVRWQycRrJHTCOxRw"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1167,6 +1135,22 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
+        "name": "Como Loco Alucino",
+        "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Nunca se Acabo el Encanto",
+      "url": "https://open.spotify.com/track/4UY78AVRWQycRrJHTCOxRw"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
         "name": "A Bailar Quebradita Y De Caballito",
         "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 158632,
       "name": "Tri Triki Tri Traka",
       "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "A Mover el Guayin",
+        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Las mujeres quieren bailar",
+      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "El Baile de la Cachucha",
-        "url": "https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 175973,
-      "name": "El Baile de la Cachucha",
-      "url": "https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Solo Esta Vez, Con Sabor a Ca\u00f1a Verde...!",
         "url": "https://open.spotify.com/album/4KtrknMzLGD9HZEAdfVUVG"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
+        "name": "El Baile de la Cachucha",
+        "url": "https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 175973,
+      "name": "El Baile de la Cachucha",
+      "url": "https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
         "name": "Hasta el Final",
         "url": "https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW"
       },
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
-        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
+        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
+        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
       },
       "artists": [
         {
@@ -1320,9 +1320,25 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Clave Privada",
-      "url": "https://open.spotify.com/track/1GzuoVH7AOB9lsU8uI7mT0"
+      "duration_ms": 174453,
+      "name": "La Fea",
+      "url": "https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Africanos Al Ataque",
+        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "Ll\u00e9vame Rosas Y Olvida",
+      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1359,26 +1375,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 175415,
-      "name": "Florita Del Alma",
-      "url": "https://open.spotify.com/track/6SdsyCzGpDY5czmoGaczHK"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Mix movidas rom\u00e1nticas (USA)",
         "url": "https://open.spotify.com/album/6XhzyrKMawpGgrMm32F70e"
       },
@@ -1411,18 +1407,22 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Africanos Al Ataque",
-        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
       "artists": [
         {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 205635,
-      "name": "Ll\u00e9vame Rosas Y Olvida",
-      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
+      "duration_ms": 175415,
+      "name": "Florita Del Alma",
+      "url": "https://open.spotify.com/track/6SdsyCzGpDY5czmoGaczHK"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Los Mismos Pero No Iguales",
-        "url": "https://open.spotify.com/album/74x1NJF19oqYd8hJv5iJ6n"
-      },
-      "artists": [
-        {
-          "name": "Banda Espuela De Oro",
-          "url": "https://open.spotify.com/artist/4ZlUjn2j38IZlKiaASimrw"
-        }
-      ],
-      "duration_ms": 188680,
-      "name": "Un Angel",
-      "url": "https://open.spotify.com/track/27zr6DtSt1DqfV2aVlkVDD"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Borracho Morir\u00e9",
         "url": "https://open.spotify.com/album/218YhYSDLhxFPmcjUpDc8G"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 151346,
       "name": "El An\u00f3nimo",
       "url": "https://open.spotify.com/track/2JI8AKFPOO4y9BSLCeU1Ex"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Los Mismos Pero No Iguales",
+        "url": "https://open.spotify.com/album/74x1NJF19oqYd8hJv5iJ6n"
+      },
+      "artists": [
+        {
+          "name": "Banda Espuela De Oro",
+          "url": "https://open.spotify.com/artist/4ZlUjn2j38IZlKiaASimrw"
+        }
+      ],
+      "duration_ms": 188680,
+      "name": "Un Angel",
+      "url": "https://open.spotify.com/track/27zr6DtSt1DqfV2aVlkVDD"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Mis 20 Exitos Originales",
-        "url": "https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL"
+        "name": "Ladr\u00f3n de Amor",
+        "url": "https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p"
       },
       "artists": [
         {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
         }
       ],
-      "duration_ms": 163186,
-      "name": "Creo Estar So\u00f1ando",
-      "url": "https://open.spotify.com/track/6LOJGtfyJW14lMEj06qxQZ"
+      "duration_ms": 186386,
+      "name": "No Me Dejes Tan Solo",
+      "url": "https://open.spotify.com/track/5seb18FFKQKhkZxVrrVYNf"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
+        "name": "Mis 20 Exitos Originales",
+        "url": "https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "duration_ms": 163186,
+      "name": "Creo Estar So\u00f1ando",
+      "url": "https://open.spotify.com/track/6LOJGtfyJW14lMEj06qxQZ"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
         "name": "Volvere",
         "url": "https://open.spotify.com/album/57eKtbyg848bTblG5xwWky"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 223026,
       "name": "Y.M.C.A",
       "url": "https://open.spotify.com/track/2qhoPqOEdy3fFxTw9IlOk4"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "Ladr\u00f3n de Amor",
-        "url": "https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p"
-      },
-      "artists": [
-        {
-          "name": "La Incontenible Banda Astilleros",
-          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "No Me Dejes Tan Solo",
-      "url": "https://open.spotify.com/track/5seb18FFKQKhkZxVrrVYNf"
     },
     {
       "added_at": "2021-10-22 05:00:00",

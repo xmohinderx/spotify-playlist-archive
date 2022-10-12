@@ -5650,6 +5650,24 @@
     },
     {
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88"
+      },
+      "artists": [
+        {
+          "name": "Reivaj Ebol",
+          "url": "https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170125,
+      "name": "Desenlace",
+      "url": "https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i"
+    },
+    {
+      "album": {
         "name": "Despair",
         "url": "https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27"
       },
@@ -20807,7 +20825,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 123114,
       "name": "Skymning",
       "url": "https://open.spotify.com/track/2jRlPB32YMnpz1qcIY97oY"

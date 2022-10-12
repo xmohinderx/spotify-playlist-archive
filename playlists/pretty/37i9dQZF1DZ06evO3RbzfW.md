@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,736 likes - 46 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100,463 likes - 46 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,6 +53,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 43 | [Rammlied](https://open.spotify.com/track/1jBL8PB3CqDYjR0luCpX00) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:18 |
 | 44 | [Mann gegen Mann](https://open.spotify.com/track/0GxIAMtKFYTQZpR1avO6HB) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:50 |
 | 45 | [Tier](https://open.spotify.com/track/0S2UfCA5A275xChEi9a6vU) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:46 |
-| 46 | [Te quiero puta!](https://open.spotify.com/track/0KwqP13BnZMIycfxnqWtK1) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:55 |
+| 46 | [Te quiero puta!](https://open.spotify.com/track/4hLS1e3mrL0gbm8BqX1VvN) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3ujsh5jQMOFqIbP7sWruEt) | 3:55 |
 
-Snapshot ID: `Mjc3NTY4MTYsMDAwMDAwMDBhMzQ5YmFkNjg4ZWVhYzM3NTI5NDUwMzIyM2E5ODk4Nw==`
+Snapshot ID: `Mjc3NTgyNjEsMDAwMDAwMDA2OTNmMTlmOWQxMjE3MjA1MTMwYThkMzgyODg2N2QwMg==`

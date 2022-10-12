@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,291 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,336 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 20 | [EXPOSE ‘Burn out!!!’](https://open.spotify.com/track/37uJsqSgt2jRYWQO5z4A03) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 4:43 |
 | 21 | [ROZEN HORIZON](https://open.spotify.com/track/1hypmw0p1Ntu6T5VcAfT6K) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz) | 6:06 |
 | 22 | [chAngE](https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK) | 4:09 |
-| 23 | [わちゃ・もちゃ・ぺったん行進曲](https://open.spotify.com/track/27Ze4gl303ysO24LUUZdrq) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/4fP150ebRoP4PvCIy8rSeH) | 3:52 |
-| 24 | [Y.O.L.O!!!!!](https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:30 |
+| 23 | [Y.O.L.O!!!!!](https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:30 |
+| 24 | [わちゃ・もちゃ・ぺったん行進曲](https://open.spotify.com/track/27Ze4gl303ysO24LUUZdrq) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/4fP150ebRoP4PvCIy8rSeH) | 3:52 |
 | 25 | [CATASTROPHE BANQUET](https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS) | [レイヤ](https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [沙綾](https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc), [ミッシェル](https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl), [瑠唯](https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh) | [BanG Dream! Dreamer's Best](https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0) | 4:22 |
 | 26 | [ティアドロップス](https://open.spotify.com/track/2SI7zaBCXvKEeASHS0I7cJ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 3:37 |
 | 27 | [Sacred world](https://open.spotify.com/track/6we8ssFEZQCPaCeiaA1F9s) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Sacred World](https://open.spotify.com/album/2GVUuRKJ4Xv5SBDOgaB3jJ) | 5:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 49 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 4:55 |
 | 50 | [夏空 Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/2bUelKUEXJNjgLv3S8JjAX) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 4:59 |
 
-Snapshot ID: `MTY2MzY5NjA1MywwMDAwMDAwMDNhOTU5ZjU0ZWMyNmQ4YTk0N2JmNzYyY2ZlZWIwZGU2`
+Snapshot ID: `MTY2MzY5NjA1MywwMDAwMDAwMDc1MGQ0NzEwNjBjMzI0ZjY5ZTU2YWVhNTc3YTViYTRl`

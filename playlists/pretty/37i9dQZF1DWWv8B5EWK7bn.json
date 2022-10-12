@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 116815,
+  "num_followers": 116934,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk3OTE1MCwwMDAwMDAwMDYyNzlhZTVkMDdiYmFmMDI2ZmJiZDQ0MjIzMzgzNWUw",
+  "snapshot_id": "MTY2NDk3OTE1MCwwMDAwMDAwMDM0NjNkOWMwM2NiYzE5YjdiOWNkNTQ4YzUxZjE0ZWE0",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y"
     },
     {
-      "added_at": "2022-10-11 01:22:14",
+      "added_at": "2022-10-12 01:37:23",
       "album": {
         "name": "Gloss",
         "url": "https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/35b2N9gDlR3LPSKaXTGOmu"
     },
     {
-      "added_at": "2022-10-11 01:22:14",
+      "added_at": "2022-10-12 01:37:23",
       "album": {
         "name": "All Through The Day",
         "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
@@ -859,6 +859,26 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+      },
+      "artists": [
+        {
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Silver Ladders",
         "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 310120,
       "name": "Dry Fantasy",
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
-      },
-      "artists": [
-        {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1321,26 +1321,6 @@
       "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
     },
     {
-      "added_at": "2021-12-01 01:36:10",
-      "album": {
-        "name": "SEIM",
-        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
-      },
-      "artists": [
-        {
-          "name": "QUINQUIS",
-          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
-        },
-        {
-          "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO"
-        }
-      ],
-      "duration_ms": 256440,
-      "name": "Adkrog (feat. Gareth Jones)",
-      "url": "https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "NOW",
@@ -1363,6 +1343,26 @@
       "duration_ms": 354346,
       "name": "Keep Your Mind Free",
       "url": "https://open.spotify.com/track/2JoAsRpfSpuCGsEOtlFS7W"
+    },
+    {
+      "added_at": "2021-12-01 01:36:10",
+      "album": {
+        "name": "SEIM",
+        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO"
+        }
+      ],
+      "duration_ms": 256440,
+      "name": "Adkrog (feat. Gareth Jones)",
+      "url": "https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C"
     },
     {
       "added_at": "2022-08-13 01:25:00",

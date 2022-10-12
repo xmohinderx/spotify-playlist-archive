@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,414 likes - 225 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,434 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 134 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 |
 | 135 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 |
 | 136 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 |
-| 137 | [Time Walking on Memories](https://open.spotify.com/track/6XkrfYmgPGSvgufoivTQgj) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let’s Part](https://open.spotify.com/album/1gtx8gQjltBxIWjmk87QpB) | 6:29 |
+| 137 | [The time of walking on remembrance](https://open.spotify.com/track/0LSmb1eo894EJ7eIWPaAgQ) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Separation Anxiety](https://open.spotify.com/album/4qQ0t1Feq5AjdT8tw1C73h) | 5:12 |
 | 138 | [Stay](https://open.spotify.com/track/0FKCn2juc9oNNAwrdFaanq) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let It Rain](https://open.spotify.com/album/6t1raUERDLYB8Xk0vc4HKY) | 3:39 |
 | 139 | [Ocean of Light](https://open.spotify.com/track/3OMAINkoHuBJcLu7R39Q6P) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Escaping Gravity](https://open.spotify.com/album/0jnaBGk3e6LxiFjh2Sa1rO) | 4:58 |
 | 140 | [Grace](https://open.spotify.com/track/6hpWk3kV9phxtzxbzzXmIF) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 4:05 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MTY2NTE1NzQwNCwwMDAwMDAwMDJlNjJiNDg3NGI4NWE5MDMwZjljZjE1MGVhMjZlNjU2`
+Snapshot ID: `MTY2NTUwNDA3OSwwMDAwMDAwMGI5ODVkY2Q2MDIyYzljYmQxMGRjNzZiMmZiNWE0YzU5`

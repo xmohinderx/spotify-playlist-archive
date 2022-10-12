@@ -4,7 +4,7 @@
 
 > Raggen måste gå!!
 
-399 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/1lQZeKZO86vF18J2l093qd)
+401 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/1lQZeKZO86vF18J2l093qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [DUNKA PLÅT](https://open.spotify.com/track/5Kd4gYvrmdzVgtbsEgkVGI) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [DUNKA PLÅT](https://open.spotify.com/album/2VUv3KgjhweWrzMXPugHL0) | 2:10 | 2022-09-29 |  |
 | [DUTTY WINE](https://open.spotify.com/track/4YNvXOA0AERBT5ZCNylYLU) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [Faal](https://open.spotify.com/artist/2pgHOvqTXn3lNMeGHILAwX) | [DUTTY WINE](https://open.spotify.com/album/2kUCJbOZf6fa06axTfLFbP) | 2:04 | 2021-12-16 | 2022-07-29 |
 | [DYR BENSIN](https://open.spotify.com/track/5zbi722hFSDPFNaPNy8xCq) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DYR BENSIN](https://open.spotify.com/album/4CuL02B8XYSGoTdIxiqy8L) | 1:46 | 2022-09-29 |  |
-| [DÄR GÄDDAN SIMMAR](https://open.spotify.com/track/7BRG1uU2WiaFXDLnniCfjd) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/album/7AowFzSGAy33pR1GpuJ5WO) | 2:36 | 2022-09-29 |  |
+| [DÄR GÄDDAN SIMMAR](https://open.spotify.com/track/4YvNeLs07cxgKcsVtxDXBu) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/album/0eGf6UvidEOq5uzdKzWvr4) | 2:36 | 2022-10-10 |  |
+| [DÄR GÄDDAN SIMMAR](https://open.spotify.com/track/7BRG1uU2WiaFXDLnniCfjd) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/album/7AowFzSGAy33pR1GpuJ5WO) | 2:36 | 2022-09-29 | 2022-10-12 |
 | [Dödade festen](https://open.spotify.com/track/4MpFl1Y2J6ZMG69oOGyXIs) | [Fredric](https://open.spotify.com/artist/2kcmm2U7LBmpIucSnhlVtQ), [Cleo Zatch](https://open.spotify.com/artist/18epOhR2Tgnf9NVqqTQ6Pa) | [Dödade festen](https://open.spotify.com/album/1Gf6R1Pkj8StrSJJVarrZT) | 3:08 | 2021-12-16 | 2022-06-29 |
 | [E \(Ventex\)](https://open.spotify.com/track/0nZPJ83AFwWPNSMrS2Jr5J) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Ture Brute](https://open.spotify.com/artist/0qpUea90ifRlk1spr5hFbY) | [E \(Ventex\)](https://open.spotify.com/album/6JWyfAFOBkbSLpVFi5mYRg) | 2:04 | 2021-12-16 | 2022-04-22 |
 | [Eat That](https://open.spotify.com/track/3wAZSNBuAlgA0fHELUvjMF) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Eat That](https://open.spotify.com/album/2BdLECy9p6Z2pirDw8Phel) | 2:41 | 2022-03-24 | 2022-04-18 |
@@ -265,7 +266,8 @@
 | [Pull Me Closer \- Armin van Buuren Remix](https://open.spotify.com/track/7Bkm11YEID3T4NSrUJjNPD) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Pull Me Closer \(Armin van Buuren Remix\)](https://open.spotify.com/album/1ElWEulEFearK5BFHabkQj) | 3:08 | 2021-12-16 | 2022-06-03 |
 | [Puzzle Box](https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Puzzle Box](https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M) | 3:32 | 2022-03-24 | 2022-08-26 |
 | [På bygda](https://open.spotify.com/track/3FS7XR25pAvL370wQ0soAx) | [Discocrew](https://open.spotify.com/artist/2KegmlK6WXqdlAGklMnQeV) | [På bygda](https://open.spotify.com/album/4PqryGxQ8BA0KzL0AqwOxl) | 2:40 | 2022-09-29 |  |
-| [På Disco](https://open.spotify.com/track/1gSWpgu8H58SQ8Ck5D3M6Z) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [På Disco](https://open.spotify.com/album/1wEfywTG7i21IyYpFrznYf) | 2:10 | 2022-09-29 |  |
+| [På Disco](https://open.spotify.com/track/0I9zmUwqYAR4nqEb7uljMC) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [På Disco](https://open.spotify.com/album/1rP3Rd0Pnxp4mOdWefFjFY) | 2:10 | 2022-10-10 |  |
+| [På Disco](https://open.spotify.com/track/1gSWpgu8H58SQ8Ck5D3M6Z) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [På Disco](https://open.spotify.com/album/1wEfywTG7i21IyYpFrznYf) | 2:10 | 2022-09-29 | 2022-10-12 |
 | [Rabbit Hole](https://open.spotify.com/track/5vD09qPYPhATeEF4GvGHVw) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Rabbit Hole](https://open.spotify.com/album/1Qq4EdQxY4hbGzvB1dPD1k) | 2:34 | 2021-12-16 | 2022-07-29 |
 | [RAGGA EPA](https://open.spotify.com/track/3tbpPTVJTgP3mpiaPi44nk) | [DVNK1](https://open.spotify.com/artist/2gWdRg5BQjgmf4Y6XDliQU) | [RAGGA EPA](https://open.spotify.com/album/60Le7eq3LYmPEonmTSzbni) | 2:24 | 2022-09-29 |  |
 | [Ragga runt \- N!NE EPA Remix](https://open.spotify.com/track/5j0HTlOCde9GOlgyP9lpM7) | [Eddie Meduza](https://open.spotify.com/artist/3cMEiDsx9VpGvF71hUGswS), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Ragga runt \(EPA Remix\)](https://open.spotify.com/album/0mktOSV7ZQ9pxPebTuz8f0) | 2:23 | 2022-08-25 |  |

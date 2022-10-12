@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
@@ -1015,6 +1015,28 @@
       "duration_ms": 438830,
       "name": "The God Flex",
       "url": "https://open.spotify.com/track/3IlH84mTg9aqoeHtLfrvjM"
+    },
+    {
+      "album": {
+        "name": "The Inglourious",
+        "url": "https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X"
+      },
+      "artists": [
+        {
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Synth-O-Ven",
+          "url": "https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399986,
+      "name": "The Inglourious",
+      "url": "https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8"
     },
     {
       "album": {

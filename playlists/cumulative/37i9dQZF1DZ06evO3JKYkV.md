@@ -4,7 +4,7 @@
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-71 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/5j6zeQgUYH1nqWVzzE7VBW)
+72 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/5j6zeQgUYH1nqWVzzE7VBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Goon Gumpas](https://open.spotify.com/track/72tmERTlZn90IJ0px2B38Q) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 2:02 | 2022-06-23 | 2022-09-01 |
 | [Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-05-29 |  |
 | [I](https://open.spotify.com/track/2FQviMkaoixlgWuGL4u1EO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 1:17 | 2022-05-29 |  |
-| [Icct Hedral](https://open.spotify.com/track/74i6T5ax1LB1gBVhLg6q9d) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 6:07 | 2022-05-31 | 2022-10-05 |
+| [Icct Hedral](https://open.spotify.com/track/74i6T5ax1LB1gBVhLg6q9d) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 6:07 | 2022-05-31 |  |
 | [IZ\-US](https://open.spotify.com/track/0c0Z5agmnSibjIWjdZV6R1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 2:57 | 2022-05-29 |  |
 | [Jynweythek](https://open.spotify.com/track/7etelDpVxaPTzmeZrYo8Qy) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:23 | 2022-05-29 |  |
 | [Logan Rock Witch](https://open.spotify.com/track/6y8jQsfUEPZuhcxpHzk0zn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 3:33 | 2022-09-11 | 2022-09-15 |
@@ -61,7 +61,7 @@
 | [Omgyjya\-Switch7](https://open.spotify.com/track/5XgWTzM9N81tXJH7cFWkba) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 4:52 | 2022-08-22 | 2022-08-24 |
 | [On](https://open.spotify.com/track/4UYW3jllzFyWdaxob0UVMr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/13yMvXe4YS3m2qFyC9aqID) | 7:12 | 2022-05-29 |  |
 | [Pancake Lizard](https://open.spotify.com/track/3Z7wJtqMNc3q7ukYplaCa9) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Donkey Rhubarb](https://open.spotify.com/album/77fmfTc0wlIOPUvmvd6X6i) | 4:31 | 2022-05-29 | 2022-10-11 |
-| [PAPAT4 \[155\]\[pineal mix\]](https://open.spotify.com/track/2MmI2fOFAYnOJcMyWkn1js) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:18 | 2022-06-02 |  |
+| [PAPAT4 \[155\]\[pineal mix\]](https://open.spotify.com/track/2MmI2fOFAYnOJcMyWkn1js) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:18 | 2022-06-02 | 2022-10-12 |
 | [Peek 82454201](https://open.spotify.com/track/4KzwoaaI2oyx5sib9D93w0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 3:05 | 2022-08-19 | 2022-08-21 |
 | [Polynomial\-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Xylem Tube EP](https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX) | 4:46 | 2022-09-02 |  |
 | [Polynomial\-C](https://open.spotify.com/track/3iHGhKJc0OR5m37pVyRLrQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 4:46 | 2022-05-29 | 2022-09-03 |
@@ -70,8 +70,9 @@
 | [QKThr](https://open.spotify.com/track/7vuYfz0siJY66fLEiDKnEh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 1:27 | 2022-05-29 |  |
 | [Slo Bird Whistle \- Peel Session](https://open.spotify.com/track/3bQOgK2jol0IYuI01Aa7dO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Peel Session 2](https://open.spotify.com/album/2AmoY6ypezs0oIMMtlK80M) | 3:33 | 2022-06-09 | 2022-08-27 |
 | [Start As You Mean To Go On](https://open.spotify.com/track/7F1YDlmTRGuOqmdDUElHfm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 6:05 | 2022-07-18 | 2022-10-08 |
+| [syro u473t8+e \[141.98\]\[piezoluminescence mix\]](https://open.spotify.com/track/1LWoUuBXLo7moQQ0Rm1Tf7) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 6:32 | 2022-10-11 |  |
 | [Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 9:07 | 2022-05-29 |  |
-| [The Waxen Pith](https://open.spotify.com/track/0dZvL5TDpKiwvZtB49g6Ky) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 4:49 | 2022-05-29 |  |
+| [The Waxen Pith](https://open.spotify.com/track/0dZvL5TDpKiwvZtB49g6Ky) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 4:49 | 2022-05-29 | 2022-10-12 |
 | [To Cure A Weakling Child](https://open.spotify.com/track/0Qe87CjGvXot5t4FADTq3Y) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 4:03 | 2022-05-29 |  |
 | [Vordhosbn](https://open.spotify.com/track/3tWiIOPBJjgjA6PpozJqNO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 4:51 | 2022-05-29 |  |
 | [Wax The Nip](https://open.spotify.com/track/0c1b3R5dLgliHXXGLErT2O) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 4:18 | 2022-05-30 |  |

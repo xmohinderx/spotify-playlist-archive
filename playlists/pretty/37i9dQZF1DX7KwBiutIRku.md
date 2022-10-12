@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,963 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,049 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 14 | [Move It On Over](https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw) | 4:18 |
 | 15 | [James Dean \- 2013 Remaster](https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 3:38 |
 | 16 | [California Man](https://open.spotify.com/track/5e4kUj91oLjKxxiT8akiQV) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 3:44 |
-| 17 | [Hot Love](https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:58 |
-| 18 | [Casino Boogie](https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:34 |
-| 19 | [I Don't Need You No More](https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 2:35 |
+| 17 | [I Don't Need You No More](https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 2:35 |
+| 18 | [Hot Love](https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:58 |
+| 19 | [Casino Boogie](https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:34 |
 | 20 | [Let's Make It](https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:06 |
 | 21 | [Maggie's Farm \- Remastered](https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 3:17 |
 | 22 | [Sweet Little Rock 'N' Roller](https://open.spotify.com/track/6iLgfbyvQ8lRjixyIYZCW8) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Smiler](https://open.spotify.com/album/1RuMPrVES7OeG5Nam0N8mJ) | 3:42 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 28 | [Mama Nature Said](https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 4:54 |
 | 29 | [Floyd's Hotel](https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 3:09 |
 | 30 | [Spinning Wheel Blues](https://open.spotify.com/track/0KX5tEsBMLQRmUgYJniMtm) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L) | 3:19 |
-| 31 | [Midnight To Six Man](https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Get The Picture?](https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E) | 2:19 |
-| 32 | [Don't Start Me Talkin' \- Jinx Session / 1982](https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blues](https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB) | 3:33 |
-| 33 | [Borstal Boys](https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 2:53 |
-| 34 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 |
+| 31 | [Don't Start Me Talkin' \- Jinx Session / 1982](https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blues](https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB) | 3:33 |
+| 32 | [Midnight To Six Man](https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Get The Picture?](https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E) | 2:19 |
+| 33 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 |
+| 34 | [Borstal Boys](https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 2:53 |
 | 35 | [The Golden Age of Rock 'n' Roll](https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [The Hoople](https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am) | 3:24 |
 | 36 | [Lower On Your List Of Priorities](https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Raisin' A Ruckus](https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo) | 3:20 |
 | 37 | [True Blue](https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Never A Dull Moment](https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ) | 3:31 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 39 | [Find Yourself Another Fool \- Remastered](https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 2:35 |
 | 40 | [I'm A Rocker](https://open.spotify.com/track/1HDnpYpxx5QksiWFs7DGzv) | [Raspberries](https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5) | [Side 3](https://open.spotify.com/album/70HzypoC6XLvXEUWAutTRc) | 5:10 |
 | 41 | [Hell Cat](https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Top Priority \(Remastered 2017\)](https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy) | 4:50 |
-| 42 | [Outlaws](https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [1234](https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF) | 4:02 |
-| 43 | [Had Me a Real Good Time \- 2010 Remaster](https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Snakes and Ladders: The Best of Faces](https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc) | 2:54 |
+| 42 | [Had Me a Real Good Time \- 2010 Remaster](https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Snakes and Ladders: The Best of Faces](https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc) | 2:54 |
+| 43 | [Outlaws](https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [1234](https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF) | 4:02 |
 | 44 | [Jerkin' Crocus](https://open.spotify.com/track/1xKF80cHD0H6VydMJqK4st) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 4:00 |
 | 45 | [7 O'Clock \- 30th Anniversary Version](https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY) | [The Quireboys](https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI) | [7 O'Clock \(30th Anniversary Version\)](https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt) | 3:43 |
 | 46 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Bourbon](https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Jinx \(Remastered 2017\)](https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS) | 3:54 |
 | 50 | [Tars Of India](https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 3:05 |
 
-Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMDk2MWRmYTRjZGE1MGFiMTkzZGZjMzg0N2FmYjRlOWMz`
+Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMGY1YTVkMzYwMmJiZTAxMWFlMmIxYjBlNjcxNzAzZjYx`

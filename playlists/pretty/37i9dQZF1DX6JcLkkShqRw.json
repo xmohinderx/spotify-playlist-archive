@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Cris Mj.",
-  "num_followers": 270640,
+  "num_followers": 270860,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1MDQ1MywwMDAwMDAwMDE1Y2IwNjZlM2NiNjJiMjZlMmQxNzc1NDgxMGNlYWEz",
+  "snapshot_id": "MTY2NTE1MDQ1MywwMDAwMDAwMDMyMTA0YzU3YzRiYjI4OWM0OWI1OGYwNTUyYTE3Nzdl",
   "tracks": [
     {
       "added_at": "2022-10-06 15:57:15",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-10-06 15:57:15",
       "album": {
+        "name": "V16",
+        "url": "https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "duration_ms": 119106,
+      "name": "V16",
+      "url": "https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2"
+    },
+    {
+      "added_at": "2022-10-06 15:57:15",
+      "album": {
         "name": "KU'",
         "url": "https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2022-10-06 15:57:15",
       "album": {
-        "name": "V16",
-        "url": "https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG"
-      },
-      "artists": [
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        }
-      ],
-      "duration_ms": 119106,
-      "name": "V16",
-      "url": "https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2"
-    },
-    {
-      "added_at": "2022-10-06 15:57:15",
-      "album": {
         "name": "cuatro veinte",
         "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
       },
@@ -947,30 +947,6 @@
     {
       "added_at": "2022-10-06 15:57:15",
       "album": {
-        "name": "SEXTIME",
-        "url": "https://open.spotify.com/album/1fZB1jZPTn90TzYDZv42kI"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 197792,
-      "name": "SEXTIME",
-      "url": "https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr"
-    },
-    {
-      "added_at": "2022-10-06 15:57:15",
-      "album": {
         "name": "Prende la C\u00e1mara RMX",
         "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 212629,
       "name": "Prende la C\u00e1mara RMX",
       "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
+    },
+    {
+      "added_at": "2022-10-06 15:57:15",
+      "album": {
+        "name": "SEXTIME",
+        "url": "https://open.spotify.com/album/1fZB1jZPTn90TzYDZv42kI"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 197792,
+      "name": "SEXTIME",
+      "url": "https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr"
     },
     {
       "added_at": "2022-10-06 15:57:15",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2022-10-06 15:57:15",
       "album": {
-        "name": "Sabe",
-        "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 177655,
-      "name": "Sabe",
-      "url": "https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM"
-    },
-    {
-      "added_at": "2022-10-06 15:57:15",
-      "album": {
         "name": "Bailando Te Conoc\u00ed",
         "url": "https://open.spotify.com/album/1SfkXB9PkSL5ctluCBpXqC"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 194400,
       "name": "Bailando Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/0vvuIsoJ101Hme1VIXBIEi"
+    },
+    {
+      "added_at": "2022-10-06 15:57:15",
+      "album": {
+        "name": "Sabe",
+        "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 177655,
+      "name": "Sabe",
+      "url": "https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM"
     },
     {
       "added_at": "2022-10-06 15:57:15",
@@ -1975,30 +1975,6 @@
     {
       "added_at": "2022-10-06 15:57:15",
       "album": {
-        "name": "Mi Waxita",
-        "url": "https://open.spotify.com/album/1o8ifDcbijqGFTgzfx0min"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        },
-        {
-          "name": "Izahn",
-          "url": "https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 218006,
-      "name": "Mi Waxita",
-      "url": "https://open.spotify.com/track/3NW1FV4c9UNsPLkFOqTfF5"
-    },
-    {
-      "added_at": "2022-10-06 15:57:15",
-      "album": {
         "name": "INTERESTELAR",
         "url": "https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM"
       },
@@ -2019,6 +1995,30 @@
       "duration_ms": 173333,
       "name": "INTERESTELAR",
       "url": "https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz"
+    },
+    {
+      "added_at": "2022-10-06 15:57:15",
+      "album": {
+        "name": "Mi Waxita",
+        "url": "https://open.spotify.com/album/1o8ifDcbijqGFTgzfx0min"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Izahn",
+          "url": "https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 218006,
+      "name": "Mi Waxita",
+      "url": "https://open.spotify.com/track/3NW1FV4c9UNsPLkFOqTfF5"
     },
     {
       "added_at": "2022-10-06 15:57:15",

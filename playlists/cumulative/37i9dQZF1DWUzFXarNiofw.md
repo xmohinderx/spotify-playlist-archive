@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Alex Vaughn
 
-490 songs - 1 day 2 hr 32 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
+490 songs - 1 day 2 hr 31 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Skedaddle](https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Skedaddle](https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO) | 2:30 | 2022-10-07 |  |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-02-04 | 2022-03-18 |
 | [Slow Jam](https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Sweet Heat](https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd) | 3:28 | 2022-08-19 | 2022-09-17 |
-| [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx) | 2:37 | 2022-09-30 |  |
+| [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx) | 2:11 | 2022-09-30 |  |
 | [So Be It](https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:09 | 2022-10-07 |  |
 | [Sober \(With Jeremih\)](https://open.spotify.com/track/3dZJ85uBHJpE2blaL9E1LE) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Sober \(With Jeremih\)](https://open.spotify.com/album/4wvtawFRk8OIskbS8TcWkq) | 4:13 | 2022-07-01 | 2022-08-13 |
 | [Softly](https://open.spotify.com/track/36Cs04fKrfupan7JZPBCYS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Softly](https://open.spotify.com/album/7N39Fksc732Ab7A6dCqdQW) | 2:53 | 2021-12-17 | 2022-02-12 |

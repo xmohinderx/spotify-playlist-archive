@@ -1,12 +1,12 @@
 {
   "description": "Para las mujeres que le dan duro al  gym. \u00a1A quemar grasa con este playlist!",
-  "num_followers": 78784,
+  "num_followers": 78897,
   "original_name": "Sin Lipo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMGY4ZGZlYmY1ZWQwNjY4NWRjMzYwOWY3YWM3YzIzNjUz",
+  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDQwNjc1NzJjYjE0YTRmZTMwNjVhNTg1ZDQ5YmIwN2Nm",
   "tracks": [
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Gangalee",
         "url": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 289906,
       "name": "La Cartera",
       "url": "https://open.spotify.com/track/1g2Z2lOrwayOzDqOc8EfbR"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1263,26 +1263,18 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "PAM",
-        "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
+        "name": "Keii",
+        "url": "https://open.spotify.com/album/30FZign4ARPElEZ23nU0ns"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 201000,
-      "name": "PAM",
-      "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
+      "duration_ms": 210000,
+      "name": "Keii",
+      "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1311,18 +1303,26 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Keii",
-        "url": "https://open.spotify.com/album/30FZign4ARPElEZ23nU0ns"
+        "name": "PAM",
+        "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Keii",
-      "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
+      "duration_ms": 201000,
+      "name": "PAM",
+      "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
     },
     {
       "added_at": "2020-07-02 17:35:53",

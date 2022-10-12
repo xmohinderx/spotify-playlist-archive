@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jharden13/">James Harden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 880 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 992 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 | 26 | [Wrong or Right](https://open.spotify.com/track/6qY4SYsByMNcrhVjSMd0Ow) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:43 |
 | 27 | [Humble](https://open.spotify.com/track/6heRfvHrUIIPx9TqRg8SCq) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 3:11 |
 | 28 | [30 for 30 Freestyle](https://open.spotify.com/track/1DmnEYXa4WfbdhAPwNzgD8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 4:13 |
-| 29 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 |
-| 30 | [Backdoor](https://open.spotify.com/track/3xUoEjDFhHCWlIeLRoTabt) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice](https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy) | 3:20 |
+| 29 | [Backdoor](https://open.spotify.com/track/3xUoEjDFhHCWlIeLRoTabt) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice](https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy) | 3:20 |
+| 30 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 |
 | 31 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
 | 32 | [Perfect Time](https://open.spotify.com/track/6kiIVIbmwEw6JvIZc7UG0E) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:22 |
 | 33 | [4 da Gang](https://open.spotify.com/track/3IJ6BBFLD2I2CH3hHFQj3O) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SUPER SLIMEY](https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm) | 3:07 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 | 48 | [BET](https://open.spotify.com/track/7mKJak60o7cmixVEfggraL) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [OUTSIDE](https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL) | 1:44 |
 | 49 | [FUCCWITCHU](https://open.spotify.com/track/6y0AwrWm1E63waiByoKYam) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [OUTSIDE](https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL) | 3:28 |
 
-Snapshot ID: `MTY2NDY1NjA3MiwwMDAwMDAwMGNiZDkyMzM2N2NmN2E3NTk1OGFkYTNkZjRiY2Y3Y2Ex`
+Snapshot ID: `MTY2NDY1NjA3MiwwMDAwMDAwMGFiMjg1NjExMDg0ZjgxZDkxMDNjNmM0MDdmMGI2YjQy`

@@ -1,12 +1,12 @@
 {
   "description": "Sweat it out with your favorite country workout songs.",
-  "num_followers": 85192,
+  "num_followers": 85220,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE5NTE4OSwwMDAwMDAwMGE3NmY3NmI5ZDZmMDQzYWQ4M2M3NWM2ZjJmODNjYWM0",
+  "snapshot_id": "MTY0MDE5NTE4OSwwMDAwMDAwMDQ5ZmJhZmJlMjEwYWJhMDBjMGI4ZmJlNTMyNjIwYzEy",
   "tracks": [
     {
       "added_at": "2021-12-22 17:46:06",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "My Kinda Party",
-      "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Kill The Lights (Deluxe)",
         "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 190586,
       "name": "Kick The Dust Up",
       "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "My Kinda Party",
+      "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Red River Blue (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "Honey Bee",
-      "url": "https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Songs About Me",
         "url": "https://open.spotify.com/album/3XWgiQQ5dMilsbpKDWmzSA"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 241133,
       "name": "Honky Tonk Badonkadonk",
       "url": "https://open.spotify.com/track/5iDfnRTdV2mrvMK886TLRg"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Red River Blue (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "Honey Bee",
+      "url": "https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 205960,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 205560,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 205960,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Next Girl",
-        "url": "https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 164677,
-      "name": "Next Girl",
-      "url": "https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 194786,
       "name": "Lady Like",
       "url": "https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Next Girl",
+        "url": "https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 164677,
+      "name": "Next Girl",
+      "url": "https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "Undo It",
+      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
         "name": "Not A Moment Too Soon",
         "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "Undo It",
-      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Ladies In The '90s",
         "url": "https://open.spotify.com/album/6lAF0PP107eAeqzRKXCmKb"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 195866,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/4kY7rYtE4OQkJNq22OIYRI"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 241053,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1603,22 +1619,6 @@
       "duration_ms": 190426,
       "name": "Hell Of A Night",
       "url": "https://open.spotify.com/track/4x7Di9FZJXJoxHjLxjImmp"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 241053,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
     },
     {
       "added_at": "2021-12-22 17:46:06",

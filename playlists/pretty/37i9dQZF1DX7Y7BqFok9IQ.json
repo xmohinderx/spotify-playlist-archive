@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Anthony Gomes",
-  "num_followers": 134585,
+  "num_followers": 134646,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDUxNzc0OGZiZDQwZmJhNGZiZDFkZDFhOGU5OWNiM2U4",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGVmYjk4ZGU1NWMyN2Q0OGU2MmEyOGNmNGJlYmZkY2Ez",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/0Q4vxfviEyCBL27mzZUu1X"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Fear Of The Dawn",
-        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 214842,
-      "name": "What's the Trick?",
-      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
-    },
-    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "See Where The Night Goes",
@@ -199,6 +183,22 @@
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 214842,
+      "name": "What's the Trick?",
+      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -345,54 +345,6 @@
       "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Nowhere Everywhere",
-        "url": "https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko"
-      },
-      "artists": [
-        {
-          "name": "The Wanton Bishops",
-          "url": "https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Sailing Down",
-      "url": "https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw"
-    },
-    {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Hardware",
-        "url": "https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd"
-      },
-      "artists": [
-        {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
-        }
-      ],
-      "duration_ms": 153760,
-      "name": "My Lucky Card",
-      "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Wicked Girl",
@@ -411,6 +363,54 @@
       "duration_ms": 208000,
       "name": "Wicked Girl",
       "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
+    },
+    {
+      "added_at": "2021-04-30 04:01:00",
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Nowhere Everywhere",
+        "url": "https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko"
+      },
+      "artists": [
+        {
+          "name": "The Wanton Bishops",
+          "url": "https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "Sailing Down",
+      "url": "https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw"
+    },
+    {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Hardware",
+        "url": "https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd"
+      },
+      "artists": [
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+        }
+      ],
+      "duration_ms": 153760,
+      "name": "My Lucky Card",
+      "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -741,20 +741,20 @@
       "url": "https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2021-06-18 04:01:00",
       "album": {
-        "name": "Scarborough Street Fight",
-        "url": "https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk"
+        "name": "Sugar and Spice",
+        "url": "https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL"
       },
       "artists": [
         {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+          "name": "Jocelyn & Chris Arndt",
+          "url": "https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R"
         }
       ],
-      "duration_ms": 270753,
-      "name": "Scarborough Street Fight",
-      "url": "https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH"
+      "duration_ms": 214921,
+      "name": "Sugar and Spice",
+      "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -789,6 +789,22 @@
       "url": "https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Scarborough Street Fight",
+        "url": "https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 270753,
+      "name": "Scarborough Street Fight",
+      "url": "https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH"
+    },
+    {
       "added_at": "2021-03-26 04:01:00",
       "album": {
         "name": "Heavy Shoes",
@@ -803,22 +819,6 @@
       "duration_ms": 206618,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6"
-    },
-    {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Play Loud",
-        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
-      },
-      "artists": [
-        {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Gotta Be Movin\u2019",
-      "url": "https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9"
     }
   ],
   "unique_name": "Modern Blues Rock",

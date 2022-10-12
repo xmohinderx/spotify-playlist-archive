@@ -1388,6 +1388,28 @@
     },
     {
       "album": {
+        "name": "Yena'al Li",
+        "url": "https://open.spotify.com/album/03q6CZrTFtaSAUDi1xdRhs"
+      },
+      "artists": [
+        {
+          "name": "Wassim Younes",
+          "url": "https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn"
+        },
+        {
+          "name": "Sahraaoui",
+          "url": "https://open.spotify.com/artist/2dTsEuAzvCDqcUVeOt6yff"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292340,
+      "name": "Yena'al Li",
+      "url": "https://open.spotify.com/track/5HhdXBRK4cI9mVO6Y9G4WT"
+    },
+    {
+      "album": {
         "name": "Youm Talat (Remix)",
         "url": "https://open.spotify.com/album/6V8QwgQg0Xszo8zu2Do44K"
       },

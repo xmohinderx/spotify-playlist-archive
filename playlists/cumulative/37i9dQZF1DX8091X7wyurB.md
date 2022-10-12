@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-84 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
+85 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 | 2022-06-30 |  |
 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 | 2022-09-01 |  |
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2022-06-30 |  |
+| [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-09-09 |  |
 | [Never Leave Me](https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Never Leave Me](https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG) | 2:40 | 2022-06-30 |  |
 | [Nhyira](https://open.spotify.com/track/1Xn4HToryYUuIPP1LJa8LQ) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [His Word](https://open.spotify.com/album/7k9GFfqeimzOkgR2nNYXlB) | 4:08 | 2022-06-30 | 2022-10-02 |
 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 | 2022-06-30 |  |
@@ -79,7 +80,7 @@
 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 | 2022-06-30 |  |
 | [Taking Care \- Remix](https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Taking Care](https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd) | 3:42 | 2022-09-30 |  |
 | [Tatafo](https://open.spotify.com/track/2FbHSnjLmSF77Uy5IkHjnf) | [Fega Michaels](https://open.spotify.com/artist/1uWU1q5sI8SbB0R56zTj6I) | [Tatafo](https://open.spotify.com/album/2Acy9jIYYJRVUkHc1M18jK) | 2:35 | 2022-06-30 |  |
-| [Testify](https://open.spotify.com/track/469a5ribFps5STVVzbnL3l) | [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc) | [Testify](https://open.spotify.com/album/4ZcjusmpmGHpqVb00Eks6I) | 4:31 | 2022-09-01 |  |
+| [Testify](https://open.spotify.com/track/469a5ribFps5STVVzbnL3l) | [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc) | [Testify](https://open.spotify.com/album/4ZcjusmpmGHpqVb00Eks6I) | 4:31 | 2022-09-01 | 2022-10-12 |
 | [Thank You](https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe) | [Kobby Mantey](https://open.spotify.com/artist/6EU94Iocwwem69yRk6DuOc), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Thank You](https://open.spotify.com/album/3FicrFn5np6XgUfj0GEXD6) | 5:16 | 2022-06-30 |  |
 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 | 2022-06-30 |  |
 | [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 | 2022-07-14 |  |

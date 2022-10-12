@@ -1,12 +1,12 @@
 {
   "description": "pretending to be Lana Del Rey in pigtail buns, chokers, knee socks, and chunky platforms\n",
-  "num_followers": 27114,
+  "num_followers": 27180,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4NzIzMiwwMDAwMDAwMDI3ZTgxZjA0NjUzNDY1YzI0Mjg4ZTc5MmI0NDRiOTVm",
+  "snapshot_id": "MTY2NDQ4NzIzMiwwMDAwMDAwMGFhZmVkYmE3NjMzY2RmMWQ5NWVjZjM0OWI3NGZmNGM3",
   "tracks": [
     {
       "added_at": "2022-09-29 21:33:52",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-09-29 21:33:52",
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+    },
+    {
+      "added_at": "2022-09-29 21:33:52",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 231853,
       "name": "Dollhouse",
       "url": "https://open.spotify.com/track/6wNeKPXF0RDKyvfKfri5hf"
-    },
-    {
-      "added_at": "2022-09-29 21:33:52",
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2022-09-29 21:33:52",

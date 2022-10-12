@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-439 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+440 songs - 1 day 1 hr 28 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Cuestiones Femeninas](https://open.spotify.com/track/3OxDhKeCqirHjLCrFeamnF) | [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx), [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G), [Alejandra Moreno](https://open.spotify.com/artist/7qpGpl8TSyFqGY9fX1uOqz), [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Cuestiones Femeninas](https://open.spotify.com/album/5qUuzkkrRsw7iH8AUEPZxF) | 3:37 | 2022-02-11 | 2022-07-24 |
 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2022-01-14 | 2022-09-26 |
 | [Culpable](https://open.spotify.com/track/1F2MEdnUuZDV23rEFw6ZcM) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Arde](https://open.spotify.com/album/2eZrZxOfzdQKvNthFD5IDJ) | 3:07 | 2022-01-21 | 2022-07-20 |
+| [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 | 2022-10-07 |  |
 | [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-02-11 | 2022-07-28 |
 | [Cuéntame](https://open.spotify.com/track/335hZySHS94UpZkHkIJaDq) | [Agustina Bécares](https://open.spotify.com/artist/6rC1DqYU1RqOE8aNV1RAf2) | [Breve Relato de un Suceso Irreversible](https://open.spotify.com/album/5bWAI4BhBPaRcHYECcEfYE) | 3:38 | 2022-04-01 | 2022-05-26 |
 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 | 2022-01-14 |  |
@@ -446,6 +447,6 @@
 | [¿Quién nos amarró? \- Versión acústica](https://open.spotify.com/track/2LlLCUgxEcuU4NGzStAJOm) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Versiones acústicas del sentir III](https://open.spotify.com/album/5Q7tzjDMxqAgc857a9hdVB) | 3:35 | 2022-01-21 | 2022-07-27 |
 | [¿Qué?](https://open.spotify.com/track/25bwcWBGh9ox4CR1ttJeHU) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Diego Ibáñez](https://open.spotify.com/artist/6nWCIaOTHhqgbkxPcj4AeJ) | [¿Qué?](https://open.spotify.com/album/5DoubGLMbpvAYcd6DDz5Nz) | 3:36 | 2022-01-14 |  |
 | [último y primero](https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT) | 2:59 | 2022-01-14 | 2022-07-28 |
-| [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2022-01-14 |  |
+| [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2022-01-14 | 2022-10-12 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

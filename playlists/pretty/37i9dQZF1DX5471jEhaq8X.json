@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover:  Los Chavalos De La Perla",
-  "num_followers": 570506,
+  "num_followers": 570543,
   "original_name": "Corridos 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODgyMSwwMDAwMDAwMDIzMWUwODFkODAyODIwMDE4ZTMxNjQxNjlhMDc0NjJl",
+  "snapshot_id": "MTY2NTExODgyMSwwMDAwMDAwMGU4NzJkNDQ4MzU4MjM0YmI4YThmYmQyYWI4YzEwMjBm",
   "tracks": [
     {
       "added_at": "2022-10-07 05:00:20",
@@ -271,18 +271,22 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+        "name": "Billete Grande (En Vivo)",
+        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+      "duration_ms": 163940,
+      "name": "Billete Grande (En Vivo)",
+      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -303,22 +307,18 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "Billete Grande (En Vivo)",
-        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 163940,
-      "name": "Billete Grande (En Vivo)",
-      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 159978,
+      "name": "La Oveja Negra",
+      "url": "https://open.spotify.com/track/7ss0vnlNgbpUSYd5f5UyhD"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
         "name": "Fuera de Servicio (En Vivo)",
         "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 206506,
       "name": "Fuera de Servicio - En Vivo",
       "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 159978,
-      "name": "La Oveja Negra",
-      "url": "https://open.spotify.com/track/7ss0vnlNgbpUSYd5f5UyhD"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
+        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/7tcgJJT6XQ22P9V6JII4G4"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
         "name": "Seraf\u00edn Zambada",
         "url": "https://open.spotify.com/album/6vHtXla1mECDpZS3ONUwvf"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 128532,
       "name": "Seraf\u00edn Zambada",
       "url": "https://open.spotify.com/track/2Qh9GkEx3EnFd7v8QzaFjW"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
-        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/7tcgJJT6XQ22P9V6JII4G4"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "El Cuestionario",
-        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 188632,
-      "name": "El Cuestionario",
-      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
         "name": "Padre Nuestro",
         "url": "https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 208213,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
+        "name": "El Cuestionario",
+        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 188632,
+      "name": "El Cuestionario",
+      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -1319,18 +1319,22 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "El Se\u00f1oron",
-        "url": "https://open.spotify.com/album/1dfYE3Fpz112Ae3a9RYxVo"
+        "name": "Suerte No Fue",
+        "url": "https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi"
       },
       "artists": [
         {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 204996,
-      "name": "El Se\u00f1oron",
-      "url": "https://open.spotify.com/track/1EPZpEO3bZTUbfiAyiknDC"
+      "duration_ms": 191000,
+      "name": "Suerte No Fue",
+      "url": "https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -1355,22 +1359,34 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "Suerte No Fue",
-        "url": "https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi"
+        "name": "Se Divisan",
+        "url": "https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Suerte No Fue",
-      "url": "https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s"
+      "duration_ms": 160000,
+      "name": "Se Divisan",
+      "url": "https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
+        "name": "El Se\u00f1oron",
+        "url": "https://open.spotify.com/album/1dfYE3Fpz112Ae3a9RYxVo"
+      },
+      "artists": [
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        }
+      ],
+      "duration_ms": 204996,
+      "name": "El Se\u00f1oron",
+      "url": "https://open.spotify.com/track/1EPZpEO3bZTUbfiAyiknDC"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "Se Divisan",
-        "url": "https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Se Divisan",
-      "url": "https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
         "name": "Golpe de Estado (En Vivo)",
         "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
       },
@@ -1419,26 +1419,6 @@
       "duration_ms": 135247,
       "name": "El Compa Carlos - En Vivo",
       "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
-        "name": "Bien Alerta (En vivo)",
-        "url": "https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "Bien Alerta - En vivo",
-      "url": "https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -1459,6 +1439,26 @@
       "duration_ms": 191861,
       "name": "El Consejo",
       "url": "https://open.spotify.com/track/5QXk8ZysSHdCaaIdBTE1F3"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
+        "name": "Bien Alerta (En vivo)",
+        "url": "https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Bien Alerta - En vivo",
+      "url": "https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
+        "name": "30 Tiros",
+        "url": "https://open.spotify.com/album/18dH6cfAZmBloSqAGTdFI2"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 173817,
+      "name": "30 Tiros",
+      "url": "https://open.spotify.com/track/2bRU7HM6NLErB3lfM9BAQI"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
         "name": "Ave De Mal Ag\u00fcero",
         "url": "https://open.spotify.com/album/3cqoRpYWykozNTwUUwf9JX"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 157749,
       "name": "Chambeando Recio",
       "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
-        "name": "30 Tiros",
-        "url": "https://open.spotify.com/album/18dH6cfAZmBloSqAGTdFI2"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 173817,
-      "name": "30 Tiros",
-      "url": "https://open.spotify.com/track/2bRU7HM6NLErB3lfM9BAQI"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
+        "name": "Millennial",
+        "url": "https://open.spotify.com/album/2eTrKUYyEnLdvN6awc6PK4"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/1XCotAsDLWl4Xv1hy9qaiG"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
         "name": "Cuando Te Acuerdes De M\u00ed",
         "url": "https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 204500,
       "name": "Kilos De H",
       "url": "https://open.spotify.com/track/7s5XTKQdpxicXbPv1QAUcU"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
-        "name": "Millennial",
-        "url": "https://open.spotify.com/album/2eTrKUYyEnLdvN6awc6PK4"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/1XCotAsDLWl4Xv1hy9qaiG"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "Guerra Sin Cuartel",
-        "url": "https://open.spotify.com/album/7tGjK4C7DkQwmViEtev57v"
-      },
-      "artists": [
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 168700,
-      "name": "Guerra Sin Cuartel",
-      "url": "https://open.spotify.com/track/1gcmEv26KMm3zzJIBFq2XQ"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
         "name": "Corridos 100% Callejeros (Vol. 1)",
         "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 205627,
       "name": "Soy Nacido En LA",
       "url": "https://open.spotify.com/track/4upkNwyr8C3WvglPL6xXqw"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
+        "name": "Guerra Sin Cuartel",
+        "url": "https://open.spotify.com/album/7tGjK4C7DkQwmViEtev57v"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 168700,
+      "name": "Guerra Sin Cuartel",
+      "url": "https://open.spotify.com/track/1gcmEv26KMm3zzJIBFq2XQ"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 162197,
+      "name": "El Kiri",
+      "url": "https://open.spotify.com/track/0HjBnIOpeszbXDQRn37ftK"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
         "name": "El Calorcito (En Vivo)",
         "url": "https://open.spotify.com/album/1Xvm21HcyuFwCEyunMgEA3"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 174254,
       "name": "El Calorcito (En Vivo)",
       "url": "https://open.spotify.com/track/4htlay50ggoEUbctmllJs9"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 162197,
-      "name": "El Kiri",
-      "url": "https://open.spotify.com/track/0HjBnIOpeszbXDQRn37ftK"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -2459,6 +2459,22 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
+        "name": "Corridos 100% Callejeros (Vol. 1)",
+        "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Ando Giro",
+      "url": "https://open.spotify.com/track/304bR3emWsKkqk9QaBeAX7"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
         "name": "La Oferta",
         "url": "https://open.spotify.com/album/28KxcUkrJupIVpYPn4RWgj"
       },
@@ -2499,38 +2515,6 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "Corridos 100% Callejeros (Vol. 1)",
-        "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Ando Giro",
-      "url": "https://open.spotify.com/track/304bR3emWsKkqk9QaBeAX7"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
-        "name": "Ah\u00ed Viene la Subida",
-        "url": "https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        }
-      ],
-      "duration_ms": 264750,
-      "name": "El 15",
-      "url": "https://open.spotify.com/track/67wRwLCjVnHvsTfLNz6Klx"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
         "name": "Las Cosas Como Son",
         "url": "https://open.spotify.com/album/0xfQ4uUDo7SLP639JDVaN8"
       },
@@ -2567,6 +2551,42 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
+        "name": "Ah\u00ed Viene la Subida",
+        "url": "https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 264750,
+      "name": "El 15",
+      "url": "https://open.spotify.com/track/67wRwLCjVnHvsTfLNz6Klx"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
+        "name": "Pa Los Que Hoy",
+        "url": "https://open.spotify.com/album/36xEtIBvLwYCUrtHsw9rbU"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 218831,
+      "name": "Pa Los Que Hoy",
+      "url": "https://open.spotify.com/track/34zDAp4dTbCIt59a3Q4QBt"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
         "name": "Hoy Brilla el Sol",
         "url": "https://open.spotify.com/album/29KLxUVAAot5lQTEzaGtLI"
       },
@@ -2595,26 +2615,6 @@
       "duration_ms": 193320,
       "name": "El Chepis",
       "url": "https://open.spotify.com/track/443kLF00XD6aHnaoHMesHm"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
-        "name": "Pa Los Que Hoy",
-        "url": "https://open.spotify.com/album/36xEtIBvLwYCUrtHsw9rbU"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 218831,
-      "name": "Pa Los Que Hoy",
-      "url": "https://open.spotify.com/track/34zDAp4dTbCIt59a3Q4QBt"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -2975,22 +2975,6 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "Ex Soldado Raygoza (En Vivo)",
-        "url": "https://open.spotify.com/album/2LyoeMQLtG9t824TqiZGEU"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 116665,
-      "name": "Ex Soldado Raygoza - En Vivo",
-      "url": "https://open.spotify.com/track/0LfbsT99gdjQ4vAgDWkmhy"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
         "name": "Relojito Adiamantado",
         "url": "https://open.spotify.com/album/3GjHAOsVfsiYb698EgpzEm"
       },
@@ -3011,18 +2995,18 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "El Capit\u00e1n",
-        "url": "https://open.spotify.com/album/4xBSMVWrg3hQoDrGYbtiuj"
+        "name": "Ex Soldado Raygoza (En Vivo)",
+        "url": "https://open.spotify.com/album/2LyoeMQLtG9t824TqiZGEU"
       },
       "artists": [
         {
-          "name": "Grupo Rocket",
-          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 185500,
-      "name": "El Capit\u00e1n",
-      "url": "https://open.spotify.com/track/65wr2H4YXdNbgYWuprFicA"
+      "duration_ms": 116665,
+      "name": "Ex Soldado Raygoza - En Vivo",
+      "url": "https://open.spotify.com/track/0LfbsT99gdjQ4vAgDWkmhy"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -3063,18 +3047,18 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "Hombre De Ley (El 23)",
-        "url": "https://open.spotify.com/album/5ApUXj0kc2DTCThh5y2wC9"
+        "name": "El Capit\u00e1n",
+        "url": "https://open.spotify.com/album/4xBSMVWrg3hQoDrGYbtiuj"
       },
       "artists": [
         {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
         }
       ],
-      "duration_ms": 165626,
-      "name": "Hombre De Ley (El 23)",
-      "url": "https://open.spotify.com/track/6aykDzTp1Ws8AWFbqTVjEz"
+      "duration_ms": 185500,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/65wr2H4YXdNbgYWuprFicA"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -3095,6 +3079,22 @@
       "duration_ms": 184476,
       "name": "La Escuela De La Vida",
       "url": "https://open.spotify.com/track/3ujHzEwGasbXUrID9hXMsA"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
+        "name": "Hombre De Ley (El 23)",
+        "url": "https://open.spotify.com/album/5ApUXj0kc2DTCThh5y2wC9"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 165626,
+      "name": "Hombre De Ley (El 23)",
+      "url": "https://open.spotify.com/track/6aykDzTp1Ws8AWFbqTVjEz"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -3131,6 +3131,22 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/179OE8qVRwDBrc5WZheE2W"
+      },
+      "artists": [
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        }
+      ],
+      "duration_ms": 174439,
+      "name": "As\u00ed Soy Yo",
+      "url": "https://open.spotify.com/track/1Nm7M7ZUO0HW63oF7HfTQv"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
         "name": "El Mal Camino",
         "url": "https://open.spotify.com/album/4CjpZtBUmPkvA9crA2Sx38"
       },
@@ -3147,22 +3163,6 @@
       "duration_ms": 238071,
       "name": "El Mal Camino",
       "url": "https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/179OE8qVRwDBrc5WZheE2W"
-      },
-      "artists": [
-        {
-          "name": "Jose Manuel",
-          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
-        }
-      ],
-      "duration_ms": 174439,
-      "name": "As\u00ed Soy Yo",
-      "url": "https://open.spotify.com/track/1Nm7M7ZUO0HW63oF7HfTQv"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -3291,22 +3291,6 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "Rompiendola",
-        "url": "https://open.spotify.com/album/0SfGD6tBcvqnzvgoVcxT3t"
-      },
-      "artists": [
-        {
-          "name": "Los 3 Del Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT"
-        }
-      ],
-      "duration_ms": 159767,
-      "name": "Rompiendola",
-      "url": "https://open.spotify.com/track/5j2a9gxEti7yAY8bv3M7yx"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
         "name": "Todos la Boca Cerrada",
         "url": "https://open.spotify.com/album/4VnAqVnzmkrDpfAdjYmmeO"
       },
@@ -3319,6 +3303,38 @@
       "duration_ms": 166708,
       "name": "Todos la Boca Cerrada",
       "url": "https://open.spotify.com/track/39ZB7qdL39dEagUiIClS3O"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
+        "name": "Yo No Me Rajo",
+        "url": "https://open.spotify.com/album/6KvRJthG8uP4lYGsMjZEzU"
+      },
+      "artists": [
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "Yo No Me Rajo",
+      "url": "https://open.spotify.com/track/4yGw2GFi5MohpMKTDq7qhz"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
+        "name": "Rompiendola",
+        "url": "https://open.spotify.com/album/0SfGD6tBcvqnzvgoVcxT3t"
+      },
+      "artists": [
+        {
+          "name": "Los 3 Del Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT"
+        }
+      ],
+      "duration_ms": 159767,
+      "name": "Rompiendola",
+      "url": "https://open.spotify.com/track/5j2a9gxEti7yAY8bv3M7yx"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -3351,22 +3367,6 @@
       "duration_ms": 198174,
       "name": "El Hijo Del 3",
       "url": "https://open.spotify.com/track/4VZ9GyJRN4iZIer1JrazkO"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
-        "name": "Yo No Me Rajo",
-        "url": "https://open.spotify.com/album/6KvRJthG8uP4lYGsMjZEzU"
-      },
-      "artists": [
-        {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Yo No Me Rajo",
-      "url": "https://open.spotify.com/track/4yGw2GFi5MohpMKTDq7qhz"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -3491,22 +3491,6 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "Doble R",
-        "url": "https://open.spotify.com/album/6mJN8NAixOcj3XuD0Way5g"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        }
-      ],
-      "duration_ms": 160481,
-      "name": "Doble R",
-      "url": "https://open.spotify.com/track/0U57Ujw7KGAS0IxyE1ZBcw"
-    },
-    {
-      "added_at": "2022-10-07 05:00:20",
-      "album": {
         "name": "Que Te Valga Verga",
         "url": "https://open.spotify.com/album/7DAmH01Zs3AGPJugrq7MFH"
       },
@@ -3519,6 +3503,22 @@
       "duration_ms": 126685,
       "name": "Que Te Valga Verga",
       "url": "https://open.spotify.com/track/2TIRRX9lDuhujt0ojcZ8Y6"
+    },
+    {
+      "added_at": "2022-10-07 05:00:20",
+      "album": {
+        "name": "Doble R",
+        "url": "https://open.spotify.com/album/6mJN8NAixOcj3XuD0Way5g"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        }
+      ],
+      "duration_ms": 160481,
+      "name": "Doble R",
+      "url": "https://open.spotify.com/track/0U57Ujw7KGAS0IxyE1ZBcw"
     },
     {
       "added_at": "2022-10-07 05:00:20",
@@ -3539,22 +3539,22 @@
     {
       "added_at": "2022-10-07 05:00:20",
       "album": {
-        "name": "Renovados, Vol. 2",
-        "url": "https://open.spotify.com/album/0J2gvWMYxQswsvetdUtPLw"
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/63BoqY5Mcs2obz6ZLdWDN8"
       },
       "artists": [
         {
-          "name": "Los Titanes De Durango",
-          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         },
         {
-          "name": "Maximo Grado",
-          "url": "https://open.spotify.com/artist/6OpFO9iQ4YKPRy48kPKcvP"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 137889,
-      "name": "Los RR",
-      "url": "https://open.spotify.com/track/0z8iWc8a5GmpSHqIwsjm34"
+      "duration_ms": 183375,
+      "name": "Del Barrio",
+      "url": "https://open.spotify.com/track/4hRreLnYg3zgMp9nYxKkBF"
     },
     {
       "added_at": "2022-10-07 05:00:20",

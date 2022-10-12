@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 104346,
+  "num_followers": 104400,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMGE5ZDVmOWNkNzM3NTM3Y2FkMzdmNTZiMzZhY2M5ZTgx",
+  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMGNmNzA3NmE0NjU5NzlhNDk4ZTAyY2Q4NTkwZWY2OTI1",
   "tracks": [
     {
       "added_at": "2021-12-31 06:28:29",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Be Okay - EP",
-        "url": "https://open.spotify.com/album/6zlre1tj8zUG60NB6sSrzV"
-      },
-      "artists": [
-        {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
-        }
-      ],
-      "duration_ms": 194374,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/0U6GdW3n6kjIGQ6UM60EWK"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 439714,
       "name": "Just Want You - Live",
       "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Be Okay - EP",
+        "url": "https://open.spotify.com/album/6zlre1tj8zUG60NB6sSrzV"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "duration_ms": 194374,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/0U6GdW3n6kjIGQ6UM60EWK"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Quiet Talk",
         "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 168000,
       "name": "Quiet Talk",
       "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 233947,
       "name": "Eyes On You - Live",
       "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 234443,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "I Feel Good About It",
         "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 234443,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -851,6 +851,42 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "I've Got A Fire",
+        "url": "https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "I\u2019ve Got A Fire",
+      "url": "https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Right Where You Want Me",
+      "url": "https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "I Could Sing Of Your Love Forever",
         "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
       },
@@ -879,42 +915,6 @@
       "duration_ms": 181426,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Right Where You Want Me",
-      "url": "https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "I've Got A Fire",
-        "url": "https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI"
-      },
-      "artists": [
-        {
-          "name": "Lakewood Music",
-          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
-        },
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "I\u2019ve Got A Fire",
-      "url": "https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Motion Worship",
         "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 226568,
       "name": "Freedom Wild",
       "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1083,6 +1083,38 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "Clouds Are Clearing: Mixtape 1A",
         "url": "https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ"
       },
@@ -1099,6 +1131,22 @@
       "duration_ms": 159000,
       "name": "Higher Than Mine (Remix)",
       "url": "https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Cre\u00edste en M\u00ed / You Loved Me First",
+        "url": "https://open.spotify.com/album/6KXVUObEuVcXoFMt6KvCcl"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 209088,
+      "name": "You Loved Me First",
+      "url": "https://open.spotify.com/track/2wPbsFfyUAOvHHVOx2HVDT"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1123,38 +1171,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Cre\u00edste en M\u00ed / You Loved Me First",
-        "url": "https://open.spotify.com/album/6KXVUObEuVcXoFMt6KvCcl"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 209088,
-      "name": "You Loved Me First",
-      "url": "https://open.spotify.com/track/2wPbsFfyUAOvHHVOx2HVDT"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "More Than Good Enough",
-      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Through People Like Me",
         "url": "https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 194493,
       "name": "To Get To Me",
       "url": "https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Love Running Wild",
-        "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
-      },
-      "artists": [
-        {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
-        }
-      ],
-      "duration_ms": 201371,
-      "name": "I Belong to You",
-      "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Highest Praise",
         "url": "https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 243817,
       "name": "Highest Praise",
       "url": "https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Love Running Wild",
+        "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "duration_ms": 201371,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc"
       },
       "artists": [
         {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+          "name": "Elizabeth Grace",
+          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
         }
       ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+      "duration_ms": 202710,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB"
     }
   ],
   "unique_name": "Hits UP",

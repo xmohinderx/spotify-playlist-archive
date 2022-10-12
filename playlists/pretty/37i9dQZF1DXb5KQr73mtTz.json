@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 6017,
+  "num_followers": 6043,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODc2OCwwMDAwMDAwMDBkZTNmOWY0MTczNjU0OWM3NGQyZmFmNWEwNjU1NDU5",
+  "snapshot_id": "MTY2NTExODc2OCwwMDAwMDAwMDdkYjY3ZDI2ZjljZmE4MTBiYjU4ZDUyN2FiNTBkMWU5",
   "tracks": [
     {
       "added_at": "2022-10-04 14:56:25",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Can't Go",
+      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
         "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
       },
@@ -237,20 +253,20 @@
       "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
     },
     {
-      "added_at": "2022-10-04 14:56:25",
+      "added_at": "2022-10-12 02:05:17",
       "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
         }
       ],
-      "duration_ms": 211999,
-      "name": "Can't Go",
-      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
+      "duration_ms": 219746,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -269,22 +285,6 @@
       "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
     },
     {
-      "added_at": "2022-10-11 01:49:25",
-      "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
-    },
-    {
       "added_at": "2022-10-04 14:56:25",
       "album": {
         "name": "Palette",
@@ -299,6 +299,22 @@
       "duration_ms": 281944,
       "name": "Love Alone",
       "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -339,22 +355,6 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
         "name": "My Liberation Notes OST Part 11",
         "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
       },
@@ -367,6 +367,22 @@
       "duration_ms": 259056,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -407,38 +423,6 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
         "name": "Dear you (Romance 101 X LeeHi)",
         "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 235392,
       "name": "The day was beautiful",
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
         "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
         "url": "https://open.spotify.com/album/3I3bk770MRm5PJCL8BONKz"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 200974,
       "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
       "url": "https://open.spotify.com/track/04N4Wfxd7nB3dLV2amKdc0"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
+        "name": "Despite it all",
+        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
       },
       "artists": [
         {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
         }
       ],
-      "duration_ms": 256026,
-      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
+      "duration_ms": 229210,
+      "name": "Despite it all",
+      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
+        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 227360,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
-        "name": "Despite it all",
-        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 229210,
-      "name": "Despite it all",
-      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
     },
     {
       "added_at": "2022-10-04 14:56:25",

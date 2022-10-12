@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 45398,
+  "num_followers": 45442,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDY0YmI0Y2U2Zjg5ZTA4OTZmMTcxMmNmOTk5MTc2M2Ji",
+  "snapshot_id": "MTY1NDg2MjA0OCwwMDAwMDAwMDI3Y2Q3ZWViYmQxNDRhOTQ0YWUwNTIzYjVmNTEyYjQ2",
   "tracks": [
     {
       "added_at": "2022-01-05 09:24:56",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-01-05 09:24:56",
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
+    },
+    {
+      "added_at": "2022-01-05 09:24:56",
+      "album": {
         "name": "Rahsaan Patterson",
         "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 325145,
       "name": "Honest Man",
       "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
-    },
-    {
-      "added_at": "2022-01-05 09:24:56",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
     },
     {
       "added_at": "2022-01-05 09:24:56",

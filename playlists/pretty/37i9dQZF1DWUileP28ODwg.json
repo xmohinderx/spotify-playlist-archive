@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys",
-  "num_followers": 254389,
+  "num_followers": 254450,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMDRiMWI5NjQ5NDMwZTM2MzQ5Mjg5YTkwNDE0ZGNkNzJk",
+  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMDY4ODBlMmI2OTdkODZlNmFkNzM5ZDViOTY5MGFlNjk0",
   "tracks": [
     {
       "added_at": "2022-10-01 07:07:16",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Joy In The Morning",
-        "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 216286,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 208691,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 216286,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -399,26 +399,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Wholehearted",
-        "url": "https://open.spotify.com/album/6MCdxX1Ncd9P4V6za26n4J"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 265286,
-      "name": "God You Are",
-      "url": "https://open.spotify.com/track/0doQwQqwoHnwvWNpjpHqFd"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Perfectly Loved",
         "url": "https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 203683,
       "name": "Perfectly Loved",
       "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Wholehearted",
+        "url": "https://open.spotify.com/album/6MCdxX1Ncd9P4V6za26n4J"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 265286,
+      "name": "God You Are",
+      "url": "https://open.spotify.com/track/0doQwQqwoHnwvWNpjpHqFd"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Take It To Jesus",
-        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 268288,
-      "name": "Take It To Jesus",
-      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "I See Grace",
         "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 193865,
       "name": "I See Grace",
       "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Take It To Jesus",
+        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 268288,
+      "name": "Take It To Jesus",
+      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Things That I'm Afraid Of",
-        "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 166988,
-      "name": "Things That I'm Afraid Of",
-      "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Into The Wild",
         "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 175133,
       "name": "Hold You Tight",
       "url": "https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Things That I'm Afraid Of",
+        "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 166988,
+      "name": "Things That I'm Afraid Of",
+      "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Believe For It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "I've Got Joy",
-      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "The Work, Vol. 2",
         "url": "https://open.spotify.com/album/1wLvhr3tZahKSZdeef0uiK"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Believe For It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "I've Got Joy",
+      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "For All My Life",
         "url": "https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 210066,
       "name": "For All My Life",
       "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Grace In The Wilderness",
-        "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 166788,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -991,6 +975,22 @@
       "duration_ms": 275466,
       "name": "Eden (Isn't It Just Like You?)",
       "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Grace In The Wilderness",
+        "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 166788,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "I'll Fight for You",
-        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
-      },
-      "artists": [
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
-        }
-      ],
-      "duration_ms": 167403,
-      "name": "I'll Fight for You",
-      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Soul Worth Saving",
         "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 226650,
       "name": "Soul Worth Saving",
       "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "I'll Fight for You",
+        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
+      },
+      "artists": [
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "duration_ms": 167403,
+      "name": "I'll Fight for You",
+      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Glory I Couldn't See (Radio Version)",
-        "url": "https://open.spotify.com/album/3P6hGGLV83JnATBrjb1Gbu"
-      },
-      "artists": [
-        {
-          "name": "Mike Donehey",
-          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Glory I Couldn't See - Radio Version",
-      "url": "https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "To Not Worship You",
         "url": "https://open.spotify.com/album/1CdbYMYRRGYB5rxO8syz4P"
       },
@@ -1271,38 +1255,6 @@
       "duration_ms": 225681,
       "name": "To Not Worship You",
       "url": "https://open.spotify.com/track/0sqnqnvPogsfvALIv1OVMM"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/3OjfM80cjDGpXnw0okEmLI"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 199398,
-      "name": "While We Wait",
-      "url": "https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Doss",
-          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
-        }
-      ],
-      "duration_ms": 209262,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1323,6 +1275,38 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Glory I Couldn't See (Radio Version)",
+        "url": "https://open.spotify.com/album/3P6hGGLV83JnATBrjb1Gbu"
+      },
+      "artists": [
+        {
+          "name": "Mike Donehey",
+          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Glory I Couldn't See - Radio Version",
+      "url": "https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/3OjfM80cjDGpXnw0okEmLI"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 199398,
+      "name": "While We Wait",
+      "url": "https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "If The Lord Builds The House",
         "url": "https://open.spotify.com/album/6V9WshsSiYxovVnq1MPuTQ"
       },
@@ -1335,6 +1319,38 @@
       "duration_ms": 235640,
       "name": "If The Lord Builds The House",
       "url": "https://open.spotify.com/track/7baAHpv91hJA3UEAv7qfLH"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Lost Without You",
+        "url": "https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Doss",
+          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
+        }
+      ],
+      "duration_ms": 209262,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1355,22 +1371,6 @@
       "duration_ms": 286130,
       "name": "God Really Loves Us",
       "url": "https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Lost Without You",
-        "url": "https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Enough Already",
+        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "That's Enough",
+      "url": "https://open.spotify.com/track/1ggtVukTS0C2ifnnD7bzhF"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Nothing To Buy",
         "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 267106,
       "name": "Nothing To Buy",
       "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Enough Already",
-        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "That's Enough",
-      "url": "https://open.spotify.com/track/1ggtVukTS0C2ifnnD7bzhF"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 201639,
-      "name": "By Faith",
-      "url": "https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "One Heart at a Time",
         "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 262520,
       "name": "One Heart at a Time",
       "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "duration_ms": 201639,
+      "name": "By Faith",
+      "url": "https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Where The Glory Is",
+        "url": "https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 270576,
+      "name": "Where The Glory Is",
+      "url": "https://open.spotify.com/track/6eAXObWWakFMaTGU9AKhtB"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 222693,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Where The Glory Is",
-        "url": "https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 270576,
-      "name": "Where The Glory Is",
-      "url": "https://open.spotify.com/track/6eAXObWWakFMaTGU9AKhtB"
     }
   ],
   "unique_name": "Top Christian Contemporary",

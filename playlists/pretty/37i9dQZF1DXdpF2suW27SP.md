@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Julinho Ksd entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,107 likes - 74 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,138 likes - 74 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 73 | [Doce](https://open.spotify.com/track/3D0nHtG6BSu5RIsy6j5Wwg) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2), [ZoHar](https://open.spotify.com/artist/5uLGaEegHHoEEHk5EWH8Q4) | [Doce](https://open.spotify.com/album/3K8LvFUKsMj3seejRF6M0W) | 2:51 |
 | 74 | [Vida Di Youngers](https://open.spotify.com/track/3mrcQCfTL4SnxXkcYYOfo9) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Vida Di Youngers](https://open.spotify.com/album/38UtNeNwDPLvYBzvQ4hWDq) | 2:50 |
 
-Snapshot ID: `MTY2NTA5NzIwMCwwMDAwMDAwMGM1NmFhNDgyODEzZjgzMGRiZjFmZDhhNTZmOTY5YmZk`
+Snapshot ID: `MTY2NTUwOTg5NCwwMDAwMDAwMDIyZGY2OWE3MjM4NzBlZjAyNDE2YjNiZjUwMmY1YmJh`

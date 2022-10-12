@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-172 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
+173 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Slumberjack](https://open.spotify.com/track/4FGhMdPbr2PjvZTPQvkhFT) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/4T6NbIjlMpe8Rpc5Lx8DKt) | 1:50 | 2022-04-15 |  |
 | [So Many Ways](https://open.spotify.com/track/1ZUQS6AJsh9wRuiORmAZ8l) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [So Many Ways](https://open.spotify.com/album/0aWVEAQKsGF9HUMrpIeK4x) | 2:54 | 2022-04-15 |  |
 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 | 2022-04-15 |  |
+| [Sounding Joy](https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sounding Joy](https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX) | 3:50 | 2022-10-11 |  |
 | [Starfish](https://open.spotify.com/track/4JdI5yswyco9cyUpoAqpXS) | [The Whizpops!](https://open.spotify.com/artist/5BT349IUUroVoKHXzkRtnU) | [Sea Blue Sea](https://open.spotify.com/album/2buAx33rqao1bLYCobtEC2) | 3:07 | 2022-04-15 |  |
 | [Stone Age Rock Star](https://open.spotify.com/track/3BUgtx71lLEPH5DNAU2Dim) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [Play Music](https://open.spotify.com/album/29CsPLDKBk60dQifzVyB7a) | 3:30 | 2022-04-15 |  |
 | [Superhero](https://open.spotify.com/track/5GddeUNptX80eEcXlWoSPj) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Superhero](https://open.spotify.com/album/7FKsCQprYp5p6veybFbXr4) | 2:58 | 2022-04-15 |  |

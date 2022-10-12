@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Walls
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,753 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,759 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 36 | [friki](https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Pavlo Tambien](https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3) | [friki](https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK) | 2:11 |
 | 37 | [Disneyland Paris](https://open.spotify.com/track/2AeMKItKccbghNb24kruJB) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Disneyland Paris](https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG) | 2:24 |
 | 38 | [uno x ciento](https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk) | [Miren](https://open.spotify.com/artist/4YGQgS8rZcbt0VOsV6GPcv), [Fulston](https://open.spotify.com/artist/4NAeRqTT8u5AC9WUOMCLeM) | [a partes](https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP) | 1:40 |
-| 39 | [Inercia](https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [Lombardía 22](https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi) | 2:59 |
+| 39 | [Ansiedad](https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ansiedad](https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg) | 2:58 |
 | 40 | [un poco sí...](https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [un poco sí...](https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD) | 2:59 |
 | 41 | [canción de amor](https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:57 |
-| 42 | [Quiero Bailar](https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY) | [Elena Torres](https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0) | [Quiero Bailar](https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g) | 2:52 |
-| 43 | [Dunas](https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Dunas](https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK) | 1:48 |
-| 44 | [Ansiedad](https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ansiedad](https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg) | 2:58 |
+| 42 | [Inercia](https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [Lombardía 22](https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi) | 2:59 |
+| 43 | [Quiero Bailar](https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY) | [Elena Torres](https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0) | [Quiero Bailar](https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g) | 2:52 |
+| 44 | [Dunas](https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Dunas](https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK) | 1:48 |
 | 45 | [Moncler](https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Moncler](https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9) | 3:06 |
 | 46 | [Marisol](https://open.spotify.com/track/4eGgtcKMoL45YN55eXzD24) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Marisol](https://open.spotify.com/album/3mbuvr5Onv2U39DA2Cq7jD) | 2:52 |
-| 47 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Paloma Rollán](https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 |
-| 48 | [Ya No Hace Falta](https://open.spotify.com/track/68ig9yZZ1tMU0xtY7QOASt) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Ya No Hace Falta](https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV) | 3:21 |
-| 49 | [scenario!](https://open.spotify.com/track/3thdka0EjolLblroJXiE3U) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [scenario!](https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL) | 3:14 |
-| 50 | [Ojalá Fuéramos Amigos \(Buffetlibre Remix\)](https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Buffetlibre](https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh) | [Dime Algo \(bonito\) \(True Fans Edition\)](https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g) | 3:22 |
+| 47 | [Ya No Hace Falta](https://open.spotify.com/track/68ig9yZZ1tMU0xtY7QOASt) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Ya No Hace Falta](https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV) | 3:21 |
+| 48 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Paloma Rollán](https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 |
+| 49 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
+| 50 | [scenario!](https://open.spotify.com/track/3thdka0EjolLblroJXiE3U) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [scenario!](https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL) | 3:14 |
 
-Snapshot ID: `MTY2MzkxNzM2OSwwMDAwMDAwMDU3YTU5MDYyNjdjNzlmMjBkNDQwMTRiMTkwYTkwMzYw`
+Snapshot ID: `MTY2MzkxNzM2OSwwMDAwMDAwMDg2NTVlOTY2ZGYwM2I0ZWQyODA4MzlkODI3ZTY4ODVj`

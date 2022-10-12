@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G6uERfhfPM.md) - [plain]
 
 > Best of the Jazz music scene in India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,390 likes - 70 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,398 likes - 70 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G6uERfhfPM.md) - [plain]
 | 69 | [Nirvana](https://open.spotify.com/track/1vSHe8WnVDDEJ3iLdN1NbE) | [Siddharth Nagarajan](https://open.spotify.com/artist/4qFqgiRfF3TzxPic3rV79B), [Mohini Dey](https://open.spotify.com/artist/3jGVx8ZyTVFWokbgl6BDdo), [U\. Rajesh](https://open.spotify.com/artist/01vBuoKdVXVQGwnJgfzzpy) | [Nirvana](https://open.spotify.com/album/2Mm2YfmOUDQkXW6SuFwizf) | 6:52 |
 | 70 | [Feathers Flight](https://open.spotify.com/track/5f2aE6Z5I6ZMSEyeRr3LGR) | [Drift The Trio](https://open.spotify.com/artist/4O4ZfvRwUGXIBUrDkN70Ov) | [Nico](https://open.spotify.com/album/3pS7c6HM7ROV6NoDkR0reS) | 5:01 |
 
-Snapshot ID: `MTY2MjA5ODgyNSwwMDAwMDAwMGM5NDY0YTg2NTVmMjY1YTlmZTcxMDlhNGM1NTc1YTE2`
+Snapshot ID: `MTY2NTQ4ODI5MSwwMDAwMDAwMDNlYzRiYjlmZTJkNTY5OWM5MmIwZjFmODg5MDllOGVj`

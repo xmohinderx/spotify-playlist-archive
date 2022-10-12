@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 971331,
+  "num_followers": 971332,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDdkYjg0MWU2ODY4NDQzNTZkNWU4Nzc1MDY1OTk1ZDZh",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGUzMDg5NTU4ZWJmMjg2MDk1MjVjN2ZiYTVjZTcxNGI5",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
       "added_at": "2021-08-04 17:54:39",
       "album": {
         "name": "dancing in the kitchen",
@@ -339,22 +355,6 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 204967,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
-    },
-    {
       "added_at": "2021-10-22 04:01:00",
       "album": {
         "name": "Fall Into Me",
@@ -455,6 +439,22 @@
       "duration_ms": 226066,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 204967,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "leave me",
-        "url": "https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 220539,
-      "name": "leave me",
-      "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Thinking 'Bout Love",
@@ -525,22 +509,6 @@
       "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
     },
     {
-      "added_at": "2021-08-05 16:18:55",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Damage",
@@ -557,6 +525,22 @@
       "url": "https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "leave me",
+        "url": "https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 220539,
+      "name": "leave me",
+      "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"
+    },
+    {
       "added_at": "2021-11-19 05:01:00",
       "album": {
         "name": "BRIGHTSIDE",
@@ -571,6 +555,22 @@
       "duration_ms": 237320,
       "name": "A.M. RADIO",
       "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
+    },
+    {
+      "added_at": "2021-08-05 16:18:55",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264372,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Two Places at Once (Part I)",
@@ -667,6 +651,22 @@
       "duration_ms": 199395,
       "name": "Two Places at Once",
       "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "One Step Ahead",
-        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
-    },
-    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Long Blue Light",
@@ -747,6 +731,22 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "One Step Ahead",
+        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "getting into",
+        "url": "https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "duration_ms": 169629,
+      "name": "getting into",
+      "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
@@ -819,22 +835,6 @@
       "duration_ms": 249946,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "getting into",
-        "url": "https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3"
-      },
-      "artists": [
-        {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
-        }
-      ],
-      "duration_ms": 169629,
-      "name": "getting into",
-      "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/1mEM6KkVMwpuAuqusCMD6m"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 262871,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Sunday Crossword",
@@ -969,20 +953,20 @@
       "url": "https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Fat Funny Friend (sadder)",
-        "url": "https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt"
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
       "artists": [
         {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
         }
       ],
-      "duration_ms": 202319,
-      "name": "Fat Funny Friend (sadder)",
-      "url": "https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E"
+      "duration_ms": 262871,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -999,6 +983,22 @@
       "duration_ms": 183941,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Fat Funny Friend (sadder)",
+        "url": "https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 202319,
+      "name": "Fat Funny Friend (sadder)",
+      "url": "https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Emotionless",
-        "url": "https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 136480,
-      "name": "Emotionless",
-      "url": "https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "18",
@@ -1063,6 +1047,22 @@
       "duration_ms": 178407,
       "name": "18",
       "url": "https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Emotionless",
+        "url": "https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 136480,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 201463,
+      "name": "I Just Want a Lover",
+      "url": "https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Joe",
         "url": "https://open.spotify.com/album/6jZmjxCxlbPxxeClvZbjZo"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 187660,
       "name": "Joe",
       "url": "https://open.spotify.com/track/2fSdrOgBjisneSqSwhXWsn"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Leap",
-        "url": "https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Save Your Love",
-      "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -1179,6 +1179,22 @@
       "duration_ms": 198693,
       "name": "When The Lights Go Out",
       "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Leap",
+        "url": "https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Save Your Love",
+      "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -1217,36 +1233,20 @@
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
+      "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Western Wind",
-        "url": "https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M"
+        "name": "Someone Who Loved You",
+        "url": "https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 225946,
-      "name": "Western Wind",
-      "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Meet The Moonlight",
-        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 305607,
-      "name": "Meet The Moonlight",
-      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+      "duration_ms": 177930,
+      "name": "Someone Who Loved You",
+      "url": "https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0"
     }
   ],
   "unique_name": "Morning Commute",

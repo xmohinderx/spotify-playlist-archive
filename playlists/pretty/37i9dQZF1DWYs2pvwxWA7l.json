@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M?si=BEGDhINTSzmhE8dCRynjQg\"> Zuchu  </a>  and  <a href=\"https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s?si=bKmM6nVLQwWkC34r4BQjNQ\"> Adekunle Gold  </a>  ",
-  "num_followers": 365746,
+  "num_followers": 366105,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyMjAzOCwwMDAwMDAwMDRlOTIzZWM4ZWQzNTczYmU5ZmZkMjJkY2M2YTZiNDc5",
+  "snapshot_id": "MTY2NTEyMjAzOCwwMDAwMDAwMGM5NzVkY2U4OTM0MTNiNDJhODdkOWFjMTg3OWIyMWJj",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
     },
     {
-      "added_at": "2022-10-11 01:25:59",
+      "added_at": "2022-10-12 01:41:01",
       "album": {
         "name": "Likkle Riddim",
         "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
-      "added_at": "2022-10-11 01:25:59",
+      "added_at": "2022-10-12 01:41:01",
       "album": {
         "name": "Skedaddle",
         "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
@@ -873,26 +873,6 @@
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Holy Father",
-        "url": "https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
-    },
-    {
       "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Kolo Kolo",
@@ -915,22 +895,22 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Stand Strong (feat. Sunday Service Choir)",
-        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         },
         {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 182791,
-      "name": "Stand Strong (feat. Sunday Service Choir)",
-      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
+      "duration_ms": 184000,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -951,6 +931,26 @@
       "duration_ms": 185454,
       "name": "Sere",
       "url": "https://open.spotify.com/track/35056uy2b4M1qJ3Z1ed3sf"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Stand Strong (feat. Sunday Service Choir)",
+        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 182791,
+      "name": "Stand Strong (feat. Sunday Service Choir)",
+      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
     },
     {
       "added_at": "2022-06-08 08:17:45",

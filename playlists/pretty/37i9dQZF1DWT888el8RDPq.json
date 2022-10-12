@@ -1,12 +1,12 @@
 {
   "description": "cio\u00e8, pi\u00f9 o meno felice \ud83e\udd20",
-  "num_followers": 8176,
+  "num_followers": 8191,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyODM0MCwwMDAwMDAwMDA1MzNkODAxZjVmZDUzYjFlYzRhNTllYTdiMWI5Nzlm",
+  "snapshot_id": "MTY2NTEyODM0MCwwMDAwMDAwMDVjNGE1NGQ1NjhkMTlmYmExYzgxODIyMzJiNmM5ODgy",
   "tracks": [
     {
       "added_at": "2022-10-05 13:39:33",
@@ -23,6 +23,22 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "added_at": "2022-10-05 13:39:33",
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2022-10-05 13:39:33",
@@ -47,22 +63,6 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
-    },
-    {
-      "added_at": "2022-10-05 13:39:33",
-      "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2022-10-05 13:39:33",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-10-05 13:39:33",
       "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2022-10-05 13:39:33",
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -591,18 +607,26 @@
     {
       "added_at": "2022-10-05 13:39:33",
       "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
       },
       "artists": [
         {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
         }
       ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+      "duration_ms": 160161,
+      "name": "C'est La Vie (with bbno$ & Rich Brian)",
+      "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
     },
     {
       "added_at": "2022-10-05 13:39:33",
@@ -639,26 +663,22 @@
     {
       "added_at": "2022-10-05 13:39:33",
       "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
+        "name": "Sick of U",
+        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
       },
       "artists": [
         {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
         },
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 160161,
-      "name": "C'est La Vie (with bbno$ & Rich Brian)",
-      "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
+      "duration_ms": 168676,
+      "name": "Sick of U (with Oliver Tree)",
+      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
     },
     {
       "added_at": "2022-10-05 13:39:33",
@@ -715,26 +735,6 @@
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
-    },
-    {
-      "added_at": "2022-10-05 13:39:33",
-      "album": {
-        "name": "Sick of U",
-        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 168676,
-      "name": "Sick of U (with Oliver Tree)",
-      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
     },
     {
       "added_at": "2022-10-05 13:39:33",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-10-05 13:39:33",
       "album": {
+        "name": "Title (Deluxe)",
+        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Title",
+      "url": "https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI"
+    },
+    {
+      "added_at": "2022-10-05 13:39:33",
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 163624,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB"
-    },
-    {
-      "added_at": "2022-10-05 13:39:33",
-      "album": {
-        "name": "Title (Deluxe)",
-        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Title",
-      "url": "https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI"
     },
     {
       "added_at": "2022-10-05 13:39:33",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2022-10-05 13:39:33",
       "album": {
-        "name": "Head on Fire",
-        "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 188645,
-      "name": "Head on Fire",
-      "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
-    },
-    {
-      "added_at": "2022-10-05 13:39:33",
-      "album": {
         "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
         "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
       },
@@ -1171,6 +1151,26 @@
     {
       "added_at": "2022-10-05 13:39:33",
       "album": {
+        "name": "Head on Fire",
+        "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 188645,
+      "name": "Head on Fire",
+      "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
+    },
+    {
+      "added_at": "2022-10-05 13:39:33",
+      "album": {
         "name": "sheluvme",
         "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 150840,
       "name": "sheluvme",
       "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
-    },
-    {
-      "added_at": "2022-10-05 13:39:33",
-      "album": {
-        "name": "L'ultima notte",
-        "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 157566,
-      "name": "L'ultima notte",
-      "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
     },
     {
       "added_at": "2022-10-05 13:39:33",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2022-10-05 13:39:33",
       "album": {
+        "name": "Come First",
+        "url": "https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 132900,
+      "name": "Come First",
+      "url": "https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp"
+    },
+    {
+      "added_at": "2022-10-05 13:39:33",
+      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/21abgAYeRvgOJefmSBA3QW"
       },
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-10-05 13:39:33",
       "album": {
-        "name": "Come First",
-        "url": "https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb"
+        "name": "L'ultima notte",
+        "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
         }
       ],
-      "duration_ms": 132900,
-      "name": "Come First",
-      "url": "https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp"
+      "duration_ms": 157566,
+      "name": "L'ultima notte",
+      "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
     },
     {
       "added_at": "2022-10-05 13:39:33",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-504 songs - 1 day 4 hr 39 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
+505 songs - 1 day 4 hr 41 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Ray'a](https://open.spotify.com/track/5OqP6CKUFRyoeVQnOU37ds) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ray'a](https://open.spotify.com/album/70QFgfmKKOBw8ZNrwvfM8w) | 4:06 | 2021-11-17 | 2022-01-25 |
 | [Ra’sa Slow](https://open.spotify.com/track/0VTA7UNm4ploUs884YAz9w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ra’sa Slow](https://open.spotify.com/album/7fzgWkatGkQaotzwJo6tTp) | 3:12 | 2022-03-02 | 2022-03-15 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-16 |
-| [Roberto](https://open.spotify.com/track/64UXkp5qVMJduPib0auZnn) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:26 | 2022-09-24 |  |
+| [Roberto](https://open.spotify.com/track/64UXkp5qVMJduPib0auZnn) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:26 | 2022-09-24 | 2022-10-12 |
 | [Roma](https://open.spotify.com/track/5GDhHuLpmneh1DCMyKMJp3) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:30 | 2022-09-24 |  |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-07-04 |
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-09 | 2021-06-23 |
@@ -484,6 +484,7 @@
 | [عفاريت الأسفلت](https://open.spotify.com/track/02G9n2WgsNd2j7CqTmcDR2) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عفاريت الأسفلت](https://open.spotify.com/album/3gWQJL3JHzaNzWuFqG7osw) | 3:24 | 2022-04-05 | 2022-09-25 |
 | [عفاريت الأسفلت](https://open.spotify.com/track/4uNc5GMR6a5az5U3Ghdyf8) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عفاريت الأسفلت](https://open.spotify.com/album/1fwFqGqTUEwm4n1m8vX9J1) | 3:24 | 2021-07-20 | 2022-04-06 |
 | [علي راحتي](https://open.spotify.com/track/7ovuIttxBRyuJepLizxnbJ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جزيرة البطل](https://open.spotify.com/album/4YDXa3PlsqjaUdT9rClcY7) | 3:42 | 2021-03-27\* | 2021-04-14 |
+| [غاغة](https://open.spotify.com/track/4dhBcmOsysqol75RKDMooX) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 1:56 | 2022-10-11 |  |
 | [فانتازيا](https://open.spotify.com/track/1Ryokp2XGqiw1Mh6NTmKUV) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [بلان بي](https://open.spotify.com/album/32rH8RDPdrKhR2Unq1FEKU) | 2:33 | 2021-03-27\* | 2021-04-21 |
 | [كابتن](https://open.spotify.com/track/6dR03uJtlIIIfQsf6EuesI) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/04RBwKhmlQubyTNNu70Xx1) | 2:58 | 2022-01-30 | 2022-02-24 |
 | [كان نفسي](https://open.spotify.com/track/4AvJP6kNoa6Cua3cqlZmCm) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جزيرة البطل](https://open.spotify.com/album/4YDXa3PlsqjaUdT9rClcY7) | 4:13 | 2021-11-03 | 2022-04-06 |

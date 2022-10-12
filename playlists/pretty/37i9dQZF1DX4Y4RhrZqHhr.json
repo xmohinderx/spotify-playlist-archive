@@ -1,12 +1,12 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 775936,
+  "num_followers": 775895,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU2MDY0NCwwMDAwMDAwMDFiMjI1OGZmZDE4NDdhYjNhMTY1NDM4ZjM3ZjdlYmM1",
+  "snapshot_id": "MTY0ODU2MDY0NCwwMDAwMDAwMDkwODkwNzEyMTViMTNkZWI2MWI2NTU4YTYxNjViMGZj",
   "tracks": [
     {
       "added_at": "2022-03-29 13:30:44",
@@ -203,6 +203,30 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
+      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -227,30 +251,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
-      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Some Say (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 186878,
-      "name": "Some Say - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 210013,
       "name": "Heroes (we could be)",
       "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Some Say (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 186878,
+      "name": "Some Say - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "No Money",
-        "url": "https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 189126,
-      "name": "No Money",
-      "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Pjanoo",
         "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 157432,
       "name": "Pjanoo - Radio Edit",
       "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "No Money",
+        "url": "https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 189126,
+      "name": "No Money",
+      "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2819,26 +2819,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Remix Hits, Vol.1",
-        "url": "https://open.spotify.com/album/6W8E52skHCswgx7R4hfTgb"
-      },
-      "artists": [
-        {
-          "name": "The Underdog Project",
-          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
-        },
-        {
-          "name": "Summermix",
-          "url": "https://open.spotify.com/artist/4u4Kde9i4PU3IeJpfAHpCx"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Summer Jam 2003 - Remix",
-      "url": "https://open.spotify.com/track/6eQQLxpKeoNqwT90zSD4Em"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Old Town Road (Diplo Remix)",
         "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
       },
@@ -2891,22 +2871,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI"
+        "name": "Remix Hits, Vol.1",
+        "url": "https://open.spotify.com/album/6W8E52skHCswgx7R4hfTgb"
       },
       "artists": [
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+          "name": "The Underdog Project",
+          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
         },
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Summermix",
+          "url": "https://open.spotify.com/artist/4u4Kde9i4PU3IeJpfAHpCx"
         }
       ],
-      "duration_ms": 285596,
-      "name": "I Got U",
-      "url": "https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd"
+      "duration_ms": 229880,
+      "name": "Summer Jam 2003 - Remix",
+      "url": "https://open.spotify.com/track/6eQQLxpKeoNqwT90zSD4Em"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2931,22 +2911,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Music & You",
-        "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI"
       },
       "artists": [
         {
-          "name": "Room 5",
-          "url": "https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
         },
         {
-          "name": "Oliver Cheatham",
-          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         }
       ],
-      "duration_ms": 212413,
-      "name": "Make Luv",
-      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
+      "duration_ms": 285596,
+      "name": "I Got U",
+      "url": "https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2971,6 +2951,26 @@
       "duration_ms": 199655,
       "name": "Is This Love - Remix",
       "url": "https://open.spotify.com/track/1G8yVHxDLlEjDAt02Dfbmi"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Music & You",
+        "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
+      },
+      "artists": [
+        {
+          "name": "Room 5",
+          "url": "https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq"
+        },
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Make Luv",
+      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3295,26 +3295,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "One Touch",
-        "url": "https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 197875,
-      "name": "One Touch",
-      "url": "https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Let Me Love You (Ti\u00ebsto's AFTR:HRS Mix)",
         "url": "https://open.spotify.com/album/1ASGnaVLO875GdjJBGFUEH"
       },
@@ -3335,6 +3315,26 @@
       "duration_ms": 155840,
       "name": "Let Me Love You - Ti\u00ebsto's AFTR:HRS Mix",
       "url": "https://open.spotify.com/track/7srwQKnqYsIY26Aatbazaq"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 197875,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3479,26 +3479,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Faded (Remixes)",
-        "url": "https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "Faded - Tiesto's Northern Lights Remix",
-      "url": "https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -3515,6 +3495,26 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Faded (Remixes)",
+        "url": "https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "Faded - Tiesto's Northern Lights Remix",
+      "url": "https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3583,22 +3583,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
+        "name": "Bittersweet Symphony",
+        "url": "https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh"
       },
       "artists": [
         {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
         },
         {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+          "name": "Emily Roberts",
+          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
         }
       ],
-      "duration_ms": 170716,
-      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
-      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
+      "duration_ms": 194618,
+      "name": "Bittersweet Symphony",
+      "url": "https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3627,22 +3627,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Bittersweet Symphony",
-        "url": "https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh"
+        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
       },
       "artists": [
         {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
         },
         {
-          "name": "Emily Roberts",
-          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
         }
       ],
-      "duration_ms": 194618,
-      "name": "Bittersweet Symphony",
-      "url": "https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L"
+      "duration_ms": 170716,
+      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
+      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3667,26 +3667,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Let Me Love You (feat. Chris Crone)",
-        "url": "https://open.spotify.com/album/6Lmx4sQJ4lUrXxY64X4oeu"
-      },
-      "artists": [
-        {
-          "name": "SJUR",
-          "url": "https://open.spotify.com/artist/1X6dfPmF8f5C5EW3WIGfvm"
-        },
-        {
-          "name": "Chris Crone",
-          "url": "https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk"
-        }
-      ],
-      "duration_ms": 208886,
-      "name": "Let Me Love You (feat. Chris Crone)",
-      "url": "https://open.spotify.com/track/2jfCy43LsFbCQoB6HyetlY"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -3703,6 +3683,26 @@
       "duration_ms": 216770,
       "name": "Dopamine (feat. Eyelar)",
       "url": "https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Let Me Love You (feat. Chris Crone)",
+        "url": "https://open.spotify.com/album/6Lmx4sQJ4lUrXxY64X4oeu"
+      },
+      "artists": [
+        {
+          "name": "SJUR",
+          "url": "https://open.spotify.com/artist/1X6dfPmF8f5C5EW3WIGfvm"
+        },
+        {
+          "name": "Chris Crone",
+          "url": "https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk"
+        }
+      ],
+      "duration_ms": 208886,
+      "name": "Let Me Love You (feat. Chris Crone)",
+      "url": "https://open.spotify.com/track/2jfCy43LsFbCQoB6HyetlY"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3815,30 +3815,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Moss Kena",
-          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 200015,
-      "name": "Fireworks (feat. Moss Kena & The Knocks)",
-      "url": "https://open.spotify.com/track/154YAkNQuFHLV3LbP7gP1f"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Jubel (Radio Edit)",
         "url": "https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza"
       },
@@ -3871,6 +3847,30 @@
       "duration_ms": 152773,
       "name": "You Need To Calm Down - Clean Bandit Remix",
       "url": "https://open.spotify.com/track/7Bjf96uNizpvXLvNyOJpst"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 200015,
+      "name": "Fireworks (feat. Moss Kena & The Knocks)",
+      "url": "https://open.spotify.com/track/154YAkNQuFHLV3LbP7gP1f"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3971,6 +3971,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "Easy Love (Radio Edit)",
+        "url": "https://open.spotify.com/album/4DaepR2iOAqEEkOUZ6AKQU"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Easy Love - Radio Edit",
+      "url": "https://open.spotify.com/track/0eOKQA1cMOTqwZQNVc1nZ6"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Despacito (Major Lazer & MOSKA Remix)",
         "url": "https://open.spotify.com/album/7FfnwGI2o6zyAkChjajNbS"
       },
@@ -3995,22 +4011,6 @@
       "duration_ms": 190320,
       "name": "Despacito - Major Lazer & MOSKA Remix",
       "url": "https://open.spotify.com/track/2soXzaiEWhHzUCnSi94jTv"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Easy Love (Radio Edit)",
-        "url": "https://open.spotify.com/album/4DaepR2iOAqEEkOUZ6AKQU"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Easy Love - Radio Edit",
-      "url": "https://open.spotify.com/track/0eOKQA1cMOTqwZQNVc1nZ6"
     },
     {
       "added_at": "2022-03-29 13:30:44",

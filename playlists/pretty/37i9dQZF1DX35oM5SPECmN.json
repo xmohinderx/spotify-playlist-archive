@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2427751,
+  "num_followers": 2427715,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYxNDY0MSwwMDAwMDAwMDQzMzJhMTJmYWQyYTdkMWQwYzgyMjI1ZjU3MDQ4YTg2",
+  "snapshot_id": "MTY2MzYxNDY0MSwwMDAwMDAwMGY3YzlmZGY0MzY1YTU3ZGMxNWIwZjY0OGNjNjBlOWQx",
   "tracks": [
     {
       "added_at": "2022-09-19 19:10:41",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-09-19 19:10:41",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
-    },
-    {
-      "added_at": "2022-09-19 19:10:41",
-      "album": {
         "name": "Ongiara",
         "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 216453,
       "name": "Your Rocky Spine",
       "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
+    },
+    {
+      "added_at": "2022-09-19 19:10:41",
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
     },
     {
       "added_at": "2022-09-19 19:10:41",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-09-19 19:10:41",
       "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Wait so Long",
-      "url": "https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS"
-    },
-    {
-      "added_at": "2022-09-19 19:10:41",
-      "album": {
         "name": "As We Ran",
         "url": "https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 200321,
       "name": "As We Ran",
       "url": "https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx"
+    },
+    {
+      "added_at": "2022-09-19 19:10:41",
+      "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Wait so Long",
+      "url": "https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS"
     },
     {
       "added_at": "2022-09-19 19:10:41",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-19 19:10:41",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l"
-      },
-      "artists": [
-        {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
-        }
-      ],
-      "duration_ms": 234694,
-      "name": "Roots And Wings",
-      "url": "https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74"
-    },
-    {
-      "added_at": "2022-09-19 19:10:41",
-      "album": {
         "name": "When You're Ready",
         "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 162673,
       "name": "Take The Journey",
       "url": "https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0"
+    },
+    {
+      "added_at": "2022-09-19 19:10:41",
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l"
+      },
+      "artists": [
+        {
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+        }
+      ],
+      "duration_ms": 234694,
+      "name": "Roots And Wings",
+      "url": "https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74"
     },
     {
       "added_at": "2022-09-19 19:10:41",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-19 19:10:41",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
-    },
-    {
-      "added_at": "2022-09-19 19:10:41",
-      "album": {
         "name": "Heart Beats",
         "url": "https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 200400,
       "name": "Don't Let It Get You Down",
       "url": "https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS"
+    },
+    {
+      "added_at": "2022-09-19 19:10:41",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
     },
     {
       "added_at": "2022-09-19 19:10:41",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-09-19 19:10:41",
       "album": {
-        "name": "By The Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Hold Out Your Hand",
-      "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
-    },
-    {
-      "added_at": "2022-09-19 19:10:41",
-      "album": {
         "name": "When The Night",
         "url": "https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 308360,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD"
+    },
+    {
+      "added_at": "2022-09-19 19:10:41",
+      "album": {
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Hold Out Your Hand",
+      "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
     },
     {
       "added_at": "2022-09-19 19:10:41",

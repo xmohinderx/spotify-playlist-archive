@@ -1320,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "Squad",
+        "url": "https://open.spotify.com/album/5JkLkqbbeXbSTbI0XA9XBA"
+      },
+      "artists": [
+        {
+          "name": "Idris King",
+          "url": "https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "Squad",
+      "url": "https://open.spotify.com/track/1J3W4aYJO2d3C90rnkX2gD"
+    },
+    {
+      "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/4ueg8Xn74iH3sY4MRc7MYJ"
       },
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 192026,
       "name": "Squad",
       "url": "https://open.spotify.com/track/3S99N747IJomX6CrZHZ9ho"

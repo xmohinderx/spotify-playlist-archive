@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Sorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,404 likes - 131 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,460 likes - 131 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

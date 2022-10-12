@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,543 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,788 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 44 | [Faded](https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 3:43 |
 | 45 | [Right Now](https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Right Now](https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P) | 3:21 |
 | 46 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 |
-| 47 | [Runaways \(feat\. Teemu\)](https://open.spotify.com/track/7N3KIPb2x4FzKUeonhw9sd) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Teemu](https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz) | [Runaways \(feat\. Teemu\)](https://open.spotify.com/album/0cvwZJlRI7a6aUY3CB24dj) | 3:02 |
-| 48 | [No Place](https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:57 |
+| 47 | [No Place](https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:57 |
+| 48 | [Runaways \(feat\. Teemu\)](https://open.spotify.com/track/7N3KIPb2x4FzKUeonhw9sd) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Teemu](https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz) | [Runaways \(feat\. Teemu\)](https://open.spotify.com/album/0cvwZJlRI7a6aUY3CB24dj) | 3:02 |
 | 49 | [Sex](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [Sex](https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG) | 3:48 |
 | 50 | [Young](https://open.spotify.com/track/1KeZgPUr54C8iz3FjqzVoz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:44 |
 | 51 | [Crazy](https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Crazy](https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx) | 2:33 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 78 | [Reality](https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck Devy](https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:38 |
 | 79 | [Oh Child](https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Oh Child](https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU) | 3:15 |
 | 80 | [Sonnentanz \- Sun Don't Shine](https://open.spotify.com/track/5NKfB21hWeirObQjEN44x1) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Sonnentanz](https://open.spotify.com/album/1BBqa3UQfVawVGQN0aIcs4) | 3:56 |
-| 81 | [Lighthouse \- Andrelli Remix](https://open.spotify.com/track/04CttTezSnv71USiiG9mIo) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Lighthouse \(Andrelli Remix\)](https://open.spotify.com/album/4ywy3ahNM8FMH99Ueuf9ZA) | 3:38 |
-| 82 | [Let It Be Me \(feat\. Ava Max\)](https://open.spotify.com/track/01qMOMudbkIHZS9BFPUGNk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [7](https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt) | 2:52 |
+| 81 | [Let It Be Me \(feat\. Ava Max\)](https://open.spotify.com/track/01qMOMudbkIHZS9BFPUGNk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [7](https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt) | 2:52 |
+| 82 | [Lighthouse \- Andrelli Remix](https://open.spotify.com/track/04CttTezSnv71USiiG9mIo) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Lighthouse \(Andrelli Remix\)](https://open.spotify.com/album/4ywy3ahNM8FMH99Ueuf9ZA) | 3:38 |
 | 83 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 |
 | 84 | [Summer Air](https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Summer Air](https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv) | 3:03 |
 | 85 | [Sleepy Eyes](https://open.spotify.com/track/1Wvzo4EotLEh4W3OVcQoDO) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Elohim \(Deluxe Edition\)](https://open.spotify.com/album/6tbzSO8UHnbvsPFG449fb2) | 3:22 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDI2MGRlZGI1Nzg5YmJhODYzNmY1MTBmNWQ1Mzk0OTQz`
+Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDk5NDFmYzIyNjE2OTllNjRiZGEzNDRhZDk3YWFmMjI2`

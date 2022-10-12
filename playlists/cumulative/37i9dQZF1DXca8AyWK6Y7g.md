@@ -4,7 +4,7 @@
 
 > everyone is dumb dumb dumb  Cover: mazie
 
-1,320 songs - 2 day 19 hr 54 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,321 songs - 2 day 19 hr 57 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [All In \(feat\. Georgia Ku & JRM\)](https://open.spotify.com/track/0mYafDBrC2cpMah8sxTybJ) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM), [JRM](https://open.spotify.com/artist/4EnVza8C7nWRg6dMdnIL0U) | [All In \(feat\. Georgia Ku & JRM\)](https://open.spotify.com/album/00ew8QkkWRD4RZTTenerjW) | 2:59 | 2020-02-19 | 2020-03-20 |
 | [All My Exes' Moms](https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [All My Exes' Moms](https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx) | 2:05 | 2022-09-02 |  |
 | [All My Fault](https://open.spotify.com/track/53lwPgJYa1cK61auYuVuMP) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [All My Fault](https://open.spotify.com/album/5Mkk2sGhQatyKwo4hrdvKS) | 3:02 | 2022-03-18 | 2022-06-07 |
+| [All That I'm Craving](https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/7wfUtM6zAEcjj7dVYWjfGD) | 3:12 | 2022-10-07 |  |
 | [all ur fault](https://open.spotify.com/track/3lPXQDaJ0juw8zunPkhse5) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [you only call when you want something](https://open.spotify.com/album/4IeYBHS7rCG85508IZyGvM) | 3:03 | 2021-11-19 | 2022-01-29 |
 | [Allergic](https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Allergic](https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g) | 2:24 | 2022-02-04 | 2022-05-10 |
 | [Amber](https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Amber](https://open.spotify.com/album/2eiDE2gC9XYRYtXnqZiKvw) | 3:34 | 2021-02-26 | 2021-11-20 |
@@ -567,7 +568,7 @@
 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 |  |
 | [I Hate Cardio](https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [I Hate Cardio](https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc) | 3:29 | 2022-09-16 |  |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-09-24 |
-| [I Like You Better](https://open.spotify.com/track/5Q8GpY56OWmPs7H7At4tNY) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [I Like You Better](https://open.spotify.com/album/33tX95q6w1a0jPgUDj4vDh) | 2:16 | 2022-09-02 |  |
+| [I Like You Better](https://open.spotify.com/track/5Q8GpY56OWmPs7H7At4tNY) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [I Like You Better](https://open.spotify.com/album/33tX95q6w1a0jPgUDj4vDh) | 2:16 | 2022-09-02 | 2022-10-12 |
 | [I LUV U](https://open.spotify.com/track/1f4hiNCEGip1N4B6QjCAJm) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [I LUV U](https://open.spotify.com/album/1u14LWDFohYHEqptZhDo8i) | 2:20 | 2022-08-12 | 2022-09-03 |
 | [I Miss That](https://open.spotify.com/track/40yDp3u7EFOZvCNy0vgF6N) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [I Miss That](https://open.spotify.com/album/4MuCtbcpIOpHNGiD8Vd23o) | 2:39 | 2021-02-24 | 2021-10-12 |
 | [I NEED U, IN THE SUMMERTIME](https://open.spotify.com/track/5NqIHUcwfBDpc1rgTxKvyG) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [Chasu](https://open.spotify.com/artist/1qIVbNaFEyJ73CX72RM9Ts) | [I NEED U, IN THE SUMMERTIME](https://open.spotify.com/album/1qJMRM8qReo4zkBgHytyVE) | 2:38 | 2020-09-16 | 2021-01-15 |

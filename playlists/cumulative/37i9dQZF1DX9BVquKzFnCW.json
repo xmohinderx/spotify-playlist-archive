@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 360025,
       "name": "June Blues",
       "url": "https://open.spotify.com/track/2GFMF5oDuTxg4X9zVxR6q9"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 423173,
       "name": "La Valse Bleue",
       "url": "https://open.spotify.com/track/0FcUn6IPrPvzNRTaOyWKuu"
@@ -1727,6 +1727,24 @@
       "duration_ms": 393133,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6"
+    },
+    {
+      "album": {
+        "name": "Bahia",
+        "url": "https://open.spotify.com/album/5dRMqcuSMjivfbQ29SVhue"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452306,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/2B6rVd3WE2rTrN2GSzHDLd"
     },
     {
       "album": {
@@ -2591,7 +2609,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 183893,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/2d64G7VaZdHQuAquz5HQNu"

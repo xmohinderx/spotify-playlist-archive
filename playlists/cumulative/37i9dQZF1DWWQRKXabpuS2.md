@@ -2,9 +2,9 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد\. الغلاف: فؤاد عبدالواحد
+> كل شي خليجي جديد\. الغلاف: بدر الشعيبي
 
-158 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+159 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Alkhamri](https://open.spotify.com/track/4lUN47aPWKGlKbiWOuYkJR) | [Sheyaab](https://open.spotify.com/artist/4ws4u7WBMXjLtooqt1yQ49), [Bu Belal](https://open.spotify.com/artist/3V5efQdYiGDYq2LLV6dsU2), [Carol](https://open.spotify.com/artist/0t3N6YV4XJtCd93C6c6CIS), [Bu Belall](https://open.spotify.com/artist/6sIFcXYk0GMwlYxHcMV3B2) | [Alkhamri](https://open.spotify.com/album/0Tji72I9mjsExOYcQUN2Ih) | 3:07 | 2022-09-28 |  |
 | [Allyali Alsood](https://open.spotify.com/track/3lBC27reqYjPHwISTQo0rX) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Allyali Alsood](https://open.spotify.com/album/6bU88B3okSZFZ4XYSLMENb) | 4:13 | 2022-07-26 |  |
 | [Amina Haf](https://open.spotify.com/track/0Vj0ZTyPQIlRwOcbHZW6A4) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Amina Haf](https://open.spotify.com/album/4VvptRRpUeGbah9qSN06I0) | 3:04 | 2022-04-04 | 2022-09-29 |
+| [An Hob](https://open.spotify.com/track/3QEJRUVij90qdzU1AObDZY) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [An Hob](https://open.spotify.com/album/2zLFbF01L9wYqm98OLTKZy) | 3:05 | 2022-10-11 |  |
 | [Ana Wa Anti](https://open.spotify.com/track/5vIqr9irNBp6onPeXnc6pM) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Ana Wa Anti](https://open.spotify.com/album/5xSVWY9yibDP7ttHSZqet5) | 4:44 | 2022-08-20 | 2022-08-23 |
 | [Ani Aredak](https://open.spotify.com/track/66gIjtTp56i7n5I0D2CclW) | [Hamza Al Aseel](https://open.spotify.com/artist/7nQ1aN8DVGPMH6y80w7FU3) | [Ani Aredak](https://open.spotify.com/album/0ik2ZcKqyXX2qTeMfefnED) | 3:02 | 2021-12-23 | 2022-04-02 |
 | [Arba3inak](https://open.spotify.com/track/6xlgx1TgbkUGoeNRpigIvR) | [Hamad Al Qattan](https://open.spotify.com/artist/3GyxnOcf3qKxX6QaaBCbYD) | [Arba3inak](https://open.spotify.com/album/4cIGmqnGdZ82lZgmZsmvUy) | 3:54 | 2022-03-01 | 2022-08-13 |

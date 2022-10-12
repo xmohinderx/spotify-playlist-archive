@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-119 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/07kV54ieqgmMg9uw7cCsZ1)
+121 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/07kV54ieqgmMg9uw7cCsZ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Black Gold](https://open.spotify.com/track/0usVZ1hVbeBjmcGT7f6G8d) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Black Gold / Between Memories](https://open.spotify.com/album/6wAMeXoPvL8N0sXpUACH2e) | 1:35 | 2022-05-10 | 2022-07-29 |
 | [Black Gold](https://open.spotify.com/track/7Bhs5TjC7FouUwrKVBdSpW) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 1:35 | 2022-05-10 |  |
 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 | 2022-05-10 |  |
+| [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 | 2022-10-11 |  |
 | [CHIASTOLITE](https://open.spotify.com/track/7DLUK91fqimI1vEg4CKGyb) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [CHIASTOLITE \(アーティスト盤\)](https://open.spotify.com/album/0sVkWv5RlIvshKAasVHBUN) | 4:13 | 2022-05-10 |  |
 | [Cinderella step](https://open.spotify.com/track/5n13HUQaAC0fo1Jb8mhQqq) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [THANK YOU BLUE](https://open.spotify.com/album/7202ZrUyEoOv4xwbbBEfql) | 4:05 | 2022-05-10 |  |
 | [Contradiction \(feat\. Tyler Carter\)](https://open.spotify.com/track/2yuyPke3xjantGgapFPH3e) | [KSUKE](https://open.spotify.com/artist/6MXOcf1IlhzpV0b8qtjAzd), [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [Contradiction \(feat\. Tyler Carter\)](https://open.spotify.com/album/6pckVZbJ9J1tNuTzPd4McO) | 3:21 | 2022-05-10 |  |
@@ -41,6 +42,7 @@
 | [HOWLITE](https://open.spotify.com/track/2kYJaFWsAbmoff5SeM3eZ4) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [Fated Crown](https://open.spotify.com/album/7gNl3YUzoyx2CmmbkfNa1y) | 4:23 | 2022-05-10 |  |
 | [Into the blue's](https://open.spotify.com/track/3ATB5UCxOR0kUJ9PVB0QKk) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Into the blue's](https://open.spotify.com/album/2aGDirzR8gziYiaJl8BCRd) | 3:49 | 2022-05-10 |  |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2022-05-10 |  |
+| [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-11 |  |
 | [LAYon\-theLINE](https://open.spotify.com/track/2bS0SnyEGJli9ukuQ3OBYs) | [D\-selections](https://open.spotify.com/artist/3XBLtyAdNpfVKQGnVh0nTL) | [LAYon\-theLINE](https://open.spotify.com/album/3wps7HtuI1gvfPh8Nhh5cY) | 4:47 | 2022-05-10 |  |
 | [LET iT END](https://open.spotify.com/track/7G6Fc2VT96ZKbqPWDU0UUf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [LET iT END](https://open.spotify.com/album/3yRKqbOIbmuX5KDcWa10Jq) | 3:13 | 2022-05-10 |  |
 | [MAIORITEKITA YUKI](https://open.spotify.com/track/6QBcU50LiryxD8Y5lUmy9n) | [Mr Love: Queen's Choice](https://open.spotify.com/artist/73oPDy7wVxHmG1HPfg8z8M), [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [MAIORITEKITA YUKI](https://open.spotify.com/album/0ZU8oSdHaErNZwmzqRm3Nf) | 4:19 | 2022-05-10 |  |

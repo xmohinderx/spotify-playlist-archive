@@ -11364,6 +11364,28 @@
     },
     {
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
@@ -11873,7 +11895,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 331200,
       "name": "Mun tapa pelata (feat. Gasellit, Gracias, Juno, Kube, Paperi T, Stepa, S\u00e4rre)",
       "url": "https://open.spotify.com/track/3h0C9Zl217U2NP0ctQsvMl"
@@ -12948,6 +12970,24 @@
     },
     {
       "album": {
+        "name": "Olkap\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/0vN5maf8hlE9Qr46a6NVtm"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134069,
+      "name": "Olkap\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/5pC6HoTKUYHbMi5gaT1C4u"
+    },
+    {
+      "album": {
         "name": "Omaa lomaa (feat. Portion Boys)",
         "url": "https://open.spotify.com/album/0BroFzeuwggRwOYtO4DLGY"
       },
@@ -13075,7 +13115,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 232130,
       "name": "Onks paavil iso partsi",
       "url": "https://open.spotify.com/track/32m2wfk7JupCtMz8pxYt9F"

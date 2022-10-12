@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2298523,
+  "num_followers": 2298999,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMGMxYzVmNzBjNTI5MzMxYzRhOTZhYmE5ZjA4NGNiMjZm",
+  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMGNlNmFkZWVjNDkwYmE1ZjdiOThhNDA4YWIzYzYzYWIz",
   "tracks": [
     {
       "added_at": "2022-09-20 08:13:43",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Sid & Aya (Not a Love Story) [Original Movie Soundtrack]",
-        "url": "https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U"
-      },
-      "artists": [
-        {
-          "name": "The Itchyworms",
-          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
-        }
-      ],
-      "duration_ms": 260599,
-      "name": "Di Na Muli",
-      "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 243653,
       "name": "Sundo",
       "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Sid & Aya (Not a Love Story) [Original Movie Soundtrack]",
+        "url": "https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U"
+      },
+      "artists": [
+        {
+          "name": "The Itchyworms",
+          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
+        }
+      ],
+      "duration_ms": 260599,
+      "name": "Di Na Muli",
+      "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "G9",
-        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
-      },
-      "artists": [
-        {
-          "name": "Gloc 9",
-          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
-        }
-      ],
-      "duration_ms": 244600,
-      "name": "Simpleng Tao",
-      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Maybe This Time (From \"Maybe This Time\")",
         "url": "https://open.spotify.com/album/0BGReR0ClYIme8zAabt53h"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 255608,
       "name": "Maybe This Time - From \"Maybe This Time\"",
       "url": "https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "G9",
+        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
+      },
+      "artists": [
+        {
+          "name": "Gloc 9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Simpleng Tao",
+      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
     },
     {
       "added_at": "2022-09-20 08:13:43",

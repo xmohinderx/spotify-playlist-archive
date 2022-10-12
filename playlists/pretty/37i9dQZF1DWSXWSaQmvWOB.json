@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Adi Oasis",
-  "num_followers": 422412,
+  "num_followers": 422495,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzMzgwMiwwMDAwMDAwMGEzMjUxYTY1ZTI5YmJkZDg2NzAxZDA3NDIxYzgxNDY1",
+  "snapshot_id": "MTY2NTEzMzgwMiwwMDAwMDAwMDg3ZjIwMTgxYmMzZWEwYjliOGYxMjNmMjdlYjUzYjRi",
   "tracks": [
     {
       "added_at": "2022-09-30 08:22:23",
@@ -475,6 +475,38 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Dead Inside Shuffle",
+        "url": "https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Dead Inside Shuffle",
+      "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
         "name": "Sage Motel",
         "url": "https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9"
       },
@@ -511,38 +543,6 @@
       "duration_ms": 223633,
       "name": "Take Time (feat. Tobe Nwigwe)",
       "url": "https://open.spotify.com/track/2qNYATpU3BmfQTAldXoNOi"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
-        "name": "Just Like You Used To",
-        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 188155,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
-        "name": "Dead Inside Shuffle",
-        "url": "https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6"
-      },
-      "artists": [
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Dead Inside Shuffle",
-      "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Pills",
-        "url": "https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw"
-      },
-      "artists": [
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Pills - Single Version",
-      "url": "https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "No Tears In My Champagne",
         "url": "https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 136644,
       "name": "Liar",
       "url": "https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Pills",
+        "url": "https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Pills - Single Version",
+      "url": "https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Why Try",
-        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "Why Try",
-      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "Operation Funk",
         "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 276401,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Why Try",
+        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 215852,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 233846,
-      "name": "Some Of Us Are Brave",
-      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "What If? / Leave It",
         "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 232500,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Some Of Us Are Brave",
+      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Horsepower For The Streets",
-        "url": "https://open.spotify.com/album/2B4mjZa5ewqU79nzU981eO"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Jeremiah",
-          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
-        }
-      ],
-      "duration_ms": 143040,
-      "name": "Horsepower For The Streets",
-      "url": "https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "Side By Side",
         "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Horsepower For The Streets",
+        "url": "https://open.spotify.com/album/2B4mjZa5ewqU79nzU981eO"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Jeremiah",
+          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
+        }
+      ],
+      "duration_ms": 143040,
+      "name": "Horsepower For The Streets",
+      "url": "https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "What Kind of Woman",
-        "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        },
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "What Kind of Woman",
-      "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "Honesty (Deluxe Version)",
         "url": "https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 203840,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "What Kind of Woman",
+        "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        },
+        {
+          "name": "Dawn Brothers",
+          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "What Kind of Woman",
+      "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
+        "name": "Misdirection",
+        "url": "https://open.spotify.com/album/6QjHmbqyjwJGAdCAFHbJDD"
+      },
+      "artists": [
+        {
+          "name": "Leonard Luka",
+          "url": "https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew"
+        }
+      ],
+      "duration_ms": 209640,
+      "name": "Misdirection",
+      "url": "https://open.spotify.com/track/6W4aKypGDzibPr3rEnPBOa"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
         "name": "Treat U Good",
         "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
       },
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Misdirection",
-        "url": "https://open.spotify.com/album/6QjHmbqyjwJGAdCAFHbJDD"
-      },
-      "artists": [
-        {
-          "name": "Leonard Luka",
-          "url": "https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Misdirection",
-      "url": "https://open.spotify.com/track/6W4aKypGDzibPr3rEnPBOa"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "Piece of Me",
         "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
         }
       ],
-      "duration_ms": 268013,
-      "name": "inside out",
-      "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
+      "duration_ms": 205625,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 268013,
+      "name": "inside out",
+      "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/0GlHeseuowxs1NOGdPm3nI"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 238577,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/3NBweAfNWhU9Zu1xDLHAR8"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
-      },
-      "artists": [
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        }
-      ],
-      "duration_ms": 205625,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 279453,
-      "name": "deeper",
-      "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "Leave It All Behind",
         "url": "https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 235353,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 279453,
+      "name": "deeper",
+      "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-09-30 08:22:23",
       "album": {
-        "name": "Help Yourself",
-        "url": "https://open.spotify.com/album/1UXP7UbTGB8uLWy3WVdjub"
-      },
-      "artists": [
-        {
-          "name": "ParHasard",
-          "url": "https://open.spotify.com/artist/1o1TefZeFfaPOawy5qAuKx"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Help Yourself",
-      "url": "https://open.spotify.com/track/7pDuSAItbSQHp20Bawe1mn"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
         "name": "Art (2022 Remastered Deluxe)",
         "url": "https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 178773,
       "name": "How Can I Move On",
       "url": "https://open.spotify.com/track/3p5dognDA6nIyHsBBU1qJq"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Help Yourself",
+        "url": "https://open.spotify.com/album/1UXP7UbTGB8uLWy3WVdjub"
+      },
+      "artists": [
+        {
+          "name": "ParHasard",
+          "url": "https://open.spotify.com/artist/1o1TefZeFfaPOawy5qAuKx"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Help Yourself",
+      "url": "https://open.spotify.com/track/7pDuSAItbSQHp20Bawe1mn"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1667,6 +1667,22 @@
       "duration_ms": 197960,
       "name": "Hear Me Singing (Na Na Na Na Na Na Na Na)",
       "url": "https://open.spotify.com/track/19vDhiyfEiDossnoDkDgKA"
+    },
+    {
+      "added_at": "2022-09-30 08:22:23",
+      "album": {
+        "name": "Lovestreet 55",
+        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "Lovestreet 55",
+      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
     },
     {
       "added_at": "2022-09-30 08:22:23",
@@ -1707,22 +1723,6 @@
       "duration_ms": 224842,
       "name": "Frail Moments, Same Page",
       "url": "https://open.spotify.com/track/7fbyAOxgJJUeFL9p0M2AvZ"
-    },
-    {
-      "added_at": "2022-09-30 08:22:23",
-      "album": {
-        "name": "Lovestreet 55",
-        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
-      },
-      "artists": [
-        {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "Lovestreet 55",
-      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
     },
     {
       "added_at": "2022-09-30 08:22:23",

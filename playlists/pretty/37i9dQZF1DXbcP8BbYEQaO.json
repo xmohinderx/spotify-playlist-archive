@@ -1,12 +1,12 @@
 {
   "description": "meet me at midnight",
-  "num_followers": 153608,
+  "num_followers": 153815,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGIzMWUwNWE2NDg2NTM1YjJhMjA5YjYyY2MyZjY5Yzhm",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDcyY2ExN2RiMGI2MDI4OWE0NzkyY2ZlYzM4YzEyYjE5",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Yuck",
-      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "HEARTBEAT",
         "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 124959,
       "name": "HEARTBEAT",
       "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Yuck",
+      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 196760,
       "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "duration_ms": 282386,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Overthinking",
         "url": "https://open.spotify.com/album/73w5XKOuWg456VuawuUH47"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 174080,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
-      },
-      "artists": [
-        {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
-        }
-      ],
-      "duration_ms": 282386,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "cool water",
-        "url": "https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL"
-      },
-      "artists": [
-        {
-          "name": "dayaway",
-          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "cool water",
-      "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "cool water",
+        "url": "https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL"
+      },
+      "artists": [
+        {
+          "name": "dayaway",
+          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "cool water",
+      "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Fancy",
         "url": "https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 191983,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
+      },
+      "artists": [
+        {
+          "name": "Grant Knoche",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "duration_ms": 155327,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -975,22 +991,6 @@
       "duration_ms": 153026,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
-      },
-      "artists": [
-        {
-          "name": "Grant Knoche",
-          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
-        }
-      ],
-      "duration_ms": 155327,
-      "name": "ICARUS",
-      "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
     },
     {
       "added_at": "2022-10-07 04:00:00",

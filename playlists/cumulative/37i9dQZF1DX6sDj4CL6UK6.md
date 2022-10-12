@@ -2,7 +2,7 @@
 
 ### [IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> Finest of the Indian English Indie\. Cover \-Parekh & Singh
+> 'Parekh & Singh' are on the cover of IndiEnglish\. Stream now!
 
 117 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
 

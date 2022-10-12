@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Finesse2tymes
 
-433 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
+434 songs - 20 hr 47 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Playboy](https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt) | [Jx.Zero](https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d) | [In My Sins](https://open.spotify.com/album/4GENTWizn55KM44eriqNq8) | 2:32 | 2022-02-17 | 2022-03-18 |
 | [Plenty](https://open.spotify.com/track/2ss1LPi7nbrzUKjxsRxkWH) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Whale Games](https://open.spotify.com/album/3GjJR2eVc3KOAzrB1uTnca) | 1:42 | 2022-04-29 | 2022-06-11 |
 | [Pogo Stick](https://open.spotify.com/track/1qJQmFwpaW4RQEjw55nUjE) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [Pogo Stick](https://open.spotify.com/album/3TpiW7u9Ja6qQj2K7znFiW) | 2:26 | 2022-07-22 | 2022-08-06 |
+| [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-11 |  |
 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-01-21 | 2022-02-12 |
 | [Pop That Trunk](https://open.spotify.com/track/1uB8XTI9vgWZQQRC7xlw0X) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Pop That Trunk](https://open.spotify.com/album/6rS5hgwbOe6tRMic70hiaE) | 3:12 | 2021-12-03 | 2022-02-05 |
 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 | 2022-07-22 | 2022-08-13 |

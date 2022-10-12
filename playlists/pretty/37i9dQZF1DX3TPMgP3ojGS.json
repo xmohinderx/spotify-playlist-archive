@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 297951,
+  "num_followers": 298187,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQzOTk5MywwMDAwMDAwMGExNzA4Y2Y0Y2M4ZWVlZDBjNTMzZjNmODk1MTNiOGE1",
+  "snapshot_id": "MTY2NDQzOTk5MywwMDAwMDAwMDdkYzA0ZDk1Y2I5OTczOTZiMzM5YTM1MmM1YWQwMWJl",
   "tracks": [
     {
       "added_at": "2022-09-29 08:26:33",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
+        "name": "Waitings",
+        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng"
+        }
+      ],
+      "duration_ms": 139411,
+      "name": "Waitings",
+      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
         "name": "Tu as disparu",
         "url": "https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
-        "name": "Waitings",
-        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng"
-        }
-      ],
-      "duration_ms": 139411,
-      "name": "Waitings",
-      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Symbios",
-        "url": "https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE"
-      },
-      "artists": [
-        {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
-        }
-      ],
-      "duration_ms": 173161,
-      "name": "Symbios",
-      "url": "https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Mist",
         "url": "https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 122698,
       "name": "Mist",
       "url": "https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Symbios",
+        "url": "https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "duration_ms": 173161,
+      "name": "Symbios",
+      "url": "https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
+        "name": "Nature undisclosed",
+        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
+      },
+      "artists": [
+        {
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+        }
+      ],
+      "duration_ms": 147661,
+      "name": "Nature undisclosed",
+      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
         "name": "Raconteur",
         "url": "https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T"
       },
@@ -507,18 +523,18 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Nature undisclosed",
-        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
+        "name": "Summer Light",
+        "url": "https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA"
       },
       "artists": [
         {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+          "name": "Aaren Hughes",
+          "url": "https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye"
         }
       ],
-      "duration_ms": 147661,
-      "name": "Nature undisclosed",
-      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
+      "duration_ms": 132681,
+      "name": "Summer Light",
+      "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -535,22 +551,6 @@
       "duration_ms": 139500,
       "name": "The Water Floats",
       "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
-        "name": "Summer Light",
-        "url": "https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA"
-      },
-      "artists": [
-        {
-          "name": "Aaren Hughes",
-          "url": "https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye"
-        }
-      ],
-      "duration_ms": 132681,
-      "name": "Summer Light",
-      "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Waltz For Debby",
-        "url": "https://open.spotify.com/album/7CMIowC09m2WbLegNSGBB0"
-      },
-      "artists": [
-        {
-          "name": "Madelene Olsson",
-          "url": "https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3"
-        }
-      ],
-      "duration_ms": 209625,
-      "name": "Waltz For Debby",
-      "url": "https://open.spotify.com/track/4xyE5M2RHpqjRsn4Ar7JDQ"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 147936,
       "name": "Mid Air",
       "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Waltz For Debby",
+        "url": "https://open.spotify.com/album/7CMIowC09m2WbLegNSGBB0"
+      },
+      "artists": [
+        {
+          "name": "Madelene Olsson",
+          "url": "https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3"
+        }
+      ],
+      "duration_ms": 209625,
+      "name": "Waltz For Debby",
+      "url": "https://open.spotify.com/track/4xyE5M2RHpqjRsn4Ar7JDQ"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Wake with me",
-        "url": "https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy"
-      },
-      "artists": [
-        {
-          "name": "Brian Lyndon",
-          "url": "https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY"
-        }
-      ],
-      "duration_ms": 135647,
-      "name": "Wake with me",
-      "url": "https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Bienveillant",
         "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 117472,
       "name": "Bienveillant",
       "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Wake with me",
+        "url": "https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy"
+      },
+      "artists": [
+        {
+          "name": "Brian Lyndon",
+          "url": "https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY"
+        }
+      ],
+      "duration_ms": 135647,
+      "name": "Wake with me",
+      "url": "https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD"
-      },
-      "artists": [
-        {
-          "name": "Eu Nice",
-          "url": "https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK"
-        }
-      ],
-      "duration_ms": 139777,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Strosande",
-        "url": "https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM"
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD"
       },
       "artists": [
         {
-          "name": "Alfred Janders",
-          "url": "https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek"
+          "name": "Eu Nice",
+          "url": "https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Strosande",
-      "url": "https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ"
+      "duration_ms": 139777,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
+        "name": "Strosande",
+        "url": "https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM"
+      },
+      "artists": [
+        {
+          "name": "Alfred Janders",
+          "url": "https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Strosande",
+      "url": "https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
         "name": "Il Colibr\u00ec",
         "url": "https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Testimony (EP)",
-        "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Melton",
-          "url": "https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "My Absence",
         "url": "https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 118270,
       "name": "My Absence",
       "url": "https://open.spotify.com/track/60aQ47g6775vmbN3yMntql"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Testimony (EP)",
+        "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Melton",
+          "url": "https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
-      },
-      "artists": [
-        {
-          "name": "Carl Moir",
-          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Meraviglia",
         "url": "https://open.spotify.com/album/3VxVxOxr4KFHoEvG14mosa"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/6jY0TmYZKcSky12q7YoAKD"
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
       },
       "artists": [
         {
-          "name": "Cassandra Nestico",
-          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
         }
       ],
-      "duration_ms": 173276,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6hB8cRpNQzIj7k6MCYh89H"
+      "duration_ms": 196000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1255,6 +1239,22 @@
       "duration_ms": 120741,
       "name": "Ala",
       "url": "https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6jY0TmYZKcSky12q7YoAKD"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Nestico",
+          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
+        }
+      ],
+      "duration_ms": 173276,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6hB8cRpNQzIj7k6MCYh89H"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Belle Vie De Tous Les Jours",
-        "url": "https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI"
-      },
-      "artists": [
-        {
-          "name": "Baudouin B\u00e9ringer",
-          "url": "https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Belle Vie De Tous Les Jours",
-      "url": "https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Rester Dans Les Parages",
         "url": "https://open.spotify.com/album/2sEefiUsuwEzMN8tXzxXVQ"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 148000,
       "name": "Rester Dans Les Parages",
       "url": "https://open.spotify.com/track/3NqUYlQxTAWw3Mg3OaOwUE"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Belle Vie De Tous Les Jours",
+        "url": "https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI"
+      },
+      "artists": [
+        {
+          "name": "Baudouin B\u00e9ringer",
+          "url": "https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Belle Vie De Tous Les Jours",
+      "url": "https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Yearning",
-        "url": "https://open.spotify.com/album/5XCkU63XSSr8e4skFj37M9"
-      },
-      "artists": [
-        {
-          "name": "Carl Moir",
-          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Yearning",
-      "url": "https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
         "name": "Not a Number",
         "url": "https://open.spotify.com/album/3d0tZ74PLQQyArqWi96Pqw"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 153941,
       "name": "Not a Number",
       "url": "https://open.spotify.com/track/4nncPBsmSPNNeZ2nbd0QR7"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/5XCkU63XSSr8e4skFj37M9"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
-        "name": "Laredo",
-        "url": "https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq"
+        "name": "Cavtat",
+        "url": "https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2"
       },
       "artists": [
         {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+          "name": "Med\u00e9a Bokor",
+          "url": "https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Laredo",
-      "url": "https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc"
+      "duration_ms": 119000,
+      "name": "Cavtat",
+      "url": "https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1431,22 +1431,6 @@
       "duration_ms": 128000,
       "name": "To You Again",
       "url": "https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
-        "name": "Cavtat",
-        "url": "https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2"
-      },
-      "artists": [
-        {
-          "name": "Med\u00e9a Bokor",
-          "url": "https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "Cavtat",
-      "url": "https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1495,6 +1479,22 @@
       "duration_ms": 131906,
       "name": "Sakteligen",
       "url": "https://open.spotify.com/track/3l7MIilW80gHnwhoV75y2m"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
+        "name": "Laredo",
+        "url": "https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Laredo",
+      "url": "https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc"
     },
     {
       "added_at": "2022-09-29 08:26:33",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-09-29 08:26:33",
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88"
+      },
+      "artists": [
+        {
+          "name": "Reivaj Ebol",
+          "url": "https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz"
+        }
+      ],
+      "duration_ms": 170125,
+      "name": "Desenlace",
+      "url": "https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i"
+    },
+    {
+      "added_at": "2022-09-29 08:26:33",
+      "album": {
         "name": "L\u00e4mna",
         "url": "https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 195500,
       "name": "L\u00e4mna",
       "url": "https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2"
-    },
-    {
-      "added_at": "2022-09-29 08:26:33",
-      "album": {
-        "name": "Skymning",
-        "url": "https://open.spotify.com/album/6iB98euArvi49Fl9ys2CQP"
-      },
-      "artists": [
-        {
-          "name": "Vanja Lind",
-          "url": "https://open.spotify.com/artist/2L3FiPy8Ek8kHpSD6EdFLV"
-        }
-      ],
-      "duration_ms": 123114,
-      "name": "Skymning",
-      "url": "https://open.spotify.com/track/2jRlPB32YMnpz1qcIY97oY"
     }
   ],
   "unique_name": "Coffee and Piano",

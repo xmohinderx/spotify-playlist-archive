@@ -2,7 +2,7 @@
 
 ### [Good Times, Great Oldies](https://open.spotify.com/playlist/37i9dQZF1DXa19sXUAHiO1)
 
-> A classic mix of pop, rock and folk hits from decades past.
+> A classic mix of pop, rock and folk hits from decades past\. Cover: Loggins and Messina
 
 81 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/5XG7GgSJQ8AMdczVkZFoy7)
 

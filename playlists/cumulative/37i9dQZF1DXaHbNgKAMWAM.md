@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-195 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+196 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,9 +157,10 @@
 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 | 2022-05-11 |  |
 | [Tale](https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:47 | 2022-07-08 | 2022-09-06 |
 | [Tale 동화](https://open.spotify.com/track/1O6gfRnuWW3jRG77Tn8gHW) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/3vzUq0hnovgWpP6yfgGtXB) | 3:47 | 2022-05-11 | 2022-07-29 |
+| [Tell Me You Love Me](https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [The Law Cafe \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR) | 3:34 | 2022-10-12 |  |
 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 | 2022-05-11 | 2022-08-05 |
 | [The Best Present \(Prod\. by PSY\)](https://open.spotify.com/track/12nafIbZ2LAVfht3WMy33b) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [The Best Present](https://open.spotify.com/album/5IhMtglLwKtJWeHCz4KcA4) | 3:59 | 2022-05-11 | 2022-07-21 |
-| [The Love](https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [The Love](https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW) | 3:30 | 2022-08-12 |  |
+| [The Love](https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [The Love](https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW) | 3:30 | 2022-08-12 | 2022-10-12 |
 | [The Night](https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ) | 3:41 | 2022-07-08 |  |
 | [The Night](https://open.spotify.com/track/4J9rYQeCN7kNDlaAKLWmQ8) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4OPs1ewSg1KJOFzeMNKllB) | 3:41 | 2022-05-11 | 2022-07-29 |
 | [The One I Love](https://open.spotify.com/track/3yWyzP3pL3a0sd774Z63Lx) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Jang Beom June 1st Album](https://open.spotify.com/album/107fG3CrNpvCVaFp9unNpG) | 4:41 | 2022-05-11 | 2022-07-21 |

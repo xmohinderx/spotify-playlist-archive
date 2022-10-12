@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. scene queen
 
-333 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+334 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Behind Closed Doors](https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A), [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Behind Closed Doors](https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ) | 3:03 | 2021-12-27 | 2022-02-18 |
 | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u) | 2:47 | 2022-06-30 |  |
 | [BERLIN](https://open.spotify.com/track/1BaEm7lJxDtoRZ1QmPcBZr) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [BERLIN](https://open.spotify.com/album/1CpDsqIBSXH8WCwEb8j8Y6) | 3:02 | 2021-12-27 | 2022-01-19 |
+| [Bite My Tongue](https://open.spotify.com/track/7ydKwZckvEIQNtb9kIsfwK) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Bite My Tongue](https://open.spotify.com/album/7MA35qubV4skem9OazOKup) | 2:47 | 2022-10-11 |  |
 | [Black Punk](https://open.spotify.com/track/00mQ7YTqP92vZU4jW4Zdxh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Black Punk](https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX) | 2:30 | 2022-06-16 | 2022-07-29 |
 | [Black Punk](https://open.spotify.com/track/1irb49XkVPBjDpy0pckq5M) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 | 2022-07-28 | 2022-09-23 |
 | [Bliss](https://open.spotify.com/track/3PqKbBKxV2mSgfWNwNAAjW) | [Santangelo](https://open.spotify.com/artist/23PgufXbWsCNunDb9szzKk) | [Bliss](https://open.spotify.com/album/3UmcyVzSGg6TiYckk55M0U) | 2:03 | 2021-12-27 | 2022-01-19 |

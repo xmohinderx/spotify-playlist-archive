@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Justin Moore and Priscilla Block, Restless Road and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,219 likes - 63 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,442 likes - 63 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 44 | [Iris \- Acoustic](https://open.spotify.com/track/01IzBTiu0EhixALKnNmlmf) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Iris \(Acoustic\)](https://open.spotify.com/album/70tUve3F5gP1yjJdWJsEP7) | 4:05 |
 | 45 | [Don't Laugh at Me](https://open.spotify.com/track/1zJfRinnh3lnteu6kKED6e) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7), [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF) | [Don't Laugh at Me](https://open.spotify.com/album/1Z8x8uSkl5LXCNWlPFCKJ6) | 3:29 |
 | 46 | [1990s Drunk](https://open.spotify.com/track/70DLKdtq1mq4UT05jnXh8Z) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [1990s Drunk](https://open.spotify.com/album/4T7NUH0KI8yXRcCrgs0Doz) | 2:58 |
-| 47 | [American Spirit](https://open.spotify.com/track/3zUnBXfvEXrFfiOLAx32s8) | [Aidan Canfield](https://open.spotify.com/artist/39DQryVFLXEKBmRGyDSc3d) | [American Spirit](https://open.spotify.com/album/5R1id9x1OY0vnIPVKSxSyv) | 3:40 |
+| 47 | [American Spirit](https://open.spotify.com/track/3zUnBXfvEXrFfiOLAx32s8) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [American Spirit](https://open.spotify.com/album/5R1id9x1OY0vnIPVKSxSyv) | 3:40 |
 | 48 | [Waiting On You](https://open.spotify.com/track/60APte5kJOWQahKOsUv3ng) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Waiting On You](https://open.spotify.com/album/38ybjS3nBTYxOTUTBX9Vrr) | 2:51 |
 | 49 | [Cigarettes in the Sand](https://open.spotify.com/track/6g7TNcfvMD4qVbOjT44Y5J) | [Brooke Lynn](https://open.spotify.com/artist/1KYUlfMDDcG5w5VDMxQwCC) | [Cigarettes in the Sand](https://open.spotify.com/album/77FAjVu0ef4TWime90LfGf) | 3:12 |
 | 50 | [It All Started With Tequila](https://open.spotify.com/track/3QT7NVDOnlsaHDIbCblfOr) | [Isaiah Bennett](https://open.spotify.com/artist/7DFydMqaqDGdLW3ITfl69j) | [It All Started With Tequila](https://open.spotify.com/album/6qMRxlsIiQZaAgxzCIE7Ea) | 3:25 |

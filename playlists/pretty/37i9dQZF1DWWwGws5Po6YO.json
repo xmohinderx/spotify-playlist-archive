@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 24517,
+  "num_followers": 24536,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NDcwMCwwMDAwMDAwMDYxZDA3NWM5ZmFkMTc2NmQ2OTUyMTVjMjFiNzc2YmU4",
+  "snapshot_id": "MTY2NDg5NDcwMCwwMDAwMDAwMDczZDY2ZGNlOWZlNWRhMGUyY2IwNjBiMDZhY2NmZjE2",
   "tracks": [
     {
       "added_at": "2022-10-04 14:45:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Woodland Encounter",
-      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -439,34 +423,18 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
       "artists": [
         {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
-        "name": "We Wave From Our Boats",
-        "url": "https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN"
+      "duration_ms": 368000,
+      "name": "Woodland Encounter",
+      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -487,6 +455,38 @@
       "duration_ms": 187863,
       "name": "Fantas Morbida",
       "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "We Wave From Our Boats",
+        "url": "https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Night Journeys II",
-        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 436776,
-      "name": "Night Journeys II",
-      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "The Man Who Died in His Boat",
         "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 285866,
       "name": "Being Her Shadow",
       "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
+        "name": "Night Journeys II",
+        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 436776,
+      "name": "Night Journeys II",
+      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/3jzXWkXEgM5WDtLnf3ySUK"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl"
+        }
+      ],
+      "duration_ms": 1168386,
+      "name": "Sun - Midnight Version",
+      "url": "https://open.spotify.com/track/7MJNbajzY9V54Eq2a0SiQD"
+    },
+    {
+      "added_at": "2022-10-04 14:45:00",
+      "album": {
         "name": "Becoming Ferromagnetic",
         "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Bassin Bleu",
-        "url": "https://open.spotify.com/album/0TFW0oehN6zQKODIhOxpJB"
-      },
-      "artists": [
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 359398,
-      "name": "Bassin Bleu",
-      "url": "https://open.spotify.com/track/42cBpZJdTAZkn1WvflhuEY"
-    },
-    {
-      "added_at": "2022-10-04 14:45:00",
-      "album": {
         "name": "Silver Ladders",
         "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/3jzXWkXEgM5WDtLnf3ySUK"
+        "name": "Bassin Bleu",
+        "url": "https://open.spotify.com/album/0TFW0oehN6zQKODIhOxpJB"
       },
       "artists": [
         {
-          "name": "Lisa Nordstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl"
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
         }
       ],
-      "duration_ms": 1168386,
-      "name": "Sun - Midnight Version",
-      "url": "https://open.spotify.com/track/7MJNbajzY9V54Eq2a0SiQD"
+      "duration_ms": 359398,
+      "name": "Bassin Bleu",
+      "url": "https://open.spotify.com/track/42cBpZJdTAZkn1WvflhuEY"
     },
     {
       "added_at": "2022-10-04 14:45:00",

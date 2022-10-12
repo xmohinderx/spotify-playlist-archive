@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "All the indescribable feelings that music gives you. cover: maya hawke",
+  "description": "All the indescribable feelings that music gives you. cover: men i trust",
   "name": "Lorem",
   "published_playlist_ids": [
     "2xUOX5SyncubeZSn9gFeBN"
@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
@@ -27056,6 +27056,24 @@
     },
     {
       "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320186,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui"
       },
@@ -31295,7 +31313,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 170793,
       "name": "THREAT",
       "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
@@ -34657,7 +34675,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 210913,
       "name": "Your Ex, Man",
       "url": "https://open.spotify.com/track/0HAgvXAdgn5JVUSWEfVCN5"

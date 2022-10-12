@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,040 likes - 107 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,049 likes - 107 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 72 | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/track/3d19P64cMd5IM6jGGwKcSS) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/album/3Ej4xcq9U5V4cUsfjxeXgV) | 2:55 |
 | 73 | [45](https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:52 |
 | 74 | [SLUMMEN](https://open.spotify.com/track/37h7JPA7laEIPViEJNRyDE) | [GIDDE](https://open.spotify.com/artist/52wHLsSLdkVMLYo2ZXP8y6) | [SLUMMEN](https://open.spotify.com/album/6IhbKwMaN6ZLFpxDXjIa4T) | 2:48 |
-| 75 | [Själens skrubbsår](https://open.spotify.com/track/6Me92bDgUge3mxrMwkAn6g) | [Hans Dixgård](https://open.spotify.com/artist/5gkQjwvmV6sN7RykpXyitz), [Malin Holmlin](https://open.spotify.com/artist/2zohmZ7CwsAQM96kdfHppm), [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT), [Malmö Symphony Orchestra](https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc) | [Själens skrubbsår](https://open.spotify.com/album/4R2bj1eZW3gj7B8SJmaMfA) | 2:58 |
+| 75 | [Själens skrubbsår](https://open.spotify.com/track/6Me92bDgUge3mxrMwkAn6g) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT), [Malmö Symphony Orchestra](https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc) | [Själens skrubbsår](https://open.spotify.com/album/4R2bj1eZW3gj7B8SJmaMfA) | 2:58 |
 | 76 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 |
 | 77 | [Me](https://open.spotify.com/track/2HB0RLSCaKALpRHFw7PcOy) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Me](https://open.spotify.com/album/31mSLNzuht2DJbhiOzQa9o) | 3:21 |
 | 78 | [Höstens Färger](https://open.spotify.com/track/2IEnciELvWqja3WWzld89F) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [En Är För Mycket och Tusen Aldrig Nog](https://open.spotify.com/album/4g1OnRFT1Lo8uPbq1j53IZ) | 3:30 |

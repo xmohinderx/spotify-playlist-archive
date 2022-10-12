@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 35821,
+  "num_followers": 35842,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMGVhMTNmMmUwYjdhMDhhMTgyYTcwYmFlZGEzMTQ1NmI3",
+  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMGQzMjMyOGUyMjI3NTQ5OWQ0MzY1MmNiNzJkNDBlZTcw",
   "tracks": [
     {
       "added_at": "2019-10-02 08:54:10",
@@ -835,22 +835,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Very Best Of Jeff Lorber",
-        "url": "https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
-        }
-      ],
-      "duration_ms": 262146,
-      "name": "Reverend Green",
-      "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 275133,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Very Best Of Jeff Lorber",
+        "url": "https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "duration_ms": 262146,
+      "name": "Reverend Green",
+      "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -997,6 +997,22 @@
       "url": "https://open.spotify.com/track/5QdyYHg2QnrPC1lOiRkZBC"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Conversations With Myself",
+        "url": "https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 290466,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Nocturne",
@@ -1013,20 +1029,20 @@
       "url": "https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Conversations With Myself",
-        "url": "https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv"
+        "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
+        "url": "https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
         }
       ],
-      "duration_ms": 290466,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd"
+      "duration_ms": 251640,
+      "name": "Miss Fine",
+      "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1047,22 +1063,6 @@
       "duration_ms": 606413,
       "name": "Samba Para Dos",
       "url": "https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
-        "url": "https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Miss Fine",
-      "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 277466,
-      "name": "Worlds Outside",
-      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Family",
@@ -1331,6 +1315,22 @@
       "duration_ms": 296666,
       "name": "Brian's Bounce",
       "url": "https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 277466,
+      "name": "Worlds Outside",
+      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
     },
     {
       "added_at": "2019-10-04 16:01:14",

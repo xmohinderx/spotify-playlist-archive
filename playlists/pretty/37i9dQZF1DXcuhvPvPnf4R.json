@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 164,
+  "num_followers": 196,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMDkwMmEyMWRjY2Y3NjIwZTU4YTYwMWY4ZWE2ODkyYjdk",
+  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMGFmOGYxNzkzZGI4YTBhOTYzOTJjY2YyZmY3MmYzY2Nl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 206465,
+      "name": "Find Someone Like You",
+      "url": "https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Gangsta (Remix)",
         "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 216000,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 206465,
-      "name": "Find Someone Like You",
-      "url": "https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD"
     },
     {
       "added_at": "2022-10-01 16:43:03",

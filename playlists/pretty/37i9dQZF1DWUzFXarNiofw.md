@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Alex Vaughn
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,385 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,781 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 33 | [Open \- Remix](https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Open \(Remix\)](https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C) | 3:28 |
 | 34 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 |
 | 35 | [Cherry Wine](https://open.spotify.com/track/1yGfEpb5rYRSrdEsX3RCpX) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Cherry Wine](https://open.spotify.com/album/5xm6ly6zx7KN3JqtnJXY5T) | 2:59 |
-| 36 | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx) | 2:37 |
+| 36 | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx) | 2:11 |
 | 37 | [Streets](https://open.spotify.com/track/1TYByBVUgkH7lndO0YRmbl) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Streets](https://open.spotify.com/album/0JRGXtHtaXzYM4fEhtXJw3) | 2:24 |
 | 38 | [corazon \(with French Montana\)](https://open.spotify.com/track/01EFzBpejKX2wzFdMHKGR9) | [ilham](https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [ilham](https://open.spotify.com/album/7mQl8hYhPUwtdyB4jwyO1w) | 2:33 |
 | 39 | [FYD](https://open.spotify.com/track/3EUCsRolJekwxGt5id8kww) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [FYD](https://open.spotify.com/album/24iMwkCOV0iqxtGo41eH4a) | 2:26 |

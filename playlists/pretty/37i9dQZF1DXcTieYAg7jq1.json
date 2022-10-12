@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Sarah Kang",
-  "num_followers": 400080,
+  "num_followers": 400129,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGIxYWRkMGYxZmEyZTZlYjUyZjc3ZjJiNWFhZWUzZGRi",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDdmMTJmZTU2OTllMTQ4YzNkZDg2ZTM3NGRkOTk4Mjgy",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -541,6 +541,22 @@
       "url": "https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Private Space",
@@ -559,22 +575,6 @@
       "duration_ms": 222901,
       "name": "Witchoo",
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "All Summer",
-        "url": "https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "All Summer",
-      "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
-    },
-    {
       "added_at": "2022-01-07 05:02:00",
       "album": {
         "name": "The Joy of Music",
@@ -639,6 +623,22 @@
       "duration_ms": 215213,
       "name": "Living My Best Life",
       "url": "https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "All Summer",
+        "url": "https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "All Summer",
+      "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -729,26 +729,6 @@
       "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Slow Song (with Dragonette)",
-        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 253723,
-      "name": "Slow Song (with Dragonette)",
-      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
-    },
-    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "The Joy of Music",
@@ -787,6 +767,26 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Slow Song (with Dragonette)",
+        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "duration_ms": 253723,
+      "name": "Slow Song (with Dragonette)",
+      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
+        "name": "L.A.B IV",
+        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 310760,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "L.A.B IV",
-        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 310760,
-      "name": "Yes I Do",
-      "url": "https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Precious Love (Refreshed)",
+      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Sweet",
@@ -1105,22 +1121,6 @@
       "url": "https://open.spotify.com/track/7uYpvX8Gb7CUubdJcRt8E0"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Precious Love (Refreshed)",
-      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Black Is Golden",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "AM Gold",
@@ -1167,6 +1151,22 @@
       "duration_ms": 169228,
       "name": "AM Gold",
       "url": "https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/1x05ZRPr2FprwUP7MjWefh"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Good Man (First Love)",
-        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 160361,
-      "name": "Good Man (First Love)",
-      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "WE ARE (The Deluxe Edition)",
@@ -1403,6 +1387,22 @@
       "duration_ms": 191208,
       "name": "SING",
       "url": "https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Good Man (First Love)",
+        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 160361,
+      "name": "Good Man (First Love)",
+      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1451,6 +1451,30 @@
       "duration_ms": 173862,
       "name": "It Will Come In Time",
       "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "WE ARE (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Hot 8 Brass Band",
+          "url": "https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD"
+        }
+      ],
+      "duration_ms": 223815,
+      "name": "ADULTHOOD",
+      "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1521,30 +1545,6 @@
       "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "WE ARE (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Hot 8 Brass Band",
-          "url": "https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD"
-        }
-      ],
-      "duration_ms": 223815,
-      "name": "ADULTHOOD",
-      "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Higher",
@@ -1609,6 +1609,30 @@
       "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
     },
     {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Where the Light Is",
+        "url": "https://open.spotify.com/album/0kGvVheAH35jEukM3elOGu"
+      },
+      "artists": [
+        {
+          "name": "CAMPBELL",
+          "url": "https://open.spotify.com/artist/50V8MR39rjDJ9GbtqHHBgk"
+        },
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        },
+        {
+          "name": "Nancy Daines",
+          "url": "https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR"
+        }
+      ],
+      "duration_ms": 230101,
+      "name": "Where the Light Is",
+      "url": "https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Don't Lose Sight",
@@ -1643,22 +1667,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "On Top of the World",
         "url": "https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj"
       },
@@ -1675,6 +1683,22 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
         "name": "Love Is Love",
         "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
       },
@@ -1687,30 +1711,6 @@
       "duration_ms": 186783,
       "name": "Love Is Love",
       "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/0kGvVheAH35jEukM3elOGu"
-      },
-      "artists": [
-        {
-          "name": "CAMPBELL",
-          "url": "https://open.spotify.com/artist/50V8MR39rjDJ9GbtqHHBgk"
-        },
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        },
-        {
-          "name": "Nancy Daines",
-          "url": "https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR"
-        }
-      ],
-      "duration_ms": 230101,
-      "name": "Where the Light Is",
-      "url": "https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw"
     },
     {
       "added_at": "2022-04-15 04:01:00",

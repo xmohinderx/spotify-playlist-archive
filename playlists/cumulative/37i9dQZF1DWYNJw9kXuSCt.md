@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYNJw9kXuSCt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYNJw9kXuSCt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYNJw9kXuSCt)
 
-### [The 2022 Latin GRAMMYs Nominees](https://open.spotify.com/playlist/37i9dQZF1DWYNJw9kXuSCt)
+### [The Nominees](https://open.spotify.com/playlist/37i9dQZF1DWYNJw9kXuSCt)
 
-> These are the nominees for the 2022 Latin GRAMMYs.
+> The 2022 nominees.
 
 149 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/0dCZWjdvmpZmHTm4DVGHGv)
 

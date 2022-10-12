@@ -6863,6 +6863,24 @@
     {
       "album": {
         "name": "Soft Times",
+        "url": "https://open.spotify.com/album/0OLMUtL6pwJ4X4G1VTFq4C"
+      },
+      "artists": [
+        {
+          "name": "Matt Duncan",
+          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217058,
+      "name": "The Keys",
+      "url": "https://open.spotify.com/track/1s8NdAvVPL7MveFNADDkNj"
+    },
+    {
+      "album": {
+        "name": "Soft Times",
         "url": "https://open.spotify.com/album/2m5JZAFs0blQ8S4Gm8VJ7a"
       },
       "artists": [
@@ -7625,7 +7643,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 162280,
       "name": "Watch What Happens",
       "url": "https://open.spotify.com/track/5pLYbOJYUHdnim9lbjhN2C"

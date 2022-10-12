@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:5ITI6SEoUZMIXXkzCfr4oE\">Aluna</a>'s favorite tracks. Updated regularly. Curated by Aluna. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 25449,
+  "num_followers": 25472,
   "original_name": "Aluna's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDQ4NzU0NjU0M2Q5YzQ0MjQyZTcxOTY2MTkzODQzODJl",
+  "snapshot_id": "MTY2NTUxNDk4OCwwMDAwMDAwMDBlZjYzODBjZjc0ZTRiN2QwNmE4OTI4YzZjNjFkMzFj",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -149,6 +149,26 @@
       "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
     },
     {
+      "added_at": "2022-10-11 19:03:08",
+      "album": {
+        "name": "Khang Kholo",
+        "url": "https://open.spotify.com/album/7kgrcCgrZHi6t9KlUFvqCM"
+      },
+      "artists": [
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        },
+        {
+          "name": "Da Africa Deep",
+          "url": "https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b"
+        }
+      ],
+      "duration_ms": 420005,
+      "name": "Khang Kholo",
+      "url": "https://open.spotify.com/track/3vzO5kLfPDAW8fZKVU4wBx"
+    },
+    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Balafonerra",
@@ -273,6 +293,22 @@
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
     },
     {
+      "added_at": "2022-10-11 19:03:08",
+      "album": {
+        "name": "Peaceful",
+        "url": "https://open.spotify.com/album/14OP59H89LT2o965f03jyS"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 429437,
+      "name": "Peaceful",
+      "url": "https://open.spotify.com/track/5fCAPhq9be6s8FuEqF2N2E"
+    },
+    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Busy Body",
@@ -303,26 +339,6 @@
       "duration_ms": 204068,
       "name": "Gvnman Shift",
       "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Contagious",
-        "url": "https://open.spotify.com/album/5P319u6XstqCetDIbyHqhB"
-      },
-      "artists": [
-        {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
-        },
-        {
-          "name": "TOSS",
-          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
-        }
-      ],
-      "duration_ms": 379291,
-      "name": "Manca",
-      "url": "https://open.spotify.com/track/46ZvwmGP7q63FWnrvurH45"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -471,6 +487,22 @@
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "added_at": "2022-10-11 19:03:08",
+      "album": {
+        "name": "Sandra de S\u00e1 - 1982",
+        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Olhos Coloridos",
+      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1183,26 +1215,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Naila (Murlo Remix)",
-        "url": "https://open.spotify.com/album/6cdUgMJqaRqFKKBi4yEVOn"
-      },
-      "artists": [
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        },
-        {
-          "name": "Murlo",
-          "url": "https://open.spotify.com/artist/1bm1m4DNLeL1gCr38NzhmD"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Naila - Murlo Remix",
-      "url": "https://open.spotify.com/track/7GqSQ4M6thNQopPgozZCF6"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Last Year Was Weird, Vol. 2",
         "url": "https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD"
       },
@@ -1259,30 +1271,6 @@
       "duration_ms": 184563,
       "name": "Warrior - Austin Millz Remix",
       "url": "https://open.spotify.com/track/4vGniC9BYciCivF1s9vruW"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Upset",
-        "url": "https://open.spotify.com/album/5NRkkkwgN2YxnkM8cvgkBb"
-      },
-      "artists": [
-        {
-          "name": "GASHI",
-          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Njomza",
-          "url": "https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am"
-        }
-      ],
-      "duration_ms": 197986,
-      "name": "Upset",
-      "url": "https://open.spotify.com/track/4y5KpfyXBEzSiKoUqTc9kq"
     },
     {
       "added_at": "2022-09-30 04:00:00",

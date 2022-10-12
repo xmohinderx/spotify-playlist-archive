@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 610228,
+  "num_followers": 610833,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgzODIxMywwMDAwMDAwMDIxNTkyMjVkOGUyY2RkM2NlMWI4ZDE5ZTA0NjhlZWI1",
+  "snapshot_id": "MTY2NDgzODIxMywwMDAwMDAwMGMzZTdhOWUxNmIxMzFmZTBmNzg1NDBhOWM1NGQ2YjVk",
   "tracks": [
     {
       "added_at": "2022-09-26 17:55:19",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-09-26 17:55:19",
       "album": {
-        "name": "America, Location 12",
-        "url": "https://open.spotify.com/album/2GkDG2SbBX4lewmepYLAYV"
-      },
-      "artists": [
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 253165,
-      "name": "Only the Wild Ones",
-      "url": "https://open.spotify.com/track/0ErpHxNt1kTyCQGlh43wr1"
-    },
-    {
-      "added_at": "2022-09-26 17:55:19",
-      "album": {
         "name": "Silk Degrees",
         "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 315640,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
+    },
+    {
+      "added_at": "2022-09-26 17:55:19",
+      "album": {
+        "name": "America, Location 12",
+        "url": "https://open.spotify.com/album/2GkDG2SbBX4lewmepYLAYV"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "duration_ms": 253165,
+      "name": "Only the Wild Ones",
+      "url": "https://open.spotify.com/track/0ErpHxNt1kTyCQGlh43wr1"
     },
     {
       "added_at": "2022-09-26 17:55:19",
@@ -575,22 +575,18 @@
     {
       "added_at": "2022-09-26 17:55:19",
       "album": {
-        "name": "Tongo Barra",
-        "url": "https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN"
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
       },
       "artists": [
         {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 333150,
-      "name": "Tongo Barra",
-      "url": "https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg"
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
     },
     {
       "added_at": "2022-09-26 17:55:19",
@@ -611,18 +607,22 @@
     {
       "added_at": "2022-09-26 17:55:19",
       "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
+        "name": "Tongo Barra",
+        "url": "https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
+      "duration_ms": 333150,
+      "name": "Tongo Barra",
+      "url": "https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg"
     },
     {
       "added_at": "2022-09-26 17:55:19",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-09-26 17:55:19",
       "album": {
+        "name": "The Last Record Album",
+        "url": "https://open.spotify.com/album/6D5275lO8hDqBgWS4CkHhn"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Long Distance Love",
+      "url": "https://open.spotify.com/track/64lIUwQx1vwo4PIrS5jYb1"
+    },
+    {
+      "added_at": "2022-09-26 17:55:19",
+      "album": {
         "name": "Slow Song (with Dragonette)",
         "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2022-09-26 17:55:19",
       "album": {
-        "name": "The Last Record Album",
-        "url": "https://open.spotify.com/album/6D5275lO8hDqBgWS4CkHhn"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Long Distance Love",
-      "url": "https://open.spotify.com/track/64lIUwQx1vwo4PIrS5jYb1"
-    },
-    {
-      "added_at": "2022-09-26 17:55:19",
-      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-26 17:55:19",
       "album": {
-        "name": "Happiness in Liquid Form",
-        "url": "https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 201988,
-      "name": "Obvious Guy",
-      "url": "https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea"
-    },
-    {
-      "added_at": "2022-09-26 17:55:19",
-      "album": {
         "name": "You're so Fine",
         "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 173133,
       "name": "You're so Fine",
       "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+    },
+    {
+      "added_at": "2022-09-26 17:55:19",
+      "album": {
+        "name": "Happiness in Liquid Form",
+        "url": "https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 201988,
+      "name": "Obvious Guy",
+      "url": "https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea"
     },
     {
       "added_at": "2022-09-26 17:55:19",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-09-26 17:55:19",
       "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Easier Said Than Done",
+      "url": "https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0"
+    },
+    {
+      "added_at": "2022-09-26 17:55:19",
+      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 131736,
       "name": "All Day, All Night",
       "url": "https://open.spotify.com/track/0H9PHWhpMI7LEhZu6U9Cfb"
-    },
-    {
-      "added_at": "2022-09-26 17:55:19",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Easier Said Than Done",
-      "url": "https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0"
     },
     {
       "added_at": "2022-09-26 17:55:19",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-26 17:55:19",
       "album": {
-        "name": "Bright Moments",
-        "url": "https://open.spotify.com/album/79A60jmAsN0A0vmbqosE6w"
-      },
-      "artists": [
-        {
-          "name": "Flamingosis",
-          "url": "https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb"
-        }
-      ],
-      "duration_ms": 245028,
-      "name": "Believe in Me",
-      "url": "https://open.spotify.com/track/60pHETtVZP4hddnCg1sKpb"
-    },
-    {
-      "added_at": "2022-09-26 17:55:19",
-      "album": {
         "name": "Still Life - EP",
         "url": "https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 200352,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo"
+    },
+    {
+      "added_at": "2022-09-26 17:55:19",
+      "album": {
+        "name": "Bright Moments",
+        "url": "https://open.spotify.com/album/79A60jmAsN0A0vmbqosE6w"
+      },
+      "artists": [
+        {
+          "name": "Flamingosis",
+          "url": "https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb"
+        }
+      ],
+      "duration_ms": 245028,
+      "name": "Believe in Me",
+      "url": "https://open.spotify.com/track/60pHETtVZP4hddnCg1sKpb"
     },
     {
       "added_at": "2022-09-26 17:55:19",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-26 17:55:19",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
-    },
-    {
-      "added_at": "2022-09-26 17:55:19",
-      "album": {
         "name": "Schmilco",
         "url": "https://open.spotify.com/album/1Wjheru5k9DMQduRIasAyL"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 175946,
       "name": "If I Ever Was a Child",
       "url": "https://open.spotify.com/track/41Kl6LI2iFiT3I2IvXMsFT"
+    },
+    {
+      "added_at": "2022-09-26 17:55:19",
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
       "added_at": "2022-09-26 17:55:19",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2022-09-26 17:55:19",
       "album": {
-        "name": "Cruisin' To The Parque feat. Y La Bamba",
-        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 215204,
-      "name": "Cruisin' to the Parque feat. Y La Bamba",
-      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
-    },
-    {
-      "added_at": "2022-09-26 17:55:19",
-      "album": {
         "name": "Didn't I",
         "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 225640,
       "name": "Didn't I - Florent F Rework",
       "url": "https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI"
+    },
+    {
+      "added_at": "2022-09-26 17:55:19",
+      "album": {
+        "name": "Cruisin' To The Parque feat. Y La Bamba",
+        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 215204,
+      "name": "Cruisin' to the Parque feat. Y La Bamba",
+      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
     },
     {
       "added_at": "2022-09-26 17:55:19",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-09-26 17:55:19",
       "album": {
+        "name": "Kids Fallin' In Love",
+        "url": "https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "Kids Fallin' In Love",
+      "url": "https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A"
+    },
+    {
+      "added_at": "2022-09-26 17:55:19",
+      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 259795,
       "name": "Highschool Steady",
       "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
-    },
-    {
-      "added_at": "2022-09-26 17:55:19",
-      "album": {
-        "name": "Kids Fallin' In Love",
-        "url": "https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "Kids Fallin' In Love",
-      "url": "https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A"
     },
     {
       "added_at": "2022-09-26 17:55:19",
@@ -1831,6 +1831,22 @@
       "duration_ms": 227293,
       "name": "Soulless Friends",
       "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
+    },
+    {
+      "added_at": "2022-09-26 17:55:19",
+      "album": {
+        "name": "Soft Times",
+        "url": "https://open.spotify.com/album/0OLMUtL6pwJ4X4G1VTFq4C"
+      },
+      "artists": [
+        {
+          "name": "Matt Duncan",
+          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "The Keys",
+      "url": "https://open.spotify.com/track/1s8NdAvVPL7MveFNADDkNj"
     },
     {
       "added_at": "2022-09-26 17:55:19",
@@ -1903,22 +1919,6 @@
       "duration_ms": 188144,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1DmhHTgmnbKC5JyXxdPpD9"
-    },
-    {
-      "added_at": "2022-09-26 17:55:19",
-      "album": {
-        "name": "Watch What Happens",
-        "url": "https://open.spotify.com/album/7EQnweNkqdHRsVc95xxxIV"
-      },
-      "artists": [
-        {
-          "name": "Chris Montez",
-          "url": "https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA"
-        }
-      ],
-      "duration_ms": 162280,
-      "name": "Watch What Happens",
-      "url": "https://open.spotify.com/track/5pLYbOJYUHdnim9lbjhN2C"
     },
     {
       "added_at": "2022-09-26 17:55:19",

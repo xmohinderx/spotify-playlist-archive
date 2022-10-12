@@ -4,12 +4,13 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-98 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+99 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 \(feat\. CP\)](https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [1000 \(feat\. CP\)](https://open.spotify.com/album/6svs8n6epi8U1u6xhENItF) | 2:50 | 2022-05-06 | 2022-10-08 |
 | [Arm's Length](https://open.spotify.com/track/57L7dmh277tu1jnctigapv) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Arm's Length](https://open.spotify.com/album/58ZUH38WuyiN1M0di6D4lL) | 2:53 | 2022-05-27 |  |
+| [Ascent](https://open.spotify.com/track/71R8InTY1qrseVysUhGE8X) | [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV) | [Ascent](https://open.spotify.com/album/4IPhl0uklSlmoSzZpA0yGc) | 3:15 | 2022-10-11 |  |
 | [Blade](https://open.spotify.com/track/2xfuUnHrsftleiNvhxrBis) | [Fox Beach](https://open.spotify.com/artist/3oscL02LJvKEkbxByDKRGs) | [Blade](https://open.spotify.com/album/3mfFOwMkEYMwZqKwu7su28) | 2:18 | 2022-09-13 |  |
 | [Blink](https://open.spotify.com/track/3ivU4AKYS5NgBpodGp61IQ) | [Austin Atlas](https://open.spotify.com/artist/4TkDe8MLTpt4FcOCKxl1WC), [.dru](https://open.spotify.com/artist/3Uhwyjj7LKNzEfWhAT0u9L), [Jackson](https://open.spotify.com/artist/63S5cwgY5HmZyuqKlwP1BE) | [Blink](https://open.spotify.com/album/5dLDAqx33v36RkZ7cg81fl) | 3:21 | 2022-05-06 | 2022-08-13 |
 | [Blow The Socket](https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Blow The Socket](https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh) | 3:12 | 2022-09-09 |  |
@@ -38,7 +39,7 @@
 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 | 2022-05-06 |  |
 | [H8 December](https://open.spotify.com/track/2GmduVx3DDAyqMys6xgqem) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [H8 December](https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S) | 2:20 | 2022-09-19 |  |
 | [heavy metals](https://open.spotify.com/track/4sI100hB4VQQqHQonPq9I2) | [plumpy](https://open.spotify.com/artist/50OV9n9Rnrf8BqUdzEVZMI), [daisy maize](https://open.spotify.com/artist/6SAsm9v5Z1fJpbrXGvuQu4) | [heavy metals](https://open.spotify.com/album/1l3e0TB5IdVOwFuOleUmjo) | 3:21 | 2022-05-10 |  |
-| [Home 2 Me](https://open.spotify.com/track/34fH6Q1MOz5xT4PMItdvnV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Home 2 Me](https://open.spotify.com/album/4W4GQvDqlb18eNR4tl87vE) | 2:38 | 2022-07-08 |  |
+| [Home 2 Me](https://open.spotify.com/track/34fH6Q1MOz5xT4PMItdvnV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Home 2 Me](https://open.spotify.com/album/4W4GQvDqlb18eNR4tl87vE) | 2:38 | 2022-07-08 | 2022-10-12 |
 | [How I Do It](https://open.spotify.com/track/333fbxlbE3rVYSp0OCkabS) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB) | [How I Do It](https://open.spotify.com/album/1M9bBhw0L43VhmhwksYYFo) | 2:08 | 2022-06-09 | 2022-07-16 |
 | [I Don't Miss U](https://open.spotify.com/track/5yHpXftp1WadoINgFucZTz) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:43 | 2022-09-23 |  |
 | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/track/7M58XwtXlqzuRvf25OnWy7) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Sai Sen](https://open.spotify.com/artist/0ObVSKfdMjPuYydCBG4TX3), [Iamsbf](https://open.spotify.com/artist/21vmR8ceieOHaiCvuwlLpI) | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/album/67B3KMyswV6p4zF49Sns8Y) | 2:57 | 2022-06-03 |  |

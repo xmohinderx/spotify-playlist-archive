@@ -1297,10 +1297,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 200254,
       "name": "Wasp",
       "url": "https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP"
+    },
+    {
+      "album": {
+        "name": "Biggs",
+        "url": "https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD"
+      },
+      "artists": [
+        {
+          "name": "Big yasa",
+          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202428,
+      "name": "Wasp",
+      "url": "https://open.spotify.com/track/76TeUkPnBIKQuj3aNgSvNn"
     },
     {
       "album": {

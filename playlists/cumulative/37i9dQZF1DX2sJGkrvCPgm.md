@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-264 songs - 16 hr 38 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
+265 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Go Tell It on the Mountain \(feat\. Brad Wheeler\)](https://open.spotify.com/track/4bRJr0gSXtgOrLVG3Iwolh) | [GENTRI](https://open.spotify.com/artist/4sk2zZdhVRMhb1BEtcxUKf), [Brad Wheeler](https://open.spotify.com/artist/5IJ4o6qVqQHdD4ey0ZUl2F) | [Season of Light](https://open.spotify.com/album/5kUqoEk2Vuk9fmOfDCZFbB) | 4:02 | 2021-12-24 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3pbOzSaFUF9BUfE8exEXKg) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/4Y7m2tcSdLbnw0KKolFZg3) | 3:29 | 2021-12-24 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/09AWVPvdHm3nPt7xA1x1Xu) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/5ekIltuFIN3m09eOBSWpF3) | 3:31 | 2021-12-24 |  |
-| [God Rest Ye Merry Gentlemen \(feat\. Sarah Reeves\)](https://open.spotify.com/track/5y5pMlMKwHKD8T2Q9Jx6B0) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 3:46 | 2021-12-24 |  |
+| [God Rest Ye Merry Gentlemen \(feat\. Sarah Reeves\)](https://open.spotify.com/track/5y5pMlMKwHKD8T2Q9Jx6B0) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 3:46 | 2021-12-24 | 2022-10-12 |
 | [God Rest Ye Merry Gentlemen:We Three Kings Medley](https://open.spotify.com/track/6rJRpp670vz5J8b6kw0W3l) | [Timothy A Smith](https://open.spotify.com/artist/75afOlW3Pd5NeCTIg87bXE) | [Advent](https://open.spotify.com/album/6oUyaqpkVFo2nHjfq3lMBR) | 4:17 | 2021-12-24 | 2022-07-28 |
 | [God With Us \- Live](https://open.spotify.com/track/50v2NQts2bIqKF7jfWu7Vw) | [The Worship Project](https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3), [Brooke Nicholls](https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg) | [Christmas \- Live at Tyndale University](https://open.spotify.com/album/2PsUI1qRMs5RZQJx2llhoX) | 4:08 | 2021-12-24 | 2022-07-19 |
 | [Good King Wenceslas](https://open.spotify.com/track/4WM0DbMzh0oph7NMEYHgkg) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Good King Wenceslas](https://open.spotify.com/album/2O90tt21lbxx341mb2VnDy) | 3:43 | 2021-12-24 |  |
@@ -229,6 +229,7 @@
 | [The Christmas Waltz](https://open.spotify.com/track/2IawkwfaZNjql6iQ9FGY6r) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 2:53 | 2021-12-24 |  |
 | [The First Christmas \(feat\. Zach Williams\)](https://open.spotify.com/track/0OglcJUgvwvrOrJhXK8WBj) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 2:22 | 2021-12-24 | 2022-07-29 |
 | [The First Noel](https://open.spotify.com/track/0A72PAniE3r51RQB1YjfWt) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Christmas: Joy To The World](https://open.spotify.com/album/6CDNJL0wwcpY56ppfHBtPr) | 3:46 | 2021-12-24 | 2022-07-29 |
+| [The First Noel](https://open.spotify.com/track/4mRYgux6JVh8abioQmEN9t) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Christmas: Joy to the World](https://open.spotify.com/album/4ZXkMHjPFRyKGG3cXIBDHy) | 3:46 | 2021-12-24 |  |
 | [The First Noël](https://open.spotify.com/track/1SqCZGjHJGeSg1ZuKMDWqD) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/2tNbwGEri8pNkp8AmEf39f) | 4:19 | 2021-12-24 |  |
 | [The Gift \- 2020 Version](https://open.spotify.com/track/6tbfDq2OgviVZLCr2CsMto) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [A Christmas Celebration](https://open.spotify.com/album/7ejb2BSCizWHSdviEYN1f4) | 4:11 | 2021-12-24 | 2022-07-28 |
 | [The King Is Here](https://open.spotify.com/track/3lVKcTVFRx2yvU8iC73tmk) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Christmas Songs](https://open.spotify.com/album/4TafV1ps3rMjGg80WWrMls) | 3:18 | 2021-12-24 | 2022-07-24 |

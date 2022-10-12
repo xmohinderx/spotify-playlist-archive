@@ -4,7 +4,7 @@
 
 > We just wanna rock you all night long.
 
-164 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/2z5WQJnawaIEybSj0518t2)
+165 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/2z5WQJnawaIEybSj0518t2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2022-02-10 |  |
 | [Is It All Over My Face? \- Female Vocal](https://open.spotify.com/track/7iOSi3GZFApxC00XL9OPAl) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Larry Levans Classic West End Records Remixes Made Famous At The Legendary Paradise Garage](https://open.spotify.com/album/1Z4ucqR9byZPqqlRUoayIu) | 6:57 | 2022-02-10 | 2022-07-29 |
 | [It Looks Like Love](https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY) | [Goody Goody](https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3) | [Goody Goody](https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC) | 6:23 | 2022-02-10 |  |
-| [It's Like That](https://open.spotify.com/track/0hC8FpiVYshFwkvSm7fA1o) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Two \(Expanded Edition\)](https://open.spotify.com/album/4BFwQ2eRqnHJmVo3l0oCeC) | 4:16 | 2022-02-10 |  |
+| [It's Like That](https://open.spotify.com/track/0hC8FpiVYshFwkvSm7fA1o) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Two \(Expanded Edition\)](https://open.spotify.com/album/4BFwQ2eRqnHJmVo3l0oCeC) | 4:16 | 2022-02-10 | 2022-10-12 |
 | [It's Like That](https://open.spotify.com/track/1uIberD0UjjZOMxOMQtgXy) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Two](https://open.spotify.com/album/1DCp2Xs3vuxv8MZJYIHiOf) | 4:17 | 2022-02-10 | 2022-07-29 |
 | [Just a Touch of Love](https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Just A Touch Of Love](https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg) | 6:32 | 2022-02-10 |  |
 | [Just an Illusion](https://open.spotify.com/track/3o26dzDS061QiDD3bThGtE) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7H8XYReZxtR3OtgaVDWZUo) | 6:25 | 2022-02-10 | 2022-07-29 |
@@ -137,6 +137,7 @@
 | [Relight My Fire \- Single Version](https://open.spotify.com/track/0ZvLrvwzp0nBkfmtzL7XO1) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [70s Gems](https://open.spotify.com/album/2qlmtkBLyoBDkGRVcKh00D) | 3:44 | 2022-02-10 | 2022-07-29 |
 | [Relight My Fire \- Single Version](https://open.spotify.com/track/6UW4Uo5zRI5gJw5urNwiwN) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Relight My Fire \(Expanded Edition\)](https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4) | 3:45 | 2022-02-10 |  |
 | [Remind Me](https://open.spotify.com/track/6K3fTjBCHXCQtc8xK2IL6w) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/73TPk27H5MBU6flqQ1lr09) | 5:16 | 2022-02-10 | 2022-07-28 |
+| [Remind Me \- Remastered](https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 5:19 | 2022-09-05 |  |
 | [Remind Me \- Remastered Version](https://open.spotify.com/track/5kovvNB51QrikkznHROXvj) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Forget Me Nots](https://open.spotify.com/album/0nmo06KvlBGr2ypKt38IId) | 5:14 | 2022-02-10 | 2022-10-09 |
 | [Risin' to the Top](https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d) | [Keni Burke](https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2) | [Changes \(Expanded Edition\)](https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh) | 5:14 | 2022-02-10 |  |
 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/0VMcwlsv2n8wkgXGIIT9S8) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/57ujNUzXT3A7jwEHsEABRx) | 6:54 | 2022-02-10 | 2022-07-29 |

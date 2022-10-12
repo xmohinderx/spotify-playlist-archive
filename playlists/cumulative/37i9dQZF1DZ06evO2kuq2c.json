@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "The Here and Now",
+        "url": "https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "An Open Letter to Myself",
+      "url": "https://open.spotify.com/track/1A2AXzeYUe89aoCuuvsUyh"
+    },
+    {
+      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },

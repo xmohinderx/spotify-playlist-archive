@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-106 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/5pSagmd4Aria4oChx8qUQl)
+107 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/5pSagmd4Aria4oChx8qUQl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [MONSTER GIRLS](https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:56 | 2022-07-26 |  |
 | [My Own Fairy\-Tale](https://open.spotify.com/track/5TKgniNeHWwaH1pf5QV8nA) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:40 | 2022-06-25 | 2022-09-28 |
 | [Märchen Star](https://open.spotify.com/track/7chCaPHPbAtQJ1ldS9gE6R) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:47 | 2022-06-25 | 2022-07-29 |
-| [NEO SKY, NEO MAP!](https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [NEO SKY, NEO MAP!](https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M) | 4:37 | 2022-06-25 |  |
+| [NEO SKY, NEO MAP!](https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [NEO SKY, NEO MAP!](https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M) | 4:37 | 2022-06-25 | 2022-10-12 |
 | [Not Sad](https://open.spotify.com/track/0jfqESQKZffIftSyZUAbPx) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Swinging!](https://open.spotify.com/album/3m6u28D0IqjWvNFbazxH9K) | 4:17 | 2022-06-25 | 2022-07-28 |
 | [Poker face&お願い!Fairy](https://open.spotify.com/track/13SJhZ8YrJP2uyTWhbGIvb) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:47 | 2022-06-25 | 2022-07-27 |
 | [Poppin' Up!](https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Dream with You / Poppin' Up! / DIVE! \(中須かすみ盤\)](https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar) | 4:18 | 2022-06-25 |  |
@@ -106,6 +106,7 @@
 | [恋するMagic!!](https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 3:48 | 2022-06-25 | 2022-10-05 |
 | [未来ハーモニー](https://open.spotify.com/track/1T0I1kD2JNfgqB1oFQWlQD) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:09 | 2022-06-25 | 2022-07-25 |
 | [楽しいの天才](https://open.spotify.com/track/6BR9SPM7tKuD7wGOkx4CYd) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:01 | 2022-06-25 | 2022-07-25 |
+| [永遠の一瞬](https://open.spotify.com/track/2ldj8dXCO36HAZlPnzVYqc) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [永遠の一瞬](https://open.spotify.com/album/66HtPLuP9HU7LYFSdaWaNJ) | 4:57 | 2022-10-11 |  |
 | [決意の光](https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:54 | 2022-06-25 |  |
 | [無敵級\*ビリーバー](https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:04 | 2022-06-25 |  |
 | [眠れる森に行きたいな](https://open.spotify.com/track/24CUT6eQMpK66kZexYJdhh) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:24 | 2022-06-25 |  |

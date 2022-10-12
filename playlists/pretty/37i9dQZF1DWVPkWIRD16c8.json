@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 27254,
+  "num_followers": 27295,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDg0ZDYxOWFiNjVmZDM5ZTIxYjgyMjQwYzNlNWEyNWZi",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDc2MDFiZGY1NWJhZTEwNzcxMjUxMWE3ZTY3NThlZjg5",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -551,22 +551,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251714,
-      "name": "Love Theory",
-      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Symphony",
         "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 244653,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251714,
+      "name": "Love Theory",
+      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
     },
     {
       "added_at": "2019-11-20 07:28:20",

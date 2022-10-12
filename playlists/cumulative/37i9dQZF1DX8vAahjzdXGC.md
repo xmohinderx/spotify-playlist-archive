@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Charlie Puth
 
-13,383 songs - 32 day 0 hr 17 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+13,384 songs - 32 day 0 hr 21 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,7 +592,7 @@
 | [America](https://open.spotify.com/track/3rbGTyoiQFj3sv5nCataXM) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [America](https://open.spotify.com/album/4ud13JVACG9tWxd23YEURt) | 4:05 | 2021-04-09 | 2021-04-16 |
 | [America](https://open.spotify.com/track/39mjm6wt4HJKH9CSEzLxsG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [America](https://open.spotify.com/album/4m43QdsKZIWl5BMWH8C60q) | 12:29 | 2020-07-04 | 2020-07-10 |
 | [America's Sweetheart](https://open.spotify.com/track/3rJHx4kzPVlNPatZD3lVhK) | [LILHUDDY](https://open.spotify.com/artist/5nDdaia3PDYD0x4zBEHGtg) | [America's Sweetheart](https://open.spotify.com/album/2UEnt1zCnsQrBTEl3BgiVT) | 3:24 | 2021-04-23 | 2021-04-30 |
-| [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [The Golden Dregs](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 | 2022-10-06 |  |
+| [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 | 2022-10-06 |  |
 | [American Cliché](https://open.spotify.com/track/2IFioAFD8QEIq17UwOaSFb) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [American Cliché](https://open.spotify.com/album/2LNj7phPxqxUhn05s0itfQ) | 3:23 | 2021-02-06 | 2021-02-12 |
 | [American Dream](https://open.spotify.com/track/5fnYDXLhFOioudAeiQGOPD) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [American Dream](https://open.spotify.com/album/0ySQ4Viqi1pDRZEC3Wwx1z) | 2:40 | 2022-03-10 | 2022-03-18 |
 | [AMERICAN GURL](https://open.spotify.com/track/4wYmgjrDbHprid8pODwPq4) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/1onm247Cd6CExLh8CcnhVy) | 3:48 | 2021-07-23 | 2021-07-30 |
@@ -11126,6 +11126,7 @@
 | [Susah Lupa](https://open.spotify.com/track/2RjGz6JDpWkL30puVeQG7O) | [Thalia Amritha](https://open.spotify.com/artist/4BCtG5nvN8suGXfW2Vfisy) | [Susah Lupa](https://open.spotify.com/album/28fLc3HVNdeNUULYpdpZgu) | 4:06 | 2021-02-06 | 2021-02-12 |
 | [Susah Payah](https://open.spotify.com/track/2jh4DCvZIZLTW8hIp2YNOe) | [Michelle Joan](https://open.spotify.com/artist/5nCovnwYfNVRPBsnmR40FW) | [Susah Payah](https://open.spotify.com/album/6SLV8T3mLtKeCbWDbCfC5z) | 3:54 | 2021-11-19 | 2021-11-26 |
 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 | 2021-08-06 | 2021-08-13 |
+| [Suzie](https://open.spotify.com/track/7KzZ1f667FYKudSIst9paz) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Suzie](https://open.spotify.com/album/6uAV69hWf44gJa8BcLKZFm) | 3:40 | 2022-10-06 |  |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-30 | 2022-10-07 |
 | [SWAG](https://open.spotify.com/track/2ap9kKsIEiWa4bzsjqACEx) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [SWAG](https://open.spotify.com/album/0n6glbZG9fvHtfx6Gro7dd) | 2:33 | 2020-07-10 | 2020-07-18 |
 | [Swag Pistol](https://open.spotify.com/track/7dYPlpgQTjcdn2BI19bsbC) | [Krowbar](https://open.spotify.com/artist/11Fg5AeQciyDu0rtcIA47b) | [Swag Pistol](https://open.spotify.com/album/5vZLHvRvrlbE0bV7t6QerZ) | 2:57 | 2020-09-18 | 2020-09-25 |

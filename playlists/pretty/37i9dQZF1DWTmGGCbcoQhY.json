@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1135151,
+  "num_followers": 1135539,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY0MDUxNSwwMDAwMDAwMDcwNWZhZjkxYjE2ZmFiNDlmYmZmZDU3NjYyNTg5M2Qz",
+  "snapshot_id": "MTY1NDY0MDUxNSwwMDAwMDAwMGM1MTUzOThhNDAxZjIxYTQzNTJhNTlhOTg0ZGMxYzE5",
   "tracks": [
     {
       "added_at": "2022-06-07 22:21:55",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Del Barrio Para El Barrio (Vol. 1)",
-        "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
-      },
-      "artists": [
-        {
-          "name": "Bohio",
-          "url": "https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Enbrujo De Cumbia",
-      "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "El Poder de la Cumbia",
         "url": "https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 311386,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/1nASPG3ZiLBi3fJMOZmRsJ"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Del Barrio Para El Barrio (Vol. 1)",
+        "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
+      },
+      "artists": [
+        {
+          "name": "Bohio",
+          "url": "https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Enbrujo De Cumbia",
+      "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Grito En Silencio",
-        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Carabo",
-          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "El Afilador",
-      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Locura De Amor",
         "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 237080,
       "name": "Amor Carnal",
       "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Grito En Silencio",
+        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Carabo",
+          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "El Afilador",
+      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 290089,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Sin Mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 290089,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 272091,
       "name": "Abandonado",
       "url": "https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Que Te Vaya Mal",
-        "url": "https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kachimba",
-          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
-        }
-      ],
-      "duration_ms": 327253,
-      "name": "Ven a Mi",
-      "url": "https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1403,6 +1387,22 @@
       "duration_ms": 366503,
       "name": "Pa' La Paloma",
       "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Que Te Vaya Mal",
+        "url": "https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kachimba",
+          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
+        }
+      ],
+      "duration_ms": 327253,
+      "name": "Ven a Mi",
+      "url": "https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "El Ritmo Mamalon",
-        "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 193375,
-      "name": "El Ritmo Mamalon",
-      "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "El Angel Del Amor",
         "url": "https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 272471,
       "name": "Te Vas Con El o Te Vas Conmigo",
       "url": "https://open.spotify.com/track/21voFmS2anMlrpB8WR7wgd"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "El Ritmo Mamalon",
+        "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 193375,
+      "name": "El Ritmo Mamalon",
+      "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
-        "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Un Poblano en New York",
-      "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/6kzuObrtfdIgQqWzknrE4q"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 271461,
       "name": "Tu y yo",
       "url": "https://open.spotify.com/track/778AFISUlRVyMbzmASfOBx"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
+        "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Un Poblano en New York",
+      "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
     },
     {
       "added_at": "2022-06-07 22:21:55",

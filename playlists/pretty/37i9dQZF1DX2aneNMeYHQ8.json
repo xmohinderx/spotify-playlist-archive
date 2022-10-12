@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: All Them Witches\n",
-  "num_followers": 460940,
+  "num_followers": 460938,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGY5ZGI1NTY2NGRjZjYxMDE4YzBkYmU2OWNlZThlMjEw",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDIwZGRiYjRjZWZkMmU1MmZlY2I0YzFlZDI5MDU3ZGVk",
   "tracks": [
     {
       "added_at": "2022-08-28 19:10:51",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
     },
     {
-      "added_at": "2022-10-11 01:34:02",
+      "added_at": "2022-10-12 01:48:41",
       "album": {
         "name": "Jersey Girl",
         "url": "https://open.spotify.com/album/5iB2B0iDgHikV3eeBo5dzk"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/57nlJv1i24h7KMcNod0dyZ"
     },
     {
-      "added_at": "2022-10-11 01:34:02",
+      "added_at": "2022-10-12 01:48:41",
       "album": {
         "name": "Tour Death Song",
         "url": "https://open.spotify.com/album/46aV2GOdnc1EGfspj2dC5u"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
     },
     {
-      "added_at": "2022-10-11 01:34:02",
+      "added_at": "2022-10-12 01:48:41",
       "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/2QBXaoVHGTe1R88O3aO1XI"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/32dbM6sFlQmbl4y7nVy9cS"
     },
     {
-      "added_at": "2022-10-11 01:34:02",
+      "added_at": "2022-10-12 01:48:41",
       "album": {
         "name": "Do I Love You (Indeed I Do)",
         "url": "https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
     },
     {
-      "added_at": "2022-10-11 01:34:02",
+      "added_at": "2022-10-12 01:48:41",
       "album": {
         "name": "Human Crime",
         "url": "https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4"
     },
     {
-      "added_at": "2022-10-11 01:34:02",
+      "added_at": "2022-10-12 01:48:41",
       "album": {
         "name": "Stay Out Of It",
         "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
     },
     {
-      "added_at": "2022-10-11 01:34:02",
+      "added_at": "2022-10-12 01:48:41",
       "album": {
         "name": "Blink Twice",
         "url": "https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF"
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Blood Runs Red",
-        "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "Blood Runs Red",
-      "url": "https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Virginia (Wind In The Night)",
         "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Blood Runs Red",
+        "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "Blood Runs Red",
+      "url": "https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 248210,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 241800,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
+        "name": "What's Coming To Me",
+        "url": "https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 214048,
+      "name": "What's Coming To Me",
+      "url": "https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/5wyVzouWjgJhtcBSjrqZiM"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 215186,
       "name": "So Happy It Hurts",
       "url": "https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
-        "name": "What's Coming To Me",
-        "url": "https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 214048,
-      "name": "What's Coming To Me",
-      "url": "https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Love Is Selfish",
-        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "Love Is Selfish",
-      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 218760,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 172885,
+      "name": "Love Is Selfish",
+      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
     },
     {
       "added_at": "2022-08-28 19:10:51",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-08-28 19:10:51",
       "album": {
-        "name": "Cosmic Space Girl",
-        "url": "https://open.spotify.com/album/0BVEfEtSfAIJUwaGV0TS0s"
-      },
-      "artists": [
-        {
-          "name": "The Brummies",
-          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
-        }
-      ],
-      "duration_ms": 175756,
-      "name": "Cosmic Space Girl",
-      "url": "https://open.spotify.com/track/1xBqGwR9WztGLPlzroBDYc"
-    },
-    {
-      "added_at": "2022-08-28 19:10:51",
-      "album": {
         "name": "Can't You See",
         "url": "https://open.spotify.com/album/6AJjWiP7hffkRm6q0ORVX9"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 210499,
       "name": "Can't You See",
       "url": "https://open.spotify.com/track/7CpvqCIiimMVOzFICK5Pxr"
+    },
+    {
+      "added_at": "2022-08-28 19:10:51",
+      "album": {
+        "name": "Cosmic Space Girl",
+        "url": "https://open.spotify.com/album/0BVEfEtSfAIJUwaGV0TS0s"
+      },
+      "artists": [
+        {
+          "name": "The Brummies",
+          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
+        }
+      ],
+      "duration_ms": 175756,
+      "name": "Cosmic Space Girl",
+      "url": "https://open.spotify.com/track/1xBqGwR9WztGLPlzroBDYc"
     },
     {
       "added_at": "2022-08-28 19:10:51",

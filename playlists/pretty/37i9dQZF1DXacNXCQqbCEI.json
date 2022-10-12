@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 324217,
+  "num_followers": 324299,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMGZlMTM2Zjg2NjMxOWNiNGZhN2ZmMGEyNWE1N2ExZTA0",
+  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDM4NmIwZmUzZTQwODg2OGFkYjNkZjJkM2FmY2YzZmUw",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
     },
     {
-      "added_at": "2022-10-11 01:48:27",
+      "added_at": "2022-10-12 02:04:47",
       "album": {
         "name": "El pavo real",
         "url": "https://open.spotify.com/album/1U651FMxGylI8PoQysziz6"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
     },
     {
-      "added_at": "2022-10-11 01:48:27",
+      "added_at": "2022-10-12 02:04:47",
       "album": {
         "name": "Yo-Po-No-Po Prieto Riddiman Remixes",
         "url": "https://open.spotify.com/album/0ahus37xHDFIzFfq7sdzU4"
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Azulejos",
         "url": "https://open.spotify.com/album/3emF9VP0ecSjGEAI2XQ6m0"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 206895,
       "name": "Azul Oro",
       "url": "https://open.spotify.com/track/18XhpMPsd4oeX6lQETPeaU"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Serpiente Dorada",
         "url": "https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Shika Shika Presents Eco",
-        "url": "https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx"
-      },
-      "artists": [
-        {
-          "name": "Di Laif",
-          "url": "https://open.spotify.com/artist/5KEmdf3GZJMTtVb74Klhy1"
-        },
-        {
-          "name": "Maf\u00e9 Tula",
-          "url": "https://open.spotify.com/artist/25YPY0NKDJMmhXXPKzb4OP"
-        }
-      ],
-      "duration_ms": 332830,
-      "name": "Paso Por El Fuego",
-      "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Astral",
         "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 348887,
       "name": "Astral",
       "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Shika Shika Presents Eco",
+        "url": "https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx"
+      },
+      "artists": [
+        {
+          "name": "Di Laif",
+          "url": "https://open.spotify.com/artist/5KEmdf3GZJMTtVb74Klhy1"
+        },
+        {
+          "name": "Maf\u00e9 Tula",
+          "url": "https://open.spotify.com/artist/25YPY0NKDJMmhXXPKzb4OP"
+        }
+      ],
+      "duration_ms": 332830,
+      "name": "Paso Por El Fuego",
+      "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Ahomale",
-        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
-      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Ahomale",
+        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
+      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "A Short Story of the Mahale Mountains",
-        "url": "https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO"
-      },
-      "artists": [
-        {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
-        }
-      ],
-      "duration_ms": 162765,
-      "name": "A Short Story of the Mahale Mountains",
-      "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Desierto",
         "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 173043,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "A Short Story of the Mahale Mountains",
+        "url": "https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "duration_ms": 162765,
+      "name": "A Short Story of the Mahale Mountains",
+      "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

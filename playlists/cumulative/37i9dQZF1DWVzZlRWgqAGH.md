@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Smino, J\. Cole
 
-731 songs - 1 day 19 hr 8 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+732 songs - 1 day 19 hr 12 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Falling Higher](https://open.spotify.com/track/4PnsvxbXokJUKLi3Shuu1P) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Falling Higher](https://open.spotify.com/album/4Pr5IVdzrmGbmWqNP4CRiu) | 3:18 | 2020-04-03 | 2020-06-05 |
 | [Family](https://open.spotify.com/track/4Z445fris6yqDTeu7GWtAR) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Family](https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ) | 3:27 | 2021-07-04 |  |
 | [Fearless](https://open.spotify.com/track/1BiO2H0lYkGwlqvqQGxrq3) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 4:09 | 2021-02-28 | 2022-07-24 |
-| [feather light](https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 3:08 | 2022-07-22 |  |
+| [feather light](https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 3:08 | 2022-07-22 | 2022-10-12 |
 | [feather light](https://open.spotify.com/track/5i9GI8aOr3tJjaWHOG8icj) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [feather light](https://open.spotify.com/album/0X2oaUwKbgpDQyLVclScOU) | 3:08 | 2021-02-13 | 2022-06-15 |
 | [Feel is Real](https://open.spotify.com/track/6gSaXBYylfiF2hl2t3QvrQ) | [URF Tone](https://open.spotify.com/artist/6u8FlGc02hbJsdnVn071UC) | [Feel is Real](https://open.spotify.com/album/5GPjHxuKkGAdDNzMzd0hYs) | 3:25 | 2021-05-23 | 2021-06-20 |
 | [Feel Like Doing Nothing](https://open.spotify.com/track/2kUQyPvQpScTvEi31bXG9h) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Feel Like Doing Nothing](https://open.spotify.com/album/7Ln0bP0xLLpxm43S1beehA) | 2:32 | 2020-08-07 | 2020-09-29 |
@@ -339,6 +339,7 @@
 | [Illjazz](https://open.spotify.com/track/7tB8wL6DdOpAWz7d3ofhR0) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr), [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w) | [Illjazz](https://open.spotify.com/album/7sT0wrwwiPM3lF3UamSAHi) | 3:25 | 2021-03-16 | 2022-07-13 |
 | [In My Head](https://open.spotify.com/track/2FygRDP2PuxcvWGGyf3nao) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [The View / In My Head](https://open.spotify.com/album/0dI9CNhsq619IK9WiXwHDf) | 2:10 | 2019-11-15 | 2020-02-20 |
 | [In This Together](https://open.spotify.com/track/5mt4xXAipOUDUKi3dZABdp) | [SALOMEA](https://open.spotify.com/artist/4AZjwjj65fmJ3MenJaCxel) | [In This Together](https://open.spotify.com/album/7gnn9fntmU6LExbHYdxv4V) | 4:32 | 2020-07-18 | 2020-09-11 |
+| [Insanity \(feat\. Tone Stith\)](https://open.spotify.com/track/5Pm7c0omSn7WEezUtIqnK4) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Didn't Start With You](https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr) | 3:26 | 2022-10-07 |  |
 | [Intoxicated Truth](https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [Intoxicated Truth](https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm) | 2:56 | 2021-05-22 | 2022-09-03 |
 | [Invitation](https://open.spotify.com/track/1g3ZLynDfJ7chTlxlEee8u) | [SALOMEA](https://open.spotify.com/artist/4AZjwjj65fmJ3MenJaCxel) | [Bathing in Flowers](https://open.spotify.com/album/1nDKJoL6WydfPdy48qVWgr) | 4:07 | 2020-09-25 | 2021-05-10 |
 | [Irrational](https://open.spotify.com/track/09m6It4feoA7uVhZxWUcbt) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/6MH9mIU41lFyM7hw7EU17w) | 2:49 | 2020-09-25 | 2021-01-15 |

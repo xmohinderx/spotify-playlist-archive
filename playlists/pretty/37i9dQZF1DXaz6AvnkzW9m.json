@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Fuerza Regida & Snoop Dogg en portada.",
-  "num_followers": 52438,
+  "num_followers": 52544,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAxMDY1NCwwMDAwMDAwMGU2NjQzNTdkODU0ZTJhZmE2ZjM5ZmZjMWY3OGJiY2Vm",
+  "snapshot_id": "MTY2NTAxMDY1NCwwMDAwMDAwMDJmYTc5NDBjMjdjZjlkMDk1ODJmMWUxYTZlNjVlYzFm",
   "tracks": [
     {
       "added_at": "2022-09-27 19:03:52",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/26xQbFpVg8JCT5NKQFJXg8"
     },
     {
-      "added_at": "2021-12-17 06:00:00",
-      "album": {
-        "name": "Lo Prometido Es Deuda Vol.1",
-        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 148561,
-      "name": "A Lo Lejos Me Veran",
-      "url": "https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5"
-    },
-    {
       "added_at": "2022-09-27 19:03:52",
       "album": {
         "name": "La Que Se Fue",
@@ -519,6 +503,22 @@
       "duration_ms": 267706,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
+    },
+    {
+      "added_at": "2021-12-17 06:00:00",
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 148561,
+      "name": "A Lo Lejos Me Veran",
+      "url": "https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5"
     },
     {
       "added_at": "2022-01-25 00:00:59",
@@ -1013,24 +1013,32 @@
       "url": "https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k"
     },
     {
-      "added_at": "2022-09-09 05:00:00",
+      "added_at": "2022-09-07 21:15:16",
       "album": {
-        "name": "El Canelo",
-        "url": "https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU"
+        "name": "PE$OS",
+        "url": "https://open.spotify.com/album/2PeNZmpQfBo02JoH80d8ZG"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Carlos Carrera",
+          "url": "https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX"
         },
         {
-          "name": "Emmanuel Delgado",
-          "url": "https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy"
+          "name": "Pek",
+          "url": "https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
         }
       ],
-      "duration_ms": 158213,
-      "name": "El Canelo",
-      "url": "https://open.spotify.com/track/6QS5NH5nsU6WT5rOc2HMSp"
+      "duration_ms": 185107,
+      "name": "PE$OS",
+      "url": "https://open.spotify.com/track/1I1MPPmQ7dPCTZsIm7LMTf"
     },
     {
       "added_at": "2021-12-17 06:00:00",
@@ -1077,34 +1085,6 @@
       "url": "https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es"
     },
     {
-      "added_at": "2022-09-07 21:15:16",
-      "album": {
-        "name": "PE$OS",
-        "url": "https://open.spotify.com/album/2PeNZmpQfBo02JoH80d8ZG"
-      },
-      "artists": [
-        {
-          "name": "Carlos Carrera",
-          "url": "https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX"
-        },
-        {
-          "name": "Pek",
-          "url": "https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW"
-        },
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 185107,
-      "name": "PE$OS",
-      "url": "https://open.spotify.com/track/1I1MPPmQ7dPCTZsIm7LMTf"
-    },
-    {
       "added_at": "2022-04-01 18:54:28",
       "album": {
         "name": "De A De Veras",
@@ -1139,6 +1119,26 @@
       "duration_ms": 152426,
       "name": "Maryjane y Blancanieves",
       "url": "https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "El Canelo",
+        "url": "https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Emmanuel Delgado",
+          "url": "https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy"
+        }
+      ],
+      "duration_ms": 158213,
+      "name": "El Canelo",
+      "url": "https://open.spotify.com/track/6QS5NH5nsU6WT5rOc2HMSp"
     },
     {
       "added_at": "2022-09-27 19:03:52",

@@ -4,17 +4,18 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-125 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+126 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afyon Dinarı \(Remix\) \[Radio Edit\]](https://open.spotify.com/track/1iz6iEzu6SLEkqXNuUtcsg) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [kahadirbartal](https://open.spotify.com/artist/7GuyqpKIBE1p4krHb0DrzK), [Laruen](https://open.spotify.com/artist/5ZEzzqHOZ2EzYJdhg4tBx3) | [Afyon Dinarı \(Remix\) \[Radio Edit\]](https://open.spotify.com/album/4tGdIZKYYE3NQqQZxwCWgx) | 3:31 | 2022-05-09 | 2022-06-01 |
+| [Agatha \- Calavera & Manya Remix](https://open.spotify.com/track/5i3iYBOnshfvs9v0gwjwzW) | [Nsc](https://open.spotify.com/artist/634YtRDQnLxKrKJUBurK6B), [Ciprian Iordache](https://open.spotify.com/artist/4HgsCYrFaSez39qwd75leN), [Adrian Eftimie](https://open.spotify.com/artist/6wEntiBaR8mQEjbuFHAOWW) | [Agatha](https://open.spotify.com/album/1Nq7QBJAcE1wq0BS79YRs5) | 6:56 | 2022-10-11 |  |
 | [Alesta](https://open.spotify.com/track/70MDy7d6MUnf4EUqpMxzW7) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN) | [Alesta](https://open.spotify.com/album/53Hqt6SONfBWTGzwQi11xI) | 5:56 | 2022-04-13 |  |
 | [Amal](https://open.spotify.com/track/30ChfPsn6LEcXGZPnWG5yh) | [Arrab](https://open.spotify.com/artist/1L0yRmW7xOjMFqed4wtcp3) | [Gardens Of Eden](https://open.spotify.com/album/61068yXj9KdR7pzL36kBia) | 8:45 | 2022-07-21 |  |
 | [Amal](https://open.spotify.com/track/6mbaDJR50wBfd2LuXTKSd2) | [Arrab](https://open.spotify.com/artist/1L0yRmW7xOjMFqed4wtcp3) | [Gardens of Eden](https://open.spotify.com/album/0ht36Zhz7lluBt8vBWJRVZ) | 8:45 | 2022-04-13 | 2022-07-29 |
 | [Aminta \- Scorpios Edit](https://open.spotify.com/track/0l0HvE2nwRsMlsYYv5cAvL) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Aminta](https://open.spotify.com/album/2TK1N038DNKJwM6rNR5775) | 3:31 | 2022-04-13 |  |
 | [Anchor Point](https://open.spotify.com/track/38VyljyWXnVxtYWSiH5Hzc) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Anchor Point EP](https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm) | 5:59 | 2022-06-27 |  |
-| [Ardha Nari Feat\. Sazin](https://open.spotify.com/track/5b8evReWT6yU8Lr6UG70Wx) | [Dizharmonia](https://open.spotify.com/artist/6XJbAjen3yFjZ5NTmDC83h), [Sazin](https://open.spotify.com/artist/7tdcJ2v8H2RG2LCCuQ4gy0) | [Ardha Nari Feat\. Sazin](https://open.spotify.com/album/15uPuwya3uoWhTISJiFQQ0) | 6:02 | 2022-04-13 |  |
+| [Ardha Nari Feat\. Sazin](https://open.spotify.com/track/5b8evReWT6yU8Lr6UG70Wx) | [Dizharmonia](https://open.spotify.com/artist/6XJbAjen3yFjZ5NTmDC83h), [Sazin](https://open.spotify.com/artist/7tdcJ2v8H2RG2LCCuQ4gy0) | [Ardha Nari Feat\. Sazin](https://open.spotify.com/album/15uPuwya3uoWhTISJiFQQ0) | 6:02 | 2022-04-13 | 2022-10-12 |
 | [Asha](https://open.spotify.com/track/2ZmIfaJcHO5GAmyDfJ538p) | [Davuiside](https://open.spotify.com/artist/76f3kykMC0OdbzXU02T1QV) | [Asha](https://open.spotify.com/album/4cPU7fNJq1Ej24LQlSgb1X) | 3:11 | 2022-04-13 | 2022-07-29 |
 | [Asha](https://open.spotify.com/track/2gQmFeK3xvZVVbfdYXftld) | [Davuiside](https://open.spotify.com/artist/76f3kykMC0OdbzXU02T1QV) | [Asha](https://open.spotify.com/album/6kztPrG9kzsEPT9UvQ6tdC) | 3:11 | 2022-07-21 |  |
 | [Aslaf](https://open.spotify.com/track/29kOMrezSzRfTQqj4QhGsk) | [Homeboyz](https://open.spotify.com/artist/6HJOiEmoNQGDSexCsQQooX), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Ifarada](https://open.spotify.com/album/6HAEQocvyO7btHXW1cfBCf) | 6:24 | 2022-04-13 | 2022-09-30 |

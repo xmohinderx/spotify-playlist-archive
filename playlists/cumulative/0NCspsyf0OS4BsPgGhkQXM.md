@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-498 songs - 1 day 2 hr 48 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+499 songs - 1 day 2 hr 51 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Nightmares](https://open.spotify.com/track/6wTNs055Zhho6ngtbxFS2O) | [Kløn](https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc) | [Nightmares](https://open.spotify.com/album/7coKFIZ84uHdwCYjnpzv9h) | 2:14 | 2022-05-13 | 2022-06-18 |
 | [Nirvana](https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [Nirvana](https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK) | 3:15 | 2022-04-01 | 2022-05-18 |
 | [No Blood Left To Bleed \- nøll remix](https://open.spotify.com/track/3FjVfAs4DpnlGrIlCvTLgZ) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL) | [No Blood Left To Bleed Remixes](https://open.spotify.com/album/4EMFI4GaXN48BMfr6m2KwW) | 4:04 | 2022-02-10 | 2022-03-05 |
+| [NO FAVOURS](https://open.spotify.com/track/4wWlaMxGW7nNI2NgoSYBkO) | [ACER SPADE](https://open.spotify.com/artist/6AMCz8h8BXJhZugOwvOtRJ) | [NO FAVOURS](https://open.spotify.com/album/3xERg2Wr4enMFY9poxdOfG) | 3:15 | 2022-10-11 |  |
 | [No Strings](https://open.spotify.com/track/7ySlDUcybvNllQd4WxCvtT) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [No Strings](https://open.spotify.com/album/2pyDFDmWBK3pAPprRqEOw5) | 2:32 | 2022-04-29 | 2022-06-04 |
 | [Nobody's Home](https://open.spotify.com/track/3h0LOPvZ86ToKELOY3wgFh) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Shoshana](https://open.spotify.com/artist/3Mj3E5WO0nwOFzMOW0aC3o) | [Nobody's Home](https://open.spotify.com/album/3Dv9tEnMQdxNZ9lihdYAgE) | 3:25 | 2022-05-06 | 2022-06-04 |
 | [Not Letting Go](https://open.spotify.com/track/7ybW2xuOiUz7CNYn9BCJfQ) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Not Letting Go](https://open.spotify.com/album/3PmTpFfC6pLv98v8CJlUZV) | 3:03 | 2022-06-14 | 2022-07-29 |

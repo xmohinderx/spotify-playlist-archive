@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 114024,
+  "num_followers": 114603,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0MzI4MCwwMDAwMDAwMDZhNDI4NGI1Nzc2M2RkYzIxMGMxZTk0YWYxNzc5OWM5",
+  "snapshot_id": "MTY2NTE0MzI4MCwwMDAwMDAwMGQyMjM1OTAzNWJkMDM5ODZjYTQwZmRhNDYyOTdjOWZm",
   "tracks": [
     {
       "added_at": "2022-09-26 14:30:04",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn"
     },
     {
-      "added_at": "2022-10-11 01:14:13",
+      "added_at": "2022-10-12 01:28:39",
       "album": {
         "name": "The Plug",
         "url": "https://open.spotify.com/album/0yf9wxPXrA8bP1yB4iFpAP"
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-09-26 14:30:04",
       "album": {
+        "name": "Sogno",
+        "url": "https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG"
+      },
+      "artists": [
+        {
+          "name": "Bearded Legend",
+          "url": "https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe"
+        }
+      ],
+      "duration_ms": 106877,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20"
+    },
+    {
+      "added_at": "2022-09-26 14:30:04",
+      "album": {
         "name": "SIMP",
         "url": "https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 180000,
       "name": "SIMP",
       "url": "https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX"
-    },
-    {
-      "added_at": "2022-09-26 14:30:04",
-      "album": {
-        "name": "Sogno",
-        "url": "https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG"
-      },
-      "artists": [
-        {
-          "name": "Bearded Legend",
-          "url": "https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe"
-        }
-      ],
-      "duration_ms": 106877,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20"
     }
   ],
   "unique_name": "LOCKJAW",

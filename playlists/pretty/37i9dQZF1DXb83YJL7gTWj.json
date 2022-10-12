@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 223951,
+  "num_followers": 223999,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0ODkzMiwwMDAwMDAwMDc2ZTNmY2JjNDllYWQwZTlkY2UwZWMyYzhmNDE5YTM2",
+  "snapshot_id": "MTY2NDU0ODkzMiwwMDAwMDAwMDZjOTU5NjhiZDA1NDM1MzA2ODliMWIwZTc4ZDViNjRl",
   "tracks": [
     {
       "added_at": "2022-09-30 14:42:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-09-30 14:42:12",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
-    },
-    {
-      "added_at": "2022-09-30 14:42:12",
-      "album": {
         "name": "end credits",
         "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 248500,
       "name": "end credits",
       "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
+    },
+    {
+      "added_at": "2022-09-30 14:42:12",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
     },
     {
       "added_at": "2022-09-30 14:42:12",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-09-30 14:42:12",
       "album": {
-        "name": "Songs to Break Up To",
-        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 166139,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD"
-    },
-    {
-      "added_at": "2022-09-30 14:42:12",
-      "album": {
         "name": "Fifteen",
         "url": "https://open.spotify.com/album/119HRNCY7xfA3R218gtspV"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 222704,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
+    },
+    {
+      "added_at": "2022-09-30 14:42:12",
+      "album": {
+        "name": "Songs to Break Up To",
+        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 166139,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD"
     },
     {
       "added_at": "2022-09-30 14:42:12",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-09-30 14:42:12",
       "album": {
-        "name": "Prospect",
-        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt"
-    },
-    {
-      "added_at": "2022-09-30 14:42:12",
-      "album": {
         "name": "If I Didn\u2019t Love You",
         "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 246350,
       "name": "If I Didn\u2019t Love You",
       "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
+    },
+    {
+      "added_at": "2022-09-30 14:42:12",
+      "album": {
+        "name": "Prospect",
+        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt"
     },
     {
       "added_at": "2022-09-30 14:42:12",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-09-30 14:42:12",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 201881,
-      "name": "Thank You - Spotify Singles",
-      "url": "https://open.spotify.com/track/7aZYmiZWN7BNsvDX4f1qmn"
-    },
-    {
-      "added_at": "2022-09-30 14:42:12",
-      "album": {
         "name": "Dressed Too Nice For A Jacket",
         "url": "https://open.spotify.com/album/1ziE8y7wGzDY0PDgoDXKwF"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 224502,
       "name": "Save Myself",
       "url": "https://open.spotify.com/track/6QDZlGAY1njNqAdOM6PryZ"
+    },
+    {
+      "added_at": "2022-09-30 14:42:12",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 201881,
+      "name": "Thank You - Spotify Singles",
+      "url": "https://open.spotify.com/track/7aZYmiZWN7BNsvDX4f1qmn"
     }
   ],
   "unique_name": "Chill Dinner",

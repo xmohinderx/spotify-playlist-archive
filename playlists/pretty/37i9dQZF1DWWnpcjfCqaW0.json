@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 228717,
+  "num_followers": 228874,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MzczNSwwMDAwMDAwMGYzYzFkZTM1ZWY5OTQ3MWY2YTNjMzQ4YjA0YmM5ZTI5",
+  "snapshot_id": "MTY1ODY5MzczNSwwMDAwMDAwMDc3ZGU3MjRlNDM4OTg2NzU2NzNiMGUwOWZjMTEyYjJh",
   "tracks": [
     {
       "added_at": "2022-07-24 20:15:35",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
+        "name": "Golden Hits - The World's Most Famous Auctioneer",
+        "url": "https://open.spotify.com/album/3IyHmxJjlrb7doDbGJ14h6"
+      },
+      "artists": [
+        {
+          "name": "Leroy Van Dyke",
+          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "The Auctioneer",
+      "url": "https://open.spotify.com/track/6dlti8kcKyzkkPrnGp7FN7"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
         "name": "Dance To The Bop",
         "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 156306,
       "name": "Be-Bop-A-Lula",
       "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
-        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
-      },
-      "artists": [
-        {
-          "name": "Webb Pierce",
-          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
-        }
-      ],
-      "duration_ms": 113640,
-      "name": "I Ain't Never - Single Version",
-      "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Golden Hits - The World's Most Famous Auctioneer",
-        "url": "https://open.spotify.com/album/3IyHmxJjlrb7doDbGJ14h6"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
+        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
       },
       "artists": [
         {
-          "name": "Leroy Van Dyke",
-          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
+          "name": "Webb Pierce",
+          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
         }
       ],
-      "duration_ms": 168333,
-      "name": "The Auctioneer",
-      "url": "https://open.spotify.com/track/6dlti8kcKyzkkPrnGp7FN7"
+      "duration_ms": 113640,
+      "name": "I Ain't Never - Single Version",
+      "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -863,26 +863,6 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
-        "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Shepard",
-          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
-        },
-        {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "A Dear John Letter",
-      "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
         "name": "Retrospective (Volume 2)",
         "url": "https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 172000,
       "name": "Too Old To Cut The Mustard",
       "url": "https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
+        "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
+        "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+        },
+        {
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "A Dear John Letter",
+      "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "The Best Of Jimmie Rodgers",
-        "url": "https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Rodgers",
-          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
-        }
-      ],
-      "duration_ms": 137106,
-      "name": "Honeycomb",
-      "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 169000,
       "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
       "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
+        "name": "The Best Of Jimmie Rodgers",
+        "url": "https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
+        }
+      ],
+      "duration_ms": 137106,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
+        "name": "The Complete Capitol Hits Of Faron Young",
+        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
       },
       "artists": [
         {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
         }
       ],
-      "duration_ms": 163346,
-      "name": "Cattle Call",
-      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
+      "duration_ms": 142000,
+      "name": "If You Ain't Lovin' (You Ain't Livin')",
+      "url": "https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "The Complete Capitol Hits Of Faron Young",
-        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
       },
       "artists": [
         {
-          "name": "Faron Young",
-          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
         }
       ],
-      "duration_ms": 142000,
-      "name": "If You Ain't Lovin' (You Ain't Livin')",
-      "url": "https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC"
+      "duration_ms": 163346,
+      "name": "Cattle Call",
+      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
     },
     {
       "added_at": "2022-07-24 20:15:35",

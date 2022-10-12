@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 53380,
+  "num_followers": 53420,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMxNTQ5NCwwMDAwMDAwMDVjZGFmYzQ1ZmJkNDA2MDE3Nzg2NzYwN2EwNTg0ZWIx",
+  "snapshot_id": "MTY2MzMxNTQ5NCwwMDAwMDAwMGYyOWI0MjBjMjlkMzIzMGRhOGE1ZGQyNWI4MjhmZjVi",
   "tracks": [
     {
       "added_at": "2022-09-16 08:04:53",
@@ -347,18 +347,18 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "The Big Beat (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
+        "name": "Goin' Up",
+        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 385573,
-      "name": "Lester Left Town - Remastered 2005",
-      "url": "https://open.spotify.com/track/2gezUgQGPcgKwReH1Wb87V"
+      "duration_ms": 419600,
+      "name": "Blues For Brenda - 1997 Remastered",
+      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "Goin' Up",
-        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
+        "name": "The Big Beat (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 419600,
-      "name": "Blues For Brenda - 1997 Remastered",
-      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
+      "duration_ms": 385573,
+      "name": "Lester Left Town - Remastered 2005",
+      "url": "https://open.spotify.com/track/2gezUgQGPcgKwReH1Wb87V"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -551,8 +551,8 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
+        "name": "The Turnaround",
+        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
       },
       "artists": [
         {
@@ -560,9 +560,25 @@
           "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 511853,
-      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
+      "duration_ms": 404213,
+      "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
+    },
+    {
+      "added_at": "2022-09-16 08:04:53",
+      "album": {
+        "name": "Bluesnik (Remastered/ Expanded Edition)",
+        "url": "https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 439693,
+      "name": "Blues Function - Rudy Van Gelder Edition/2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -579,22 +595,6 @@
       "duration_ms": 483293,
       "name": "Back To The Tracks",
       "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
-    },
-    {
-      "added_at": "2022-09-16 08:04:53",
-      "album": {
-        "name": "Hootin' 'N Tootin'",
-        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
-      },
-      "artists": [
-        {
-          "name": "Fred Jackson",
-          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Dippin' In The Bag",
-      "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -631,8 +631,8 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "The Turnaround",
-        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
       "artists": [
         {
@@ -640,9 +640,25 @@
           "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 404213,
-      "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
+      "duration_ms": 511853,
+      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
+    },
+    {
+      "added_at": "2022-09-16 08:04:53",
+      "album": {
+        "name": "Hootin' 'N Tootin'",
+        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
+      },
+      "artists": [
+        {
+          "name": "Fred Jackson",
+          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Dippin' In The Bag",
+      "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -667,18 +683,18 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "Bluesnik (Remastered/ Expanded Edition)",
-        "url": "https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW"
+        "name": "The Magnificent Thad Jones (Remastered)",
+        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
         }
       ],
-      "duration_ms": 439693,
-      "name": "Blues Function - Rudy Van Gelder Edition/2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg"
+      "duration_ms": 447173,
+      "name": "If I Love Again - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -699,24 +715,8 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "The Magnificent Thad Jones (Remastered)",
-        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
-      },
-      "artists": [
-        {
-          "name": "Thad Jones",
-          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
-        }
-      ],
-      "duration_ms": 447173,
-      "name": "If I Love Again - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw"
-    },
-    {
-      "added_at": "2022-09-16 08:04:53",
-      "album": {
-        "name": "Sonic Boom",
-        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
+        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
+        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 328800,
-      "name": "Mumbo Jumbo",
-      "url": "https://open.spotify.com/track/2k5QlnGxJ0tsAWCRXs5Gag"
+      "duration_ms": 304453,
+      "name": "The Joker - Remastered",
+      "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
+        "name": "Like Someone In Love",
+        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 552000,
+      "name": "Johnny's Blue",
+      "url": "https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ"
+    },
+    {
+      "added_at": "2022-09-16 08:04:53",
+      "album": {
         "name": "Six Pieces Of Silver",
         "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 265893,
       "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
-    },
-    {
-      "added_at": "2022-09-16 08:04:53",
-      "album": {
-        "name": "Boss Tenor",
-        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 507933,
-      "name": "Hittin' The Jug - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -827,24 +827,24 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "Like Someone In Love",
-        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
+        "name": "Boss Tenor",
+        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
         }
       ],
-      "duration_ms": 552000,
-      "name": "Johnny's Blue",
-      "url": "https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ"
+      "duration_ms": 507933,
+      "name": "Hittin' The Jug - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5"
     },
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
-        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 304453,
-      "name": "The Joker - Remastered",
-      "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
+      "duration_ms": 328800,
+      "name": "Mumbo Jumbo",
+      "url": "https://open.spotify.com/track/2k5QlnGxJ0tsAWCRXs5Gag"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
+        "name": "A Fickle Sonance",
+        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 376666,
-      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
+      "duration_ms": 294893,
+      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "A Fickle Sonance",
-        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
+        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 294893,
-      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
+      "duration_ms": 376666,
+      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
     },
     {
       "added_at": "2022-09-16 08:04:53",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-09-16 08:04:53",
       "album": {
-        "name": "Hootin' 'N Tootin'",
-        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
-      },
-      "artists": [
-        {
-          "name": "Fred Jackson",
-          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
-        }
-      ],
-      "duration_ms": 345466,
-      "name": "Preach Brother",
-      "url": "https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v"
-    },
-    {
-      "added_at": "2022-09-16 08:04:53",
-      "album": {
         "name": "Introducing Kenny Burrell: The First Blue Note Sessions",
         "url": "https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 488000,
       "name": "Blues For Skeeter - Remastered 2000",
       "url": "https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx"
+    },
+    {
+      "added_at": "2022-09-16 08:04:53",
+      "album": {
+        "name": "Hootin' 'N Tootin'",
+        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
+      },
+      "artists": [
+        {
+          "name": "Fred Jackson",
+          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
+        }
+      ],
+      "duration_ms": 345466,
+      "name": "Preach Brother",
+      "url": "https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v"
     },
     {
       "added_at": "2022-09-16 08:04:53",

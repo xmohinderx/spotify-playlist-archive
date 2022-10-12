@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,311 likes - 31 songs - 1 hr 42 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,312 likes - 31 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 7 | [Afrikaa](https://open.spotify.com/track/2NTrfGXcS2zhrAXsm0gDGz) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Afrikaa](https://open.spotify.com/album/57n7DbBFBEbqcXQ22xBfrK) | 3:04 |
 | 8 | [Faith](https://open.spotify.com/track/57dugDhkdfcCCaNlXbrKz3) | [David Herrlich](https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj) | [Faith](https://open.spotify.com/album/2NClHY8Ch8vrBu0CrTDTfo) | 3:02 |
 | 9 | [Poppa \- Radio Edit](https://open.spotify.com/track/5YiKBHa81wWIvCfUG9EsGW) | [Lowdown](https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO) | [Poppa](https://open.spotify.com/album/4O2SoTP6uiOIVIynyjis5m) | 3:19 |
-| 10 | [That Feeling \(feat\. Karen Harding\)](https://open.spotify.com/track/4nTj9uSRpyhHWGaeZRUeqQ) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Without U](https://open.spotify.com/album/4XGZu2GMoCpvUPUyXUodAq) | 2:46 |
+| 10 | [That Feeling](https://open.spotify.com/track/4nTj9uSRpyhHWGaeZRUeqQ) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Without U](https://open.spotify.com/album/4XGZu2GMoCpvUPUyXUodAq) | 2:46 |
 | 11 | [Closure](https://open.spotify.com/track/6CbF0vC9Q3SpDr2mef8CEg) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Modern Lover](https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35) | [Closure](https://open.spotify.com/album/786HhTtWDWP4IxVw1JwWG4) | 3:24 |
 | 12 | [Hungry \(For Love\)](https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Hungry \(For Love\)](https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA) | 2:09 |
-| 13 | [FIRE ON MY FEET](https://open.spotify.com/track/126A71xdNotkAXGSZhtgKD) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Jaxx Inc.](https://open.spotify.com/artist/24GbqXC3O6yyfHbEhRdepf) | [FIRE ON MY FEET](https://open.spotify.com/album/7eGT3dSbXAQiY7Ufq5LCRN) | 2:59 |
+| 13 | [Fire On My Feet](https://open.spotify.com/track/126A71xdNotkAXGSZhtgKD) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Jaxx Inc.](https://open.spotify.com/artist/24GbqXC3O6yyfHbEhRdepf) | [Fire On My Feet](https://open.spotify.com/album/7eGT3dSbXAQiY7Ufq5LCRN) | 2:59 |
 | 14 | [Papi](https://open.spotify.com/track/0ku6jfwJvvtXgoZcpubwy7) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Papi](https://open.spotify.com/album/7FWsxMMsncsXOGM2inA8xY) | 2:53 |
 | 15 | [Money Money](https://open.spotify.com/track/5CnQJBQJ316hhjvC4JFV5g) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2) | [Money Money](https://open.spotify.com/album/7jUDsNEBOn91hqgKUkPoyh) | 3:34 |
 | 16 | [Paranoid](https://open.spotify.com/track/1mgTKabm2LbaTW3TipyFQl) | [Taf Athorik](https://open.spotify.com/artist/1NtvUAc3VxaD0WPbBjrdhC), [ZDX](https://open.spotify.com/artist/47nioEb6pIp7utNqQ9UqzA) | [Paranoid](https://open.spotify.com/album/5ckYy3kDY16UdM2ovvvD0a) | 2:47 |

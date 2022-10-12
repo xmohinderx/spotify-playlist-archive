@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Grupo Niche en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,950 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,970 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 8 | [Trato de Olvidarte](https://open.spotify.com/track/7qlNg7nyyrU4weeD7GVfO6) | [Alex Tisien](https://open.spotify.com/artist/2bPiMXabGAZUTZvXdsIMnb), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Trato de Olvidarte](https://open.spotify.com/album/2Q92KYVBNsiMIG4Zkgnzxb) | 2:41 |
 | 9 | [Colgando en Tus Manos](https://open.spotify.com/track/1llvNRhsR4V1jiE3xuW3A6) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs), [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Colgando en Tus Manos](https://open.spotify.com/album/4dGg2Vw5VeO3YxfwQEDzvn) | 3:16 |
 | 10 | [Piano y Voz Session \#5 Loco por Vernos / Esposa Mia](https://open.spotify.com/track/2IjoTZZN5eMPYL3mlICKXa) | [Dogman](https://open.spotify.com/artist/1TmORujZJoyPaXb0wuGm9i), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Piano y Voz Session \#5 Loco por Vernos / Esposa Mia](https://open.spotify.com/album/3YzYVVi4C1dIstpojrR5s8) | 2:46 |
-| 11 | [La Peruana](https://open.spotify.com/track/3GwmnvymwiVxTQ02d1wWB1) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [La Peruana](https://open.spotify.com/album/69yHTiNzBYqJVtzYj1fOT1) | 3:52 |
+| 11 | [La Peruana](https://open.spotify.com/track/3GwmnvymwiVxTQ02d1wWB1) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Peruana](https://open.spotify.com/album/69yHTiNzBYqJVtzYj1fOT1) | 3:52 |
 | 12 | [Sed de Amor](https://open.spotify.com/track/6AH81ja5RuNeKYg5Q6BL2Y) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Sed de Amor](https://open.spotify.com/album/3AQgECZgTYBBHacBmjyRjl) | 4:15 |
 | 13 | [La Noche Perfecta](https://open.spotify.com/track/4Yccmk9UxVUmRGW2TNqzM7) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [La Noche Perfecta](https://open.spotify.com/album/7ecLf1bONlgQzP3tkPeuP2) | 2:38 |
 | 14 | [Fue Un Error](https://open.spotify.com/track/4MMei23C6Mryv4ZVTHvwCC) | [Grupo Kachimba](https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS) | [Fue Un Error](https://open.spotify.com/album/3MZXsgDlvOGIcfmpMezuW5) | 4:57 |

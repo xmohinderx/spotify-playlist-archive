@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Raggen måste gå!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,627 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,692 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 75 | [RAGGA EPA](https://open.spotify.com/track/3tbpPTVJTgP3mpiaPi44nk) | [DVNK1](https://open.spotify.com/artist/2gWdRg5BQjgmf4Y6XDliQU) | [RAGGA EPA](https://open.spotify.com/album/60Le7eq3LYmPEonmTSzbni) | 2:24 |
 | 76 | [EPA\-traktor](https://open.spotify.com/track/2NAcY56gJIBsSWXNr8vAyH) | [Kitok](https://open.spotify.com/artist/1PcWAfzz0pTRP7GxaBDvo4), [Radloff](https://open.spotify.com/artist/2V5uS5LxgZH3ZZzTiJsItM) | [EPA\-traktor](https://open.spotify.com/album/0tAvxjf2k9ZKB00pTsA5SJ) | 3:40 |
 | 77 | [Melocoton \(The Donka Donk Song\)](https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Melocoton \(The Donka Donk Song\)](https://open.spotify.com/album/7eYzzr5h4LfeiZlrkBNTRi) | 2:22 |
-| 78 | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/track/7BRG1uU2WiaFXDLnniCfjd) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/album/7AowFzSGAy33pR1GpuJ5WO) | 2:36 |
+| 78 | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/track/4YvNeLs07cxgKcsVtxDXBu) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/album/0eGf6UvidEOq5uzdKzWvr4) | 2:36 |
 | 79 | [Rosa Helikopter](https://open.spotify.com/track/3gFZAe1VQ5GRApXr3xmGMN) | [bby](https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N), [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu) | [Rosa Helikopter](https://open.spotify.com/album/38uIobGm6L71qAXqvL0AhM) | 2:35 |
 | 80 | [MDMA](https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [MDMA](https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G) | 2:08 |
 | 81 | [VIP](https://open.spotify.com/track/58QoOmzoDZWkvFHaMyH0l7) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [VIP](https://open.spotify.com/album/57My92fAkm8NMlXI5y8s9x) | 2:30 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 84 | [Bra vibbar \(Bra vibrationer\)](https://open.spotify.com/track/3lyMZcBpWuTYyxh8h3w5HL) | [Evert Mob](https://open.spotify.com/artist/6Rr1cWqaDnXGUHGTMAh8nN) | [Bra vibbar \(Bra vibrationer\)](https://open.spotify.com/album/6rE7ym79R5z61jT6mKz6Me) | 2:39 |
 | 85 | [Swag I Skogen](https://open.spotify.com/track/3q6E4ZZuniImCnCEl4FEMT) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Alejandro Fuentes\-Bergström](https://open.spotify.com/artist/4ZcUfX9lqXaMAi2srrNGZw) | [SKIP RATE](https://open.spotify.com/album/2hKj6AcrrU12eJ5JiYU1H2) | 2:48 |
 | 86 | [Fakk Min X](https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Fakk Min X](https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ) | 1:51 |
-| 87 | [På Disco](https://open.spotify.com/track/1gSWpgu8H58SQ8Ck5D3M6Z) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [På Disco](https://open.spotify.com/album/1wEfywTG7i21IyYpFrznYf) | 2:10 |
+| 87 | [På Disco](https://open.spotify.com/track/0I9zmUwqYAR4nqEb7uljMC) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [På Disco](https://open.spotify.com/album/1rP3Rd0Pnxp4mOdWefFjFY) | 2:10 |
 | 88 | [SOMMARKÅT](https://open.spotify.com/track/3yZxrABRefj5Wp9iq6DeGl) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [SOMMARKÅT](https://open.spotify.com/album/3nHqS01Sd7dd3KP57BCbNS) | 2:27 |
 | 89 | [Stars](https://open.spotify.com/track/3idUYqiQxu2fexKeOg9TR7) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo) | [Stars](https://open.spotify.com/album/5ViwRoAd6CfW1Jw3aQ6mUp) | 2:27 |
 | 90 | [På bygda](https://open.spotify.com/track/3FS7XR25pAvL370wQ0soAx) | [Discocrew](https://open.spotify.com/artist/2KegmlK6WXqdlAGklMnQeV) | [På bygda](https://open.spotify.com/album/4PqryGxQ8BA0KzL0AqwOxl) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Gasen i botten](https://open.spotify.com/track/4oDtrm4m6Op3krgnZmgg6c) | [Eddie Meduza](https://open.spotify.com/artist/3cMEiDsx9VpGvF71hUGswS) | [En jävla massa hits](https://open.spotify.com/album/61YtIcx4S60zeiYe45rqgG) | 3:20 |
 | 100 | [JAG VILL SUPA](https://open.spotify.com/track/4o7sIxm5dJeK1rY7Nft54F) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [JAG VILL SUPA](https://open.spotify.com/album/08p4RiVUZqpmrPV2sY1SmJ) | 2:18 |
 
-Snapshot ID: `MTY2NTQzNjQzNywwMDAwMDAwMGIxNmMwZGM2MGYxNWJjZGZiMTEwMWEzZTQ0MGE4Y2I5`
+Snapshot ID: `MTY2NTQzNjQzNywwMDAwMDAwMGViZWMwMGQ2MzE3Yjc4YWVhNGYxMTJmOGJmOTMyNDU3`

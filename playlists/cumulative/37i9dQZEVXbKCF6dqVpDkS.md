@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-761 songs - 1 day 15 hr 42 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+762 songs - 1 day 15 hr 45 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [MIJ ZIJN](https://open.spotify.com/track/0vxrr6DoV0k1xoM0rX3b2q) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [MIJ ZIJN](https://open.spotify.com/album/46zQHhhOG0BqZ3t0HBcn22) | 3:18 | 2022-02-12 | 2022-02-27 |
 | [MIJ ZIJN](https://open.spotify.com/track/5EGFR2wHMboCeQHWaEbjlM) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [PRIX D'AMI](https://open.spotify.com/album/7Jxzu0TIVcjqKghPNiyUGd) | 3:18 | 2022-02-26 | 2022-03-04 |
 | [Mijn Kleine Presidentje](https://open.spotify.com/track/5Vrrxddu2CDh1wfysRPZJZ) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Mijn Kleine Presidentje](https://open.spotify.com/album/5lwBvsRmcXhtIVVWQFqDJh) | 3:22 | 2022-03-29 | 2022-05-08 |
+| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-11 |  |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-12 | 2021-12-29 |
 | [MOES MONTANA](https://open.spotify.com/track/2mOhQxFj1I5NB9cGZMhZLl) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [PRIX D'AMI](https://open.spotify.com/album/7Jxzu0TIVcjqKghPNiyUGd) | 2:33 | 2022-02-26 | 2022-03-05 |
 | [Monaco](https://open.spotify.com/track/43ZTCU7w4d9JUOCT7JSdm4) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Monaco](https://open.spotify.com/album/7GRX6iKOaD0fJ8V3m43JpX) | 3:05 | 2022-01-29 | 2022-02-20 |
@@ -531,7 +532,7 @@
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
 | [Okee Shordy](https://open.spotify.com/track/47AUY6Kl6iiuSzZbOgwGF9) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Okee Shordy](https://open.spotify.com/album/3U0lv1cCRjEfiRAplhaqgw) | 2:30 | 2022-03-05 | 2022-03-27 |
 | [Okee Shordy](https://open.spotify.com/track/4RCKxit6c2kl7dwJPKT3hc) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Trobi On The Beat](https://open.spotify.com/album/2YUxS2Myez0IoHfJbIQot8) | 2:30 | 2022-03-26 | 2022-08-23 |
-| [Olivia](https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw) | 2:27 | 2022-06-16 |  |
+| [Olivia](https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw) | 2:27 | 2022-06-16 | 2022-10-12 |
 | [Olivia](https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/7KRMWbRSpFfyBqvkrHegWw) | 2:27 | 2022-06-04 | 2022-06-17 |
 | [On Me](https://open.spotify.com/track/6GYCNMMsdaJsLIbNfzLqOR) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [On Me](https://open.spotify.com/album/24XZxvtMIk9AKH2AikooFN) | 2:17 | 2022-06-11 | 2022-06-19 |
 | [Onderweg Naar Later](https://open.spotify.com/track/0MOlJGoax7nQOTUFrAdDou) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Onderweg Naar Later](https://open.spotify.com/album/7HeQ8ha8PXB1IUeJrLJmz7) | 2:57 | 2021-07-11 | 2021-10-31 |

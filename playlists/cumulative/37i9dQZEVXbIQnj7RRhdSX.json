@@ -4327,7 +4327,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 230922,
       "name": "CRUDELIA - I nervi",
       "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
@@ -6311,6 +6311,32 @@
       "duration_ms": 145846,
       "name": "FEDE E SPERANZA \u2013 with Speranza",
       "url": "https://open.spotify.com/track/4rl8rK1ho0EwAxIk4VcD8p"
+    },
+    {
+      "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        },
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200213,
+      "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
     },
     {
       "album": {
@@ -9319,7 +9345,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 187862,
       "name": "LA DOLCE VITA",
       "url": "https://open.spotify.com/track/6B71WVOLfVTc038J4ZAHK0"
@@ -18319,7 +18345,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 172000,
       "name": "Tropicana (feat. Annalisa)",
       "url": "https://open.spotify.com/track/3YjriLRvztHSDJOZRTTiQz"

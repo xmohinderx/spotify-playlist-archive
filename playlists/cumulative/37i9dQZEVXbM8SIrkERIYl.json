@@ -2857,7 +2857,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 232520,
       "name": "Don\u2019t Forget Your Roots",
       "url": "https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB"
@@ -4461,6 +4461,24 @@
       "duration_ms": 234761,
       "name": "Halley's Comet",
       "url": "https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv"
+    },
+    {
+      "album": {
+        "name": "Castle St",
+        "url": "https://open.spotify.com/album/125p0A4W0x8v6T7ZNHSWrz"
+      },
+      "artists": [
+        {
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162078,
+      "name": "Hang On",
+      "url": "https://open.spotify.com/track/7wV4w339UJiED03pVsk5Kw"
     },
     {
       "album": {
@@ -7708,6 +7726,28 @@
     },
     {
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
@@ -10657,7 +10697,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"

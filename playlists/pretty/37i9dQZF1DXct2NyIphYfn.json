@@ -1,12 +1,12 @@
 {
   "description": "Some of the most beautiful French love songs. ",
-  "num_followers": 53921,
+  "num_followers": 53966,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMGVlNDEzZWY2YzZhYmVhMWIyNTRiYTBiZThiNDRjYzQz",
+  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDM0ZjFjNjgzZTQ4MTY2MzAxMzdlZWE2ZjUwZDJiZmIx",
   "tracks": [
     {
       "added_at": "2022-01-18 23:00:02",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp"
     },
     {
-      "added_at": "2022-01-18 23:00:02",
-      "album": {
-        "name": "De L' Amour Le Mieux",
-        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
-      },
-      "artists": [
-        {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Tu trouveras",
-      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
-    },
-    {
       "added_at": "2021-01-30 03:13:15",
       "album": {
         "name": "Where's My Love",
@@ -487,6 +471,22 @@
       "duration_ms": 247826,
       "name": "Where's My Love - French Version",
       "url": "https://open.spotify.com/track/11xs8VwgHHIQqz3dbyEcLS"
+    },
+    {
+      "added_at": "2022-01-18 23:00:02",
+      "album": {
+        "name": "De L' Amour Le Mieux",
+        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Tu trouveras",
+      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
     },
     {
       "added_at": "2022-01-18 23:00:02",

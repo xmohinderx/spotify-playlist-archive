@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123880,
+  "num_followers": 123876,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDExYzVlMjMzOGQzY2VmZTk5MTRmNDQ0ODJmYjg4OTcz",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDk0YjQzZjFkODNiOWNhMjEwNmZkNzMzZDdkNTE2YTMy",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Sereno",
         "url": "https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 291440,
       "name": "Morena m\u00eda",
       "url": "https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "J.Lo",
-        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Love Don't Cost a Thing",
-      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Iluminatti",
         "url": "https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO"
       },
@@ -651,26 +635,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "S\u00f3lo Qu\u00e9date En Silencio",
-        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "ESTILAZO",
         "url": "https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t"
       },
@@ -687,6 +651,42 @@
       "duration_ms": 158826,
       "name": "ESTILAZO",
       "url": "https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Love Don't Cost a Thing",
+      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Mi Buen Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 146786,
       "name": "En El Olvido",
       "url": "https://open.spotify.com/track/46j76ZoimljoNL55h26U70"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 262973,
+      "name": "Mi Buen Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -891,22 +891,6 @@
       "duration_ms": 252221,
       "name": "Castillos de arena",
       "url": "https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Paradinha",
-        "url": "https://open.spotify.com/album/04BnICBN8E59qwuAPfA9pa"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 141316,
-      "name": "Paradinha",
-      "url": "https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Paradinha",
+        "url": "https://open.spotify.com/album/04BnICBN8E59qwuAPfA9pa"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 141316,
+      "name": "Paradinha",
+      "url": "https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173255,
-      "name": "I'd Rather Have Sex",
-      "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 177564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173255,
+      "name": "I'd Rather Have Sex",
+      "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "EL PEOR",
-        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "EL PEOR",
-      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/0KA7zuPdvHyYxfHPS4tvLe"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 232466,
       "name": "Grande",
       "url": "https://open.spotify.com/track/0DhGX4TE274nIY837mnMoX"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "EL PEOR",
+        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "EL PEOR",
+      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Monstruo",
+        "url": "https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 154013,
+      "name": "Aqu\u00ed Estoy",
+      "url": "https://open.spotify.com/track/465cCQFJkrfroDREqB7sej"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "La Gran Esfera",
         "url": "https://open.spotify.com/album/5f1cJH6cg1uxKKkQDPOfvh"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 140742,
       "name": "Mequetrefe",
       "url": "https://open.spotify.com/track/6RJiY28t9jWpdy1JkUhNgK"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Monstruo",
-        "url": "https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 154013,
-      "name": "Aqu\u00ed Estoy",
-      "url": "https://open.spotify.com/track/465cCQFJkrfroDREqB7sej"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "D.I.V.A",
-        "url": "https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh"
-      },
-      "artists": [
-        {
-          "name": "La Divaza",
-          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "D.I.V.A",
-      "url": "https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Feeling Good (Pauza Remix)",
         "url": "https://open.spotify.com/album/7EOBTLrvjTNFnD5Oil88v1"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 233067,
       "name": "Feeling Good - PAUZA Radio Edit",
       "url": "https://open.spotify.com/track/5oNSpfaT705A7eciOOdNk1"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "D.I.V.A",
+        "url": "https://open.spotify.com/album/3XgtO4AI9o0PAO88WFcDwh"
+      },
+      "artists": [
+        {
+          "name": "La Divaza",
+          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "D.I.V.A",
+      "url": "https://open.spotify.com/track/3nvivXDY8cGXwLncIkOCYw"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Amor, Locura & Otros Vicios",
-        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Sorpresa",
-      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "P\u00e1jaro Malo",
         "url": "https://open.spotify.com/album/2xZv0ov3TVEDQMfBxugoo9"
       },
@@ -2599,18 +2583,38 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Cocaino",
-        "url": "https://open.spotify.com/album/6JBmwp8Kx38Pzj2YgABAoh"
+        "name": "Amor, Locura & Otros Vicios",
+        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
       },
       "artists": [
         {
-          "name": "Nomi Ruiz",
-          "url": "https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM"
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
         }
       ],
-      "duration_ms": 232197,
-      "name": "Cocaino",
-      "url": "https://open.spotify.com/track/3IhSU4z3ddjQWqFaTivzbo"
+      "duration_ms": 168640,
+      "name": "Sorpresa",
+      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "cambiarte",
+        "url": "https://open.spotify.com/album/0PuUNo37BZ2P0M0ajTo0GG"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 163783,
+      "name": "cambiarte",
+      "url": "https://open.spotify.com/track/4WnGtjG4gnE49sXLBJbiHN"
     }
   ],
   "unique_name": "Latin Pride",

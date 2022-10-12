@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,704 likes - 50 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,727 likes - 50 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 27 | [No Podrás Escapar de Mí \- En Vivo](https://open.spotify.com/track/7HJL1P3DPHYYtR0wI7X2BK) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:04 |
 | 28 | [A Pesar del Tiempo \- Live](https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Mickey Taveras \(Live\)](https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC) | 4:56 |
 | 29 | [Anacaona \- Live](https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 7:15 |
-| 30 | [Agua que Cae del Cielo \(Lluvia\) \(feat\. Willie Rosario\) \- En Vivo desde Puerto Rico](https://open.spotify.com/track/39XBzvG6sBfwvNvhfD7bpA) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [40..\. y Contando \(En Vivo Desde Puerto Rico\)](https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp) | 7:22 |
+| 30 | [Vivir Sin Ella \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/5uXxRpu20m2smwEsL1BTvj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 8:37 |
 | 31 | [Sueño Contigo \- En Vivo](https://open.spotify.com/track/5BrPoD09caqS2vjKc8TNgQ) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Íntimamente Salsero \(En Vivo\)](https://open.spotify.com/album/1gRHLe75BJK2tqAbaSL30w) | 4:58 |
 | 32 | [Valió La Pena \(feat\. Jose Alberto "El Canario", Cheo Feliciano, Andy Montañez & Nora\) \- Live Version](https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Nora](https://open.spotify.com/artist/2pH0QIWh7UyhPZHit7eCQG) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
 | 33 | [Juanito Alimaña \- Live](https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 8:42 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 44 | [Tu Loco, Loco, Y Yo Tranquilo](https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1) | [Roberto Roena](https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB) | [En Vivo Desde Bellas Artes](https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs) | 4:38 |
 | 45 | [Descarga Fania \- Live](https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 9:17 |
 | 46 | [Pedro Navaja \- Live](https://open.spotify.com/track/02JsgAcJTmrN9RXWjjhjH5) | [Ruben Blades y Seis del Solar](https://open.spotify.com/artist/0Rx4tJspA1e5V2TZFzy0d5) | [Todos Vuelven Live, Vol\. 2](https://open.spotify.com/album/1hFypiuMxAkEGse2l0JdsY) | 8:09 |
-| 47 | [Hazme Olvidarla \- En Vivo](https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:32 |
-| 48 | [Señor Sereno \- En Vivo](https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Ismael Miranda \(En Vivo\)](https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk) | 5:30 |
+| 47 | [Señor Sereno \- En Vivo](https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Ismael Miranda \(En Vivo\)](https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk) | 5:30 |
+| 48 | [Hazme Olvidarla \- En Vivo](https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:32 |
 | 49 | [El Cantante \- Live](https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 2:57 |
 | 50 | [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 |
 
-Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDgzN2UwODAyZjJhMWQwOGI0ZWE3OGJhZTkxMTZjYWRj`
+Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMGVkNGZmNTY2MmUwMDk1NGRmY2E5Y2MzNjAyMTM4MTQ4`

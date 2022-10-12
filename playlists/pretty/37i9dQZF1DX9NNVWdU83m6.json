@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 29353,
+  "num_followers": 29397,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDM2ZmI2NDJhMjRiNDZlYTUyZjliMzZjODQxODhkNDZi",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGVkYmFjMmUwMDhlYmU2NGMwYWU5MDg2MGU3YWNjZWNh",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -109,20 +109,20 @@
       "url": "https://open.spotify.com/track/6nz7H9YLI6TYGo3riLJBaR"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
+      "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Batch",
-        "url": "https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo"
+        "name": "Flowerbed",
+        "url": "https://open.spotify.com/album/3DsReWnVOFEXkLNmAlHJr1"
       },
       "artists": [
         {
-          "name": "FORQ",
-          "url": "https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1"
+          "name": "Waldo's Gift",
+          "url": "https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb"
         }
       ],
-      "duration_ms": 374652,
-      "name": "Lymaks",
-      "url": "https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz"
+      "duration_ms": 266535,
+      "name": "Flowerbed",
+      "url": "https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "You Know What...?",
-        "url": "https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw"
+        "name": "Batch",
+        "url": "https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo"
       },
       "artists": [
         {
-          "name": "The Aristocrats",
-          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
+          "name": "FORQ",
+          "url": "https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1"
         }
       ],
-      "duration_ms": 416720,
-      "name": "Spanish Eddie",
-      "url": "https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt"
+      "duration_ms": 374652,
+      "name": "Lymaks",
+      "url": "https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -191,6 +191,22 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
+        "name": "You Know What...?",
+        "url": "https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw"
+      },
+      "artists": [
+        {
+          "name": "The Aristocrats",
+          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
+        }
+      ],
+      "duration_ms": 416720,
+      "name": "Spanish Eddie",
+      "url": "https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
         "name": "Extraction",
         "url": "https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT"
       },
@@ -211,30 +227,6 @@
       "duration_ms": 373813,
       "name": "Extraction",
       "url": "https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Flight of the Murder Hornet",
-        "url": "https://open.spotify.com/album/21M84J17hsuB505XLw2w9W"
-      },
-      "artists": [
-        {
-          "name": "Brady Watt",
-          "url": "https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y"
-        },
-        {
-          "name": "Carlos Homs",
-          "url": "https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx"
-        },
-        {
-          "name": "Lenny \"The Ox\" Reece",
-          "url": "https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk"
-        }
-      ],
-      "duration_ms": 233523,
-      "name": "Flight of the Murder Hornet",
-      "url": "https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -259,6 +251,30 @@
       "duration_ms": 207625,
       "name": "U.T.F.F.",
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Flight of the Murder Hornet",
+        "url": "https://open.spotify.com/album/21M84J17hsuB505XLw2w9W"
+      },
+      "artists": [
+        {
+          "name": "Brady Watt",
+          "url": "https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y"
+        },
+        {
+          "name": "Carlos Homs",
+          "url": "https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx"
+        },
+        {
+          "name": "Lenny \"The Ox\" Reece",
+          "url": "https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk"
+        }
+      ],
+      "duration_ms": 233523,
+      "name": "Flight of the Murder Hornet",
+      "url": "https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -291,22 +307,6 @@
       "duration_ms": 363554,
       "name": "Badeep",
       "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Flowerbed",
-        "url": "https://open.spotify.com/album/3DsReWnVOFEXkLNmAlHJr1"
-      },
-      "artists": [
-        {
-          "name": "Waldo's Gift",
-          "url": "https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb"
-        }
-      ],
-      "duration_ms": 266535,
-      "name": "Flowerbed",
-      "url": "https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Krokofant III",
-        "url": "https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG"
-      },
-      "artists": [
-        {
-          "name": "Krokofant",
-          "url": "https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy"
-        }
-      ],
-      "duration_ms": 404960,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "Bundles (Remastered And Expanded Edition)",
         "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 557933,
       "name": "Hazard Profile, Pt. 1 - 2022 Remaster",
       "url": "https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Krokofant III",
+        "url": "https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG"
+      },
+      "artists": [
+        {
+          "name": "Krokofant",
+          "url": "https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy"
+        }
+      ],
+      "duration_ms": 404960,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -465,6 +465,22 @@
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
     },
     {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Akashic Xronicles",
+        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 267915,
+      "name": "Akashic Xronicles",
+      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
+    },
+    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Burn",
@@ -481,20 +497,20 @@
       "url": "https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
+      "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Akashic Xronicles",
-        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49"
       },
       "artists": [
         {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
         }
       ],
-      "duration_ms": 267915,
-      "name": "Akashic Xronicles",
-      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
+      "duration_ms": 264213,
+      "name": "because",
+      "url": "https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -531,22 +547,6 @@
       "duration_ms": 568893,
       "name": "The Life Divine",
       "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49"
-      },
-      "artists": [
-        {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "because",
-      "url": "https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Casting for Gravity (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
-        "url": "https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki"
-      },
-      "artists": [
-        {
-          "name": "Donny McCaslin",
-          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
-        }
-      ],
-      "duration_ms": 437607,
-      "name": "Stadium Jazz",
-      "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
-    },
-    {
       "added_at": "2021-03-26 04:01:00",
       "album": {
         "name": "Planet",
@@ -705,28 +689,20 @@
       "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
+      "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Ultima",
-        "url": "https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ"
+        "name": "Casting for Gravity (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+        "url": "https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki"
       },
       "artists": [
         {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        },
-        {
-          "name": "Dana Hawkins",
-          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
-        },
-        {
-          "name": "Plini",
-          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+          "name": "Donny McCaslin",
+          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
         }
       ],
-      "duration_ms": 269920,
-      "name": "Ultima",
-      "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
+      "duration_ms": 437607,
+      "name": "Stadium Jazz",
+      "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -755,6 +731,30 @@
       "duration_ms": 411453,
       "name": "Swarna Jingga",
       "url": "https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Ultima",
+        "url": "https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        },
+        {
+          "name": "Dana Hawkins",
+          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
+        },
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Ultima",
+      "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -843,6 +843,22 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
+        "name": "Bundles (Remastered And Expanded Edition)",
+        "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
+      },
+      "artists": [
+        {
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
+        }
+      ],
+      "duration_ms": 323520,
+      "name": "Hazard Profile, Pt. 5 - 2022 Remaster",
+      "url": "https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 248161,
       "name": "Revisiting the Film (feat. Morgan \u00c5gren)",
       "url": "https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Bundles (Remastered And Expanded Edition)",
-        "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
-      },
-      "artists": [
-        {
-          "name": "Soft Machine",
-          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
-        }
-      ],
-      "duration_ms": 323520,
-      "name": "Hazard Profile, Pt. 5 - 2022 Remaster",
-      "url": "https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9"
     },
     {
       "added_at": "2021-04-23 04:01:00",

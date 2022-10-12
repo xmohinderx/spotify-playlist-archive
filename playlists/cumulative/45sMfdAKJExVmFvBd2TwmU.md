@@ -4,7 +4,7 @@
 
 > Alia\-Ranbir\-Love Songs\-KK\-Kartik Aaryan\-Arijit Singh\-Pritam\-Love Songs\-Bollywood Love Songs\-Hindi Love Songs\-Soft Romantic Love Songs\-Hindi Films\-Bollywood Romance\-Bollywood Soft Romance\-Relaxing Love Songs\-Best Love Songs\-Slow Romantic Bollywood Songs\-Most Romantic LoveSong
 
-107 songs - 8 hr 27 min - not published yet
+108 songs - 8 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Tera Zikr](https://open.spotify.com/track/0OfaueVeRebAfWsAHajj3z) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tera Zikr](https://open.spotify.com/album/2khzKvw27vsWmb8xgnqxKb) | 3:28 | 2022-06-29 |  |
 | [Tere Bina](https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Murtuza Khan](https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj), [Qadir Khan](https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5) | 5:09 | 2021-05-06 |  |
 | [Tere Bina \- Khanvict Remix](https://open.spotify.com/track/2GVVNhSq5gq3rZF2b0UY5a) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Murtuza Khan](https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj), [Qadir Khan](https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT) | [Tere Bina \- Khanvict Remix](https://open.spotify.com/album/2gSeFOFJvIibTosS8Dvnz9) | 3:02 | 2022-03-07 |  |
+| [Teri Deewani](https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 5:23 | 2022-10-11 |  |
 | [Teri Jhuki Nazar](https://open.spotify.com/track/3beYHVCFKzbdNjJqjKeYpM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Murder 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/59mJQyT1wOf5irSqfJNI43) | 4:39 | 2022-02-04 |  |
 | [The Ultimate Love Mashup \- DJ Kiran Kamath](https://open.spotify.com/track/2AglckVVNKTyWoCreZWLMh) | [Dj Kiran Kamath](https://open.spotify.com/artist/76DiXwbDvK690KWyvU5JoP) | [The Ultimate Love Mashup \(DJ Kiran Kamath\)](https://open.spotify.com/album/75siQbLudltYZm4aYvHdnN) | 5:07 | 2022-02-10 |  |
 | [Tu Hi Hai](https://open.spotify.com/track/5b9x5sRIzAgXQw0dhGORO1) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 3:19 | 2022-03-24 |  |

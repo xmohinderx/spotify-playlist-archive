@@ -1,12 +1,12 @@
 {
   "description": "The Latin Pop hits of yesterday and today all in one place!\n\n",
-  "num_followers": 1134599,
+  "num_followers": 1134613,
   "original_name": "Now & Then Latin Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk5ODU1NiwwMDAwMDAwMGY4YjcwOWEyNWI0YjIyMjc1NjNkMDkzNmUyYjhiZGYx",
+  "snapshot_id": "MTY1Mjk5ODU1NiwwMDAwMDAwMGU5YzRiNmY5MDY3NzU2YjdhZTlmMzJjNGZlZTI5YmFj",
   "tracks": [
     {
       "added_at": "2022-04-07 20:26:02",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 228680,
-      "name": "Te Mando Flores",
-      "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
         "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 288893,
       "name": "\u00a1Corre!",
       "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 228680,
+      "name": "Te Mando Flores",
+      "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
     },
     {
       "added_at": "2022-04-07 20:26:02",

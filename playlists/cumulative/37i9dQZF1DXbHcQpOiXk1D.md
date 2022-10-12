@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Oscar Jerome
 
-326 songs - 1 day 0 hr 8 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+327 songs - 1 day 0 hr 11 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Hold On, Pt.2](https://open.spotify.com/track/19PCs8bTfMvXybqD1HAscU) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [James Chelliah](https://open.spotify.com/artist/0gCFISxX112iXqT2EakxTo), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Hold On, Pt.2](https://open.spotify.com/album/3m1iWUCNFY4XyDSL3yMh70) | 2:15 | 2022-02-11 |  |
 | [Home](https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Dylan Jones](https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:35 | 2022-02-25 |  |
 | [Honest](https://open.spotify.com/track/7CkwqQfxRj6rY1hFocJ59a) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [James Beckwith](https://open.spotify.com/artist/2IKevWKWuhVBPlg7QtBDOd) | [Honest](https://open.spotify.com/album/3FEEKcr6GpLBrfV48A5SUn) | 4:21 | 2022-04-15 | 2022-04-21 |
-| [Horizons](https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/1dVxWDxXOaiGH4x6xjad6O) | 5:23 | 2022-05-19 |  |
+| [Horizons](https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/1dVxWDxXOaiGH4x6xjad6O) | 5:23 | 2022-05-19 | 2022-10-12 |
 | [Howufeel](https://open.spotify.com/track/4btEBsYlxoY0b8JC3GYAt0) | [Dominic J Marshall](https://open.spotify.com/artist/6m4qwDRKong4gGwvGtgFEZ) | [Howufeel](https://open.spotify.com/album/3db4e8FxibeKil1hfQo6gE) | 4:00 | 2021-12-17 | 2022-07-25 |
 | [I'll Never Stop Loving You](https://open.spotify.com/track/2pZzybhyizqpiEmmGi5m1P) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [I'll Never Stop Loving You](https://open.spotify.com/album/5aONUFqQ5sHL9rxfe2P22x) | 4:57 | 2021-12-17 | 2022-07-02 |
 | [I'll Tell You How the Sun Rose](https://open.spotify.com/track/27ToM7fr5RK3w8HTEiIYZe) | [Emily Jane Roberts](https://open.spotify.com/artist/0oU7rg56Cbw8yGVfFToXbu) | [I'll Tell You How the Sun Rose](https://open.spotify.com/album/2YdfvH7zmD5KEsMfUfQHU2) | 3:04 | 2022-05-26 | 2022-07-22 |
@@ -168,6 +168,7 @@
 | [Long Term Memory](https://open.spotify.com/track/0wTLhxqwM8hLGDfHJIPFdQ) | [Jamie Leeming](https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD), [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Long Term Memory](https://open.spotify.com/album/1E6SfG3SRiPxcYsaAFDCNl) | 3:25 | 2022-04-21 | 2022-07-27 |
 | [looking out](https://open.spotify.com/track/2IUTis1rj33tVvTYtsVdEx) | [Peru Eizagirre](https://open.spotify.com/artist/2jPW0sgVtqS4np7tNze6ZG) | [looking out](https://open.spotify.com/album/1uiGqENIfsmcFRFMBlwqe5) | 7:31 | 2022-03-24 | 2022-03-30 |
 | [Lost in Thought](https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Between Two Waves](https://open.spotify.com/album/3K20Qp773ImY8pBQ1vUt93) | 3:12 | 2022-07-28 |  |
+| [love + war \(ft\. Ophie\)](https://open.spotify.com/track/1w0RoKKuDAVUL8Xq5exKOk) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [love + war](https://open.spotify.com/album/3XWMDQNFu7M1QwSCLIkx7h) | 3:25 | 2022-10-12 |  |
 | [Love You](https://open.spotify.com/track/2P1RglIHxwOiuOyWL5gRko) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love You](https://open.spotify.com/album/2HLXHeBsxJiCBCw8xzDjdQ) | 3:03 | 2022-02-18 | 2022-07-29 |
 | [Low Sun \- Live](https://open.spotify.com/track/5BDMUXvlEm9LCqvl38FHFN) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Low Sun \(Live\)](https://open.spotify.com/album/0l993bL6QX8RzqiA6UsjsB) | 4:02 | 2022-02-04 | 2022-07-29 |
 | [LuvSeat](https://open.spotify.com/track/7gDkwa8ibrsrdRVbz7egRg) | [DeCarteret](https://open.spotify.com/artist/2xpN3bfOsPsnOCzDrxXXhr), [Squid Ethics](https://open.spotify.com/artist/1djpz94BFiJu96e2OR5ujh) | [LuvSeat](https://open.spotify.com/album/7mowkfkSao0S1LasYxdU3Y) | 2:51 | 2022-03-08 | 2022-07-19 |

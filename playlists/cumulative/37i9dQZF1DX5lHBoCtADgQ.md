@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-63 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/6lhmrLr4Sb80M73Sr2P9CQ)
+64 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/6lhmrLr4Sb80M73Sr2P9CQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Akhiyan Ch Tu Vasda](https://open.spotify.com/track/6sPPCGilVdL9L3R3YCVjDX) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Nightingale of Punjab: Surinder Kaur](https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw) | 4:00 | 2021-11-03 | 2022-07-29 |
 | [Babul \(Live\)](https://open.spotify.com/track/0kwvNhB7n6og4rAM9DrQA4) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\) \- Single](https://open.spotify.com/album/1q77LT1cF0ZNMDsnYpeRTi) | 4:01 | 2021-11-03 |  |
 | [Bati Baal Ke](https://open.spotify.com/track/2RQj3BktqBSCYlvns7lM9Z) | [Maanya Arora](https://open.spotify.com/artist/2yis41rltks0pQr6nCBAD6) | [Bati Baal Ke](https://open.spotify.com/album/3LkK5f4Jub3h8HdvzHqIyq) | 3:44 | 2021-11-03 |  |
+| [Batti Baal Ke](https://open.spotify.com/track/1RKm0dsITClYcEpHtE2DJH) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA), [The Collective Projekt](https://open.spotify.com/artist/520DeZp2zasDguazhxBP7U) | [Batti Baal Ke](https://open.spotify.com/album/5NkIFTvD8NzGLUaLhcTnFl) | 3:31 | 2022-10-11 |  |
 | [Boliyan](https://open.spotify.com/track/4nX7vCRUiySBcVHyy8xWBJ) | [Kulwinder Dhillon](https://open.spotify.com/artist/1Qxa8XqBALw9cbsZvppv5t) | [Kacheriyan Ch Mele Lagde](https://open.spotify.com/album/2mxYO1V5PTqFGgYrmeiGi8) | 5:04 | 2021-11-03 |  |
 | [Buhe Bariyan](https://open.spotify.com/track/0pPbSDDoVS0a8yuMcpjEtd) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan \- Single](https://open.spotify.com/album/1BmqFSOvkER4M467ozA1sU) | 4:41 | 2022-07-16 |  |
 | [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 | 2022-04-28 | 2022-07-29 |

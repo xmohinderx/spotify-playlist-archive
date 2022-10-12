@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,20 +21,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 11 | [Limpieza](https://open.spotify.com/track/3yG4U2GnmSH04Li8aXGFiE) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a cantar con Barney](https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL) | 0:34 |
 | 12 | [El Juego de las Verduras](https://open.spotify.com/track/7htnCgZlRosLtszzgGQXeB) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:37 |
 | 13 | [Wash Your Hands with Baby Shark](https://open.spotify.com/track/5hf6QzXXpaJOzS7UHMXCXQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Wash Your Hands with Baby Shark](https://open.spotify.com/album/3Fjfrc6xmbPee9QPHBKPZC) | 1:27 |
-| 14 | [Al agua patos](https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Transportes en mis vacaciones](https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE) | 1:10 |
-| 15 | [Mi Merienda](https://open.spotify.com/track/4G5XxbE4p0D6sg5i0F2bBR) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 2](https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF) | 1:59 |
+| 14 | [Mi Merienda](https://open.spotify.com/track/4G5XxbE4p0D6sg5i0F2bBR) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 2](https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF) | 1:59 |
+| 15 | [Al agua patos](https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Transportes en mis vacaciones](https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE) | 1:10 |
 | 16 | [Family Time](https://open.spotify.com/track/1aqS5msEei59kvSOhCU9Is) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 4:20 |
 | 17 | [Todos a Moverse](https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:42 |
 | 18 | [Canción para la hora del baño \(Agua, jabón\)](https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq) | [Nene León](https://open.spotify.com/artist/77KB559uFak8dFDQNrfz6q) | [Canciones Infantiles, Vol\. 2](https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE) | 1:32 |
 | 19 | [Clean Up Your Toys](https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8) | [We Kids Rock](https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT) | [Let The Sun Shine](https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx) | 1:49 |
 | 20 | [Rise And Shine](https://open.spotify.com/track/0NW7dYHm3TxI5CQtXYOIhs) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First: Once Upon a Princess](https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF) | 2:56 |
 | 21 | [The Potty Dance Song](https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 1:06 |
-| 22 | [Good Morning](https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff) | [Love to Sing](https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz) | [With You](https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv) | 2:11 |
+| 22 | [Do The Chores](https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT) | [Daddy A Go Go](https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H) | [Mojo A Go Go \- Real Rock For Kids](https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu) | 3:13 |
 | 23 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
-| 24 | [Do The Chores](https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT) | [Daddy A Go Go](https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H) | [Mojo A Go Go \- Real Rock For Kids](https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu) | 3:13 |
+| 24 | [Good Morning](https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff) | [Love to Sing](https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz) | [With You](https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv) | 2:11 |
 | 25 | [Brush Brush Brush](https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:32 |
-| 26 | [Washing My Hands](https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Rocknoceros](https://open.spotify.com/album/4eub8hBkToROharOKy0U6s) | 3:21 |
-| 27 | [Me cepillo los dientes](https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a cantar con Barney](https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL) | 1:53 |
+| 26 | [Me cepillo los dientes](https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a cantar con Barney](https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL) | 1:53 |
+| 27 | [Washing My Hands](https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Rocknoceros](https://open.spotify.com/album/4eub8hBkToROharOKy0U6s) | 3:21 |
 | 28 | [Leche Con Pan](https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu, vol\. 1](https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq) | 2:35 |
 | 29 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
 | 30 | [The Potty Song](https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW) | [Miss Kitty](https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx) | [Please Come To My Party](https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 49 | [I Always Sit When I Eat](https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 2:09 |
 | 50 | [La Canción del Baño](https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc) | [HooplaKidz En Español](https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu) | [Las Mejores Canciones para Niños](https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b) | 2:09 |
 
-Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMDA5ZWUxYTEyNzNkNWI0MGI1Y2E4NmU2ZDRlYzliMjAy`
+Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMGE0YWRjYTI4ODcyOTAyZTIwMzgyZWYwYjJiYzU2YmM0`

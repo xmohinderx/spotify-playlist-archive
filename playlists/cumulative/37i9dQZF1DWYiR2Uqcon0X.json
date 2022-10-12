@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 91554,
       "name": "Bulleit Blues",
       "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
@@ -1393,6 +1393,24 @@
       "duration_ms": 225400,
       "name": "Run of Good Luck",
       "url": "https://open.spotify.com/track/4Px5YO3pRfrswEkVWxXhz8"
+    },
+    {
+      "album": {
+        "name": "Homeland Insecurity",
+        "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230826,
+      "name": "Sleeping Alone",
+      "url": "https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP"
     },
     {
       "album": {

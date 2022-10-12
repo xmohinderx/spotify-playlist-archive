@@ -2862,6 +2862,24 @@
     },
     {
       "album": {
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214626,
+      "name": "Tell Me You Love Me",
+      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
+    },
+    {
+      "album": {
         "name": "Ten Reasons I Love You(2021)",
         "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
       },
@@ -2913,7 +2931,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 210333,
       "name": "The Love",
       "url": "https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF"

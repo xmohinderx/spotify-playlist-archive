@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abeja Reina](https://open.spotify.com/track/4tiEfGlJaonFDtSTCvesoj) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:37 | 2022-05-20 |  |
+| [Abeja Reina](https://open.spotify.com/track/4tiEfGlJaonFDtSTCvesoj) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:37 | 2022-05-20 | 2022-10-12 |
 | [Adelante Corazón](https://open.spotify.com/track/6e5UQSRwkiRwvY35Zgskil) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Amante de Lo Ajeno](https://open.spotify.com/album/5y3sfjDQClfzkBH9V9OlQX) | 3:59 | 2022-01-07 | 2022-07-29 |
 | [Adelante Corazón](https://open.spotify.com/track/1LiFDElPVZgMGrUIbJd55m) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Amante de Lo Ajeno](https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ) | 3:59 | 2022-05-20 |  |
 | [Adiós Adiós Amor](https://open.spotify.com/track/0H0y4JXqwK2Zga06WlU281) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Adiós Adiós Amor](https://open.spotify.com/album/1gCLZsVvfalI19UOfVMx11) | 3:11 | 2022-01-07 | 2022-01-22 |
@@ -204,7 +204,7 @@
 | [Ya Es Muy Tarde](https://open.spotify.com/track/50U0SJ2LQlWFCpbVKY4LMn) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Ya Es Muy Tarde](https://open.spotify.com/album/1MqYSaLaFHmTfXfg3IdQNc) | 3:07 | 2022-01-07 | 2022-01-22 |
 | [Ya Lo Sé](https://open.spotify.com/track/1Squ9MGqzmYZ2u0KyKU5YA) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/78I27AxTxuvAEWRfQLfcma) | 3:21 | 2022-01-21 | 2022-07-10 |
 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 | 2022-05-20 |  |
-| [Ya No](https://open.spotify.com/track/57xIz4fw0sMzc2GRnc2Il7) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Singles](https://open.spotify.com/album/7uxeDavpgWJrgUnv7GU5EJ) | 3:37 | 2022-08-03 | 2022-10-11 |
+| [Ya No](https://open.spotify.com/track/57xIz4fw0sMzc2GRnc2Il7) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Singles](https://open.spotify.com/album/7uxeDavpgWJrgUnv7GU5EJ) | 3:37 | 2022-08-03 |  |
 | [Ya No](https://open.spotify.com/track/6O0zppSneLLGVpR5WDKGI9) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Sólo Piens En Ti](https://open.spotify.com/album/6MqBG0cTayHNgjDZ04GHRk) | 3:37 | 2022-01-07 | 2022-07-29 |
 | [Ya No Me Importa](https://open.spotify.com/track/12rkhRzMY5uTZHviXYyBRf) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Ya No Me Importa](https://open.spotify.com/album/7FZGLlJEMDpfGOS21YKLOR) | 3:43 | 2022-02-18 | 2022-06-22 |
 | [Ya No Me Importa](https://open.spotify.com/track/6T684u0tL0gliUK6Wb0z3X) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:43 | 2022-01-07 | 2022-07-28 |

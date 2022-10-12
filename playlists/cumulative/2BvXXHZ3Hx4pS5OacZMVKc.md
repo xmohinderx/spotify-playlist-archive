@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-198 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+199 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Daydream](https://open.spotify.com/track/3o9NWxu4L3u22WBJTfq1Nj) | [Cream Blade](https://open.spotify.com/artist/5Px3CFPaLOQwOILnyQ5HwS), [romi](https://open.spotify.com/artist/03fWMFv4epXaib7b7PDP78) | [Daydream](https://open.spotify.com/album/7L0JggFuhaLrd4Qa9iJv6r) | 3:54 | 2022-02-03 | 2022-09-15 |
 | [Dead of Night](https://open.spotify.com/track/3nVK1WJpMLATbK7QEg840r) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Dead of Night](https://open.spotify.com/album/5wl7bVpnMRoal4apZYUO3k) | 3:53 | 2022-02-03 | 2022-09-15 |
 | [Dead Of Night \(VIP\) \- Remix](https://open.spotify.com/track/3z3wBalHCvpnAO63d6na7v) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Dead Of Night \(VIP\) \[Remix\]](https://open.spotify.com/album/1kuliqL1e3KkvuPbFvQ31X) | 4:02 | 2022-02-03 |  |
+| [die 4 u](https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [die 4 u](https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8) | 2:54 | 2022-10-11 |  |
 | [Dioma](https://open.spotify.com/track/3waXln508ZnlKkmIdq0Y83) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Dioma](https://open.spotify.com/album/7KvJ8JfpKz9VN6ZutfoOhd) | 3:52 | 2022-02-03 | 2022-09-15 |
 | [Dioma \(Demo\)](https://open.spotify.com/track/700JJvwxvnn8kykvp3nZqb) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Dioma \(Demo\)](https://open.spotify.com/album/3F6ynVYGAxoIgFPB4jvbff) | 2:17 | 2022-07-08 |  |
 | [Don't Know Why](https://open.spotify.com/track/3vyTl0rNX1xxW1XLeeMcmu) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Don't Know Why](https://open.spotify.com/album/5H2icnX0IBaEd2mp3B3w4E) | 2:04 | 2022-08-23 |  |

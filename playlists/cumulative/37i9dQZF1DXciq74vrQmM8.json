@@ -532,6 +532,24 @@
     },
     {
       "album": {
+        "name": "Bite My Tongue",
+        "url": "https://open.spotify.com/album/7MA35qubV4skem9OazOKup"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167220,
+      "name": "Bite My Tongue",
+      "url": "https://open.spotify.com/track/7ydKwZckvEIQNtb9kIsfwK"
+    },
+    {
+      "album": {
         "name": "Black Punk",
         "url": "https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX"
       },

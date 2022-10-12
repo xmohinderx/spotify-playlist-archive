@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 471299,
+  "num_followers": 471376,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMGYwZTIwMzdiMzc2NDEwODE5NWZjMDc0NzU4OTA0NDVl",
+  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMGYwZDkyNTIxZDA1NzFmNTQzODZhODE3N2JlNDJmYzEy",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
         "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 219026,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Naked All the Time",
-        "url": "https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N"
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
       "artists": [
         {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 198546,
-      "name": "Panama",
-      "url": "https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp"
+      "duration_ms": 166213,
+      "name": "One Another",
+      "url": "https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+        "name": "Naked All the Time",
+        "url": "https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
         }
       ],
-      "duration_ms": 166213,
-      "name": "One Another",
-      "url": "https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j"
+      "duration_ms": 198546,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp"
     },
     {
       "added_at": "2022-09-22 19:11:53",

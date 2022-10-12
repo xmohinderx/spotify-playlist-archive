@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s.",
-  "num_followers": 154267,
+  "num_followers": 154440,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjMxMSwwMDAwMDAwMDE3YzA1ZjhjZjgxYTgzYTAyY2QyZGRkNmJkMzE4ZTA0",
+  "snapshot_id": "MTY1NzAzNjMxMSwwMDAwMDAwMGI5MWIyOGRkNDZhYTZlNzgzYzkyNzliMTBjYmQ3NTFj",
   "tracks": [
     {
       "added_at": "2021-11-23 12:34:50",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "McCartney (Archive Collection)",
-        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Maybe I\u2019m Amazed - Remastered 2011",
-      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Deceptive Bends",
         "url": "https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 207573,
       "name": "The Things We Do For Love",
       "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "McCartney (Archive Collection)",
+        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 456640,
-      "name": "Deacon Blues",
-      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 150226,
       "name": "Lonely People",
       "url": "https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 456640,
+      "name": "Deacon Blues",
+      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
+        "name": "And Then There Were Three (2007 Remaster)",
+        "url": "https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI"
       },
       "artists": [
         {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
         }
       ],
-      "duration_ms": 190760,
-      "name": "Boat On The River",
-      "url": "https://open.spotify.com/track/4o9DSo7c1ICv4CtFWFSmGx"
+      "duration_ms": 239333,
+      "name": "Follow You Follow Me - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "And Then There Were Three (2007 Remaster)",
-        "url": "https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI"
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
       },
       "artists": [
         {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
         }
       ],
-      "duration_ms": 239333,
-      "name": "Follow You Follow Me - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk"
+      "duration_ms": 190760,
+      "name": "Boat On The River",
+      "url": "https://open.spotify.com/track/4o9DSo7c1ICv4CtFWFSmGx"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1341,6 +1341,22 @@
       "url": "https://open.spotify.com/track/3T8dfE0azJUmXJA3QlmiZ5"
     },
     {
+      "added_at": "2021-11-23 12:54:05",
+      "album": {
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 201022,
+      "name": "Strangers - 2020 Stereo Remaster",
+      "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
+    },
+    {
       "added_at": "2021-11-23 12:34:50",
       "album": {
         "name": "Dreamboat Annie",
@@ -1371,22 +1387,6 @@
       "duration_ms": 344773,
       "name": "With A Little Luck - Remastered 1993",
       "url": "https://open.spotify.com/track/0wLpW3AwfNicWHef8joJLb"
-    },
-    {
-      "added_at": "2021-11-23 12:54:05",
-      "album": {
-        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
-        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 201022,
-      "name": "Strangers - 2020 Stereo Remaster",
-      "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/4FZ8wtTaOAbYvyChBt4GEQ"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Wings Greatest",
-        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 286346,
-      "name": "Mull Of Kintyre",
-      "url": "https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E"
-    },
-    {
       "added_at": "2022-02-08 13:47:19",
       "album": {
         "name": "All Over The World: The Very Best Of ELO",
@@ -1467,6 +1451,22 @@
       "duration_ms": 248800,
       "name": "Showdown",
       "url": "https://open.spotify.com/track/25fOmfH1Kq6RmQrWgKFgvV"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Wings Greatest",
+        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 286346,
+      "name": "Mull Of Kintyre",
+      "url": "https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E"
     },
     {
       "added_at": "2022-07-05 15:51:51",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Straight Up (Remastered 2010 / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc"
-      },
-      "artists": [
-        {
-          "name": "Badfinger",
-          "url": "https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3"
-        }
-      ],
-      "duration_ms": 321160,
-      "name": "Name Of The Game - Remastered 2010",
-      "url": "https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Back to Front",
         "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 182626,
       "name": "Clair",
       "url": "https://open.spotify.com/track/1lYJDRaadnotdfcZFp5Izd"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Straight Up (Remastered 2010 / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc"
+      },
+      "artists": [
+        {
+          "name": "Badfinger",
+          "url": "https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3"
+        }
+      ],
+      "duration_ms": 321160,
+      "name": "Name Of The Game - Remastered 2010",
+      "url": "https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw"
     },
     {
       "added_at": "2021-11-23 12:34:50",

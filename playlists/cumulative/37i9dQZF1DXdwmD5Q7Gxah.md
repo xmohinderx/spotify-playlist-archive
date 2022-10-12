@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you\. cover: maya hawke
+> All the indescribable feelings that music gives you\. cover: men i trust
 
-1,874 songs - 4 day 4 hr 15 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,875 songs - 4 day 4 hr 20 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 | 2022-08-05 | 2022-09-10 |
 | [All Dressed In White](https://open.spotify.com/track/4I0Btf4tqaK9HewG27RvqC) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen \(Deluxe\)](https://open.spotify.com/album/5zzd05ffaL9xuXwQkVuxoF) | 2:00 | 2020-02-14 | 2020-03-13 |
 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 | 2019-08-08 | 2019-11-14 |
-| [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-08 |  |
+| [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-08 | 2022-10-12 |
 | [all i ever wanted \(was you\)](https://open.spotify.com/track/3Lq24mWk6irXyj6CBccvjV) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [all i ever wanted \(was you\)](https://open.spotify.com/album/3Z4Xf5uITELZqCZhD6QGbp) | 2:30 | 2022-04-20 |  |
 | [All I Need](https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:23 | 2021-12-01 | 2022-01-08 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-01-29 | 2021-12-02 |
@@ -1460,6 +1460,7 @@
 | [Skywalker](https://open.spotify.com/track/21TLD85Q0waH65GxMnIJft) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Skywalker](https://open.spotify.com/album/5nDWZFeZsRXUTFvjg7jruY) | 4:02 | 2021-03-06 | 2021-06-05 |
 | [Sleeping Through Sunshine](https://open.spotify.com/track/6FQvYKMIg47n3Q5GG1n5Zd) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Host B Sides & Remixes](https://open.spotify.com/album/4paNaQZ8eB1cUU1ZJh14gJ) | 3:16 | 2022-09-09 | 2022-09-24 |
 | [Slow Drive](https://open.spotify.com/track/6PlUZo9MVghD6kv8QIbrnm) | [Julian Skiboat](https://open.spotify.com/artist/62okAGBMx05wl2Oh7JLbUi) | [Slow Drive](https://open.spotify.com/album/2djpEfVUTm8AfVhbbIsuEL) | 2:14 | 2021-08-28 | 2022-01-08 |
+| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-11 |  |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-04 | 2020-02-20 |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2021-12-03 | 2022-01-08 |
 | [Smokescreen](https://open.spotify.com/track/5OiEjwZys4qcCYaBJNFn7I) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/0SUI4zxDGF2FMFDC10YENM) | 2:40 | 2020-04-10 | 2020-05-22 |
@@ -1686,7 +1687,7 @@
 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 | 2021-08-21 | 2021-08-24 |
 | [This Town](https://open.spotify.com/track/4iDbH9ySrDlg7iBA0tq7Eq) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 2:44 | 2021-02-12 | 2021-03-06 |
 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 | 2022-09-16 |  |
-| [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 | 2022-08-09 |  |
+| [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 | 2022-08-09 | 2022-10-12 |
 | [THREE HEADS\*](https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 | 2022-08-19 |  |
 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 | 2022-10-11 |
 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 | 2021-08-05 | 2021-11-13 |
@@ -1867,7 +1868,7 @@
 | [You're Kinda Perfect](https://open.spotify.com/track/2PZN10j9ewZcVbcNRfv8kj) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [You're Kinda Perfect](https://open.spotify.com/album/5sgyqnXx3snbOq1fqwjRtm) | 2:26 | 2020-10-16 | 2021-01-12 |
 | [You're the Best](https://open.spotify.com/track/6dHrWj35HXTGvlCasE5VAA) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Don't You](https://open.spotify.com/album/4vTrbwGUedO7SN3DqNOiYU) | 2:57 | 2019-07-30\* | 2019-11-14 |
 | [Young & Sad](https://open.spotify.com/track/0gySkOOewOdZtHG8stPEB8) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/6ZLlJLTscXUJIMwpwSAcOm) | 3:10 | 2020-05-15 | 2020-07-29 |
-| [Your Ex, Man](https://open.spotify.com/track/0HAgvXAdgn5JVUSWEfVCN5) | [Hank](https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf) | [Your Ex, Man](https://open.spotify.com/album/0SAHHUoAU2h9rAF3HNzSYE) | 3:30 | 2022-09-02 |  |
+| [Your Ex, Man](https://open.spotify.com/track/0HAgvXAdgn5JVUSWEfVCN5) | [Hank](https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf) | [Your Ex, Man](https://open.spotify.com/album/0SAHHUoAU2h9rAF3HNzSYE) | 3:30 | 2022-09-02 | 2022-10-12 |
 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2021-01-15 | 2022-08-10 |
 | [Your Life Your Time \- Acoustic](https://open.spotify.com/track/33whXaknBDUx53evCaViv1) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time \(Acoustic\)](https://open.spotify.com/album/4sxRXwPnLAWdfg4TwA4D1v) | 2:57 | 2021-06-12 | 2021-11-13 |
 | [Your Love](https://open.spotify.com/track/3aKeMLUuvZSmlzMxA41WEr) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Your Love](https://open.spotify.com/album/11sktScKNcbkw6h9zNgkKK) | 3:22 | 2022-02-04 | 2022-04-09 |

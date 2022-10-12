@@ -1841,6 +1841,24 @@
     {
       "album": {
         "name": "D\u00c4R G\u00c4DDAN SIMMAR",
+        "url": "https://open.spotify.com/album/0eGf6UvidEOq5uzdKzWvr4"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "D\u00c4R G\u00c4DDAN SIMMAR",
+      "url": "https://open.spotify.com/track/4YvNeLs07cxgKcsVtxDXBu"
+    },
+    {
+      "album": {
+        "name": "D\u00c4R G\u00c4DDAN SIMMAR",
         "url": "https://open.spotify.com/album/7AowFzSGAy33pR1GpuJ5WO"
       },
       "artists": [
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 156000,
       "name": "D\u00c4R G\u00c4DDAN SIMMAR",
       "url": "https://open.spotify.com/track/7BRG1uU2WiaFXDLnniCfjd"
@@ -5579,6 +5597,24 @@
     {
       "album": {
         "name": "P\u00e5 Disco",
+        "url": "https://open.spotify.com/album/1rP3Rd0Pnxp4mOdWefFjFY"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130326,
+      "name": "P\u00e5 Disco",
+      "url": "https://open.spotify.com/track/0I9zmUwqYAR4nqEb7uljMC"
+    },
+    {
+      "album": {
+        "name": "P\u00e5 Disco",
         "url": "https://open.spotify.com/album/1wEfywTG7i21IyYpFrznYf"
       },
       "artists": [
@@ -5589,7 +5625,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 130326,
       "name": "P\u00e5 Disco",
       "url": "https://open.spotify.com/track/1gSWpgu8H58SQ8Ck5D3M6Z"

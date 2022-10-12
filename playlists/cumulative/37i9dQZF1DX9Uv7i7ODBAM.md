@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。© 堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-51 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/6EPb1Ffou8taWvpENxeXvF)
+52 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/6EPb1Ffou8taWvpENxeXvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [No.1](https://open.spotify.com/track/7b7QqKepv8wY6VopSmQqX8) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [No.1](https://open.spotify.com/album/1xy3hzpDwrU7E0nMzfKgo9) | 3:50 | 2022-10-01 |  |
 | [ODD FUTURE](https://open.spotify.com/track/5tHp131qFB3T7e01x1xsO2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:46 | 2022-10-01 |  |
 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 | 2022-10-01 |  |
+| [SKETCH](https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SKETCH](https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL) | 3:57 | 2022-10-11 |  |
 | [So Classmate Were Born Of Worthy Competition](https://open.spotify.com/track/5FHjkKMiWyi8Th1Q2CnpxC) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 5 \(Original Series Soundtrack\)](https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG) | 3:00 | 2022-10-01 |  |
 | [Sound of the Holidays](https://open.spotify.com/track/5AExoy72vF3LNEpV56tRwZ) | [Jon Underdown](https://open.spotify.com/artist/71fh3uJgmqp4ZK1WVIBJO8) | [My Hero Academia: Season 5 \(Original Series Soundtrack\)](https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG) | 1:53 | 2022-10-01 |  |
 | [Successor](https://open.spotify.com/track/73zYCt8Tglt9YK6yvvWMLe) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 5 \(Original Series Soundtrack\)](https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG) | 3:16 | 2022-10-01 |  |

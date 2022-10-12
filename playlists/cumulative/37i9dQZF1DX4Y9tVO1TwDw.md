@@ -2,9 +2,9 @@
 
 ### [De TODO](https://open.spotify.com/playlist/37i9dQZF1DX4Y9tVO1TwDw)
 
-> Celebrating Latin Heritage Month con un poquito De TODO! Cover: Yahritza Y Su Esencia
+> Celebrating Latin Heritage Month con un poquito De TODO! Cover: Villano Antillano
 
-73 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
+74 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [HELLCAT](https://open.spotify.com/track/541bPCQXqcU8mNRV7udEff) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [HELLCAT](https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV) | 3:06 | 2022-09-14 |  |
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2022-09-14 |  |
 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 | 2022-09-14 |  |
+| [KLK](https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [KLK](https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt) | 3:01 | 2022-10-11 |  |
 | [La Cumbia Del Cucuy](https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [La Cumbia Del Cucuy](https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1) | 2:15 | 2022-09-30 |  |
 | [LAS HISTORIAS SE ACABAN](https://open.spotify.com/track/2nC7BmTP4okoyeJI6JRMVb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:13 | 2022-09-14 |  |
 | [LUV](https://open.spotify.com/track/6YTVspd6HFgR7B2veOvMhT) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:04 | 2022-09-14 |  |

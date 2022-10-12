@@ -376,6 +376,28 @@
     },
     {
       "album": {
+        "name": "Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Yogi Sekar",
+          "url": "https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273228,
+      "name": "Devaralan Aattam",
+      "url": "https://open.spotify.com/track/1O5AqyUHm8vH8XGr173ugY"
+    },
+    {
+      "album": {
         "name": "Dharala Prabhu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4O5iuMBSmUXMZIrBgx3LOG"
       },
@@ -1895,7 +1917,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 134204,
       "name": "Sol",
       "url": "https://open.spotify.com/track/5g1i02FYQMmVj4L17Gis1C"

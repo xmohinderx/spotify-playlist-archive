@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer. Cover: <a href=\"https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ?si=0OWx2PBgRkOGhZ-vZNiOsQ\">beatsbyhand</a>",
-  "num_followers": 1251,
+  "num_followers": 1279,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMDc3YjE1MGJlNTg3NTBhNWU3ZjEyNTQ1OWZlZmNkYTZl",
+  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMDE3YWRjZTU2Nzg0NDhjZmYzYTgxYzcyZjU2ODNhNjQ4",
   "tracks": [
     {
       "added_at": "2022-09-29 21:59:00",
@@ -321,30 +321,6 @@
       "url": "https://open.spotify.com/track/6eHT2RqorlHgS68W6U62X2"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Ed-Ward, Intr0beatz & Jonny Miller Remixes",
-        "url": "https://open.spotify.com/album/35EzfNv7BipGFSlUFlZbQX"
-      },
-      "artists": [
-        {
-          "name": "Kid Fonque",
-          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
-        },
-        {
-          "name": "Jonny Miller",
-          "url": "https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV"
-        },
-        {
-          "name": "Toshi",
-          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
-        }
-      ],
-      "duration_ms": 370887,
-      "name": "Sarhalel - Ed-Ward Remix",
-      "url": "https://open.spotify.com/track/0RAXgMtZEM2KFwbsVqFCYU"
-    },
-    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "Passage of Time",
@@ -367,6 +343,30 @@
       "duration_ms": 456430,
       "name": "I Don't Wanna Feel This",
       "url": "https://open.spotify.com/track/6BlBVZ4OfkGogpvknlLXNE"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Ed-Ward, Intr0beatz & Jonny Miller Remixes",
+        "url": "https://open.spotify.com/album/35EzfNv7BipGFSlUFlZbQX"
+      },
+      "artists": [
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        },
+        {
+          "name": "Jonny Miller",
+          "url": "https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "duration_ms": 370887,
+      "name": "Sarhalel - Ed-Ward Remix",
+      "url": "https://open.spotify.com/track/0RAXgMtZEM2KFwbsVqFCYU"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ"
     },
     {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
+    },
+    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "Hold On",
@@ -551,22 +567,6 @@
       "duration_ms": 392304,
       "name": "Day And Night (Mmawe) - Original Mix",
       "url": "https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "I Am Jazz",
-        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
-      },
-      "artists": [
-        {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        }
-      ],
-      "duration_ms": 402782,
-      "name": "Gotsom",
-      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
-      },
-      "artists": [
-        {
-          "name": "InQfive",
-          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
-        }
-      ],
-      "duration_ms": 375431,
-      "name": "Before Everything",
-      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
@@ -703,6 +687,22 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
+      },
+      "artists": [
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        }
+      ],
+      "duration_ms": 375431,
+      "name": "Before Everything",
+      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Dusty Streets",
-        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
-      },
-      "artists": [
-        {
-          "name": "Eddvin",
-          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
-        }
-      ],
-      "duration_ms": 386525,
-      "name": "Dusty Streets",
-      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "I Rise Again",
         "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
       },
@@ -891,22 +875,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Old but New Last Episode",
-        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412264,
-      "name": "Sunday Showers",
-      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Dafrotone",
         "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
       },
@@ -919,6 +887,38 @@
       "duration_ms": 453453,
       "name": "Four Lessons",
       "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Dusty Streets",
+        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
+      },
+      "artists": [
+        {
+          "name": "Eddvin",
+          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
+        }
+      ],
+      "duration_ms": 386525,
+      "name": "Dusty Streets",
+      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Old but New Last Episode",
+        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412264,
+      "name": "Sunday Showers",
+      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -941,26 +941,6 @@
       "url": "https://open.spotify.com/track/2cOw3sROcgo2HOX4wxeSsx"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Seeking",
-        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
-      },
-      "artists": [
-        {
-          "name": "Buder Prince",
-          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
-        },
-        {
-          "name": "Ruthes Ma",
-          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
-        }
-      ],
-      "duration_ms": 397355,
-      "name": "Seeking",
-      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Love Me",
@@ -975,6 +955,26 @@
       "duration_ms": 392431,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "The Inglourious",
+        "url": "https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X"
+      },
+      "artists": [
+        {
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Synth-O-Ven",
+          "url": "https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn"
+        }
+      ],
+      "duration_ms": 399986,
+      "name": "The Inglourious",
+      "url": "https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8"
     }
   ],
   "unique_name": "Deep House Session",

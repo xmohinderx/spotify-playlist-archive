@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 41223,
+  "num_followers": 41286,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjM0MywwMDAwMDAwMDUzM2ExMjAzZWMzMmU5YjZiNWQwNWVlNGY5ZWRmOTc3",
+  "snapshot_id": "MTY2NTQwNjM0MywwMDAwMDAwMDk0MjE0MjZhYzA4ZDUxNWNmMmI1YWExNDVmOGY0N2Rj",
   "tracks": [
     {
       "added_at": "2022-10-10 12:52:23",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Mississippi Blues",
-        "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 152076,
-      "name": "Jumper Hanging Out On the Line",
-      "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Dire Straits",
         "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 253426,
       "name": "Six Blade Knife",
       "url": "https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Mississippi Blues",
+        "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 152076,
+      "name": "Jumper Hanging Out On the Line",
+      "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Won't Get Any Better",
-      "url": "https://open.spotify.com/track/28r1vNoAGRfy3i8972hOS5"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 330893,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Won't Get Any Better",
+      "url": "https://open.spotify.com/track/28r1vNoAGRfy3i8972hOS5"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Lightnin' Strikes",
-        "url": "https://open.spotify.com/album/6oDBeR51HgSslV8tUlhPQV"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Devil Is Watching You",
-      "url": "https://open.spotify.com/track/3lYAUsrVWuMvRtsCOBQopO"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 139146,
       "name": "When The Levee Breaks (Part One)",
       "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Lightnin' Strikes",
+        "url": "https://open.spotify.com/album/6oDBeR51HgSslV8tUlhPQV"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Devil Is Watching You",
+      "url": "https://open.spotify.com/track/3lYAUsrVWuMvRtsCOBQopO"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Rank Strangers",
+      "url": "https://open.spotify.com/track/75E8SwuE43G0bj3kHZlIts"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 227503,
       "name": "Born Of A Woman",
       "url": "https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
-        "name": "The Natch'l Blues",
-        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 423560,
-      "name": "Done Changed My Way of Living",
-      "url": "https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
       "artists": [
         {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 147840,
-      "name": "Rank Strangers",
-      "url": "https://open.spotify.com/track/75E8SwuE43G0bj3kHZlIts"
+      "duration_ms": 423560,
+      "name": "Done Changed My Way of Living",
+      "url": "https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Boomer's Story",
-        "url": "https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Cherry Ball Blues",
-      "url": "https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "I Be Trying",
         "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 206040,
       "name": "The World Can Be So Cold",
       "url": "https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Boomer's Story",
+        "url": "https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Cherry Ball Blues",
+      "url": "https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 176001,
-      "name": "The Dolls Are Sleeping",
-      "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
-    },
-    {
-      "added_at": "2022-10-10 12:52:23",
-      "album": {
         "name": "Presenting Robert Nighthawk",
         "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 164213,
       "name": "The Moon Is Rising",
       "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
+    },
+    {
+      "added_at": "2022-10-10 12:52:23",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 176001,
+      "name": "The Dolls Are Sleeping",
+      "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Simple Truths",
-        "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
       "artists": [
         {
-          "name": "The Holmes Brothers",
-          "url": "https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW"
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
         }
       ],
-      "duration_ms": 280306,
-      "name": "I'm So Lonely",
-      "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
+      "duration_ms": 154760,
+      "name": "Blues Up The River",
+      "url": "https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T"
     },
     {
       "added_at": "2022-10-10 12:52:23",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-10-10 12:52:23",
       "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+        "name": "Simple Truths",
+        "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
       },
       "artists": [
         {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+          "name": "The Holmes Brothers",
+          "url": "https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW"
         }
       ],
-      "duration_ms": 154760,
-      "name": "Blues Up The River",
-      "url": "https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T"
+      "duration_ms": 280306,
+      "name": "I'm So Lonely",
+      "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
     },
     {
       "added_at": "2022-10-10 12:52:23",

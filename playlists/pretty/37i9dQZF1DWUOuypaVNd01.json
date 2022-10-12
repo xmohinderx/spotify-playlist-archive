@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Major RD",
-  "num_followers": 20566,
+  "num_followers": 20631,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTg1MywwMDAwMDAwMGY3ZmM4NjA5M2RjMjcwNDExMTA4ZTRhYjA1MWJhYzBi",
+  "snapshot_id": "MTY2NTExMTg1MywwMDAwMDAwMDAwYjFiZGM1ODRiNDRhMWJhZmViMWI1OTM5Y2Q3NTQ2",
   "tracks": [
     {
       "added_at": "2022-09-30 03:01:00",
@@ -239,30 +239,6 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "Trof\u00e9u",
-        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 139328,
-      "name": "Como \u00c9 Que T\u00e1?",
-      "url": "https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
         "name": "Rock Danger, Vol. 1",
         "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
@@ -283,6 +259,30 @@
       "duration_ms": 178005,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "Trof\u00e9u",
+        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 139328,
+      "name": "Como \u00c9 Que T\u00e1?",
+      "url": "https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz"
     },
     {
       "added_at": "2022-09-30 03:01:00",

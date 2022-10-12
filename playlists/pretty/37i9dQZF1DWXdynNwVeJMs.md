@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,519 likes - 101 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,525 likes - 101 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

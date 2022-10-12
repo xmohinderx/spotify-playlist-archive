@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Allison Russell",
-  "num_followers": 262409,
+  "num_followers": 262448,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMDc1MWFkNzE1ODk2ZDRhZDQ1YzE1YThlODI3NTQyOTcw",
+  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMDIxODAwZjE2YWI4NmEyNWNiNjIwZTFkNTI0MDU2MTY1",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Bloomsday",
-      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
         "name": "By The Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 196973,
       "name": "The Mother",
       "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 187486,
-      "name": "Brightest Star",
-      "url": "https://open.spotify.com/track/6NdSQSzhnb5nbdqTQICq81"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 213204,
       "name": "Love All Night (Work All Day)",
       "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 187486,
+      "name": "Brightest Star",
+      "url": "https://open.spotify.com/track/6NdSQSzhnb5nbdqTQICq81"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1115,38 +1115,6 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Saturn Return",
-        "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 260096,
-      "name": "Late Bloomer",
-      "url": "https://open.spotify.com/track/6GLuNBlMnNxwZYZi9cveFf"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Cotten and Brenda Evans",
-          "url": "https://open.spotify.com/artist/2Hkne479RCIeoge0f0E2uw"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/1hRLLDcfLJZBu9L2WNnBwr"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
         "name": "Total Freedom",
         "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
       },
@@ -1177,6 +1145,38 @@
       "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     },
     {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Cotten and Brenda Evans",
+          "url": "https://open.spotify.com/artist/2Hkne479RCIeoge0f0E2uw"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/1hRLLDcfLJZBu9L2WNnBwr"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 260096,
+      "name": "Late Bloomer",
+      "url": "https://open.spotify.com/track/6GLuNBlMnNxwZYZi9cveFf"
+    },
+    {
       "added_at": "2022-03-08 05:00:00",
       "album": {
         "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
@@ -1191,6 +1191,22 @@
       "duration_ms": 137360,
       "name": "Train Song",
       "url": "https://open.spotify.com/track/6qRmb4uhIUaWE5LySgSfQS"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Sit Here And Love Me",
+      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+        "name": "Dark River",
+        "url": "https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
         }
       ],
-      "duration_ms": 205080,
-      "name": "Sit Here And Love Me",
-      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
+      "duration_ms": 194560,
+      "name": "Occasionally",
+      "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1255,22 +1271,6 @@
       "duration_ms": 225484,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
-        "name": "Dark River",
-        "url": "https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu"
-      },
-      "artists": [
-        {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Occasionally",
-      "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
         "name": "Metals",
         "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
         "name": "Motel Bouquet",
         "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 184787,
       "name": "Motel",
       "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Do You See The Light Around Me?",
+        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 204034,
+      "name": "Do You See The Light Around Me?",
+      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1443,22 +1459,6 @@
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Do You See The Light Around Me?",
-        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 204034,
-      "name": "Do You See The Light Around Me?",
-      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Ear to the Ground",
-        "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
-      },
-      "artists": [
-        {
-          "name": "Malvina Reynolds",
-          "url": "https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "Little Boxes",
-      "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 246611,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Ear to the Ground",
+        "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
+      },
+      "artists": [
+        {
+          "name": "Malvina Reynolds",
+          "url": "https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "Little Boxes",
+      "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Pohorylle",
-        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
-      },
-      "artists": [
-        {
-          "name": "Margo Cilker",
-          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Tehachapi",
-      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Riddy Arman",
         "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Pohorylle",
+        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Tehachapi",
+      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Like An Old Fashioned Waltz (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TanbE0knS2g91OueucHT9"
+        "name": "Black Irish",
+        "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
       },
       "artists": [
         {
-          "name": "Sandy Denny",
-          "url": "https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ"
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
         }
       ],
-      "duration_ms": 335626,
-      "name": "Who Knows Where The Time Goes? - BBC Session - John Peel 11/9/73",
-      "url": "https://open.spotify.com/track/0Adfl7F4StzQMrFgPcR5Ys"
+      "duration_ms": 241203,
+      "name": "Banshee Moan",
+      "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
+        "name": "Like An Old Fashioned Waltz (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TanbE0knS2g91OueucHT9"
+      },
+      "artists": [
+        {
+          "name": "Sandy Denny",
+          "url": "https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ"
+        }
+      ],
+      "duration_ms": 335626,
+      "name": "Who Knows Where The Time Goes? - BBC Session - John Peel 11/9/73",
+      "url": "https://open.spotify.com/track/0Adfl7F4StzQMrFgPcR5Ys"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
         "name": "B\u00e9la Fleck & Abigail Washburn",
         "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 216306,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
-        "name": "Black Irish",
-        "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
-      },
-      "artists": [
-        {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
-        }
-      ],
-      "duration_ms": 241203,
-      "name": "Banshee Moan",
-      "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Till the Real Thing Comes Along",
+      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
         "name": "Not Dark Yet",
         "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 173077,
       "name": "How Bad I Wanna Live",
       "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Till the Real Thing Comes Along",
-      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -2121,22 +2121,6 @@
       "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
-        "name": "Natural Conclusion",
-        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 268660,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE"
-    },
-    {
       "added_at": "2022-03-08 05:00:00",
       "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
@@ -2155,6 +2139,22 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Natural Conclusion",
+        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 268660,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Letting Me Down",
-      "url": "https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
         "name": "Sorry Now",
         "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
       },
@@ -2323,18 +2307,18 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Old Time Feeling",
-        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 217840,
-      "name": "The Way I Talk",
-      "url": "https://open.spotify.com/track/11LF71gzwF15dEduLexVg3"
+      "duration_ms": 194533,
+      "name": "Letting Me Down",
+      "url": "https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -2351,6 +2335,22 @@
       "duration_ms": 156493,
       "name": "If Wishes Were Horses",
       "url": "https://open.spotify.com/track/2nA1lz23dIfkjpMPnGKKyg"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/11LF71gzwF15dEduLexVg3"
     },
     {
       "added_at": "2021-03-05 17:16:41",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
-        "name": "Clotho's Web",
-        "url": "https://open.spotify.com/album/5unf8DycGu4dBjZwFdPMjd"
-      },
-      "artists": [
-        {
-          "name": "Julie Felix",
-          "url": "https://open.spotify.com/artist/7jqjvT22ycFRTQD0lI6Vi8"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "Fire, Water, Earth And Air",
-      "url": "https://open.spotify.com/track/08HfNqZtFpypCW5luKg0uX"
-    },
-    {
-      "added_at": "2021-03-05 17:16:41",
-      "album": {
         "name": "In the Magic Hour",
         "url": "https://open.spotify.com/album/1sfz6tIsPAhgsqvcCZ6fvw"
       },
@@ -2527,6 +2511,38 @@
     {
       "added_at": "2021-03-05 17:16:41",
       "album": {
+        "name": "Stand In",
+        "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
+      },
+      "artists": [
+        {
+          "name": "Deva Mahal",
+          "url": "https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0"
+        }
+      ],
+      "duration_ms": 286388,
+      "name": "Stand In",
+      "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
+        "name": "Clotho's Web",
+        "url": "https://open.spotify.com/album/5unf8DycGu4dBjZwFdPMjd"
+      },
+      "artists": [
+        {
+          "name": "Julie Felix",
+          "url": "https://open.spotify.com/artist/7jqjvT22ycFRTQD0lI6Vi8"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "Fire, Water, Earth And Air",
+      "url": "https://open.spotify.com/track/08HfNqZtFpypCW5luKg0uX"
+    },
+    {
+      "added_at": "2021-03-05 17:16:41",
+      "album": {
         "name": "Rule 62",
         "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
       },
@@ -2539,22 +2555,6 @@
       "duration_ms": 250080,
       "name": "You Don't Scare Me",
       "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Plain Letters (Reimagined)",
-        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 273150,
-      "name": "Plain Letters - Reimagined",
-      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
     }
   ],
   "unique_name": "Women of Folk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dream Boyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,675 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,744 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 27 | [Tu És a Mulher](https://open.spotify.com/track/3AxKlhbCVMwrDbP4laSyys) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [King Ckwa](https://open.spotify.com/album/7F4vDACMrg7U40ZRAA1VTV) | 4:36 |
 | 28 | [Já Te Conheço \(feat\. Bruna Tatiana\) \- Remix](https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Bruna Tatiana](https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H) | [Já Te Conheço \(feat\. Bruna Tatiana\) \[Remix\]](https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n) | 3:57 |
 | 29 | [Chouchou](https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Chouchou](https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2) | 3:03 |
-| 30 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 |
-| 31 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 |
+| 30 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 |
+| 31 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 |
 | 32 | [Magico](https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Sem Limite](https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB) | 3:57 |
 | 33 | [Number One](https://open.spotify.com/track/0rauOsfmlYgBGkWFc4NHft) | [Boy Teddy](https://open.spotify.com/artist/14W9ZwBj7ccu21CPJtenCh) | [Number One](https://open.spotify.com/album/3avFebwaW78qZoLNXmBhLx) | 3:46 |
 | 34 | [Tudo por Amor](https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Kataleya](https://open.spotify.com/artist/17ABH2YXJGKpvpoqeeQLSP) | [Tudo por Amor](https://open.spotify.com/album/0L7a3qE6SVlrzHpfZiD7Fa) | 3:26 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 46 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 |
 | 47 | [Cada Detalhe Teu](https://open.spotify.com/track/6p7j5VQkywOk8aPKw2CGpU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Cada Detalhe Teu](https://open.spotify.com/album/02y9Q2mTw9lGr3C3A3IO79) | 3:26 |
 | 48 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
-| 49 | [Meu Marido](https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Meu Marido](https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq) | 3:39 |
-| 50 | [Fala so](https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [Fala so](https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA) | 3:26 |
+| 49 | [Fala so](https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [Fala so](https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA) | 3:26 |
+| 50 | [Meu Marido](https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Meu Marido](https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq) | 3:39 |
 | 51 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 |
 | 52 | [Nha Rainha \(feat\. Dino D'Santiago\)](https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [The Gentleman](https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0) | 3:46 |
 | 53 | [Cigana Linda](https://open.spotify.com/track/5ZhYcNNdJMYUkUkFjeuWDI) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Cigana Linda](https://open.spotify.com/album/0cuU1N758RKwWSrTFf2IvK) | 3:38 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 66 | [You](https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [You](https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7) | 3:15 |
 | 67 | [PAPI](https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [PAPI](https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD) | 3:37 |
 | 68 | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO) | 3:59 |
-| 69 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 |
-| 70 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 |
+| 69 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 |
+| 70 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 |
 | 71 | [Quem É ?](https://open.spotify.com/track/0SY4UXTIPkVlyGWFJhKMcY) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Quem É ?](https://open.spotify.com/album/0WYtQwKFvonkmJG6z32Ebj) | 3:19 |
 | 72 | [Já Não Sei](https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO) | 4:21 |
 | 73 | [Apaixonado](https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 79 | [Rainha](https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:55 |
 | 80 | [Cara Trancada](https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ) | [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Cara Trancada](https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI) | 4:16 |
 
-Snapshot ID: `MTY2NDQ5MjU4MCwwMDAwMDAwMGEwMWZhYjM1NTAwMmQ5YmRhYmVjYmQ3MTkxZDIxMmM4`
+Snapshot ID: `MTY2NDQ5MjU4MCwwMDAwMDAwMDhkYWY5MmZmMGI0MGUxYzIwYTE4NDM2ZGQyMGEyZWEy`

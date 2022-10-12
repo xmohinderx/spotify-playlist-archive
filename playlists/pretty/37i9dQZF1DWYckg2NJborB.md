@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,250 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,245 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 47 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 |
 | 48 | [Harper Lee](https://open.spotify.com/track/5KWesyeHlejVprGxufFxtq) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf) | 3:31 |
 | 49 | [Postdoc Blues](https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Winter Wheat](https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia) | 3:23 |
-| 50 | [The Writer](https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 4:11 |
+| 50 | [The Tea Song](https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [First Songs](https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ) | 7:28 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDE4NWQ2MjkyODVmMjI5MmU1NzNkNjYxZTcyYWVmY2Rm`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDZhZjNjMTA4MWE0OGU0YWRjMGM4YzcyYTI5ZmU4OTZl`

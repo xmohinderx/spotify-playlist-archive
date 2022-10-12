@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 191964,
       "name": "CASE 143",
       "url": "https://open.spotify.com/track/1klq7dgG1Pz0ijci5Pmae1"
@@ -1513,7 +1513,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -7136,6 +7136,24 @@
     },
     {
       "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "album": {
         "name": "NOEASY",
         "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
       },
@@ -7415,7 +7433,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -10553,7 +10571,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 165164,
       "name": "\u0414\u0443\u043c\u0438",
       "url": "https://open.spotify.com/track/3bKxhUuoRvSRwIdyZfQa3F"
@@ -13795,7 +13813,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 170109,
       "name": "\u041f\u0440\u043e\u0441\u0438 \u043f\u0440\u043e\u0431\u0430\u0447\u0435\u043d\u043d\u044f",
       "url": "https://open.spotify.com/track/11EG8OCCFflxDVkVXQF2p7"
@@ -13889,7 +13907,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 124800,
       "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"
@@ -15973,7 +15991,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 158170,
       "name": "\u0427\u0438 \u0440\u0430\u0437\u043e\u043c",
       "url": "https://open.spotify.com/track/4LVrOvwpUuJFP2JsIGTptg"

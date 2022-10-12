@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Our favorite R&B artists on the rise! Cover: Dylan Sinclair, JVCK JAMES and Destin Conrad.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,116 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,133 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 28 | [Still Got 4ever](https://open.spotify.com/track/0lT3BPJaW1LFCUjpxNHIaq) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Still Got 4ever](https://open.spotify.com/album/3G3kujnBjUxC2etYtHDto6) | 2:17 |
 | 29 | [Streets](https://open.spotify.com/track/1TYByBVUgkH7lndO0YRmbl) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Streets](https://open.spotify.com/album/0JRGXtHtaXzYM4fEhtXJw3) | 2:24 |
 | 30 | [Love Quotes](https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Love Quotes](https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI) | 3:15 |
-| 31 | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx) | 2:37 |
+| 31 | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx) | 2:11 |
 | 32 | [Dopamine \(with NBDY\)](https://open.spotify.com/track/2OR6sDdibyxWVQaYlbk7k1) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA), [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Dopamine \(with NBDY\)](https://open.spotify.com/album/29lqXMJ4ZefBTjPbao7mYe) | 3:42 |
 | 33 | [Patience](https://open.spotify.com/track/25nKH6GqJzyrdFnKnJYZcJ) | [Jawan x Tiffany](https://open.spotify.com/artist/7FhN2piwL7x4je3G5JyeEW) | [Patience](https://open.spotify.com/album/5Fn7jOm4tFDBpKL9KeRnO8) | 3:18 |
 | 34 | [Made For 2](https://open.spotify.com/track/0mxezMhQVXJuzdVbVvL6wb) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [While You Wait](https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL) | 3:29 |

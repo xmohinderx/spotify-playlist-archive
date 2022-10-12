@@ -4034,6 +4034,28 @@
     },
     {
       "album": {
+        "name": "What Have We Got to Lose",
+        "url": "https://open.spotify.com/album/5TeiUeXr6EdjZL9F08QPJf"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        },
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169326,
+      "name": "What Have We Got to Lose",
+      "url": "https://open.spotify.com/track/2sCDzRlkLoeYpZX00i6iiq"
+    },
+    {
+      "album": {
         "name": "Heron",
         "url": "https://open.spotify.com/album/7csQzflMm21S2om4y9HpGX"
       },
@@ -4135,7 +4157,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 272080,
       "name": "Wild Turkey",
       "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"

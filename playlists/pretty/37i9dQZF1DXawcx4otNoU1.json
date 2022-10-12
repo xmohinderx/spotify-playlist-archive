@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 439527,
+  "num_followers": 439721,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0Nzk0MywwMDAwMDAwMGYxNGFjOWViYzhmNWVkMzdmYTJjYTQwODY5YTc3NzYy",
+  "snapshot_id": "MTY2NDU0Nzk0MywwMDAwMDAwMGMwOWRjNDQwZWIzY2UzZTdhNTAxNTE1OWFlY2Q3NjRi",
   "tracks": [
     {
       "added_at": "2022-09-30 14:22:50",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
     },
     {
-      "added_at": "2022-10-11 01:49:10",
+      "added_at": "2022-10-12 02:05:15",
       "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
-      "added_at": "2022-10-11 01:49:10",
+      "added_at": "2022-10-12 02:05:15",
       "album": {
         "name": "The Bedroom Tour Playlist",
         "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Halcyon Days",
-        "url": "https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 154435,
-      "name": "How Long Will I Love You - Bonus Track",
-      "url": "https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Isaiah",
         "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 193446,
       "name": "It's Gotta Be You",
       "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Halcyon Days",
+        "url": "https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 154435,
+      "name": "How Long Will I Love You - Bonus Track",
+      "url": "https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "One Call Away (Acoustic + Remixes)",
-        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 271226,
       "name": "Hometown Glory",
       "url": "https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "One Call Away (Acoustic + Remixes)",
+        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Air: Aquarius' Songs",
-        "url": "https://open.spotify.com/album/4Md8YZmHgLlflGYj9HF5Bk"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 270486,
-      "name": "Ghost in the Wind",
-      "url": "https://open.spotify.com/track/7yyKgVdqUPMAZGIV02Ppip"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "So Close To Magic",
         "url": "https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 202289,
       "name": "So Close To Magic",
       "url": "https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Air: Aquarius' Songs",
+        "url": "https://open.spotify.com/album/4Md8YZmHgLlflGYj9HF5Bk"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 270486,
+      "name": "Ghost in the Wind",
+      "url": "https://open.spotify.com/track/7yyKgVdqUPMAZGIV02Ppip"
     },
     {
       "added_at": "2022-09-30 14:22:50",

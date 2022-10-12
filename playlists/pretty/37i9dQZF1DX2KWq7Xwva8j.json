@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Walls",
-  "num_followers": 19753,
+  "num_followers": 19759,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNzM2OSwwMDAwMDAwMDU3YTU5MDYyNjdjNzlmMjBkNDQwMTRiMTkwYTkwMzYw",
+  "snapshot_id": "MTY2MzkxNzM2OSwwMDAwMDAwMDg2NTVlOTY2ZGYwM2I0ZWQyODA4MzlkODI3ZTY4ODVj",
   "tracks": [
     {
       "added_at": "2022-09-23 07:16:09",
@@ -663,26 +663,18 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
-        "name": "Lombard\u00eda 22",
-        "url": "https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi"
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
       },
       "artists": [
         {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 179984,
-      "name": "Inercia",
-      "url": "https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj"
+      "duration_ms": 178280,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -715,6 +707,30 @@
       "duration_ms": 177002,
       "name": "canci\u00f3n de amor",
       "url": "https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
+        "name": "Lombard\u00eda 22",
+        "url": "https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "duration_ms": 179984,
+      "name": "Inercia",
+      "url": "https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -759,22 +775,6 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
         "name": "Moncler",
         "url": "https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
-        "name": "Soy Un Desastre",
-        "url": "https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp"
-      },
-      "artists": [
-        {
-          "name": "Paloma Roll\u00e1n",
-          "url": "https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7"
-        }
-      ],
-      "duration_ms": 174623,
-      "name": "Soy Un Desastre",
-      "url": "https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
         "name": "Ya No Hace Falta",
         "url": "https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV"
       },
@@ -843,6 +827,42 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
+        "name": "Soy Un Desastre",
+        "url": "https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp"
+      },
+      "artists": [
+        {
+          "name": "Paloma Roll\u00e1n",
+          "url": "https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7"
+        }
+      ],
+      "duration_ms": 174623,
+      "name": "Soy Un Desastre",
+      "url": "https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
         "name": "scenario!",
         "url": "https://open.spotify.com/album/5MFMSsSrGV3isktdCZm1jL"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 194166,
       "name": "scenario!",
       "url": "https://open.spotify.com/track/3thdka0EjolLblroJXiE3U"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
-        "name": "Dime Algo (bonito) (True Fans Edition)",
-        "url": "https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        },
-        {
-          "name": "Buffetlibre",
-          "url": "https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh"
-        }
-      ],
-      "duration_ms": 202126,
-      "name": "Ojal\u00e1 Fu\u00e9ramos Amigos (Buffetlibre Remix)",
-      "url": "https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB"
     }
   ],
   "unique_name": "Radar Espa\u00f1a",

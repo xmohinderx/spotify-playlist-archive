@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Ramon Vega
 
-207 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/6BABfI7FRig6PawzmBqz25)
+208 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/6BABfI7FRig6PawzmBqz25)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2022-05-20 | 2022-08-06 |
 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 | 2022-07-01 |  |
 | [papacito](https://open.spotify.com/track/1nV5gbrDdxfua6ICkCVTgY) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/0pZWmEVf32O4FD96hUwnGb) | 3:05 | 2022-05-20 | 2022-08-06 |
-| [Para Ti No](https://open.spotify.com/track/5SpueQHv3xgumn1fHbtRZY) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/4EapkHVCYFicbJrMFriCUn) | 3:19 | 2022-09-23 |  |
+| [Para Ti No](https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9) | 3:19 | 2022-09-23 |  |
+| [Para Ti No](https://open.spotify.com/track/5SpueQHv3xgumn1fHbtRZY) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/4EapkHVCYFicbJrMFriCUn) | 3:19 | 2022-09-23 | 2022-10-12 |
 | [Pausa](https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa) | [EVAH](https://open.spotify.com/artist/0Jq68za8AyaPdrI4NEuMni) | [Pausa](https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY) | 4:03 | 2022-02-11 | 2022-09-07 |
 | [Pegao](https://open.spotify.com/track/3xRL44yxBVRAReOGShbXaG) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:49 | 2022-02-11 | 2022-08-06 |
 | [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz) | 2:41 | 2022-08-17 |  |

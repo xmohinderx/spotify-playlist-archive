@@ -4990,6 +4990,24 @@
     },
     {
       "album": {
+        "name": "\u30d7\u30eb\u30fc\u30f4\u30a7",
+        "url": "https://open.spotify.com/album/0KjPmVz3whYFS5XJ8GEK71"
+      },
+      "artists": [
+        {
+          "name": "Chinozo",
+          "url": "https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183337,
+      "name": "\u30d7\u30eb\u30fc\u30f4\u30a7",
+      "url": "https://open.spotify.com/track/3irhzt4XzHJL4BL7HJlhym"
+    },
+    {
+      "album": {
         "name": "\u30d7\u30ec\u30c7\u30bf\u30fc",
         "url": "https://open.spotify.com/album/08JwMkdLLIUjZdWpqTRBO1"
       },
@@ -5037,7 +5055,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 251555,
       "name": "\u30d8\u30d6\u30f3\u30c9\u30fc\u30d7",
       "url": "https://open.spotify.com/track/6IoP5FmMvNbEprdp4FBo4b"
@@ -5341,6 +5359,24 @@
       "duration_ms": 216544,
       "name": "\u30df\u30eb\u30af\u30af\u30e9\u30a6\u30f3\u30fb\u30aa\u30f3\u30fb\u30bd\u30fc\u30cd\u30c1\u30ab",
       "url": "https://open.spotify.com/track/2jxakPQFR2IBXVmvt5y8YB"
+    },
+    {
+      "album": {
+        "name": "\u30e0\u30b7",
+        "url": "https://open.spotify.com/album/0b5DgRJYVg14f2ooIOTCmN"
+      },
+      "artists": [
+        {
+          "name": "Chinozo",
+          "url": "https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162355,
+      "name": "\u30e0\u30b7",
+      "url": "https://open.spotify.com/track/0pmFAdNnqQaEWO6hj3jQ8e"
     },
     {
       "album": {
@@ -5781,6 +5817,24 @@
       "duration_ms": 230000,
       "name": "\u30ef\u30f3\u30b9\u30a2\u30dd\u30f3\u30a2\u30c9\u30ea\u30fc\u30e0",
       "url": "https://open.spotify.com/track/5Uh3CLhXeX8mzvCqBFEqoB"
+    },
+    {
+      "album": {
+        "name": "\u30ef\u30f3\u30c0\u30fc\u30eb\u30a4\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/70xv2TpvqR0kaoEM7wRpxf"
+      },
+      "artists": [
+        {
+          "name": "\u6674\u3044\u3061\u3070\u3093",
+          "url": "https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152266,
+      "name": "\u30ef\u30f3\u30c0\u30fc\u30eb\u30a4\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/0KJK8zSp8AMoKEYY03Sr26"
     },
     {
       "album": {
@@ -7749,7 +7803,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 257454,
       "name": "\u8e0a\u308c\u306a\u304f\u306a\u308b\u69d8\u306b\u8e0a\u3089\u305b\u3066",
       "url": "https://open.spotify.com/track/1dRPMDd77CoCwSxbcLqShU"

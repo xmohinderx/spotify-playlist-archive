@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 14037,
+  "num_followers": 14043,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDZhNTk3ZTUzODViOTFkYWRiNGVjZjU1NDM3MmQ3ODNh",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGFhZGNkYzFjZDU3MmQzOGFjODNjYTkzZDEyZWIwZDcw",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
-      },
-      "artists": [
-        {
-          "name": "Carolina Winograd",
-          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Un sue\u00f1o de barrio",
         "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 208384,
       "name": "Confidencias",
       "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
+      },
+      "artists": [
+        {
+          "name": "Carolina Winograd",
+          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
+        }
+      ],
+      "duration_ms": 231373,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
     },
     {
       "added_at": "2022-07-08 03:00:00",

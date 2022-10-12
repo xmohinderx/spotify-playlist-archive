@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,733 likes - 309 songs - 16 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,826 likes - 309 songs - 16 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 128 | [Pink Ocean](https://open.spotify.com/track/0iFltMWsFTOAJOmikHSy7u) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Magic](https://open.spotify.com/album/06wWoKGWiOLPonZsyS5AUT) | 2:16 |
 | 129 | [Pink Noise in the Meeting Room](https://open.spotify.com/track/1DGSKBJRThQuKhscSfIXVg) | [Lavia 6](https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR) | [Pink Noise](https://open.spotify.com/album/5lmZLfcvrnvagcOI7jpFd8) | 2:59 |
 | 130 | [Work Well Pink Noise](https://open.spotify.com/track/3WMe5SxDkdvOZFUvpEGzN9) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Pink Noise for Studying and Working](https://open.spotify.com/album/5WQUkTeQeerp9j75bXYddp) | 3:12 |
-| 131 | [pink peace](https://open.spotify.com/track/1ToLGY7ev8l7tzu6uZgf8D) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [pink clouds \(white noise\)](https://open.spotify.com/album/5ad5teildwaJGH9GeSh80r) | 3:17 |
+| 131 | [pink peace](https://open.spotify.com/track/1NCSJ03f85D3GBiADZmwBQ) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [pink clouds \(white noise\)](https://open.spotify.com/album/0FVwBW6k7wwy6rEbbOIARq) | 3:17 |
 | 132 | [Pink Noise in the Atmosphere](https://open.spotify.com/track/01Fzvabb70YTbHUP6J8Kme) | [Dream Storms](https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T) | [Pink Noise in the Atmosphere](https://open.spotify.com/album/3Micp5XP6PCBNCbYGPNz4r) | 3:25 |
 | 133 | [Misty Pink Noise](https://open.spotify.com/track/2IoyFFPEFomSG6COU97KlV) | [Dream Storms](https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T) | [Restoring with Pink Noise](https://open.spotify.com/album/3Dsjl3oJSJJKbh92wSzHTG) | 3:10 |
 | 134 | [Pink Noise Lab](https://open.spotify.com/track/60HmZGoMvSKvuyYpMVLiK8) | [Pink Orbit](https://open.spotify.com/artist/1OcOohHo7T54wkzZhIs6KA) | [Pink](https://open.spotify.com/album/1P0HcplurW803Fh3qkSU7r) | 3:48 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 308 | [Brown Noise 305Hz LP](https://open.spotify.com/track/2MwDcp31IUky9fqNtl921b) | [The Noise Nannies](https://open.spotify.com/artist/48aOQA9ncCbyJEekpVMT1l) | [Good Night](https://open.spotify.com/album/6a4HHyJwk1irUwo4X8Uxx4) | 4:08 |
 | 309 | [Float Chamber](https://open.spotify.com/track/5P9UkTI8azKGhh1SzXuyGN) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Brown Sleep Noise](https://open.spotify.com/album/2NEpp4wrvFoeL3isMKpyXr) | 4:08 |
 
-Snapshot ID: `MTY2MjYzOTI5MywwMDAwMDAwMGI0M2M4Zjg1ZWU3NzU2NGExZDdmNzEyNWE0NGUxNDRj`
+Snapshot ID: `MTY2MjYzOTI5MywwMDAwMDAwMGRiYWMzZGI0MTE5YmM5MWI0M2U2M2Q5NTVhNGY0NDk2`

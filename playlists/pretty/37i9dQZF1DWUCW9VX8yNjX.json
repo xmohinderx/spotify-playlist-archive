@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 67494,
+  "num_followers": 67562,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMDcwZDM2ZmU3NzkyODFiOWZkNmI2YWNhYmMzNDg1MzVh",
+  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMGJkMGUzZTgwYmM2ZWE3NmUwZTAxOTZmMWNmYjMxN2Zh",
   "tracks": [
     {
       "added_at": "2021-12-14 16:21:13",
@@ -859,6 +859,22 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Mientras Ustedes No Dejen De Aplaudir...",
+        "url": "https://open.spotify.com/album/302OzIxo56uSLp0ZY1MuTY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 177080,
+      "name": "Urge",
+      "url": "https://open.spotify.com/track/3xrowzZGezyuEBl9UzAN4W"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Mientras Ustedes No Dejen De Aplaudir...",
-        "url": "https://open.spotify.com/album/302OzIxo56uSLp0ZY1MuTY"
+        "name": "De Noche - Clasicos A Mi Manera",
+        "url": "https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 177080,
-      "name": "Urge",
-      "url": "https://open.spotify.com/track/3xrowzZGezyuEBl9UzAN4W"
+      "duration_ms": 198480,
+      "name": "No",
+      "url": "https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -907,22 +923,6 @@
       "duration_ms": 196520,
       "name": "El Hombre Que M\u00e1s Te Am\u00f3",
       "url": "https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "De Noche - Clasicos A Mi Manera",
-        "url": "https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "No",
-      "url": "https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Confidencias",
-        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "C\u00f3ncavo Y Convexo",
-      "url": "https://open.spotify.com/track/0HYdtyMwBcGzw0tfwrXlg0"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 186773,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/6cwPxkPg5Cf1Rb1mS4MZXY"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Confidencias",
+        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "C\u00f3ncavo Y Convexo",
+      "url": "https://open.spotify.com/track/0HYdtyMwBcGzw0tfwrXlg0"
     },
     {
       "added_at": "2021-12-14 16:21:13",

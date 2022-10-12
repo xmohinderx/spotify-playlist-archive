@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Wegz & Ash.
 
-73 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+74 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Ya Mustafa Ya Mustafa \- Moaaz Music Remix](https://open.spotify.com/track/0CaEUXeb3yKbem3QrQ5zin) | [Bob Azzam](https://open.spotify.com/artist/6aHHLKbMeqAmTkdwcogHjE), [Moaaz Music](https://open.spotify.com/artist/7qwBZEZI6m4jLunVoJaUR5) | [Ya Mustafa Ya Mustafa \(Moaaz Music Remix\)](https://open.spotify.com/album/7HWVdFT7PnPB823muVrHKG) | 2:44 | 2022-03-30 | 2022-08-23 |
 | [Ya Rawa'anek](https://open.spotify.com/track/63z26Te7baeagaYRW3BvbY) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Sahran](https://open.spotify.com/album/08fHah0PYjQwfoqIis8y84) | 4:15 | 2022-03-30 | 2022-05-20 |
 | [Ya Rayt \- Shkoon Radio Edit](https://open.spotify.com/track/4dQkzZlY6SKoanDrWGv8WQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7), [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Ya Rayt \(Shkoon Remix\)](https://open.spotify.com/album/5aBPfggkU1oEEA36MJ3yEg) | 3:32 | 2022-03-30 |  |
+| [Yena'al Li](https://open.spotify.com/track/5HhdXBRK4cI9mVO6Y9G4WT) | [Wassim Younes](https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn), [Sahraaoui](https://open.spotify.com/artist/2dTsEuAzvCDqcUVeOt6yff) | [Yena'al Li](https://open.spotify.com/album/03q6CZrTFtaSAUDi1xdRhs) | 4:52 | 2022-10-11 |  |
 | [Youm Talat \(Remix\)](https://open.spotify.com/track/6uv7lEEKwtg4VZOEUJKD4F) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Youm Talat \(Remix\)](https://open.spotify.com/album/6V8QwgQg0Xszo8zu2Do44K) | 3:38 | 2022-03-30 | 2022-05-20 |
 | [اوصف إيه](https://open.spotify.com/track/12l68oU7N5fVszEFBkC7LU) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [اوصف إيه](https://open.spotify.com/album/1MCnD6k9S5iuQT5utEx6RZ) | 3:42 | 2022-03-30 |  |
 | [اوصف إيه](https://open.spotify.com/track/5tBFzLIvD5aDF1lyE2v919) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [اوصف إيه](https://open.spotify.com/album/7uHOKN0gXmqRq81a5pLRnM) | 3:42 | 2022-08-28 | 2022-09-30 |

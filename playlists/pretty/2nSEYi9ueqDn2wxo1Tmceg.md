@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 78,716 likes - 50 songs - 3 hr 25 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 78,713 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 5 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 |
 | 6 | [Off Goes The Light](https://open.spotify.com/track/7EqezifSDgoyiNnj7TPJYc) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Off Goes The Light](https://open.spotify.com/album/1fTS59Y3aXI3fg1eLHUuZV) | 4:33 |
 | 7 | [Eternal September](https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [Eternal September](https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs) | 5:33 |
-| 8 | [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [The Golden Dregs](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 |
+| 8 | [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 |
 | 9 | [Trauma Bonds](https://open.spotify.com/track/7EK5WUCx5meu0sMKA9yxBc) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [0151](https://open.spotify.com/album/2fTfRwcAKBWVCuiKd2aXau) | 4:38 |
 | 10 | [Fourth Street](https://open.spotify.com/track/0X0wvYSFhO4x16YPjsf5lt) | [Matthew J\. Rolin](https://open.spotify.com/artist/68rinFQxxFCa8OLe0RblWe) | [Fourth Street](https://open.spotify.com/album/1E7iI6I8FY6oAaHIMon95J) | 4:16 |
 | 11 | [Immunity](https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:50 |

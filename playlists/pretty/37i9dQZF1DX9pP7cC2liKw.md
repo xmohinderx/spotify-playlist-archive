@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,927 likes - 70 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,202 likes - 70 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 53 | [Rare Happiness](https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Hunch Music](https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV) | 5:51 |
 | 54 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
 | 55 | [Xica Xica](https://open.spotify.com/track/1IkN4xIoHRSkk0j5t50S42) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Balance](https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx) | 4:28 |
-| 56 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX) | 3:27 |
-| 57 | [Chicha Nola \- Alternative Version](https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37) | 3:34 |
+| 56 | [Chicha Nola \- Alternative Version](https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37) | 3:34 |
+| 57 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 |
 | 58 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
-| 59 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 |
+| 59 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX) | 3:27 |
 | 60 | [Danza de Vision](https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:29 |
 | 61 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
 | 62 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 64 | [Agua de La Tierra \- Nicola Cruz Remix](https://open.spotify.com/track/3z55fMIOftbrZrZ0Z7WbbW) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [El Origen](https://open.spotify.com/album/0wOHl1sUUJ5fw2YLCClpyr) | 4:53 |
 | 65 | [Pájaros en Verano](https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Pájaros en Verano](https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS) | 3:16 |
 | 66 | [Tuyo \- Original Mix](https://open.spotify.com/track/3ZcjaZ8kqimC1lgQ3662U0) | [Supernova](https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Tuyo](https://open.spotify.com/album/0mNt37lNYCqm2EN6LCLwml) | 6:34 |
-| 67 | [Jardines](https://open.spotify.com/track/7at4rkvJsE7CO1gXlcJpDM) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 4:46 |
-| 68 | [La Frontera](https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Jallalla](https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c) | 5:40 |
+| 67 | [La Frontera](https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Jallalla](https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c) | 5:40 |
+| 68 | [Jardines](https://open.spotify.com/track/7at4rkvJsE7CO1gXlcJpDM) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 4:46 |
 | 69 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 |
-| 70 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
+| 70 | [Chapinero](https://open.spotify.com/track/0yENDAPqNW1hksxq9KUt8n) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/0ap1ioMSBoEr7eWqwU2DxH) | 3:42 |
 
-Snapshot ID: `MTY2NDUxMDYyNCwwMDAwMDAwMDE0ZDEzOGI4NjI2NWU2ODNmYjkzZTk2MmRjZTQzN2Jm`
+Snapshot ID: `MTY2NDUxMDYyNCwwMDAwMDAwMDY5ZTA0ZjkzMTRjZjA3MzFkYTI0OGRkNTA5M2NiZjYw`

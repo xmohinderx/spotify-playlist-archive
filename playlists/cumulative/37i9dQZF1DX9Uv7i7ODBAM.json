@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "SKETCH",
+        "url": "https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237680,
+      "name": "SKETCH",
+      "url": "https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj"
+    },
+    {
+      "album": {
         "name": "My Hero Academia: Season 5 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG"
       },

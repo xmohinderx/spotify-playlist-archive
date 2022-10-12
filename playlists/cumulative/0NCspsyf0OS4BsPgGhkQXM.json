@@ -6482,6 +6482,24 @@
     },
     {
       "album": {
+        "name": "NO FAVOURS",
+        "url": "https://open.spotify.com/album/3xERg2Wr4enMFY9poxdOfG"
+      },
+      "artists": [
+        {
+          "name": "ACER SPADE",
+          "url": "https://open.spotify.com/artist/6AMCz8h8BXJhZugOwvOtRJ"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195011,
+      "name": "NO FAVOURS",
+      "url": "https://open.spotify.com/track/4wWlaMxGW7nNI2NgoSYBkO"
+    },
+    {
+      "album": {
         "name": "No Strings",
         "url": "https://open.spotify.com/album/2pyDFDmWBK3pAPprRqEOw5"
       },

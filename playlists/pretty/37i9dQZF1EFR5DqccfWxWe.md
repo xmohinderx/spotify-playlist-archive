@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 151 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 151 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 29 | [You](https://open.spotify.com/track/3CzJWNBSRUlRBGP5Vvp5mL) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 3:38 |
 | 30 | [Love Looks Like](https://open.spotify.com/track/2SfdyDfdZMtr1Wly6ZdYYJ) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Love Looks Like](https://open.spotify.com/album/7jwpTVabsnsvYRewJEhxka) | 3:51 |
 | 31 | [Through The Eyes Of A Child](https://open.spotify.com/track/4Edf9rMWf3diUWQ7dVVXLC) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Reamonn](https://open.spotify.com/album/6mBD8yF24pYPia4n401Krw) | 3:51 |
-| 32 | [Ahora Soy Libre](https://open.spotify.com/track/6DTXxggEkmEJallW8qMrIm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:45 |
-| 33 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 32 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 33 | [Ahora Soy Libre](https://open.spotify.com/track/6DTXxggEkmEJallW8qMrIm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:45 |
 | 34 | [Lo Que No Di](https://open.spotify.com/track/2uIuSumfgTKeRXiGw30LRT) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:32 |
 | 35 | [It's OK](https://open.spotify.com/track/1mOiejXxgYA9ep3z61SN7Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ELDISCO](https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd) | 3:32 |
 | 36 | [Dime Que Me Esperas](https://open.spotify.com/track/3fwT5kqPyhpQQwNfb6hVzd) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Senti2](https://open.spotify.com/album/6aO5DFSqg8QuY2oVsoOsmG) | 3:49 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 78 | [Cadillac \(feat\. Manuel Medrano\)](https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Cuerpo y Alma](https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9) | 3:27 |
 | 79 | [La Pena](https://open.spotify.com/track/2MhpzkfWvLJmT4WoodDiu6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:27 |
 | 80 | [Encontrei](https://open.spotify.com/track/0IsDPloVKxEerfg2agbXdE) | [Marina Elali](https://open.spotify.com/artist/77Wl6L20WG41VO6pqpHrkL) | [Novelas](https://open.spotify.com/album/1W9H44bGFEzck4PlrmKq9q) | 4:13 |
-| 81 | [Perdón](https://open.spotify.com/track/13rN1xuHZuJ7ji46evbuor) | [Johann Vera](https://open.spotify.com/artist/3LP4XtcdBxAaO3ZevTTppB) | [Perdón](https://open.spotify.com/album/3rkJ8E3ExHU0ZeYkIMzAKn) | 3:14 |
-| 82 | [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 |
+| 81 | [Los Rotos](https://open.spotify.com/track/6m8Trwk0TR8ZHLgRfcHiVZ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/3Jct1NzCRYQZno5UbLVgfP) | 3:26 |
+| 82 | [Perdón](https://open.spotify.com/track/13rN1xuHZuJ7ji46evbuor) | [Johann Vera](https://open.spotify.com/artist/3LP4XtcdBxAaO3ZevTTppB) | [Perdón](https://open.spotify.com/album/3rkJ8E3ExHU0ZeYkIMzAKn) | 3:14 |
 | 83 | [El Río](https://open.spotify.com/track/4tjA9rQ9e7ya0n8LIrZckS) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Que No Me Falte la Voz](https://open.spotify.com/album/5zz2XeUnisl841JMlybgxw) | 3:04 |
 | 84 | [Dime Si Hay Algo](https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz) | 2:40 |
 | 85 | [Psoi](https://open.spotify.com/track/33EX081FUfRtJvnpngpNBt) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Psoi](https://open.spotify.com/album/4SVT8R87bjvskhdY5AHYhY) | 2:50 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc3NTc1MDMsMDAwMDAwMDBmZTExNTVmNGQ5ODhkMDE1YjEyZTE2MzRhMTNjMzhiMA==`
+Snapshot ID: `Mjc3NTkwMDQsMDAwMDAwMDBhOTAxMWU2ZTRmMTNjMDEyZTY3MDQ4YmZhMDZhODJmYQ==`

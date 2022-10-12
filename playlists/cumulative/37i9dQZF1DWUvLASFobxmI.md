@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Duelo en portada.
 
-169 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+170 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 | 2021-12-17 |  |
 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 | 2022-07-01 |  |
 | [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN) | 7:38 | 2022-07-01 |  |
-| [Por Ella Tomo](https://open.spotify.com/track/0FkATCT3LOTcMaDh6nwFsl) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Por Ella Tomo](https://open.spotify.com/album/0a5Wnsr4Z7LHcqzONGR1XY) | 3:05 | 2022-07-01 |  |
+| [Por Ella Tomo](https://open.spotify.com/track/0FkATCT3LOTcMaDh6nwFsl) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Por Ella Tomo](https://open.spotify.com/album/0a5Wnsr4Z7LHcqzONGR1XY) | 3:05 | 2022-07-01 | 2022-10-12 |
 | [Por La Baja Navegamos](https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 2:56 | 2021-12-17 |  |
 | [Por Sentimental](https://open.spotify.com/track/6VhVObyMiMZFF9tsByo6F3) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Por Sentimental](https://open.spotify.com/album/6U7OGnl3pRGlKRKf8MuTra) | 2:55 | 2022-07-15 |  |
 | [Provocame](https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [Provocame](https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ) | 3:09 | 2021-12-17 |  |
@@ -162,6 +162,7 @@
 | [Soy El Ratón](https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Soy El Ratón](https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz) | 3:42 | 2022-07-01 |  |
 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 | 2022-07-01 | 2022-08-06 |
 | [Super Poderes](https://open.spotify.com/track/0pDdSWpGQR3kHsKFU9BPvo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Super Poderes](https://open.spotify.com/album/6KE2wD6wHaePxuegsmPnGP) | 2:53 | 2022-09-02 | 2022-10-06 |
+| [Super Poderes](https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Secretto](https://open.spotify.com/artist/6SHAWeSDnokcCA2XhPNgHh) | [Super Poderes](https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM) | 2:53 | 2022-09-02 |  |
 | [Sí Como No](https://open.spotify.com/track/5TOathKIZl0EoGUKUoLpdx) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Sí Como No](https://open.spotify.com/album/1vNqMTlcHfLvcAayh4ZXRK) | 2:35 | 2022-07-01 | 2022-07-28 |
 | [Tan Bella y Tan Presumida](https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida](https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici) | 3:01 | 2021-12-17 |  |
 | [Te Amaré Más](https://open.spotify.com/track/4i7s10avxVqIdMERsS996a) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Te Amaré Más](https://open.spotify.com/album/2d7b3fXbYvWpBDuIyPbAS9) | 3:44 | 2022-08-05 |  |

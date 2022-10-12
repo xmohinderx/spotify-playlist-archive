@@ -34,6 +34,32 @@
     },
     {
       "album": {
+        "name": "Agatha",
+        "url": "https://open.spotify.com/album/1Nq7QBJAcE1wq0BS79YRs5"
+      },
+      "artists": [
+        {
+          "name": "Nsc",
+          "url": "https://open.spotify.com/artist/634YtRDQnLxKrKJUBurK6B"
+        },
+        {
+          "name": "Ciprian Iordache",
+          "url": "https://open.spotify.com/artist/4HgsCYrFaSez39qwd75leN"
+        },
+        {
+          "name": "Adrian Eftimie",
+          "url": "https://open.spotify.com/artist/6wEntiBaR8mQEjbuFHAOWW"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416132,
+      "name": "Agatha - Calavera & Manya Remix",
+      "url": "https://open.spotify.com/track/5i3iYBOnshfvs9v0gwjwzW"
+    },
+    {
+      "album": {
         "name": "Alesta",
         "url": "https://open.spotify.com/album/53Hqt6SONfBWTGzwQi11xI"
       },
@@ -147,7 +173,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 362899,
       "name": "Ardha Nari Feat. Sazin",
       "url": "https://open.spotify.com/track/5b8evReWT6yU8Lr6UG70Wx"

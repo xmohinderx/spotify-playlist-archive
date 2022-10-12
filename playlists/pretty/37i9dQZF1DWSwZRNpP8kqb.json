@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.",
-  "num_followers": 11368,
+  "num_followers": 11383,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDU5ZWFlOTZlYWU3Y2RmYmE2ODNjYjgxZmVkMTNhNzlj",
+  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMGE5NTMxZmU4YmQ2M2Y3NjljZjA5YmNhNmIxNTczNzNl",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Melod\u00edas que sobran",
-        "url": "https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI"
-      },
-      "artists": [
-        {
-          "name": "Nosas",
-          "url": "https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03"
-        }
-      ],
-      "duration_ms": 208540,
-      "name": "Secretos",
-      "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 143346,
       "name": "Campo Afuera",
       "url": "https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Melod\u00edas que sobran",
+        "url": "https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI"
+      },
+      "artists": [
+        {
+          "name": "Nosas",
+          "url": "https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03"
+        }
+      ],
+      "duration_ms": 208540,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Tu respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "Tu respuesta - Zamba",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Ojos de Cielo",
         "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 169500,
       "name": "Ojos de Cielo",
       "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Tu respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu respuesta - Zamba",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Zamba del Viento Libre",
+        "url": "https://open.spotify.com/album/79gyS09rOYk34SrzE9JX5K"
+      },
+      "artists": [
+        {
+          "name": "Felicitas Arg\u00fcello",
+          "url": "https://open.spotify.com/artist/2WkImk9h9KzgIXDNQo9edw"
+        },
+        {
+          "name": "Sof\u00eda Asc\u00e1rate",
+          "url": "https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt"
+        }
+      ],
+      "duration_ms": 223363,
+      "name": "Zamba del Viento Libre",
+      "url": "https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Tierra, Tan S\u00f3lo",
         "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 184064,
       "name": "El Surco",
       "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Zamba del Viento Libre",
-        "url": "https://open.spotify.com/album/79gyS09rOYk34SrzE9JX5K"
-      },
-      "artists": [
-        {
-          "name": "Felicitas Arg\u00fcello",
-          "url": "https://open.spotify.com/artist/2WkImk9h9KzgIXDNQo9edw"
-        },
-        {
-          "name": "Sof\u00eda Asc\u00e1rate",
-          "url": "https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt"
-        }
-      ],
-      "duration_ms": 223363,
-      "name": "Zamba del Viento Libre",
-      "url": "https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Verdeado Dulzor",
-        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
-      },
-      "artists": [
-        {
-          "name": "Veronica Condomi",
-          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
-        },
-        {
-          "name": "Matias Betti",
-          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
-        }
-      ],
-      "duration_ms": 151771,
-      "name": "A la Ma\u00f1anita",
-      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Mi Cultura La Copla",
         "url": "https://open.spotify.com/album/3u5xsefVehP9h9sKzxmHbk"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 286627,
       "name": "El seclante\u00f1o",
       "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Verdeado Dulzor",
+        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
+      },
+      "artists": [
+        {
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
+        },
+        {
+          "name": "Matias Betti",
+          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
+        }
+      ],
+      "duration_ms": 151771,
+      "name": "A la Ma\u00f1anita",
+      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "El Cuchi de Camara",
+        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Zamba del Laurel",
+      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Aleteo",
         "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 212100,
       "name": "Zamba del Renacer",
       "url": "https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "El Cuchi de Camara",
-        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Zamba del Laurel",
-      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
     },
     {
       "added_at": "2022-09-23 03:00:00",

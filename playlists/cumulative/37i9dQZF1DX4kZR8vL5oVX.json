@@ -4753,6 +4753,24 @@
     {
       "album": {
         "name": "Maux de t\u00eate",
+        "url": "https://open.spotify.com/album/6OC9Rbnw6pu2hfPgSzls7Y"
+      },
+      "artists": [
+        {
+          "name": "Heaven",
+          "url": "https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170974,
+      "name": "Maux de t\u00eate",
+      "url": "https://open.spotify.com/track/13D5HrejdIzNzPnaQjnx0N"
+    },
+    {
+      "album": {
+        "name": "Maux de t\u00eate",
         "url": "https://open.spotify.com/album/769povRMdGePBHz5c39gOS"
       },
       "artists": [
@@ -4763,7 +4781,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 170974,
       "name": "Maux de t\u00eate",
       "url": "https://open.spotify.com/track/15JOE9D6XC0xW8rFRclsZj"

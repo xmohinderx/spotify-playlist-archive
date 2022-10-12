@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 192039,
       "name": "45 (A Matter Of Time)",
       "url": "https://open.spotify.com/track/5oOphgtp0ZhMfYz3HpnMyU"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 256706,
       "name": "Blood In My Eyes",
       "url": "https://open.spotify.com/track/6sfU2LwBKxjbukPZnUbGtt"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 243098,
       "name": "Breaking The Chain",
       "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 230184,
       "name": "The New Sensation",
       "url": "https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs"
@@ -895,6 +895,24 @@
       "duration_ms": 230806,
       "name": "Turning Away",
       "url": "https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq"
+    },
+    {
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328986,
+      "name": "Twisted By Design",
+      "url": "https://open.spotify.com/track/2Tqp1sFnq5GpPHsUVjcdnE"
     },
     {
       "album": {
@@ -981,7 +999,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 252280,
       "name": "What Am I To Say",
       "url": "https://open.spotify.com/track/2zoKi9AQKjtn3Q7Ll8CK7v"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 169493,
       "name": "What I Believe",
       "url": "https://open.spotify.com/track/25aUn2fekP8MN2y4WcseVL"

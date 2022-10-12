@@ -4,7 +4,7 @@
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-313 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+314 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [NIGHTMARE!](https://open.spotify.com/track/3m3PvBLWGFW6QNXtFvmRsg) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [NIGHTMARE!](https://open.spotify.com/album/2g9zVgPOAAX5yXlXOgdK5N) | 2:28 | 2022-01-21 |  |
 | [NINE!](https://open.spotify.com/track/6zI8XSUDmRc98U34KkqUJy) | [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [NINE!](https://open.spotify.com/album/6Vrs7bLaPib0PWC8wlen6J) | 2:12 | 2022-02-25 | 2022-05-12 |
 | [NoQuestionsAsked](https://open.spotify.com/track/4hu2iYMj7LAlCsEFbcWTrL) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI) | [NoQuestionsAsked](https://open.spotify.com/album/4zEZfmGSWrQg7oTTcTLvgv) | 1:53 | 2022-01-07 | 2022-04-29 |
+| [North Memphis](https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq) | 2:15 | 2022-10-11 |  |
 | [NOTHING](https://open.spotify.com/track/4kc2vovUnrGOwWgGZFhsuU) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [NOTHING](https://open.spotify.com/album/3CygmOk16boufN92DA7xxR) | 2:12 | 2021-11-12 | 2022-04-20 |
 | [Now I'm Up To My Neck With Offers](https://open.spotify.com/track/1QSMyV4BAvNRwIpRzS8zWn) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XX: The Infinity Saga](https://open.spotify.com/album/26qaxSxlPcfjVDYKNxjLQn) | 2:47 | 2021-09-17 | 2022-05-17 |
 | [Off the Leash](https://open.spotify.com/track/1JgQeigk5XdpxGLwgWCJlG) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe), [Burgos](https://open.spotify.com/artist/3chqU15yLP7B3XRQpILQY2), [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Off the Leash](https://open.spotify.com/album/6UkwTJMCVJuIqkHwJ7NTME) | 3:04 | 2022-02-25 | 2022-06-04 |

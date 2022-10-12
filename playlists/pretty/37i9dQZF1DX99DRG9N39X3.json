@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock songs of the last decade. Cover: Twenty One Pilots",
-  "num_followers": 434990,
+  "num_followers": 435085,
   "original_name": "10s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQxOTU5OSwwMDAwMDAwMDA0NzRlYTBmOGNhYzA5MTIzMzJkY2U4ODEyNThmNTQ3",
+  "snapshot_id": "MTY1ODQxOTU5OSwwMDAwMDAwMGUyMWYyMmM1NzVkYzA3YzlhYjFmMjdkYjY2ODc0NWFk",
   "tracks": [
     {
       "added_at": "2022-03-09 13:40:09",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Waste A Moment",
-      "url": "https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 256306,
       "name": "7",
       "url": "https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Waste A Moment",
+      "url": "https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "To Be Everywhere Is To Be Nowhere",
-        "url": "https://open.spotify.com/album/4hFDcpvIU9F4OleRAR9nNZ"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 239450,
-      "name": "Black Honey",
-      "url": "https://open.spotify.com/track/5OeY5LebIOzD9Zvat1Dikf"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "Going To Hell (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 224533,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "To Be Everywhere Is To Be Nowhere",
+        "url": "https://open.spotify.com/album/4hFDcpvIU9F4OleRAR9nNZ"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 239450,
+      "name": "Black Honey",
+      "url": "https://open.spotify.com/track/5OeY5LebIOzD9Zvat1Dikf"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
+        "name": "Sinners Never Sleep",
+        "url": "https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Bite My Tongue",
+      "url": "https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
         "name": "Outrage! Is Now",
         "url": "https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 189418,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
-        "name": "Sinners Never Sleep",
-        "url": "https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        },
-        {
-          "name": "Oli Sykes",
-          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Bite My Tongue",
-      "url": "https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM"
     },
     {
       "added_at": "2022-03-09 13:40:09",

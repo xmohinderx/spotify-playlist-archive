@@ -4,13 +4,13 @@
 
 > The most interesting tracks in the current world of pop music.
 
-616 songs - 1 day 7 hr 37 min - [published](https://open.spotify.com/playlist/69q7Enb8pVVf5rCvGWee3I)
+617 songs - 1 day 7 hr 39 min - [published](https://open.spotify.com/playlist/69q7Enb8pVVf5rCvGWee3I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 | 2022-03-24 | 2022-04-17 |
 | [1000 Tears](https://open.spotify.com/track/33Nc5TE2bPHa6wtUUFLVSz) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [1000 Tears](https://open.spotify.com/album/1GeOaXdpEL6mksQ0ELEnCT) | 2:41 | 2022-03-24 | 2022-03-30 |
-| [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-09-30 |  |
+| [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-09-30 | 2022-10-12 |
 | [2%](https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later](https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE) | 3:27 | 2022-03-24 | 2022-04-21 |
 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 | 2022-03-24 | 2022-04-15 |
 | [24/5](https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [24/5](https://open.spotify.com/album/263g4l4u6u115I2ISnMkQP) | 2:38 | 2021-12-16 | 2022-07-27 |
@@ -110,6 +110,7 @@
 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 | 2022-03-24 | 2022-04-20 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-24 | 2022-07-25 |
 | [CHARGER](https://open.spotify.com/track/0ZHSbNRrrfAs8hwEuecJM6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM) | [CHARGER](https://open.spotify.com/album/5y1t9JGawPBdgJjd3Ogl0a) | 1:53 | 2022-03-24 | 2022-04-19 |
+| [Charlie Be Quiet!](https://open.spotify.com/track/4nrDn3HEdKn524GrOSAll8) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Charlie Be Quiet!](https://open.spotify.com/album/6nT8NzRCvaGVbCvpgSkFjz) | 2:08 | 2022-10-06 |  |
 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-12-16 | 2022-07-29 |
 | [cheap sunglasses](https://open.spotify.com/track/4E94u3v7VnEFZkaRIYtad7) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [cheap sunglasses](https://open.spotify.com/album/0zyZJQmAJqsthlxKNNR8Cp) | 3:19 | 2021-12-16 | 2022-07-07 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-03-24 | 2022-04-07 |

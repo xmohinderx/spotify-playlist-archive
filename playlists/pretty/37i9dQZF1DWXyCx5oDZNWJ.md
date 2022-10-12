@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,286 likes - 62 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,308 likes - 62 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 11 | [Let The Sunshine In](https://open.spotify.com/track/2QK3MvIBtg6ofQXzx71soX) | [Galt MacDermot](https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr) | [Up From The Basement \- Unreleased Tracks \- Volumes 1 & 2](https://open.spotify.com/album/2l6jlkSuortxDkuCnEay4s) | 2:39 |
 | 12 | [Dévoué](https://open.spotify.com/track/3BDC7YYDL6BdfvXa1iqzu1) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Dévoué EP](https://open.spotify.com/album/2s15PdNNJI61qtBiBZgUXT) | 7:11 |
 | 13 | [Cog in the Wheel](https://open.spotify.com/track/3uXfYljIQAhATWWGjjCSJA) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Nomad EP](https://open.spotify.com/album/4hmZkn8K8JoUch7jzFNjeb) | 5:19 |
-| 14 | [Corre Riba, Corre Baxo](https://open.spotify.com/track/2PSVCAtIQH4tI3fAq6VZWH) | [Abel Lima](https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed!](https://open.spotify.com/album/2EsNUbAePfQi6qNBjVLtfi) | 3:08 |
+| 14 | [Corre Riba, Corre Baxo](https://open.spotify.com/track/2PSVCAtIQH4tI3fAq6VZWH) | [Abel Lima](https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/2EsNUbAePfQi6qNBjVLtfi) | 3:08 |
 | 15 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 |
 | 16 | [Last Chance](https://open.spotify.com/track/57F72SNODqvkm6PAVvoL3B) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Bennu](https://open.spotify.com/album/0ap1ioMSBoEr7eWqwU2DxH) | 2:47 |
 | 17 | [Merlins Head](https://open.spotify.com/track/1xTZwX3XDsvnwk5jdDxTRB) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:47 |

@@ -116,6 +116,28 @@
     },
     {
       "album": {
+        "name": "Batti Baal Ke",
+        "url": "https://open.spotify.com/album/5NkIFTvD8NzGLUaLhcTnFl"
+      },
+      "artists": [
+        {
+          "name": "Ragini Tandan",
+          "url": "https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA"
+        },
+        {
+          "name": "The Collective Projekt",
+          "url": "https://open.spotify.com/artist/520DeZp2zasDguazhxBP7U"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Batti Baal Ke",
+      "url": "https://open.spotify.com/track/1RKm0dsITClYcEpHtE2DJH"
+    },
+    {
+      "album": {
         "name": "Kacheriyan Ch Mele Lagde",
         "url": "https://open.spotify.com/album/2mxYO1V5PTqFGgYrmeiGi8"
       },

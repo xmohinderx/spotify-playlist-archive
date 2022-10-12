@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 18734,
+  "num_followers": 18787,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5NzIwMCwwMDAwMDAwMGRlNzE3ZThjMmE1YzIyMjYxMjhlMGNmNjAxN2IzOTM3",
+  "snapshot_id": "MTY2NTA5NzIwMCwwMDAwMDAwMDYwYWQxNWZiZWFkOTZkZGYwYmQ0ZjI5MWFkZTE2ZmJl",
   "tracks": [
     {
       "added_at": "2022-10-06 23:00:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2022-10-06 23:00:00",
       "album": {
+        "name": "\u00daltima Vez",
+        "url": "https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        },
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "\u00daltima Vez",
+      "url": "https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI"
+    },
+    {
+      "added_at": "2022-10-06 23:00:00",
+      "album": {
         "name": "+ do Mesmo - Parte 1",
         "url": "https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 288200,
       "name": "N\u00e3o Me Enganas (feat. Ivandro & Nayr Faquira)",
       "url": "https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv"
-    },
-    {
-      "added_at": "2022-10-06 23:00:00",
-      "album": {
-        "name": "\u00daltima Vez",
-        "url": "https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW"
-      },
-      "artists": [
-        {
-          "name": "Waze",
-          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
-        },
-        {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "\u00daltima Vez",
-      "url": "https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI"
     },
     {
       "added_at": "2022-10-06 23:00:00",

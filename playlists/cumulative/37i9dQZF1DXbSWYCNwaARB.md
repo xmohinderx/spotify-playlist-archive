@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: BLACKPINK
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: Dreamcatcher\(드림캐쳐\)
 
-319 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
+320 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-02 |  |
 | [Feedback](https://open.spotify.com/track/61oYciDSVO6OvOqZf9TVPV) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Feedback](https://open.spotify.com/album/2mZVQE5xkotAwHEqLySr0h) | 3:19 | 2021-03-07 | 2022-04-12 |
 | [FIESTA](https://open.spotify.com/track/71vPAjlG1x606483GTJNhY) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:37 | 2020-10-20 | 2022-07-27 |
-| [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-09-30 |  |
+| [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-09-30 | 2022-10-12 |
 | [Fire Saturday](https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Fire Saturday](https://open.spotify.com/album/51cLLBwum2814O6R3iEtyq) | 3:21 | 2021-12-20 | 2022-04-20 |
 | [Firework](https://open.spotify.com/track/3NnU2qo9tkMrcYZWzdNDCm) | [LABOUM](https://open.spotify.com/artist/4iO5uKMUphLqQ20TfrdZx3) | [Two Of Us](https://open.spotify.com/album/6axpzJHjCfb1fYFyORvNIF) | 3:20 | 2021-03-07 | 2021-12-21 |
 | [FIREWORK](https://open.spotify.com/track/5NhDDt5Zy8yGOECN3PLRdE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:13 | 2020-10-13\* | 2022-06-14 |
@@ -283,6 +283,7 @@
 | [VILLAIN](https://open.spotify.com/track/6ugf8AinXOgjCWfrjZJvTa) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [VILLAIN](https://open.spotify.com/album/4Jvy4ZUSnZOoDOfQ12CAg3) | 3:05 | 2020-10-13\* | 2022-04-16 |
 | [Villain](https://open.spotify.com/track/5Doeu3aSa5tBHayCx0EbHa) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [REBORN](https://open.spotify.com/album/6kp9dsLnll5WEiBlBUwBME) | 3:13 | 2022-06-15 | 2022-06-21 |
 | [Violeta](https://open.spotify.com/track/0ahbzg4GCq3wJzUM3cjS3N) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/2UBE2MgNdsGa9OCSbvwdEQ) | 3:20 | 2020-10-20 | 2022-05-07 |
+| [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 | 2022-10-12 |  |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-01-03 |  |
 | [Walking Through The Moon](https://open.spotify.com/track/4werDUuriHrRrTxZx1p029) | [Lee Su Jeong](https://open.spotify.com/artist/2Mq5D1zR3yQIQWhiXOAoeL) | [My Name](https://open.spotify.com/album/1s1c2che6OuIyA8Do2bkNE) | 3:32 | 2022-04-28 | 2022-05-18 |
 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 | 2020-10-13\* | 2021-03-17 |

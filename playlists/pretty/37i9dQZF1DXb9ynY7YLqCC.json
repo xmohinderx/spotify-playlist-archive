@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 128856,
+  "num_followers": 128913,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgyMzQ1MiwwMDAwMDAwMDlhNTUwNmI2ZTgyMGZkNzk2Yjg1Yzk4ZGQ3ZDdhNmQ5",
+  "snapshot_id": "MTY2NDgyMzQ1MiwwMDAwMDAwMDY2ZmE5YjIxMDU2ZDY4MTU1ZjQ3OTNjMzAwODExN2E4",
   "tracks": [
     {
       "added_at": "2022-09-30 03:00:00",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
     },
     {
-      "added_at": "2022-10-11 01:49:15",
+      "added_at": "2022-10-12 02:05:41",
       "album": {
         "name": "No Me Dejes Caer",
         "url": "https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR"
@@ -299,8 +299,8 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Presi\u00f3n",
-        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
         }
       ],
-      "duration_ms": 277560,
-      "name": "Una Nueva Noche Fr\u00eda",
-      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
+      "duration_ms": 226746,
+      "name": "9 de Julio",
+      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -443,8 +443,8 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+        "name": "Presi\u00f3n",
+        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
       },
       "artists": [
         {
@@ -452,25 +452,9 @@
           "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
         }
       ],
-      "duration_ms": 226746,
-      "name": "9 de Julio",
-      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
-        "name": "A Trav\u00e9s del Mar de los Sargazos",
-        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
-      },
-      "artists": [
-        {
-          "name": "Skay Beilinson",
-          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
-        }
-      ],
-      "duration_ms": 272480,
-      "name": "Oda a la Sin Nombre",
-      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
+      "duration_ms": 277560,
+      "name": "Una Nueva Noche Fr\u00eda",
+      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -487,6 +471,22 @@
       "duration_ms": 198706,
       "name": "Par Mil",
       "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "A Trav\u00e9s del Mar de los Sargazos",
+        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
+      },
+      "artists": [
+        {
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+        }
+      ],
+      "duration_ms": 272480,
+      "name": "Oda a la Sin Nombre",
+      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 278386,
-      "name": "Vine Hasta Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2HPh92X44B9hHR0n9FZZoM"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "Turfshow",
         "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 207280,
       "name": "Loco Un Poco",
       "url": "https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 278386,
+      "name": "Vine Hasta Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2HPh92X44B9hHR0n9FZZoM"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Alucinados como la primera vez",
-        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
       },
       "artists": [
         {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
         }
       ],
-      "duration_ms": 300184,
-      "name": "La ilusi\u00f3n que me condena",
-      "url": "https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ"
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+        "name": "Alucinados como la primera vez",
+        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
         }
       ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+      "duration_ms": 300184,
+      "name": "La ilusi\u00f3n que me condena",
+      "url": "https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Surcando",
-        "url": "https://open.spotify.com/album/6MI3Mq3LCkXHR01e9hyY7n"
-      },
-      "artists": [
-        {
-          "name": "Cuatro Pesos de Propina",
-          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Mi Revolucion",
-      "url": "https://open.spotify.com/track/39K7E651wrt8PorEspTWb5"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "Vengo Del Placard De Otro",
         "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 244560,
       "name": "Pepe Lui",
       "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Surcando",
+        "url": "https://open.spotify.com/album/6MI3Mq3LCkXHR01e9hyY7n"
+      },
+      "artists": [
+        {
+          "name": "Cuatro Pesos de Propina",
+          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Mi Revolucion",
+      "url": "https://open.spotify.com/track/39K7E651wrt8PorEspTWb5"
     },
     {
       "added_at": "2022-09-30 03:00:00",

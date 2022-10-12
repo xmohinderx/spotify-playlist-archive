@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Godsmack",
-  "num_followers": 705590,
+  "num_followers": 705570,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTY2MCwwMDAwMDAwMGZlMTY0OGM3OTVmMjIzY2UyZjVlMTYwMjA0NWExNjVl",
+  "snapshot_id": "MTY2NTExMTY2MCwwMDAwMDAwMDU4NGI0YjgxODNlNjNhODMwYzMzNTkyNDQ3MzY5ZTYw",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "First You Jump",
-        "url": "https://open.spotify.com/album/38850Wz3F2l5L9qniuXUqz"
+        "name": "The Art Of Survival",
+        "url": "https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi"
       },
       "artists": [
         {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
         }
       ],
-      "duration_ms": 263933,
-      "name": "First You Jump",
-      "url": "https://open.spotify.com/track/0SMl6SNZscGTPAtPUeLjFf"
+      "duration_ms": 228119,
+      "name": "Slow Me",
+      "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
+        "name": "First You Jump",
+        "url": "https://open.spotify.com/album/38850Wz3F2l5L9qniuXUqz"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "First You Jump",
+      "url": "https://open.spotify.com/track/0SMl6SNZscGTPAtPUeLjFf"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
         "name": "Walk The Sky",
         "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 229940,
       "name": "Wouldn't You Rather",
       "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
-        "name": "The Art Of Survival",
-        "url": "https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 228119,
-      "name": "Slow Me",
-      "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Enter Sandman",
         "url": "https://open.spotify.com/album/7sIrH5m7rD2dxhZVWehQjH"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 263693,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/2XGnAEodeIvFvoH60V251s"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI"
-      },
-      "artists": [
-        {
-          "name": "Outline In Color",
-          "url": "https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Valley of Vision",
         "url": "https://open.spotify.com/album/0cic8h13yxw8lAa92BXXC4"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 170710,
       "name": "Valley of Vision",
       "url": "https://open.spotify.com/track/6jse2wNXoAE1zxk9lvZzIB"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI"
+      },
+      "artists": [
+        {
+          "name": "Outline In Color",
+          "url": "https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Gifts From The Holy Ghost",
-        "url": "https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 215593,
-      "name": "A Beautiful Life",
-      "url": "https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Maquiagem",
         "url": "https://open.spotify.com/album/0xvs1QlQNbxBryIYOKCrs1"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 184941,
       "name": "Maquiagem",
       "url": "https://open.spotify.com/track/5MCWDrTtqhQQL2tIE2prde"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "Gifts From The Holy Ghost",
+        "url": "https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 215593,
+      "name": "A Beautiful Life",
+      "url": "https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4"
     },
     {
       "added_at": "2022-10-07 03:01:00",

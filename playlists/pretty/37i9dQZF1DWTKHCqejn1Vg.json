@@ -1,15 +1,15 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 8849,
+  "num_followers": 8920,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMGYyMWFlNDY5ODVmNmQyZWNjZjczMDZkOGFiZTBkMjEy",
+  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMDM5MWY1MDRmMGQzZGE4ZTJjZGQ3MzY2MTAzNjU0M2Vi",
   "tracks": [
     {
-      "added_at": "2022-10-11 01:15:38",
+      "added_at": "2022-10-12 01:30:11",
       "album": {
         "name": "28 Reasons - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-10-04 14:56:03",
       "album": {
-        "name": "bag on you",
-        "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        },
-        {
-          "name": "VivaOla",
-          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "bag on you",
-      "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
-    },
-    {
-      "added_at": "2022-10-04 14:56:03",
-      "album": {
         "name": "mojo",
         "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 151880,
       "name": "LSD (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
+    },
+    {
+      "added_at": "2022-10-04 14:56:03",
+      "album": {
+        "name": "bag on you",
+        "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "bag on you",
+      "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
     },
     {
       "added_at": "2022-10-04 14:56:03",
@@ -1025,6 +1025,26 @@
       "url": "https://open.spotify.com/track/2s6mnu51NafM2OLVgdRhlF"
     },
     {
+      "added_at": "2022-10-12 01:30:11",
+      "album": {
+        "name": "Be there",
+        "url": "https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf"
+      },
+      "artists": [
+        {
+          "name": "DAVII",
+          "url": "https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc"
+        },
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "duration_ms": 223008,
+      "name": "Be there",
+      "url": "https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg"
+    },
+    {
       "added_at": "2022-10-04 14:56:03",
       "album": {
         "name": "Dawn Call",
@@ -1039,26 +1059,6 @@
       "duration_ms": 193844,
       "name": "Dawn Call",
       "url": "https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7"
-    },
-    {
-      "added_at": "2022-10-04 14:56:03",
-      "album": {
-        "name": "Therapy Session",
-        "url": "https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO"
-      },
-      "artists": [
-        {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        },
-        {
-          "name": "MRSHLL",
-          "url": "https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Therapy (feat. MRSHLL)",
-      "url": "https://open.spotify.com/track/7mSrPHeHxpxnIkc7M1k4pT"
     },
     {
       "added_at": "2022-10-04 14:56:03",

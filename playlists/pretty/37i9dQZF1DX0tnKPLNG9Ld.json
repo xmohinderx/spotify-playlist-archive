@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 37322,
+  "num_followers": 37396,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0MTI4OCwwMDAwMDAwMGMwZjBmNGVlNGQ2NzAxODhmNzQyNGUxMmQ5MzE4ZmQ3",
+  "snapshot_id": "MTY2NTA0MTI4OCwwMDAwMDAwMDcwYzkxOTkzNjM4ODk5NDM5ZjZmZDUzYzRjYzQ5MDk5",
   "tracks": [
     {
       "added_at": "2022-10-06 07:28:08",
@@ -127,18 +127,22 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
-        "name": "Come Fly With Me (Remastered)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+        "name": "Nothing But The Best (Remastered)",
+        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
       },
       "artists": [
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
+      "duration_ms": 147520,
+      "name": "Fly Me To The Moon - 2008 Remastered",
+      "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
     },
     {
       "added_at": "2022-10-06 07:28:08",
@@ -223,22 +227,6 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ"
-    },
-    {
-      "added_at": "2022-10-06 07:28:08",
-      "album": {
         "name": "Broadway, Right Now!",
         "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
       },
@@ -255,22 +243,34 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
-        "name": "Nothing But The Best (Remastered)",
-        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ"
+    },
+    {
+      "added_at": "2022-10-06 07:28:08",
+      "album": {
+        "name": "Come Fly With Me (Remastered)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
       "artists": [
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 147520,
-      "name": "Fly Me To The Moon - 2008 Remastered",
-      "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2022-10-06 07:28:08",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
-        "name": "I Wanna Be Around",
-        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
+        "name": "Movin' On Broadway",
+        "url": "https://open.spotify.com/album/0H3fpfEvApgmSPp8qivyOQ"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
         }
       ],
-      "duration_ms": 134893,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
+      "duration_ms": 139533,
+      "name": "C'est Magnifique - Remastered",
+      "url": "https://open.spotify.com/track/6ghdeAG64RBwahVxWzj9sa"
     },
     {
       "added_at": "2022-10-06 07:28:08",
@@ -347,34 +347,18 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
-        "name": "Movin' On Broadway",
-        "url": "https://open.spotify.com/album/0H3fpfEvApgmSPp8qivyOQ"
+        "name": "I Wanna Be Around",
+        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
       },
       "artists": [
         {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 139533,
-      "name": "C'est Magnifique - Remastered",
-      "url": "https://open.spotify.com/track/6ghdeAG64RBwahVxWzj9sa"
-    },
-    {
-      "added_at": "2022-10-06 07:28:08",
-      "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
+      "duration_ms": 134893,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
     },
     {
       "added_at": "2022-10-06 07:28:08",
@@ -391,6 +375,22 @@
       "duration_ms": 160946,
       "name": "It's A Lovely Day Today",
       "url": "https://open.spotify.com/track/0ApUPYg8ifMJZchhFeFLDs"
+    },
+    {
+      "added_at": "2022-10-06 07:28:08",
+      "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
     },
     {
       "added_at": "2022-10-06 07:28:08",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
-        "name": "Anita O'Day Swings Cole Porter With Billy May",
-        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Love For Sale - 1959 Version",
-      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
-    },
-    {
-      "added_at": "2022-10-06 07:28:08",
-      "album": {
         "name": "Something Wonderful",
         "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+        "name": "Anita O'Day Swings Cole Porter With Billy May",
+        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
       },
       "artists": [
         {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 172933,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
+      "duration_ms": 164840,
+      "name": "Love For Sale - 1959 Version",
+      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
     },
     {
       "added_at": "2022-10-06 07:28:08",
@@ -575,6 +559,22 @@
       "duration_ms": 186466,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
+    },
+    {
+      "added_at": "2022-10-06 07:28:08",
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
     },
     {
       "added_at": "2022-10-06 07:28:08",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 145160,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
-    },
-    {
-      "added_at": "2022-10-06 07:28:08",
-      "album": {
         "name": "Gemini Changes",
         "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 175386,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz"
+    },
+    {
+      "added_at": "2022-10-06 07:28:08",
+      "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 145160,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
     },
     {
       "added_at": "2022-10-06 07:28:08",
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
-        "name": "The Complete Anita O'Day Verve-Clef Sessions",
-        "url": "https://open.spotify.com/album/5r3ZZRvdBuWIjsF6N6SDqO"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "Thanks For The Memory",
-      "url": "https://open.spotify.com/track/5dLnsFaeWzj5vh9CA1Ysem"
-    },
-    {
-      "added_at": "2022-10-06 07:28:08",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -855,6 +835,26 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
+        "name": "The Complete Anita O'Day Verve-Clef Sessions",
+        "url": "https://open.spotify.com/album/5r3ZZRvdBuWIjsF6N6SDqO"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "Thanks For The Memory",
+      "url": "https://open.spotify.com/track/5dLnsFaeWzj5vh9CA1Ysem"
+    },
+    {
+      "added_at": "2022-10-06 07:28:08",
+      "album": {
         "name": "Witchcraft",
         "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 130199,
-      "name": "Ridin' High",
-      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
-    },
-    {
-      "added_at": "2022-10-06 07:28:08",
-      "album": {
         "name": "Motions & Emotions",
         "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 174641,
       "name": "Wandering - Remastered",
       "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
+    },
+    {
+      "added_at": "2022-10-06 07:28:08",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 130199,
+      "name": "Ridin' High",
+      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
     },
     {
       "added_at": "2022-10-06 07:28:08",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Lou's Blues",
+      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
+    },
+    {
+      "added_at": "2022-10-06 07:28:08",
+      "album": {
         "name": "Golden Girl (The Columbia Recordings 1944-1966)",
         "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 171666,
       "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
       "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
-    },
-    {
-      "added_at": "2022-10-06 07:28:08",
-      "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 173840,
-      "name": "Alright, Okay, You Win",
-      "url": "https://open.spotify.com/track/1m8WU15D9BGbtsgNE4XWuJ"
     },
     {
       "added_at": "2022-10-06 07:28:08",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 173840,
+      "name": "Alright, Okay, You Win",
+      "url": "https://open.spotify.com/track/1m8WU15D9BGbtsgNE4XWuJ"
+    },
+    {
+      "added_at": "2022-10-06 07:28:08",
+      "album": {
         "name": "The Cat Walk",
         "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 453800,
       "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
-    },
-    {
-      "added_at": "2022-10-06 07:28:08",
-      "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Lou's Blues",
-      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
     },
     {
       "added_at": "2022-10-06 07:28:08",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-10-06 07:28:08",
       "album": {
-        "name": "Autumn In New York",
-        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
-    },
-    {
-      "added_at": "2022-10-06 07:28:08",
-      "album": {
         "name": "Time To Swing",
         "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 103400,
       "name": "Gone With The Wind",
       "url": "https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF"
+    },
+    {
+      "added_at": "2022-10-06 07:28:08",
+      "album": {
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
     },
     {
       "added_at": "2022-10-06 07:28:08",

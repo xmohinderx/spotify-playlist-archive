@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Ái Phương
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,591 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,612 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lỗi Ở Yêu Thương](https://open.spotify.com/track/1s8AfdYyV8IWMeUAJyKR4S) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Lỗi Ở Yêu Thương](https://open.spotify.com/album/0EBXI8fCIpcocbLG88lDzt) | 4:26 |
-| 2 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
-| 3 | [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 |
-| 4 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/2hHic1AMDTtCmK072fentL) | 3:48 |
-| 5 | [24h](https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [24h](https://open.spotify.com/album/4LO3n3uH8Iu6xi09nh2u9i) | 4:17 |
+| 1 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
+| 2 | [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 |
+| 3 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/2hHic1AMDTtCmK072fentL) | 3:48 |
+| 4 | [24h](https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [24h](https://open.spotify.com/album/4LO3n3uH8Iu6xi09nh2u9i) | 4:17 |
+| 5 | [Cô Đơn](https://open.spotify.com/track/0dxfg8dLCL3ox7qj8QmFaK) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Cô Đơn](https://open.spotify.com/album/6QkdiY2GGYp07Re4ztE988) | 4:32 |
 | 6 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 |
-| 7 | [BUỒN không thể BUÔNG \(Piano Version\)](https://open.spotify.com/track/0YJ3fxavN7Sms9TlNxWUhf) | [MiiNa](https://open.spotify.com/artist/76nos2JmvLyYGZ28ribrf7) | [BUỒN không thể BUÔNG \(Piano Version\)](https://open.spotify.com/album/1Tsl1MK40xOShJzK6mwXsc) | 4:03 |
-| 8 | [Lâu Lâu Nhắc Lại](https://open.spotify.com/track/5B66uVtd4X6Tls9I2VQm4N) | [Ha Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL), [Khói](https://open.spotify.com/artist/3FZ4GX2mWNn7XElse3fQWd) | [Lâu Lâu Nhắc Lại](https://open.spotify.com/album/6RLMsEvmNeILizkH0RRNQ0) | 4:30 |
-| 9 | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/5zH2inEP6THOY8tomr3DdZ) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/album/6He7un0iQqrbVsmieoliGN) | 3:19 |
-| 10 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |
-| 11 | [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 3:28 |
-| 12 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
+| 7 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
+| 8 | [BUỒN không thể BUÔNG \(Piano Version\)](https://open.spotify.com/track/0YJ3fxavN7Sms9TlNxWUhf) | [MiiNa](https://open.spotify.com/artist/76nos2JmvLyYGZ28ribrf7) | [BUỒN không thể BUÔNG \(Piano Version\)](https://open.spotify.com/album/1Tsl1MK40xOShJzK6mwXsc) | 4:03 |
+| 9 | [Lâu Lâu Nhắc Lại](https://open.spotify.com/track/5B66uVtd4X6Tls9I2VQm4N) | [Ha Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL), [Khói](https://open.spotify.com/artist/3FZ4GX2mWNn7XElse3fQWd) | [Lâu Lâu Nhắc Lại](https://open.spotify.com/album/6RLMsEvmNeILizkH0RRNQ0) | 4:30 |
+| 10 | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/5zH2inEP6THOY8tomr3DdZ) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/album/6He7un0iQqrbVsmieoliGN) | 3:19 |
+| 11 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |
+| 12 | [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 3:28 |
 | 13 | [Em Đã Biết](https://open.spotify.com/track/74dZm72WtQx122nyIFhJAB) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Em Đã Biết](https://open.spotify.com/album/5JJ6XjiB1dqJHorDCqqIz5) | 4:21 |
 | 14 | [Gái Độc Thân](https://open.spotify.com/track/2klsSb2iTfgDh95Ak9uWY2) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Gái Độc Thân](https://open.spotify.com/album/4gDgccYkth0VxOc4m5IpIJ) | 3:05 |
 | 15 | [Đường Về Nhà](https://open.spotify.com/track/41xLRF9wYENxgmTNAd2s4Q) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Đường Về Nhà](https://open.spotify.com/album/2L4kKETYA5sbXVqpk3fpk3) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/track/4g05dGhnA69TG6AJljEcL6) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/album/4O5Y2CJavAsV8AkPZQqXrt) | 5:22 |
 | 50 | [Siren](https://open.spotify.com/track/1c0LbgYt51JeBUMAzofjkq) | [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RZ Mas](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31) | [Siren](https://open.spotify.com/album/0Cb2HIaYbo2in1yXeDoxv0) | 2:37 |
 
-Snapshot ID: `MTY2NDk4OTIwMCwwMDAwMDAwMGUxY2Y4YTQxOGMwZDgxZTczZDEyOTk5ZTI1ZjEyYmVm`
+Snapshot ID: `MTY2NTQ3MjIwNSwwMDAwMDAwMDI3MzFmNDU0ZWQ2MDM5NTU2MjQwYWQ3ZmVmYzQ5ODgx`

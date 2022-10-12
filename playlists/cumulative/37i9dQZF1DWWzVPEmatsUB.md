@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-278 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+279 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Dream](https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [A Good Day](https://open.spotify.com/album/2y8fiUO036vTYKHM2gNSuW) | 3:31 | 2020-10-17 |  |
 | [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 | 2022-07-01 | 2022-09-05 |
 | [Dreamer](https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:01 | 2022-07-01 | 2022-10-10 |
+| [Dreamer](https://open.spotify.com/track/7JRvk5bk0yJIrqVwLtZDst) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:01 | 2022-07-01 |  |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 |  |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 |  |
 | [Every Heart In The Room](https://open.spotify.com/track/2mOl7hHENoE6P4VooQw7BK) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Down The Road Wherever \(Deluxe\)](https://open.spotify.com/album/50GCIDxmRhgriDpyzmV7qA) | 4:30 | 2020-10-17 | 2022-05-16 |
@@ -232,7 +233,7 @@
 | [Sky is the Limit](https://open.spotify.com/track/1OBK4DltPHWoeilauCyckU) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Hello World](https://open.spotify.com/album/1zBBrKUppVAhnk0s70TRyK) | 2:39 | 2022-09-09 |  |
 | [Slow Dance In The Morning](https://open.spotify.com/track/1CejN6L0cGLANesqgZ96Qa) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Slow Dance In The Morning](https://open.spotify.com/album/5fntL2bwIaX4rZhK7IZgBb) | 2:57 | 2022-09-23 | 2022-10-01 |
 | [Smoke Alarm](https://open.spotify.com/track/3DO4Uwb1rmC5vNntGSmTBI) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [Us](https://open.spotify.com/album/2J8gElhzAsvDSeU6kJvdZY) | 3:07 | 2022-07-08 | 2022-08-30 |
-| [So Far Away](https://open.spotify.com/track/5NnizvoGv4a4fh64ybwFo1) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Fun Machine: The Sequel](https://open.spotify.com/album/5O41WrYns4BBDOtvVx1JFM) | 3:36 | 2022-09-09 |  |
+| [So Far Away](https://open.spotify.com/track/5NnizvoGv4a4fh64ybwFo1) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Fun Machine: The Sequel](https://open.spotify.com/album/5O41WrYns4BBDOtvVx1JFM) | 3:36 | 2022-09-09 | 2022-10-12 |
 | [Some friends and a place to call home](https://open.spotify.com/track/0zzcjPRxa26NDyex0GoJs2) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [Some friends and a place to call home](https://open.spotify.com/album/6LObxZbQLxl6dBVRfzVAFm) | 3:07 | 2021-10-29 | 2022-07-29 |
 | [Someone](https://open.spotify.com/track/4GUNIph7cHEIfSKUdn7TaB) | [Meaghan Maples](https://open.spotify.com/artist/5FA6mWNzm3ecpLGip159LP) | [Someone](https://open.spotify.com/album/5nZgnFLJ28nItazEit9DiL) | 2:48 | 2022-02-25 | 2022-07-29 |
 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 | 2022-04-22 |  |

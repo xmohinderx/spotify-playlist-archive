@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,603 likes - 128 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,698 likes - 128 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

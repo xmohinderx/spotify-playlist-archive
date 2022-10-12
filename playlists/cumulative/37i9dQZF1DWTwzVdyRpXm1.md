@@ -2,9 +2,9 @@
 
 ### [Desi Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1)
 
-> Desi hits from South Asia\. Cover: Shae Gill, Ali Sethi
+> Desi hits from South Asia\. Cover: King
 
-124 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
+126 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 | 2021-12-06 |  |
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2022-04-07 |  |
 | [Chaka Chak](https://open.spotify.com/track/4uLG79ROWYEXx1kJvDVbWI) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Atrangi Re](https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm) | 4:31 | 2022-01-13 | 2022-05-20 |
+| [Champagne Talk](https://open.spotify.com/track/7sp9SYjIBBniAJ7xa1nkZh) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 2:43 | 2022-10-11 |  |
 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2022-04-15 | 2022-05-20 |
 | [Chhor Denge](https://open.spotify.com/track/5SYcKZYmQnHBW1LGLOi8sH) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Chhor Denge](https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9) | 4:17 | 2021-12-06 | 2022-01-14 |
 | [Coca Cola \(From "Luka Chuppi"\)](https://open.spotify.com/track/352wEkChkiClswqwDoM0nj) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Young Desi](https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Coca Cola \(From "Luka Chuppi"\)](https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc) | 2:59 | 2021-12-06 | 2022-01-14 |
@@ -71,6 +72,7 @@
 | [Liggi](https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:01 | 2022-08-30 |  |
 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 | 2021-12-06 |  |
 | [Lut Gaye](https://open.spotify.com/track/2ufLEVbzvEcJ3subW8jBUp) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Emraan Hashmi](https://open.spotify.com/artist/44oMI9xI4kcCub3qbpYPdb) | [Lut Gaye](https://open.spotify.com/album/2IgqTqUjGQsmahYITOCdBX) | 3:48 | 2021-12-06 |  |
+| [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 | 2022-10-11 |  |
 | [Main Kaise Kahoon](https://open.spotify.com/track/18yr5HRBIt4vz9SRNhfepK) | [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5) | [Main Kaise Kahoon](https://open.spotify.com/album/6OgN2u5FuqLG2emWjx4IpX) | 3:18 | 2022-05-19 | 2022-06-17 |
 | [Maiyya Mainu \(From "Jersey"\)](https://open.spotify.com/track/4PwTeFfKqmR3XIeXXUBDOf) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Maiyya Mainu \(From "Jersey"\)](https://open.spotify.com/album/1I3s1v090iECnF0ZhCL1ui) | 3:51 | 2022-04-07 |  |
 | [Makhna](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 3:03 | 2021-12-06 |  |

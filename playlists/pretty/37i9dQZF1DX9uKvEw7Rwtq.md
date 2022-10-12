@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,642 likes - 55 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,717 likes - 55 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 6 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
 | 7 | [Green Arrow](https://open.spotify.com/track/6o65Xn8X3IXf7zmxVjXDWJ) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:43 |
 | 8 | [Looking at the World Through a Window](https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Looking at the World Through a Window](https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ) | 6:25 |
-| 9 | [Seeming](https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Veriditas](https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0) | 2:35 |
-| 10 | [Glaciers](https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 2:56 |
+| 9 | [Glaciers](https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 2:56 |
+| 10 | [Seeming](https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Veriditas](https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0) | 2:35 |
 | 11 | [Untitled \#3 \- Samskeyti](https://open.spotify.com/track/1QUiA9aecDOOnf32A9ZrtW) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [\( \)](https://open.spotify.com/album/3FR8CV7OSyZDnxneavnh8t) | 6:33 |
 | 12 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 |
 | 13 | [Waking Up](https://open.spotify.com/track/3CSO9mXOUtOzIM6Eqq9QlF) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Lone Survivor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/30KqtKSWR8OQe0mB4EdepA) | 4:50 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 36 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 |
 | 37 | [Rooftop](https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Vespertine](https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5) | 5:50 |
 | 38 | [It's Dark, It's Cold, It's Winter](https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [sleepmakeswaves](https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp) | 4:50 |
-| 39 | [Feeling Everything but Lost](https://open.spotify.com/track/5OY253uETDSe8456oYvkS3) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Feeling Everything but Lost](https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG) | 4:55 |
-| 40 | [Goodbye Sierra](https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Signals](https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8) | 2:40 |
-| 41 | [In Light](https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 6:06 |
-| 42 | [Forever Rain](https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [Beautiful Illusions](https://open.spotify.com/album/7lpRgODu2tRCkiDIUNV0Wc) | 5:34 |
+| 39 | [Goodbye Sierra](https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Signals](https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8) | 2:40 |
+| 40 | [Feeling Everything but Lost](https://open.spotify.com/track/5OY253uETDSe8456oYvkS3) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Feeling Everything but Lost](https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG) | 4:55 |
+| 41 | [Forever Rain](https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [Beautiful Illusions](https://open.spotify.com/album/7lpRgODu2tRCkiDIUNV0Wc) | 5:34 |
+| 42 | [In Light](https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 6:06 |
 | 43 | [A Citizen's Dream](https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Signals](https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI) | 6:01 |
 | 44 | [I Dreamt Our Whole City Burned](https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [I Dreamt Our Whole City Burned](https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN) | 4:44 |
 | 45 | [Are You There?](https://open.spotify.com/track/5uK3MgCUXANoPoAhWqdfe8) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [You Are There](https://open.spotify.com/album/4yT7Tq2TN7PcfgEx3EWc8k) | 10:25 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 47 | [Ea: First Movement](https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Timewave Zero](https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ) | 7:21 |
 | 48 | [Blowback \- Edit](https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Blowback](https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5) | 5:09 |
 | 49 | [Dust Bowl](https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM) | [The Aquaerials](https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc) | [Dust Bowl](https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5) | 6:04 |
-| 50 | [Total Perspective Vortex](https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Invisible Cities](https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce) | 4:20 |
-| 51 | [Reflection](https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM) | [Interstellar Noise](https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT) | [Reflection](https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP) | 3:47 |
+| 50 | [Reflection](https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM) | [Interstellar Noise](https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT) | [Reflection](https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP) | 3:47 |
+| 51 | [Total Perspective Vortex](https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Invisible Cities](https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce) | 4:20 |
 | 52 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
-| 53 | [Elsewhere](https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Elsewhere](https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c) | 3:54 |
-| 54 | [Mystik](https://open.spotify.com/track/25HjqUZFeK2tgNuGHiXWCB) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Mystik](https://open.spotify.com/album/03tqMIhiB0qSBTtuuZsOdU) | 2:26 |
+| 53 | [Mystik](https://open.spotify.com/track/25HjqUZFeK2tgNuGHiXWCB) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Mystik](https://open.spotify.com/album/03tqMIhiB0qSBTtuuZsOdU) | 2:26 |
+| 54 | [Elsewhere](https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Elsewhere](https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c) | 3:54 |
 | 55 | [Monastic](https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 6:33 |
 
-Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMDVjOGQ0YzNjMDc5NGM0ZTEwYzUxYTEwMDNlZDI0MGMw`
+Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMGIzMzkxZWJiNDk4N2I3MGM2YTliYzk1NDM0MmE0ZjJk`

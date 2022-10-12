@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Lil Wayne",
-  "num_followers": 40970,
+  "num_followers": 41192,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMDU4M2Q5ZDllMzMwYWJiMzQxYmRlMjgxY2RkOWViMTY2",
+  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMGE2MTA4NWFjODk0Mzg3MDMyZjAxODFjNDM4NGUwNjFh",
   "tracks": [
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Light Poles And Pine Trees",
-        "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
-      },
-      "artists": [
-        {
-          "name": "Field Mob",
-          "url": "https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 223066,
       "name": "Westside Story",
       "url": "https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Light Poles And Pine Trees",
+        "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
+      },
+      "artists": [
+        {
+          "name": "Field Mob",
+          "url": "https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
     },
     {
       "added_at": "2022-05-20 23:33:16",

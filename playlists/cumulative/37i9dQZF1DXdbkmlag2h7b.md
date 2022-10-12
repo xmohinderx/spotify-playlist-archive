@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-135 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
+136 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,12 +98,13 @@
 | [Placidity \- Studio Edit](https://open.spotify.com/track/0vsCKqIDPPFpFgAZdKe0XV) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Placidity](https://open.spotify.com/album/5JPweRKouRByGPkZZRZ2C2) | 3:01 | 2021-12-09 | 2022-07-29 |
 | [Porte Ma Croix](https://open.spotify.com/track/7LwsgrwaA4eOAEGMGJGmFw) | [Joux](https://open.spotify.com/artist/0TLw363ALNpf7U4FpayQKc) | [Le Petite Prince](https://open.spotify.com/album/7cuyQpOs4rnFmfKi8bZeUz) | 2:58 | 2021-12-09 |  |
 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 | 2021-12-09 |  |
+| [Precious 432 hz](https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 2:40 | 2022-10-12 |  |
 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 | 2021-12-09 |  |
 | [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 | 2021-12-09 |  |
 | [Raising Life](https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA), [Max Schrammel](https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg) | [Elementaries](https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI) | 3:02 | 2021-12-09 |  |
 | [Renewing](https://open.spotify.com/track/7qRlRHuoa9Rh1lgm5exmkZ) | [Healing Echoes](https://open.spotify.com/artist/5oIYBXnlagVfSVIg2690cu) | [Renewing](https://open.spotify.com/album/4Dq0JNOmlEOjJNjsCGhqRY) | 3:22 | 2021-12-09 | 2022-07-29 |
 | [Saraya](https://open.spotify.com/track/3iqVvsJ10ib4hbIQYgli9f) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Saraya](https://open.spotify.com/album/2KOxOL9j37zXGXbTIrIzaN) | 2:28 | 2021-12-09 | 2022-07-29 |
-| [Sentiments in Emptiness](https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/0Wfx9bfeel0tvMe6BLyJMt) | 3:41 | 2022-07-22 |  |
+| [Sentiments in Emptiness](https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/0Wfx9bfeel0tvMe6BLyJMt) | 3:41 | 2022-07-22 | 2022-10-12 |
 | [Sentiments in Emptiness](https://open.spotify.com/track/5tlzeu9WthIjEDlRMY1Ko3) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/2M5fJOeUUEKlqNY0QLbjwX) | 3:41 | 2021-12-09 | 2022-07-29 |
 | [Serum](https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM) | [Cieri](https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL) | [Serum](https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT) | 3:44 | 2021-12-09 |  |
 | [Softly](https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Softly](https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin) | 2:25 | 2021-12-09 |  |

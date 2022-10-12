@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Lala &ce
 
-472 songs - 1 day 0 hr 35 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+473 songs - 1 day 0 hr 38 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,8 @@
 | [Maquiller](https://open.spotify.com/track/0kSlKM6oCLbpmpHXf3JCAT) | [Sola](https://open.spotify.com/artist/0UTolPLHS3Il6Pz2DrnXVV) | [Maquiller](https://open.spotify.com/album/0Ii2tDoeGbMmzSnbBF9yv0) | 2:33 | 2022-05-03 | 2022-06-01 |
 | [MATTER OF TIME](https://open.spotify.com/track/1BiQ2jfH5Etm1jwmlSEeHZ) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [MATTER OF TIME](https://open.spotify.com/album/6qqsKkM05X5NISYoXNS9gk) | 4:13 | 2022-02-01 | 2022-03-08 |
 | [Mattress](https://open.spotify.com/track/117LsXmdWsAaodcvRBQfYe) | [Praa](https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt) | [Mattress](https://open.spotify.com/album/2jNE05koiPr9OupkN8NG7b) | 2:32 | 2022-10-05 |  |
-| [Maux de tête](https://open.spotify.com/track/15JOE9D6XC0xW8rFRclsZj) | [Heaven](https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG) | [Maux de tête](https://open.spotify.com/album/769povRMdGePBHz5c39gOS) | 2:50 | 2022-10-04 |  |
+| [Maux de tête](https://open.spotify.com/track/13D5HrejdIzNzPnaQjnx0N) | [Heaven](https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG) | [Maux de tête](https://open.spotify.com/album/6OC9Rbnw6pu2hfPgSzls7Y) | 2:50 | 2022-10-05 |  |
+| [Maux de tête](https://open.spotify.com/track/15JOE9D6XC0xW8rFRclsZj) | [Heaven](https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG) | [Maux de tête](https://open.spotify.com/album/769povRMdGePBHz5c39gOS) | 2:50 | 2022-10-04 | 2022-10-12 |
 | [Me Gustas Tu](https://open.spotify.com/track/7gu3kq7KeEOnTuBJBYe6ZM) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5) | [Me Gustas Tu](https://open.spotify.com/album/7zYTRWSsdYqy0em5bJD0W6) | 2:30 | 2022-02-01 | 2022-03-08 |
 | [ME VOILÀ](https://open.spotify.com/track/3qJzUKj78n8JzdxFjkfkGr) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [ME VOILÀ](https://open.spotify.com/album/1xmDvMNKREJDfHBVjexEnm) | 2:54 | 2022-10-04 |  |
 | [MELODIE](https://open.spotify.com/track/7Mcyhg3EXPxwlYm7a3EGbV) | [Oordaya](https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY) | [MELODIE](https://open.spotify.com/album/66QqIDdyRjPw9JaErRB83g) | 3:36 | 2022-09-06 | 2022-10-05 |

@@ -4,7 +4,7 @@
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-324 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/7bUcek1mMNSNQXUd5BDskV)
+325 songs - 19 hr 36 min - [published](https://open.spotify.com/playlist/7bUcek1mMNSNQXUd5BDskV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 | 2022-07-22 |  |
 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 | 2022-03-25 |  |
 | [California Numb \- Acoustic](https://open.spotify.com/track/3MKcaz7j0far7FN9EVhlwx) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [California Numb \(Acoustic\)](https://open.spotify.com/album/04otrNTnlmVPNqp7kfJ0i3) | 3:21 | 2022-03-25 | 2022-04-18 |
-| [Can't Help Falling In Love](https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Can't Help Falling In Love](https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee) | 2:20 | 2021-10-13 |  |
+| [Can't Help Falling In Love](https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Can't Help Falling In Love](https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee) | 2:20 | 2021-10-13 | 2022-10-12 |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 | 2022-07-22 |  |
 | [Can't See Straight \- Acoustic](https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Can't See Straight \(Acoustic\)](https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj) | 3:08 | 2021-10-13 |  |
 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 | 2021-10-13 | 2022-07-29 |
@@ -134,6 +134,7 @@
 | [Honey](https://open.spotify.com/track/2sksCUIpcWYO5imUxTonvd) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Honey](https://open.spotify.com/album/5N9dItG2SXPHuvqW1wfT5J) | 3:33 | 2022-03-25 | 2022-04-21 |
 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/0uXrseeLQkcjiI1QAmHVPm) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hurts So Good \(Live From The Studio\)](https://open.spotify.com/album/7ahKxobHI1fMPSbhf9KvyP) | 3:22 | 2021-10-13 | 2022-06-18 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-09-15 |
+| [I Burned LA Down](https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:15 | 2022-07-22 |  |
 | [I Burned LA Down](https://open.spotify.com/track/6HCE76ilvGMSibu8eki1nI) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:15 | 2022-07-22 | 2022-10-07 |
 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 | 2022-07-22 |  |
 | [I Can Change](https://open.spotify.com/track/2uDnC30adouplySDz00DW2) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [I Can Change](https://open.spotify.com/album/1qmJxfBw5e2p2KgYjibOjB) | 3:11 | 2021-10-13 | 2022-07-29 |

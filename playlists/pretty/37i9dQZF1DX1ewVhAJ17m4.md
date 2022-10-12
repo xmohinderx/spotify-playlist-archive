@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,344 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,438 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 54 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 |
 | 55 | [The King and Queen of Gasoline](https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:38 |
 | 56 | [TRIVIAL PURSUIT](https://open.spotify.com/track/3GkVGyEdZPy7Q6Dyn1YZJ3) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [GUMMY](https://open.spotify.com/album/2XBp8IR0mJOwlXoq4g8o0Z) | 2:13 |
-| 57 | [Negatives \(with Jordan Black of Like Pacific\)](https://open.spotify.com/track/0URZXVDHJdSviyVcpcyFih) | [Heart Shaped Lakes](https://open.spotify.com/artist/2VYDx1RJQZuhbWZbnuvb3E), [Like Pacific](https://open.spotify.com/artist/5VKmfBc2pR80IxYoC1gHyH) | [Negatives \(with Jordan Black of Like Pacific\)](https://open.spotify.com/album/48jXsSyNw3XSddaAFm07fe) | 3:47 |
+| 57 | [Negatives \(with Jordan Black of Like Pacific\)](https://open.spotify.com/track/0URZXVDHJdSviyVcpcyFih) | [Heart Shaped Lakes](https://open.spotify.com/artist/2VYDx1RJQZuhbWZbnuvb3E), [Like Pacific](https://open.spotify.com/artist/4m1GJ3RVig2JaCUx1aJQiD) | [Negatives \(with Jordan Black of Like Pacific\)](https://open.spotify.com/album/48jXsSyNw3XSddaAFm07fe) | 3:47 |
 | 58 | [Gasoline](https://open.spotify.com/track/6kUqtwGftq5d2kzlH3Eh9t) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Gasoline](https://open.spotify.com/album/1TK2KPCTblGOP0J1fIITpx) | 2:43 |
 | 59 | [Friendzone](https://open.spotify.com/track/2TIsg3maE0ssdgjsc8qh8O) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Friendzone](https://open.spotify.com/album/7umNabuZvQNXFIgB2CkKKQ) | 3:10 |
 | 60 | [Don't Fall In Love With Me](https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Don't Fall In Love With Me](https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u) | 2:28 |

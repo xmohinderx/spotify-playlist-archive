@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 120065,
+  "num_followers": 120074,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDc2NDAzMWJjYWQ0ZTVkNDIwZWYwZDk3MGI2NWE0Y2Y5",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDYzYjkzNWQwNjUyMjcyMzQ5MzM5ZDM2NTE3ZDU0MTcy",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Juice of Mandarins",
+        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "Juice of Mandarins",
+      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Painted",
         "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Juice of Mandarins",
-        "url": "https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "Juice of Mandarins",
-      "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
     },
     {
       "added_at": "2022-10-07 03:00:00",

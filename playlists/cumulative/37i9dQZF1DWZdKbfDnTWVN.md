@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: Boutross
 
-62 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/5uX6eRgTlxUUU0p5d2ahrD)
+63 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/5uX6eRgTlxUUU0p5d2ahrD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Tsunami](https://open.spotify.com/track/0Z412tcJhHWjmU7q05qI7T) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Scar](https://open.spotify.com/artist/4jNWY4AuhaqlwrKsYpYPhH) | [Invisible Currency](https://open.spotify.com/album/3bMnNtT3KDro78bMlWiq8a) | 6:14 | 2022-03-17 |  |
 | [Umoroto](https://open.spotify.com/track/5wjD5yBTFfmSzfFdxfNAki) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm), [Scar Mkadinali](https://open.spotify.com/artist/3RCoJbqdoT2wavPdNCob2T) | [EXPOSED \(Munga\`s Revenge\)](https://open.spotify.com/album/7EdsRJcXSbgaulhtzYN14n) | 4:27 | 2022-05-19 |  |
 | [USIKAM HII SECTION](https://open.spotify.com/track/5XDl1xJSDK5ys6jI9r0p2i) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 3:48 | 2022-05-27 |  |
-| [Wasp](https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [BIGGS](https://open.spotify.com/album/4pxNzFrgUzRCJupYUXjs8y) | 3:20 | 2022-07-07 |  |
+| [Wasp](https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [BIGGS](https://open.spotify.com/album/4pxNzFrgUzRCJupYUXjs8y) | 3:20 | 2022-07-07 | 2022-10-12 |
+| [Wasp](https://open.spotify.com/track/76TeUkPnBIKQuj3aNgSvNn) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs](https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD) | 3:22 | 2022-07-07 |  |
 | [WHO?](https://open.spotify.com/track/4qgRm4l0ns4cClQyIsOJ1c) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO), [Amaz](https://open.spotify.com/artist/3wtVJS5a0IunELhRRHubXr) | [WHO?](https://open.spotify.com/album/1utTBCnNVBfUea8ZpP99NZ) | 3:30 | 2022-06-23 |  |
 | [Woo](https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Woo](https://open.spotify.com/album/6JKsNhNlPwfClt6j5ueIJM) | 2:00 | 2022-09-29 |  |
 

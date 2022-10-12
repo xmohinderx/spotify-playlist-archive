@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 235093,
+  "num_followers": 235213,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGM5MTYzM2I5N2Y4YjJiMWZlNzAzMDE1NWM3N2NiYzE0",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDQ1ZTA3MjgzODYyMWY5NjA0MTEzYWNjOTVlODhlYmE1",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -365,26 +365,6 @@
       "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Baby Boo",
-        "url": "https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152241,
-      "name": "Baby Boo (with Saweetie)",
-      "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
-    },
-    {
       "added_at": "2021-08-06 04:01:00",
       "album": {
         "name": "Groove Continental: Side A",
@@ -407,6 +387,26 @@
       "duration_ms": 176293,
       "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
       "url": "https://open.spotify.com/track/14NGdYOr9abOGH6euZcpu5"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Baby Boo",
+        "url": "https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 152241,
+      "name": "Baby Boo (with Saweetie)",
+      "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Hot Crush Lover",
-        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 193731,
-      "name": "Hot Crush Lover",
-      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "When Someone Loves You",
@@ -543,6 +527,22 @@
       "duration_ms": 255604,
       "name": "When Someone Loves You",
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Hot Crush Lover",
+        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 193731,
+      "name": "Hot Crush Lover",
+      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/3CAUdHOsgijdnNsjO7o7Hd"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
-      },
-      "artists": [
-        {
-          "name": "KWAYE",
-          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Don't Lose Sight",
@@ -975,6 +959,22 @@
       "duration_ms": 406186,
       "name": "Don't Lose Sight (Acoustic)",
       "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
+      },
+      "artists": [
+        {
+          "name": "KWAYE",
+          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
     },
     {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Carving Canyons",
+        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 188619,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
+    },
+    {
       "added_at": "2022-07-12 18:25:04",
       "album": {
         "name": "ITS ALL GOOD",
@@ -1049,22 +1065,6 @@
       "url": "https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Carving Canyons",
-        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 188619,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Not Needed Anymore",
@@ -1079,6 +1079,22 @@
       "duration_ms": 92400,
       "name": "Not Needed Anymore",
       "url": "https://open.spotify.com/track/2BfkNEDzO5UtSzPpMsfg5Q"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "All Day Long",
+        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 169433,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1099,22 +1115,6 @@
       "duration_ms": 218248,
       "name": "First Avenue",
       "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "All Day Long",
-        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 169433,
-      "name": "All Day Long",
-      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/4xOOBxljutpqUOfWxbmIR6"
     },
     {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Tango",
+        "url": "https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y"
+      },
+      "artists": [
+        {
+          "name": "Onyx Collective",
+          "url": "https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf"
+        }
+      ],
+      "duration_ms": 304838,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
+    },
+    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Better Man",
@@ -1259,26 +1275,6 @@
       "duration_ms": 196038,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "The Futuristics",
-          "url": "https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t"
-        }
-      ],
-      "duration_ms": 141002,
-      "name": "Turn Up",
-      "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1301,20 +1297,24 @@
       "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Keep Her",
-        "url": "https://open.spotify.com/album/6dIok7yPbvTPNLfeJcmctW"
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85"
       },
       "artists": [
         {
-          "name": "Jake Miller",
-          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "The Futuristics",
+          "url": "https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t"
         }
       ],
-      "duration_ms": 171346,
-      "name": "Keep Her",
-      "url": "https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau"
+      "duration_ms": 141002,
+      "name": "Turn Up",
+      "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1333,20 +1333,44 @@
       "url": "https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Tango",
-        "url": "https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y"
+        "name": "Keep Her",
+        "url": "https://open.spotify.com/album/6dIok7yPbvTPNLfeJcmctW"
       },
       "artists": [
         {
-          "name": "Onyx Collective",
-          "url": "https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf"
+          "name": "Jake Miller",
+          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
         }
       ],
-      "duration_ms": 304838,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
+      "duration_ms": 171346,
+      "name": "Keep Her",
+      "url": "https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau"
+    },
+    {
+      "added_at": "2022-03-18 04:01:00",
+      "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/2pBy32Q6pHJbDheTy6Ao7s"
+      },
+      "artists": [
+        {
+          "name": "Luc de la Croixx",
+          "url": "https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59"
+        },
+        {
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+        },
+        {
+          "name": "SATICA",
+          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
+        }
+      ],
+      "duration_ms": 184067,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1387,30 +1411,6 @@
       "duration_ms": 191566,
       "name": "You Gotta Respect Yourself!",
       "url": "https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/2pBy32Q6pHJbDheTy6Ao7s"
-      },
-      "artists": [
-        {
-          "name": "Luc de la Croixx",
-          "url": "https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59"
-        },
-        {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
-        },
-        {
-          "name": "SATICA",
-          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
-        }
-      ],
-      "duration_ms": 184067,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
     },
     {
       "added_at": "2022-05-13 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1331479,
+  "num_followers": 1331467,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0NDAwMCwwMDAwMDAwMDg2Mzg4YzVhNTFmNjAwMjdmM2E0MzllNzdkZTJiMThi",
+  "snapshot_id": "MTY2NTE0NDAwMCwwMDAwMDAwMGU4ODU1MWJhYmE1NDc2MjRjZDI1YzY5ZWFiZjEyMGZj",
   "tracks": [
     {
       "added_at": "2022-10-07 12:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "Signed, Sealed And Delivered",
         "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 161160,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
       "artists": [
         {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 220706,
-      "name": "Footloose",
-      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 210772,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
       "url": "https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "Beautiful Soul",
         "url": "https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 214226,
       "name": "Beautiful Soul",
       "url": "https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 180757,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "Talk Dirty",
         "url": "https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 206093,
       "name": "The Tide Is High - Radio Mix",
       "url": "https://open.spotify.com/track/1QhSB9L9M5eZQhW4RNOhXK"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 180757,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -2051,22 +2051,18 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Bigger Than",
-        "url": "https://open.spotify.com/album/0ryzyI2FzzvGCjoysiWMW0"
+        "name": "Some Kind of Trouble (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W"
       },
       "artists": [
         {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
-        },
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
         }
       ],
-      "duration_ms": 208013,
-      "name": "Bigger Than",
-      "url": "https://open.spotify.com/track/5X73AYzzEE5Di0JwcQKt9N"
+      "duration_ms": 216333,
+      "name": "Stay the Night",
+      "url": "https://open.spotify.com/track/7FFl1IHSsPWsfUCladsCl9"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -2091,18 +2087,22 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "Some Kind of Trouble (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W"
+        "name": "Bigger Than",
+        "url": "https://open.spotify.com/album/0ryzyI2FzzvGCjoysiWMW0"
       },
       "artists": [
         {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
         }
       ],
-      "duration_ms": 216333,
-      "name": "Stay the Night",
-      "url": "https://open.spotify.com/track/7FFl1IHSsPWsfUCladsCl9"
+      "duration_ms": 208013,
+      "name": "Bigger Than",
+      "url": "https://open.spotify.com/track/5X73AYzzEE5Di0JwcQKt9N"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "The Essential Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "Heaven On Earth (Deluxe Edition)",
         "url": "https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no"
       },
@@ -2187,6 +2171,22 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
+        "name": "The Essential Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
       },
@@ -2199,6 +2199,22 @@
       "duration_ms": 205267,
       "name": "Chasing Fire",
       "url": "https://open.spotify.com/track/2zXRAZvUb2B5PzJGwCtFe0"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -2235,22 +2251,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
-      },
-      "artists": [
-        {
-          "name": "Junior Senior",
-          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -2267,6 +2267,22 @@
       "duration_ms": 171785,
       "name": "Hold The Line (feat. A R I Z O N A)",
       "url": "https://open.spotify.com/track/6EBlOYNcZ8MrdEov9lEdV6"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -2423,22 +2439,6 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "What A Night",
-        "url": "https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 124592,
-      "name": "What A Night",
-      "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
         "name": "Dancing On A Sunny Day",
         "url": "https://open.spotify.com/album/2o9Whn3LIpFQeD1f3vNZJJ"
       },
@@ -2451,6 +2451,22 @@
       "duration_ms": 176841,
       "name": "Dancing On A Sunny Day",
       "url": "https://open.spotify.com/track/4QNxalh2dYirUjd7yGPlfu"
+    },
+    {
+      "added_at": "2022-10-07 12:00:00",
+      "album": {
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 124592,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -2475,18 +2491,18 @@
     {
       "added_at": "2022-10-07 12:00:00",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+        "name": "7 Minutes",
+        "url": "https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+      "duration_ms": 211453,
+      "name": "7 Minutes",
+      "url": "https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC"
     },
     {
       "added_at": "2022-10-07 12:00:00",
@@ -2503,22 +2519,6 @@
       "duration_ms": 184800,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/0JVonv1gan1gae0mqHnUXm"
-    },
-    {
-      "added_at": "2022-10-07 12:00:00",
-      "album": {
-        "name": "7 Minutes",
-        "url": "https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "7 Minutes",
-      "url": "https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC"
     },
     {
       "added_at": "2022-10-07 12:00:00",

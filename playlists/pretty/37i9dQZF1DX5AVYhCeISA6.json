@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran. Kickback and listen to these amazing women. Cover: Villano Antillano",
-  "num_followers": 595459,
+  "num_followers": 595520,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGE1ZjkxN2FiYWRhYzllYTk4OTQ4NGMwOGMxZGZkZGQ4",
+  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMDkzZTZiZDNiM2U2NGY0MzQwNWFjM2U1MDk3NTU1OTFj",
   "tracks": [
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/3KscTDGgr9l50riagD0brp"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "duration_ms": 162286,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/3zttbTVwXpWfViktdgZZni"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "ChocQuib House",
         "url": "https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2"
       },
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Cuando Hay Amor",
-        "url": "https://open.spotify.com/album/4J8Q9mgGc9qtJLxibHgj8Z"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 241426,
-      "name": "Cuando Hay Amor",
-      "url": "https://open.spotify.com/track/5btfqYIpHd72XXCD1J6zlK"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
       },
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "LALALA",
-        "url": "https://open.spotify.com/album/3KscTDGgr9l50riagD0brp"
+        "name": "Cuando Hay Amor",
+        "url": "https://open.spotify.com/album/4J8Q9mgGc9qtJLxibHgj8Z"
       },
       "artists": [
         {
-          "name": "ANGEL22",
-          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
         }
       ],
-      "duration_ms": 162286,
-      "name": "LALALA",
-      "url": "https://open.spotify.com/track/3zttbTVwXpWfViktdgZZni"
+      "duration_ms": 241426,
+      "name": "Cuando Hay Amor",
+      "url": "https://open.spotify.com/track/5btfqYIpHd72XXCD1J6zlK"
     },
     {
       "added_at": "2022-08-31 07:13:59",

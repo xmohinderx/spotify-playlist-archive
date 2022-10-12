@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-522 songs - 1 day 2 hr 39 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+523 songs - 1 day 2 hr 41 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [FESTİVAL](https://open.spotify.com/track/7jQri0CCEkeOGt7fedmmsu) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [FESTİVAL](https://open.spotify.com/album/3HGvrhL5kRdzZzay6jOou1) | 2:32 | 2022-04-02 | 2022-04-18 |
 | [Fiji](https://open.spotify.com/track/4vu9a9VrHQmHnpWQHMFJXs) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Özlüce Trap Boys](https://open.spotify.com/album/6uDdqxLsmGmXVak2y4vreh) | 2:11 | 2021-08-15 | 2021-09-05 |
 | [Film](https://open.spotify.com/track/17zIQr0R5oOWf4XHcRPDL7) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Film](https://open.spotify.com/album/4YjsCRgWqQbsgkAqeMw2yu) | 1:58 | 2022-07-02 | 2022-07-07 |
+| [FLEX SO HARD RMX](https://open.spotify.com/track/599TAkOSDn1CRTXziWACAX) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [FLEX SO HARD RMX](https://open.spotify.com/album/5YSHrpWibzTM64AjdG6dXr) | 2:29 | 2022-10-11 |  |
 | [Forsa](https://open.spotify.com/track/0hItWVe3JLff1yDdfJaIRq) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Forsa](https://open.spotify.com/album/1fAHRAftczSdXs0u62jEWY) | 3:50 | 2021-12-12 | 2021-12-14 |
 | [Gamzedeyim Deva Bulmam](https://open.spotify.com/track/6glvSyTo1y4WLtX0mnDq83) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Çağrı Çelik](https://open.spotify.com/artist/7wqnPyXma7EKSYt4CVzNjq) | [Gamzedeyim Deva Bulmam](https://open.spotify.com/album/3Tltrhd0u9g6cFjJiB0k8E) | 5:16 | 2021-11-16 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |
@@ -495,7 +496,7 @@
 | [Yara](https://open.spotify.com/track/1IquNFg2RRH1CLRAHNVgQ9) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Sonsuza Kadar](https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0) | 3:33 | 2022-03-21 | 2022-09-25 |
 | [Yaralarını Ben Sarayım](https://open.spotify.com/track/2pTwhAbZHkM1CyDYe1k8hl) | [Berk Baysal](https://open.spotify.com/artist/54R13HT0PZ7sa6xMm9YpDS) | [Olmuyor Böyle](https://open.spotify.com/album/0UKC1bSDFuCunQZudf6jnt) | 3:58 | 2022-03-08 | 2022-06-05 |
 | [Yarım](https://open.spotify.com/track/57rovEuHglDmpx84Oir2Nu) | [Didomido](https://open.spotify.com/artist/4n07t89zwwIvAfHvgvdCWf) | [Yarım](https://open.spotify.com/album/1qfUQl8m2UfTawiCrwHgsd) | 2:14 | 2021-05-23 | 2021-06-24 |
-| [Yarım Kalan Sigara](https://open.spotify.com/track/0HbKbkAMK7Wnps5vpZW4j2) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kron1k](https://open.spotify.com/album/5f1l54Z4YUjdxhR7DqDZIS) | 3:03 | 2022-01-17 |  |
+| [Yarım Kalan Sigara](https://open.spotify.com/track/0HbKbkAMK7Wnps5vpZW4j2) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kron1k](https://open.spotify.com/album/5f1l54Z4YUjdxhR7DqDZIS) | 3:03 | 2022-01-17 | 2022-10-12 |
 | [yarım kalır](https://open.spotify.com/track/3prFQhGuWBWLGHsQstEdkb) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [yarım kalır](https://open.spotify.com/album/4OIaZMEuRYxipHPOZiLOMe) | 2:28 | 2022-04-09 | 2022-09-06 |
 | [Yarınlar Var](https://open.spotify.com/track/5tstMACoZsyMePtRxlIXsR) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Sanrılar](https://open.spotify.com/album/3GfORRNxyhQnepv1rtRLGK) | 3:15 | 2021-03-29 | 2021-03-30 |
 | [Yaz Gülü](https://open.spotify.com/track/6775h2mEBbRRXUAYG9P3bs) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Yaz Gülü](https://open.spotify.com/album/1KmiEGyK23qs9evr7KgRSJ) | 3:10 | 2021-05-30 | 2021-08-18 |

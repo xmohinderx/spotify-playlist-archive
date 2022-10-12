@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: Anagrace",
-  "num_followers": 108824,
+  "num_followers": 108885,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTIxOTI4NSwwMDAwMDAwMDVkNGVmYWVmMGU3OTU5YjcyOTNhNTZjZGI3YmNiNTFh",
+  "snapshot_id": "MTY2NTIxOTI4NSwwMDAwMDAwMDFkNTNjMWJmNDU4OGNiZmMxYzA1YjY2N2E1ZGY5MDBj",
   "tracks": [
     {
       "added_at": "2022-10-07 05:42:27",
@@ -287,26 +287,6 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Quiero Levantar Mis Manos",
-        "url": "https://open.spotify.com/album/4hQfzI83EELcr33pnRZhDb"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n",
-          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
-        },
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 299287,
-      "name": "Quiero Levantar Mis Manos",
-      "url": "https://open.spotify.com/track/5WDZjlNmWt3n9CZ4HR3EfF"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
         "name": "Al Taller del Maestro",
         "url": "https://open.spotify.com/album/6yI9apND1qvfAoW3I3olhF"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 324725,
       "name": "Al Taller del Maestro",
       "url": "https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Quiero Levantar Mis Manos",
+        "url": "https://open.spotify.com/album/4hQfzI83EELcr33pnRZhDb"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n",
+          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
+        },
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 299287,
+      "name": "Quiero Levantar Mis Manos",
+      "url": "https://open.spotify.com/track/5WDZjlNmWt3n9CZ4HR3EfF"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -387,6 +387,26 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
+        "name": "X SIEMPRE",
+        "url": "https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 349280,
+      "name": "Jesucristo Basta",
+      "url": "https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
         "name": "Tu Manto (Remix)",
         "url": "https://open.spotify.com/album/4eKpL9SKZ8fqWIOYq6B4o9"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 228000,
       "name": "Da\u00f1ar El Jangueo (Remix)",
       "url": "https://open.spotify.com/track/0I8zKI6mn3HrjoVXrPtvgN"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "X SIEMPRE",
-        "url": "https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 349280,
-      "name": "Jesucristo Basta",
-      "url": "https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Ven Manifi\u00e9state",
-        "url": "https://open.spotify.com/album/27ytu5xJsNG05fpEgryJOS"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 618860,
-      "name": "Ven Manifi\u00e9state",
-      "url": "https://open.spotify.com/track/3szLV66DcjeMUepvDLnSt3"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
         "name": "Asombro",
         "url": "https://open.spotify.com/album/2mOcfvzGSO4jelDXFhL35I"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 281023,
       "name": "Asombro",
       "url": "https://open.spotify.com/track/57x9Y425t8s3l6mIx2yGMl"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Ven Manifi\u00e9state",
+        "url": "https://open.spotify.com/album/27ytu5xJsNG05fpEgryJOS"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 618860,
+      "name": "Ven Manifi\u00e9state",
+      "url": "https://open.spotify.com/track/3szLV66DcjeMUepvDLnSt3"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Come What May (Spanish/English Version)",
-        "url": "https://open.spotify.com/album/6KKUvTtlXEepTEK2BYb2Yy"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Aaron Moses",
-          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
-        }
-      ],
-      "duration_ms": 204688,
-      "name": "Come What May (Spanish/English Version)",
-      "url": "https://open.spotify.com/track/5KxMKSeGHvTCL0cFRtUwPz"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
         "name": "S\u00c1NAME",
         "url": "https://open.spotify.com/album/4s3FBPFKLVx7orSMIUdsOJ"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 221306,
       "name": "S\u00c1NAME",
       "url": "https://open.spotify.com/track/1UZiL3hX8vaaeGQKM8TBlI"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Come What May (Spanish/English Version)",
+        "url": "https://open.spotify.com/album/6KKUvTtlXEepTEK2BYb2Yy"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "duration_ms": 204688,
+      "name": "Come What May (Spanish/English Version)",
+      "url": "https://open.spotify.com/track/5KxMKSeGHvTCL0cFRtUwPz"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/3bNF1FxN1oofpgzJjq8LeT"
+      },
+      "artists": [
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 181732,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4cNUbTFJ1WnVLPu4j8qRHR"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
         "name": "Lugar de Descanso",
         "url": "https://open.spotify.com/album/4siTsv2o0H29efJ7JmbuIk"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 379354,
       "name": "Lugar de Descanso",
       "url": "https://open.spotify.com/track/6kInbBGT6CyIAdltMt9Xgq"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/3bNF1FxN1oofpgzJjq8LeT"
-      },
-      "artists": [
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 181732,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/4cNUbTFJ1WnVLPu4j8qRHR"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "L\u00e1mpara Encendida (En Vivo)",
-        "url": "https://open.spotify.com/album/1F88DMsFnuwr0NXrtNSrtH"
-      },
-      "artists": [
-        {
-          "name": "Shammai",
-          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
-        }
-      ],
-      "duration_ms": 686780,
-      "name": "L\u00e1mpara Encendida - En Vivo",
-      "url": "https://open.spotify.com/track/27oXuZCLZ5UcRfP2LRiVoY"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
         "name": "\u00c9l Siempre Reina",
         "url": "https://open.spotify.com/album/768fsrWlXimHnZiDXclf4m"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 326542,
       "name": "\u00c9l Siempre Reina",
       "url": "https://open.spotify.com/track/1GPqvCeWRioFhA2tin1BBS"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "L\u00e1mpara Encendida (En Vivo)",
+        "url": "https://open.spotify.com/album/1F88DMsFnuwr0NXrtNSrtH"
+      },
+      "artists": [
+        {
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+        }
+      ],
+      "duration_ms": 686780,
+      "name": "L\u00e1mpara Encendida - En Vivo",
+      "url": "https://open.spotify.com/track/27oXuZCLZ5UcRfP2LRiVoY"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Con Qu\u00e9 Pagar\u00e9?",
-        "url": "https://open.spotify.com/album/5SOg5hB6NprWFePQ4uRcn7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        },
-        {
-          "name": "Crist\u00f3bal Fones, Sj",
-          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
-        }
-      ],
-      "duration_ms": 212125,
-      "name": "Con Qu\u00e9 Pagar\u00e9?",
-      "url": "https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
         "name": "Exam\u00edname",
         "url": "https://open.spotify.com/album/3k5zdI7IGGs6SA05ZA4RKn"
       },
@@ -1203,42 +1183,6 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Centro (Reimagined)",
-        "url": "https://open.spotify.com/album/1N30JDsfLqiFCrckRRjUwe"
-      },
-      "artists": [
-        {
-          "name": "Nueva Raza",
-          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
-        },
-        {
-          "name": "KA2SH",
-          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "Centro (Reimagined)",
-      "url": "https://open.spotify.com/track/7dwT1LGucAEkglEYEyT8wP"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/6Jj0OuZ77nFEgmf6KOul6s"
-      },
-      "artists": [
-        {
-          "name": "Cales Louima",
-          "url": "https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP"
-        }
-      ],
-      "duration_ms": 243140,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/069aPAD9JsAHChvbSac4Eu"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
         "name": "Somos Libres",
         "url": "https://open.spotify.com/album/491d5bIUUd4bwEbEILt3sy"
       },
@@ -1255,22 +1199,22 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Favor & Gracia",
-        "url": "https://open.spotify.com/album/2pZwI5UyQpCk0MckYGocG2"
+        "name": "Con Qu\u00e9 Pagar\u00e9?",
+        "url": "https://open.spotify.com/album/5SOg5hB6NprWFePQ4uRcn7"
       },
       "artists": [
         {
-          "name": "Kabed",
-          "url": "https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g"
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
         },
         {
-          "name": "Mary Pagan",
-          "url": "https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2"
+          "name": "Crist\u00f3bal Fones, Sj",
+          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
         }
       ],
-      "duration_ms": 647506,
-      "name": "Llena Este Lugar - Live",
-      "url": "https://open.spotify.com/track/4S9dzKT2ZD7TeWTH8XDW1f"
+      "duration_ms": 212125,
+      "name": "Con Qu\u00e9 Pagar\u00e9?",
+      "url": "https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1295,18 +1239,58 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "De Adentro Hacia Afuera",
-        "url": "https://open.spotify.com/album/07M4BYXA44jag1dWW9nYZm"
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/6Jj0OuZ77nFEgmf6KOul6s"
       },
       "artists": [
         {
-          "name": "Deluz",
-          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
+          "name": "Cales Louima",
+          "url": "https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP"
         }
       ],
-      "duration_ms": 191657,
-      "name": "De Adentro Hacia Afuera",
-      "url": "https://open.spotify.com/track/06yVpJhPbFR5HMwYs5nhLw"
+      "duration_ms": 243140,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/069aPAD9JsAHChvbSac4Eu"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Centro (Reimagined)",
+        "url": "https://open.spotify.com/album/1N30JDsfLqiFCrckRRjUwe"
+      },
+      "artists": [
+        {
+          "name": "Nueva Raza",
+          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
+        },
+        {
+          "name": "KA2SH",
+          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "Centro (Reimagined)",
+      "url": "https://open.spotify.com/track/7dwT1LGucAEkglEYEyT8wP"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Favor & Gracia",
+        "url": "https://open.spotify.com/album/2pZwI5UyQpCk0MckYGocG2"
+      },
+      "artists": [
+        {
+          "name": "Kabed",
+          "url": "https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g"
+        },
+        {
+          "name": "Mary Pagan",
+          "url": "https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2"
+        }
+      ],
+      "duration_ms": 647506,
+      "name": "Llena Este Lugar - Live",
+      "url": "https://open.spotify.com/track/4S9dzKT2ZD7TeWTH8XDW1f"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1327,22 +1311,6 @@
       "duration_ms": 261112,
       "name": "Quien Dir\u00eda - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2grpLKWPOjeaRHU58cMh5G"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "Grito (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/61mFyFoNXNcSZ6dQgQMVWc"
-      },
-      "artists": [
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "Mi Cielo",
-      "url": "https://open.spotify.com/track/5BgogHj7prlIEJvEoTZhE4"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1371,18 +1339,18 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Indescriptible",
-        "url": "https://open.spotify.com/album/4e04GeGqfgyzoLBckBnIp6"
+        "name": "De Adentro Hacia Afuera",
+        "url": "https://open.spotify.com/album/07M4BYXA44jag1dWW9nYZm"
       },
       "artists": [
         {
-          "name": "Pas Music",
-          "url": "https://open.spotify.com/artist/3YBDkiTcXAo1f0qSms2q2h"
+          "name": "Deluz",
+          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
         }
       ],
-      "duration_ms": 293773,
-      "name": "Indescriptible",
-      "url": "https://open.spotify.com/track/5XOKZCaeaJyhVWathlw2Zk"
+      "duration_ms": 191657,
+      "name": "De Adentro Hacia Afuera",
+      "url": "https://open.spotify.com/track/06yVpJhPbFR5HMwYs5nhLw"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1403,26 +1371,34 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Dios Te Est\u00e1 Llamando",
-        "url": "https://open.spotify.com/album/00Qs1q6t8v6dQ7kSLwmzej"
+        "name": "Indescriptible",
+        "url": "https://open.spotify.com/album/4e04GeGqfgyzoLBckBnIp6"
       },
       "artists": [
         {
-          "name": "Jesus Worship Center",
-          "url": "https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI"
-        },
-        {
-          "name": "Natalie Billini",
-          "url": "https://open.spotify.com/artist/7advW1s4oSriwcplx7BV3B"
-        },
-        {
-          "name": "Camila Morales",
-          "url": "https://open.spotify.com/artist/4NOvuzWgLZOTbpt1VEJYuj"
+          "name": "Pas Music",
+          "url": "https://open.spotify.com/artist/3YBDkiTcXAo1f0qSms2q2h"
         }
       ],
-      "duration_ms": 418260,
-      "name": "Dios Te Est\u00e1 Llamando",
-      "url": "https://open.spotify.com/track/4i5Qw0HPLEU272PUgCv3NS"
+      "duration_ms": 293773,
+      "name": "Indescriptible",
+      "url": "https://open.spotify.com/track/5XOKZCaeaJyhVWathlw2Zk"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Grito (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/61mFyFoNXNcSZ6dQgQMVWc"
+      },
+      "artists": [
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/5BgogHj7prlIEJvEoTZhE4"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1455,6 +1431,30 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
+        "name": "Dios Te Est\u00e1 Llamando",
+        "url": "https://open.spotify.com/album/00Qs1q6t8v6dQ7kSLwmzej"
+      },
+      "artists": [
+        {
+          "name": "Jesus Worship Center",
+          "url": "https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI"
+        },
+        {
+          "name": "Natalie Billini",
+          "url": "https://open.spotify.com/artist/7advW1s4oSriwcplx7BV3B"
+        },
+        {
+          "name": "Camila Morales",
+          "url": "https://open.spotify.com/artist/4NOvuzWgLZOTbpt1VEJYuj"
+        }
+      ],
+      "duration_ms": 418260,
+      "name": "Dios Te Est\u00e1 Llamando",
+      "url": "https://open.spotify.com/track/4i5Qw0HPLEU272PUgCv3NS"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
         "name": "Lugar De Rompimiento",
         "url": "https://open.spotify.com/album/7kr3d8FYpaS7MDjPED8Qcr"
       },
@@ -1467,26 +1467,6 @@
       "duration_ms": 824419,
       "name": "Lugar De Rompimiento",
       "url": "https://open.spotify.com/track/7Fc2HpS7I7qHlvztdJCzdR"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "Seguro Estoy",
-        "url": "https://open.spotify.com/album/7hd0cfdDle1RIhzbd3CwPB"
-      },
-      "artists": [
-        {
-          "name": "Moises Cancel",
-          "url": "https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd"
-        },
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 278785,
-      "name": "Seguro Estoy",
-      "url": "https://open.spotify.com/track/1sHUz1pV1twY2w0kShSaLq"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1507,6 +1487,26 @@
       "duration_ms": 189247,
       "name": "Tu Voz",
       "url": "https://open.spotify.com/track/34vEGP6CmamLqT9uTQVivQ"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Seguro Estoy",
+        "url": "https://open.spotify.com/album/7hd0cfdDle1RIhzbd3CwPB"
+      },
+      "artists": [
+        {
+          "name": "Moises Cancel",
+          "url": "https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 278785,
+      "name": "Seguro Estoy",
+      "url": "https://open.spotify.com/track/1sHUz1pV1twY2w0kShSaLq"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Viaje de Regreso",
-        "url": "https://open.spotify.com/album/6nKol6K0KxJKyZufebEtFl"
-      },
-      "artists": [
-        {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Viaje de Regreso",
-      "url": "https://open.spotify.com/track/5NWLc476FhpzhRrbtSoclF"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/0vcQsZU6nlEtWJP3BVvJ0z"
       },
@@ -1619,6 +1603,38 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
+        "name": "Viaje de Regreso",
+        "url": "https://open.spotify.com/album/6nKol6K0KxJKyZufebEtFl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Viaje de Regreso",
+      "url": "https://open.spotify.com/track/5NWLc476FhpzhRrbtSoclF"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
+        "name": "Job",
+        "url": "https://open.spotify.com/album/6TrAQTbxhz5SxRrxBpxjMS"
+      },
+      "artists": [
+        {
+          "name": "Hanzell Carballo",
+          "url": "https://open.spotify.com/artist/5h935O5UbMt7hJHxiHTKtD"
+        }
+      ],
+      "duration_ms": 196846,
+      "name": "Job",
+      "url": "https://open.spotify.com/track/04JueJsp0tbhmzYWW5IYr3"
+    },
+    {
+      "added_at": "2022-10-07 05:42:27",
+      "album": {
         "name": "YKELOKE",
         "url": "https://open.spotify.com/album/7lhAVLc5P2ulnA9J1GaWIY"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 229333,
       "name": "Y KELOKE",
       "url": "https://open.spotify.com/track/5h9vNzsCSTPQ3TwPBF7K1v"
-    },
-    {
-      "added_at": "2022-10-07 05:42:27",
-      "album": {
-        "name": "Job",
-        "url": "https://open.spotify.com/album/6TrAQTbxhz5SxRrxBpxjMS"
-      },
-      "artists": [
-        {
-          "name": "Hanzell Carballo",
-          "url": "https://open.spotify.com/artist/5h935O5UbMt7hJHxiHTKtD"
-        }
-      ],
-      "duration_ms": 196846,
-      "name": "Job",
-      "url": "https://open.spotify.com/track/04JueJsp0tbhmzYWW5IYr3"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1839,38 +1839,38 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Quise pedirle al se\u00f1or",
-        "url": "https://open.spotify.com/album/2N5ebVyZzelWZl4OTEZ0Bi"
+        "name": "Con Amigos I",
+        "url": "https://open.spotify.com/album/37heT14OSQCyFiF1NkjRNz"
       },
       "artists": [
         {
-          "name": "Andy CM",
-          "url": "https://open.spotify.com/artist/0KMMGx2gkuprvNDT8sNWos"
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
         },
         {
-          "name": "Rub\u00e9n Guiral",
-          "url": "https://open.spotify.com/artist/15GnCUGT8Pyuq4PxJIpYn1"
+          "name": "Tito-S7",
+          "url": "https://open.spotify.com/artist/3ih1E30XDXDPEXXvDyG1W5"
         }
       ],
-      "duration_ms": 107896,
-      "name": "Quise pedirle al se\u00f1or",
-      "url": "https://open.spotify.com/track/3dAcxhTSRDcj0xKOuavter"
+      "duration_ms": 212114,
+      "name": "Alentador",
+      "url": "https://open.spotify.com/track/79conTU66MZOzGtVoYVV6Z"
     },
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "God Gift",
-        "url": "https://open.spotify.com/album/4Uxeon5urt0yNSp9VAriUR"
+        "name": "Grande Y Fuerte 25 A\u00f1os",
+        "url": "https://open.spotify.com/album/0gYJACGoPcknUCkuuDpP3e"
       },
       "artists": [
         {
-          "name": "Kid Munni",
-          "url": "https://open.spotify.com/artist/2HBcNkdZk8JzGkqlc7RsIL"
+          "name": "Omar Oropesa",
+          "url": "https://open.spotify.com/artist/4sBl73S8GoWdWH0ORiZCno"
         }
       ],
-      "duration_ms": 136000,
-      "name": "God Gift",
-      "url": "https://open.spotify.com/track/0gjDLeXEcdyPAydw9jPPl4"
+      "duration_ms": 225290,
+      "name": "Grande Y Fuerte (Version Argentina)",
+      "url": "https://open.spotify.com/track/4DRFcrsxnDI0PE0dbi6mUD"
     },
     {
       "added_at": "2022-10-07 05:42:27",
@@ -1891,22 +1891,22 @@
     {
       "added_at": "2022-10-07 05:42:27",
       "album": {
-        "name": "Con Amigos I",
-        "url": "https://open.spotify.com/album/37heT14OSQCyFiF1NkjRNz"
+        "name": "Quise pedirle al se\u00f1or",
+        "url": "https://open.spotify.com/album/2N5ebVyZzelWZl4OTEZ0Bi"
       },
       "artists": [
         {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+          "name": "Andy CM",
+          "url": "https://open.spotify.com/artist/0KMMGx2gkuprvNDT8sNWos"
         },
         {
-          "name": "Tito-S7",
-          "url": "https://open.spotify.com/artist/3ih1E30XDXDPEXXvDyG1W5"
+          "name": "Rub\u00e9n Guiral",
+          "url": "https://open.spotify.com/artist/15GnCUGT8Pyuq4PxJIpYn1"
         }
       ],
-      "duration_ms": 212114,
-      "name": "Alentador",
-      "url": "https://open.spotify.com/track/79conTU66MZOzGtVoYVV6Z"
+      "duration_ms": 107896,
+      "name": "Quise pedirle al se\u00f1or",
+      "url": "https://open.spotify.com/track/3dAcxhTSRDcj0xKOuavter"
     }
   ],
   "unique_name": "Novedades Cristianas",

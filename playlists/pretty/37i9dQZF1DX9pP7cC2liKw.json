@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 58927,
+  "num_followers": 59202,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDYyNCwwMDAwMDAwMDE0ZDEzOGI4NjI2NWU2ODNmYjkzZTk2MmRjZTQzN2Jm",
+  "snapshot_id": "MTY2NDUxMDYyNCwwMDAwMDAwMDY5ZTA0ZjkzMTRjZjA3MzFkYTI0OGRkNTA5M2NiZjYw",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ"
     },
     {
-      "added_at": "2022-10-11 01:47:07",
+      "added_at": "2022-10-12 02:02:32",
       "album": {
         "name": "Y tu te vas",
         "url": "https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/1wXeMZqegwYZ2zWtrwvXab"
     },
     {
-      "added_at": "2022-10-11 01:47:07",
+      "added_at": "2022-10-12 02:02:32",
       "album": {
         "name": "Sono Come Sono",
         "url": "https://open.spotify.com/album/63VoYQPDzymodlgLyn3SWq"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
     },
     {
-      "added_at": "2022-10-11 01:47:07",
+      "added_at": "2022-10-12 02:02:32",
       "album": {
         "name": "Il volo / Suonno",
         "url": "https://open.spotify.com/album/0xUqQAygc6UIpXcSXvKyRT"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/2RcrkBWCOWaX67jVDLgJr6"
     },
     {
-      "added_at": "2022-10-11 01:47:07",
+      "added_at": "2022-10-12 02:02:32",
       "album": {
         "name": "Arde",
         "url": "https://open.spotify.com/album/3heydvhPVk5vZ5ZcX1q3u0"
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ch'usay Remixes",
-        "url": "https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX"
-      },
-      "artists": [
-        {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 207621,
-      "name": "Paso a Huella - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Safe Passage",
         "url": "https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37"
       },
@@ -1071,6 +1051,22 @@
       "duration_ms": 214553,
       "name": "Chicha Nola - Alternative Version",
       "url": "https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Hustler's Lullaby",
+        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
+      },
+      "artists": [
+        {
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+        }
+      ],
+      "duration_ms": 314181,
+      "name": "Shinjuku Strut",
+      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Hustler's Lullaby",
-        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
+        "name": "Ch'usay Remixes",
+        "url": "https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX"
       },
       "artists": [
         {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 314181,
-      "name": "Shinjuku Strut",
-      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+      "duration_ms": 207621,
+      "name": "Paso a Huella - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/7at4rkvJsE7CO1gXlcJpDM"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Jallalla",
         "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
       },
@@ -1271,6 +1251,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/7at4rkvJsE7CO1gXlcJpDM"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5"
       },
@@ -1285,20 +1285,20 @@
       "url": "https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt"
     },
     {
-      "added_at": "2022-08-08 21:58:41",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ven Vamos",
-        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/0ap1ioMSBoEr7eWqwU2DxH"
       },
       "artists": [
         {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
         }
       ],
-      "duration_ms": 203265,
-      "name": "Ven Vamos",
-      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/0yENDAPqNW1hksxq9KUt8n"
     }
   ],
   "unique_name": "Tulum Vibes",

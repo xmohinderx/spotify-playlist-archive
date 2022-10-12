@@ -3491,7 +3491,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -3793,7 +3793,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 140500,
       "name": "GALOPA",
       "url": "https://open.spotify.com/track/3gK5ckT0cq3t5enyqzzRgV"
@@ -8405,7 +8405,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 263323,
       "name": "Pra\u00e7a Onze",
       "url": "https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr"
@@ -8519,7 +8519,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 139153,
       "name": "Primeiro Beck Ela Me Mamou",
       "url": "https://open.spotify.com/track/4QQTPEwqE4Aq7LXSyIgSci"
@@ -9621,7 +9621,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 161076,
       "name": "Simplesmente Ela",
       "url": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u"
@@ -9783,6 +9783,24 @@
       "duration_ms": 186000,
       "name": "Socadona (feat. Mr. Vegas)",
       "url": "https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/05ZhiHl1TZIpishuIxN8HK"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170794,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/227o8XANiHlNdAQC4UTpJK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-385 songs - 17 hr 58 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+386 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Fcked Up Teeth](https://open.spotify.com/track/3TpGGphdlSMOW7XIjq4hEG) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [Fcked Up Teeth](https://open.spotify.com/album/6bsiQWW6O3PBOFYPNXUQFS) | 3:01 | 2022-03-04 | 2022-05-20 |
 | [Feels Like Summer](https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 4:57 | 2022-07-06 |  |
 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 | 2021-12-16 | 2022-02-26 |
+| [Fine](https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Fine](https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg) | 2:30 | 2022-10-11 |  |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 | 2022-07-07 |
 | [Flat Tire](https://open.spotify.com/track/592UtxyRpf6eOrjS6b2Jur) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Flat Tire](https://open.spotify.com/album/1L1AthYINK9Shv4lgYxIEw) | 2:16 | 2022-07-11 |  |
 | [Flavors](https://open.spotify.com/track/1YshKoWMcR68W8ZYBtNal7) | [Casper Jones](https://open.spotify.com/artist/23sBHvNKx0DJqlO00SQiF7) | [Flavors](https://open.spotify.com/album/7yM1i0hC7Dxyfb9ISXp0io) | 2:38 | 2022-06-10 | 2022-07-23 |
@@ -280,7 +281,7 @@
 | [Pretty Faces](https://open.spotify.com/track/426AYnTtUOmX7Km14Ghvsd) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Pretty Faces](https://open.spotify.com/album/45LNOSUxFJ2m2jVsxdysqX) | 1:57 | 2022-03-11 | 2022-06-04 |
 | [pretty little lies](https://open.spotify.com/track/4GRLGjwgWzZ33HQU3BIdH9) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [pretty little lies](https://open.spotify.com/album/1QkH2FPORhEP0okiAcGfJ7) | 2:45 | 2022-04-15 | 2022-09-24 |
 | [Private Island](https://open.spotify.com/track/0zeKbYR9kxjLeGZqqz6QAw) | [Budman.](https://open.spotify.com/artist/4nYiKj7r3vpgTeoF0kz5rU) | [Private Island](https://open.spotify.com/album/7AJMx9IUY0FnYo3JLZ2MFF) | 2:18 | 2022-01-28 | 2022-02-26 |
-| [profile](https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC) | [Kinrose](https://open.spotify.com/artist/6SUbi1ZVEswHqRUWsxmq2m) | [profile](https://open.spotify.com/album/3kYkDN4pfaTTTaNf80v0Z3) | 2:44 | 2022-06-17 |  |
+| [profile](https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC) | [Kinrose](https://open.spotify.com/artist/6SUbi1ZVEswHqRUWsxmq2m) | [profile](https://open.spotify.com/album/3kYkDN4pfaTTTaNf80v0Z3) | 2:44 | 2022-06-17 | 2022-10-12 |
 | [Psychotic](https://open.spotify.com/track/7LqROURBlbHtu5Is8uIqEG) | [RONEN](https://open.spotify.com/artist/3wDeS1sr05fxaOeiJJrOnL), [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Psychotic](https://open.spotify.com/album/0IRfqoNUuqjAHGOho4oWhu) | 2:18 | 2022-08-26 | 2022-09-10 |
 | [Put Me on Somethin'](https://open.spotify.com/track/4uuB4d5HBZauH7XV0rtlAs) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [More Than Anything](https://open.spotify.com/album/4mPI9FSkCs1aV7wrf5voFl) | 3:26 | 2022-09-23 | 2022-10-01 |
 | [RAGE](https://open.spotify.com/track/2JbwQteW6QQ2M2RIqGWY6h) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [RAGE](https://open.spotify.com/album/5RmYLr4JvrT34dc5efzt6X) | 2:28 | 2022-09-16 |  |

@@ -4,7 +4,7 @@
 
 > Colored noise to help you sleep.
 
-330 songs - 17 hr 58 min - [published](https://open.spotify.com/playlist/0bRP8XzvCxukMLWefooE0H)
+331 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/0bRP8XzvCxukMLWefooE0H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,8 @@
 | [Pink Noise Wall](https://open.spotify.com/track/5hYvM5q7ZRPNZsFj5kN4Yw) | [Bien Dormi](https://open.spotify.com/artist/69ZcsvO12Q42NzCAfZ5F9T) | [Bien Dormi](https://open.spotify.com/album/6hNirAwbKSixzozwGZAeRz) | 2:16 | 2021-12-01 |  |
 | [Pink Ocean](https://open.spotify.com/track/0iFltMWsFTOAJOmikHSy7u) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Magic](https://open.spotify.com/album/06wWoKGWiOLPonZsyS5AUT) | 2:16 | 2021-12-01 |  |
 | [Pink Panthera](https://open.spotify.com/track/37KHphtpxPjKhWPD8HoPLx) | [Digital \- Docile](https://open.spotify.com/artist/6m0V1eIgnybq5pZ4gTWadj) | [Relaxing Pink](https://open.spotify.com/album/1ssenQrVWXkyfxdrF4bqyv) | 3:10 | 2022-08-02 |  |
-| [pink peace](https://open.spotify.com/track/1ToLGY7ev8l7tzu6uZgf8D) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [pink clouds \(white noise\)](https://open.spotify.com/album/5ad5teildwaJGH9GeSh80r) | 3:17 | 2021-12-01 |  |
+| [pink peace](https://open.spotify.com/track/1NCSJ03f85D3GBiADZmwBQ) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [pink clouds \(white noise\)](https://open.spotify.com/album/0FVwBW6k7wwy6rEbbOIARq) | 3:17 | 2022-09-08 |  |
+| [pink peace](https://open.spotify.com/track/1ToLGY7ev8l7tzu6uZgf8D) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [pink clouds \(white noise\)](https://open.spotify.com/album/5ad5teildwaJGH9GeSh80r) | 3:17 | 2021-12-01 | 2022-10-12 |
 | [Pink Sundown](https://open.spotify.com/track/4Dc0wjSmEiKOz0ymExmmkf) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [Pink Sundown](https://open.spotify.com/album/4VndUjrTaivnUdHE6WblC8) | 3:15 | 2022-08-02 |  |
 | [Pink World Noise 03.03 \(REMASTERED\)](https://open.spotify.com/track/3JIrvyaMeg8Uts813PeAfn) | [Noise Rex](https://open.spotify.com/artist/0usgNFvCTCk0XWskQpdhAy) | [Soothing Pink Noise](https://open.spotify.com/album/4FxaPv28JDKabUP62Bi0vv) | 2:59 | 2021-12-01 |  |
 | [Pinksomnia](https://open.spotify.com/track/2DxIUzwqnZA4JEfJJrKcvH) | [Panoramia](https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9) | [Pinksomnia](https://open.spotify.com/album/5ogQBNAiBaVC2zNRgDgdL4) | 3:15 | 2022-08-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: From Ashes to New feat. Matty Mullins",
-  "num_followers": 854057,
+  "num_followers": 854077,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDZhZTNjY2Y2YWFkOTBhNTJjYjJjNThkNmUwY2NjYjRk",
+  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDMwYzczNGZiM2Q2YjVlOThiNTkyMjg2NTNiNGNiMWY0",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm"
     },
     {
-      "added_at": "2022-10-11 01:23:53",
+      "added_at": "2022-10-12 01:38:26",
       "album": {
         "name": "Until We Break (feat. Matty Mullins of Memphis May Fire)",
         "url": "https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb"
     },
     {
-      "added_at": "2022-10-11 01:23:53",
+      "added_at": "2022-10-12 01:38:26",
       "album": {
         "name": "Deadly Potential",
         "url": "https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy"
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "A Form of Protest",
+        "url": "https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA"
+      },
+      "artists": [
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "duration_ms": 189405,
+      "name": "A Form of Protest",
+      "url": "https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Empires Fall",
         "url": "https://open.spotify.com/album/1A8gLXrhRu9GJl0j8D9oJb"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "A Form of Protest",
-        "url": "https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA"
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA"
       },
       "artists": [
         {
-          "name": "Cane Hill",
-          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 189405,
-      "name": "A Form of Protest",
-      "url": "https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1"
+      "duration_ms": 207936,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -359,22 +375,6 @@
       "duration_ms": 223050,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 207936,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "You Must Die",
+        "url": "https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 162894,
+      "name": "You Must Die",
+      "url": "https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Heretic",
         "url": "https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 202418,
       "name": "Heretic",
       "url": "https://open.spotify.com/track/6O6U83grucuxSktER0IbrM"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "You Must Die",
-        "url": "https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 162894,
-      "name": "You Must Die",
-      "url": "https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
-      },
-      "artists": [
-        {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Shrine",
         "url": "https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 246282,
       "name": "Stand Down",
       "url": "https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Collapse",
-        "url": "https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr"
-      },
-      "artists": [
-        {
-          "name": "Secrets",
-          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
-        }
-      ],
-      "duration_ms": 210385,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Dead Circus",
         "url": "https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 190250,
       "name": "Dead Circus",
       "url": "https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Collapse",
+        "url": "https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr"
+      },
+      "artists": [
+        {
+          "name": "Secrets",
+          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
+        }
+      ],
+      "duration_ms": 210385,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -803,18 +803,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Dedication To Flesh",
-        "url": "https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67"
+        "name": "NWWM",
+        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
       },
       "artists": [
         {
-          "name": "Spite",
-          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+          "name": "Borders",
+          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
+        },
+        {
+          "name": "Dropout Kings",
+          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
         }
       ],
-      "duration_ms": 206346,
-      "name": "Dedication To Flesh",
-      "url": "https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM"
+      "duration_ms": 182750,
+      "name": "NWWM",
+      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -839,22 +843,34 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "NWWM",
-        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
+        "name": "Dedication To Flesh",
+        "url": "https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67"
       },
       "artists": [
         {
-          "name": "Borders",
-          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
-        },
-        {
-          "name": "Dropout Kings",
-          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
         }
       ],
-      "duration_ms": 182750,
-      "name": "NWWM",
-      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
+      "duration_ms": 206346,
+      "name": "Dedication To Flesh",
+      "url": "https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 203290,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -879,22 +895,6 @@
       "duration_ms": 152000,
       "name": "Quicksand (feat. Michael Swank)",
       "url": "https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 203290,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Forsaken",
-        "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
-      },
-      "artists": [
-        {
-          "name": "Until I Wake",
-          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
-        }
-      ],
-      "duration_ms": 183069,
-      "name": "Forsaken",
-      "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "No Hope 'Til Now",
         "url": "https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 239571,
       "name": "No Hope 'Til Now",
       "url": "https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Forsaken",
+        "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
+      },
+      "artists": [
+        {
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+        }
+      ],
+      "duration_ms": 183069,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sunchaser",
-        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
-      },
-      "artists": [
-        {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
-        }
-      ],
-      "duration_ms": 209564,
-      "name": "Sunchaser",
-      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Shadows in Time",
         "url": "https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 224511,
       "name": "Shadows in Time",
       "url": "https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Sunchaser",
+        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
+      },
+      "artists": [
+        {
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+        }
+      ],
+      "duration_ms": 209564,
+      "name": "Sunchaser",
+      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
+        "name": "Trapped",
+        "url": "https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf"
       },
       "artists": [
         {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
-        },
-        {
-          "name": "Will King",
-          "url": "https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM"
+          "name": "Suasion",
+          "url": "https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
+      "duration_ms": 204198,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ"
     }
   ],
   "unique_name": "The Core",

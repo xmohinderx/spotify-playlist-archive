@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Michelle Maciel en portada.",
-  "num_followers": 44499,
+  "num_followers": 44536,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1Njk5NywwMDAwMDAwMGIwNzhiMzAwNTAwYWQyY2FiMjI0MGNmNTIwOWM0Y2Mx",
+  "snapshot_id": "MTY2NTE1Njk5NywwMDAwMDAwMDg0ZTViNmEyY2E5MGQwYzdjNzUwMjk3ZTk2MTgwYWFl",
   "tracks": [
     {
       "added_at": "2022-09-23 19:34:49",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "SRT",
-        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
-      },
-      "artists": [
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 178748,
-      "name": "SRT",
-      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
-    },
-    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "Yo No Me Rajo",
@@ -899,6 +883,22 @@
       "duration_ms": 150880,
       "name": "Yo No Me Rajo",
       "url": "https://open.spotify.com/track/4yGw2GFi5MohpMKTDq7qhz"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "SRT",
+        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "A Pesar De Todo",
-        "url": "https://open.spotify.com/album/7IU4tew0q0wwxXDM2zSJ0l"
-      },
-      "artists": [
-        {
-          "name": "Max Wizard",
-          "url": "https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme"
-        }
-      ],
-      "duration_ms": 181524,
-      "name": "A Pesar De Todo",
-      "url": "https://open.spotify.com/track/54v763MzxJoz7EtgoOkRnF"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "Loko (with Los Primos Del Este)",
         "url": "https://open.spotify.com/album/27xtTUsTfkXQgDPbaVNMQ3"
       },
@@ -1023,6 +1007,42 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
+        "name": "A Pesar De Todo",
+        "url": "https://open.spotify.com/album/7IU4tew0q0wwxXDM2zSJ0l"
+      },
+      "artists": [
+        {
+          "name": "Max Wizard",
+          "url": "https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme"
+        }
+      ],
+      "duration_ms": 181524,
+      "name": "A Pesar De Todo",
+      "url": "https://open.spotify.com/track/54v763MzxJoz7EtgoOkRnF"
+    },
+    {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "Mario Aguirre (En Vivo)",
+        "url": "https://open.spotify.com/album/57eBE9Vtn8Xpeyqts4aeEU"
+      },
+      "artists": [
+        {
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "duration_ms": 178979,
+      "name": "Mario Aguirre (En Vivo)",
+      "url": "https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
         "name": "Humo",
         "url": "https://open.spotify.com/album/6U3xMwALsK9e4B8OFgVW92"
       },
@@ -1039,22 +1059,6 @@
       "duration_ms": 204489,
       "name": "Humo",
       "url": "https://open.spotify.com/track/5PnXwGXWNHK0jJhKpeyg88"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Es Pura Envidia",
-        "url": "https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN"
-      },
-      "artists": [
-        {
-          "name": "3 Caleb",
-          "url": "https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd"
-        }
-      ],
-      "duration_ms": 121306,
-      "name": "Es Pura Envidia",
-      "url": "https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1095,22 +1099,54 @@
     {
       "added_at": "2022-10-07 15:36:37",
       "album": {
-        "name": "Mario Aguirre (En Vivo)",
-        "url": "https://open.spotify.com/album/57eBE9Vtn8Xpeyqts4aeEU"
+        "name": "Soy Infante",
+        "url": "https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1"
       },
       "artists": [
         {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        },
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
         }
       ],
-      "duration_ms": 178979,
-      "name": "Mario Aguirre (En Vivo)",
-      "url": "https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ"
+      "duration_ms": 154750,
+      "name": "Soy Infante",
+      "url": "https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Es Pura Envidia",
+        "url": "https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN"
+      },
+      "artists": [
+        {
+          "name": "3 Caleb",
+          "url": "https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd"
+        }
+      ],
+      "duration_ms": 121306,
+      "name": "Es Pura Envidia",
+      "url": "https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX"
+    },
+    {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "No S\u00e9 Que Tengas",
+        "url": "https://open.spotify.com/album/1hlrfVbr5Bh0xcoXtggDOF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        },
+        {
+          "name": "Luis Mex\u00eda",
+          "url": "https://open.spotify.com/artist/6Zftf0DRHk7QWgo4QMlmP3"
+        }
+      ],
+      "duration_ms": 187824,
+      "name": "No S\u00e9 Que Tengas",
+      "url": "https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1133,20 +1169,20 @@
       "url": "https://open.spotify.com/track/1TaUH3gMmI52eJwnQjpKrg"
     },
     {
-      "added_at": "2022-10-07 15:36:37",
+      "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Soy Infante",
-        "url": "https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1"
+        "name": "nuestro amor sacrificado",
+        "url": "https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY"
       },
       "artists": [
         {
-          "name": "Tomas Ballardo",
-          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+          "name": "vatocholo",
+          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
         }
       ],
-      "duration_ms": 154750,
-      "name": "Soy Infante",
-      "url": "https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO"
+      "duration_ms": 82500,
+      "name": "nuestro amor",
+      "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1163,22 +1199,6 @@
       "duration_ms": 195348,
       "name": "A Lo Mexa",
       "url": "https://open.spotify.com/track/4N8TJKI5IH2FLzPFmKAC9M"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "nuestro amor sacrificado",
-        "url": "https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY"
-      },
-      "artists": [
-        {
-          "name": "vatocholo",
-          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
-        }
-      ],
-      "duration_ms": 82500,
-      "name": "nuestro amor",
-      "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1243,26 +1263,6 @@
       "duration_ms": 143040,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D"
-    },
-    {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
-        "name": "No S\u00e9 Que Tengas",
-        "url": "https://open.spotify.com/album/1hlrfVbr5Bh0xcoXtggDOF"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        },
-        {
-          "name": "Luis Mex\u00eda",
-          "url": "https://open.spotify.com/artist/6Zftf0DRHk7QWgo4QMlmP3"
-        }
-      ],
-      "duration_ms": 187824,
-      "name": "No S\u00e9 Que Tengas",
-      "url": "https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo"
     },
     {
       "added_at": "2022-09-23 19:34:49",

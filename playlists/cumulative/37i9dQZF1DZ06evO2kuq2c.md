@@ -4,7 +4,7 @@
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/6ekucn6Wbk3jh9UDmm3XTW)
+51 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/6ekucn6Wbk3jh9UDmm3XTW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Wasted Hymn](https://open.spotify.com/track/7HxPeiu2gKZbGXWJA0bzHn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:34 | 2022-09-10 | 2022-09-12 |
 | [All Love is Lost](https://open.spotify.com/track/7mVy5TK92iX36crfo0hSWH) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 4:20 | 2022-06-01 | 2022-10-09 |
 | [Alpha Omega](https://open.spotify.com/track/4Upj7Dz6tu1HBeIZfziOlE) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:55 | 2022-05-30 |  |
+| [An Open Letter to Myself](https://open.spotify.com/track/1A2AXzeYUe89aoCuuvsUyh) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:16 | 2022-10-11 |  |
 | [An Ordinary Extinction](https://open.spotify.com/track/1a3ght71qSYa6wBFmmmTE2) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:07 | 2022-05-30 |  |
 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 | 2022-05-30 |  |
 | [Black Blood](https://open.spotify.com/track/3zW2l6tss1kIZDj73CtJx6) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:33 | 2022-05-30 |  |

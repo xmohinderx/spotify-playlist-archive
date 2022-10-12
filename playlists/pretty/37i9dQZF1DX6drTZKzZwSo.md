@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 
 > Classic funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,314 likes - 58 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,412 likes - 58 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Corey Kent",
-  "num_followers": 386880,
+  "num_followers": 386951,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDUzMTNlZjVkNDllNjIwNDNjZmI2YWMyMjk0OWEwNmFi",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDVhMzUyZmE1OGI4ZDNlMzYwNjI5OGNiMDkxOTdmZmU4",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Drowning in Dreams, Pt. 2",
-        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
       "artists": [
         {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 167512,
-      "name": "Where the Wildflowers Lay",
-      "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+        "name": "Drowning in Dreams, Pt. 2",
+        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
         }
       ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
+      "duration_ms": 167512,
+      "name": "Where the Wildflowers Lay",
+      "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "The Last Resort: Greetings From",
+        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "If I Lived Here",
+      "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Where Cotton Is King",
         "url": "https://open.spotify.com/album/5rkQu4FxupIR0c3py7AHz7"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 211920,
       "name": "Where Cotton Is King",
       "url": "https://open.spotify.com/track/54nEY2U21ezqHezg1XNeqr"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "The Last Resort: Greetings From",
-        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "If I Lived Here",
-      "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Two Left Feet",
-        "url": "https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK"
-      },
-      "artists": [
-        {
-          "name": "Cameron James Smith",
-          "url": "https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Two Left Feet",
-      "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Baby Do",
         "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
       },
@@ -1295,6 +1279,26 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Who Am I to Judge",
+        "url": "https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD"
+      },
+      "artists": [
+        {
+          "name": "Logan Jahnke",
+          "url": "https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg"
+        },
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 232267,
+      "name": "Who Am I to Judge",
+      "url": "https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1335,22 +1339,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Who Am I to Judge",
-        "url": "https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD"
+        "name": "Two Left Feet",
+        "url": "https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK"
       },
       "artists": [
         {
-          "name": "Logan Jahnke",
-          "url": "https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg"
-        },
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Cameron James Smith",
+          "url": "https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp"
         }
       ],
-      "duration_ms": 232267,
-      "name": "Who Am I to Judge",
-      "url": "https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR"
+      "duration_ms": 194298,
+      "name": "Two Left Feet",
+      "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
+      },
+      "artists": [
+        {
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+        }
+      ],
+      "duration_ms": 188995,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Laci Kaye Booth",
         "url": "https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79"
       },
@@ -1415,6 +1431,22 @@
       "duration_ms": 192680,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Neon You",
+        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Neon You",
+      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1483,6 +1515,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "It Wasn\u2019t Love",
+        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
+      },
+      "artists": [
+        {
+          "name": "Larissa Boyd",
+          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "It Wasn\u2019t Love",
+      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Pleasure in the Pain (Acoustic)",
         "url": "https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99"
       },
@@ -1515,38 +1563,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "It Wasn\u2019t Love",
-        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
-      },
-      "artists": [
-        {
-          "name": "Larissa Boyd",
-          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "It Wasn\u2019t Love",
-      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "John Wayne",
-        "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
-      },
-      "artists": [
-        {
-          "name": "Rachel LaRen",
-          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "What's Your Drinkin' Song",
         "url": "https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q"
       },
@@ -1559,38 +1575,6 @@
       "duration_ms": 225060,
       "name": "What's Your Drinkin' Song",
       "url": "https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Neon You",
-        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
-      },
-      "artists": [
-        {
-          "name": "Don Louis",
-          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Neon You",
-      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Heart for Just One Team",
-        "url": "https://open.spotify.com/album/0BV4ruQifg3emKKeJ8rR7I"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 217839,
-      "name": "Heart for Just One Team",
-      "url": "https://open.spotify.com/track/4yVht4ghXbMAPcj3NZJRGR"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1691,6 +1675,22 @@
       "duration_ms": 178848,
       "name": "Dancin' With The Devil",
       "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Heart for Just One Team",
+        "url": "https://open.spotify.com/album/0BV4ruQifg3emKKeJ8rR7I"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 217839,
+      "name": "Heart for Just One Team",
+      "url": "https://open.spotify.com/track/4yVht4ghXbMAPcj3NZJRGR"
     }
   ],
   "unique_name": "Texas Country Now",

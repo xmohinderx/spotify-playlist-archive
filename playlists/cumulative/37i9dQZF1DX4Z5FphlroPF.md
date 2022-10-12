@@ -4,13 +4,14 @@
 
 > Listen to the soundtrack of the SBS Mon\-Tue drama CHEER UP and the songs recommended by the cast! \(SBS 월, 화 드라마 치얼업의 사운드 트랙과 배우진이 추천하는 노래를 들어보세요!\)
 
-26 songs - 1 hr 31 min - not published yet
+27 songs - 1 hr 35 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-10-04 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2022-10-04 |  |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2022-10-04 |  |
+| [Confession](https://open.spotify.com/track/59OQ9zPGXtzMMIz2q8INhg) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Cheer Up \(Original Soundtrack Part.2\)](https://open.spotify.com/album/7quVqU9K0eqi8P7214gFIy) | 4:39 | 2022-10-11 |  |
 | [Consolation](https://open.spotify.com/track/6uYBDTTolezL3ne2HsXDm0) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/0EfkBr9UoX191Mv24RuesI) | 3:16 | 2022-10-04 |  |
 | [Covet](https://open.spotify.com/track/24oO33bOjYhSGgpMDgodGo) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Covet](https://open.spotify.com/album/69cA7TzM56Q87ph6AZ9AL4) | 2:58 | 2022-10-04 |  |
 | [Eurachacha](https://open.spotify.com/track/5WeDiuGjTVQ38Vf2eHUpX3) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Have A Nice Dream](https://open.spotify.com/album/1gGFPcgK3adJebbw4XnT47) | 4:16 | 2022-10-04 |  |

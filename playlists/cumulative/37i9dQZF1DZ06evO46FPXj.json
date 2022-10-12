@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 415693,
       "name": "Autriche",
       "url": "https://open.spotify.com/track/0hH9vRx4gYBYNQT60L7ejh"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 279266,
       "name": "C/Pach",
       "url": "https://open.spotify.com/track/2GpAHcnQig6GvqDa9IPmgD"
@@ -351,6 +351,24 @@
       "duration_ms": 231182,
       "name": "Calbruc",
       "url": "https://open.spotify.com/track/0fmb4T1PjcJ1jPbaSQBjK2"
+    },
+    {
+      "album": {
+        "name": "LP5",
+        "url": "https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100946,
+      "name": "Caliper Remote",
+      "url": "https://open.spotify.com/track/3jHNdCT3kn0wHrTuaRViMj"
     },
     {
       "album": {
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 532800,
       "name": "Cichli",
       "url": "https://open.spotify.com/track/7frCwFeWuBpTEV4s23cslO"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 468560,
       "name": "Doctrine",
       "url": "https://open.spotify.com/track/3cCrc0SbTlwqB4BrROpIMR"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 356813,
       "name": "F7",
       "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 583493,
       "name": "Goz Quarter",
       "url": "https://open.spotify.com/track/46JTyfTCo1RY0JCRqGj1zD"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 597240,
       "name": "Ipacial Section",
       "url": "https://open.spotify.com/track/6CWoiavul0eaq8zxxM5yx5"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 425173,
       "name": "Laughing Quarter",
       "url": "https://open.spotify.com/track/5n0itD2BWyKbh1dUlRq0PJ"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 444493,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5seVVzH1SZXwu7UjrDcHnD"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 529702,
       "name": "M4 Lema",
       "url": "https://open.spotify.com/track/4eWwa9ZlwAQXitxVia77P7"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 220200,
       "name": "Nine",
       "url": "https://open.spotify.com/track/7FR8DdPrRieZexZQaGDRWU"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 480533,
       "name": "Piezo",
       "url": "https://open.spotify.com/track/3CfCnydtVUfmXgogGIDzGc"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 584208,
       "name": "Recury",
       "url": "https://open.spotify.com/track/2EYkcwG4sC73I4zjl6yhXy"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 465493,
       "name": "Second Scout",
       "url": "https://open.spotify.com/track/7kGpCKuJUUkNLGJ8uIKXHG"
@@ -1697,7 +1715,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 277280,
       "name": "see on see",
       "url": "https://open.spotify.com/track/5bP6GgBa3iMVbywZwD0xV5"
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 434553,
       "name": "Sim Gishel",
       "url": "https://open.spotify.com/track/5iliZ1RSIVXvdg9xxMdvG4"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 81000,
       "name": "SonDEremawe",
       "url": "https://open.spotify.com/track/2B2Lsya6y6hPHRkXwguQ1T"
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 580866,
       "name": "Stud",
       "url": "https://open.spotify.com/track/6AqxYCmYLvFZdIdUL6igOY"
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 453693,
       "name": "The Egg",
       "url": "https://open.spotify.com/track/07TquTYZrmDazkHp8hFLWS"

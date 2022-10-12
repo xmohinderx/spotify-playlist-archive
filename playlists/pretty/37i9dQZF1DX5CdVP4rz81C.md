@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Noah Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,284 likes - 102 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,515 likes - 102 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

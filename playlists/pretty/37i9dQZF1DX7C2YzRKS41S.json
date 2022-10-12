@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 61432,
+  "num_followers": 61487,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDk1MDkzMywwMDAwMDAwMDFkZjNmNTQ4Y2NjZTQxNWQyYmZlZjdkYTI0MDljNTcw",
+  "snapshot_id": "MTY2MDk1MDkzMywwMDAwMDAwMDcxMjFjOGI4Njc5Y2ZjZDgwZGM3NmU3ZDA5OWEzZmI2",
   "tracks": [
     {
       "added_at": "2022-08-19 23:15:33",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-08-19 23:15:33",
       "album": {
+        "name": "Little Giant",
+        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Tiger Striped Sky",
+      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2022-08-19 23:15:33",
+      "album": {
         "name": "Trem-Bala",
         "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 170409,
       "name": "A Vida \u00c9 Boa Com Voc\u00ea - Voz E Viol\u00e3o",
       "url": "https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk"
-    },
-    {
-      "added_at": "2022-08-19 23:15:33",
-      "album": {
-        "name": "Little Giant",
-        "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Tiger Striped Sky",
-      "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
     },
     {
       "added_at": "2022-08-19 23:15:33",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-08-19 23:15:33",
       "album": {
-        "name": "Part of Me",
-        "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 237230,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
-    },
-    {
-      "added_at": "2022-08-19 23:15:33",
-      "album": {
         "name": "Cafun\u00e9",
         "url": "https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 122970,
       "name": "Cafun\u00e9",
       "url": "https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl"
+    },
+    {
+      "added_at": "2022-08-19 23:15:33",
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 237230,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
     },
     {
       "added_at": "2022-08-19 23:15:33",

@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-353 songs - 1 day 1 hr 54 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
+354 songs - 1 day 1 hr 58 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Lucifer Rising](https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 | 2022-07-13 | 2022-07-29 |
 | [Madness](https://open.spotify.com/track/3oGBi4YADwMYDtnRfYurnz) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Madness](https://open.spotify.com/album/1tb0QLGgdyuewhLFN4iKnj) | 3:23 | 2022-04-24 | 2022-09-21 |
 | [Madness](https://open.spotify.com/track/3CPsPpLW6vwrgGX9qPxoPs) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Madness](https://open.spotify.com/album/2Jf9p35vqs8jEReDRJsEDE) | 3:24 | 2022-01-03 | 2022-07-29 |
-| [Magma](https://open.spotify.com/track/56iv5TqfvxVa4zLMs6SvmP) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 6:42 | 2022-07-13 |  |
+| [Magma](https://open.spotify.com/track/56iv5TqfvxVa4zLMs6SvmP) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 6:42 | 2022-07-13 | 2022-10-12 |
 | [Marigold](https://open.spotify.com/track/2YZZ8qsDdvC008LgtpMoI6) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/1NBUh16Mfz7kNjIJKVO9sC) | 7:19 | 2022-01-03 | 2022-07-29 |
 | [Martyr](https://open.spotify.com/track/1lDtxjezqZf42BGJ7pKzfx) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Found In Far Away Places](https://open.spotify.com/album/46uMdmTIh7xBxLJrFcFTbL) | 4:35 | 2022-07-13 | 2022-07-28 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-07-25 |  |
@@ -201,6 +201,7 @@
 | [No Grave but the Sea](https://open.spotify.com/track/5ZOCDXK5pMJ3n3zBPTp1uT) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [No Grave but the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS) | 3:29 | 2022-07-13 | 2022-07-29 |
 | [No More Regrets](https://open.spotify.com/track/6U4PnLCxvpipBXCffkdHNo) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:05 | 2022-07-13 | 2022-07-15 |
 | [No Surrender](https://open.spotify.com/track/1Fr7OlVZrc3mDvru8j2cFi) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 2:53 | 2022-07-13 | 2022-07-29 |
+| [Oblivions Peak](https://open.spotify.com/track/0KD6jtb6aJONOh3wrClVRk) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Laugh Tracks](https://open.spotify.com/album/1WDAhs6x27Am5mXxl2PL4s) | 3:38 | 2022-07-13 |  |
 | [Of Matter \- Proxy](https://open.spotify.com/track/6CfwYtEnSDgMxosLZ5Vbiu) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [Altered State](https://open.spotify.com/album/7gfEeNb3awfwfZoTXCONWJ) | 5:04 | 2022-07-13 | 2022-07-15 |
 | [On a Sea of Blood](https://open.spotify.com/track/1zO8IGTGC7tLtwu47hU4jG) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy) | 4:04 | 2022-07-13 | 2022-07-27 |
 | [On The Rocks](https://open.spotify.com/track/4n2SannziItQFC27Fpa8Pg) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MAXIMALISM](https://open.spotify.com/album/3JsTgs4JiSmbVwkkfY5vAh) | 3:09 | 2022-07-13 | 2022-07-29 |

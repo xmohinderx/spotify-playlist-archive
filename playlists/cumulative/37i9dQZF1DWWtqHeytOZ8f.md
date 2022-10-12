@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-526 songs - 1 day 22 hr 12 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+527 songs - 1 day 22 hr 17 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Infralogika II](https://open.spotify.com/track/3QF50LDRMQLDdbkRSGj3gx) | [Atariame](https://open.spotify.com/artist/2crh5su2RlnPGfR2Yub2OO) | [Infralogika](https://open.spotify.com/album/6wPAZaaMfBvnqYqXhy8kQ4) | 4:11 | 2021-10-20 | 2022-07-28 |
 | [Interstellar](https://open.spotify.com/track/3A6TqHmz90kd5XSLNac9Oh) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx), [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Postcards from Nowhere](https://open.spotify.com/album/7JhenJEvmyoYyGMy8VKjak) | 7:59 | 2021-10-20 | 2022-07-29 |
 | [Into the Aether](https://open.spotify.com/track/48A4wR1mc9xv0CEZPFuThs) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Into the Aether](https://open.spotify.com/album/2zcBKjQTMvMUIpcXl0CPxH) | 4:55 | 2022-01-14 | 2022-09-26 |
+| [Into the Aether](https://open.spotify.com/track/6YbO0zdg4pPK5wYOA3Q5Ij) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/3P1lcWQ2sc7RGGiY4nQuL1) | 4:55 | 2022-01-14 |  |
 | [Into The Blue](https://open.spotify.com/track/0elaptshYdyFIVQEuKnhSe) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/2pA1qgtYKBjH83o5z4ZELD) | 5:39 | 2022-01-07 | 2022-07-29 |
 | [IVY CHARCOAL](https://open.spotify.com/track/5cx2CdLDP2wQBDEZGWwKge) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Phantom Brickworks](https://open.spotify.com/album/3S4zFHeNv6oNLN8H9HXy2w) | 2:03 | 2021-10-20 | 2022-07-21 |
 | [Joy](https://open.spotify.com/track/3WSIWq7U5bbM0sLrllq7gr) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Joy](https://open.spotify.com/album/2ugisosd4LtLoE1lZQnlxs) | 5:00 | 2021-10-20 | 2022-07-19 |
@@ -500,7 +501,7 @@
 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 | 2021-10-20 |  |
 | [Underwater Gold Dust.](https://open.spotify.com/track/6LVXZQt6g2cgjEsxk3Aumk) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Underwater Gold Dust.](https://open.spotify.com/album/7ABprLLKlWJH7ZJ9qGuPLZ) | 3:27 | 2021-10-20 |  |
 | [Underwater Gold Dust.](https://open.spotify.com/track/780pRBMF3QJvlgWKTi5JGt) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Underwater Gold Dust.](https://open.spotify.com/album/3pVpwlqYLMy2c3k6KAimw1) | 3:27 | 2021-10-20 | 2022-07-25 |
-| [Underwater Lament](https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:20 | 2021-10-20 |  |
+| [Underwater Lament](https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:20 | 2021-10-20 | 2022-10-12 |
 | [Underwater Lament](https://open.spotify.com/track/6XGampcg3mqZPlDAUdJzlg) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Underwater Lament](https://open.spotify.com/album/7MSvDATNHNyd65XaCwfk1Z) | 5:20 | 2021-10-20 | 2022-06-29 |
 | [Unguarded Travelin'](https://open.spotify.com/track/4OYS4H9fVFGK87WtC32qmL) | [Koti6](https://open.spotify.com/artist/0son6uK60FSd5ZlXyKLplp) | [Unguarded Travelin'](https://open.spotify.com/album/1LxN2StJXIuiYLFNvrMv7t) | 2:49 | 2022-02-25 |  |
 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 | 2022-02-18 | 2022-10-01 |

@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-165 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
+170 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,10 @@
 | [Halloveen](https://open.spotify.com/track/16lPkyM9Nc19BbQluNUks2) | [Little Ditto](https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38) | [Halloveen](https://open.spotify.com/album/5xRCtJR7mVVKbNuqSEMmoy) | 1:56 | 2021-09-17 |  |
 | [Halloween](https://open.spotify.com/track/4CSaUDwbyd7xExCTQKnLqg) | [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY), [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8) | [Kids Trap Halloween](https://open.spotify.com/album/1SvE2Pv0JQMItbr34MS0La) | 1:44 | 2021-09-10 |  |
 | [Halloween](https://open.spotify.com/track/4jn1EEJFB6R5tjBPFRSNOK) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Halloween](https://open.spotify.com/album/1JJvFooOJDfSifLeLlocSN) | 2:27 | 2021-09-10 |  |
+| [Halloween at School](https://open.spotify.com/track/5PqCCOKBN8JVtF2tqoHD8N) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 3:30 | 2022-10-11 |  |
+| [Halloween Boogie Dance](https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:05 | 2022-10-11 |  |
 | [Halloween Costume Party](https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 2](https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS) | 1:50 | 2021-08-30 |  |
+| [Halloween Floor is Lava](https://open.spotify.com/track/0qeUh1qhHUyBWEUfQhp67I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Floor is Lava](https://open.spotify.com/album/401zoIGOIdNruRAcb9jhiz) | 3:39 | 2022-10-11 |  |
 | [Halloween Is Finally Here](https://open.spotify.com/track/6HRKf0RUdc4tgz2mre0vNh) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Halloween Is Finally Here](https://open.spotify.com/album/4Uuu1GmwbX8lfwHk6ODSD3) | 1:45 | 2021-09-10 |  |
 | [Halloween Jack In The Box](https://open.spotify.com/track/04tnvdXRN2laFOCD4LDJFu) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Halloween Jack In The Box](https://open.spotify.com/album/4Tx7dRyswwgC8LWCwclP0D) | 1:59 | 2021-10-12 | 2022-09-26 |
 | [Halloween Night](https://open.spotify.com/track/4H7zqlSsBgoXjRAALsPLSg) | [Like Father Like Son](https://open.spotify.com/artist/2mYeBf4vKnhNLLiGciwz3O) | [Halloween Night](https://open.spotify.com/album/3p1Rk9EcDJMIZcEY1kkfM5) | 3:26 | 2021-09-10 |  |
@@ -93,8 +96,10 @@
 | [Monster Monster Go Away](https://open.spotify.com/track/2OoCYK4mhTzm9OsgGTEaCJ) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With Cocomelon](https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo) | 2:18 | 2021-09-24 | 2022-07-29 |
 | [Monster Monster Go Away](https://open.spotify.com/track/6sYPhhMJHEIF99EXecMYoA) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 2:18 | 2021-09-24 |  |
 | [Monster Moves](https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:55 | 2021-09-10 |  |
+| [Monster Party](https://open.spotify.com/track/7niABza1kHX9RmKGxpXVnb) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Monster Party](https://open.spotify.com/album/6S6SItFon75RaEaRSmKonV) | 1:43 | 2022-10-11 |  |
 | [Monsters](https://open.spotify.com/track/4twPZuAAZdJyF0R1se8bv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Monsters & Goosebumps](https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH) | 2:32 | 2021-09-24 |  |
 | [Monsters Everywhere](https://open.spotify.com/track/51YsC4rFVkvLI558jVDYv1) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:06 | 2021-09-10 |  |
+| [Old MacDonald's Haunted Farm](https://open.spotify.com/track/5f4pk2mhjFOmdpFj1HXxlr) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:21 | 2022-10-11 |  |
 | [Overture](https://open.spotify.com/track/2fp9PZRJEOCrP4qR8ZONGs) | [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The Addams Family \(Original Cast Recording\)](https://open.spotify.com/album/11oSgc7tukNbysMv0nOpW3) | 1:58 | 2021-08-30 |  |
 | [Peekaboo!](https://open.spotify.com/track/39wGdxjdIChhASl1jE3jvG) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 2:03 | 2021-09-24 |  |
 | [Peekaboo!](https://open.spotify.com/track/3q2cQTJP9EQGgeHfuHAj0E) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With Cocomelon](https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo) | 2:03 | 2021-09-24 | 2022-07-29 |

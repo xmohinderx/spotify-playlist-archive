@@ -456,6 +456,32 @@
     },
     {
       "album": {
+        "name": "Back To You (feat. Millie Snow, Nenashi)",
+        "url": "https://open.spotify.com/album/4JlQtHVVjXZdm68BDDi72q"
+      },
+      "artists": [
+        {
+          "name": "Pyramid",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        },
+        {
+          "name": "Millie Snow",
+          "url": "https://open.spotify.com/artist/1zDAwrdFgBlU5vD632xvcy"
+        },
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "Back To You (feat. Millie Snow, Nenashi)",
+      "url": "https://open.spotify.com/track/3bpFB3XID7OHHxW4OrC6vA"
+    },
+    {
+      "album": {
         "name": "BITTER!",
         "url": "https://open.spotify.com/album/2l4vECEdLZGPbbRlDWdVXe"
       },
@@ -709,7 +735,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 258876,
       "name": "countdown - prod. Shin Sakiura & ZIN",
       "url": "https://open.spotify.com/track/7kg73PDeip6tT32vZHJ2hh"
@@ -749,7 +775,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 196157,
       "name": "cycle",
       "url": "https://open.spotify.com/track/0gpSNOdoWHlRCaGp4iIjC5"
@@ -2282,6 +2308,28 @@
     },
     {
       "album": {
+        "name": "New Beautiful",
+        "url": "https://open.spotify.com/album/6DQTtGy06K7dcHZMPqO7sW"
+      },
+      "artists": [
+        {
+          "name": "Maki Nomiya",
+          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "On The Sunny Side Of The Street (feat. Phum Viphurit)",
+      "url": "https://open.spotify.com/track/1mKjl4KEhTa3UGCJ2NDU7y"
+    },
+    {
+      "album": {
         "name": "One More Kiss (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE"
       },
@@ -3154,6 +3202,24 @@
     },
     {
       "album": {
+        "name": "YOLO",
+        "url": "https://open.spotify.com/album/6xgsFEann7kI2TZzUMLY2m"
+      },
+      "artists": [
+        {
+          "name": "NORISTRY",
+          "url": "https://open.spotify.com/artist/3sXpaXq06MLtZIMPjeIBDU"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "sugar",
+      "url": "https://open.spotify.com/track/50cWjDOlgAGhQUBzMcyviv"
+    },
+    {
+      "album": {
         "name": "Summer Again",
         "url": "https://open.spotify.com/album/49CjefUtjsPjvtiDgZUuaH"
       },
@@ -3461,7 +3527,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 323666,
       "name": "Thank you for the Music",
       "url": "https://open.spotify.com/track/7qtEfm6u5oD1q8Wu5e8iSk"
@@ -4209,7 +4275,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 234999,
       "name": "\u3064\u3080\u3050\u3088\u3046\u306b (Twiny)",
       "url": "https://open.spotify.com/track/39leepccRwzzJZi76sK3GS"
@@ -5855,7 +5921,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 265040,
       "name": "\u8584\u660e",
       "url": "https://open.spotify.com/track/1Omq8yA8pYXeB8sQ9LnFyZ"

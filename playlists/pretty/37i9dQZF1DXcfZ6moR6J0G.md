@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > Celebrating the 25th anniversary of Deftones' Around the Fur which was released on October 28th 1997\. Cover: Chino Moreno
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,457,475 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,458,073 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

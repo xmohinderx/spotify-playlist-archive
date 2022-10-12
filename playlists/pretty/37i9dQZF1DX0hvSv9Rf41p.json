@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with SLANDER.",
-  "num_followers": 940934,
+  "num_followers": 941014,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1MDMyNCwwMDAwMDAwMDFjZTBhMjI0MWM3YjRhM2NkNjI3ZDRmODIzYzVmYjBl",
+  "snapshot_id": "MTY2NTE1MDMyNCwwMDAwMDAwMDFkMzEwYWVhMWZiYjFjOGFkMTIwOTEzYWQwNWI5Y2Rm",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -441,6 +441,26 @@
       "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
     },
     {
+      "added_at": "2022-10-12 01:45:40",
+      "album": {
+        "name": "Ready To Fly",
+        "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Ready To Fly",
+      "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
+    },
+    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "Escape (feat. Hayla) [Subtronics Remix]",
@@ -529,26 +549,6 @@
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
     },
     {
-      "added_at": "2022-10-11 01:30:28",
-      "album": {
-        "name": "Ready To Fly",
-        "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Ready To Fly",
-      "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
-    },
-    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "Every Time (feat. So Below)",
@@ -567,26 +567,6 @@
       "duration_ms": 342008,
       "name": "Every Time (feat. So Below)",
       "url": "https://open.spotify.com/track/6AkEP2vEcpTRn2ilHVPNsa"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "My Heart Has Teeth (feat. Skylar Grey) [From \u201cResident Evil\u201d]",
-        "url": "https://open.spotify.com/album/6jkxA0LypeL8VGXLtZkkAG"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "My Heart Has Teeth (feat. Skylar Grey) - From \u201cResident Evil\u201d",
-      "url": "https://open.spotify.com/track/4HQaCBLA2fpYlcQNZxNg4F"
     },
     {
       "added_at": "2022-08-19 13:48:44",
@@ -651,6 +631,26 @@
       "duration_ms": 199111,
       "name": "PEW PEW",
       "url": "https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "My Heart Has Teeth (feat. Skylar Grey) [From \u201cResident Evil\u201d]",
+        "url": "https://open.spotify.com/album/6jkxA0LypeL8VGXLtZkkAG"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "My Heart Has Teeth (feat. Skylar Grey) - From \u201cResident Evil\u201d",
+      "url": "https://open.spotify.com/track/4HQaCBLA2fpYlcQNZxNg4F"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Seduce / Destroy",
+        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Seduce / Destroy",
+      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Shady Intentions (feat. Tori Levett)",
         "url": "https://open.spotify.com/album/38FIOf6dJnWYBsFomLHgHU"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 185316,
       "name": "Shady Intentions (feat. Tori Levett)",
       "url": "https://open.spotify.com/track/7zN7l6yep9kPdBJeevfPvY"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Seduce / Destroy",
-        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
-      },
-      "artists": [
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Seduce / Destroy",
-      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -823,6 +823,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Badman",
+        "url": "https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Bloodbath",
         "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
       },
@@ -847,26 +867,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Badman",
-        "url": "https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Badman",
-      "url": "https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Bass Music",
         "url": "https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28"
       },
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 183424,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Halfway Down (with Ashley Drake)",
         "url": "https://open.spotify.com/album/5kgb4YbeYYRAQ7fnFpBRBP"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 310400,
       "name": "Halfway Down (with Ashley Drake)",
       "url": "https://open.spotify.com/track/3RgEkU0pFALv7sQhPlaFLd"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        }
-      ],
-      "duration_ms": 183424,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "All We Needed",
-        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "All We Needed",
-      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "All We Needed",
+        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "All We Needed",
+      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 230344,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1235,22 +1235,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
       },
       "artists": [
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         },
         {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
         }
       ],
-      "duration_ms": 172245,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
+      "duration_ms": 186373,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1275,42 +1275,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "DRMVRSE",
-        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         },
         {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         }
       ],
-      "duration_ms": 186373,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Ur Body",
-        "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "Hex Cougar",
-          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Ur Body",
-      "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
+      "duration_ms": 172245,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1351,18 +1331,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "\u00c6ON:TWO",
-        "url": "https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w"
+        "name": "Ur Body",
+        "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
       },
       "artists": [
         {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
         }
       ],
-      "duration_ms": 198620,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk"
+      "duration_ms": 216338,
+      "name": "Ur Body",
+      "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 179692,
       "name": "CASHMERE",
       "url": "https://open.spotify.com/track/5NJkNOXKEfThIuCNOjraGy"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "\u00c6ON:TWO",
+        "url": "https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "RELOAD",
-        "url": "https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "Caspa",
-          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
-        }
-      ],
-      "duration_ms": 176124,
-      "name": "RELOAD",
-      "url": "https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Start It Over (feat. KC)",
         "url": "https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 195600,
       "name": "Start It Over (feat. KC)",
       "url": "https://open.spotify.com/track/4Y3hmcRgFw88qJnXGzCwkq"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "RELOAD",
+        "url": "https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "RELOAD",
+      "url": "https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1709,22 +1709,6 @@
       "url": "https://open.spotify.com/track/6TokZjKiCwAFSmA7pdWTaK"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Operator",
-        "url": "https://open.spotify.com/album/0cUBXDtEC8xdBkwI1KvxAt"
-      },
-      "artists": [
-        {
-          "name": "G Jones",
-          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/5JVHMRWlqPuqB331dVe5wl"
-    },
-    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "Prisoner",
@@ -1777,6 +1761,22 @@
       "url": "https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy"
     },
     {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/0cUBXDtEC8xdBkwI1KvxAt"
+      },
+      "artists": [
+        {
+          "name": "G Jones",
+          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
+        }
+      ],
+      "duration_ms": 174083,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/5JVHMRWlqPuqB331dVe5wl"
+    },
+    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "High Vaultage EP",
@@ -1797,26 +1797,6 @@
       "url": "https://open.spotify.com/track/6XQoXvZzIIOsUVobKDwPtg"
     },
     {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/2Bqy3jSg9uQRY0BQwomJto"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "Calivania",
-          "url": "https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1"
-        }
-      ],
-      "duration_ms": 185824,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/0MP17yUIUmS2bLHPBQTMyT"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Let That Go",
@@ -1835,6 +1815,26 @@
       "duration_ms": 231724,
       "name": "Let That Go",
       "url": "https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/2Bqy3jSg9uQRY0BQwomJto"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Calivania",
+          "url": "https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1"
+        }
+      ],
+      "duration_ms": 185824,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/0MP17yUIUmS2bLHPBQTMyT"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1879,6 +1879,22 @@
       "duration_ms": 222426,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk"
+    },
+    {
+      "added_at": "2022-10-12 01:45:40",
+      "album": {
+        "name": "RAD",
+        "url": "https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "RAD",
+      "url": "https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1937,22 +1953,6 @@
       "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
     },
     {
-      "added_at": "2022-10-11 01:30:28",
-      "album": {
-        "name": "RAD",
-        "url": "https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "RAD",
-      "url": "https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu"
-    },
-    {
       "added_at": "2022-08-12 10:58:30",
       "album": {
         "name": "UMBRA",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Affliction",
-        "url": "https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs"
-      },
-      "artists": [
-        {
-          "name": "ZABO",
-          "url": "https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb"
-        }
-      ],
-      "duration_ms": 199275,
-      "name": "Affliction",
-      "url": "https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Prismata (Dark)",
         "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 160000,
       "name": "Check",
       "url": "https://open.spotify.com/track/6YZg6R747lU5gYZhUB4OQg"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Affliction",
+        "url": "https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs"
+      },
+      "artists": [
+        {
+          "name": "ZABO",
+          "url": "https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb"
+        }
+      ],
+      "duration_ms": 199275,
+      "name": "Affliction",
+      "url": "https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Eat Your Soul",
+        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 159622,
+      "name": "Eat Your Soul",
+      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Captive",
         "url": "https://open.spotify.com/album/6Lqrl0jg68hcV4GhGTYT4H"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 199875,
       "name": "Captive",
       "url": "https://open.spotify.com/track/6ZvgvFGY2Pv5iL8u0ptduc"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Eat Your Soul",
-        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Eat Your Soul",
-      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2279,26 +2279,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Trip To Mars",
-        "url": "https://open.spotify.com/album/5Er1tnoWX3ER2XPeDFmQLq"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "Sammi Constantine",
-          "url": "https://open.spotify.com/artist/0YffB1XSvRrtNRYj4998W6"
-        }
-      ],
-      "duration_ms": 212935,
-      "name": "Trip To Mars",
-      "url": "https://open.spotify.com/track/3jMtndFPgcjtKHuUnGHf9E"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Feel The Same",
         "url": "https://open.spotify.com/album/3Yh1Ori1Ydaq46oNsksZhN"
       },
@@ -2315,6 +2295,26 @@
       "duration_ms": 167750,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/4uXs9sxxIQ1OdOl36HkTKB"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Trip To Mars",
+        "url": "https://open.spotify.com/album/5Er1tnoWX3ER2XPeDFmQLq"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Sammi Constantine",
+          "url": "https://open.spotify.com/artist/0YffB1XSvRrtNRYj4998W6"
+        }
+      ],
+      "duration_ms": 212935,
+      "name": "Trip To Mars",
+      "url": "https://open.spotify.com/track/3jMtndFPgcjtKHuUnGHf9E"
     },
     {
       "added_at": "2022-08-12 10:58:30",

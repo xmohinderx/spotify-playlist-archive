@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,163 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,223 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 47 | [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 |
 | 48 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
 | 49 | [The Fifty](https://open.spotify.com/track/07VqE9HRlrZeWj72Ka4FKA) | [Cameron Morse](https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl) | [The Truth Is](https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8) | 6:42 |
-| 50 | [E70 No\. 01](https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 2:42 |
+| 50 | [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 |
 
-Snapshot ID: `MTY2NDUwNTkzNSwwMDAwMDAwMGY0Mjg3ZDg1OWJmODk1Y2VmMzYyNjZlMDliZGUxY2Y5`
+Snapshot ID: `MTY2NDUwNTkzNSwwMDAwMDAwMDM0YzcwNGI4OGVmYmExNjNjYWJmMGQ0Y2IzZTE4NDIx`

@@ -1,12 +1,12 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: iann dior",
-  "num_followers": 1338046,
+  "num_followers": 1338584,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE2ODA1NywwMDAwMDAwMDZlMjNiNjM3YjQ5Yzg0YjkyZTJjMTVkM2U4NGExZGNk",
+  "snapshot_id": "MTY2NTE2ODA1NywwMDAwMDAwMGRjMWRmZGUzODdlZmY0OTE5ZmI0N2U3OTUzNTQ4M2Fj",
   "tracks": [
     {
       "added_at": "2022-10-07 04:18:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/4G213yPh3BOt160iYP4ZsV"
+      },
+      "artists": [
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "duration_ms": 159381,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/26XaOsDMbl0e1cVKYfkz6w"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/4G213yPh3BOt160iYP4ZsV"
-      },
-      "artists": [
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
-        }
-      ],
-      "duration_ms": 159381,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/26XaOsDMbl0e1cVKYfkz6w"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "You Don't Want Me Anymore",
-        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
+        "name": "Not a Home",
+        "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
       },
       "artists": [
         {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        },
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
         }
       ],
-      "duration_ms": 165000,
-      "name": "You Don't Want Me Anymore",
-      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
+      "duration_ms": 169010,
+      "name": "Not a Home",
+      "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Not a Home",
-        "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
+        "name": "You Don't Want Me Anymore",
+        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
       },
       "artists": [
         {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        },
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
         }
       ],
-      "duration_ms": 169010,
-      "name": "Not a Home",
-      "url": "https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien"
+      "duration_ms": 165000,
+      "name": "You Don't Want Me Anymore",
+      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "A SERIES OF UNFORTUNATE EVENTS",
-        "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 215647,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Outta Time",
         "url": "https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "A SERIES OF UNFORTUNATE EVENTS",
+        "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 215647,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Belly of the Beast",
         "url": "https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ"
       },
@@ -1599,6 +1599,26 @@
       "duration_ms": 140487,
       "name": "Belly of the Beast",
       "url": "https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "The OC Season 3",
+        "url": "https://open.spotify.com/album/1zkV84STH54WfqwcUvE9F0"
+      },
+      "artists": [
+        {
+          "name": "Cold Hart",
+          "url": "https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4"
+        },
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 209583,
+      "name": "Dying",
+      "url": "https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1623,26 +1643,6 @@
       "duration_ms": 172600,
       "name": "thought it was",
       "url": "https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "The OC Season 3",
-        "url": "https://open.spotify.com/album/1zkV84STH54WfqwcUvE9F0"
-      },
-      "artists": [
-        {
-          "name": "Cold Hart",
-          "url": "https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4"
-        },
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 209583,
-      "name": "Dying",
-      "url": "https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym"
+      },
+      "artists": [
+        {
+          "name": "Yung Pinch",
+          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "V12 (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 177835,
       "name": "V12 (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym"
-      },
-      "artists": [
-        {
-          "name": "Yung Pinch",
-          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
     },
     {
       "added_at": "2022-10-07 04:18:00",

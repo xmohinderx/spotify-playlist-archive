@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-209 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
+211 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 | 2022-03-18 |  |
 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 | 2022-01-12 |  |
 | [Brillo En El Mar](https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Brillo En El Mar](https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP) | 2:54 | 2022-01-12 | 2022-03-19 |
-| [Brise Apaisante](https://open.spotify.com/track/3rgjUiX4rTOeAR2yNyIUjo) | [Cornlie Sourd](https://open.spotify.com/artist/2OqQqarMSRGZCavcgkQVrY) | [Brise Apaisante](https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp) | 3:21 | 2022-01-12 |  |
+| [Brise Apaisante](https://open.spotify.com/track/3rgjUiX4rTOeAR2yNyIUjo) | [Cornlie Sourd](https://open.spotify.com/artist/2OqQqarMSRGZCavcgkQVrY) | [Brise Apaisante](https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp) | 3:21 | 2022-01-12 | 2022-10-12 |
 | [Bûche Creuse](https://open.spotify.com/track/2X6yLNxl3XsH0YZRQ4B1w2) | [Kensa Mitchell](https://open.spotify.com/artist/1Bw5TivstABMbIaMDM4jyX) | [Brainwave Focus](https://open.spotify.com/album/6jc66CwXrBYOVNQvqkQFXz) | 3:38 | 2022-04-13 | 2022-04-21 |
 | [Caring](https://open.spotify.com/track/1MaL94GiYXnWEExO4tPo3w) | [Bonnie Mathis](https://open.spotify.com/artist/1lyM0WTssQ6UictS7BOoOr) | [Caring](https://open.spotify.com/album/2lfMq9oDRUDgd8BE5VoiNk) | 3:33 | 2022-01-12 | 2022-01-20 |
 | [Carnivoran](https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [Nasal Bones](https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y) | 3:20 | 2022-01-19 |  |
@@ -128,6 +128,7 @@
 | [Malin 1](https://open.spotify.com/track/49rlIN0XGY8jRlKgIBKvJe) | [Galaxy River](https://open.spotify.com/artist/368DFiSRV82OfD2QC0HUkC) | [Cygnus A](https://open.spotify.com/album/0D4vISbqnNZPeEl9lEN2Dc) | 3:16 | 2022-01-12 |  |
 | [Marbre](https://open.spotify.com/track/0n1BfqLVE0n9cvKwDIadKo) | [Kensa Mitchell](https://open.spotify.com/artist/1Bw5TivstABMbIaMDM4jyX) | [Brainwave Focus](https://open.spotify.com/album/6jc66CwXrBYOVNQvqkQFXz) | 3:48 | 2022-04-13 | 2022-04-21 |
 | [Martins Ferry](https://open.spotify.com/track/21CILaPoqh4xyFRgQpqWxu) | [Henry Woods](https://open.spotify.com/artist/0btvZJesR8KpaOFkkfqvxz) | [Martins Ferry](https://open.spotify.com/album/4woPQADbvUu5TZH67X7PRj) | 3:16 | 2022-01-12 |  |
+| [Midnight Relief](https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Midnight Relief](https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A) | 3:06 | 2022-10-07 |  |
 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 | 2022-01-12 |  |
 | [Moments](https://open.spotify.com/track/5C8szoUrtmYOizu1ykbK0C) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Endless Fragments of Time](https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL) | 3:35 | 2022-04-13 | 2022-04-20 |
 | [Moments](https://open.spotify.com/track/6G9CeRGryVV0ZX60fkMEeO) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Moments](https://open.spotify.com/album/5trElQZuKLwOrsrmaDFFyN) | 3:19 | 2022-01-12 |  |
@@ -150,6 +151,7 @@
 | [Over Oceans](https://open.spotify.com/track/70sv8NcAIJoPsBStnKe61w) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Into Your Hands](https://open.spotify.com/album/7E9kkPd8SwH4aLlcsWLgHN) | 3:45 | 2022-01-12 | 2022-07-23 |
 | [Overcome \(Alpha Waves\)](https://open.spotify.com/track/66tcVcibuPYWs182LeINwu) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [The Power of Now \(Alpha Binaural Beats\)](https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk) | 3:09 | 2022-01-12 |  |
 | [Pace Tua](https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1) | [Celeste Soma](https://open.spotify.com/artist/1b7j7QRse9XXdbZxK3wILz) | [Pace tua](https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA) | 2:24 | 2022-01-12 |  |
+| [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 | 2022-10-07 |  |
 | [Penarth Pier](https://open.spotify.com/track/7wD904p1RznL1Mvp3Z3qFq) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [Night Music / Ambient Haze EP Vol 3](https://open.spotify.com/album/01rlQSUwlUNb7sKWc0oddM) | 3:47 | 2022-04-13 | 2022-04-21 |
 | [Penumbra](https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy) | [Chiara Nieves](https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc) | [Penumbra](https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw) | 4:20 | 2022-01-19 |  |
 | [Perception](https://open.spotify.com/track/43uAtp536KbblbYD1K6h99) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Axiom](https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW) | 3:11 | 2022-09-23 |  |
@@ -213,7 +215,7 @@
 | [Yana](https://open.spotify.com/track/6pv7Z1c7FQcLSxUIGgQrg3) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Yana](https://open.spotify.com/album/2ieSB12RwegevPF1BAqjnx) | 3:14 | 2022-01-12 | 2022-03-05 |
 | [Yellow Mountain](https://open.spotify.com/track/1E9l4kywjB6SmYxAPtsuFh) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yellow Mountain](https://open.spotify.com/album/1TaCBGvLmqXphspxoZEg6m) | 3:56 | 2022-01-12 | 2022-04-22 |
 | [Yellow Mountain \- Studio Edit](https://open.spotify.com/track/0YavOnNQabNAZsJalEi648) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yellow Mountain](https://open.spotify.com/album/1TaCBGvLmqXphspxoZEg6m) | 3:56 | 2022-01-12 | 2022-07-27 |
-| [Yoga do Sono Macio](https://open.spotify.com/track/0SUYpyczCC59xE8FBW32Ba) | [Tristão T](https://open.spotify.com/artist/6eLJZ8lP3vwQmeq4lgJbNZ) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:30 | 2022-04-13 |  |
+| [Yoga do Sono Macio](https://open.spotify.com/track/0SUYpyczCC59xE8FBW32Ba) | [Tristão T](https://open.spotify.com/artist/6eLJZ8lP3vwQmeq4lgJbNZ) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:30 | 2022-04-13 | 2022-10-12 |
 | [You've Sent Me Peace](https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:14 | 2022-01-12 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-03-18 |  |
 | [Σούρουπο](https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB) | [Hana Maldonado](https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK) | [Σούρουπο](https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb) | 3:37 | 2022-01-12 |  |

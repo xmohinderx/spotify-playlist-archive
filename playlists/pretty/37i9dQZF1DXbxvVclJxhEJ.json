@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 22553,
+  "num_followers": 22602,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5MzU5NSwwMDAwMDAwMGNjMjNkOTJmZDY0YTFmOWY0MmY4N2NiYWVhNGQyNWI2",
+  "snapshot_id": "MTY2NDg5MzU5NSwwMDAwMDAwMDM5MWE3ODk0MWQxZmZkN2NmYjFlNjBhZDUwYjdlMGM5",
   "tracks": [
     {
       "added_at": "2022-10-04 14:26:35",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
-        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "B.D. Woman's Blues",
-      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
         "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
         "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 134240,
       "name": "A Little Bird Told Me",
       "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
+        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
+        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
+      },
+      "artists": [
+        {
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "B.D. Woman's Blues",
+      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
-        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Sloppy Drunk Blues",
-      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
         "name": "Crazy Blues: The Best Of Mamie Smith",
         "url": "https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 168333,
       "name": "Keep A Song In Your Soul",
       "url": "https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
+        "name": "The Complete Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "I Used to Be Your Sweet Mama",
+      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "The Complete Recordings, Vol. 3",
-        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
+        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
+        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
       },
       "artists": [
         {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
         }
       ],
-      "duration_ms": 168626,
-      "name": "I Used to Be Your Sweet Mama",
-      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
+      "duration_ms": 195973,
+      "name": "Sloppy Drunk Blues",
+      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
     },
     {
       "added_at": "2022-10-04 14:26:35",

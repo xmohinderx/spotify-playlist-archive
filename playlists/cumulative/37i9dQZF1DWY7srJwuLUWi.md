@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of JTBC's drama Golden Spoon and the 'Songs with Ambition & Emotions to Become a Golden Spoon' selected by the actors themselves! \(JTBC 드라마 금수저의 사운드 트랙들과 배우진들이 직접 뽑은 '금수저가 되기 위한 야망 & 감성이 담긴 노래들'을 들어보세요!\)
 
-22 songs - 1 hr 22 min - not published yet
+24 songs - 1 hr 29 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,8 @@
 | [The Time is Now](https://open.spotify.com/track/72aAUDnwW1O2LGUqCnWaR9) | [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/50tzvh8qi0a6W8s4j6X0Zi) | 3:44 | 2022-10-05 |  |
 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 | 2022-10-05 |  |
 | [To Myself](https://open.spotify.com/track/1PCkbjg2mFmrGAqdP8LB8F) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Coming To You Live](https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq) | 3:33 | 2022-10-05 |  |
+| [You’re the only one \- Duet Ver.](https://open.spotify.com/track/1UFIdcCFtUA8bHDS2grJf6) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4UaK5Qz1cN9vU8Dj5e7R5r) | 3:16 | 2022-10-11 |  |
+| [You’re the only one \- Male Ver.](https://open.spotify.com/track/09gozpraWpfYgaptYIBDfj) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4UaK5Qz1cN9vU8Dj5e7R5r) | 3:16 | 2022-10-11 |  |
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-10-05 |  |
 
 \*This playlist was first scraped on 2022-10-06. Prior content cannot be recovered.

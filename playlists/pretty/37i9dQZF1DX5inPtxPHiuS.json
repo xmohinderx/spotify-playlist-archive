@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Oh'laville",
-  "num_followers": 79167,
+  "num_followers": 79183,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNzM2MCwwMDAwMDAwMGVlNTA0ZTQwZTI4N2ZjYjk0ZDE1NDI5MWE5ZDgzYzc4",
+  "snapshot_id": "MTY2NDUxNzM2MCwwMDAwMDAwMGFkOWYyMTNhNzdjMGY1YjY3YjY5Y2Y0MWRjOGQ1MDgx",
   "tracks": [
     {
       "added_at": "2022-06-24 05:15:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6sayXgNAqCmfUAqGAxP4xA"
     },
     {
-      "added_at": "2022-10-11 01:39:35",
+      "added_at": "2022-10-12 01:55:16",
       "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/2jzGlHolRkjRbO54FP7TLR"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
     },
     {
-      "added_at": "2022-10-11 01:39:35",
+      "added_at": "2022-10-12 01:55:16",
       "album": {
         "name": "LA KAGASTE",
         "url": "https://open.spotify.com/album/7wX1dVzO0AmQfJ3mrezFhU"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
     },
     {
-      "added_at": "2022-10-11 01:39:35",
+      "added_at": "2022-10-12 01:55:16",
       "album": {
         "name": "El Pasado Fue Mejor (feat. Don Tetto)",
         "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Polvo Eres",
-        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
-      },
-      "artists": [
-        {
-          "name": "La Derecha",
-          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
-        }
-      ],
-      "duration_ms": 227665,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 240293,
       "name": "Desvanecer",
       "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Polvo Eres",
+        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
+      },
+      "artists": [
+        {
+          "name": "La Derecha",
+          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
+        }
+      ],
+      "duration_ms": 227665,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "A Tu Lado",
-        "url": "https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2"
-      },
-      "artists": [
-        {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
-        }
-      ],
-      "duration_ms": 203592,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "duration_ms": 203592,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr"
     },
     {
-      "added_at": "2022-10-11 01:39:35",
+      "added_at": "2022-10-12 01:55:16",
       "album": {
         "name": "Si no es muy tarde",
         "url": "https://open.spotify.com/album/65rezM8mnA0svYHgyRcBzb"
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
+      },
+      "artists": [
+        {
+          "name": "Los Maricas",
+          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "Ning\u00fan Lugar",
+      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
         "name": "Mar de Hiladas",
         "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 212666,
       "name": "T\u00fanel",
       "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
-        "name": "Ma\u0301s Alla\u0301 del Tiempo",
-        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
-      },
-      "artists": [
-        {
-          "name": "Los Rolling Ruanas",
-          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Ma\u0301s Alla\u0301 del Tiempo",
-      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
     },
     {
       "added_at": "2022-06-24 05:15:00",

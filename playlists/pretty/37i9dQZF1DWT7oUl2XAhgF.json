@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 147671,
+  "num_followers": 148039,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGQzNmZmZDVhZGFkNmZhYTcyZTM3NDc2ZGMzNmU4NDdh",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGYwZmFiN2NkYjc4ODk0ZGUyNmJmOWIyYTE4NmY5ZWQ5",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "The Marcus King Band",
-        "url": "https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO"
-      },
-      "artists": [
-        {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
-        }
-      ],
-      "duration_ms": 265586,
-      "name": "Rita Is Gone",
-      "url": "https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 194493,
       "name": "Shy",
       "url": "https://open.spotify.com/track/407qAIie8sIEgquKD1AAd2"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "The Marcus King Band",
+        "url": "https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO"
+      },
+      "artists": [
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "duration_ms": 265586,
+      "name": "Rita Is Gone",
+      "url": "https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Envy",
@@ -799,6 +783,22 @@
       "duration_ms": 247133,
       "name": "Envy",
       "url": "https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2021-11-05 04:01:00",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "California Wine",
+        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
+      },
+      "artists": [
+        {
+          "name": "Quinn Devlin",
+          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
+        }
+      ],
+      "duration_ms": 187231,
+      "name": "California Wine",
+      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Bury Me",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "California Wine",
-        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
-      },
-      "artists": [
-        {
-          "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
-        }
-      ],
-      "duration_ms": 187231,
-      "name": "California Wine",
-      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "It Rains Love",
         "url": "https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s"
       },
@@ -1081,20 +1081,20 @@
       "url": "https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2021-10-29 04:01:00",
       "album": {
-        "name": "Nothing at All / Good Times",
-        "url": "https://open.spotify.com/album/56eng8fyBwWTybxiN59Jy3"
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
       },
       "artists": [
         {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
         }
       ],
-      "duration_ms": 244359,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/7APfnIBMqfT1UDy7p02Yje"
+      "duration_ms": 231853,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1113,6 +1113,22 @@
       "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Nothing at All / Good Times",
+        "url": "https://open.spotify.com/album/56eng8fyBwWTybxiN59Jy3"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 244359,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7APfnIBMqfT1UDy7p02Yje"
+    },
+    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "Gold",
@@ -1127,22 +1143,6 @@
       "duration_ms": 162680,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q"
-    },
-    {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 231853,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
     },
     {
       "added_at": "2021-12-17 05:01:00",

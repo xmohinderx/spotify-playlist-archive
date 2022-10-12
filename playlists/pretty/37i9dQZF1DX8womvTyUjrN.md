@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Justin Quiles & Carin Leon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,704 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,793 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 43 | [Volver a Casa](https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Volver a Casa](https://open.spotify.com/album/2xMEHlXjvlU6SoCogDKK5E) | 2:53 |
 | 44 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
 | 45 | [Loco](https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Loco](https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0) | 2:30 |
-| 46 | [Cuando Te Veo](https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Cuando Te Veo](https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5) | 3:19 |
-| 47 | [Trepado](https://open.spotify.com/track/711ngcynIQHVRmTn5R7QVs) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Trepado](https://open.spotify.com/album/49YhDMBAxaoaQl1I2kvuCz) | 2:50 |
-| 48 | [YA NO](https://open.spotify.com/track/2ubOm8LStEhv4CEiIOk01F) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Diablo](https://open.spotify.com/artist/38cfgJjmUEknY8JKyFBipW) | [YA NO](https://open.spotify.com/album/2sHKdDqfzkwXyVZoHVA4PZ) | 3:46 |
+| 46 | [Trepado](https://open.spotify.com/track/711ngcynIQHVRmTn5R7QVs) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Trepado](https://open.spotify.com/album/49YhDMBAxaoaQl1I2kvuCz) | 2:50 |
+| 47 | [YA NO](https://open.spotify.com/track/2ubOm8LStEhv4CEiIOk01F) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Diablo](https://open.spotify.com/artist/38cfgJjmUEknY8JKyFBipW) | [YA NO](https://open.spotify.com/album/2sHKdDqfzkwXyVZoHVA4PZ) | 3:46 |
+| 48 | [Cuando Te Veo](https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Cuando Te Veo](https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5) | 3:19 |
 | 49 | [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
 | 50 | [La Equivocada](https://open.spotify.com/track/2VeyK1f5HRgNGNhn8MUvdf) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [XOXO](https://open.spotify.com/album/3UxgQmk5mb2G4zCFM4ScHH) | 3:18 |
 | 51 | [Duele Tanto](https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Duele Tanto](https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe) | 3:13 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 55 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
 | 56 | [ITA :\)](https://open.spotify.com/track/47i903DULtuCdNST7sprvg) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [ITA :\)](https://open.spotify.com/album/7L3gr1BEYvcxKamux7Etkt) | 2:40 |
 | 57 | [Amor Y Sal](https://open.spotify.com/track/3IAsSc2qUCyMHfqj40T3Jh) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Amor Y Sal](https://open.spotify.com/album/0MU1M5rDvhoUlZIw2407nJ) | 2:32 |
-| 58 | [Amanecer](https://open.spotify.com/track/45wQICCratOjNmYPttJAHO) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Amanecer](https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva) | 3:11 |
-| 59 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
+| 58 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
+| 59 | [Amanecer](https://open.spotify.com/track/45wQICCratOjNmYPttJAHO) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Amanecer](https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva) | 3:11 |
 | 60 | [Aquel Bolero](https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Aquel Bolero](https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG) | 2:52 |
-| 61 | [Eso Que Tenés](https://open.spotify.com/track/48Qj2SZJpEJ9ToXwcyJBhC) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Eso Que Tenés](https://open.spotify.com/album/1pxZEhOLNWgKYgCUUqOjSZ) | 2:44 |
-| 62 | [estereotipo](https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [estereotipo](https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n) | 2:54 |
+| 61 | [Freno](https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Freno](https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd) | 3:34 |
+| 62 | [Eso Que Tenés](https://open.spotify.com/track/48Qj2SZJpEJ9ToXwcyJBhC) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Eso Que Tenés](https://open.spotify.com/album/1pxZEhOLNWgKYgCUUqOjSZ) | 2:44 |
 | 63 | [Gadejo](https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Gadejo](https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv) | 2:13 |
-| 64 | [Freno](https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Freno](https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd) | 3:34 |
+| 64 | [estereotipo](https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [estereotipo](https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n) | 2:54 |
 | 65 | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA) | 2:47 |
 | 66 | [Brindaré](https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Brindaré](https://open.spotify.com/album/1rgpRLLaLgQnMzglyDDdoT) | 2:26 |
 | 67 | [Playlist](https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Playlist](https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 99 | [FEROZ](https://open.spotify.com/track/404rDc5fmLVJkI7S5bbMdw) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [FEROZ](https://open.spotify.com/album/0BzXQTDJfQqy7Q0mjj0ecV) | 2:55 |
 | 100 | [Burberry Tears](https://open.spotify.com/track/19dOJKxWjNgWsjGVcItOSD) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NMDA](https://open.spotify.com/album/7M69A9V3GcxsqMjYNAzcr5) | 3:05 |
 
-Snapshot ID: `MTY2NTE1ODI4MiwwMDAwMDAwMDhjMjIzYzUxZGE2YmQ2ZWVmM2M1OGU0ODE0MDg4MDRj`
+Snapshot ID: `MTY2NTE1ODI4MiwwMDAwMDAwMGMzNjc1MTBiMjFjODZiZjJjZTA5NGUyNDZlNjM5YjE2`

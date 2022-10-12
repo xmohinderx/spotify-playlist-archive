@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 42911,
+  "num_followers": 42952,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMDJmMjZjMGVkNWU2NDNiZTBkMDFmNTg0NzllZmZiMDUw",
+  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMGVmOGI5MzFhZjk1NWM5MGJkZGZkZjk0MjA3ZGZlNjQx",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Sold Out Dates",
+        "url": "https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 141578,
+      "name": "Sold Out Dates",
+      "url": "https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "B.B. King Freestyle",
         "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 222801,
       "name": "B.B. King Freestyle (with Drake)",
       "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Sold Out Dates",
-        "url": "https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 141578,
-      "name": "Sold Out Dates",
-      "url": "https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1779,6 +1779,26 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "AWITA",
+        "url": "https://open.spotify.com/album/7IU0iqOqmM6tCyOI4u1ZRe"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "AIRDROP",
+      "url": "https://open.spotify.com/track/216o3rch4ioVv7DjpkjFWk"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "Como Soy",
         "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 312232,
       "name": "Como Soy",
       "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "AWITA",
-        "url": "https://open.spotify.com/album/7IU0iqOqmM6tCyOI4u1ZRe"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "AIRDROP",
-      "url": "https://open.spotify.com/track/216o3rch4ioVv7DjpkjFWk"
     },
     {
       "added_at": "2021-11-12 16:22:17",

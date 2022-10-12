@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Kenia OS en portada.",
-  "num_followers": 457988,
+  "num_followers": 458469,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODgwMCwwMDAwMDAwMDFlMDA2NTA2NzY1MjNiNjgzZTUyM2ZiMTE3YzllNjQ5",
+  "snapshot_id": "MTY2NTExODgwMCwwMDAwMDAwMDk3ZjVlZDMwY2JiZWIxNjYwYWMzYTRiNzRjNzNhNTJj",
   "tracks": [
     {
       "added_at": "2022-10-07 05:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 241106,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - En Vivo",
-      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
-      },
-      "artists": [
-        {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "La Siguiente",
         "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 202176,
       "name": "La Siguiente",
       "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -703,6 +703,26 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
+        "name": "Que Triste",
+        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 226339,
+      "name": "Que Triste",
+      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
         "name": "Cosas Del Diablo",
         "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
@@ -727,42 +747,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Que Triste",
-        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 226339,
-      "name": "Que Triste",
-      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+      "duration_ms": 172546,
+      "name": "Sin Explicaciones",
+      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -787,6 +783,26 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 182480,
       "name": "Y Me Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "Sin Explicaciones",
-      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -975,6 +975,34 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
+        "name": "Despu\u00e9s de las 12 (Remix)",
+        "url": "https://open.spotify.com/album/2alK8h5rD3pUuGksZJpYpo"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Despu\u00e9s de las 12 - Remix",
+      "url": "https://open.spotify.com/track/5OrjaJWlswDGCqxWj9lxj0"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -1011,34 +1039,6 @@
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "Despu\u00e9s de las 12 (Remix)",
-        "url": "https://open.spotify.com/album/2alK8h5rD3pUuGksZJpYpo"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "Despu\u00e9s de las 12 - Remix",
-      "url": "https://open.spotify.com/track/5OrjaJWlswDGCqxWj9lxj0"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
+        "name": "Me Rend\u00ed",
+        "url": "https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Me Rend\u00ed",
+      "url": "https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
         "name": "Un Chingazo",
         "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 213281,
       "name": "Ultimate (ft. Snow Tha Product)",
       "url": "https://open.spotify.com/track/3cQo8Sz2SaYHcPFXrqBxGT"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "Me Rend\u00ed",
-        "url": "https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Me Rend\u00ed",
-      "url": "https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
+        "name": "Si Es Cierto Que Te Vas",
+        "url": "https://open.spotify.com/album/2gHy7XdAt8pUrtB2mWq2f3"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 216837,
+      "name": "Si Es Cierto Que Te Vas",
+      "url": "https://open.spotify.com/track/5ilf0RHAnRF5miyE9ad8O7"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
         "name": "Guadalajara",
         "url": "https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 229977,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "Si Es Cierto Que Te Vas",
-        "url": "https://open.spotify.com/album/2gHy7XdAt8pUrtB2mWq2f3"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 216837,
-      "name": "Si Es Cierto Que Te Vas",
-      "url": "https://open.spotify.com/track/5ilf0RHAnRF5miyE9ad8O7"
     }
   ],
   "unique_name": "Top M\u00e9xico",

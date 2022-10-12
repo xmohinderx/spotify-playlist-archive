@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 285 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 44 | [Magic](https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Magic](https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A) | 3:11 |
 | 45 | [Breathing](https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [First Signs Of Me](https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo) | 3:49 |
 | 46 | [Candy](https://open.spotify.com/track/6Wita44WcY7I72errJQ4aa) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Letters to Her](https://open.spotify.com/album/3zF3cwAPivQeGtOW1984RP) | 2:37 |
-| 47 | [Squad](https://open.spotify.com/track/3S99N747IJomX6CrZHZ9ho) | [Idris King](https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1) | [Cruise](https://open.spotify.com/album/4ueg8Xn74iH3sY4MRc7MYJ) | 3:12 |
+| 47 | [Squad](https://open.spotify.com/track/1J3W4aYJO2d3C90rnkX2gD) | [Idris King](https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1) | [Squad](https://open.spotify.com/album/5JkLkqbbeXbSTbI0XA9XBA) | 3:12 |
 | 48 | [Aiya](https://open.spotify.com/track/4x89vYSEGIhYd5YKSIUyZL) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [re\-Bella](https://open.spotify.com/album/4hK3GKE0NhUM7V7ymP80C9) | 3:43 |
 | 49 | [Supa Sigh](https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em) | [BrisB](https://open.spotify.com/artist/5hsqUG0HzeF5qurzzanUWa), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Supa Sigh](https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS) | 3:32 |
 | 50 | [All I Need](https://open.spotify.com/track/2kuoDgDB58x1DExkiIEWip) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [All I Need](https://open.spotify.com/album/1UaNXTVWQcwbb0hWojeeKY) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 79 | [Gold Grills](https://open.spotify.com/track/1EhYCGnX7XKFP44nGOrTXA) | [Mafeni](https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs) | [enjoy](https://open.spotify.com/album/3ARS1ArXJvbRxOGNZwSzni) | 3:17 |
 | 80 | [What You Like](https://open.spotify.com/track/3nW0Lor0OZW7muepNnkUI9) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Virtuoso](https://open.spotify.com/album/44q2jWpjess1qVcWm1jqoW) | 3:08 |
 
-Snapshot ID: `MTY2MDA0NjMwOSwwMDAwMDAwMGRjY2MxOGNhZGFkZjEyNDU2NGVmYjU0ODQ2MDg1MjVj`
+Snapshot ID: `MTY2MDA0NjMwOSwwMDAwMDAwMGQwYzg3ODFjNTViOWNlZTYwNmM3NDJhOGFhZjQ2ZDkx`

@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-151 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+152 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Boo's Blues](https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Boo's Blues](https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU) | 3:25 | 2022-02-10 |  |
 | [Bubbles](https://open.spotify.com/track/3GGslX17J2F3IzVE5yIiRJ) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm) | 5:06 | 2022-06-30 |  |
 | [Bubbles](https://open.spotify.com/track/2pRpSND6CcxuZYfBlccZXN) | [Jacob Karlzon Trio](https://open.spotify.com/artist/1ap7d4ByxAHY8C3QnedJH7) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/30xxXhILNDBzUMneKkd1BA) | 5:06 | 2021-12-21 | 2022-07-29 |
-| [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 | 2022-02-10 |  |
+| [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 | 2022-02-10 | 2022-10-12 |
 | [Cloudland](https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cloudland](https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng) | 4:34 | 2022-02-10 |  |
 | [Compromises](https://open.spotify.com/track/6teUPQnEbgYScxhKjVNcOc) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Arne Torvik](https://open.spotify.com/artist/3T69SoM3RxKdkpQd2gn2iv), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Compromises](https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM) | 3:05 | 2021-12-21 |  |
 | [Cononbridge](https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Cononbridge](https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj) | 4:58 | 2022-02-10 |  |
@@ -135,6 +135,7 @@
 | [The Starter](https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6uAqOGzZJOszPnpcoUHRL2) | 6:15 | 2021-12-21 |  |
 | [Thembi](https://open.spotify.com/track/6x4WAXhYazOoc0vCg2sybO) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 7:02 | 2021-12-21 | 2022-05-08 |
 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 | 2022-02-10 | 2022-07-29 |
+| [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 |  |
 | [Throng](https://open.spotify.com/track/2Qd5FZiEDmePPjnLhJtle2) | [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Big Beat](https://open.spotify.com/album/6Yjy84o9dZ5ydgVPxQZObF) | 3:02 | 2021-12-21 | 2022-06-09 |
 | [To Mr K.K.](https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:30 | 2022-04-07 |  |
 | [Together](https://open.spotify.com/track/2wOlZrHUpRP9hQbqbV9Ae5) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/1fcREbFQfCqfwxXkxGgvV7) | 11:12 | 2021-12-21 | 2022-07-29 |

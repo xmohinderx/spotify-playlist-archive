@@ -540,6 +540,32 @@
     },
     {
       "album": {
+        "name": "die 4 u",
+        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
+      },
+      "artists": [
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+        },
+        {
+          "name": "damnboy!",
+          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "die 4 u",
+      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
+    },
+    {
+      "album": {
         "name": "Dioma (Demo)",
         "url": "https://open.spotify.com/album/3F6ynVYGAxoIgFPB4jvbff"
       },

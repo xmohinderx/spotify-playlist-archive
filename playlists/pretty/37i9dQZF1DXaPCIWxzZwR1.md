@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: Nessa Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,813 likes - 112 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,696 likes - 112 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

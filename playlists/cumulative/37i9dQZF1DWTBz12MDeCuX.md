@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu
 
-387 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+388 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,12 +255,13 @@
 | [Pacify Her](https://open.spotify.com/track/360Wr96ywrCQq4kTAJ8Pq6) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:40 | 2022-06-09 | 2022-06-17 |
 | [Pain](https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7) | [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [Fearless](https://open.spotify.com/album/2leou6sxHz7CaxyV6f4cf1) | 3:08 | 2022-07-28 | 2022-08-19 |
 | [PARADISE](https://open.spotify.com/track/5YHdRUzLWIJCBv7oSlItvA) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [MIXED FEELINGS](https://open.spotify.com/album/5m2L7FNMVpRoLxFCwxP1P2) | 3:14 | 2022-06-09 | 2022-07-15 |
-| [PARADISE \(MIT DIR\)](https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [MIXED FEELINGS](https://open.spotify.com/album/1ldWJtQGYdE34MP627RCBc) | 3:12 | 2022-07-14 |  |
+| [PARADISE \(MIT DIR\)](https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [MIXED FEELINGS](https://open.spotify.com/album/1ldWJtQGYdE34MP627RCBc) | 3:12 | 2022-07-14 | 2022-10-12 |
 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 | 2022-07-13 | 2022-07-22 |
 | [Party Sahne](https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Party Sahne](https://open.spotify.com/album/6vcV95HX3EIghNFsoOgbDC) | 2:17 | 2022-10-06 |  |
 | [Pass Nicht Rein \(feat\. Longus Mongus\)](https://open.spotify.com/track/4BJFxsT7mhUcAvwedWddEG) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [In Liebe, Ion](https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE) | 3:00 | 2022-06-23 | 2022-09-30 |
 | [Pepas x Memories](https://open.spotify.com/track/0dFQS35aW9oArIov23Kq6m) | [MattOfficiel](https://open.spotify.com/artist/071lEROKmwZgeCphlvp58N) | [Pepas x Memories](https://open.spotify.com/album/6475J4EtJcnLVqyl4eqOm4) | 2:49 | 2022-06-09 | 2022-08-11 |
 | [petit frère](https://open.spotify.com/track/7vuPce1FALeir0VHLkRZYL) | [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D) | [petit frère](https://open.spotify.com/album/4MRj1ISdjbESnmgFMSKcDg) | 2:24 | 2022-06-13 | 2022-07-05 |
+| [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-10-11 |  |
 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 | 2022-08-18 | 2022-09-02 |
 | [Powerade](https://open.spotify.com/track/6icjOrzM57QrCAtBeWB5WF) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Powerade](https://open.spotify.com/album/0lnLFmdLlavFulmy4l8TmE) | 2:22 | 2022-06-09 | 2022-09-30 |
 | [Priceless](https://open.spotify.com/track/4kgu00hgAdZUcfOmJDvufg) | [Rosc](https://open.spotify.com/artist/4vEIMa1vuh2eKBryiepN8c) | [Priceless](https://open.spotify.com/album/3UNtbnpooesHeO9lSJAP9R) | 2:00 | 2022-08-15 | 2022-09-30 |

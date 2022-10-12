@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 310333,
       "name": "Another Space Song",
       "url": "https://open.spotify.com/track/50iBJRkGjjht3RiwD0VqLA"
@@ -1693,7 +1693,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 200600,
       "name": "I Can Climb Mountains",
       "url": "https://open.spotify.com/track/309VjyrEiYNIa30wxtNuaW"
@@ -2233,7 +2233,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 247493,
       "name": "Low",
       "url": "https://open.spotify.com/track/2Ydsp7oUtm3jPyx2U99uaJ"
@@ -2395,10 +2395,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 175648,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d"
+    },
+    {
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/4NYQn71dwwpIMO1qXqHshb"
+      },
+      "artists": [
+        {
+          "name": "Twin Wild",
+          "url": "https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227046,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/297ObeqSx8qhJYIytrusWm"
     },
     {
       "album": {
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 216666,
       "name": "Neon Circus",
       "url": "https://open.spotify.com/track/0HygTZjzB9GQhohzMzoaeD"
@@ -3061,7 +3079,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 189001,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/4o5GYJNnwtWvO3Yxvmw1QF"
@@ -3223,7 +3241,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 175253,
       "name": "Smiling at Strangers on Trains",
       "url": "https://open.spotify.com/track/0F54dvs9C0v0snW9m6dSE1"
@@ -3889,7 +3907,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 217120,
       "name": "Transatlantic Foe",
       "url": "https://open.spotify.com/track/6dryGcKWMxgy3cFtzsoZkC"
@@ -3943,7 +3961,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 218520,
       "name": "Trick of the Light",
       "url": "https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm"

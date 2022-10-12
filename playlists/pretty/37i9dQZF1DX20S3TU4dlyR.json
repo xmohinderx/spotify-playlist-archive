@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 48496,
+  "num_followers": 48513,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0OTgzMywwMDAwMDAwMDlkNTUxZjU5M2FlYzBhYWU4ZmRhZjgxOTg4YzRlYWE0",
+  "snapshot_id": "MTY2NDU0OTgzMywwMDAwMDAwMDY4NmJlZmRkMWYzYzQzYjA5MTAwY2MyMTljMzllZTdl",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
     },
     {
-      "added_at": "2022-10-11 01:32:04",
+      "added_at": "2022-10-12 01:48:06",
       "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl"
     },
     {
-      "added_at": "2022-10-11 01:32:04",
+      "added_at": "2022-10-12 01:48:06",
       "album": {
         "name": "Emocionado",
         "url": "https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz"
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Modern Jukebox",
-        "url": "https://open.spotify.com/album/2i7MhuER8I9dk47TWkrT8t"
+        "name": "Hasta Que Me Olvides",
+        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
       },
       "artists": [
         {
-          "name": "Sarah Menescal",
-          "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 243085,
-      "name": "Don't Speak - Reggae Version",
-      "url": "https://open.spotify.com/track/4fNcaiS9FUUjpznbSeVmqN"
+      "duration_ms": 255744,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Hasta Que Me Olvides",
-        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
+        "name": "Modern Jukebox",
+        "url": "https://open.spotify.com/album/2i7MhuER8I9dk47TWkrT8t"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "Sarah Menescal",
+          "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
         }
       ],
-      "duration_ms": 255744,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
+      "duration_ms": 243085,
+      "name": "Don't Speak - Reggae Version",
+      "url": "https://open.spotify.com/track/4fNcaiS9FUUjpznbSeVmqN"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Rey Mago de las Nubes",
-        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Aguas Frescas De Jamaica",
         "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 278626,
       "name": "Tan Distante",
       "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Rey Mago de las Nubes",
+        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -819,34 +819,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
+        "name": "Qui\u00e9n Sos?",
+        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 260266,
-      "name": "No Mires Atras",
-      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
-      },
-      "artists": [
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
         {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
         }
       ],
-      "duration_ms": 297426,
-      "name": "Luz y Compa\u00f1\u00eda",
-      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
+      "duration_ms": 231464,
+      "name": "Qui\u00e9n Sos?",
+      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -863,6 +851,22 @@
       "duration_ms": 202680,
       "name": "Lo De Siempre",
       "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Luz y Compa\u00f1\u00eda",
+      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -919,22 +923,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Qui\u00e9n Sos?",
-        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
       "artists": [
         {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 231464,
-      "name": "Qui\u00e9n Sos?",
-      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
+      "duration_ms": 260266,
+      "name": "No Mires Atras",
+      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "\u00c1ngel Del Pasado",
         "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 201347,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
-        }
-      ],
-      "duration_ms": 260170,
-      "name": "Si vas a dejarme...",
-      "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Alta Lucha",
         "url": "https://open.spotify.com/album/45hcHSFFSVgAZ0s9noV87v"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+        }
+      ],
+      "duration_ms": 260170,
+      "name": "Si vas a dejarme...",
+      "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "S\u00fabete",
         "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 218000,
       "name": "A Contratiempo",
       "url": "https://open.spotify.com/track/5tDfbfJCQyXuCOft8hbRIg"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 214000,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1383,30 +1383,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Raices y Cultura",
-        "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
+        "name": "Amanecido",
+        "url": "https://open.spotify.com/album/5IasRQZbiBI7TJQhsYSaUi"
       },
       "artists": [
         {
-          "name": "Lumumba Oficial",
-          "url": "https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        },
-        {
-          "name": "Amilcar Nadal",
-          "url": "https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d"
-        },
-        {
-          "name": "Pablo Molina",
-          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 281920,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
+      "duration_ms": 160493,
+      "name": "En el Sonido",
+      "url": "https://open.spotify.com/track/142f0JPC6R9GQI3X9C23M8"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1431,22 +1419,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Amanecido",
-        "url": "https://open.spotify.com/album/5IasRQZbiBI7TJQhsYSaUi"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "En el Sonido",
-      "url": "https://open.spotify.com/track/142f0JPC6R9GQI3X9C23M8"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Groove Me",
         "url": "https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw"
       },
@@ -1467,6 +1439,34 @@
       "duration_ms": 184000,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Raices y Cultura",
+        "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
+      },
+      "artists": [
+        {
+          "name": "Lumumba Oficial",
+          "url": "https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT"
+        },
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Amilcar Nadal",
+          "url": "https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d"
+        },
+        {
+          "name": "Pablo Molina",
+          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
     },
     {
       "added_at": "2022-09-23 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Koe Wetzel",
-  "num_followers": 474900,
+  "num_followers": 475065,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU5MTMwOSwwMDAwMDAwMDgxYzQ2OTZmYzE3NmIxMDZmZDRmMmZlNjk5OTM3ZTBi",
+  "snapshot_id": "MTY2NDU5MTMwOSwwMDAwMDAwMGVhMDA3YjcyM2E4MGVjMjZmZjc5ZmMyYjk1NWY0MGJk",
   "tracks": [
     {
       "added_at": "2022-10-01 02:28:29",
@@ -715,18 +715,22 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "The Rockin' CJB",
+          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
         }
       ],
-      "duration_ms": 202440,
-      "name": "Whiskey Sunrise",
-      "url": "https://open.spotify.com/track/46oDBddhwu0gfFr2z1fvh5"
+      "duration_ms": 257079,
+      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
+      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -747,22 +751,18 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "The Rockin' CJB",
-          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 257079,
-      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
-      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
+      "duration_ms": 202440,
+      "name": "Whiskey Sunrise",
+      "url": "https://open.spotify.com/track/46oDBddhwu0gfFr2z1fvh5"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 186458,
+      "name": "Ride the Lightning - 717 Tapes",
+      "url": "https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
         "name": "Straw in the Wind",
         "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 156826,
       "name": "Crazy Angels",
       "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 186458,
-      "name": "Ride the Lightning - 717 Tapes",
-      "url": "https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
+        "name": "Workin' Man",
+        "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 218419,
+      "name": "Workin' Man",
+      "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
         "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
         "url": "https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Workin' Man",
-        "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 218419,
-      "name": "Workin' Man",
-      "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
         "name": "Black Powder Soul",
         "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 216153,
       "name": "Black Powder Soul",
       "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
-        "name": "Brothers Osborne",
-        "url": "https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Shoot From The Hip",
-      "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -963,6 +947,38 @@
       "duration_ms": 169600,
       "name": "Cloud of Dust (feat. The Gronkowski Brothers)",
       "url": "https://open.spotify.com/track/6ttWS9HFc1fkvIjPTko8EJ"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Shoot From The Hip",
+      "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Frayed At Both Ends",
-        "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lewis",
-          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
-        }
-      ],
-      "duration_ms": 268162,
-      "name": "Pull Me Under",
-      "url": "https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
         "name": "My Ex Came Over",
         "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
       },
@@ -1019,54 +1019,6 @@
       "duration_ms": 175000,
       "name": "My Ex Came Over",
       "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
-        "name": "Find a Light",
-        "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 225165,
-      "name": "Till the Wheels Fall Off",
-      "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
-        "name": "Keep Her Breathing",
-        "url": "https://open.spotify.com/album/7Heo4vh5UwiwDc8hLukBCI"
-      },
-      "artists": [
-        {
-          "name": "Payton Howie",
-          "url": "https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV"
-        }
-      ],
-      "duration_ms": 242362,
-      "name": "Keep Her Breathing",
-      "url": "https://open.spotify.com/track/0RUuBirZj8442qSY65pbO8"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -1087,6 +1039,54 @@
       "duration_ms": 208418,
       "name": "What Do I Know (feat. HARDY)",
       "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "Find a Light",
+        "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 225165,
+      "name": "Till the Wheels Fall Off",
+      "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "Keep Her Breathing",
+        "url": "https://open.spotify.com/album/7Heo4vh5UwiwDc8hLukBCI"
+      },
+      "artists": [
+        {
+          "name": "Payton Howie",
+          "url": "https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV"
+        }
+      ],
+      "duration_ms": 242362,
+      "name": "Keep Her Breathing",
+      "url": "https://open.spotify.com/track/0RUuBirZj8442qSY65pbO8"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "Frayed At Both Ends",
+        "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+        }
+      ],
+      "duration_ms": 268162,
+      "name": "Pull Me Under",
+      "url": "https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -1155,22 +1155,18 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "High Country Sound",
-        "url": "https://open.spotify.com/album/6IVHko8albueLyBNcjuT0v"
+        "name": "Old News",
+        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
       "artists": [
         {
-          "name": "Canaan Smith",
-          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
-        },
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
         }
       ],
-      "duration_ms": 169700,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/2q0kWUvBaXkakZfH7KPViY"
+      "duration_ms": 251498,
+      "name": "All of These Years",
+      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -1191,18 +1187,22 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Old News",
-        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
+        "name": "High Country Sound",
+        "url": "https://open.spotify.com/album/6IVHko8albueLyBNcjuT0v"
       },
       "artists": [
         {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+          "name": "Canaan Smith",
+          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
+        },
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
         }
       ],
-      "duration_ms": 251498,
-      "name": "All of These Years",
-      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
+      "duration_ms": 169700,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/2q0kWUvBaXkakZfH7KPViY"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
+        "name": "Truck In The Yard",
+        "url": "https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
         }
       ],
-      "duration_ms": 206646,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
+      "duration_ms": 182624,
+      "name": "Truck In The Yard",
+      "url": "https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Truck In The Yard",
-        "url": "https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ"
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
       },
       "artists": [
         {
-          "name": "Sam Grow",
-          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 182624,
-      "name": "Truck In The Yard",
-      "url": "https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ"
+      "duration_ms": 206646,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -1303,6 +1303,22 @@
       "duration_ms": 201711,
       "name": "4 X 4 Play",
       "url": "https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "Varsity Type",
+        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 202383,
+      "name": "Varsity Type",
+      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -1347,22 +1363,6 @@
       "duration_ms": 197314,
       "name": "To Hank (feat. HARDY, Brantley Gilbert & Colt Ford)",
       "url": "https://open.spotify.com/track/5mOAXvYO4xSppP2NmrBhQu"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
-        "name": "Varsity Type",
-        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 202383,
-      "name": "Varsity Type",
-      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Solid Gold Sounds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8"
-      },
-      "artists": [
-        {
-          "name": "Kendell Marvel",
-          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
-        }
-      ],
-      "duration_ms": 251437,
-      "name": "Hard Time With The Truth",
-      "url": "https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
         "name": "For the Birds",
         "url": "https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 254090,
       "name": "Right or Wrong",
       "url": "https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "Solid Gold Sounds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8"
+      },
+      "artists": [
+        {
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+        }
+      ],
+      "duration_ms": 251437,
+      "name": "Hard Time With The Truth",
+      "url": "https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z"
     },
     {
       "added_at": "2022-10-01 02:28:29",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-10-01 02:28:29",
       "album": {
-        "name": "Over Me By Now",
-        "url": "https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW"
-      },
-      "artists": [
-        {
-          "name": "Sam Grow",
-          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "Over Me By Now",
-      "url": "https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr"
-    },
-    {
-      "added_at": "2022-10-01 02:28:29",
-      "album": {
         "name": "COUNTRY FUZZ",
         "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 184619,
       "name": "Labels",
       "url": "https://open.spotify.com/track/6oX6Z8IRcQoE5c1huBv4hU"
+    },
+    {
+      "added_at": "2022-10-01 02:28:29",
+      "album": {
+        "name": "Over Me By Now",
+        "url": "https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "duration_ms": 161973,
+      "name": "Over Me By Now",
+      "url": "https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr"
     },
     {
       "added_at": "2022-10-01 02:28:29",

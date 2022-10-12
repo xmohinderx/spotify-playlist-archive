@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Silvana Estrada.",
-  "num_followers": 94944,
+  "num_followers": 95012,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM5NjM4MywwMDAwMDAwMDVkOThjMTAyMjhiODIxMDhlOGIwM2Q2Y2MxMmRiMjFm",
+  "snapshot_id": "MTY2NTM5NjM4MywwMDAwMDAwMDUyOTUwZDdjMTZkMGE5ODg4OGJiY2MxNjFhOTBhMWE1",
   "tracks": [
     {
       "added_at": "2022-09-09 05:00:00",
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
-      "added_at": "2022-10-11 01:52:34",
+      "added_at": "2022-10-12 02:07:42",
       "album": {
         "name": "De todas las flores",
         "url": "https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/4jEEloo2pedhkrP5NBTl85"
     },
     {
-      "added_at": "2022-10-11 01:52:34",
+      "added_at": "2022-10-12 02:07:42",
       "album": {
         "name": "Palabritas y Palabrotas",
         "url": "https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn"
     },
     {
-      "added_at": "2022-10-11 01:52:34",
+      "added_at": "2022-10-12 02:07:42",
       "album": {
         "name": "Puquio",
         "url": "https://open.spotify.com/album/4gLcpquRoWzxLjF0451BD6"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/2nRjw9V6oQmueOWsaoymJ4"
     },
     {
-      "added_at": "2022-10-11 01:52:34",
+      "added_at": "2022-10-12 02:07:42",
       "album": {
         "name": "Pedres blanques",
         "url": "https://open.spotify.com/album/0BEz51ZYMtM7TFA0BJMnvy"
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Un Golpe de Suerte",
-        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Un Golpe de Suerte",
-      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "El Palmar",
         "url": "https://open.spotify.com/album/1sK8DJFpwDQFjUtiOG1J0k"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "Un Golpe de Suerte",
+        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 269932,
+      "name": "Un Golpe de Suerte",
+      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Algo Ritmos",
         "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 236361,
       "name": "Solo Le Dije",
       "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Como Viene Se Va",
-      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1047,6 +1031,22 @@
       "duration_ms": 216661,
       "name": "Todo Lo Que No Est\u00e1",
       "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Como Viene Se Va",
+      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1497,6 +1497,26 @@
       "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro"
+      },
+      "artists": [
+        {
+          "name": "Ana Prada",
+          "url": "https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 211277,
+      "name": "Palabras de Amor",
+      "url": "https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM"
+    },
+    {
       "added_at": "2022-09-09 05:00:00",
       "album": {
         "name": "Los N\u00e1ufragos",
@@ -1527,26 +1547,6 @@
       "duration_ms": 182404,
       "name": "Una herida",
       "url": "https://open.spotify.com/track/7CPQMi5mEonIFzo8VtV7cy"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro"
-      },
-      "artists": [
-        {
-          "name": "Ana Prada",
-          "url": "https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 211277,
-      "name": "Palabras de Amor",
-      "url": "https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM"
     },
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
     },
     {
       "added_at": "2022-09-09 05:00:00",

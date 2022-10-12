@@ -4,7 +4,7 @@
 
 > 125%
 
-81 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+83 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Taste \- Speed](https://open.spotify.com/track/2O0v7fVGXrAsmx5NokutyI) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Taste \(Speed\)](https://open.spotify.com/album/4i73SJUP6mIDSLS8t8b0UW) | 2:29 | 2022-07-27 |  |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-06-09 |  |
 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 | 2022-06-09 |  |
+| [Them Changes \- Sped Up](https://open.spotify.com/track/6pod2VRHVTven17Da0uZHi) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Them Changes \(Sped Up\)](https://open.spotify.com/album/6BxctollBKIGGFZ8zAYLxw) | 2:15 | 2022-10-11 |  |
 | [Those Eyes \- Sped Up](https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 2:47 | 2022-07-29 |  |
 | [Under the Influence \(Sped Up\) \- Your Body Language Speaks to Me](https://open.spotify.com/track/3qG3S4Ptt7EFCtKi5ZroG2) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Under the Influence \(Sped Up\) \- Your Body Language Speaks to Me](https://open.spotify.com/album/0zJyKDyf1ukaR3TD8mYHTy) | 2:03 | 2022-10-04 |  |
 | [vendetta! \- sped up](https://open.spotify.com/track/0D45ixbwxjkT4S7V1kpt5y) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta! \(sped up\)](https://open.spotify.com/album/1GDSQLmbj33GGdfyl8hKw6) | 1:31 | 2022-10-07 |  |
@@ -87,7 +88,8 @@
 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 | 2022-08-24 |  |
 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 | 2022-06-09 |  |
 | [why so serious?](https://open.spotify.com/track/3CcNuI3JbOw5n5Evl5Qjx6) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [why so serious?](https://open.spotify.com/album/0owMsQYWHryve339icpxYv) | 1:35 | 2022-06-24 | 2022-09-04 |
-| [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 | 2022-06-09 |  |
+| [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 | 2022-06-09 | 2022-10-12 |
+| [World's Smallest Violin \- Sped Up](https://open.spotify.com/track/2vyyvsyMcJkcvxMKch8Q1e) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [World's Smallest Violin \(Sped Up\)](https://open.spotify.com/album/6DNtrF8Ga0IhBjAZDzfnkx) | 2:16 | 2022-10-11 |  |
 | [zombie \(hyper\)](https://open.spotify.com/track/4YKfwSVcrK85r3TaUeUHGd) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ), [Keepitinside](https://open.spotify.com/artist/78cc6k0CLZpWYSO4x5xnro) | [reaper / zombie \(remixes\)](https://open.spotify.com/album/6rIGvpDxSbZABArWo8hwko) | 2:16 | 2022-06-09 |  |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

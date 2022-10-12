@@ -1052,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Songs of Sonder",
+        "url": "https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/7JRvk5bk0yJIrqVwLtZDst"
+    },
+    {
+      "album": {
         "name": "end credits",
         "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
       },
@@ -4259,7 +4277,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 216200,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/5NnizvoGv4a4fh64ybwFo1"

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1990s.",
-  "num_followers": 381828,
+  "num_followers": 382481,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI1ODU0NSwwMDAwMDAwMDNmNGIyZjRhZWM5ZGYzOGY3MmViOTJhZDFmN2ZjMzkw",
+  "snapshot_id": "MTY2NDI1ODU0NSwwMDAwMDAwMGE4YThkOGM3ZWMxOWI2NWQ0NDc5YWI1YzQ3NWQyNWFk",
   "tracks": [
     {
       "added_at": "2022-03-21 23:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
         }
       ],
-      "duration_ms": 388733,
-      "name": "Nothing Else Matters (Remastered)",
-      "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+      "duration_ms": 388733,
+      "name": "Nothing Else Matters (Remastered)",
+      "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "All-4-One",
-        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
       },
       "artists": [
         {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 259853,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+      "duration_ms": 234960,
+      "name": "Show Me the Meaning of Being Lonely",
+      "url": "https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+        "name": "All-4-One",
+        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
         }
       ],
-      "duration_ms": 234960,
-      "name": "Show Me the Meaning of Being Lonely",
-      "url": "https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"
+      "duration_ms": 259853,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "I've Been Expecting You",
         "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 384306,
       "name": "Heal the World",
       "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 312306,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "God Shuffled His Feet",
         "url": "https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 278973,
       "name": "'74-'75",
       "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 312306,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Paid Vacation",
-        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Now And Forever",
-      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "White On Blonde",
         "url": "https://open.spotify.com/album/7KTPTo8TwG1firY7MAUJDl"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 233866,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/0oSS8NUmfgaX52yTuQWnen"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Paid Vacation",
+        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Now And Forever",
+      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Fanmail",
-        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 278066,
-      "name": "Unpretty",
-      "url": "https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Christina Aguilera (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 273706,
       "name": "I Turn to You",
       "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 278066,
+      "name": "Unpretty",
+      "url": "https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Timeless (The Classics)",
         "url": "https://open.spotify.com/album/7g7nFMPWmFfk70ZvhTs0TT"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 247973,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/4ye6YRG07XMpZZ9Y9tNTt6"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2559,18 +2559,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Candle In The Wind 1997 / Something About ...",
-        "url": "https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ"
+        "name": "Growing, Pains",
+        "url": "https://open.spotify.com/album/6IaZUV9ZMO8Xlya5GHWljz"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Billie Myers",
+          "url": "https://open.spotify.com/artist/2ZqXK2gIDbfE7aOvkNObPW"
         }
       ],
-      "duration_ms": 250106,
-      "name": "Candle In The Wind 1997",
-      "url": "https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU"
+      "duration_ms": 270160,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/4wtHbIS26FOtpjMkaQQ8Zk"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2591,18 +2591,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Growing, Pains",
-        "url": "https://open.spotify.com/album/6IaZUV9ZMO8Xlya5GHWljz"
+        "name": "Candle In The Wind 1997 / Something About ...",
+        "url": "https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ"
       },
       "artists": [
         {
-          "name": "Billie Myers",
-          "url": "https://open.spotify.com/artist/2ZqXK2gIDbfE7aOvkNObPW"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 270160,
-      "name": "Kiss The Rain",
-      "url": "https://open.spotify.com/track/4wtHbIS26FOtpjMkaQQ8Zk"
+      "duration_ms": 250106,
+      "name": "Candle In The Wind 1997",
+      "url": "https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -3031,6 +3031,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 308840,
+      "name": "Something About The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4l4mSq8IKgCMz0q9KFZ7tK"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
       },
@@ -3047,22 +3063,6 @@
       "duration_ms": 291133,
       "name": "Cose della vita (Can't Stop Thinking of You)",
       "url": "https://open.spotify.com/track/63RAhyfI3l2612x8q53BOh"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 308840,
-      "name": "Something About The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4l4mSq8IKgCMz0q9KFZ7tK"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -3199,18 +3199,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+        "name": "Johnny Gill",
+        "url": "https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Johnny Gill",
+          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
         }
       ],
-      "duration_ms": 304933,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
+      "duration_ms": 321906,
+      "name": "My, My, My",
+      "url": "https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -3231,18 +3231,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Johnny Gill",
-        "url": "https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC"
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
       "artists": [
         {
-          "name": "Johnny Gill",
-          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 321906,
-      "name": "My, My, My",
-      "url": "https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI"
+      "duration_ms": 304933,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -3279,18 +3279,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Urban Hymns (Remastered 2016)",
-        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
       },
       "artists": [
         {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
         }
       ],
-      "duration_ms": 293586,
-      "name": "Lucky Man",
-      "url": "https://open.spotify.com/track/0bw1li9y32rw40HGodRShs"
+      "duration_ms": 248400,
+      "name": "These Are The Times",
+      "url": "https://open.spotify.com/track/0OMmiWMwsCNtpQ5aP6fdp9"
     }
   ],
   "unique_name": "Soft 90s",

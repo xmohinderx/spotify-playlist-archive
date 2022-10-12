@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Alu Mix, Yoss Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,178 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,199 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 39 | [Bendición](https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bendición](https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N) | 3:05 |
 | 40 | [Pa´ Mi Casa](https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Pa´ Mi Casa](https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2) | 4:01 |
 | 41 | [Cuándo Será](https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Cuándo Será](https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2) | 2:56 |
-| 42 | [Me Juquie](https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Juquie](https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk) | 2:38 |
-| 43 | [Que Loco Mami](https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Que Loco Mami](https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s) | 2:56 |
+| 42 | [Que Loco Mami](https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Que Loco Mami](https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s) | 2:56 |
+| 43 | [Me Juquie](https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Juquie](https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk) | 2:38 |
 | 44 | [Uno Pal Otro](https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Uno Pal Otro](https://open.spotify.com/album/6GcnRKDXwkH1oCeCA2BnJp) | 3:37 |
 | 45 | [Que a Pasao](https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao](https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo) | 2:05 |
 | 46 | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/album/4vXH6cXYjOKlVr46RjclrF) | 4:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [Duro](https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Duro](https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r) | 3:42 |
 | 60 | [Manzana](https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Manzana](https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70) | 2:53 |
 
-Snapshot ID: `MTY2NDUwNjgwMCwwMDAwMDAwMDUwMjgwOWExNzI1NjYzOGNlNGJjODlhODA2MDA1YTIz`
+Snapshot ID: `MTY2NDUwNjgwMCwwMDAwMDAwMDhlZTA0OTljNmQxMGJkMjRmODkxZGFhY2FiY2M5ZTJj`

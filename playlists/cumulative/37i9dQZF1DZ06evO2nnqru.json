@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 185568,
       "name": "24/7",
       "url": "https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 102816,
       "name": "Como Hueso",
       "url": "https://open.spotify.com/track/7eoxbqx7fRSCj6zjwm6rnk"
@@ -261,6 +261,28 @@
       "duration_ms": 211931,
       "name": "Despegando el Vuelo - En vivo",
       "url": "https://open.spotify.com/track/2MQWeK6zYI6PEN2vYRery3"
+    },
+    {
+      "album": {
+        "name": "Dicen Que Soy B\u00e9lico (En Vivo)",
+        "url": "https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231137,
+      "name": "Dicen Que Soy B\u00e9lico (En Vivo)",
+      "url": "https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL"
     },
     {
       "album": {
@@ -445,7 +467,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 229000,
       "name": "El Velador",
       "url": "https://open.spotify.com/track/1bnM75H69llLIWrazZwKty"

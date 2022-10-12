@@ -118,6 +118,24 @@
     },
     {
       "album": {
+        "name": "Koning Met Principes",
+        "url": "https://open.spotify.com/album/4u9j22MWqT44ICoxWoV9nc"
+      },
+      "artists": [
+        {
+          "name": "Freddie Konings",
+          "url": "https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166633,
+      "name": "Air Max",
+      "url": "https://open.spotify.com/track/5G65Qm4RBZM7VzsiP8tZ0P"
+    },
+    {
+      "album": {
         "name": "Allez Allez",
         "url": "https://open.spotify.com/album/0s2RgOo6slU8PkcfuoRaox"
       },

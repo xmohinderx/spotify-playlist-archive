@@ -1,12 +1,12 @@
 {
-  "description": "A classic mix of pop, rock and folk hits from decades past.",
-  "num_followers": 873766,
+  "description": "A classic mix of pop, rock and folk hits from decades past. Cover: Loggins and Messina",
+  "num_followers": 873822,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgxMjE4MSwwMDAwMDAwMDMxYWViMGNlNmRiMDgxYzY4NjFlNjg3NjAwNjA4OWRk",
+  "snapshot_id": "MTY2NTUxMTc5MCwwMDAwMDAwMDg2YzFjYmMwZTIwOTFjYzNiOThhNGFhNjhiMzRlYzZi",
   "tracks": [
     {
       "added_at": "2021-01-06 18:39:03",
@@ -23,22 +23,6 @@
       "duration_ms": 140773,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
-    },
-    {
-      "added_at": "2022-10-03 15:49:41",
-      "album": {
-        "name": "Loggins And Messina",
-        "url": "https://open.spotify.com/album/2UtqNZCMk90EiIl13RsUgK"
-      },
-      "artists": [
-        {
-          "name": "Loggins & Messina",
-          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "Your Mama Don't Dance",
-      "url": "https://open.spotify.com/track/36oetAab3pKoxcKuFhvSVo"
     },
     {
       "added_at": "2021-12-14 20:07:58",
@@ -71,6 +55,22 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2022-10-03 15:49:41",
+      "album": {
+        "name": "Loggins And Messina",
+        "url": "https://open.spotify.com/album/2UtqNZCMk90EiIl13RsUgK"
+      },
+      "artists": [
+        {
+          "name": "Loggins & Messina",
+          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "Your Mama Don't Dance",
+      "url": "https://open.spotify.com/track/36oetAab3pKoxcKuFhvSVo"
     },
     {
       "added_at": "2021-01-06 18:39:03",

@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-321 songs - 20 hr 30 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+323 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Infinite Love](https://open.spotify.com/track/05TyTjyZ4mouBU8W4hSY5s) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Infinite Love](https://open.spotify.com/album/7hSXgTzVsJpbbYYAPLPi9f) | 4:11 | 2022-06-28 |  |
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2022-06-28 |  |
 | [Isfahan](https://open.spotify.com/track/4t3Dtmfpj7jTZurwtJVQg5) | [Lauren Richardson](https://open.spotify.com/artist/22cERTGpksi71aIOeGVYf6) | [A Flower is a Lonesome Thing](https://open.spotify.com/album/1lyGazJswD2YoFvtE2hSCV) | 3:42 | 2022-06-28 | 2022-10-08 |
-| [Isn't It Romantic](https://open.spotify.com/track/2loBTwDUEtNRAegOGqppeu) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Isn't It Romantic](https://open.spotify.com/album/0sj3CpTeCWPE72SO0Yp26c) | 4:11 | 2022-06-28 |  |
+| [Isn't It Romantic](https://open.spotify.com/track/2loBTwDUEtNRAegOGqppeu) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Isn't It Romantic](https://open.spotify.com/album/0sj3CpTeCWPE72SO0Yp26c) | 4:11 | 2022-06-28 | 2022-10-12 |
 | [It Could Happen To You](https://open.spotify.com/track/6H7Gxcz5HDeuPjrmiJG9KR) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [It Could Happen To You](https://open.spotify.com/album/53e911it8lcwlOLCAPuNVa) | 3:30 | 2022-08-30 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-06-28 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 | 2022-06-28 |  |
@@ -165,7 +165,7 @@
 | [Laike](https://open.spotify.com/track/6tsxr5sJbe2iDq9VAcAcnu) | [Petter Bergander Trio](https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2) | [Kierkegaard's Waltz](https://open.spotify.com/album/2xwCjVaMRUCPGLMglXOaIs) | 5:54 | 2022-09-21 | 2022-10-02 |
 | [Lament](https://open.spotify.com/track/3HeycjEKlBwsSyAm78dle6) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Lament](https://open.spotify.com/album/42sHzP8X3IDIZLdIQem4b7) | 2:55 | 2022-06-28 |  |
 | [Landing](https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Landing](https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ) | 3:01 | 2022-06-28 | 2022-10-08 |
-| [Last Dance](https://open.spotify.com/track/7Jz9FKIbjpFvql18j77cpy) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Because of You](https://open.spotify.com/album/6uQ1qKqno2zGaeBrBwqZJA) | 3:56 | 2022-06-28 |  |
+| [Last Dance](https://open.spotify.com/track/7Jz9FKIbjpFvql18j77cpy) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Because of You](https://open.spotify.com/album/6uQ1qKqno2zGaeBrBwqZJA) | 3:56 | 2022-06-28 | 2022-10-12 |
 | [Last Dance](https://open.spotify.com/track/45KFIbVRCAfxYzOogbaRPx) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Waltz At Midnight](https://open.spotify.com/album/2qKhcF6JaeTuNcr1uzrcY8) | 3:28 | 2022-06-28 | 2022-10-08 |
 | [Laura](https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Laura](https://open.spotify.com/album/53Vz2jcWzo7abWsSzjBWrj) | 4:04 | 2022-08-30 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2022-06-28 | 2022-10-08 |
@@ -212,6 +212,7 @@
 | [New Shoes](https://open.spotify.com/track/1CsB9h88MSlYaQGzDTX9Al) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 3:56 | 2022-09-29 |  |
 | [Next Door Dreaming](https://open.spotify.com/track/7efC0wMGzDX0nsZX1dQodO) | [Rob Kasaki](https://open.spotify.com/artist/41EpNGSsN3YUU0KhLhJ7Uh) | [Next Door Dreaming](https://open.spotify.com/album/27GlvAjgPmmgXpZUBiYWjS) | 2:18 | 2022-06-28 | 2022-10-08 |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-06-28 |  |
+| [Nimble](https://open.spotify.com/track/1zu9xkOabMyxkXvGutY0Tf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Nimble](https://open.spotify.com/album/3TMKIfoKOKUfjOojRwV32p) | 3:33 | 2022-10-07 |  |
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-06-28 |  |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-28 |  |
 | [Nuages ​​Creux](https://open.spotify.com/track/4Bv9PjhIhp2sQE4S7dEAxR) | [Lydia Baskow Trio](https://open.spotify.com/artist/1F8NZ8jILDmCFgCaWA2FP8) | [Nuages ​​Creux](https://open.spotify.com/album/748FmeoAqlCY5Vu3fKXq8C) | 2:37 | 2022-06-28 |  |
@@ -278,6 +279,7 @@
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2022-06-28 |  |
 | [Stormy Weather](https://open.spotify.com/track/1S34dvZPhsw0gIevtZrc0A) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Stormy Weather](https://open.spotify.com/album/1kLUIm38l7rUPoXJNe2ShN) | 3:12 | 2022-08-30 |  |
 | [Stuck In Time](https://open.spotify.com/track/47Wjs9Ju6TV4qo6IGv38hZ) | [Downstairs Jazz Band](https://open.spotify.com/artist/4aidC4RMKWtzHd6PKRBMfv) | [Little Branch](https://open.spotify.com/album/0LKmJAfHO1k8nkCBJbM5oJ) | 4:30 | 2022-06-28 | 2022-10-08 |
+| [Sweet And Lovely](https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Sweet And Lovely](https://open.spotify.com/album/5lyuMvNyS4lbRByuICf61I) | 3:04 | 2022-10-07 |  |
 | [Swivel Around Me](https://open.spotify.com/track/6pNCr9TVxcgqqYHhhAjnPF) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Swivel Around Me](https://open.spotify.com/album/2R6oGbDB1jcRbpm2hPjKPc) | 2:50 | 2022-08-30 |  |
 | [Tell Me](https://open.spotify.com/track/05VtTtYxedMwnMJiysMpJW) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me](https://open.spotify.com/album/7wul9iPUYQoZPR9ekVcxAa) | 4:24 | 2022-06-28 |  |
 | [That´s All](https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [That´s All](https://open.spotify.com/album/07jtuEoMDVUHQLvXs3IoFN) | 3:16 | 2022-08-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Charlie Puth",
-  "num_followers": 157209,
+  "num_followers": 157241,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTYxNCwwMDAwMDAwMDM4NDk3MTMwOTJkYWVlZTAzYTg4OTk3NDM4OGVmYmM4",
+  "snapshot_id": "MTY2NTExNTYxNCwwMDAwMDAwMDViNzRmODEzNmI0ZGZiNjI3ZjIzNzI1ZDdlNDdlNjZj",
   "tracks": [
     {
       "added_at": "2022-10-06 17:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-10-06 17:00:00",
       "album": {
+        "name": "Suzie",
+        "url": "https://open.spotify.com/album/6uAV69hWf44gJa8BcLKZFm"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Suzie",
+      "url": "https://open.spotify.com/track/7KzZ1f667FYKudSIst9paz"
+    },
+    {
+      "added_at": "2022-10-06 17:00:00",
+      "album": {
         "name": "I Think My Mind Has Made Its Mind Up",
         "url": "https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z"
       },
@@ -1624,7 +1640,7 @@
       },
       "artists": [
         {
-          "name": "The Golden Dregs",
+          "name": "the GOLDEN DREGS",
           "url": "https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d"
         }
       ],

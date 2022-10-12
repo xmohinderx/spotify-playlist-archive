@@ -4,7 +4,7 @@
 
 > The songs that defined Nigeria's Alté era
 
-80 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/4AfobrCRq8eWikHPvogUQe)
+81 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/4AfobrCRq8eWikHPvogUQe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Soul \(feat\. AYLØ\)](https://open.spotify.com/track/32BLhQL6TfaEiWNRjt0jEB) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0), [DoZ'](https://open.spotify.com/artist/3L1cxnmsG2eh8lzfx8Ynbr), [Aylo](https://open.spotify.com/artist/0GHv9SSbui0TC7ij4fiM0I) | [Soul \(feat\. AYLØ\)](https://open.spotify.com/album/1mHHHY9Olzc5tZeG9mDO5H) | 3:38 | 2022-07-27 |  |
 | [SPACE](https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 3:13 | 2022-07-27 |  |
 | [Sparky](https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 2:24 | 2022-07-27 |  |
-| [Squad](https://open.spotify.com/track/3S99N747IJomX6CrZHZ9ho) | [Idris King](https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1) | [Cruise](https://open.spotify.com/album/4ueg8Xn74iH3sY4MRc7MYJ) | 3:12 | 2022-07-27 |  |
+| [Squad](https://open.spotify.com/track/1J3W4aYJO2d3C90rnkX2gD) | [Idris King](https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1) | [Squad](https://open.spotify.com/album/5JkLkqbbeXbSTbI0XA9XBA) | 3:12 | 2022-07-27 |  |
+| [Squad](https://open.spotify.com/track/3S99N747IJomX6CrZHZ9ho) | [Idris King](https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1) | [Cruise](https://open.spotify.com/album/4ueg8Xn74iH3sY4MRc7MYJ) | 3:12 | 2022-07-27 | 2022-10-12 |
 | [star signs](https://open.spotify.com/track/26AI33STXsKwtuV9hmzDPG) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Runtown](https://open.spotify.com/artist/4hg9bMurq8TvayGHYk9Mid) | [rare.](https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48) | 2:59 | 2022-07-27 |  |
 | [Steal A Dime](https://open.spotify.com/track/3Znf3C6S38qnVfFKvmNQBP) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Suzie's Funeral](https://open.spotify.com/album/22WXPfyPwdYZKOa59009Cc) | 3:20 | 2022-07-27 |  |
 | [Still II](https://open.spotify.com/track/6p3Ze7kZRPSAX8moYolJil) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/6c9KUWjLyQ8yxB9wGnbxfX) | 2:09 | 2022-07-27 |  |

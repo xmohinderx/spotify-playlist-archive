@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-283 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+284 songs - 16 hr 38 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Northern Lights](https://open.spotify.com/track/2Z7mgegx1cKi8UoMOFHEIl) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Northern Lights](https://open.spotify.com/album/7sVsz8n71bg6rA1uON2DzU) | 3:06 | 2022-06-21 | 2022-09-07 |
 | [Numb](https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Numb](https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT) | 3:45 | 2022-05-02 | 2022-07-13 |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-02 | 2022-08-13 |
+| [October](https://open.spotify.com/track/3dI7bW8OnWBUCCeBNwQ08J) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [October](https://open.spotify.com/album/1qPdose5MyZE37xgnGKz1e) | 2:38 | 2022-10-11 |  |
 | [On The Beach](https://open.spotify.com/track/4I9lRMeXjpHClXcwXRi1nF) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [On The Beach](https://open.spotify.com/album/7CPGdJK8NmryBMVN78m7QY) | 3:12 | 2022-07-27 | 2022-10-08 |
 | [Once Upon A World](https://open.spotify.com/track/0OsxgJTV7hlPz6AkSW2Luz) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Once Upon A World](https://open.spotify.com/album/4mw0Q07pxSpQEmS7QuOBRy) | 3:27 | 2022-08-31 |  |
 | [Only Wide Open Space And Me](https://open.spotify.com/track/3g2vHR1LE5Buctsm2pLQdb) | [Andromedha](https://open.spotify.com/artist/1naIVJt93vo4NJ3UHT6O8q) | [Only Wide Open Space And Me](https://open.spotify.com/album/1wGPEIf0MeTsULFOwbT9zx) | 4:19 | 2022-07-20 | 2022-10-01 |

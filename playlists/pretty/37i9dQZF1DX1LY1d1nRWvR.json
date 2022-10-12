@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 23506,
+  "num_followers": 23511,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGJiYWU2Y2VmOTA5Y2E2NTg1MDVkYjM5M2MzYWIwMWM5",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGUwNjBkYjEwN2U3ZWVmM2JmY2RlNmRkMDdkNWZlNjJj",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -303,6 +303,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Make This Right",
+        "url": "https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7"
+      },
+      "artists": [
+        {
+          "name": "Ruf Dug",
+          "url": "https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T"
+        },
+        {
+          "name": "Lovescene",
+          "url": "https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Make This Right - Radio Edit",
+      "url": "https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "When You Focus On The Good The Good Gets Better",
         "url": "https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm"
       },
@@ -339,22 +359,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 376960,
-      "name": "Bamboo",
-      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Cleo",
         "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
       },
@@ -371,22 +375,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Make This Right",
-        "url": "https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
       },
       "artists": [
         {
-          "name": "Ruf Dug",
-          "url": "https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T"
-        },
-        {
-          "name": "Lovescene",
-          "url": "https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk"
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Make This Right - Radio Edit",
-      "url": "https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N"
+      "duration_ms": 376960,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Black Dragon Loop",
-        "url": "https://open.spotify.com/album/45Kc4Hj3SqBO5yXPnioU71"
-      },
-      "artists": [
-        {
-          "name": "FYI Chris",
-          "url": "https://open.spotify.com/artist/0wZeO8kuM4dYiraesOH282"
-        }
-      ],
-      "duration_ms": 307360,
-      "name": "Youth Jazz",
-      "url": "https://open.spotify.com/track/7AhZqOQ976CkrBYXCDdsyU"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Black Dragon Loop",
+        "url": "https://open.spotify.com/album/45Kc4Hj3SqBO5yXPnioU71"
+      },
+      "artists": [
+        {
+          "name": "FYI Chris",
+          "url": "https://open.spotify.com/artist/0wZeO8kuM4dYiraesOH282"
+        }
+      ],
+      "duration_ms": 307360,
+      "name": "Youth Jazz",
+      "url": "https://open.spotify.com/track/7AhZqOQ976CkrBYXCDdsyU"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Nubya's 5ive",
         "url": "https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4"
       },
@@ -547,26 +547,6 @@
       "duration_ms": 458605,
       "name": "Lost Kingdoms",
       "url": "https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Buya",
-        "url": "https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Toshi",
-          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
-        }
-      ],
-      "duration_ms": 464182,
-      "name": "Buya - Da Capo Remix",
-      "url": "https://open.spotify.com/track/30zadVexkV6pkLCt2x0YAB"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -595,18 +575,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+        "name": "Buya",
+        "url": "https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C"
       },
       "artists": [
         {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
         }
       ],
-      "duration_ms": 346361,
-      "name": "Aletheia",
-      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
+      "duration_ms": 464182,
+      "name": "Buya - Da Capo Remix",
+      "url": "https://open.spotify.com/track/30zadVexkV6pkLCt2x0YAB"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -623,6 +607,22 @@
       "duration_ms": 235803,
       "name": "Yardley Suite",
       "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 346361,
+      "name": "Aletheia",
+      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -775,6 +775,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Straight Line (Remixed)",
+        "url": "https://open.spotify.com/album/3IwjqbAEILvfrRJptM17L1"
+      },
+      "artists": [
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        },
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 376489,
+      "name": "Straight Line - Neil Cowley Remix",
+      "url": "https://open.spotify.com/track/1NEl4CQVJNuNpROFX89Tfl"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Side Street",
         "url": "https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU"
       },
@@ -807,22 +827,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Straight Line (Remixed)",
-        "url": "https://open.spotify.com/album/3IwjqbAEILvfrRJptM17L1"
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/6hS7OvK64BDDcg4AiGHODg"
       },
       "artists": [
         {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        },
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
         }
       ],
-      "duration_ms": 376489,
-      "name": "Straight Line - Neil Cowley Remix",
-      "url": "https://open.spotify.com/track/1NEl4CQVJNuNpROFX89Tfl"
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -843,18 +859,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/6hS7OvK64BDDcg4AiGHODg"
+        "name": "See-Line Woman",
+        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
       },
       "artists": [
         {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb"
+      "duration_ms": 226000,
+      "name": "See-Line Woman - Main Mix",
+      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -875,26 +895,6 @@
       "duration_ms": 267520,
       "name": "Mind",
       "url": "https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "See-Line Woman",
-        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
-      },
-      "artists": [
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "See-Line Woman - Main Mix",
-      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
     },
     {
       "added_at": "2021-10-08 17:36:35",

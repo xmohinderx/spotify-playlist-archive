@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gilberto Santa Rosa",
-  "num_followers": 1786785,
+  "num_followers": 1786963,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMGZiMjYyYTNlYTViMGM1ZTVhZmQyMDdlZTlhYTEwNDZj",
+  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMGE2OTI4YmZjNzEwYjc0NzUzMGRiYzk3NTIyMjZjOTEw",
   "tracks": [
     {
       "added_at": "2022-09-09 15:09:32",
@@ -163,22 +163,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 306453,
-      "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
+      "duration_ms": 308040,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -215,18 +211,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 308040,
-      "name": "Que Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
+      "duration_ms": 306453,
+      "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Pa' Bravo Yo",
-        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
-      },
-      "artists": [
-        {
-          "name": "Justo Betancourt",
-          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Pa' Bravo Yo",
-      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Bueno y M\u00e1s",
         "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 270863,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Pa' Bravo Yo",
+        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
+      },
+      "artists": [
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Pa' Bravo Yo",
+      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Cartas Sobre La Mesa",
-        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 191081,
-      "name": "Cartas Sobre La Mesa",
-      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Aut\u00e9ntico",
         "url": "https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 279080,
       "name": "El Amor de Mi Vida \"Se Fue\"",
       "url": "https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Cartas Sobre La Mesa",
+        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 191081,
+      "name": "Cartas Sobre La Mesa",
+      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Es por Ti",
-        "url": "https://open.spotify.com/album/3jRMh7EFk5BXNdVwPfd9Et"
+        "name": "Oro Salsero (Vol 2)",
+        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
       },
       "artists": [
         {
-          "name": "Stay Homas",
-          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 184690,
-      "name": "Es por Ti",
-      "url": "https://open.spotify.com/track/0g09E1yhLVHS7R57vxhlEM"
+      "duration_ms": 298546,
+      "name": "T\u00fa Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1299,18 +1295,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Oro Salsero (Vol 2)",
-        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
+        "name": "Es por Ti",
+        "url": "https://open.spotify.com/album/3jRMh7EFk5BXNdVwPfd9Et"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Stay Homas",
+          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 298546,
-      "name": "T\u00fa Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
+      "duration_ms": 184690,
+      "name": "Es por Ti",
+      "url": "https://open.spotify.com/track/0g09E1yhLVHS7R57vxhlEM"
     },
     {
       "added_at": "2022-09-09 15:09:32",

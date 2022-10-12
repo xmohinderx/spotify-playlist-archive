@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 35498,
+  "num_followers": 35541,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDEwZmM4NWI3NzA2YzRkODZjMjc5MmEyNWJiNmRhOGFh",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDllNjYzYThkM2RhZGQwNWIyMmJkZGFhYzcxZWNkMzAx",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/5z0fXBlI6jsmUVdgRg9yIg"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "New York Is Now",
-        "url": "https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy"
-      },
-      "artists": [
-        {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
-        }
-      ],
-      "duration_ms": 378666,
-      "name": "Round Trip",
-      "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Bold Dream",
@@ -379,6 +363,22 @@
       "duration_ms": 372440,
       "name": "Bold Dream",
       "url": "https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "New York Is Now",
+        "url": "https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "duration_ms": 378666,
+      "name": "Round Trip",
+      "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
     },
     {
       "added_at": "2020-12-04 05:02:00",
@@ -535,6 +535,38 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "Prometheus",
+        "url": "https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw"
+      },
+      "artists": [
+        {
+          "name": "Dejan Terzic",
+          "url": "https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065"
+        },
+        {
+          "name": "Axiom",
+          "url": "https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS"
+        },
+        {
+          "name": "Chris Speed",
+          "url": "https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
+        },
+        {
+          "name": "Bojan Zulfikarpa\u0161i\u0107",
+          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
+        }
+      ],
+      "duration_ms": 334762,
+      "name": "Prometheus",
+      "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "Poetry in Motion",
         "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
       },
@@ -547,6 +579,30 @@
       "duration_ms": 258333,
       "name": "The Path",
       "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
+    },
+    {
+      "added_at": "2020-10-02 04:02:00",
+      "album": {
+        "name": "On Common Ground",
+        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
+      },
+      "artists": [
+        {
+          "name": "Mike Sopko",
+          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
+        },
+        {
+          "name": "Bill Laswell",
+          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
+        },
+        {
+          "name": "Tyshawn Sorey",
+          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
+        }
+      ],
+      "duration_ms": 476000,
+      "name": "Equation",
+      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -581,62 +637,6 @@
       "url": "https://open.spotify.com/track/6InYwlWA5QCUv71aYTMyZE"
     },
     {
-      "added_at": "2020-10-02 04:02:00",
-      "album": {
-        "name": "On Common Ground",
-        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
-      },
-      "artists": [
-        {
-          "name": "Mike Sopko",
-          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
-        },
-        {
-          "name": "Bill Laswell",
-          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
-        },
-        {
-          "name": "Tyshawn Sorey",
-          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
-        }
-      ],
-      "duration_ms": 476000,
-      "name": "Equation",
-      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Prometheus",
-        "url": "https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw"
-      },
-      "artists": [
-        {
-          "name": "Dejan Terzic",
-          "url": "https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065"
-        },
-        {
-          "name": "Axiom",
-          "url": "https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS"
-        },
-        {
-          "name": "Chris Speed",
-          "url": "https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO"
-        },
-        {
-          "name": "Matt Penman",
-          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
-        },
-        {
-          "name": "Bojan Zulfikarpa\u0161i\u0107",
-          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
-        }
-      ],
-      "duration_ms": 334762,
-      "name": "Prometheus",
-      "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Four For Trane",
@@ -655,6 +655,22 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "Argonautica",
+        "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
+      },
+      "artists": [
+        {
+          "name": "Nate Wooley",
+          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
+        }
+      ],
+      "duration_ms": 2573175,
+      "name": "Argonautica",
+      "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "Translinear Light",
         "url": "https://open.spotify.com/album/3lJXKLvs6ZZrBDgje4cx8B"
       },
@@ -669,20 +685,32 @@
       "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2021-01-29 05:01:00",
       "album": {
-        "name": "Argonautica",
-        "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
+        "name": "Ars Transmutatoria Bleu",
+        "url": "https://open.spotify.com/album/7JN9wfjViqGbhNXLDoQHIB"
       },
       "artists": [
         {
-          "name": "Nate Wooley",
-          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
+          "name": "Michel Lambert",
+          "url": "https://open.spotify.com/artist/6wFJMSmNda7ijEwiKkEinm"
+        },
+        {
+          "name": "Adrian Northover",
+          "url": "https://open.spotify.com/artist/6tvX3XArnkloqYWpKpfipR"
+        },
+        {
+          "name": "Susanna Ferrar",
+          "url": "https://open.spotify.com/artist/41czcSnPZdIJlkGfkYcfm3"
+        },
+        {
+          "name": "Hyelim Kim",
+          "url": "https://open.spotify.com/artist/5Pct3KTj2tVIwsBu6Vtxeq"
         }
       ],
-      "duration_ms": 2573175,
-      "name": "Argonautica",
-      "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
+      "duration_ms": 335256,
+      "name": "Haie d'eau II",
+      "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -725,34 +753,6 @@
       "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
     },
     {
-      "added_at": "2021-01-29 05:01:00",
-      "album": {
-        "name": "Ars Transmutatoria Bleu",
-        "url": "https://open.spotify.com/album/7JN9wfjViqGbhNXLDoQHIB"
-      },
-      "artists": [
-        {
-          "name": "Michel Lambert",
-          "url": "https://open.spotify.com/artist/6wFJMSmNda7ijEwiKkEinm"
-        },
-        {
-          "name": "Adrian Northover",
-          "url": "https://open.spotify.com/artist/6tvX3XArnkloqYWpKpfipR"
-        },
-        {
-          "name": "Susanna Ferrar",
-          "url": "https://open.spotify.com/artist/41czcSnPZdIJlkGfkYcfm3"
-        },
-        {
-          "name": "Hyelim Kim",
-          "url": "https://open.spotify.com/artist/5Pct3KTj2tVIwsBu6Vtxeq"
-        }
-      ],
-      "duration_ms": 335256,
-      "name": "Haie d'eau II",
-      "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Random Dances and (A)tonalities",
@@ -771,6 +771,26 @@
       "duration_ms": 344640,
       "name": "Joe Btfsplk",
       "url": "https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Old Stories",
+        "url": "https://open.spotify.com/album/6UqK3CSEE52UwtK2e9JQPc"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
+        },
+        {
+          "name": "Chad Fowler",
+          "url": "https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj"
+        }
+      ],
+      "duration_ms": 374688,
+      "name": "Chapter I",
+      "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -795,26 +815,6 @@
       "duration_ms": 227346,
       "name": "Shudder to Think",
       "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Old Stories",
-        "url": "https://open.spotify.com/album/6UqK3CSEE52UwtK2e9JQPc"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
-        },
-        {
-          "name": "Chad Fowler",
-          "url": "https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj"
-        }
-      ],
-      "duration_ms": 374688,
-      "name": "Chapter I",
-      "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl"
-      },
-      "artists": [
-        {
-          "name": "Rob Mazurek",
-          "url": "https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs"
-        }
-      ],
-      "duration_ms": 563400,
-      "name": "Twombly at New Church",
-      "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "The Dorothy Wallace Suite",
         "url": "https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl"
+      },
+      "artists": [
+        {
+          "name": "Rob Mazurek",
+          "url": "https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs"
+        }
+      ],
+      "duration_ms": 563400,
+      "name": "Twombly at New Church",
+      "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "Albert Mangelsdorff and His Friends",
         "url": "https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k"
       },
@@ -947,46 +947,26 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Captain Black",
-        "url": "https://open.spotify.com/album/6Y9L6mLq2dhTWWDx9CNEGX"
+        "name": "Morph",
+        "url": "https://open.spotify.com/album/2CntvAcghtXnF36M3dmwKe"
       },
       "artists": [
         {
-          "name": "Orrin Evans",
-          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
+          "name": "Whit Dickey",
+          "url": "https://open.spotify.com/artist/5SJsxqLDqgiO1Mvi5rJxRo"
         },
         {
-          "name": "Ralph Bowen",
-          "url": "https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX"
+          "name": "Nate Wooley",
+          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
         },
         {
-          "name": "Tim Warfield",
-          "url": "https://open.spotify.com/artist/6HliM51Oq8IMwZKXQbJr7v"
-        },
-        {
-          "name": "Antonio Hart",
-          "url": "https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA"
-        },
-        {
-          "name": "Sam Newsome",
-          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
-        },
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
-        },
-        {
-          "name": "Rodney Whitaker",
-          "url": "https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv"
-        },
-        {
-          "name": "Ralph Peterson",
-          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
         }
       ],
-      "duration_ms": 468600,
-      "name": "Explain It To Me",
-      "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
+      "duration_ms": 210440,
+      "name": "Blue Threads",
+      "url": "https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY"
     }
   ],
   "unique_name": "Avant-Jazz",

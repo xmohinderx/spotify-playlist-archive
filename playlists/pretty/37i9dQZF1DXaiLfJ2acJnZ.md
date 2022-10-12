@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,984 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,990 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 61 | [I Just Wanna \(feat\. Bow Anderson\)](https://open.spotify.com/track/1cVQmBnSLjhWB67iqAXYZZ) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [I Just Wanna \(feat\. Bow Anderson\)](https://open.spotify.com/album/1IyHQhcn2u53scCz3w8HsS) | 2:39 |
 | 62 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
 | 63 | [Green Grass](https://open.spotify.com/track/7kIDMuaQ1JNJuEWjKLMLhM) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Green Grass](https://open.spotify.com/album/7aCF5YOCtZYyiJOnrK4ESH) | 3:05 |
-| 64 | [everything](https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [everything](https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt) | 2:52 |
+| 64 | [Godlight](https://open.spotify.com/track/3t42QATkLwV44TjezAuOnt) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Godlight](https://open.spotify.com/album/5EDTEEhMBHthUxOIYmXN5N) | 4:07 |
 | 65 | [Stormy Skies \(Diamonds\)](https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Stormy Skies \(Diamonds\)](https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv) | 3:33 |
-| 66 | [Godlight](https://open.spotify.com/track/3t42QATkLwV44TjezAuOnt) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Godlight](https://open.spotify.com/album/5EDTEEhMBHthUxOIYmXN5N) | 4:07 |
+| 66 | [everything](https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [everything](https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt) | 2:52 |
 | 67 | [Sister Ray](https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Sister Ray](https://open.spotify.com/album/1hvYAoC2BdhbvLwj0EIADJ) | 3:39 |
 | 68 | [The Sun’s Gonna Rise](https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [The Sun’s Gonna Rise](https://open.spotify.com/album/0E6xJ4XfgiqiassmXiS7IK) | 3:28 |
 | 69 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [Never Get It Right](https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi) | [Never Get It Right](https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe) | 3:20 |
 | 80 | [One of Those Days](https://open.spotify.com/track/1Ircz8F9jlgC59clzg28Tu) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [One Of Those Days](https://open.spotify.com/album/7LvYLEwoGiAJfb6vvq90Py) | 3:28 |
 
-Snapshot ID: `MTY2Mzk1NDM4OSwwMDAwMDAwMGY2MTQyMzk1MGE3MjMzNGY2OTE5ZTRiMDc5YjAxNzAx`
+Snapshot ID: `MTY2Mzk1NDM4OSwwMDAwMDAwMDFhMjE2MWNhOWMxODMxN2FjOWMxNTczNDVkY2JiNTA2`

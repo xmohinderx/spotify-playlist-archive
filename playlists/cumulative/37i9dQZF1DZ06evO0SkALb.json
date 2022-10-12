@@ -27,7 +27,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "(They Call It) Stormy Monday",
       "url": "https://open.spotify.com/track/2crEiBgrvX5Etv2E8yCysO"
@@ -366,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232346,
+      "name": "I Go Crazy",
+      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
+    },
+    {
+      "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
@@ -377,7 +395,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 207320,
       "name": "I Wish It Were Yesterday",
       "url": "https://open.spotify.com/track/54lpLkeJoX4Aai5JdgJnIB"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 215240,
       "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
       "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 476266,
       "name": "Southside Blues/Tobacco Road - Live/Medley",
       "url": "https://open.spotify.com/track/7E7IVQTT08vYalrSXXQajt"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 214560,
       "name": "Summertime - 2006 Remaster",
       "url": "https://open.spotify.com/track/1c8bdqWBc4SohLTuPX4Hge"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 305053,
       "name": "This Song Will Last Forever",
       "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 120986,
       "name": "Unforgettable - Live",
       "url": "https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8"
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 317506,
       "name": "You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening - Live",
       "url": "https://open.spotify.com/track/6ANn9X1Fi3w1xcWdxBQMHZ"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 318213,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD"

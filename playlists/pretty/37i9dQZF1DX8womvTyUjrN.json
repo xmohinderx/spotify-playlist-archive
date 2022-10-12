@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Justin Quiles & Carin Leon.",
-  "num_followers": 261704,
+  "num_followers": 261793,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1ODI4MiwwMDAwMDAwMDhjMjIzYzUxZGE2YmQ2ZWVmM2M1OGU0ODE0MDg4MDRj",
+  "snapshot_id": "MTY2NTE1ODI4MiwwMDAwMDAwMGMzNjc1MTBiMjFjODZiZjJjZTA5NGUyNDZlNjM5YjE2",
   "tracks": [
     {
       "added_at": "2022-10-07 15:58:02",
@@ -843,30 +843,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Cuando Te Veo",
-        "url": "https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5"
-      },
-      "artists": [
-        {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 199468,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Trepado",
         "url": "https://open.spotify.com/album/49YhDMBAxaoaQl1I2kvuCz"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 226626,
       "name": "YA NO",
       "url": "https://open.spotify.com/track/2ubOm8LStEhv4CEiIOk01F"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Cuando Te Veo",
+        "url": "https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5"
+      },
+      "artists": [
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 199468,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 191601,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/45wQICCratOjNmYPttJAHO"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "J*DER",
         "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 127661,
       "name": "J*DER",
       "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 191601,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/45wQICCratOjNmYPttJAHO"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
+        "name": "Freno",
+        "url": "https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 214173,
+      "name": "Freno",
+      "url": "https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
         "name": "Eso Que Ten\u00e9s",
         "url": "https://open.spotify.com/album/1pxZEhOLNWgKYgCUUqOjSZ"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 164412,
       "name": "Eso Que Ten\u00e9s",
       "url": "https://open.spotify.com/track/48Qj2SZJpEJ9ToXwcyJBhC"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
-        "name": "estereotipo",
-        "url": "https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n"
-      },
-      "artists": [
-        {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
-        }
-      ],
-      "duration_ms": 174825,
-      "name": "estereotipo",
-      "url": "https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Freno",
-        "url": "https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd"
+        "name": "estereotipo",
+        "url": "https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n"
       },
       "artists": [
         {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
         }
       ],
-      "duration_ms": 214173,
-      "name": "Freno",
-      "url": "https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb"
+      "duration_ms": 174825,
+      "name": "estereotipo",
+      "url": "https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u"
     },
     {
       "added_at": "2022-10-07 15:58:02",

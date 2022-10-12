@@ -1,12 +1,12 @@
 {
   "description": "La carica giusta per i tuoi allenamenti!",
-  "num_followers": 281415,
+  "num_followers": 281532,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM5Mjg2MywwMDAwMDAwMGNkNjUzMThlZmM5ODc0ZmMzNjJhZTRhNThhYWM0YmRj",
+  "snapshot_id": "MTY2NTM5Mjg2MywwMDAwMDAwMGYwMjk4NzA0N2IyNzllMjFhNjg2ZDc1ZmE1Nzc0MDg3",
   "tracks": [
     {
       "added_at": "2022-09-28 08:27:51",
@@ -713,6 +713,26 @@
       "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
     },
     {
+      "added_at": "2022-10-12 01:39:07",
+      "album": {
+        "name": "c@ra++ere s?ec!@le",
+        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "duration_ms": 212920,
+      "name": "c!ao (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6"
+    },
+    {
       "added_at": "2022-09-28 08:27:51",
       "album": {
         "name": "Certified Hitmaker",
@@ -753,26 +773,6 @@
       "url": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv"
     },
     {
-      "added_at": "2022-10-11 01:24:54",
-      "album": {
-        "name": "c@ra++ere s?ec!@le",
-        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        }
-      ],
-      "duration_ms": 212920,
-      "name": "c!ao (feat. Rondodasosa)",
-      "url": "https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6"
-    },
-    {
       "added_at": "2022-09-28 08:27:51",
       "album": {
         "name": "Featuring Ty Dolla $ign",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-09-28 08:27:51",
       "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Auto tedesca",
-      "url": "https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy"
-    },
-    {
-      "added_at": "2022-09-28 08:27:51",
-      "album": {
         "name": "Body Head Bangerz, Vol. 1",
         "url": "https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 214400,
       "name": "Can't Be Touched (feat. Mr. Magic & Trouble)",
       "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K"
+    },
+    {
+      "added_at": "2022-09-28 08:27:51",
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Auto tedesca",
+      "url": "https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy"
     },
     {
       "added_at": "2022-09-28 08:27:51",

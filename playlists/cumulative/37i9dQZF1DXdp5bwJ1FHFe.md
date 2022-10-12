@@ -4,7 +4,7 @@
 
 > Relaxing rain sounds for sleepy babies.
 
-235 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/1CixQdDdegNM9gkFeoMyAJ)
+236 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/1CixQdDdegNM9gkFeoMyAJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [Steady Rain](https://open.spotify.com/track/6YpIyuy5IjnTkDaaz5jJoF) | [Sleep Tight](https://open.spotify.com/artist/4t1OPRfTxUOhrGDtEN43dT) | [Steady Rain](https://open.spotify.com/album/1XmE9ZasnRE2AJjFlxzIRm) | 2:02 | 2022-04-07 |  |
 | [Steady Raining](https://open.spotify.com/track/6dVunPstQ12APTl3RivTIA) | [Bentline Peak](https://open.spotify.com/artist/6yOhpo1p2KSnaMAvHK6jo6) | [Chill Rain](https://open.spotify.com/album/2wWqahCeI8l1ZTvn3BdfTf) | 2:18 | 2022-04-07 |  |
 | [Stetiger Regen](https://open.spotify.com/track/3vwZ7YcQ24GtvvuWQTRcXO) | [Die ganze Nacht](https://open.spotify.com/artist/1OcoltzN3WhJYzAoAtf0Xl) | [Regen die ganze Nacht](https://open.spotify.com/album/1lzDK9FfV0KxJgAbOvYm1s) | 2:11 | 2022-04-07 |  |
-| [stormy hill](https://open.spotify.com/track/0st6S0yMSdcJRzjZadtDME) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [stormy hill](https://open.spotify.com/album/1M1mWNt2Fjxh7ysP0tkCyM) | 2:31 | 2022-04-07 |  |
+| [stormy hill](https://open.spotify.com/track/0st6S0yMSdcJRzjZadtDME) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [stormy hill](https://open.spotify.com/album/1M1mWNt2Fjxh7ysP0tkCyM) | 2:31 | 2022-04-07 | 2022-10-12 |
+| [stormy hill](https://open.spotify.com/track/1KpCULyLuC1NKCyNPo0n9n) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:31 | 2022-04-07 |  |
 | [Stormy Road](https://open.spotify.com/track/5LOUGQmqx2GCTUt0oaQcFc) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Countryside Storm](https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY) | 3:28 | 2022-04-07 |  |
 | [Strawberry Rain](https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD) | [DreamDrops](https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:32 | 2022-04-07 |  |
 | [That's Real Intense](https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I) | [Worrysome Skies](https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn) | [After Midnight](https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R) | 2:01 | 2022-04-07 |  |

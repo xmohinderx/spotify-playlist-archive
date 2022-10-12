@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 17232,
+  "num_followers": 17277,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg0NjY4MCwwMDAwMDAwMDljODMyMDAwOWEwY2QyYzZjNzFkZjU5OWUyYzJmZWI5",
+  "snapshot_id": "MTY0NDg0NjY4MCwwMDAwMDAwMDQ3ZTMxM2JkMTkxZWM2MWExOTdhMjMzMzk2ZjVlNDU4",
   "tracks": [
     {
       "added_at": "2022-02-14 13:51:20",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-02-14 13:51:20",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw"
-    },
-    {
-      "added_at": "2022-02-14 13:51:20",
-      "album": {
         "name": "Broke Boy (Stripped)",
         "url": "https://open.spotify.com/album/2ucYRTvbEdi5ThvEZ4kUBe"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 173933,
       "name": "Broke Boy",
       "url": "https://open.spotify.com/track/7IFFuUYZTa5CUNz099dUqB"
+    },
+    {
+      "added_at": "2022-02-14 13:51:20",
+      "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw"
     },
     {
       "added_at": "2022-02-14 13:51:20",

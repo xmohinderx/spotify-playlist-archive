@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 297000,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD"
@@ -1140,6 +1140,24 @@
     },
     {
       "album": {
+        "name": "Breakfast for Dinner",
+        "url": "https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD"
+      },
+      "artists": [
+        {
+          "name": "Lola Scott",
+          "url": "https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223546,
+      "name": "Brinner",
+      "url": "https://open.spotify.com/track/53eThdE4SviUNz3CeIw7QM"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12"
       },
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 256107,
       "name": "complex (demo)",
       "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 184905,
       "name": "curious/furious",
       "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
@@ -3017,7 +3035,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 184314,
       "name": "Figure You Out",
       "url": "https://open.spotify.com/track/0zcKU98jIjZAxGPQZ5sDpe"
@@ -4051,7 +4069,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 153391,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4E2sMWXzxK3uYJerGbeUfp"
@@ -4443,6 +4461,24 @@
       "duration_ms": 305000,
       "name": "Horses",
       "url": "https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX"
+    },
+    {
+      "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/1v3d3KsoHgmiWEI6vFyJ0t"
     },
     {
       "album": {
@@ -6317,6 +6353,28 @@
       "duration_ms": 164653,
       "name": "Miss Power",
       "url": "https://open.spotify.com/track/6xRRVm0hhxZCWidWHeCmS9"
+    },
+    {
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
       "album": {

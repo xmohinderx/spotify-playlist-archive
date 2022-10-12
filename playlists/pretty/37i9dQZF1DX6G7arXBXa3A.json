@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 371625,
+  "num_followers": 371671,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDRmZmM4MzIzZjRhYTQzOGRhNjc5NzgyODg2NTY0ZDZj",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDgyNTRmMDc2ZjhjODVkZDc4MzhkYWExM2IzZTQxZGE4",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
-        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
-      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Djangologie Vol.4 / 1937",
         "url": "https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI"
       },
@@ -523,22 +503,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
         },
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
         }
       ],
-      "duration_ms": 404880,
-      "name": "Take The \"A\" Train",
-      "url": "https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U"
+      "duration_ms": 171666,
+      "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
+      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -555,6 +535,26 @@
       "duration_ms": 184000,
       "name": "Jazz Me Blues",
       "url": "https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 404880,
+      "name": "Take The \"A\" Train",
+      "url": "https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -695,6 +695,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Jimmy Dorsey:The Complete Standard Transcriptions",
+        "url": "https://open.spotify.com/album/29jPgtTm7XiLYUKNE5QwG0"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dorsey",
+          "url": "https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek"
+        }
+      ],
+      "duration_ms": 149188,
+      "name": "A You\u2019re Adorable",
+      "url": "https://open.spotify.com/track/3LN8pyCUQji0qVzuczFal7"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Black, Brown and Beige",
         "url": "https://open.spotify.com/album/6dfaMuSYNofjA7mOBgS25u"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 485492,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/3YLc8x4uliODz7Ppa1KnKB"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Jimmy Dorsey:The Complete Standard Transcriptions",
-        "url": "https://open.spotify.com/album/29jPgtTm7XiLYUKNE5QwG0"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dorsey",
-          "url": "https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek"
-        }
-      ],
-      "duration_ms": 149188,
-      "name": "A You\u2019re Adorable",
-      "url": "https://open.spotify.com/track/3LN8pyCUQji0qVzuczFal7"
     },
     {
       "added_at": "2020-03-06 16:28:56",

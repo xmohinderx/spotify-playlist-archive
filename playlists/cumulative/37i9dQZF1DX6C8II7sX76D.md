@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-140 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/4jWPG0cqAOP6wtAEReRH0H)
+141 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/4jWPG0cqAOP6wtAEReRH0H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 | 2021-12-03 |  |
 | [Jiggle Jiggle](https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv) | [Jiggle Jiggle](https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT) | 1:37 | 2022-05-27 |  |
 | [Latch](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:15 | 2021-12-03 | 2022-04-21 |
-| [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 | 2021-12-03 |  |
+| [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 | 2021-12-03 | 2022-10-12 |
 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2021-12-03 | 2022-09-16 |
 | [Let Me Think About It](https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV) | [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Singled Out](https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7) | 2:31 | 2021-12-03 | 2022-04-20 |
 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 | 2021-12-03 |  |
@@ -105,6 +105,7 @@
 | [Paris](https://open.spotify.com/track/2H7F7EfsVhy0jNLsVz8MLH) | [Else](https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B) | [Paris](https://open.spotify.com/album/3VZSHfMooekIWZFgymsD4m) | 3:29 | 2021-12-03 | 2022-04-19 |
 | [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 | 2021-12-03 |  |
 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 | 2021-12-03 | 2022-07-29 |
+| [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-10-11 |  |
 | [Pick a Seat](https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF) | [Docx](https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj) | [I8](https://open.spotify.com/album/6bsNlLoY9chgUrwyLMCgnC) | 4:12 | 2022-03-05 | 2022-07-29 |
 | [Pump](https://open.spotify.com/track/0N98QCESfFA46B7a6TTZKq) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Pump](https://open.spotify.com/album/108kdS4tGQLkHz2PHUMpN9) | 3:03 | 2021-12-03 | 2022-04-21 |
 | [Pyramid](https://open.spotify.com/track/1Up1XBkxqdtu2BMP8iJr48) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Alchemy](https://open.spotify.com/album/7Cy7mBf9lW1eDCc8XVYD4D) | 3:53 | 2022-03-25 | 2022-07-29 |

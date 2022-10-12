@@ -4,10 +4,11 @@
 
 > Best Bollywood dance songs from last 10 years\. Cover\- Kartik Aaryan
 
-130 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/7qAEWSrM1FrFMeKQC49WwZ)
+131 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/7qAEWSrM1FrFMeKQC49WwZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aafat \(From "Liger"\) \- Remix By DJ Aqeel](https://open.spotify.com/track/6sOC569sksrnsrpSIihTtn) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Dj Aqeel](https://open.spotify.com/artist/4KLgHjQieY43a6kj6WVyxx) | [Aafat \(Remix By DJ Aqeel\) \[From "Liger"\]](https://open.spotify.com/album/354LgVKT8Ffpd2MNKAWrqG) | 3:09 | 2022-10-11 |  |
 | [Aankh Marey](https://open.spotify.com/track/2UE5pVmMGjfD5XUQTpYpD6) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Simmba](https://open.spotify.com/album/3dynRTuVOrAr5O7srr2txN) | 3:32 | 2021-04-08 |  |
 | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN) | 3:32 | 2021-11-30 | 2021-12-14 |
 | [Abhi Toh Party Shuru Hui Hai](https://open.spotify.com/track/0rUN8ascPVT9iiLzC5ocPw) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Khoobsurat](https://open.spotify.com/album/66PqhjAV83M26X8mJ8nqDO) | 2:59 | 2021-01-29\* | 2021-04-08 |

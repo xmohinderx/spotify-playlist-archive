@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 249772,
+  "num_followers": 249804,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDk2ZDI1YmVmYzczOTNlNDU1MTAxNmMyYjY5MDE4MmFm",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDQ2ZmNjOTIxYjYxYTljODU2YWJmMGE3MTEyZDJlMDIy",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -687,26 +687,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Sesiones \u00cdntimas",
-        "url": "https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A"
-      },
-      "artists": [
-        {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Dime Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Sesiones \u00cdntimas",
+        "url": "https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A"
+      },
+      "artists": [
+        {
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Dime Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Entre Cuerdas",
-        "url": "https://open.spotify.com/album/6Korv9rTN9ZOsHtkhjQayK"
-      },
-      "artists": [
-        {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
-        }
-      ],
-      "duration_ms": 264946,
-      "name": "Lo Mejor Que Hay En Mi Vida",
-      "url": "https://open.spotify.com/track/5S3uYPl1oYKShBI1CyZAc7"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
         "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 268964,
       "name": "El Breve Espacio en Que No Est\u00e1s - Live",
       "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Que Nadie Se Entere",
+        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
+      },
+      "artists": [
+        {
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+        }
+      ],
+      "duration_ms": 276306,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -843,18 +843,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Que Nadie Se Entere",
-        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
+        "name": "Entre Cuerdas",
+        "url": "https://open.spotify.com/album/6Korv9rTN9ZOsHtkhjQayK"
       },
       "artists": [
         {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
         }
       ],
-      "duration_ms": 276306,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
+      "duration_ms": 264946,
+      "name": "Lo Mejor Que Hay En Mi Vida",
+      "url": "https://open.spotify.com/track/5S3uYPl1oYKShBI1CyZAc7"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "De Ti o de Nadie",
+        "url": "https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x"
+      },
+      "artists": [
+        {
+          "name": "Carlos Mac\u00edas",
+          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
+        }
+      ],
+      "duration_ms": 199993,
+      "name": "Usted No Deber\u00eda",
+      "url": "https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Quiero Cantar",
         "url": "https://open.spotify.com/album/5Z7soSWKI9Df92V6w4hapo"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 234040,
       "name": "Tan Distintos (feat. Edgar Oceransky)",
       "url": "https://open.spotify.com/track/3unJniffgdKHCxTfUelqou"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "De Ti o de Nadie",
-        "url": "https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x"
-      },
-      "artists": [
-        {
-          "name": "Carlos Mac\u00edas",
-          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
-        }
-      ],
-      "duration_ms": 199993,
-      "name": "Usted No Deber\u00eda",
-      "url": "https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Vicente Feli\u00fa",
+        "url": "https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX"
+      },
+      "artists": [
+        {
+          "name": "Vicente Feli\u00fa",
+          "url": "https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT"
+        }
+      ],
+      "duration_ms": 201338,
+      "name": "Esther homenaje",
+      "url": "https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
         "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 206204,
       "name": "Para una Imaginaria Mar\u00eda del Carmen",
       "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Vicente Feli\u00fa",
-        "url": "https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX"
-      },
-      "artists": [
-        {
-          "name": "Vicente Feli\u00fa",
-          "url": "https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT"
-        }
-      ],
-      "duration_ms": 201338,
-      "name": "Esther homenaje",
-      "url": "https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Filio",
-          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Norte",
-      "url": "https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "M\u00e1s Alto",
         "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 259066,
       "name": "Espectro",
       "url": "https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Filio",
+          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Norte",
+      "url": "https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo"
     },
     {
       "added_at": "2021-07-29 16:46:05",
