@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,093 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,094 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 20 | [Me & You](https://open.spotify.com/track/4rMegGKoZR9VaR0dxhr6Z4) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Me & You](https://open.spotify.com/album/0JYUq6zTN5QIExsARJ11xC) | 2:10 |
 | 21 | [The Brown Snake](https://open.spotify.com/track/31CbsclpQWU4bKzLKnLHaS) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [The Brown Snake](https://open.spotify.com/album/2KBj0ahthLPdXhYODnXRIL) | 3:15 |
 | 22 | [Understand](https://open.spotify.com/track/4JkRISoAHFRP40FGzNymNp) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 2:57 |
-| 23 | [Can't Be Enough](https://open.spotify.com/track/0M2o4vmqNyiMySMs3e9i8m) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Can't Be Enough](https://open.spotify.com/album/13qki0Gl6TJ4YmuEmQ6kdM) | 3:07 |
+| 23 | [Can't Be Enough](https://open.spotify.com/track/19ZXw4HTvvQniJU6z66Zlf) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Breakfast for Dinner](https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD) | 3:07 |
 | 24 | [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 |
 | 25 | [Failure](https://open.spotify.com/track/7AJBAVu3otbF7CuPOvGW7c) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Slow Burn](https://open.spotify.com/album/7J6Zg9f19sUhiJsiIIQX1N) | 4:14 |
 | 26 | [Evidence](https://open.spotify.com/track/0mdVIWcUl8Q34R8xPgpfHZ) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Evidence](https://open.spotify.com/album/3vjfI5MI9Y1EqwQbfAncwU) | 4:18 |
-| 27 | [Hey](https://open.spotify.com/track/7rBNJKnqq8m717RsTOsJQi) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Hey](https://open.spotify.com/album/4kiVwF4algaMfLFsqmM0SW) | 3:08 |
+| 27 | [Hey](https://open.spotify.com/track/7oHpeKNritBgbBMm93Dx62) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Hey](https://open.spotify.com/album/17mr7GvqLCWjERFbKt765D) | 3:08 |
 | 28 | [Only Child](https://open.spotify.com/track/3thXAvW7mxlgJ7W37U2yBT) | [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [izzi](https://open.spotify.com/album/4zkYIURRPc2a0h1EONEtYs) | 3:32 |
 | 29 | [Teenage Renegade](https://open.spotify.com/track/12UFOhdwV1STPKzAI39hUu) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Teenage Renegade](https://open.spotify.com/album/1MbxlBgw83NZbqcJuoAVnd) | 3:04 |
 | 30 | [Tō Aroha](https://open.spotify.com/track/6cppVm5dbOngC7VSHJJy28) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Tō Aroha](https://open.spotify.com/album/0Xcyt3tSHSZ536Hnzb0r3Q) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Feeling Good Feeling Great](https://open.spotify.com/track/2BeTDiDs3ttu9BXdDe3smE) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/6KJ5b8kHrWLKv7Fs2pjZJ3) | 1:57 |
 | 100 | [Shut Up](https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82) | 2:39 |
 
-Snapshot ID: `MTY2NDc1MTk2OCwwMDAwMDAwMGY5ZTg0OWUyNWMzN2Y5MDk1YzE2MTI0Y2Q1MWUwMzU0`
+Snapshot ID: `MTY2NDc1MTk2OCwwMDAwMDAwMGMzZTVjMjc3ZmJiZWNjZjA1NjlhMGI3ZWExMTc2YzZj`

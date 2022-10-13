@@ -2231,7 +2231,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
@@ -4643,11 +4643,15 @@
         {
           "name": "Lufthaus",
           "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241010,
       "name": "Sway",
       "url": "https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4"

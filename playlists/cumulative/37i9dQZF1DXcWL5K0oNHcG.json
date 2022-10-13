@@ -208,6 +208,24 @@
     },
     {
       "album": {
+        "name": "3rd Party 3rd Floor",
+        "url": "https://open.spotify.com/album/6CQkxgtfiGypJPTF12ZCoF"
+      },
+      "artists": [
+        {
+          "name": "Little Animal!",
+          "url": "https://open.spotify.com/artist/23gLK2H4lsLTxG5T7Qesww"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369662,
+      "name": "3rd Party 3rd Floor",
+      "url": "https://open.spotify.com/track/0dyQoiukxqfof52egK1CiJ"
+    },
+    {
+      "album": {
         "name": "4 Rooms",
         "url": "https://open.spotify.com/album/2lNH63RznV2n5Qq0ktU7Bh"
       },
@@ -7314,6 +7332,24 @@
     },
     {
       "album": {
+        "name": "Keep Time",
+        "url": "https://open.spotify.com/album/4OoDyCji0wDAjwwb6EEIv4"
+      },
+      "artists": [
+        {
+          "name": "Dilettante",
+          "url": "https://open.spotify.com/artist/42wN5SSwzTUprhIkVy996t"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Keep Time",
+      "url": "https://open.spotify.com/track/6Skw6NJNRjvcVb2zV5ruxn"
+    },
+    {
+      "album": {
         "name": "Keepin' It",
         "url": "https://open.spotify.com/album/2HeMI57vyxzDjklq6SOv3D"
       },
@@ -12586,6 +12622,28 @@
     },
     {
       "album": {
+        "name": "Camaraderie",
+        "url": "https://open.spotify.com/album/5pLP4yGt9TsJK1HqdHJ3oi"
+      },
+      "artists": [
+        {
+          "name": "BrandonLee Cierley",
+          "url": "https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt"
+        },
+        {
+          "name": "Frances Cierley",
+          "url": "https://open.spotify.com/artist/51Hm6WJrEpkCtYfpPuVOJb"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192986,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/4hfoCqOoqgRRfJqmyfvWEo"
+    },
+    {
+      "album": {
         "name": "Someday, Somewhere",
         "url": "https://open.spotify.com/album/0QEeUVA6Ou9xXcQFpbgU6m"
       },
@@ -12783,7 +12841,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 280320,
       "name": "Speak Low - Session #1",
       "url": "https://open.spotify.com/track/5VWVFKD1n8zEAGkTh2kER1"
@@ -13785,7 +13843,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 345020,
       "name": "Terrigal",
       "url": "https://open.spotify.com/track/3yccNLYXxEY3MONXXm9wIk"

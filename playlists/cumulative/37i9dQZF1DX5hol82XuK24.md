@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-137 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+140 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Better Days](https://open.spotify.com/track/34GmVBFlBL83wEsAy97AP9) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Memory Device](https://open.spotify.com/album/2NpIoEd9xx6GvJPSQKFQ0Z) | 5:07 | 2021-11-01 | 2022-07-29 |
 | [Birth](https://open.spotify.com/track/0McTGe6ZnZuPdj4Nhufesa) | [Runah](https://open.spotify.com/artist/1t7LGsCYaXFaDW6GiAuaNI) | [H\. B\. M\. T.](https://open.spotify.com/album/68LwK6oD8UHl2el001VB9X) | 4:08 | 2021-11-01 |  |
 | [Blue](https://open.spotify.com/track/0x9PaR4PUbcOfdzQAPZtlR) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/5vqX6dLfL5513FnnpCXTNY) | 3:17 | 2021-11-01 | 2022-07-29 |
-| [Blue](https://open.spotify.com/track/5tOW8UTkA6JqXwlcVv0sCL) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/3y50uFynkoRrpZ13G433Xl) | 3:18 | 2022-01-27 |  |
+| [Blue](https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6) | 3:18 | 2022-09-25 |  |
+| [Blue](https://open.spotify.com/track/5tOW8UTkA6JqXwlcVv0sCL) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/3y50uFynkoRrpZ13G433Xl) | 3:18 | 2022-01-27 | 2022-10-13 |
 | [Blue May](https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Within a Dream](https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL) | 3:53 | 2021-11-01 |  |
 | [bmbmbm](https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 4:56 | 2022-01-27 |  |
 | [bmbmbm](https://open.spotify.com/track/7dF151sPnAGBOC8RfjuKE1) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/14LuwckQuyWIvVlKrYuLzP) | 4:56 | 2021-11-01 | 2022-07-29 |
@@ -91,9 +92,11 @@
 | [Port](https://open.spotify.com/track/5TnhWeSJAkolB4y8eY3P2T) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Port](https://open.spotify.com/album/0v8LHvECm25kz8i2ii5n7w) | 4:42 | 2021-11-01 |  |
 | [Prey \- 2021 Remastered version](https://open.spotify.com/track/1FF7zgBIYfnk19yuqqAFov) | [MUNKIB](https://open.spotify.com/artist/4Iyu0COGYnTwmS9xrjnNc2) | [Prey \(2021 Remastered version\)](https://open.spotify.com/album/16C0PRefWun3qFlVrE98A7) | 2:36 | 2022-01-27 | 2022-09-15 |
 | [Prototype / Limit to Your Love](https://open.spotify.com/track/6gjQwd0yaseqxwPDHRmAUz) | [WOOM](https://open.spotify.com/artist/2zzPNRhGuLRbP6d1YwakiC) | [Prototype / Limit to Your Love](https://open.spotify.com/album/0eKwPKBEpEwPZtX5cIqAPo) | 4:39 | 2021-11-01 |  |
-| [Ptolemaea](https://open.spotify.com/track/7JqYAVv3OZnaYZ7i9pNdtN) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 6:23 | 2022-09-21 |  |
+| [Ptolemaea](https://open.spotify.com/track/29LsI5izZL8txZEJhegSBs) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 6:23 | 2022-09-25 |  |
+| [Ptolemaea](https://open.spotify.com/track/7JqYAVv3OZnaYZ7i9pNdtN) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 6:23 | 2022-09-21 | 2022-10-13 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-23 |  |
-| [Running Up That Hill](https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw) | 4:57 | 2021-11-01 |  |
+| [Running Up That Hill](https://open.spotify.com/track/0uYVJ8z5kgMayMNPJA6Cz9) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ) | 4:57 | 2022-09-25 |  |
+| [Running Up That Hill](https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw) | 4:57 | 2021-11-01 | 2022-10-13 |
 | [Satanic Slumber Party](https://open.spotify.com/track/0ICUKBKREHRLjER0tpVUsQ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/1DzDpnu7RRi9E7kAELM3Ec) | 3:03 | 2021-11-01 | 2022-07-29 |
 | [Satanic Slumber Party](https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/2v4jEVLq0kmKeWCE7svpyq) | 3:03 | 2022-01-27 |  |
 | [Saturday,](https://open.spotify.com/track/5gaV0csREwXwbJieBy1nBU) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Saturday,](https://open.spotify.com/album/0wNu1tc833amzDISxEI9Em) | 4:20 | 2022-01-27 | 2022-09-15 |

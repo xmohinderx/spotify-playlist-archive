@@ -4,7 +4,7 @@
 
 > Shenseea bringing you massive island vibes for her Island Pop takeover.
 
-112 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/2IWnbNUu459whuD2COYJWY)
+113 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/2IWnbNUu459whuD2COYJWY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Sammy Sosa](https://open.spotify.com/track/085w8MDcFkxBi1yZ0frfUr) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Sammy Sosa](https://open.spotify.com/album/2Q7DoT2zK1cBY0MLvCdNjp) | 2:31 | 2021-12-20 | 2022-02-25 |
 | [Sidepiece \(feat\. Ruger\)](https://open.spotify.com/track/5YHjORRRTB0vXlFp8XaCaN) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Sidepiece \(feat\. Ruger\)](https://open.spotify.com/album/5fn47w1LhCu4qHmayD2Rgx) | 3:16 | 2021-12-20 | 2022-08-19 |
 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 | 2021-12-20 | 2022-08-19 |
-| [Still A Bleed](https://open.spotify.com/track/79fwXVlKbDYOmU5AuzaJnq) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still A Bleed](https://open.spotify.com/album/4RUXFvq2eEoSYFmuhYl4wM) | 3:36 | 2022-08-18 |  |
+| [Still A Bleed](https://open.spotify.com/track/79fwXVlKbDYOmU5AuzaJnq) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still A Bleed](https://open.spotify.com/album/4RUXFvq2eEoSYFmuhYl4wM) | 3:36 | 2022-08-18 | 2022-10-13 |
+| [Still a Bleed](https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still a Bleed](https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG) | 3:36 | 2022-08-18 |  |
 | [Still Royal \(feat\. Popcaan, Pa Salieu & Toddla T\)](https://open.spotify.com/track/1b0Hw6QMQBITasSwODk2u0) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [In Search of Lost Time \(Deluxe\)](https://open.spotify.com/album/5ppss59aZgcVJovTfRSFET) | 2:48 | 2021-12-20 | 2022-08-19 |
 | [Stir Fry](https://open.spotify.com/track/2eEVJq244C9AKr4b7oaGdL) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Stir Fry](https://open.spotify.com/album/63F32jSze7OBM7xfi9PnOu) | 3:14 | 2022-08-18 |  |
 | [Super Soca](https://open.spotify.com/track/4hPtBML94zR8CdFx0JuUDU) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [The Wedding Album](https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ) | 3:06 | 2021-12-20 | 2022-08-19 |

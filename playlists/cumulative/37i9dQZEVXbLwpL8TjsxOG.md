@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-459 songs - 1 day 3 hr 44 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+460 songs - 1 day 3 hr 48 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [在空中的這一秒](https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:46 | 2021-12-04 | 2022-10-07 |
 | [報復式浪漫](https://open.spotify.com/track/6N47H7GFm8SBwdJMkS9sqj) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [報復式浪漫](https://open.spotify.com/album/0eCNcbQPLF8HNXE2iOsOR1) | 3:24 | 2022-02-16 | 2022-05-28 |
 | [塵世美](https://open.spotify.com/track/4cenGIbbIWlcryBPsgtQXy) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [塵世美](https://open.spotify.com/album/0yBWVChnY7Yp8QSdasyyAh) | 4:44 | 2021-09-11 | 2021-11-21 |
-| [夏之風物詩](https://open.spotify.com/track/0u3En4cJMAjcIQ6zLIlmqY) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [夏之風物詩](https://open.spotify.com/album/2upqPm9Pq0youkJZ9qgoJa) | 3:28 | 2022-06-30 |  |
+| [夏之風物詩](https://open.spotify.com/track/0u3En4cJMAjcIQ6zLIlmqY) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [夏之風物詩](https://open.spotify.com/album/2upqPm9Pq0youkJZ9qgoJa) | 3:28 | 2022-06-30 | 2022-10-13 |
 | [夕陽之歌](https://open.spotify.com/track/5tVzG4tw3M9VLkcQ0fOtgF) | [Anita Mui](https://open.spotify.com/artist/06RD8CxzApXzuhHx54BhQL) | [情歌1](https://open.spotify.com/album/73iJ1OmPN2lYxyDTPSkkqg) | 5:10 | 2021-11-22 | 2021-11-25 |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2021-03-27\* | 2022-06-08 |
 | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/track/4KJi1DpJcn8sYANFF9qZBa) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/album/6pIDMCqVB0GNi3b8GV3gjZ) | 3:47 | 2022-04-16 | 2022-05-17 |
@@ -344,6 +344,7 @@
 | [年青有為](https://open.spotify.com/track/5dhzpjvwo4tkSuUS7otPoF) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [年青有為](https://open.spotify.com/album/21mjvuCpLVh8tvSEFUG8Of) | 4:18 | 2021-11-21 | 2021-12-04 |
 | [幼稚未完](https://open.spotify.com/track/1TcsJ21R8PMmpLcj34A02E) | [Raymond Lam](https://open.spotify.com/artist/4KCnzC71azFAYCKmD1bJOK) | [幼稚未完](https://open.spotify.com/album/1cMNmZCvoKkwGdUZpwcLTF) | 4:06 | 2022-02-15 | 2022-05-15 |
 | [思念即地獄](https://open.spotify.com/track/7EougyUYWZdE1zCzsCA1Sx) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [思念即地獄](https://open.spotify.com/album/611grh8eoY6RDvhbhaVtj0) | 4:00 | 2021-05-21 | 2021-07-31 |
+| [思覺失調](https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz) | [Wilfred Lau](https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG) | [Stat UP](https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd) | 3:25 | 2022-10-12 |  |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* | 2021-04-20 |
 | [愛回家](https://open.spotify.com/track/5DHjpB2vk29BySgvGKq6IW) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [《阿媽有咗第二個》電影原聲專輯](https://open.spotify.com/album/3XgES0xGu2h265n7E6A3j1) | 4:09 | 2022-08-26 |  |
 | [愛因斯坦羅森橋](https://open.spotify.com/track/0jAoid0myjkSA854F5GZGJ) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 1:38 | 2021-12-05 | 2021-12-06 |

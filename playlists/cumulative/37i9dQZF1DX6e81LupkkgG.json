@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 207026,
       "name": "Factor In",
       "url": "https://open.spotify.com/track/1jSsZv7ln3hhPhSoFTkV2R"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 186440,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/0l8F1nPfNpM31EepvocvwY"
@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 185681,
       "name": "just a boy",
       "url": "https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar"
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 216133,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/4HLnKxeTmOuyD81L4lX3t7"
@@ -2679,7 +2679,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 191830,
       "name": "this is what sadness feels like",
       "url": "https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T"
@@ -2969,6 +2969,24 @@
       "duration_ms": 213240,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/70BaFHsIiw4NcypR0zNaJr"
+    },
+    {
+      "album": {
+        "name": "Wild World (Re-Imagined)",
+        "url": "https://open.spotify.com/album/6tPacSl3dOTBjRgu1dvv4t"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214493,
+      "name": "Wild World - Re-Imagined",
+      "url": "https://open.spotify.com/track/2iJdQgMbl6jhqtN6pmsWZU"
     },
     {
       "album": {

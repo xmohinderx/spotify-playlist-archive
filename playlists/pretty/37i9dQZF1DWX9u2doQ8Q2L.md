@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,237 likes - 68 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,340 likes - 68 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 11 | [This Hell](https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:56 |
 | 12 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 |
 | 13 | [Wonderful Life](https://open.spotify.com/track/6V36HaM6MDqRKCg8OY716v) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [Long Voyage](https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi) | 7:22 |
-| 14 | [BE THE GROOVE](https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [BE THE GROOVE](https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb) | 2:44 |
+| 14 | [BE THE GROOVE](https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Mori Zentaro](https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD) | [BE THE GROOVE](https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb) | 2:44 |
 | 15 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 |
 | 16 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 |
 | 17 | [D'Addario](https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [D'Addario](https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3) | 4:48 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 20 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
 | 21 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
 | 22 | [Trickster](https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Departure : My New Me](https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0) | 3:42 |
-| 23 | [Wild Child \- 80KIDZ Remix](https://open.spotify.com/track/0eKUiePExzqpWKFiUoYXuV) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Wild Child \(80KIDZ Remix\)](https://open.spotify.com/album/3Rhu0eluaww6wjteofBesS) | 4:34 |
+| 23 | [Wild Child \- 80KIDZ Remix](https://open.spotify.com/track/1M9FLc0gOVjuC1YoAlKBX4) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Wild Child \(80KIDZ Remix\)](https://open.spotify.com/album/0RZi1ol8NRb4U3y6B4tlMR) | 4:34 |
 | 24 | [Michael Mann](https://open.spotify.com/track/4jq0Xk5OSi22HpG8gaVy63) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [Michael Mann](https://open.spotify.com/album/1Pd279AVlduDEAkk8Pagvm) | 5:28 |
 | 25 | [WARUNORI](https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WARUNORI](https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz) | 4:19 |
 | 26 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 55 | [Daydream Believer feat\. BIM](https://open.spotify.com/track/4fA0MAm36U4x4B3gb9qE36) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Sweet Home](https://open.spotify.com/album/6U8mea9zHq3z2yJmx8wKA7) | 2:56 |
 | 56 | [Worthy](https://open.spotify.com/track/0dd7NUdwv5uq0cCjC39nwK) | [Soulflex](https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS) | [Worthy](https://open.spotify.com/album/5d2Pj55asIJOBjbn5eatr2) | 2:29 |
 | 57 | [Circle](https://open.spotify.com/track/3Kj8IJ8OrL47nhgmSuh1X6) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Circle](https://open.spotify.com/album/1fvZoFyOxtVpQ2kqX7k4eo) | 4:16 |
-| 58 | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/track/4uFZeg27a8FvxsftMV6li7) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Ill Japonia](https://open.spotify.com/artist/1cxPTyMdKqbPQBWhsZB8cT) | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/album/4XhQpW4vMlheVHB1ZNpyP5) | 3:13 |
+| 58 | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/track/6yEAhzjwBJHdOwZDUAAAK0) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Ill Japonia](https://open.spotify.com/artist/1cxPTyMdKqbPQBWhsZB8cT) | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/album/4vDKz1QWLWg5wo3jRPLhiR) | 3:13 |
 | 59 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
 | 60 | [Reborn Again](https://open.spotify.com/track/5I2AnwIFQ0MyVfO5FZIqEV) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [The Lost Tapes](https://open.spotify.com/album/2JDEZm422EdSMgmpXQT2CG) | 3:03 |
 | 61 | [続・革命前夜](https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 3](https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx) | 4:31 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 67 | [Chu Chu Song](https://open.spotify.com/track/4nDWG3USDzV0Io1w9ibyeO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Chu Chu Song](https://open.spotify.com/album/0ISat8f2DfoFqVtjoTmHbb) | 2:54 |
 | 68 | [Sapphire \- Holy Muscle Remix](https://open.spotify.com/track/4spLZfpGNZERQ4dNqIGdrk) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa), [Holy Muscle](https://open.spotify.com/artist/64cewrunqhi3A76o1pcQMT) | [Outer Ego \(Deluxe Edition\)](https://open.spotify.com/album/5PvZB11e1EfFSVAFHjqESB) | 6:29 |
 
-Snapshot ID: `MTY2NTUwMDQwMCwwMDAwMDAwMDA5YzJiZjUwMDMxYmM4YTAzOWM4NWM0YmEyZDFiZmU5`
+Snapshot ID: `MTY2NTUwMDQwMCwwMDAwMDAwMDIxMGQxM2ZjN2M5MTQ1YzVmMTU2ODJkMjA0YzgyZWEx`

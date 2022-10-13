@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-202 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/1BjnPhemiZQgRsPsVy0WZP)
+203 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/1BjnPhemiZQgRsPsVy0WZP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Forgetting You](https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr) | 3:12 | 2022-05-11 |  |
 | [Friend](https://open.spotify.com/track/2HrjeWdeVfsirD8koeg8yv) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw), [Mingyu Cho](https://open.spotify.com/artist/3zYE0PPOZSmJ14JkguaZp9) | [Friend](https://open.spotify.com/album/0oed3VSqXFkIZ3RFBd10mU) | 3:44 | 2022-05-11 | 2022-07-22 |
 | [fuxx, that, shit](https://open.spotify.com/track/2TCZu4rVZBeu12rTjiBhz6) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [My fuxxxxx romance 01](https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc) | 4:06 | 2022-05-11 | 2022-06-20 |
-| [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2022-07-08 |  |
+| [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2022-07-08 | 2022-10-13 |
 | [Good old days](https://open.spotify.com/track/5Kh4U2f0W2Kz7zRilOMwth) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [Good old days](https://open.spotify.com/album/6X25SlTOwDCA7bxvMZfsoo) | 3:52 | 2022-05-11 | 2022-06-09 |
 | [Good to love](https://open.spotify.com/track/2gEgyhriipvqBJYR9ha68i) | [The Brothers](https://open.spotify.com/artist/4cca1jneSmmm9K1uXTQaUc) | [Good to love](https://open.spotify.com/album/7E9IUx9DJNCRavqWjGi9nH) | 3:56 | 2022-05-11 | 2022-06-29 |
 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 | 2022-05-11 |  |
@@ -194,6 +194,7 @@
 | [Who Are You](https://open.spotify.com/track/1DIcwjXEd7kmzVpxqWBK5J) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Who Are You](https://open.spotify.com/album/0AJedZzGLJy6NlD8eaI9QN) | 3:46 | 2022-06-09 | 2022-06-14 |
 | [Windy](https://open.spotify.com/track/6lb8PuWa23cy0dQY0pbaKg) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:02 | 2022-05-11 | 2022-06-20 |
 | [wooden shoes](https://open.spotify.com/track/4VHjRm6Ok4pdl1kdw7lEmy) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [CHOI](https://open.spotify.com/artist/5phfMKsr54C4WieISO2j9j) | [wooden shoes](https://open.spotify.com/album/41P2aRYuHgSyHhw0HGwfVT) | 5:13 | 2022-07-08 | 2022-07-29 |
+| [Worse than friends](https://open.spotify.com/track/4OfeoCwjK4xFGn5XQ0dbfu) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [친구보다 더 못한 사이](https://open.spotify.com/album/2JsY4V9OqKbQRXezTHhj76) | 3:59 | 2022-10-04 |  |
 | [written on a leaf](https://open.spotify.com/track/4DdynawjdYLn81mdfaqZKM) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [written on a leaf](https://open.spotify.com/album/5EbUl4ypzZl5YmRfqIdjin) | 3:45 | 2022-05-11 | 2022-07-24 |
 | [You're Free](https://open.spotify.com/track/19BiyAamzm9lGzz7LXuCbb) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [You're Free](https://open.spotify.com/album/26TddKetWo996P7sqj0u5Y) | 3:44 | 2022-05-11 | 2022-07-29 |
 | [You, you](https://open.spotify.com/track/1zqVFI0tM6SHXGRtf5nzV4) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [You, you](https://open.spotify.com/album/4PN4xczdZoMbKBdJgaOltt) | 5:02 | 2022-05-11 | 2022-07-29 |

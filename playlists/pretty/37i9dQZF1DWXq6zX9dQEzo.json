@@ -1,12 +1,12 @@
 {
   "description": "Let the blessings come down and the weights go up.  Get your beast mode on!",
-  "num_followers": 72138,
+  "num_followers": 72345,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYxMTU1MiwwMDAwMDAwMGRmYThkYzk5ZTU1OWVhN2Q0NzVjZDc4ZTJmNjA0Mzdh",
+  "snapshot_id": "MTY2NDYxMTU1MiwwMDAwMDAwMGEzOGFmMzZiZjk4YmI3YWM2NDAwNDdhNWQzZDJmOTU2",
   "tracks": [
     {
       "added_at": "2022-10-01 08:05:52",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
+        "name": "Grace In The Wilderness",
+        "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 166788,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/1kLw0lTfdQ7Bcob66mxnSJ"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 198591,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
-        "name": "Grace In The Wilderness",
-        "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 166788,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
+        "name": "I'm Here For You",
+        "url": "https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 209951,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
         "name": "Who That Is",
         "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 144533,
       "name": "Who That Is",
       "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
-        "name": "I'm Here For You",
-        "url": "https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 209951,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "KIDS",
-        "url": "https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh"
-      },
-      "artists": [
-        {
-          "name": "WHATUPRG",
-          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
-        }
-      ],
-      "duration_ms": 133021,
-      "name": "KIDS",
-      "url": "https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
         "name": "Blessed Up",
         "url": "https://open.spotify.com/album/5DcrBNLfArtbJ8MOaz4ejc"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 181536,
       "name": "Blessed Up",
       "url": "https://open.spotify.com/track/17XoLUQLHu3r7dwbrUkxnT"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh"
+      },
+      "artists": [
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "duration_ms": 133021,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 192775,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "My Life is a Beautiful Mess",
-        "url": "https://open.spotify.com/album/3zLpAKNkbyIAzJLLZ3mIVA"
-      },
-      "artists": [
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
-        }
-      ],
-      "duration_ms": 171694,
-      "name": "Wodie",
-      "url": "https://open.spotify.com/track/4P7WAyTSleFGbCk0y4yLZM"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
         "name": "Energ\u00eda (Remix)",
         "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
       },
@@ -1407,6 +1391,26 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
+        "name": "BDFFRNT",
+        "url": "https://open.spotify.com/album/72UBvLUrnv8zywcyB7RrrH"
+      },
+      "artists": [
+        {
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
+        },
+        {
+          "name": "Kadence",
+          "url": "https://open.spotify.com/artist/66hLPzjlDsYDpVWTZcfsiC"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Do It Anyway (feat. Kadence)",
+      "url": "https://open.spotify.com/track/25L031n0unw4IKDjabQuwN"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
         "name": "The Divine Storm",
         "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
       },
@@ -1427,22 +1431,18 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "BDFFRNT",
-        "url": "https://open.spotify.com/album/72UBvLUrnv8zywcyB7RrrH"
+        "name": "My Life is a Beautiful Mess",
+        "url": "https://open.spotify.com/album/3zLpAKNkbyIAzJLLZ3mIVA"
       },
       "artists": [
         {
-          "name": "Dillon Chase",
-          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
-        },
-        {
-          "name": "Kadence",
-          "url": "https://open.spotify.com/artist/66hLPzjlDsYDpVWTZcfsiC"
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
         }
       ],
-      "duration_ms": 231600,
-      "name": "Do It Anyway (feat. Kadence)",
-      "url": "https://open.spotify.com/track/25L031n0unw4IKDjabQuwN"
+      "duration_ms": 171694,
+      "name": "Wodie",
+      "url": "https://open.spotify.com/track/4P7WAyTSleFGbCk0y4yLZM"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 160154,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
         "name": "By Your Power (feat. Hulvey)",
         "url": "https://open.spotify.com/album/7hUoPoTdZAW4ETjJt7cZGp"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "NOW OR LATER",
-        "url": "https://open.spotify.com/album/7v6MWI0jpzxnv5pe7jsIqp"
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 146401,
-      "name": "LOOK AT ME NOW",
-      "url": "https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe"
+      "duration_ms": 160154,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -1635,6 +1619,22 @@
       "duration_ms": 142400,
       "name": "Pastor Monty",
       "url": "https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
+        "name": "NOW OR LATER",
+        "url": "https://open.spotify.com/album/7v6MWI0jpzxnv5pe7jsIqp"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 146401,
+      "name": "LOOK AT ME NOW",
+      "url": "https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "Pressure 2 - EP",
-        "url": "https://open.spotify.com/album/5Ib3sPqWEX9Hc2EUeGFDsk"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        },
-        {
-          "name": "!sch",
-          "url": "https://open.spotify.com/artist/2QT2KMfcj0EXatB2L0m2jK"
-        }
-      ],
-      "duration_ms": 163876,
-      "name": "Put in on This",
-      "url": "https://open.spotify.com/track/3pkRjhx8USyXAb8fqf02A0"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
       },
@@ -1711,26 +1691,22 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "His Side",
-        "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
+        "name": "Pressure 2 - EP",
+        "url": "https://open.spotify.com/album/5Ib3sPqWEX9Hc2EUeGFDsk"
       },
       "artists": [
         {
-          "name": "Nu Tone",
-          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         },
         {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        },
-        {
-          "name": "Donovan S Davis",
-          "url": "https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG"
+          "name": "!sch",
+          "url": "https://open.spotify.com/artist/2QT2KMfcj0EXatB2L0m2jK"
         }
       ],
-      "duration_ms": 168003,
-      "name": "His Side",
-      "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
+      "duration_ms": 163876,
+      "name": "Put in on This",
+      "url": "https://open.spotify.com/track/3pkRjhx8USyXAb8fqf02A0"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -1775,18 +1751,26 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "SIX THIRTY",
-        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
+        "name": "His Side",
+        "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
       },
       "artists": [
         {
-          "name": "Sean C. Johnson",
-          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        },
+        {
+          "name": "Donovan S Davis",
+          "url": "https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG"
         }
       ],
-      "duration_ms": 222375,
-      "name": "SIX THIRTY",
-      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
+      "duration_ms": 168003,
+      "name": "His Side",
+      "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -1835,6 +1819,22 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
+        "name": "SIX THIRTY",
+        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
+      },
+      "artists": [
+        {
+          "name": "Sean C. Johnson",
+          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "SIX THIRTY",
+      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
         "name": "NO GOOD",
         "url": "https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl"
       },
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "Never Too Far",
-        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        }
-      ],
-      "duration_ms": 184901,
-      "name": "Never Too Far",
-      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
         "name": "Rise Up (Lazarus) [FRANKLIN Remix]",
         "url": "https://open.spotify.com/album/2vi7eJheb0Tis7qfw6p1kD"
       },
@@ -1903,22 +1883,6 @@
       "duration_ms": 240471,
       "name": "Rise Up (Lazarus) [FRANKLIN Remix]",
       "url": "https://open.spotify.com/track/0hD5WoXq5PfWYWPcZnIEXm"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
-        "name": "Out With a Bang",
-        "url": "https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm"
-      },
-      "artists": [
-        {
-          "name": "Adriel Cruz",
-          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Out With a Bang",
-      "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -1943,6 +1907,22 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
+        "name": "Out With a Bang",
+        "url": "https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm"
+      },
+      "artists": [
+        {
+          "name": "Adriel Cruz",
+          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Out With a Bang",
+      "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
         "name": "Andy Mineo and Wordsplayed Present Magic & Bird",
         "url": "https://open.spotify.com/album/6yZtJN3mno4YyqXrGeMyVe"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 261173,
       "name": "LAY UP (Bonus)",
       "url": "https://open.spotify.com/track/3SCL9gds9Bo6TsyftneMNS"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
+        "name": "Never Too Far",
+        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "duration_ms": 184901,
+      "name": "Never Too Far",
+      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "Keep Me",
-        "url": "https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52"
-      },
-      "artists": [
-        {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        }
-      ],
-      "duration_ms": 150653,
-      "name": "Keep Me",
-      "url": "https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
         "name": "Stuff Back",
         "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
       },
@@ -2123,6 +2103,26 @@
       "duration_ms": 193648,
       "name": "Stuff Back",
       "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
+        "name": "Keep Me",
+        "url": "https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52"
+      },
+      "artists": [
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "duration_ms": 150653,
+      "name": "Keep Me",
+      "url": "https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "TWO UP TWO DOWN",
-        "url": "https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 195004,
-      "name": "FRONT ROW",
-      "url": "https://open.spotify.com/track/3fBMvF05GtV91SX47CgtTt"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
         "name": "Azusa",
         "url": "https://open.spotify.com/album/1rZSR3Wyyk7ZhCJLGbvjY9"
       },
@@ -2263,6 +2247,22 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
+        "name": "TWO UP TWO DOWN",
+        "url": "https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 195004,
+      "name": "FRONT ROW",
+      "url": "https://open.spotify.com/track/3fBMvF05GtV91SX47CgtTt"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
         "name": "Ram in the Bush",
         "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
@@ -2275,6 +2275,22 @@
       "duration_ms": 148754,
       "name": "Ram in the Bush",
       "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
+        "name": "BackFromTheDEAD",
+        "url": "https://open.spotify.com/album/70KmscuOxB2bTBpdKwfsYD"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 275710,
+      "name": "BackFromTheDEAD",
+      "url": "https://open.spotify.com/track/7x9BU4heU6sRyxSOsqWlVB"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -2319,6 +2335,22 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM"
+      },
+      "artists": [
+        {
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+        }
+      ],
+      "duration_ms": 175150,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/6HE02Rkx6slJ3lCdTmHlpL"
       },
@@ -2335,22 +2367,6 @@
       "duration_ms": 180923,
       "name": "Please",
       "url": "https://open.spotify.com/track/5TCAzaYt4Sem3GBIz84kCt"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
-        "name": "Night Club",
-        "url": "https://open.spotify.com/album/1KS3JLb1BNIQbAITY60fZr"
-      },
-      "artists": [
-        {
-          "name": "DaShawn Shaunt\u00e1",
-          "url": "https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9"
-        }
-      ],
-      "duration_ms": 202468,
-      "name": "Night Club",
-      "url": "https://open.spotify.com/track/2ie1cOWQet91iWwmAQVkWB"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -2379,22 +2395,6 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/5scwM6Xd2qBEZk6ma6MdsS"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        }
-      ],
-      "duration_ms": 172695,
-      "name": "SET IT OFF",
-      "url": "https://open.spotify.com/track/4IoyhUh08KsDcoWjPbr58e"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
         "name": "You Already Know",
         "url": "https://open.spotify.com/album/27SPJ5FLfDryur5qRKbUhW"
       },
@@ -2407,38 +2407,6 @@
       "duration_ms": 135131,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/2aoKQriMD3ukMvGVylzMGs"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM"
-      },
-      "artists": [
-        {
-          "name": "Sansone",
-          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
-        }
-      ],
-      "duration_ms": 175150,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
-        "name": "BackFromTheDEAD",
-        "url": "https://open.spotify.com/album/70KmscuOxB2bTBpdKwfsYD"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 275710,
-      "name": "BackFromTheDEAD",
-      "url": "https://open.spotify.com/track/7x9BU4heU6sRyxSOsqWlVB"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -2463,6 +2431,38 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/5scwM6Xd2qBEZk6ma6MdsS"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "duration_ms": 172695,
+      "name": "SET IT OFF",
+      "url": "https://open.spotify.com/track/4IoyhUh08KsDcoWjPbr58e"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
+        "name": "Night Club",
+        "url": "https://open.spotify.com/album/1KS3JLb1BNIQbAITY60fZr"
+      },
+      "artists": [
+        {
+          "name": "DaShawn Shaunt\u00e1",
+          "url": "https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9"
+        }
+      ],
+      "duration_ms": 202468,
+      "name": "Night Club",
+      "url": "https://open.spotify.com/track/2ie1cOWQet91iWwmAQVkWB"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
         "name": "Prosper (Remix)",
         "url": "https://open.spotify.com/album/03mIIdpF3q6VF1f23dGwzF"
       },
@@ -2483,34 +2483,22 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "WINGS OF AN ANGEL",
-        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
+        "name": "It's Not a Game",
+        "url": "https://open.spotify.com/album/4w112nlXlKhCRxMqCICFF3"
       },
       "artists": [
         {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "moshpit",
-      "url": "https://open.spotify.com/track/3ucI5YXSFWj0GLtRXz9x7o"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
-        "name": "ON THA SEAT",
-        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
-      },
-      "artists": [
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
         {
-          "name": "adriansings",
-          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         }
       ],
-      "duration_ms": 207068,
-      "name": "ON THA SEAT",
-      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+      "duration_ms": 174166,
+      "name": "It's Not a Game",
+      "url": "https://open.spotify.com/track/4ZldPUIhCbTdvGsMHN7Ubk"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -2551,22 +2539,34 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "It's Not a Game",
-        "url": "https://open.spotify.com/album/4w112nlXlKhCRxMqCICFF3"
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
       },
       "artists": [
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
         }
       ],
-      "duration_ms": 174166,
-      "name": "It's Not a Game",
-      "url": "https://open.spotify.com/track/4ZldPUIhCbTdvGsMHN7Ubk"
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
+        "name": "WINGS OF AN ANGEL",
+        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "moshpit",
+      "url": "https://open.spotify.com/track/3ucI5YXSFWj0GLtRXz9x7o"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -2583,6 +2583,22 @@
       "duration_ms": 296666,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        }
+      ],
+      "duration_ms": 172313,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -2607,38 +2623,6 @@
       "duration_ms": 144506,
       "name": "Catch These Hands - Remix",
       "url": "https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
-      },
-      "artists": [
-        {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
-        }
-      ],
-      "duration_ms": 172313,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/2fRpk6fSR4q8iTG2veuXXx"
-      },
-      "artists": [
-        {
-          "name": "Konata Small",
-          "url": "https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/3jdw64pKdS37TuckuxXUmX"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -2671,6 +2655,22 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
+        "name": "NOTHING BUT JESUS",
+        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 157885,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
         "name": "STILL GOING",
         "url": "https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ"
       },
@@ -2683,6 +2683,22 @@
       "duration_ms": 88294,
       "name": "STILL GOING",
       "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/2fRpk6fSR4q8iTG2veuXXx"
+      },
+      "artists": [
+        {
+          "name": "Konata Small",
+          "url": "https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/3jdw64pKdS37TuckuxXUmX"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -2703,18 +2719,42 @@
     {
       "added_at": "2022-10-01 08:05:52",
       "album": {
-        "name": "NOTHING BUT JESUS",
-        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
+        "name": "Siyahamba",
+        "url": "https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6"
       },
       "artists": [
         {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+          "name": "Tay Collier",
+          "url": "https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk"
+        },
+        {
+          "name": "Sy-1",
+          "url": "https://open.spotify.com/artist/0GTr5De2nHyUWgHn5nhkgP"
+        },
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
         }
       ],
-      "duration_ms": 157885,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
+      "duration_ms": 179500,
+      "name": "Siyahamba",
+      "url": "https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc"
+    },
+    {
+      "added_at": "2022-10-01 08:05:52",
+      "album": {
+        "name": "Wins",
+        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 155287,
+      "name": "Wins",
+      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
     },
     {
       "added_at": "2022-10-01 08:05:52",
@@ -2743,46 +2783,6 @@
       "duration_ms": 184335,
       "name": "Won't Stop - Reyer Remix",
       "url": "https://open.spotify.com/track/5scmtvav3joe03DAihMTd6"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
-        "name": "Wins",
-        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 155287,
-      "name": "Wins",
-      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
-    },
-    {
-      "added_at": "2022-10-01 08:05:52",
-      "album": {
-        "name": "Siyahamba",
-        "url": "https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6"
-      },
-      "artists": [
-        {
-          "name": "Tay Collier",
-          "url": "https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk"
-        },
-        {
-          "name": "Sy-1",
-          "url": "https://open.spotify.com/artist/0GTr5De2nHyUWgHn5nhkgP"
-        },
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Siyahamba",
-      "url": "https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc"
     },
     {
       "added_at": "2022-10-01 08:05:52",

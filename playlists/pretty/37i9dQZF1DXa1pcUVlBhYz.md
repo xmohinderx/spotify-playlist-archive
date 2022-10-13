@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Austin Millz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,737 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,762 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 61 | [Murder](https://open.spotify.com/track/5gIEBVBMo82RxHQIHW2aeD) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM) | [Murder](https://open.spotify.com/album/5yNwpK71K5BUv4SeSePUI7) | 2:33 |
 | 62 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 |
 | 63 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 |
-| 64 | [Dance](https://open.spotify.com/track/7AYYU5KQb4yjWyLEemiDc9) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/4HnqIIxtcFAuUqFX4soPVM) | 2:45 |
+| 64 | [Dance](https://open.spotify.com/track/0h20OvcHKLzhEiQBY4Xgqe) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/7q65VftPY7x1F8bHHnKvvw) | 2:45 |
 | 65 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 |
 | 66 | [Ethiopia \- Boddhi Satva Ancestral Soul Dub](https://open.spotify.com/track/7CKDVz4lP7qJz6M2y3ZlYU) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Ethiopia \(Boddhi Satva Ancestral Soul Dub\)](https://open.spotify.com/album/5NllzQSC7PQYXXF2qccTK5) | 4:09 |
 | 67 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 99 | [Keep You Close](https://open.spotify.com/track/3xYWczqcz54jMm3K7vD9zu) | [Monsieur Frazier](https://open.spotify.com/artist/3hHJfet2F71jJl9FE7WALQ), [Nick Garcia](https://open.spotify.com/artist/6bYqAD7QrVbEFYtlqvvlsG) | [Monsieur Frazier EP](https://open.spotify.com/album/79jwkyOfXm3NDYkFsMhapz) | 4:43 |
 | 100 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDc2ZDIyYzk1NDUyYmVlYjAzNTk3YWE3YjhlNDBmNjZl`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGMxMmZjY2YyYjAyZGRjZjQxYzgwZjZmNzk2MjI4YTA4`

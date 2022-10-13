@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La crème de la crème of Montréal's music scene\. Photo: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,130 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,171 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 13 | [Safe Space](https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Safe Space](https://open.spotify.com/album/1ks99OEgYN41RQmQVKIowY) | 3:23 |
 | 14 | [CNQDL](https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [CNQDL](https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei) | 3:40 |
 | 15 | [Prochain épilogue](https://open.spotify.com/track/0uPA83Y6CifPnSZbCgXGsC) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Prochain épilogue](https://open.spotify.com/album/4GudmwIXgfYDoZ5Db5wWZx) | 3:31 |
-| 16 | [Go Write with the Stars](https://open.spotify.com/track/0LIojBe01OpupDLuMUYwHK) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write with the Stars](https://open.spotify.com/album/1WSBhoawi94swRpqd0weQF) | 3:33 |
+| 16 | [Go Write It In The Stars](https://open.spotify.com/track/4I7ly7eSt1raF0ZSOAlWKP) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write It In The Stars](https://open.spotify.com/album/6SAJNqTw4P8uVV8qeApNbJ) | 3:35 |
 | 17 | [Tote Bag](https://open.spotify.com/track/0t3b3r4DNi5PHARoi7o5nN) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Tote Bag](https://open.spotify.com/album/2qsRHDL7JUhg61nhQqR5Ri) | 3:22 |
 | 18 | [Mieux que rien](https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Mieux que rien](https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L) | 4:49 |
 | 19 | [Neuf à cinq](https://open.spotify.com/track/5JCR88ZFSvTaackes4UtEX) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie d'ange](https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Will You Be? \- CFCF Remix](https://open.spotify.com/track/2ajUD0hDhkdQzySZk0DNDb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Ambition: Remixes 002](https://open.spotify.com/album/11heFNTH7nLYQ5LRiML19Z) | 5:02 |
 | 100 | [Colosse](https://open.spotify.com/track/7kjqsAEqNKnF8I4kW08Vk4) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 4:27 |
 
-Snapshot ID: `MTY2NTExNjUyNSwwMDAwMDAwMGVhN2EyMzgxMDM0MWE3N2ZkOTNlOWQ2OTFhNWQ5M2Q4`
+Snapshot ID: `MTY2NTExNjUyNSwwMDAwMDAwMDk0MWFkNWE3OWJiOTNiMmVhNDE0MzZlYzcyNTU4ZmVk`

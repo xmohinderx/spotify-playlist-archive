@@ -4,7 +4,7 @@
 
 > Whether it's by bus, subway, bike, or your own two feet, here are songs about all the ways to get around your neighborhood.
 
-65 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/39fXXUUoSwIdabmKIOWmAm)
+67 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/39fXXUUoSwIdabmKIOWmAm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Song About Trucks](https://open.spotify.com/track/7GlzGRfo2LvRKeCsWnWNcS) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Fun Vehicle Songs for Children! Learn about Transport with LittleBabyBum](https://open.spotify.com/album/1pXeFG7PI0rfUhL5hwkuIj) | 1:27 | 2021-06-22 |  |
 | [Subway](https://open.spotify.com/track/1ipySLeZ9yFX3NxYH8aL6w) | [Music for Aardvarks and Other Mammals](https://open.spotify.com/artist/4iFV2AfXg5jh8IzWE6mR32) | [Lullabies](https://open.spotify.com/album/46A2D2PaVLQdmvg7Dn5pgV) | 1:14 | 2021-06-22 |  |
 | [Subway Train](https://open.spotify.com/track/42FFOjM6H3ISwFIZNO3IE5) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Outside Voices](https://open.spotify.com/album/0Pesak1vor7VVB7IbKmcgY) | 3:46 | 2021-06-22 |  |
-| [Take Me Away on a Train](https://open.spotify.com/track/1d0bSpuxKXmPvwLgQlxLTu) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:21 | 2021-06-22 |  |
+| [Take Me Away on a Train](https://open.spotify.com/track/1d0bSpuxKXmPvwLgQlxLTu) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:21 | 2021-06-22 | 2022-10-13 |
+| [Take Me Away on a Train](https://open.spotify.com/track/5CM0rrp9h6ZAaVSZaPOlLO) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:21 | 2021-06-22 |  |
 | [Taxi in Time!](https://open.spotify.com/track/1yb1zBfISMD5GTs5O9QwuL) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Excavator & More Vehicle Songs for Kids](https://open.spotify.com/album/36ALk5EplIDZph31IiPNJR) | 2:03 | 2021-06-22 | 2022-07-29 |
 | [Taxi in Time!](https://open.spotify.com/track/40dTPLnycbt3Hg1N4ihgRt) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Excavator & More Vehicle Songs for Kids](https://open.spotify.com/album/101RHMWjHd66NDuVSM2oKx) | 2:03 | 2021-06-22 |  |
 | [The Subway Shake](https://open.spotify.com/track/4UjWHUGzJUZoCuQCMElVdb) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 6: Fun Baby Songs](https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP) | 1:59 | 2021-06-22 |  |
@@ -69,7 +70,8 @@
 | [Train Is A\-Coming](https://open.spotify.com/track/3EvF45l5hnDlJ55E1hAvdI) | [Kids Choir](https://open.spotify.com/artist/2rj7Su1MsQ6zRbSHnYqcJb) | [Songs Kids Really Love To Sing: 17 Playtime Songs](https://open.spotify.com/album/0aruGtg6RCRBEhrwNk2oWX) | 1:41 | 2021-06-22 |  |
 | [Train Song](https://open.spotify.com/track/4cLEtWfzH5KYpHmNc1fpC7) | [Brendan Parker](https://open.spotify.com/artist/3b7oGWr78Vwat438Dobb8f) | [Spaghetti Eddie! And Other Children's Songs, Vol\. 3](https://open.spotify.com/album/3dHyWeNdQFyk9Pd4t2mT5C) | 2:19 | 2021-06-22 |  |
 | [Tricycle](https://open.spotify.com/track/0kWvtFgFjgRsOTjqEpab1k) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 1:36 | 2021-06-22 |  |
-| [Trucks Are Tough](https://open.spotify.com/track/3RTdm0xgHyKVUMZX8dFruP) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:54 | 2021-06-22 |  |
+| [Trucks Are Tough](https://open.spotify.com/track/3RTdm0xgHyKVUMZX8dFruP) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:54 | 2021-06-22 | 2022-10-13 |
+| [Trucks Are Tough](https://open.spotify.com/track/61Ah7gJJAmcbbdoRDMEEQM) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:54 | 2021-06-22 |  |
 | [Wheels In The City](https://open.spotify.com/track/7oRnunrwZCnDomjCvivJFm) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 1:51 | 2021-06-22 |  |
 | [Wheels on the Bus](https://open.spotify.com/track/0GzL6vZXfYOmMyfN3VszoT) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Gecko's Truck Songs for Children](https://open.spotify.com/album/4Id7UWpebesuBYQen93UNY) | 1:40 | 2021-06-22 | 2022-07-29 |
 | [Wheels on the Bus](https://open.spotify.com/track/4xXDkuBubr6ougVhkzmdYm) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Gecko's Truck Songs for Children](https://open.spotify.com/album/3URrK6lBjPliA34LkQL1hH) | 1:40 | 2021-06-22 |  |

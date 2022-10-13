@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 26804,
+  "num_followers": 26811,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzE2MyxjMDJmZTg2NWJkOWM1Nzc4M2E1NzU3MjVhYTQxZjAyN2JkNzBmM2Nh",
+  "snapshot_id": "MzE2NCw5OTE0YWJjMDUzMWJiNWU0OWE3MjNlYjMwMjQyNmEwMzJlOTkyNjM1",
   "tracks": [
+    {
+      "added_at": "2022-10-12 15:59:51",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Dream - Edit",
+      "url": "https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2"
+    },
     {
       "added_at": "2022-10-07 17:43:57",
       "album": {

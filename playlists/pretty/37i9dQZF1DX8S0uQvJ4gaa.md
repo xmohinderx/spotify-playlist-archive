@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Restless Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,589 likes - 115 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,331 likes - 115 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 105 | [Keys To The Country](https://open.spotify.com/track/12ZicG8o3Ehwk7NoClvtbp) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Keys To The Country](https://open.spotify.com/album/0RLL5G7u2zY6qFzGnssXwX) | 2:55 |
 | 106 | [Where Did All The Cowboys Go](https://open.spotify.com/track/2P5yyV1EA4CCqRhjXKro5p) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Be That Girl](https://open.spotify.com/album/7inCR1hQvn6iWSEbDsAXvR) | 3:15 |
 | 107 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 |
-| 108 | [I Love My Hometown](https://open.spotify.com/track/3EF8vJwg4NBkzp7DCO90E1) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID) | 3:18 |
+| 108 | [I Love My Hometown](https://open.spotify.com/track/7De4wjRz4WCceF0DXqf2Z8) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/1paYFxYmurwK3quB1vL6Pq) | 3:18 |
 | 109 | [Get Down Like That](https://open.spotify.com/track/21bbVtRMzyv5rnM1LGI345) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [Get Down Like That](https://open.spotify.com/album/0X1gqMKTl5Nh0J8GfPRvE1) | 3:06 |
 | 110 | [Sounds Like Something I'd Do](https://open.spotify.com/track/5QAwDaUIcFOEYfsepGk0Fd) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Drake Milligan \- EP](https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u) | 2:26 |
 | 111 | [Good Riddance](https://open.spotify.com/track/3WwZbPizrnJqJFx86kNPs1) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [Good Riddance](https://open.spotify.com/album/0wsFRTnDflqysvqN2YQ8dz) | 2:22 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 114 | [Y'all Life](https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Y'all Life](https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y) | 3:12 |
 | 115 | [Off The Deep End](https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Off The Deep End](https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f) | 3:16 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGExNGU3NjBhYzI2YjM2YTg1NWZmYTNhMDg2ZmU2MGRk`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDRhODMzMDBmYjY0NmI2NmQyMzhjNmNmN2IwMGVmYTRi`

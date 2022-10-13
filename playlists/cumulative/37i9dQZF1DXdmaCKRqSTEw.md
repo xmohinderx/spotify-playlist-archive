@@ -4,7 +4,7 @@
 
 > The official playlist for Inventing Anna\. Watch on Netflix.
 
-19 songs - 49 min 29 sec - [published](https://open.spotify.com/playlist/782XsS9gKEgW2gg5uj85et)
+20 songs - 52 min 53 sec - [published](https://open.spotify.com/playlist/782XsS9gKEgW2gg5uj85et)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Own It](https://open.spotify.com/track/7aFBzG6MdozkQxyG4J3Qwm) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Own It](https://open.spotify.com/album/1C8TGTR9HJKt2Lcl5ocXN5) | 2:09 | 2022-03-18 |  |
 | [Rich](https://open.spotify.com/track/0fdQue15BjCMA3ov14ubF4) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 1:35 | 2022-03-18 |  |
 | [Shook](https://open.spotify.com/track/3a38vBSdr4IbomTtsOW1HL) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD) | 2:42 | 2022-03-18 |  |
-| [Talk About It](https://open.spotify.com/track/2eDnBPn2A8qIDexujBC6Fy) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Talk About It](https://open.spotify.com/album/1cZKvt4GH4hyLKjm6zIgy3) | 3:24 | 2022-03-18 |  |
+| [Talk About It](https://open.spotify.com/track/2eDnBPn2A8qIDexujBC6Fy) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Talk About It](https://open.spotify.com/album/1cZKvt4GH4hyLKjm6zIgy3) | 3:24 | 2022-03-18 | 2022-10-13 |
+| [Talk About It](https://open.spotify.com/track/4oHZRK9GPD4Fs0wyrzCNFv) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 3:24 | 2022-03-18 |  |
 | [The Pines](https://open.spotify.com/track/0uTw7TNnYn64XmCAo5jr0c) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 | 2022-03-18 |  |
 | [UNSTATUS QUO](https://open.spotify.com/track/5JrGf6LaoUgx94PamvZ4eI) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [UNSTATUS QUO](https://open.spotify.com/album/6TLLBBll0rVoCjHxnGiybO) | 2:57 | 2022-03-18 |  |
 | [Vivian Connects The Dots](https://open.spotify.com/track/4gnvkgziSWeOajYAQfg1jT) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Pierre Charles](https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5) | [Inventing Anna \(Music From The Netflix Series\)](https://open.spotify.com/album/4ryUHVYdq9dJXyr1Doc1lD) | 1:38 | 2022-03-18 |  |

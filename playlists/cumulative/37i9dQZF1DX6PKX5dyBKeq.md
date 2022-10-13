@@ -4,7 +4,7 @@
 
 > The best of UK Rap & Drill\.  Cover: NorthsideBenji & Unknown T 🇨🇦🇬🇧
 
-1,183 songs - 2 day 13 hr 1 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
+1,184 songs - 2 day 13 hr 3 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,7 +824,8 @@
 | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 | 2022-09-30 |  |
 | [Plain Jane](https://open.spotify.com/track/3um4i2Iz7V1k3xoovwg91R) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Plain Jane](https://open.spotify.com/album/1BytsId0KoI309YrKfNWdL) | 2:49 | 2020-07-11 | 2020-08-21 |
 | [Playtime](https://open.spotify.com/track/2M1KNTaSa6fMbHbPkDtMOs) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Playtime](https://open.spotify.com/album/6WQHQO4dtqONyFobfeFmCw) | 3:07 | 2021-11-26 | 2022-02-18 |
-| [Please Stay](https://open.spotify.com/track/4Zf9wD8sScwSHyl6upO9gg) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Please Stay](https://open.spotify.com/album/68qEH0gbGKySNcaM9xK8aS) | 2:34 | 2022-08-12 |  |
+| [Please Stay](https://open.spotify.com/track/4KYJHqJpWJgVd7H8fACj0y) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Please Stay](https://open.spotify.com/album/4g4VK6QDRBoZ7bdelXvJDp) | 2:34 | 2022-10-06 |  |
+| [Please Stay](https://open.spotify.com/track/4Zf9wD8sScwSHyl6upO9gg) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Please Stay](https://open.spotify.com/album/68qEH0gbGKySNcaM9xK8aS) | 2:34 | 2022-08-12 | 2022-10-13 |
 | [PLRK](https://open.spotify.com/track/7rdW9tXxsPHQDfxSWO1yX9) | [Berna](https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed) | [PLRK](https://open.spotify.com/album/4G32Y7v4HuvUopTU4bWVCq) | 3:01 | 2020-08-15 | 2020-08-30 |
 | [PMW](https://open.spotify.com/track/17OTO2RMaTZr6exF7ejaUH) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [PMW](https://open.spotify.com/album/5AHC1WGawxJlVp9EIPbwsC) | 3:31 | 2020-10-16 | 2020-11-23 |
 | [Podium](https://open.spotify.com/track/1JFCSFaNe4BcUPYp1JbaHo) | [Mercston](https://open.spotify.com/artist/6U0jmJ1VpvZre7Hg3AW8Rg) | [Podium](https://open.spotify.com/album/4Y2mDVFYNlMIdYqzZL2cyi) | 2:51 | 2021-01-08 | 2021-01-29 |

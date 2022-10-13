@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-182 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/6i54Gc32OBgUQz8RjwMK3M)
+183 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/6i54Gc32OBgUQz8RjwMK3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Mad World](https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8) | 2:33 | 2022-01-04 |  |
 | [Masala](https://open.spotify.com/track/7CZZthcEreu2RddkmekTm5) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [Masala](https://open.spotify.com/album/6WtVRdSDwevHuUDiFcEhCp) | 3:02 | 2022-03-29 | 2022-06-27 |
 | [Menage A Trois](https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Menage A Trois](https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo) | 2:48 | 2022-03-29 |  |
+| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-13 |  |
 | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK) | 2:54 | 2022-01-04 |  |
 | [Moonlight](https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight](https://open.spotify.com/album/4IU5ADOJ9DnVa9clXVhrEE) | 2:53 | 2022-03-29 | 2022-04-21 |
 | [Moonlight](https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight](https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7) | 2:53 | 2022-07-26 |  |
@@ -170,7 +171,7 @@
 | [Stars](https://open.spotify.com/track/0upAGHEMswCxPWp6rbtKbJ) | [Audax](https://open.spotify.com/artist/1rO63jwF9XN02UDK5hvdIL) | [Stars](https://open.spotify.com/album/4xmyFp8DpIzujpjV1LaSbF) | 2:38 | 2022-01-04 | 2022-07-14 |
 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-26 |  |
 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 | 2022-03-29 |  |
-| [Sweet Potato](https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV) | 2:46 | 2022-06-27 |  |
+| [Sweet Potato](https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV) | 2:46 | 2022-06-27 | 2022-10-13 |
 | [Take Me \(feat\. Gloria Kim\)](https://open.spotify.com/track/4G4CdyOtmmRXJUpV6l2Q8b) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [Take Me \(feat\. Gloria Kim\)](https://open.spotify.com/album/2iKMMT8wYcCKuXjftgtlGn) | 4:00 | 2022-03-29 |  |
 | [Taki Taki \(feat\. Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:32 | 2022-01-04 |  |
 | [That Feelin'](https://open.spotify.com/track/6pH4HlBDJRe1dWoYhpgzqS) | [Artelax](https://open.spotify.com/artist/1cmngJeHHZi2ZWodpFOLv3), [Lemarroy](https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W) | [That Feelin’](https://open.spotify.com/album/7pFHEk2U8mrikn7Ii5Ubyk) | 2:27 | 2022-01-04 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-249 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+250 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,8 +113,9 @@
 | [Gentle Clouds](https://open.spotify.com/track/1IRR5rfYWEjE3EiWi9JVZQ) | [Antonin Luther](https://open.spotify.com/artist/11sHuBcPbj0dxzuNmKgXD9) | [Floating In Space](https://open.spotify.com/album/27lGmauzxbrtAdByJ209dT) | 3:06 | 2021-09-06 |  |
 | [Gentle Serenity](https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb) | [Perfect Shapes](https://open.spotify.com/artist/7rocivfP8tOkfNxT2jp9Fr) | [Horizon](https://open.spotify.com/album/3887UhI3G4vNcTefsBA5Zi) | 3:27 | 2021-09-06 |  |
 | [Gisteren](https://open.spotify.com/track/6VlkT2wNTiNCGiPS4pH3tO) | [Casper Wiersma](https://open.spotify.com/artist/2ZEbGQS7T0YnsUHidXUVUZ) | [Gisteren](https://open.spotify.com/album/46Epx3wYFdjZGIP6IFy1zm) | 2:23 | 2022-07-11 |  |
-| [glass house](https://open.spotify.com/track/5NK9JmDzbNuiccDWbGajuY) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:49 | 2022-07-11 |  |
+| [glass house](https://open.spotify.com/track/5NK9JmDzbNuiccDWbGajuY) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:49 | 2022-07-11 | 2022-10-13 |
 | [glass house](https://open.spotify.com/track/5SP4NANOzKAzWDStzliHFk) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glass house](https://open.spotify.com/album/3dBYsUNY4YBYC07LFSAGjn) | 2:49 | 2021-09-06 | 2022-07-29 |
+| [glass house](https://open.spotify.com/track/6r42FewoFkF5VvYskh4aLL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:49 | 2022-10-04 |  |
 | [Gloaming](https://open.spotify.com/track/6oMUXEiKVDyaXdcJ2YVnuj) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Gloaming](https://open.spotify.com/album/6pSLgjMOClX8LgNDnAdK5J) | 2:15 | 2021-09-06 |  |
 | [Glorious Glow](https://open.spotify.com/track/60SnZrB33lIY2BEY553JFl) | [Soliviant](https://open.spotify.com/artist/3EwfkP9uSQ9xjiYydhiqNe) | [Glorious Glow](https://open.spotify.com/album/4evkT8PYzfeH8XchduYOik) | 3:26 | 2021-09-06 |  |
 | [Grain Of Sand](https://open.spotify.com/track/2WiuZ3Hn1qqvAoX7CUSfnm) | [Sol Aurora](https://open.spotify.com/artist/3gAQNBieKjVM4cpp5W470A) | [Grain Of Sand](https://open.spotify.com/album/0NdprMBVBSlzUK0w83q0l1) | 2:54 | 2021-09-06 |  |

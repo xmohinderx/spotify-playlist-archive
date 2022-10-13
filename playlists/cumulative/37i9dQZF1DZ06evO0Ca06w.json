@@ -98,6 +98,32 @@
     },
     {
       "album": {
+        "name": "Amampondo (Live)",
+        "url": "https://open.spotify.com/album/0IT3JkCLQuqmtMbOiIcMjX"
+      },
+      "artists": [
+        {
+          "name": "LM.ORG",
+          "url": "https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Philip Roesler",
+          "url": "https://open.spotify.com/artist/43YPcuR8oCpAFUnlrjjo7u"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370373,
+      "name": "Amampondo - Live",
+      "url": "https://open.spotify.com/track/1p14Xl7OrP4TgT0kgNA6MG"
+    },
+    {
+      "album": {
         "name": "Sangoma",
         "url": "https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI"
       },
@@ -217,7 +243,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 168600,
       "name": "Cannon (Mbayi, Mbayi)",
       "url": "https://open.spotify.com/track/0RDh1WoJ0FJwkkVvHK5DS7"
@@ -293,7 +319,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 153800,
       "name": "Down on the Corner - Remastered",
       "url": "https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe"
@@ -329,7 +355,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 139640,
       "name": "Erev Shel Shoshanim",
       "url": "https://open.spotify.com/track/5bHF4aLdksOMoNzB5micYf"
@@ -347,7 +373,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 188573,
       "name": "For What It's Worth - Remastered",
       "url": "https://open.spotify.com/track/4pVVy9TaURIiDdj5gMcIrx"
@@ -511,7 +537,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 119066,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/4PL3oMRQTbUIoxVbGr2hNM"
@@ -601,7 +627,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 188946,
       "name": "In My Life - Remastered",
       "url": "https://open.spotify.com/track/1wVPIzTItUw1Mrczy6OXE6"
@@ -771,7 +797,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 158826,
       "name": "Kulala - Remastered",
       "url": "https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54"
@@ -789,7 +815,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 152493,
       "name": "Kwazulu (In the Land of the Zulus)",
       "url": "https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK"
@@ -861,7 +887,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 189840,
       "name": "La Guinee Guine",
       "url": "https://open.spotify.com/track/0ZNcAfVpZ3HtUz7oHWilAV"
@@ -1197,7 +1223,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 165209,
       "name": "Miriam's Goodbye to Africa",
       "url": "https://open.spotify.com/track/4mlNdCgMVZVRvywKJja2Cs"
@@ -1251,7 +1277,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 216266,
       "name": "Mo\u00f4louyame",
       "url": "https://open.spotify.com/track/322aPb3GHH1HaHjzR7eBBJ"
@@ -1403,7 +1429,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 229533,
       "name": "Pata Pata 2000",
       "url": "https://open.spotify.com/track/3Q6teQgxvr6a2qZUvEOglf"
@@ -1425,7 +1451,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 255760,
       "name": "Pata-Pata (feat. Miriam Makeba)",
       "url": "https://open.spotify.com/track/3BcQp5aLCDx1XdHmB6pyjE"
@@ -1461,7 +1487,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 240600,
       "name": "Quit It",
       "url": "https://open.spotify.com/track/5M2RyoYc95uC79sFUp2EJ1"
@@ -1591,7 +1617,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 165813,
       "name": "Sunrise, Sunset (From the Broadway Musical \"Fiddler On the Roof\")",
       "url": "https://open.spotify.com/track/7x71ai4plaSJN7TiXoKrZ0"
@@ -1613,7 +1639,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 264613,
       "name": "Thank You Mama",
       "url": "https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw"
@@ -1631,7 +1657,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 153373,
       "name": "The Click Song",
       "url": "https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8"
@@ -1667,7 +1693,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 294733,
       "name": "The Click Song a.k.a. Qongqothwane",
       "url": "https://open.spotify.com/track/3hEjs6cSbz0lULe5HCZuhL"
@@ -1685,7 +1711,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 300573,
       "name": "The Lion Cries - Mbube",
       "url": "https://open.spotify.com/track/6YQouQ4X59d2yc0ij92JY6"
@@ -1826,6 +1852,28 @@
     },
     {
       "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Skylarks",
+          "url": "https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144938,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/1Br4SIHreIXbzvU2oLyHfg"
+    },
+    {
+      "album": {
         "name": "Keep Me In Mind",
         "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
       },
@@ -1867,8 +1915,8 @@
       },
       "artists": [
         {
-          "name": "G-Washington",
-          "url": "https://open.spotify.com/artist/4uYej1ftCMKWS3yRBcUKYA"
+          "name": "G-Wash10",
+          "url": "https://open.spotify.com/artist/2P4NB1H98x8JlCYRbOR9xm"
         },
         {
           "name": "Miriam Makeba",
@@ -1877,7 +1925,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 475627,
       "name": "Warrior Mbube",
       "url": "https://open.spotify.com/track/6h8EgWXQRKv1zmiD8ZNWWC"

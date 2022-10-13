@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-406 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+407 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Berlin Rain](https://open.spotify.com/track/4bIti4ZqD4yOkTvHEHJ04L) | [Muscle](https://open.spotify.com/artist/7rX3arPA93JjNPBtZ9JNu2) | [Berlin Rain / At Dusk](https://open.spotify.com/album/1BzHg6Un80v0yApbtlyt90) | 1:33 | 2019-05-26\* | 2020-01-14 |
 | [Best Regards](https://open.spotify.com/track/4DAgTthT39ZAJTv6Vya7df) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Best Regards](https://open.spotify.com/album/5EFl3ZMdhYIhsBpysh8QlF) | 2:36 | 2020-06-19 | 2022-07-22 |
 | [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 | 2021-09-28 | 2022-07-27 |
-| [birchwood](https://open.spotify.com/track/2Zf7bX6kpYa1qaixtXumKM) | [sus9th](https://open.spotify.com/artist/1AfdR7N8ClMmksHKhr2IGC) | [aura collis](https://open.spotify.com/album/2KeGLxZlT33x8rUwgKyF00) | 3:27 | 2022-01-27 |  |
+| [birchwood](https://open.spotify.com/track/2Zf7bX6kpYa1qaixtXumKM) | [sus9th](https://open.spotify.com/artist/1AfdR7N8ClMmksHKhr2IGC) | [aura collis](https://open.spotify.com/album/2KeGLxZlT33x8rUwgKyF00) | 3:27 | 2022-01-27 | 2022-10-13 |
 | [bitter soil](https://open.spotify.com/track/5xmX8H9bWWlGZrs7UBuYLJ) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bitter soil](https://open.spotify.com/album/6rzVxkkcRVKGjAZO2KkEUB) | 2:06 | 2022-07-28 | 2022-08-01 |
 | [bitter soil](https://open.spotify.com/track/77QG4aqova0Ld9lxJ6qzwe) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bitter soil](https://open.spotify.com/album/4H5sX2oI4Ld0VeKEtEvCMH) | 2:06 | 2022-02-10 | 2022-07-29 |
 | [Bittersweet](https://open.spotify.com/track/4KFcmYICCe24YbAxAWEQAW) | [baaskaT](https://open.spotify.com/artist/0mvxieGhMmy9gnbYGYtnI6) | [Flickshots & Quickscopes](https://open.spotify.com/album/2TR1uEsxzXktTAltkGhBFH) | 1:26 | 2022-07-28 |  |
@@ -281,6 +281,7 @@
 | [Purple T Shirts](https://open.spotify.com/track/1IUh4pGnhEP2XLfgV9lIuu) | [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Energy Dreams](https://open.spotify.com/album/5NbcAITHDzXJmJ7BDovK7v) | 3:17 | 2019-05-26\* | 2021-05-28 |
 | [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 | 2020-08-30 | 2022-07-25 |
 | [Rain season](https://open.spotify.com/track/6khEYI59dTyi3IMuzOKaoD) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK) | [Rain season / The sun came out](https://open.spotify.com/album/0OvVyvIdtM8RJ1uC2O1yuB) | 2:04 | 2019-06-14 | 2019-08-13 |
+| [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 | 2022-10-13 |  |
 | [Rainy Day](https://open.spotify.com/track/5b2pZuGJVlnVBTMGDQVhmJ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [HighSáez](https://open.spotify.com/album/1PgPW5Eg8239FOnKPorn2n) | 1:19 | 2020-07-18 | 2022-07-24 |
 | [re: Belief](https://open.spotify.com/track/0ajeqWnQFIVRiNZ2BZUV3N) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:03 | 2022-07-28 |  |
 | [re: Belief](https://open.spotify.com/track/0g1Pc2u4bltu3qWzidT1Yk) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [re: Belief](https://open.spotify.com/album/0QWsMY7mIJFA7Rj4gDiHIN) | 2:03 | 2022-07-28 | 2022-08-01 |

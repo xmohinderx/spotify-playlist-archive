@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-85 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
+86 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [If You Were Mine](https://open.spotify.com/track/7d5CdPCDQdFgG580YM2yhU) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [If You Were Mine](https://open.spotify.com/album/5kerw9tRpakleiSbiSvUnI) | 3:19 | 2022-06-03 |  |
 | [Immaterial](https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:52 | 2021-10-15 | 2022-07-29 |
 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2022-07-14 |  |
-| [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 | 2021-10-15 |  |
+| [IN IN IN](https://open.spotify.com/track/3APSXl8dTTumv9L1HHpCCV) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:17 | 2022-07-14 |  |
+| [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 | 2021-10-15 | 2022-10-13 |
 | [Inside Your Head](https://open.spotify.com/track/6iRSsdRMHkkJfAqT4Zg5oM) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Inside Your Head](https://open.spotify.com/album/3PnWelLCKVI3bDKqtndeiO) | 4:13 | 2021-10-15 |  |
 | [Let A Bitch Know](https://open.spotify.com/track/3cuC10phh07XQrztcNWreU) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [Let A Bitch Know](https://open.spotify.com/album/7MrGtbX1GlNUU3a3uYm4qc) | 5:29 | 2021-10-15 |  |
 | [Lifetime \- HAAi’s Green Lamborghini Romix](https://open.spotify.com/track/7czIjs2dvjjmGEQ8k4FJGl) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lifetime Remixes](https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy) | 5:36 | 2021-10-15 |  |

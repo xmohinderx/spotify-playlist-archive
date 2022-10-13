@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-324 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
+325 songs - 21 hr 53 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 | 2020-10-20\* | 2021-01-21 |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/5whJHDkwt2GoohrZSWkREv) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Have You Met Miss Jones?](https://open.spotify.com/album/3SE6WQEbpDPe0TUe7kGfuR) | 3:25 | 2020-11-05 | 2022-05-18 |
 | [Hector's Plan](https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta) | [Norwood Macdonald Group](https://open.spotify.com/artist/6HhfFG1K5tRpfzuCzGKQfL) | [Hector's Plan](https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF) | 2:24 | 2022-06-22 |  |
-| [Here's That Rainy Day](https://open.spotify.com/track/3DgjObIndXAIIsTM4YdroG) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 2:37 | 2020-10-20\* |  |
+| [Here's That Rainy Day](https://open.spotify.com/track/3DgjObIndXAIIsTM4YdroG) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 2:37 | 2020-10-20\* | 2022-10-13 |
 | [Here's That Rainy Day](https://open.spotify.com/track/6KLKhehBgujRbKk4Y3RkfC) | [Seth William](https://open.spotify.com/artist/4wmS3zcqEbHaGPSib72vQB) | [My Shining Hour](https://open.spotify.com/album/6vjNpvH3ZUgauSZFxQSqyK) | 3:41 | 2020-10-20\* | 2021-01-21 |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-06-01 |  |
 | [How High the Moon](https://open.spotify.com/track/39imRoB0vV3IREEX9xaTwR) | [Leigh Daniels](https://open.spotify.com/artist/1ieFgrCmKWj5ryTlo8TMWC) | [Body and Soul EP](https://open.spotify.com/album/1K3632jYpmxkbkPmPX8k5S) | 2:44 | 2020-10-20\* | 2021-01-21 |
@@ -217,6 +217,7 @@
 | [Oh Good Grief](https://open.spotify.com/track/2Xa7KXq1fLZ6A4WyQSU6kF) | [Franco Reiss](https://open.spotify.com/artist/67WjJlQvj3PHZKkBTpVbOy) | [Angel Eyes](https://open.spotify.com/album/7Ax5m45a1FCPw7ztlGSwIb) | 3:08 | 2020-10-20\* | 2021-01-21 |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2020-10-20\* | 2020-12-15 |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2020-10-20\* |  |
+| [Peace](https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Peace](https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn) | 3:37 | 2022-10-07 |  |
 | [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2022-09-20 |  |
 | [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-08 |  |
 | [Pink Balloons](https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir) | [Manuel Cali Band](https://open.spotify.com/artist/0EUayRxSuHe3rEgexVFpk6) | [Pink Balloons](https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q) | 4:24 | 2022-01-19 |  |

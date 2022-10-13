@@ -4,7 +4,7 @@
 
 > Me and bae = love
 
-156 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
+158 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [5EVER](https://open.spotify.com/track/2RGBEXic4VNloxU1PPa6K8) | [Julian](https://open.spotify.com/artist/4vYj7nah6DyidXoeKEDRy7) | [Silver Spoons](https://open.spotify.com/album/5AVrwKZ7nMhmVTOr6DibIU) | 2:47 | 2022-07-22 |  |
 | [5EVER](https://open.spotify.com/track/7wnnnbsAcvA4cpR9Bs9U3k) | [Julian](https://open.spotify.com/artist/4vYj7nah6DyidXoeKEDRy7) | [5EVER](https://open.spotify.com/album/6BJ9pXWmezQlJP1KuNDm2n) | 2:47 | 2021-12-16 | 2022-07-29 |
 | [90 percent](https://open.spotify.com/track/3sBwYK7ShSdnBS6EECgs5F) | [Rico Greene](https://open.spotify.com/artist/6mpb294qwS2LTTwSSONdWS) | [90 percent](https://open.spotify.com/album/5XQ1765TIYIa0slsGcR8re) | 3:53 | 2021-12-16 |  |
-| [All About You](https://open.spotify.com/track/4aqRAulpuMv4np1LloQwYJ) | [23rd Letter](https://open.spotify.com/artist/2tpT0yIItPFcLOmh0tml9J) | [All About You](https://open.spotify.com/album/5IL9eNIJTmCKB02gUUdLOY) | 3:10 | 2022-01-27 |  |
+| [All About You](https://open.spotify.com/track/4aqRAulpuMv4np1LloQwYJ) | [23rd Letter](https://open.spotify.com/artist/2tpT0yIItPFcLOmh0tml9J) | [All About You](https://open.spotify.com/album/5IL9eNIJTmCKB02gUUdLOY) | 3:10 | 2022-01-27 | 2022-10-13 |
+| [All About You](https://open.spotify.com/track/6Kbaa3G0goXxwIyIi0q5ic) | [23rd Letter](https://open.spotify.com/artist/2tpT0yIItPFcLOmh0tml9J) | [All About You](https://open.spotify.com/album/6DVHEzXIRURCUoRwwYPlC8) | 3:10 | 2022-07-22 |  |
 | [Arcade \(feat\. FLETCHER\)](https://open.spotify.com/track/4Ld4kbKo1eOzToQ0P8JA0V) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Small Town Boy](https://open.spotify.com/album/1FNBevfbKAzZsgI2RpkkQQ) | 3:07 | 2021-12-16 | 2022-03-26 |
 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/58w68w4s8h9gw3xrDaXyuj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/album/1RtGE6VCkSEwd5jm0v1Wfp) | 2:49 | 2021-12-16 |  |
 | [Bad](https://open.spotify.com/track/0Bfs2jt51qWNeF5iC8OEjd) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Bad](https://open.spotify.com/album/6sjhG7TWY4MgtwReg1zAMN) | 3:08 | 2021-12-16 | 2022-06-10 |
@@ -87,7 +88,8 @@
 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 | 2021-12-16 | 2022-03-26 |
 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 | 2021-12-16 |  |
 | [Long Night](https://open.spotify.com/track/1hKOMItgWXvcYmyhreFJng) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [Long Night](https://open.spotify.com/album/6ajJV3tPwlmQBJWjCAKZlv) | 3:01 | 2021-12-16 |  |
-| [Love Haze](https://open.spotify.com/track/3UPq5vcUDRgVRfghbNcqCR) | [JPL](https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G) | [Love Haze](https://open.spotify.com/album/679TkSsX2sIJIBAOIv52Ad) | 2:59 | 2021-12-16 |  |
+| [Love Haze](https://open.spotify.com/track/3UPq5vcUDRgVRfghbNcqCR) | [JPL](https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G) | [Love Haze](https://open.spotify.com/album/679TkSsX2sIJIBAOIv52Ad) | 2:59 | 2021-12-16 | 2022-10-13 |
+| [Love Haze](https://open.spotify.com/track/568o5iTUDb6e7al75YI7Dn) | [JPL](https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G) | [Love Haze](https://open.spotify.com/album/2hufaDzF9MfrF2Q73jIhgb) | 2:59 | 2022-07-22 |  |
 | [love is just a word](https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [love is just a word](https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg) | 3:46 | 2022-03-25 |  |
 | [Love is Pain](https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:44 | 2022-03-25 |  |
 | [Love Me Like You Say You Love Me](https://open.spotify.com/track/48awI0zekKygGs7Yz03uNU) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Love Me Like You Say You Love Me](https://open.spotify.com/album/2XRkxFKzK69QcPC2tIhg3t) | 2:19 | 2021-12-16 |  |

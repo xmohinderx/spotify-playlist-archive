@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,908 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,006 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 14 | [Feels Like Summer](https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 4:57 |
 | 15 | [starstruck](https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 7](https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q) | 2:03 |
 | 16 | [Spooky SZN 3](https://open.spotify.com/track/5Lr1ffVzV34ash1NqbAPIR) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Spooky SZN 3](https://open.spotify.com/album/2azBbeh6hFJvP0eLUGn7hz) | 3:01 |
-| 17 | [I\. The Worst Guys](https://open.spotify.com/track/17wxjHNmOSstc6nVIe401T) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:39 |
+| 17 | [I\. The Worst Guys](https://open.spotify.com/track/0kErPGykp7EJo7L5fx8YjB) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:39 |
 | 18 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 |
 | 19 | [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 |
 | 20 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 65 | [Just Like That](https://open.spotify.com/track/3vRSduRquXh9U5EvRB7mS7) | [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Just Like That](https://open.spotify.com/album/3xml1yNnc0XUO1oOnOSoDU) | 3:11 |
 | 66 | [Upper Hand](https://open.spotify.com/track/4BIXStJCdslgGUnuoz87JC) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [No Love Is Ever Wasted](https://open.spotify.com/album/0riXZXCMgIwXMPmrJhXErZ) | 2:52 |
 | 67 | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6) | 3:44 |
-| 68 | [Loved You Since I Was Young](https://open.spotify.com/track/0JTEcPbg192uSL2j7UJasI) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/6MyeUwv1VQJgxiIJBdWJoH) | 3:03 |
+| 68 | [Loved You Since I Was Young](https://open.spotify.com/track/4ayHZpebCShYtJuSL8701H) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/7u4FHNJdVRLDLuum8iJnkd) | 3:03 |
 | 69 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 |
 | 70 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
 | 71 | [Live Fast Die Numb](https://open.spotify.com/track/10omO03JNpJwhjo538gdNc) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Live Fast Die Numb](https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH) | 2:14 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 85 | [LYSA](https://open.spotify.com/track/5FZsAaTNEEz5LNBO0bcIZv) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [LYSA](https://open.spotify.com/album/3Hl7Pv7T7qqTMUwErYu6uk) | 2:37 |
 | 86 | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3) | [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/album/7KgNMvzNbOs0LtO0dduZlt) | 3:28 |
 | 87 | [2 more minutes](https://open.spotify.com/track/63kIONRvO9SrjwVsYbTFUJ) | [danny orange](https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT) | [fun while it lasted](https://open.spotify.com/album/3j4kTkeH2BCc0VwWqRVYds) | 2:16 |
-| 88 | [Sorry Not Sorry](https://open.spotify.com/track/41ojBJmLyjj9l1e0iLK98X) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/1wG5Kl0kWVFOWxs3SZ2JTo) | 2:40 |
+| 88 | [Sorry Not Sorry](https://open.spotify.com/track/4eeYVXUqJdGePFWBsNQDBR) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/3pq8h5l46v9qk2Cx03qX0q) | 2:40 |
 | 89 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 |
 | 90 | [Bitch Back \(feat\. FLETCHER\)](https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Bitch Back](https://open.spotify.com/album/5if1VcWOdT94468kyjgN3Z) | 2:23 |
 | 91 | [where did u go?](https://open.spotify.com/track/0feoAoDhBeSuBLAHuyWGq9) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [where did u go?](https://open.spotify.com/album/2IpxLRYidbeYmaonFzEU9y) | 3:46 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 93 | [PAY ATTENTION](https://open.spotify.com/track/7h74fcrF3X8tHrATyM4Wx3) | [Luken](https://open.spotify.com/artist/5My5zbBpSGJBOQGyCaAVCE) | [PAY ATTENTION](https://open.spotify.com/album/3Jt0ysuRqkGLqZ94NUv9iO) | 2:07 |
 | 94 | [19](https://open.spotify.com/track/6vsXEuQuTx6eCRcTFwSUix) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [19](https://open.spotify.com/album/1brWVptBNPxK6vokRsL3op) | 2:06 |
 | 95 | [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 |
-| 96 | [RESCUE](https://open.spotify.com/track/40sUznaxaBvL5nEDTO5Trq) | [Johnny 2 Phones](https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy) | [RESCUE](https://open.spotify.com/album/4SpwESU9SstT11kMUgE9cZ) | 2:37 |
+| 96 | [RESCUE](https://open.spotify.com/track/2FUhoZx7SjJNaS2Yj87ICA) | [Johnny 2 Phones](https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy) | [RESCUE](https://open.spotify.com/album/3SzZEXaQJCrgHmEA6gNo3N) | 2:37 |
 | 97 | [digital gf](https://open.spotify.com/track/5vXkAnl3w8PadChqmfLZFJ) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [less than three](https://open.spotify.com/album/6pVtFoRe5MnaTC751A2paD) | 2:43 |
 | 98 | [dreamerboi](https://open.spotify.com/track/0LDYevJeLyC0gXiohSvcoi) | [Alan Fiore](https://open.spotify.com/artist/7n0LV0swUfy2RXrZByeNxI) | [dreamerboi](https://open.spotify.com/album/0CfVqR4YYQMWEQuKkcTGcy) | 2:17 |
 | 99 | [Flat Tire](https://open.spotify.com/track/592UtxyRpf6eOrjS6b2Jur) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Flat Tire](https://open.spotify.com/album/1L1AthYINK9Shv4lgYxIEw) | 2:16 |
 | 100 | [wonder why](https://open.spotify.com/track/6R6IEZgAq8clMRlm7KjnwS) | [Aizayah Hills](https://open.spotify.com/artist/5BLTxShcXYTib23V0lRdDt) | [wonder why](https://open.spotify.com/album/5gH0RB9P5hrZyvHcHBWHRB) | 1:56 |
 
-Snapshot ID: `MTY2NTQ5ODA2MSwwMDAwMDAwMDI5Y2RiZDhiNTgyZmQ4NzAyZDRmODQ4NGViZjk1NDcz`
+Snapshot ID: `MTY2NTQ5ODA2MSwwMDAwMDAwMDA0YTM3ZjQ1MTg2ZGE5NTYyMGQ0Y2QzZTgxODA1NWEx`

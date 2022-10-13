@@ -4,7 +4,7 @@
 
 > The Real hip\-hop\. Cover: Freddie Gibbs
 
-236 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
+237 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/6b1uvC2GnPm4wNsHaOlZM7) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:23 | 2022-08-26 |  |
 | [Champagne Glasses \(feat\. Freddie Gibbs & Stevie Wonder\)](https://open.spotify.com/track/7t7PRXIimTNJ90MUqPNIPz) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 4:17 | 2022-01-14 | 2022-05-14 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-03 | 2022-02-26 |
-| [Charlie Charlie](https://open.spotify.com/track/2jbrK1JBiL4EupGFeHzazt) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv), [Nico Porter](https://open.spotify.com/artist/7thOgTVMx4Xav2KaWbR5qQ) | [Freelance: Charlie](https://open.spotify.com/album/6JLtQCr4wR5TbPMCK53XDt) | 1:32 | 2022-07-29 |  |
+| [Charlie Charlie](https://open.spotify.com/track/2jbrK1JBiL4EupGFeHzazt) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv), [Nico Porter](https://open.spotify.com/artist/7thOgTVMx4Xav2KaWbR5qQ) | [Freelance: Charlie](https://open.spotify.com/album/6JLtQCr4wR5TbPMCK53XDt) | 1:32 | 2022-07-29 | 2022-10-13 |
+| [Charlie Charlie](https://open.spotify.com/track/7sHUDMtdrBeWf83ZBPmjDx) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv), [Nico Porter](https://open.spotify.com/artist/7thOgTVMx4Xav2KaWbR5qQ) | [Freelance: Charlie](https://open.spotify.com/album/2Z43pvAmKDJdHAVhC4a7ga) | 1:32 | 2022-10-07 |  |
 | [Checkmate](https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Checkmate](https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI) | 2:50 | 2022-09-09 |  |
 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-03-25 | 2022-04-23 |
 | [Coastin'](https://open.spotify.com/track/40cVE3AmG0BSU4IgxfVqVa) | [KXNG Crooked](https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1), [Joell Ortiz](https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq), [Traxx Sanders](https://open.spotify.com/artist/39hYtulYdIhaHAWXrAdlJy) | [Rise & Fall of Slaughterhouse](https://open.spotify.com/album/0zQGSKJi3TcAQF5jXzSvtp) | 4:00 | 2022-03-11 | 2022-07-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,616 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,625 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 76 | [Secrets](https://open.spotify.com/track/7Kw1g2prIMcE3aOWd0TBMp) | [王品怡](https://open.spotify.com/artist/47rcMBPKWgIt6pDglkNrFn), [Kevin Liao](https://open.spotify.com/artist/38e3dRuXJNEIlJLo2ux8pA) | [為你唱情歌 \- Secrets](https://open.spotify.com/album/0QdXaHp7mskkExLDZwhRAW) | 2:17 |
 | 77 | [好好愛著](https://open.spotify.com/track/2kwSEBJDF1awiH60TIPkHo) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [不如我們今天見](https://open.spotify.com/album/06mKCCEtowAqNlMFYahFjO) | 4:13 |
 | 78 | [Prototype](https://open.spotify.com/track/7qfKXRvQsF6TkpYWtsxFU2) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [Gei](https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts) | 4:02 |
-| 79 | [北極星](https://open.spotify.com/track/2nZrbgv7AF7NbG5pVogGtb) | [JJ Neo](https://open.spotify.com/artist/4kADHO2hay9ZBo7Y0upMCu) | [北極星](https://open.spotify.com/album/3aPsQrlww2nz3SBE5zEkUQ) | 2:34 |
+| 79 | [北極星](https://open.spotify.com/track/2nZrbgv7AF7NbG5pVogGtb) | [JJ Neo](https://open.spotify.com/artist/29XpDtSJTMMKR4BVKijsYz) | [北極星](https://open.spotify.com/album/3aPsQrlww2nz3SBE5zEkUQ) | 2:34 |
 | 80 | [女字旁 \(《台北女子圖鑑》戲劇片尾曲\)](https://open.spotify.com/track/4ctSTDHcpW4bz90mDvjJcv) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [女字旁](https://open.spotify.com/album/7xYHosEnDdzpCPyksBffR8) | 4:34 |
 | 81 | [定居月球](https://open.spotify.com/track/0FSAC5eYeDgpIn9rPqzmU6) | [申宇琳](https://open.spotify.com/artist/5Po9NiAH22qTtvYiCaYqA0), [張簡君偉](https://open.spotify.com/artist/1DhebhCKHTpQ3Jx65HXsIU) | [定居月球](https://open.spotify.com/album/1kRB0hNSBDYKLNMaPLZWN2) | 3:19 |
 | 82 | [星海](https://open.spotify.com/track/4UJwGQKRuMbe55CyPPBNpW) | [Layla Sania](https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK) | [星海](https://open.spotify.com/album/7cbvmmGOQxuNLKieVgO7QO) | 3:01 |

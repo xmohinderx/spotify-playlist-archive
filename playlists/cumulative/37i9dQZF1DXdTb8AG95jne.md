@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: DAHEE\(다희\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-515 songs - 1 day 7 hr 31 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
+516 songs - 1 day 7 hr 34 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Falling Star](https://open.spotify.com/track/3Zfb4u1goGP0NQV08lxZ56) | [Up\-Dawn](https://open.spotify.com/artist/2iuvwj3RhVBo3OM1WTSlZu) | [Falling Star](https://open.spotify.com/album/163ztGWzGI1Wk6sB9QAPHG) | 4:03 | 2021-12-21 | 2022-07-21 |
 | [Far 멀리](https://open.spotify.com/track/7y4ye2TL1fT2WUTes5Q921) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Between 사이](https://open.spotify.com/album/6H8uxH4wbBRchrN1O6lgOh) | 3:34 | 2022-03-31 | 2022-04-16 |
 | [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 | 2021-12-21 | 2022-07-28 |
+| [Fighting! 응원해](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting! 응원해](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 | 2022-10-07 |  |
 | [Fighting! 응원해](https://open.spotify.com/track/6jD4BKw85zAOpK9DCx6uYm) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting! 응원해](https://open.spotify.com/album/2DGqiNKAYJIJuqcQfKU2Hi) | 3:05 | 2021-12-12 | 2022-07-21 |
 | [Fine](https://open.spotify.com/track/6VVNdVTR3akq26mrvlEUQJ) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [Fine](https://open.spotify.com/album/6KXd8ZKlGFulveeHsOH5cX) | 2:57 | 2022-03-31 | 2022-04-13 |
 | [FINE](https://open.spotify.com/track/1HP9RKXLLbanlco3KB0QsN) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [FINE](https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks) | 2:37 | 2022-07-08 | 2022-08-09 |
@@ -257,7 +258,7 @@
 | [lost](https://open.spotify.com/track/53zgUNqd4DCRSRQUn4J4aJ) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [lost](https://open.spotify.com/album/3IAAhPOt3Ui36lJQ93Y7x8) | 3:50 | 2022-03-31 | 2022-07-27 |
 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 | 2022-06-08 |  |
 | [Lost in the City](https://open.spotify.com/track/5tZFCjvVbOuEKkeOi6GWZd) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Lost in the City](https://open.spotify.com/album/4cN9wky9XIVZqrAKTASmTe) | 3:23 | 2022-09-05 | 2022-09-21 |
-| [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 |  |
+| [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 | 2022-10-13 |
 | [Love like a bouquet,](https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK) | [CHOMINWOO](https://open.spotify.com/artist/1mISG0BUcXpI7kJKtRqthM), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Beautiful struggle](https://open.spotify.com/album/17X67myikY9mktuS1UHAyx) | 3:18 | 2022-08-19 | 2022-09-06 |
 | [Love Story](https://open.spotify.com/track/7GxrwmjHuHr7F5wjp8O5Ti) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [Love Story](https://open.spotify.com/album/3k9RocwRCD9q5HS1Io53s3) | 4:02 | 2022-06-18 | 2022-06-30 |
 | [Love Wave](https://open.spotify.com/track/1Z5XuXbFW6dl8wlLnqxu6l) | [Lovewave](https://open.spotify.com/artist/54On25RhdQIrqHwWj3JO3T) | [Love Wave](https://open.spotify.com/album/7dFGuAqh6O68Q5xof0qAXm) | 4:09 | 2021-12-21 | 2022-07-28 |

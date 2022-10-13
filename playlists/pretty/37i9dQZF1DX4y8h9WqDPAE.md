@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Joyce Wrice
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,750,279 likes - 71 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,750,381 likes - 71 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

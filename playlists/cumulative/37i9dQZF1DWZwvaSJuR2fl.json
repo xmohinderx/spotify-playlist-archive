@@ -1004,32 +1004,6 @@
     },
     {
       "album": {
-        "name": "Dvor\u00e1k: Serenades for Strings and Winds",
-        "url": "https://open.spotify.com/album/2kIYajHnGZfecURpw7QyAo"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Myung-Whun Chung",
-          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
-        }
-      ],
-      "date_added": "2022-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 295218,
-      "name": "Serenade for Strings in E Major, Op. 22, B. 52: IV. Larghetto",
-      "url": "https://open.spotify.com/track/3o9br9LskOEbwc5irxfHqR"
-    },
-    {
-      "album": {
         "name": "Tchaikovsky: Serenade For Strings / Dvor\u00e1k: Serenade For Strings",
         "url": "https://open.spotify.com/album/2lf78D4V5E0khuU33D3qVZ"
       },
@@ -1051,7 +1025,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 296000,
-      "name": "Serenade for Strings in E, Op. 22: 1. Moderato",
+      "name": "Serenade for Strings in E Major, Op. 22, B. 52: I. Moderato",
       "url": "https://open.spotify.com/track/4Uk5HBXrc3bo5q0d2uqnhk"
     },
     {
@@ -1077,8 +1051,34 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 451000,
-      "name": "Serenade for Strings in E, Op. 22: 2. Tempo di valse",
+      "name": "Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse",
       "url": "https://open.spotify.com/track/4TaDgdR7HqfAlnBoRjoMYI"
+    },
+    {
+      "album": {
+        "name": "Dvor\u00e1k: Serenades for Strings and Winds",
+        "url": "https://open.spotify.com/album/2kIYajHnGZfecURpw7QyAo"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Myung-Whun Chung",
+          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295218,
+      "name": "Serenade for Strings in E Major, Op. 22, B. 52: IV. Larghetto",
+      "url": "https://open.spotify.com/track/3o9br9LskOEbwc5irxfHqR"
     },
     {
       "album": {

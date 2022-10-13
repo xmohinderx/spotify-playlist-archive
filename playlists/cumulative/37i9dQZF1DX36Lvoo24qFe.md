@@ -4,7 +4,7 @@
 
 > The ultimate playlist to water your plants to.
 
-33 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/4qsoHkbHK7hopVKy8mBsRR)
+34 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/4qsoHkbHK7hopVKy8mBsRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [alex g treehouse cover](https://open.spotify.com/track/1dQp6zZgvJj4dTrbQJrZn4) | [kelseydog](https://open.spotify.com/artist/2ApxzswVcHDlqJYfonvcGU) | [thinking](https://open.spotify.com/album/7tmREtxIU8NPJmI6OoN8R7) | 0:39 | 2021-05-17 |  |
 | [Apple Pie](https://open.spotify.com/track/6scpNkWEmUxmKY7nYjVLsX) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo \(Expanded Edition\)](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 3:39 | 2021-05-17 |  |
 | [Are You All Good?](https://open.spotify.com/track/1kt7yK7e8c6ELn7mzb5UCQ) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [London](https://open.spotify.com/album/191t2Rd7QU3NbupbMbjgUP) | 3:11 | 2021-05-17 | 2022-07-29 |
-| [Are You All Good?](https://open.spotify.com/track/5GCarc6IOkTIMGEVQ2YOQ4) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/71QcIcoDf84hU8CVrBNInN) | 3:11 | 2021-05-17 |  |
+| [Are You All Good?](https://open.spotify.com/track/5GCarc6IOkTIMGEVQ2YOQ4) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/71QcIcoDf84hU8CVrBNInN) | 3:11 | 2021-05-17 | 2022-10-13 |
+| [Are You All Good?](https://open.spotify.com/track/7I5tV3ZQVLRav2PADoFbb9) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/5w5bwL9qRsIQn58XqVhzO5) | 3:11 | 2021-05-17 |  |
 | [bad idea](https://open.spotify.com/track/46Sm6zDT4Yer5NcPHAY76g) | [89ine](https://open.spotify.com/artist/3FyNBN3DLUkQ2WEi1vcyDl), [Shiloh dynasty](https://open.spotify.com/artist/1VGplo3KNPpWv54O6mRrMQ) | [permanent vacation](https://open.spotify.com/album/2TT53c5M4tppT9pBTNpPcl) | 2:37 | 2021-05-17 |  |
 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 | 2021-05-17 |  |
 | [Burning Pile Slowed](https://open.spotify.com/track/2qaJKtEUiWSxX8MfP97LzW) | [YounganYoungan](https://open.spotify.com/artist/7CgEnGp4hEhpLEedNgG2oF) | [Burning Pile Slowed](https://open.spotify.com/album/5t7bAfLepngxW6xsCUCD3s) | 5:27 | 2021-05-17 | 2022-09-28 |

@@ -25919,24 +25919,6 @@
     {
       "album": {
         "name": "Happiness",
-        "url": "https://open.spotify.com/album/2F9IVJCZmaoCOBVOvIcYj8"
-      },
-      "artists": [
-        {
-          "name": "Tonbandger\u00e4t",
-          "url": "https://open.spotify.com/artist/0PUf7ZQsGx7s7en5EVfNNx"
-        }
-      ],
-      "date_added": "2022-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190080,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/7MKkJGoeTSynk1FrrfN4sh"
-    },
-    {
-      "album": {
-        "name": "Happiness",
         "url": "https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8"
       },
       "artists": [
@@ -25951,6 +25933,24 @@
       "duration_ms": 235963,
       "name": "Happiness (Dance Floor Edit)",
       "url": "https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk"
+    },
+    {
+      "album": {
+        "name": "Happiness Comes in Waves",
+        "url": "https://open.spotify.com/album/2F9IVJCZmaoCOBVOvIcYj8"
+      },
+      "artists": [
+        {
+          "name": "Tonbandger\u00e4t",
+          "url": "https://open.spotify.com/artist/0PUf7ZQsGx7s7en5EVfNNx"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Happiness Comes in Waves",
+      "url": "https://open.spotify.com/track/7MKkJGoeTSynk1FrrfN4sh"
     },
     {
       "album": {
@@ -29875,10 +29875,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 188680,
       "name": "I Think My Mind Has Made Its Mind Up",
       "url": "https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V"
+    },
+    {
+      "album": {
+        "name": "I Think My Mind Has Made Its Mind Up",
+        "url": "https://open.spotify.com/album/1q132A3KkxRLRrEiWZXWqN"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "I Think My Mind Has Made Its Mind Up",
+      "url": "https://open.spotify.com/track/2oal7Q9v9hFQXFZbaiGNsy"
     },
     {
       "album": {
@@ -53465,10 +53483,32 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 159252,
       "name": "Scandalous (with Tinashe)",
       "url": "https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq"
+    },
+    {
+      "album": {
+        "name": "Scandalous (with Tinashe)",
+        "url": "https://open.spotify.com/album/5TIrVSKDY1rxhqPu6Axw7r"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159252,
+      "name": "Scandalous (with Tinashe)",
+      "url": "https://open.spotify.com/track/4KQLEIHhg3Pjdgx1QY6Ehv"
     },
     {
       "album": {

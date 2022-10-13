@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2022\. Esteban Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,088 likes - 74 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,264 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 32 | [Soy Infante](https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Soy Infante](https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1) | 2:34 |
 | 33 | [Estilos Distintos \(Versión Banda\)](https://open.spotify.com/track/0DM0Ajf4ZXoreMnOeDkYCx) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Estilos Distintos \(Versión Banda\)](https://open.spotify.com/album/38YIoO1BldtfEMWke9uwHh) | 1:57 |
 | 34 | [El Deportivo](https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Deportivo](https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg) | 3:12 |
-| 35 | [El Jami](https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S) | [Grupo 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO) | 2:59 |
+| 35 | [El Jami](https://open.spotify.com/track/0v4ySxml0fwgYJAYazBBJB) | [Grupo 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/1nRul8PMSoyoLfdJ2JDgne) | 2:59 |
 | 36 | [El Dinero No Me Cambia \(En Vivo\)](https://open.spotify.com/track/3rk3TMLwzDbKdBdUFI5LM4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Dinero No Me Cambia \(En Vivo\)](https://open.spotify.com/album/2oTL4oaqzYG09KPBctsQRf) | 3:20 |
 | 37 | [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 |
 | 38 | [Ave De Mal Agüero](https://open.spotify.com/track/5e15YyvzUqMEFf1DqJaxrn) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ave De Mal Agüero](https://open.spotify.com/album/3cqoRpYWykozNTwUUwf9JX) | 3:07 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 73 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 |
 | 74 | [El Pollero](https://open.spotify.com/track/4ThjCHeQomkKoHcCBEenWR) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [El Pollero](https://open.spotify.com/album/5HqTNH8UkhBWWr3H6amZ8C) | 3:05 |
 
-Snapshot ID: `MTY2NTExODgwMCwwMDAwMDAwMGJmY2E3ZDNjZWI0YmFiNzAxYWQ0YjEyZjMwZjUwYzhh`
+Snapshot ID: `MTY2NTExODgwMCwwMDAwMDAwMDNmNjU5Y2QxNWZlNDNiMmI0Yjg2ZWNmZWI0MTFjZDll`

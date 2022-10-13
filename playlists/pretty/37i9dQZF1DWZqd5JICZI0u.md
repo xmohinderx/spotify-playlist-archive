@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492,868 likes - 220 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,887 likes - 220 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 145 | [Kustlijnen](https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Kustlijnen](https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii) | 2:34 |
 | 146 | [East Coast Stories](https://open.spotify.com/track/6G0756SmteKsCuObcKWqWP) | [3 STEPS DOWN](https://open.spotify.com/artist/65wjB5iTF5gSU6WbTRrVQH) | [Dreaming Out Loud](https://open.spotify.com/album/6IPOyu8okYqTuuUHxPKvPh) | 2:44 |
 | 147 | [Arrival](https://open.spotify.com/track/3jaCuiu5pvF2e7XnSi1NBw) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter One](https://open.spotify.com/album/4sVkpKX5ifo2XYpSNHKLyU) | 3:05 |
-| 148 | [sailing dreams](https://open.spotify.com/track/4rvuy58or74YCum7qXpPxZ) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [sailing dreams](https://open.spotify.com/album/3B4iWokKVm3QNjw7WTeYH8) | 3:03 |
+| 148 | [sailing dreams](https://open.spotify.com/track/5ryhPewLH2URfQegFHuwf1) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [sailing dreams](https://open.spotify.com/album/6UgPlYHboOXKQMZusntT0P) | 3:03 |
 | 149 | [Quand je te vois](https://open.spotify.com/track/0ydR92kMvsKzbHskETB2QR) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Quand je te vois](https://open.spotify.com/album/3ksB8mIeFENkr2Ll6FJFof) | 3:18 |
 | 150 | [No One Knows](https://open.spotify.com/track/55cj9j5lNgAsKIYjX2mJLm) | [Geneva Semere](https://open.spotify.com/artist/77VKKzoNiFyfVSn32eDiwD) | [No One Knows](https://open.spotify.com/album/5yog0IePhrPvYeh3SU7kGM) | 3:14 |
 | 151 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 219 | [Relajación espiritual](https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual](https://open.spotify.com/album/2t4WoPwxh8Us4B2j1iDNQ9) | 3:10 |
 | 220 | [Coast](https://open.spotify.com/track/1aCoMulG9sc93W4kn9i1yf) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Sunset](https://open.spotify.com/album/6OdEUJfbi8EzUJ3i5HZ3bZ) | 6:13 |
 
-Snapshot ID: `MTY2NTI0NTgyMCwwMDAwMDAwMGMwNGQwMGVkZDE2MDczYWE2NzlmZGE5MGUzOGNlNzBj`
+Snapshot ID: `MTY2NTI0NTgyMCwwMDAwMDAwMGQxOWQyMTJmNWY4ZThkODRjZWQwY2VjNGIyMGJlY2Q3`

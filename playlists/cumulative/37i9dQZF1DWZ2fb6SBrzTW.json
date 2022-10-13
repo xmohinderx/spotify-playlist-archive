@@ -73,7 +73,7 @@
           "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182073,
@@ -1145,7 +1145,7 @@
           "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199934,
@@ -1261,7 +1261,7 @@
           "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195000,
@@ -1353,7 +1353,7 @@
           "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
         }
       ],
-      "date_added": "2022-10-08",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168500,
@@ -2787,7 +2787,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 169960,
       "name": "Ronaldo",
       "url": "https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx"
@@ -3549,6 +3549,24 @@
       "duration_ms": 238911,
       "name": "Woman",
       "url": "https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo"
+    },
+    {
+      "album": {
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
       "album": {

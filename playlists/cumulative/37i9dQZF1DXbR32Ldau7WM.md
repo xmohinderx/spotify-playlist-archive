@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: くるり
 
-353 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+354 songs - 23 hr 21 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 | 2022-05-10 |  |
 | [UGOKE](https://open.spotify.com/track/6sFS9uxrjOsw92LQZEWgca) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [UGOKE](https://open.spotify.com/album/7Cd0pDNe1s5qhk5EsKvsRj) | 3:57 | 2022-09-20 | 2022-09-28 |
 | [UK](https://open.spotify.com/track/0v64fID8K31ZcxQeb7sFqL) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [UK](https://open.spotify.com/album/59lRDiU4fyHPMG1jiH42bO) | 3:30 | 2022-10-11 |  |
+| [Umi ni Naritai part.3](https://open.spotify.com/track/2mspLmFrpyqd4DCxGjN3Sz) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Umi ni Naritai part.3](https://open.spotify.com/album/2W9C8HL0Rkp2SwCLw4ySuh) | 3:36 | 2022-10-11 |  |
 | [UNITE](https://open.spotify.com/track/5WwwgrjwI7DLLfg0qCEL7t) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [UNITE](https://open.spotify.com/album/53xqFfS0lGK2jQVoZ0ls1W) | 4:44 | 2022-05-19 | 2022-08-31 |
 | [United Sparrows](https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/6rv9sxkAuqiclA89jciJWj) | 3:42 | 2022-05-12 | 2022-07-16 |
 | [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 | 2022-08-09 | 2022-09-24 |
@@ -333,7 +334,7 @@
 | [永遠](https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [永遠](https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt) | 6:12 | 2022-07-28 | 2022-08-31 |
 | [泡沫](https://open.spotify.com/track/4OvtVIVx2ZjXmtL5mU7E3k) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [泡沫](https://open.spotify.com/album/2JBBR5mUmlp1Pi0YdTaOyi) | 4:16 | 2022-05-10 | 2022-08-10 |
 | [浮世小路のblues](https://open.spotify.com/track/0AtSC79lnSSP9EQluBKSCN) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [浮世小路のblues](https://open.spotify.com/album/03mkUt3Hyu05QyH74IGKVt) | 4:45 | 2022-05-17 | 2022-07-17 |
-| [海になりたい part.3](https://open.spotify.com/track/1MovJJh0Se1uJ5ddG2aLdj) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [海になりたい part.3](https://open.spotify.com/album/40bf5W62dYkwPyJJZoQC39) | 3:36 | 2022-10-11 |  |
+| [海になりたい part.3](https://open.spotify.com/track/1MovJJh0Se1uJ5ddG2aLdj) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [海になりたい part.3](https://open.spotify.com/album/40bf5W62dYkwPyJJZoQC39) | 3:36 | 2022-10-11 | 2022-10-13 |
 | [海へ](https://open.spotify.com/track/6NuLDbrJf8qL2f2TpjdLE3) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [DIARY KEY](https://open.spotify.com/album/4ORf1Z1gK6vjUBso8iwLfF) | 4:15 | 2022-05-10 | 2022-06-22 |
 | [海辺](https://open.spotify.com/track/21iZgEsx7Hq6eNa90Ycr0i) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [海辺](https://open.spotify.com/album/6OV4doZnn3DYxzEVweB803) | 5:39 | 2022-05-19 | 2022-06-13 |
 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 | 2022-06-02 | 2022-09-30 |

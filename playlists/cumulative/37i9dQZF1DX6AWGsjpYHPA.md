@@ -4,7 +4,7 @@
 
 > Hand\-curated cuts from the vault, no record player required.
 
-239 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/5AAqvpIoHyvDthNcBVV4BF)
+240 songs - 17 hr 32 min - [published](https://open.spotify.com/playlist/5AAqvpIoHyvDthNcBVV4BF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-04-21 | 2022-06-24 |
 | [Perfidia \(feat\. Igino\) \(Severino Panzetta & Ray Mang Remix\) \- Mixed](https://open.spotify.com/track/6K4PH1SZDRVWJCPoXt6qdq) | [Alien Alien](https://open.spotify.com/artist/2wmXd1MnJoH55Hatt4h7lf), [Igino](https://open.spotify.com/artist/7ww3zaYvvVXV4a3VTOG8YR), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2), [Severino Panzetta](https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m) | [Back to Mine: Horse Meat Disco \(DJ Mix\)](https://open.spotify.com/album/5qKpC14xG5Kb6ful0FOuon) | 3:47 | 2022-06-24 | 2022-07-22 |
 | [pinky ring](https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [pinky ring / red velve7](https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ) | 4:39 | 2022-04-21 | 2022-07-30 |
-| [Point and Kill](https://open.spotify.com/track/2JVkNlfC5n7KvsaXAQdfIs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Point and Kill](https://open.spotify.com/album/4X0qkXpSENN8uzENjrxY0b) | 3:05 | 2021-12-03 |  |
+| [Point and Kill](https://open.spotify.com/track/2JVkNlfC5n7KvsaXAQdfIs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Point and Kill](https://open.spotify.com/album/4X0qkXpSENN8uzENjrxY0b) | 3:05 | 2021-12-03 | 2022-10-13 |
+| [Point and Kill](https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:05 | 2022-09-15 |  |
 | [Pretty Bright Light](https://open.spotify.com/track/1bo2uwP333C9FYNXpH7OHT) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Good Energy \(A Singles Collection\)](https://open.spotify.com/album/2SyWnW8ujtBeNV4SUvSOBL) | 5:08 | 2021-12-03 | 2022-03-10 |
 | [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 |  |
 | [Raise It Up](https://open.spotify.com/track/5mS0JXt10eEjAeC7wVhEzU) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Raise It Up](https://open.spotify.com/album/3D7cYgUup0f9rtiSV9YfLn) | 2:37 | 2021-12-03 | 2022-07-29 |

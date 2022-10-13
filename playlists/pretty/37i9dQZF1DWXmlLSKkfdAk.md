@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,706,380 likes - 200 songs - 12 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,706,462 likes - 200 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 19 | [Muzzle of Bees \(with Jeff Tweedy\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/351445Kofxc3BN2T27beOv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Muzzle of Bees \(with Jeff Tweedy\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ) | 4:11 |
 | 20 | [Always Be My Baby](https://open.spotify.com/track/2hVaNGGvdvvzRPCK9BUZmA) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Josh Ottum](https://open.spotify.com/artist/0HuUZip4HsqYsjkq4qZ6NB) | [Always Be My Baby](https://open.spotify.com/album/5pjrFrxKA33xQWnj0UbfYp) | 4:14 |
 | 21 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 |
-| 22 | [Don't Dream It's Over](https://open.spotify.com/track/6QArEKofNPvQcI1bWn9MAS) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Don't Dream It's Over](https://open.spotify.com/album/21wasMSzv1uqkmqO4NhndJ) | 3:52 |
+| 22 | [Don't Dream It's Over](https://open.spotify.com/track/6irzQ68l0WZxY4SHMAZSK9) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Don't Dream It's Over](https://open.spotify.com/album/7gCk3DHHivlyObqAfOwPGH) | 3:52 |
 | 23 | [Over The Rainbow](https://open.spotify.com/track/2YZD5noojQfehm2VbFAulS) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Over The Rainbow](https://open.spotify.com/album/3zqPNuhZEoyumkNoSDvTtx) | 4:18 |
 | 24 | [A Long December](https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [A Long December](https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt) | 4:20 |
 | 25 | [The Night We Met](https://open.spotify.com/track/4XgSJltrqGvZQaiUpcgfOi) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm), [Hope Morgan](https://open.spotify.com/artist/6PP1a619tR9xW3lHqSMmm5) | [The Night We Met](https://open.spotify.com/album/57M1iqr3AzXL4lobiMYUmi) | 3:58 |
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 140 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 |
 | 141 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 |
 | 142 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 |
-| 143 | [I Believe in a Thing Called Love](https://open.spotify.com/track/6YdSvvnhkppxBNZgdFB301) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:04 |
+| 143 | [I Believe in a Thing Called Love](https://open.spotify.com/track/7kcAK7HvIuHHDHJoGXlSPv) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:04 |
 | 144 | [I Like Me Better](https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Ysabelle](https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1) | 3:09 |
 | 145 | [Titanium](https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:47 |
 | 146 | [Chandelier](https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Chandelier](https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH) | 3:32 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 199 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 200 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 
-Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDhkYjBjYTE3OTMyODljYjY0YWIzYzBlZTQ4YzU5OTAw`
+Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDU5ZDhhMzFmYmU4Zjg4MzQzZGQyZjYzNzE0ZTg3NmUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,270 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,315 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 37 | [Drive You Home](https://open.spotify.com/track/1xUTQQKrTrGc7JPUi5gWPg) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq), [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Drive You Home](https://open.spotify.com/album/3uu5fit1E8Oa6Vv2bVwz8c) | 2:49 |
 | 38 | [Way Again](https://open.spotify.com/track/2bXHgXfMFF67xirAn2dsLA) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Each Memory and Every Fall](https://open.spotify.com/album/2YOx7Bj4WBtWPMw8JwGm4s) | 4:48 |
 | 39 | [The World Seen Through Your Eyes](https://open.spotify.com/track/3wZJx9WqtJpWwtJ0rRjRFv) | [Findlay Brown](https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs) | [The World Seen Through Your Eyes](https://open.spotify.com/album/2dpFmlFSx2XbdNBDRPYciW) | 2:30 |
-| 40 | [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 |
+| 40 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 |
 | 41 | [High Moon](https://open.spotify.com/track/1p3wVXamX3ceuO8cCPy5fa) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Lay Low EP](https://open.spotify.com/album/6ybtVG56huE7EZGWsz6gYv) | 3:51 |
 | 42 | [Give Me Love](https://open.spotify.com/track/1xFGvwqlCx7vnCkviqon4J) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Give Me Love](https://open.spotify.com/album/0Gg7esLkSTocFYZBt1WPsP) | 3:14 |
 | 43 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 55 | [Alive Again](https://open.spotify.com/track/7cMRVNlOuqlkPmd9E5sacW) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [The Way Back Home](https://open.spotify.com/album/6qN25gVpE9nWvfQUanNfi8) | 2:08 |
 | 56 | [Harvest Moon](https://open.spotify.com/track/0vd9oVF2YwYMm6uD4VoKcm) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Harvest Moon](https://open.spotify.com/album/5AhUi3hCsj7fUfkonM9KlV) | 3:05 |
 | 57 | [Decimal](https://open.spotify.com/track/1uliNs1keVwYclj74JX44R) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Decimal / Halloween](https://open.spotify.com/album/7pHnMBs0r27GLi2EL3nEH8) | 2:58 |
-| 58 | [Sudden Death](https://open.spotify.com/track/5wYzMzDNycLtyBwrHdfavV) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Sudden Death](https://open.spotify.com/album/4QRpPCZnswhtBfRs1q6VLH) | 2:55 |
+| 58 | [Sudden Death](https://open.spotify.com/track/2pMulZ50yx1Fx6TIepetYP) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Sudden Death](https://open.spotify.com/album/4XNfb6nqJLrNqhV0IQ9Nur) | 2:55 |
 | 59 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 |
 | 60 | [33](https://open.spotify.com/track/1s0OBTsDMtBR8sH1XqKaZh) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/6fNjdkSgemGYrH8v1M6NjA) | 3:15 |
 | 61 | [Minute Of Your Love](https://open.spotify.com/track/63uWX9R9I8NA4RcPMxh38V) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Minute Of Your Love](https://open.spotify.com/album/1jOAzcYT3AksjypjQehmb1) | 2:16 |
-| 62 | [Someone's Daughter](https://open.spotify.com/track/6NbxWUDuyHFm9IPicBGv07) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Someone's Daughter](https://open.spotify.com/album/1G0KNj4Rr6HNdHHfArdNpj) | 3:32 |
+| 62 | [Someone's Daughter](https://open.spotify.com/track/0EnyrELYciaIPQCQKdElAz) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Someone's Daughter](https://open.spotify.com/album/09S56ScuJckcQwKscgYn3k) | 3:32 |
 | 63 | [Rest](https://open.spotify.com/track/1yxiUqnKMOBKtMa3qHme3V) | [Trev](https://open.spotify.com/artist/3YugT4RsrpRfb6DdeIA4Wv) | [I Have Hope](https://open.spotify.com/album/4nepn7zOSio2f9VYWBMsyy) | 2:31 |
 | 64 | [Mother In The Sky](https://open.spotify.com/track/7fyX5m7szAoc3xwgA8EbsL) | [Brigid Mae Power](https://open.spotify.com/artist/4uBunSqfCPl9OrLhRifPwK) | [Mother In The Sky](https://open.spotify.com/album/15NqFyaEbqXbxXReanWTyv) | 3:35 |
 | 65 | [Lightly Looms \- 7" Version](https://open.spotify.com/track/61nRG6QC5ngcqPKKRGZofs) | [Michael Baker](https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr) | [Lightly Looms \(7" Version\)](https://open.spotify.com/album/16zY9Qgh72UHlb33ersKvc) | 4:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Can't Buy Happiness](https://open.spotify.com/track/5IwkralT3gnN9hL900X0Fr) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Can't Buy Happiness](https://open.spotify.com/album/6RKsSdVwMCq14PecYUjIQL) | 3:11 |
 | 80 | [Dream State](https://open.spotify.com/track/7dzzw8NQttXdPpEFrwrHKG) | [Luke De\-Sciscio](https://open.spotify.com/artist/41RGqF0I6xFG0GzQmLKDgb) | [Dream State](https://open.spotify.com/album/6cdULH9wOqEHIfsOVcJkPX) | 3:27 |
 
-Snapshot ID: `MTY2NTE2NTMzNywwMDAwMDAwMGM4YzAyNmMyYzdmODA4ODU4Mjk3YWM3ODY0OTg0MGY3`
+Snapshot ID: `MTY2NTE2NTMzNywwMDAwMDAwMDA1ZjAzMWUzYzljNzRkNzBjNTlkNTc4Y2UwMjY4MmQ0`

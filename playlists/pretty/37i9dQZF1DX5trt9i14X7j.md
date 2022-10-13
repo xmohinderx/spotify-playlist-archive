@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,519 likes - 113 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,989 likes - 113 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 59 | [Sibyl](https://open.spotify.com/track/5YmjFHheTqiMyhVtBM04lo) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Pillars](https://open.spotify.com/album/5aSe7EH7yhtFGvyQPsVcgF) | 4:03 |
 | 60 | [Smile](https://open.spotify.com/track/2m0TUPv1FW6LoQpxV5l6Lf) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Smile](https://open.spotify.com/album/1F2N2TDZBfge0Q03ypNo5k) | 3:34 |
 | 61 | [My Funny Valentine](https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb) | [Midnight Thoughts](https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a) | 2:41 |
-| 62 | [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 |
+| 62 | [Bacall](https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Noir](https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G) | 4:06 |
 | 63 | [Bloom](https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Bloom](https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM) | 4:36 |
 | 64 | [Iridescence](https://open.spotify.com/track/3RvJhKWy33BYK1aHgJ6NlO) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Chillhop Daydreams 2](https://open.spotify.com/album/3bh5l0g7pcX9eKNywTuIvd) | 2:51 |
-| 65 | [cabin](https://open.spotify.com/track/7yKMGeJM3EjNrS6QXnY6xP) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X) | 3:20 |
+| 65 | [cabin](https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i) | 3:20 |
 | 66 | [L](https://open.spotify.com/track/6brTu7TkwXtFMjQgcxkMA4) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:37 |
 | 67 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 68 | [Machines Are People Too](https://open.spotify.com/track/4Y7I8njISED3da52cbdbKf) | [B 3 N B i](https://open.spotify.com/artist/1lER5N3Qx6dOfkDkseDeeg) | [IWYMI Volume Four](https://open.spotify.com/album/5bCxD19JPbHXGTe9mzLaaV) | 2:28 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 112 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 |
 | 113 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 |
 
-Snapshot ID: `MTY2MzMwNzI4MCwwMDAwMDAwMGE1NDFmM2JmYTUwZWMyYzI4ODYwNjUyYjE4MDJhZGZi`
+Snapshot ID: `MTY2NTU2OTYzMCwwMDAwMDAwMDM5MDJlOTdjZjUyYzI4ZDYxYTc0YWE3NGIzYTEzMWY2`

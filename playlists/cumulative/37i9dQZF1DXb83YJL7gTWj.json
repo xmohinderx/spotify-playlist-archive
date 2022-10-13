@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 260026,
       "name": "Dear Soulmate",
       "url": "https://open.spotify.com/track/3n5riqcWURtw7ndVQkNIOH"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 205462,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6sHxpnCerm9M6A5zaFFNfs"
@@ -1435,7 +1435,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 168640,
       "name": "Hurt Somebody",
       "url": "https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv"
@@ -2159,7 +2159,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 147346,
       "name": "Love Flew Away",
       "url": "https://open.spotify.com/track/6FwkV9baY3ERqmxPsBLzYf"
@@ -3713,7 +3713,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 192813,
       "name": "To Live a Life",
       "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
@@ -3963,6 +3963,24 @@
       "duration_ms": 281546,
       "name": "Wise Woman",
       "url": "https://open.spotify.com/track/1zdhLwuduTGwGSlJSowTzA"
+    },
+    {
+      "album": {
+        "name": "Look For The Good",
+        "url": "https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281546,
+      "name": "Wise Woman",
+      "url": "https://open.spotify.com/track/6uvF15oBfR7kQBzF27vCtS"
     },
     {
       "album": {

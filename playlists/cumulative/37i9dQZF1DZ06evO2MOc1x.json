@@ -66,6 +66,28 @@
     },
     {
       "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241493,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
+    },
+    {
+      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -113,7 +135,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 187533,
       "name": "Can't Find My Way Home",
       "url": "https://open.spotify.com/track/4E2HtOs7OvTqXCLvvHXCfj"
@@ -381,7 +403,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 375057,
       "name": "Hell To Pay",
       "url": "https://open.spotify.com/track/5oBFPW3PpybYWSsvEuuGnv"
@@ -453,7 +475,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 189960,
       "name": "I Got Plenty - 2008 Remaster",
       "url": "https://open.spotify.com/track/39I0PqL6CGz9Nh3LnJt3R2"
@@ -529,7 +551,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 271133,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7"
@@ -861,7 +883,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 221600,
       "name": "Rainy Day Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/6K6uLBktAdE5MSx7fBOM9k"
@@ -879,7 +901,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 267133,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/7Fu24Eo9nj8dNIlsA2bWDI"
@@ -937,6 +959,52 @@
       "duration_ms": 186200,
       "name": "Since I Fell for You - 2008 Remaster",
       "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
+    },
+    {
+      "album": {
+        "name": "The Essential Jimmie Vaughan",
+        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        },
+        {
+          "name": "Art Neville",
+          "url": "https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381066,
+      "name": "Six Strings Down",
+      "url": "https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8"
     },
     {
       "album": {

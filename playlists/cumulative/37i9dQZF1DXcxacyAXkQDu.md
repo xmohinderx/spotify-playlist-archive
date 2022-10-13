@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-773 songs - 1 day 21 hr 59 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+774 songs - 1 day 22 hr 2 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,8 @@
 | [Long Way Down](https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ) | 4:17 | 2022-07-08 |  |
 | [Long Way Down](https://open.spotify.com/track/25Caem6cbUveFkgPSXtGXe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 4:17 | 2021-12-21 | 2022-07-29 |
 | [Lose You Too](https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Lose You Too](https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW) | 3:06 | 2022-03-24 |  |
-| [Losing Me](https://open.spotify.com/track/4P6g8wuXeR3wznFk7WnI4w) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Losing Me](https://open.spotify.com/album/5MS4jSKio1OjUOKOnTEEat) | 3:00 | 2021-12-21 |  |
+| [Losing Me](https://open.spotify.com/track/4P6g8wuXeR3wznFk7WnI4w) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Losing Me](https://open.spotify.com/album/5MS4jSKio1OjUOKOnTEEat) | 3:00 | 2021-12-21 | 2022-10-13 |
+| [Losing Me](https://open.spotify.com/track/2RFt6ZWQbr9mPhsft9u9eX) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:01 | 2022-10-07 |  |
 | [Lost On You](https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Lost On You](https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY) | 3:15 | 2022-02-24 | 2022-07-28 |
 | [Lost On You](https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:17 | 2022-07-08 |  |
 | [Lost Without You](https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/4wvckIYLIsYQQ5ES3H9Pzn) | 3:45 | 2022-01-07 | 2022-07-29 |
@@ -493,7 +494,7 @@
 | [Open Door](https://open.spotify.com/track/3yCOxJfNSKNmZKHPnwa2lF) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Love](https://open.spotify.com/album/4qqP37Rwqnhps6sPZYFyAF) | 2:22 | 2022-03-24 | 2022-04-21 |
 | [Opposite Of Loving Me \- Stripped](https://open.spotify.com/track/4qMu6LIImRJVbxB70bdFJj) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Opposite Of Loving Me \(Stripped\)](https://open.spotify.com/album/5sRqlq0KIBgmkOUPB5W1Y9) | 3:31 | 2022-02-03 |  |
 | [Orange Sky](https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 6:19 | 2022-03-24 | 2022-04-02 |
-| [Ordinary People](https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Ordinary People](https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR) | 4:13 | 2021-12-21 |  |
+| [Ordinary People](https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Ordinary People](https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR) | 4:13 | 2021-12-21 | 2022-10-13 |
 | [Original Sun on a Grand Piano](https://open.spotify.com/track/6Sfv3BXBqiNivlRx7olL8L) | [Nina Kinert](https://open.spotify.com/artist/6uRl4Lp821EvTTEYmboj8O) | [Romantic](https://open.spotify.com/album/1FT8bsGnIVi0M1SHHsKFj3) | 3:59 | 2022-03-24 | 2022-06-22 |
 | [Our Home](https://open.spotify.com/track/3Wu7RZ2ZAaoFc8X8QAK8Ut) | [Sean Christopher](https://open.spotify.com/artist/0e4vnHBYwY6LQqrhutIcnj) | [Our Home](https://open.spotify.com/album/54deuaDJ2fRQgub9HiNMdq) | 4:44 | 2021-12-21 | 2022-07-29 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-08 | 2022-04-12 |
@@ -706,7 +707,7 @@
 | [Ugly Heart](https://open.spotify.com/track/7mNPYVxyHtEneLo7tjQJMj) | [Thyra](https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G) | [Ugly Heart](https://open.spotify.com/album/7FqsBBmPJedOQJ93xZ6JRg) | 3:38 | 2022-03-24 | 2022-04-20 |
 | [Unconditional](https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Unconditional](https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU) | 3:17 | 2021-12-21 |  |
 | [Uncrazy \- Acoustic](https://open.spotify.com/track/77Mh4OWNEJiHbMgJZoZRcY) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Uncrazy \(Acoustic\)](https://open.spotify.com/album/6gcxHD2oNouSKLigpESX0w) | 3:51 | 2021-12-21 |  |
-| [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 | 2022-07-08 | 2022-09-15 |
+| [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 | 2022-07-08 |  |
 | [Unknown](https://open.spotify.com/track/3fXbUuDBRoe0PMQ3BItnAc) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown/Running](https://open.spotify.com/album/1doaAaHu3x7uxJ6NO1nxak) | 4:10 | 2022-03-24 | 2022-04-17 |
 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 | 2021-12-21 | 2022-02-08 |
 | [Until The Hurting Is Gone](https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:17 | 2021-12-21 |  |

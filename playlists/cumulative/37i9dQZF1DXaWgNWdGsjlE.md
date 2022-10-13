@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: DeathbyRomy
 
-138 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
+140 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Dark Love \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/024tRiO8w3b7WEVB5RxX1G) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [LOUD](https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf) | 2:44 | 2022-07-01 |  |
 | [Dark Love \(ft\. Aaron Gillespie\)](https://open.spotify.com/track/6SLVMTlKz0rGfRdE2NRVuR) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Dark Love \(ft\. Aaron Gillespie\)](https://open.spotify.com/album/64ct34gILqOHeOCvUUKwL9) | 2:45 | 2022-04-08 | 2022-07-29 |
 | [DAYWALKER! \(feat\. CORPSE\)](https://open.spotify.com/track/2NnJpRXIlx35Vij3bPZO0h) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DAYWALKER! \(feat\. CORPSE\)](https://open.spotify.com/album/2y8j3djW8ZswvAbEcPBBti) | 2:17 | 2022-04-08 |  |
-| [Dead](https://open.spotify.com/track/3z4bbV92bY6K2A5EMXpLhI) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/4c2aw2xQDzSHqesCIfeCMm) | 2:37 | 2022-04-29 |  |
+| [Dead](https://open.spotify.com/track/3z4bbV92bY6K2A5EMXpLhI) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/4c2aw2xQDzSHqesCIfeCMm) | 2:37 | 2022-04-29 | 2022-10-13 |
+| [Dead](https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI) | 2:37 | 2022-09-30 |  |
 | [DEAD FLOWERS](https://open.spotify.com/track/54i9YWj8AnEvj1FhJgVZC4) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [DEAD FLOWERS](https://open.spotify.com/album/1RKvRWHyVw3UIfQVuIjcuJ) | 5:01 | 2022-04-08 | 2022-07-29 |
 | [DEAD FLOWERS](https://open.spotify.com/track/3w7z4dBOVFXwNbS0xfD3ow) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:01 | 2022-07-01 |  |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2022-04-08 | 2022-07-02 |
@@ -58,7 +59,8 @@
 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 | 2022-04-08 |  |
 | [GASLIGHT!](https://open.spotify.com/track/4sqsaID1vck0Sxis6EPzci) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [GASLIGHT!](https://open.spotify.com/album/4HA7sK0N3OHC2GzTvfa9RL) | 2:28 | 2022-04-08 |  |
 | [GauzeValley](https://open.spotify.com/track/23W69K592RCQ6bHhtCERd1) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [GauzeValley](https://open.spotify.com/album/7e5VVmMGYiLnmX6Me2LLPC) | 2:30 | 2022-07-01 |  |
-| [Gravedigger](https://open.spotify.com/track/4zo6O0UO5Kz6ZT0CpTCCb3) | [MXMS](https://open.spotify.com/artist/385fK73L7PCt3RMlZQOu6t) | [Gravedigger](https://open.spotify.com/album/2vw2ISNEkyFtG6f2XGthyr) | 3:30 | 2022-04-08 |  |
+| [Gravedigger](https://open.spotify.com/track/4zo6O0UO5Kz6ZT0CpTCCb3) | [MXMS](https://open.spotify.com/artist/385fK73L7PCt3RMlZQOu6t) | [Gravedigger](https://open.spotify.com/album/2vw2ISNEkyFtG6f2XGthyr) | 3:30 | 2022-04-08 | 2022-10-13 |
+| [Gravedigger](https://open.spotify.com/track/640WAiBLYvKmUBtskbfEYG) | [MXMS](https://open.spotify.com/artist/385fK73L7PCt3RMlZQOu6t) | [Gravedigger](https://open.spotify.com/album/6QawVhtF8UkiA78NUbVFGr) | 3:30 | 2022-09-30 |  |
 | [HATEFUCK](https://open.spotify.com/track/2G6AOP03YY7hCCxvskZLb4) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [HATEFUCK](https://open.spotify.com/album/2JN7YYzP0l4WkIlHIeFfIa) | 3:16 | 2022-04-29 |  |
 | [Head Like A Hole](https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:59 | 2022-04-08 | 2022-09-24 |
 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 | 2022-04-08 |  |

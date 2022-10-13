@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,231 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,234 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 | 36 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
 | 37 | [Blueprints](https://open.spotify.com/track/3anbBxikNOxuhTyjgQbATh) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Blueprints](https://open.spotify.com/album/7sPrHqcvrDmYO9AhKV5Tgo) | 3:32 |
 | 38 | [Honest](https://open.spotify.com/track/1xA7ZX7W3MoAec6NU3WU3c) | [Tom King](https://open.spotify.com/artist/3wmFlsEi0UJSvM8vwbO9oT) | [Confessions of a Lonely Heart](https://open.spotify.com/album/3AcdIC0iguxQRnrOx677k7) | 3:18 |
-| 39 | [Eclipse](https://open.spotify.com/track/6DsnPRnJLUUtzKrVVwUiAT) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Eclipse](https://open.spotify.com/album/44exvz3EXFURPy4cs0YXcb) | 2:34 |
+| 39 | [Eclipse](https://open.spotify.com/track/1CN3tvx826AiRlcZSKjGdl) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Wonder](https://open.spotify.com/album/2hF3Z7WIOHkZwsm3rFPla1) | 2:34 |
 | 40 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 |
 | 41 | [Young](https://open.spotify.com/track/3LTsG4S10Vn8meTCB4R0jj) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Young](https://open.spotify.com/album/2anbovQwdTveCFBW2ZH6Qi) | 3:48 |
 | 42 | [Cry Over Boys](https://open.spotify.com/track/1d9Ve8caYURgqYEVuEHMww) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 2:50 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 | 50 | [Bedroom Walls](https://open.spotify.com/track/6t47JIkO4NgFcInkwBx2Mm) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:32 |
 | 51 | [Crocodiles](https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 4:00 |
 
-Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMDIxM2YwMjkyYjU4Yzc3OTE1NzFmZWQyODNkMzcyOTE1`
+Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMDI4YjJkNzhkMjU2YjdlMTI3ZTI3MzY4ZjMzYTZlNGJm`

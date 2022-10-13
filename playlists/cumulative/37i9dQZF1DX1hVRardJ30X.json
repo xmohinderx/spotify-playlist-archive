@@ -14793,6 +14793,10 @@
         {
           "name": "Kevin Roldan",
           "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "HIT$ MUSIC",
+          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
         }
       ],
       "date_added": "2022-10-07",
@@ -49909,7 +49913,7 @@
     {
       "album": {
         "name": "Ya No Queiro",
-        "url": "https://open.spotify.com/album/1l4U6ykibEJCMNL01uPqIz"
+        "url": "https://open.spotify.com/album/3fbbVNLVjzF5XolHlQmWKB"
       },
       "artists": [
         {
@@ -49920,6 +49924,24 @@
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198801,
+      "name": "Ya No Queiro",
+      "url": "https://open.spotify.com/track/2cMHFUokblCyjYPiyVRO6B"
+    },
+    {
+      "album": {
+        "name": "Ya No Queiro",
+        "url": "https://open.spotify.com/album/1l4U6ykibEJCMNL01uPqIz"
+      },
+      "artists": [
+        {
+          "name": "CAROLINE",
+          "url": "https://open.spotify.com/artist/1YWvf5qw9RnGAW39spyLI1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 198801,
       "name": "Ya No Queiro",
       "url": "https://open.spotify.com/track/5g8HnZeHOQyOyK1EOb1Jf7"

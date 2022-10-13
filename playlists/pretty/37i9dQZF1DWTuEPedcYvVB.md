@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,789 likes - 46 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,813 likes - 46 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 7 | [GS X PS Whips and Bikes](https://open.spotify.com/track/5jpqCyP42DLgaeXkRcbzIJ) | [Frecks](https://open.spotify.com/artist/3w5zlljTveruvJtCM1tP3b), [Spooks](https://open.spotify.com/artist/5ewJHfiGNQJjmKHzLjcojz), [Goose](https://open.spotify.com/artist/2LePmzqki44WJcvlf19vlk), [Tragic](https://open.spotify.com/artist/0u94Z0XmLOjejURGTGMb1e) | [GS X PS Whips and Bikes](https://open.spotify.com/album/2c6iQJ3RgpMMXzZ2Abcbsg) | 3:56 |
 | 8 | [Safeword](https://open.spotify.com/track/0NpQxEbSBygDxEHuflJqRw) | [Splurgeboys](https://open.spotify.com/artist/5ybO9LJlZ1H2d0zBMhdjVa), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n) | [Safeword](https://open.spotify.com/album/69xVp6p6Y0Ohj21vCvp421) | 4:26 |
 | 9 | [Cutie](https://open.spotify.com/track/4Q3VXVOcaXGvwskgMn5lgF) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr), [Deniro5ive](https://open.spotify.com/artist/1nrh1AkIoCrDIWVfseRKvB) | [Cutie](https://open.spotify.com/album/2jrNcy6OYRSLsvZdPYxWVf) | 2:52 |
-| 10 | [Fly Em' High](https://open.spotify.com/track/0SVUSnoAWRbbr9bLa0aWsZ) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Fly Em' High](https://open.spotify.com/album/6gEmQKtNvecC0HMJ2fX8To) | 3:01 |
+| 10 | [Fly Em' High](https://open.spotify.com/track/3kfqqWkmkEHj1OdGh9E7PL) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Blame It On The Youts](https://open.spotify.com/album/5SV7FBn5PvryAIPZ4iPblN) | 3:01 |
 | 11 | [2 G's](https://open.spotify.com/track/56weVuhIPA9CKFCZ5at5yZ) | [BZ](https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF) | [2 G’s](https://open.spotify.com/album/3keQBv6akwxDV8GAAPtb9V) | 2:38 |
 | 12 | [Dice it](https://open.spotify.com/track/4eXz2UBxtdkcR8rXo3NyGp) | [Lzino](https://open.spotify.com/artist/2CAEUNH0Pp2Qv01LsjkMiK) | [Dice it](https://open.spotify.com/album/7vMjUj6WJD1xpiqhkAtWwP) | 3:20 |
 | 13 | [LEAVE ME ALONE](https://open.spotify.com/track/0kbnm3YwSygTFeWZlCGfCw) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:36 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 45 | [La Guayaba](https://open.spotify.com/track/2VeXI9CcoekqU1VGMljovo) | [Riccie Oriach](https://open.spotify.com/artist/3b12EGhDU7EhHcuZmMG3oV) | [Viaje Al Infinito](https://open.spotify.com/album/5f1r5AowWw21NMerlIwBxz) | 4:23 |
 | 46 | [Mahmoume \- Tourmenté](https://open.spotify.com/track/63TIFnEUF8mzPOVw0wYhT3) | [Nass El Ghiwane](https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL) | [Fine ghadi biya khouya](https://open.spotify.com/album/43S3rQh0r9yxCrraFFSO2n) | 3:03 |
 
-Snapshot ID: `MTY0OTk0MjUzMiwwMDAwMDAwMGQ5Y2E3ODkzMGIyZDk0Y2EyZmQ0Njk5NDA0OGVmNmZi`
+Snapshot ID: `MTY0OTk0MjUzMiwwMDAwMDAwMDQ4ZThkZWQzYTNlY2FlOWQ4OTI0OTZiNWI5YmRhM2Nk`

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: aiko
 
-791 songs - 2 day 4 hr 16 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+793 songs - 2 day 4 hr 26 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Aatarashii Me \(Brand New Eyes\)](https://open.spotify.com/track/7pmHO2Dj13xsgdhRPtsw92) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI), [Kazuma Fujimoto](https://open.spotify.com/artist/20qDjhYBrYKWNCKmGgJIFH) | [Aatarashii Me \(Brand New Eyes\)](https://open.spotify.com/album/0dbi5oiNYp7oKBvl8JG8Tw) | 4:46 | 2022-08-18 | 2022-08-24 |
 | [After the World Ends \- T.O.M Remix](https://open.spotify.com/track/3UzF1D9YsbSN0zLhfNksDx) | [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI), [Tom](https://open.spotify.com/artist/0Zt9CoSvHqsxujnEIsTIHN) | [After the World Ends \(Remixes\)](https://open.spotify.com/album/0lketV3w6gILrgMG3Tdtlo) | 2:42 | 2022-06-07 | 2022-07-17 |
 | [Again](https://open.spotify.com/track/0lZdUSih2JxtWvQg1YYQsZ) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [Again](https://open.spotify.com/album/7BPLw7cSFnSid7fcP89PsG) | 4:37 | 2022-07-19 | 2022-08-03 |
+| [Ai no sei](https://open.spotify.com/track/5SYSLd0yk5Ih53NANxEbu6) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Ai no sei](https://open.spotify.com/album/4Exj2cZX9KPaHlz0tvpVuY) | 4:16 | 2022-10-11 |  |
 | [Aiseta](https://open.spotify.com/track/62nFk3PRZcyj374GNw01Gz) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [Aiseta](https://open.spotify.com/album/5x7Nn1bwdvJ5Vx1l5cyZST) | 4:07 | 2022-06-02 | 2022-07-21 |
 | [Aitagai](https://open.spotify.com/track/2d1Ei1KUpgoGFTpjqj6vBN) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Aitagai](https://open.spotify.com/album/08pc5v5qapwWz7UGRTl7ge) | 3:51 | 2022-07-28 | 2022-08-03 |
 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-07-28 |  |
@@ -122,7 +123,7 @@
 | [FINALE](https://open.spotify.com/track/7oQGeFfnIYlSiYWjjZPEus) | [BENNIE K](https://open.spotify.com/artist/198kwzJsDRvjEEroTJKzKu) | [FINALE](https://open.spotify.com/album/17DddfRDgZPMVbP7VQk8B1) | 4:22 | 2022-06-07 | 2022-07-02 |
 | [Finale.](https://open.spotify.com/track/3KvRIvP9kzP2JTljShpSJu) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Pre\-Romance / Finale.](https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG) | 4:02 | 2022-09-08 |  |
 | [Flare](https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz) | 3:54 | 2022-05-29 |  |
-| [Flow](https://open.spotify.com/track/55HzAX2f4rVNpJ0XzyNHkP) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Flow](https://open.spotify.com/album/2gZy7QaMw8yS4JlJn1NuAE) | 3:04 | 2022-05-29 |  |
+| [Flow](https://open.spotify.com/track/55HzAX2f4rVNpJ0XzyNHkP) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Flow](https://open.spotify.com/album/2gZy7QaMw8yS4JlJn1NuAE) | 3:04 | 2022-05-29 | 2022-10-13 |
 | [Flower In The Dark \- Synthesized](https://open.spotify.com/track/2CwCFiP0e7pMifbg8LwYkr) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming: Synthesized Symphony](https://open.spotify.com/album/0G4dt3QAptKXnpru2yEioj) | 3:17 | 2022-08-31 | 2022-09-07 |
 | [Flower In The Dark \- Synthesized](https://open.spotify.com/track/6mraHZJ5CazGfaSTj6rDq8) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming: Synthesized Symphony](https://open.spotify.com/album/2MqiL8uhKoSUN9tjhpMBCy) | 3:17 | 2022-08-30 | 2022-09-01 |
 | [Fly High](https://open.spotify.com/track/7ddzu918Njs3S16DGWag6a) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Fly High](https://open.spotify.com/album/1M9qZianzqEvnaW8tBROT2) | 4:08 | 2022-05-29 | 2022-10-05 |
@@ -136,6 +137,7 @@
 | [Getting Stronger, but so blue](https://open.spotify.com/track/0eojcffysQBv5qUnwBxJwH) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:19 | 2022-08-18 | 2022-09-30 |
 | [Ginger](https://open.spotify.com/track/5kuaoj580FY2PFNes0kqC3) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Ginger](https://open.spotify.com/album/0msyMtUaewaEQKPlKjK5cU) | 3:22 | 2022-05-29 | 2022-07-29 |
 | [Girl](https://open.spotify.com/track/1TVuQ54AaNhpE7QmBakvtp) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Girl](https://open.spotify.com/album/4es0Pxx1C9K59o1HPmp0JU) | 3:42 | 2022-08-30 | 2022-09-07 |
+| [Gokyuchu](https://open.spotify.com/track/3P1hy53LptV8AhNe5Gh1tm) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hateshinai Futari](https://open.spotify.com/album/7E8CvB7huaCPvAoKQSVstA) | 5:17 | 2022-10-11 |  |
 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 | 2022-05-31 |  |
 | [GOOD TIME \- feat.AI](https://open.spotify.com/track/1JjDfmBYiIFpyzFZznLZn4) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [heart](https://open.spotify.com/album/7pfF60ERkHaib1xo2kQGlJ) | 3:28 | 2022-05-31 | 2022-06-13 |
 | [Goodbye Darling](https://open.spotify.com/track/3pjXNgUJNrjQ8WnAJLi79S) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [Goodbye Darling / Cry Me A River](https://open.spotify.com/album/7eMpZTOyBz8LheiriBdVtD) | 4:08 | 2022-05-31 | 2022-07-03 |
@@ -610,7 +612,7 @@
 | [南無三](https://open.spotify.com/track/0EOut5YkIhbRd66GJtjrPQ) | [ミシェルメルモ](https://open.spotify.com/artist/2xFlXkuJ58t21HfApcZhH6) | [Meta\-Märchen](https://open.spotify.com/album/5y4VJGmVr4u9KUiiD1f2vH) | 3:43 | 2022-09-13 | 2022-09-28 |
 | [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 | 2022-05-29 | 2022-07-29 |
 | [双葉](https://open.spotify.com/track/66KE3cwbqJjtzjN3ezTmxy) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 4:37 | 2022-08-18 | 2022-08-20 |
-| [号泣中](https://open.spotify.com/track/5isNCHusrLX45csM6ZM4AV) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [果てしない二人](https://open.spotify.com/album/3lsFV7fRAbrkA5HV3VLIj4) | 5:17 | 2022-10-11 |  |
+| [号泣中](https://open.spotify.com/track/5isNCHusrLX45csM6ZM4AV) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [果てしない二人](https://open.spotify.com/album/3lsFV7fRAbrkA5HV3VLIj4) | 5:17 | 2022-10-11 | 2022-10-13 |
 | [名残](https://open.spotify.com/track/2ONMoWhrC8tqKvPBrBH30U) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [名残](https://open.spotify.com/album/1v3SYgQJvk95teZDHx824x) | 4:11 | 2022-09-20 | 2022-09-28 |
 | [君が好きです](https://open.spotify.com/track/0pky0MjWmhHRcjVB5Eij7i) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [君が好きです](https://open.spotify.com/album/0ki7vdb78C0gGUfsJhdKaR) | 4:10 | 2022-06-30 |  |
 | [君が笑う](https://open.spotify.com/track/7AoVYqK8pqBpgsEVejm7wD) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [君が笑う](https://open.spotify.com/album/7EPGCZa4zGvc6buC47VNnC) | 3:16 | 2022-09-06 | 2022-09-15 |
@@ -662,7 +664,7 @@
 | [島より](https://open.spotify.com/track/1rFBg0RaUGcJ4YWoYfpoeZ) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [島より](https://open.spotify.com/album/47WtIVWAIBJZl71kWFZE82) | 4:24 | 2022-06-02 | 2022-07-11 |
 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 | 2022-07-26 | 2022-09-07 |
 | [左耳にメロディー](https://open.spotify.com/track/14WVA2xyPGlbIPyz2lmjIP) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Bitter](https://open.spotify.com/album/4jtm7PHVbJRSogfB6VNFOp) | 3:23 | 2022-06-07 | 2022-07-29 |
-| [幸せの探し方 \- 2022 Remaster](https://open.spotify.com/track/2vMFdiONHdlNcVCyXhAIqv) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Quiet Life \(30th Anniversary Edition; 2022 Remaster\)](https://open.spotify.com/album/6HSiOQVxo7HrYf05PcLC0S) | 3:53 | 2022-09-06 | 2022-09-30 |
+| [幸せの探し方 \- 2022 Remaster](https://open.spotify.com/track/2vMFdiONHdlNcVCyXhAIqv) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Quiet Life \(30th Anniversary Edition; 2022 Remaster\)](https://open.spotify.com/album/6HSiOQVxo7HrYf05PcLC0S) | 3:53 | 2022-09-06 |  |
 | [強くなっちゃったんだ、ブルー](https://open.spotify.com/track/6DjPoz2Abx4W7s8c0osJ3u) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:19 | 2022-08-18 | 2022-08-20 |
 | [形ないもの](https://open.spotify.com/track/630KcWoFFWh1Myu8wrBxUR) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [形ないもの](https://open.spotify.com/album/6uIYnq76AKwmiQu36FaXyN) | 4:42 | 2022-05-31 | 2022-08-04 |
 | [微熱](https://open.spotify.com/track/5J1J23if5Y1Hzb7kqCNzyC) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [微熱](https://open.spotify.com/album/6gVBOfnwKrMvau7I4u90BL) | 4:22 | 2022-05-29 | 2022-07-21 |
@@ -676,7 +678,7 @@
 | [愛さ生まり島](https://open.spotify.com/track/30ZrfAG2MkVujIE6xAdoy9) | [Rimi Natsukawa](https://open.spotify.com/artist/2AAMBmrNdim79LRSv1kKFn) | [会いたい \~かなさんどぉ\~](https://open.spotify.com/album/3u6FMj8KMrGbyV4ArlkPSd) | 4:37 | 2022-06-21 | 2022-06-29 |
 | [愛でほっぺ丼](https://open.spotify.com/track/3DmZS7Ua6MGW213lObJPoo) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [愛でほっぺ丼](https://open.spotify.com/album/6z8cwZTM2VfMZcmHNMBZls) | 4:00 | 2022-06-02 | 2022-07-16 |
 | [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 | 2022-08-09 |  |
-| [愛のせい](https://open.spotify.com/track/4XpqvxRQOeV70xEvAlLoiZ) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [愛のせい](https://open.spotify.com/album/53xskTOkeEsc9fDxu5bxNA) | 4:16 | 2022-10-11 |  |
+| [愛のせい](https://open.spotify.com/track/4XpqvxRQOeV70xEvAlLoiZ) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [愛のせい](https://open.spotify.com/album/53xskTOkeEsc9fDxu5bxNA) | 4:16 | 2022-10-11 | 2022-10-13 |
 | [愛はもう](https://open.spotify.com/track/633VJ4gaIGcKrAt5fvZ7Mm) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [愛はもう](https://open.spotify.com/album/5xyPLgqYuuDIuKr5hpB9bi) | 3:08 | 2022-05-29 | 2022-08-18 |
 | [愛愛だな](https://open.spotify.com/track/0R8iqGwB3Pqm8B682EdFNo) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [愛愛だな](https://open.spotify.com/album/4nPK1HiNhDZnLL9XEGzZFJ) | 3:29 | 2022-10-11 |  |
 | [慟哭 \- Self Cover](https://open.spotify.com/track/0s3yfzHrDPX5SEIDdsJaaU) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [慟哭 \(Self Cover\)](https://open.spotify.com/album/0vkmeavv5B7HjXJKQBS2t7) | 5:12 | 2022-06-21 | 2022-07-19 |

@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 245200,
       "name": "Bones",
       "url": "https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 237165,
       "name": "California Girl",
       "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 271880,
       "name": "Clorox Wipe",
       "url": "https://open.spotify.com/track/3SkDCAsph6e4ExoUQ1dVW0"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 218451,
       "name": "DEEP END",
       "url": "https://open.spotify.com/track/4oXgYIpKj7qMCJ2U0xvR6y"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200351,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 155142,
       "name": "Feels Like I'm Flying",
       "url": "https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 162135,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY"
@@ -1849,7 +1849,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 156818,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj"
@@ -1885,7 +1885,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 235263,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig"
@@ -2689,7 +2689,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 183896,
       "name": "Skin on Skin",
       "url": "https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF"
@@ -3189,6 +3189,24 @@
     {
       "album": {
         "name": "VOCES",
+        "url": "https://open.spotify.com/album/0AbXWJGEy8k6hBxZPVGCJW"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202041,
+      "name": "VOCES",
+      "url": "https://open.spotify.com/track/4GPrUV2O7u9bL5VsTh3RrB"
+    },
+    {
+      "album": {
+        "name": "VOCES",
         "url": "https://open.spotify.com/album/2MWf4eWrRmV39ju55H9FMQ"
       },
       "artists": [
@@ -3311,7 +3329,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 188380,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4Zc6fjadh1ONHDtec9poAD"
@@ -3455,7 +3473,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 145186,
       "name": "Winona",
       "url": "https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy"
@@ -3509,7 +3527,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 118363,
       "name": "\u200erubber \u200echecks",
       "url": "https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ"

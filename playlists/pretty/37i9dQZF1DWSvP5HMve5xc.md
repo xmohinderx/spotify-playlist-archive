@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvP5HMve5xc.md) - [plain]
 
 > Listen to Eric Nam's greatest hits, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,267 likes - 58 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,315 likes - 58 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvP5HMve5xc.md) - [plain]
 | 46 | [Cave Me In](https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Cave Me In](https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL) | 3:34 |
 | 47 | [Into You](https://open.spotify.com/track/1ySJm5XCFatpIz0j8NFlra) | [KOLAJ](https://open.spotify.com/artist/0hhL0iOf9ebHlwxWQyeH2w), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Into You](https://open.spotify.com/album/3Q33VTKlvcTy5wPTqpwDlK) | 3:45 |
 | 48 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 |
-| 49 | [Like You](https://open.spotify.com/track/7yERcsIjjI9EO6AJMG2Rw9) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Like You](https://open.spotify.com/album/6eXbcBdkpjbvmQnP8OX64e) | 2:53 |
+| 49 | [Like You](https://open.spotify.com/track/79HRioSXcdx1C1EI0OYhnb) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Like You](https://open.spotify.com/album/1LGPSvjg56zvngewWWvxf7) | 2:53 |
 | 50 | [LOVE SONG](https://open.spotify.com/track/3YEBBpdqaFmIhJpVHutUS3) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 3:24 |
 | 51 | [I'm OK](https://open.spotify.com/track/70erIN9ecPDru7T9NSkRWk) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I'm Ok](https://open.spotify.com/album/0nCxgNlP3ynhDKpeim8INX) | 3:27 |
 | 52 | [Interview](https://open.spotify.com/track/2izPoWJ6xAuZUNJkdXO3YS) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:25 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvP5HMve5xc.md) - [plain]
 | 57 | [Good\-bye in once upon a time](https://open.spotify.com/track/5PJ4qGA50DzE6m3gpjMpbP) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Love in Memory OST Part.2](https://open.spotify.com/album/4lIIY9VAXXIVexOy0dcaZc) | 4:10 |
 | 58 | [Erase](https://open.spotify.com/track/70IiwE3KGMGoB3zqsgwWPY) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 4:19 |
 
-Snapshot ID: `MTY0MTcxNjI3NSwwMDAwMDAwMDk3ZGYwNTIwMDFlNzRmYmQ1ODljNTI3NmZlMDAzNzQz`
+Snapshot ID: `MTY0MTcxNjI3NSwwMDAwMDAwMDZiNmFjZjJkNmVmNTNhNmNjODliNDU0YTM4OGE5MDFm`

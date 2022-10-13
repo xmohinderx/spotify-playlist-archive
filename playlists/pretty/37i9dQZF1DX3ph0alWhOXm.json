@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 135322,
+  "num_followers": 135363,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTkwNSwwMDAwMDAwMGQ3NjNkMjZmNmE3YzVmYmM2YmY0Y2QxY2E1NWRiMWIz",
+  "snapshot_id": "MTY2MzkwNTkwNSwwMDAwMDAwMDkwNWRiYzgyOTY2OTE4YzcwODg4OThmNjliMzA1Mzk2",
   "tracks": [
     {
       "added_at": "2022-09-23 04:05:05",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "I Don't Want This Night To End",
+      "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "I Don't Want This Night To End",
-      "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -527,26 +527,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "It's Five O'Clock Somewhere",
-      "url": "https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "Doin' My Thing",
         "url": "https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF"
       },
@@ -559,6 +539,22 @@
       "duration_ms": 176160,
       "name": "Rain Is A Good Thing",
       "url": "https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Heartache Medication",
+        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 207161,
+      "name": "Tequila Little Time",
+      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -579,18 +575,22 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Heartache Medication",
-        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 207161,
-      "name": "Tequila Little Time",
-      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
+      "duration_ms": 230133,
+      "name": "It's Five O'Clock Somewhere",
+      "url": "https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "EVERYBODY",
-        "url": "https://open.spotify.com/album/6De0uTqKw2KMGDzidbCPhS"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Fix a Drink",
-      "url": "https://open.spotify.com/track/0s6OWiWGuiCcm1Muzch5A8"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "Past The Point Of Rescue",
         "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 177986,
       "name": "Small Town Saturday Night",
       "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "EVERYBODY",
+        "url": "https://open.spotify.com/album/6De0uTqKw2KMGDzidbCPhS"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Fix a Drink",
+      "url": "https://open.spotify.com/track/0s6OWiWGuiCcm1Muzch5A8"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Same Beer Different Problem",
-        "url": "https://open.spotify.com/album/699sP9cMgoC77MayudRDkk"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Same Beer Different Problem",
-      "url": "https://open.spotify.com/track/2bLa8N2vtooX5Sc0r1NmzO"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "Telling All My Secrets",
         "url": "https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 186600,
       "name": "Alcohol You Later",
       "url": "https://open.spotify.com/track/5SO7pvSFiXwU0e1z7C4X7H"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Same Beer Different Problem",
+        "url": "https://open.spotify.com/album/699sP9cMgoC77MayudRDkk"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Same Beer Different Problem",
+      "url": "https://open.spotify.com/track/2bLa8N2vtooX5Sc0r1NmzO"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/52uIfGoV32jVlyZDWf0pMk"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/3QZ0JGwujsufdE5yiONIzO"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "Real Friends",
         "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 174453,
       "name": "Waitin' on 5",
       "url": "https://open.spotify.com/track/0d2g4x2iOE7dcGfyUuso9l"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/52uIfGoV32jVlyZDWf0pMk"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3QZ0JGwujsufdE5yiONIzO"
     },
     {
       "added_at": "2022-09-23 04:05:05",

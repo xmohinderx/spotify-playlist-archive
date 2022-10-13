@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-252 songs - 16 hr 38 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+254 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Golden](https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 3:51 | 2021-11-10 |  |
 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 | 2021-11-10 |  |
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2022-05-11 |  |
+| [Got 'Til It's Gone](https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 4:01 | 2022-09-30 |  |
 | [Got 'Til It's Gone](https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 4:01 | 2021-11-10 | 2022-10-09 |
 | [Groovin'](https://open.spotify.com/track/7yq8N2bKi5gHz9Ph4s9p67) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Groovin'](https://open.spotify.com/album/0Sj8oDl1GLPlAaP4tAvQYa) | 2:44 | 2022-01-20 | 2022-07-29 |
 | [Groovin' \- Remastered](https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Still Groovin \(Remastered\)](https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL) | 2:43 | 2022-06-03 |  |
@@ -137,8 +138,9 @@
 | [Limbo](https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Limbo/Lagune](https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ) | 3:10 | 2021-11-10 |  |
 | [Lipstick Lies](https://open.spotify.com/track/3tWmETuBoEWrdYWj1lV4LL) | [Julias Moon](https://open.spotify.com/artist/3hKKEBEqHescWFDhTRSRVg) | [Fake ID Heartbreak](https://open.spotify.com/album/3WJct8MWw1YrRzdKucOwm7) | 3:21 | 2021-11-10 | 2022-05-12 |
 | [Little Bit of Lovin](https://open.spotify.com/track/5l5wRXA7asTNjh3V0oNGPs) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Say Less](https://open.spotify.com/album/6BXDMsoy2zam0un1DTMp9U) | 2:52 | 2021-11-10 |  |
-| [Loose Tonight](https://open.spotify.com/track/3PE4AQbEvRXZf8Vdj1ph1V) | [Hips](https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP) | [Loose Tonight](https://open.spotify.com/album/25zR8MQUJTJyj3TJecBRki) | 4:32 | 2021-11-10 |  |
-| [Lost in Paris](https://open.spotify.com/track/6lxcWIvMQK3yezxwFfZcKZ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Lost in Paris](https://open.spotify.com/album/3OGqx2jmVKVkKOIOxGjOQC) | 3:14 | 2021-11-10 |  |
+| [Loose Tonight](https://open.spotify.com/track/3PE4AQbEvRXZf8Vdj1ph1V) | [Hips](https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP) | [Loose Tonight](https://open.spotify.com/album/25zR8MQUJTJyj3TJecBRki) | 4:32 | 2021-11-10 | 2022-10-13 |
+| [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 | 2022-09-30 |  |
+| [Lost in Paris](https://open.spotify.com/track/6lxcWIvMQK3yezxwFfZcKZ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Lost in Paris](https://open.spotify.com/album/3OGqx2jmVKVkKOIOxGjOQC) | 3:14 | 2021-11-10 | 2022-10-13 |
 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 | 2021-11-10 |  |
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2021-11-10 | 2022-08-03 |
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2021-11-10 |  |

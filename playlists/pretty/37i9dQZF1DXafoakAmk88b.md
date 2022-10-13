@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,572 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,631 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 3 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
 | 4 | [Jodie](https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:45 |
 | 5 | [Stereo Driver](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Stereo Driver](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 |
-| 6 | [Chasing Ghosts](https://open.spotify.com/track/3YMsPW55w8Oou0f5SV1wh1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghosts](https://open.spotify.com/album/3R98G6k2dyvKnZdwxkkHGN) | 2:59 |
+| 6 | [Chasing Ghost](https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghost](https://open.spotify.com/album/32by8hxBsVTaYAaUBBzuW9) | 2:59 |
 | 7 | [Selfish Soul](https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:22 |
 | 8 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 |
 | 9 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 58 | [Poison Ivy](https://open.spotify.com/track/2Qq4GCcB81IGr3krVQW84z) | [Elton Aura](https://open.spotify.com/artist/4O24XfCPqIJQUMXOJ2F0ni) | [Vert\(EGO\)](https://open.spotify.com/album/76bLAVnxfGADpQMjchrw5Z) | 2:04 |
 | 59 | [Lost](https://open.spotify.com/track/4Tyb1yqPkrVI5hyudVc0QW) | [Santé Rose](https://open.spotify.com/artist/6ID6N2FNCPskPc2ERK8IH2) | [Lost](https://open.spotify.com/album/4EqiwDa8jcePX5tx172nTU) | 2:20 |
 | 60 | [Therapy'](https://open.spotify.com/track/6s0puEMm8OdfYmb8zhpoUq) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Mara Jade](https://open.spotify.com/artist/0y3ofBOxIP0P6AzgsY87os) | [Compact Disc](https://open.spotify.com/album/5AotiEx682mLqljHKjpA52) | 2:12 |
-| 61 | [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 |
+| 61 | [Brown Eyes and Backwoods](https://open.spotify.com/track/5Q8ILM1zVZWyGjIxAs8jdn) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:58 |
 | 62 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 |
 | 63 | [Lye](https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 1:52 |
 | 64 | [In\-between and Overseas](https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:25 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 79 | [IDK WHAT TO TELL YOU](https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LOVE BLACK](https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA) | 3:30 |
 | 80 | [zero \(ft\. Mereba\)](https://open.spotify.com/track/0hbL0lbapKghBR2K2Xl1wo) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [zero \(ft\. Mereba\)](https://open.spotify.com/album/34A8o4Z1vd1sbsHDBp3Xjh) | 3:09 |
 | 81 | [Claymore \(feat\. Smino\)](https://open.spotify.com/track/051zam2WDIKOLdu4XYpCaA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:06 |
-| 82 | [Pandemia](https://open.spotify.com/track/6TM8mafPCp7BfQDwvPe6MG) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Pandemia](https://open.spotify.com/album/3nr0Km2WewEH7Sd3qR4Mdy) | 1:49 |
+| 82 | [Pandemia](https://open.spotify.com/track/77OgpTPbyPxU4eu0IHX0Iv) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 1:49 |
 | 83 | [Selfish...](https://open.spotify.com/track/75rgxmX8w67Af5EgyQiyaa) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [See You Soon](https://open.spotify.com/album/3Si8ZHErCOw4PL0olDgw5L) | 3:14 |
 | 84 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
 | 85 | [Thin Lines](https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Thin Lines](https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO) | 2:51 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 90 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 |
 | 91 | [Perfect Wife](https://open.spotify.com/track/2fYXieYGhGKFYUH5wbBnVp) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:38 |
 | 92 | [Abyss](https://open.spotify.com/track/07BCkoZW66cM9nQhOsKPSr) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Abyss](https://open.spotify.com/album/4WC7YAk1hPsSL4hEeNz18l) | 2:26 |
-| 93 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 |
+| 93 | [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 |
 | 94 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 |
 | 95 | [Before It Hurts](https://open.spotify.com/track/7iP6bz6tvVKzy1rZOvJ4Pz) | [Naimah](https://open.spotify.com/artist/4RNIFrUK6i8KFU2Nga8rVf) | [Before It Hurts](https://open.spotify.com/album/5RXvlBiL2CgJR6eRdiGdvg) | 4:13 |
 | 96 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 99 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 |
 | 100 | [I'm Just A Fan](https://open.spotify.com/track/53yFY7gXPnSk05ME87QL5D) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [I'm Just A Fan](https://open.spotify.com/album/4TTB112bXXIMtLVgiHjDA0) | 3:03 |
 
-Snapshot ID: `MTY2NDgxMzUwNiwwMDAwMDAwMGI0MzZhMWMyYTVjMGI1MTJlNTBhYWU0NzhlYTZlYTJl`
+Snapshot ID: `MTY2NDgxMzUwNiwwMDAwMDAwMDg2YWZlMzQxYzk4YTlhOGMzNjA2MjY2YzYwOTEwNTZi`

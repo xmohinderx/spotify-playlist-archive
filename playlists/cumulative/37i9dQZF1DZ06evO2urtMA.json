@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88948,
+      "name": "12th House",
+      "url": "https://open.spotify.com/track/1thpTj5LbAQbWTzPBbWRQX"
+    },
+    {
+      "album": {
         "name": "Coursing Through",
         "url": "https://open.spotify.com/album/7CKVvhRVZHbLCfOgsbUdxX"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 336600,
       "name": "Yer' Song",
       "url": "https://open.spotify.com/track/3ue1pNiUCSLZrND9sEEjSB"

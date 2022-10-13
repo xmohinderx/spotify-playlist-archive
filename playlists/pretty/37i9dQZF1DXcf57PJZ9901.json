@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s.",
-  "num_followers": 64124,
+  "num_followers": 64221,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMDk0MjA1ZTAwYTcwMzIxMjRhMWM3MzZkODQ3YzUyYjIy",
+  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMDg2ZDE0Y2UyMTM2NTk1MDRkYzI0ZjI0MWJjMzk4OGZj",
   "tracks": [
     {
       "added_at": "2020-12-08 17:53:04",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3"
     },
     {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 236883,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/4ma2AbPdsy5ijCyJn16mAv"
-    },
-    {
       "added_at": "2021-10-14 05:16:33",
       "album": {
         "name": "Miracle Pill",
@@ -1105,36 +1089,52 @@
       "url": "https://open.spotify.com/track/6xFxmcebq5XphN0WoxNLgp"
     },
     {
-      "added_at": "2020-12-08 17:53:04",
+      "added_at": "2022-04-28 07:02:19",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0"
+        "name": "Bad Omens",
+        "url": "https://open.spotify.com/album/1TiLgvJa0wRTWbkVfFZFUc"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "Eagle Eye Jones",
+          "url": "https://open.spotify.com/artist/5XUOoULG4ihSaob7ju7rn9"
         }
       ],
-      "duration_ms": 269573,
-      "name": "Wild Sun",
-      "url": "https://open.spotify.com/track/4BfQ0lR0I0iJFS9SoExpbG"
+      "duration_ms": 212044,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/1cm9QEpMgBOoByAzIsrKg8"
     },
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
+        "name": "Everything This Way",
+        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Walking On Cars",
+          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
         }
       ],
-      "duration_ms": 169904,
-      "name": "Cold Arms",
-      "url": "https://open.spotify.com/track/77R5bi9hfAUKZmu6tjOcxg"
+      "duration_ms": 231619,
+      "name": "As We Fly South",
+      "url": "https://open.spotify.com/track/4SaDS2MbpK45wQIllWx6pZ"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "The Flood (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 110480,
+      "name": "The Calm",
+      "url": "https://open.spotify.com/track/4W7JkaJY0qEdGmn0Qqfrit"
     }
   ],
   "unique_name": "10s Soft Rock",

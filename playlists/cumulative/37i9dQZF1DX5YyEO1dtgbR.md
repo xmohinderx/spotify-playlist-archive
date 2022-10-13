@@ -4,11 +4,12 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-102 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/0QCs1HUhlbrSzyN8H1j10w)
+103 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/0QCs1HUhlbrSzyN8H1j10w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2nd Round](https://open.spotify.com/track/47aIlnjYCoc2JOEOCe2AXy) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [2nd Round / FFBH](https://open.spotify.com/album/7nreaITfEOxOavaPVm16an) | 2:30 | 2021-10-15 |  |
+| [2nd Round](https://open.spotify.com/track/0lrsCibEGQd7uP0eJ7T2bk) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [2nd Round / FFBH](https://open.spotify.com/album/7cjAjQbz0Rdh7UnGFLXQE5) | 2:30 | 2022-06-14 |  |
+| [2nd Round](https://open.spotify.com/track/47aIlnjYCoc2JOEOCe2AXy) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [2nd Round / FFBH](https://open.spotify.com/album/7nreaITfEOxOavaPVm16an) | 2:30 | 2021-10-15 | 2022-10-13 |
 | [Amanecer](https://open.spotify.com/track/1UjzghodhJRO6HQMhXqeSn) | [Owanj](https://open.spotify.com/artist/1xuXD4yE4sSsM3F9V7Dgtl) | [Azum](https://open.spotify.com/album/6upxgizQHiBLIv6MCeSzsP) | 6:53 | 2021-10-15 |  |
 | [An Exhale](https://open.spotify.com/track/1Cdi1HIK4bJD3F8HGKZDQQ) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [An Exhale](https://open.spotify.com/album/2F3zesjbloU1HZUh2uqUYs) | 4:22 | 2021-10-15 |  |
 | [Anti Chessst](https://open.spotify.com/track/02oaq3LWUIYXfpnzHu2cZN) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Siren Spine Sysex](https://open.spotify.com/album/0FDd0owsYvpGVuUTalsuHS) | 3:19 | 2021-10-15 | 2022-07-29 |

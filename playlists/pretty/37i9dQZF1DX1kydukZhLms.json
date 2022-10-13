@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best metal ballads.",
-  "num_followers": 1082203,
+  "num_followers": 1082594,
   "original_name": "Metal Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMDIyM2E3NjUzMTBhMmQ2OTNmNzAwMmViMmQyYjY0Y2My",
+  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMDY1NzcwZTYzMjU3ZWQ1MjE5NjQxYWFkOTU3M2IzYzg3",
   "tracks": [
     {
       "added_at": "2022-04-15 17:44:09",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 356160,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/6beFuzSjwhOKFZp2aqYDdY"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 254805,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 356160,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/6beFuzSjwhOKFZp2aqYDdY"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Ritchie Blackmore's Rainbow",
-        "url": "https://open.spotify.com/album/3LXOrVXLXwRiOguE446OZo"
-      },
-      "artists": [
-        {
-          "name": "Rainbow",
-          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
-        }
-      ],
-      "duration_ms": 282013,
-      "name": "The Temple Of The King",
-      "url": "https://open.spotify.com/track/0gaMmmhGi5buPXpquSAfxg"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 346960,
       "name": "Love Bites - Remastered 2017",
       "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Ritchie Blackmore's Rainbow",
+        "url": "https://open.spotify.com/album/3LXOrVXLXwRiOguE446OZo"
+      },
+      "artists": [
+        {
+          "name": "Rainbow",
+          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
+        }
+      ],
+      "duration_ms": 282013,
+      "name": "The Temple Of The King",
+      "url": "https://open.spotify.com/track/0gaMmmhGi5buPXpquSAfxg"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Adam Gonthier",
+          "url": "https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Adrenalize (Deluxe)",
         "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 229493,
       "name": "The Price",
       "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Adam Gonthier",
-          "url": "https://open.spotify.com/artist/2z0R8WZqwWoI7R3iGO6QjM"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Cocked And Loaded",
-        "url": "https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW"
-      },
-      "artists": [
-        {
-          "name": "L.A. Guns",
-          "url": "https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS"
-        }
-      ],
-      "duration_ms": 274106,
-      "name": "The Ballad Of Jayne",
-      "url": "https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/2ruinOPJ9p66TuwYUoOANI"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 317573,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/1hEVuE88R6SC3Q8ogis00B"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Cocked And Loaded",
+        "url": "https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW"
+      },
+      "artists": [
+        {
+          "name": "L.A. Guns",
+          "url": "https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS"
+        }
+      ],
+      "duration_ms": 274106,
+      "name": "The Ballad Of Jayne",
+      "url": "https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw"
     }
   ],
   "unique_name": "Metal Ballads",

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 245733,
       "name": "All Or Nothin'",
       "url": "https://open.spotify.com/track/1yVRnCEy5qXzwwaWaq4NB9"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 169893,
       "name": "Alright for Now - Live",
       "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 191074,
       "name": "Asshole",
       "url": "https://open.spotify.com/track/3PmB1b6IIlXyJFcB7pzsE9"
@@ -217,10 +217,28 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 159333,
       "name": "California",
       "url": "https://open.spotify.com/track/3oSl41e3rfJXanYvIufE23"
+    },
+    {
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Casa Dega",
+      "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
     },
     {
       "album": {
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 235278,
       "name": "Climb That Hill",
       "url": "https://open.spotify.com/track/5d3uVVKg38en0klxOycXJU"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 227360,
       "name": "Dreamville",
       "url": "https://open.spotify.com/track/0zG6crJiKpE4IIxSOtZXZs"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 259320,
       "name": "Green Onions - Live",
       "url": "https://open.spotify.com/track/5Na9CFg7vuqPBQfXoQy61q"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 260973,
       "name": "Insider",
       "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 237440,
       "name": "Nightwatchman",
       "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
@@ -931,10 +949,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 300933,
       "name": "Room at the Top",
       "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
+    },
+    {
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264453,
+      "name": "Shadow Of A Doubt (A Complex Kid)",
+      "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
     },
     {
       "album": {
@@ -953,6 +989,24 @@
       "duration_ms": 216500,
       "name": "So You Want To Be A Rock & Roll Star - Live At The Wiltern/1985",
       "url": "https://open.spotify.com/track/1bYjWWpROUmKeBSWb0b6Qr"
+    },
+    {
+      "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284093,
+      "name": "Something Big",
+      "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
     },
     {
       "album": {
@@ -1061,7 +1115,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 363227,
       "name": "Supernatural Radio - Extended Version",
       "url": "https://open.spotify.com/track/4GvvOEM5lQ3jVem8FrtrJ5"
@@ -1205,7 +1259,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 189266,
       "name": "Two Gunslingers",
       "url": "https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc"
@@ -1259,7 +1313,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 129346,
       "name": "Wooden Heart - 2015 Remaster",
       "url": "https://open.spotify.com/track/58ahUnsoJHF2fc2c0nHQS2"

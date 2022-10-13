@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,431 likes - 411 songs - 15 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 995,486 likes - 411 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,7 +274,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 264 | [with you](https://open.spotify.com/track/2FQeoy9i7ZQsFrXEdIq0t3) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [foggy afternoons](https://open.spotify.com/album/3VWXOXYNIiomNfJREmxUMf) | 2:58 |
 | 265 | [Context](https://open.spotify.com/track/53fRXKyA5gszPQS4kyEstO) | [Widefoot](https://open.spotify.com/artist/3AsTXF3O57Mh5814iDyMf0) | [Lush Lines](https://open.spotify.com/album/5ChzK0Nq9TfcC6vPHgiKGA) | 1:58 |
 | 266 | [Follow Me](https://open.spotify.com/track/0hBg3ymrkGMAghPlk2L7ii) | [fox](https://open.spotify.com/artist/2SXuNJWv9RZcRjUc7zIsHy) | [Follow Me](https://open.spotify.com/album/5yaEujGFm7dEg8WnIongAO) | 1:42 |
-| 267 | [5am in cairo](https://open.spotify.com/track/3yxuDfGZluYOjzdFlxBI7M) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:57 |
+| 267 | [5am in cairo](https://open.spotify.com/track/1HO5CGNK9d9zGUXpDAxigN) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/3SEeS3WVZhevxaJKnHe3GU) | 2:57 |
 | 268 | [moon rays](https://open.spotify.com/track/4c7dkc4kNxAC2TNy7CEHHz) | [kyoshi](https://open.spotify.com/artist/3f07ZRsXK7XDJfccmAJNi1) | [dream cycle](https://open.spotify.com/album/62CWfFuwUVNiIGPjU3WalQ) | 1:54 |
 | 269 | [summer rain](https://open.spotify.com/track/0se6cbFdOpsLsYJ5BpNT6o) | [.clouds](https://open.spotify.com/artist/6Ha1LtNwHLYtdp84uDru1b) | [summer rain](https://open.spotify.com/album/51GqoMFSuo4R8hYRXk1RTB) | 2:01 |
 | 270 | [A Lovely Night](https://open.spotify.com/track/3wrLZQo8hUQVAw5xjefOC7) | [Antonius B](https://open.spotify.com/artist/6eZyHHxTWb2rHy2kRPtj0s), [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0) | [A Lovely Night](https://open.spotify.com/album/2zJkPv6KVXyo3RWj3IpUvp) | 2:03 |
@@ -420,4 +420,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 410 | [analogue](https://open.spotify.com/track/6Nye92076r2T3EDvOGSDsL) | [r@ts](https://open.spotify.com/artist/7zREpSJAYjxSFNlOai38bU) | [analogue](https://open.spotify.com/album/1V5KCQUmOAj8UcoWMbij5G) | 2:37 |
 | 411 | [riding hollywood](https://open.spotify.com/track/0II1srBETOw8mpzDEdj90p) | [logan finneas](https://open.spotify.com/artist/0lHDsHD5CqzIcgnW7icG6p) | [riding hollywood](https://open.spotify.com/album/6vazPSoWuK2wo9N1kS2QOn) | 2:03 |
 
-Snapshot ID: `MTY2NTE1OTA4NiwwMDAwMDAwMDkwN2MwNTc4ZWJmMTM0NmFhZjRlMzc0NmNlYWQ1MjUw`
+Snapshot ID: `MTY2NTE1OTA4NiwwMDAwMDAwMDRhMWZkZGFiODI3YzI4ZmQxMmQ1OWFiNGJlMjczYWQ0`

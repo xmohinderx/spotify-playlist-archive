@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,847 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,856 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 51 | [Dickscipline](https://open.spotify.com/track/2UBbbRi3ReN6y8xAZ2KN82) | [Ms\. Boogie](https://open.spotify.com/artist/7HVlaChQbM9guWdiKMGxBq) | [Dickscipline](https://open.spotify.com/album/3V16MYzSW6nfGl9sp619N0) | 2:36 |
 | 52 | [UT Squad](https://open.spotify.com/track/294w7zSPE0BZfe2i3dEobH) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [UT Squad](https://open.spotify.com/album/4lrgl2Nm5IbTN5WIDdK3kz) | 3:22 |
 | 53 | [Uu Uuu](https://open.spotify.com/track/17WDn2rhLS2pXgHocVPe5s) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Paul Marmota](https://open.spotify.com/artist/1hWh4VJXSSsQeqcxKkHqcK) | [Sonrisas](https://open.spotify.com/album/1EWQRQBOtqeuw4DIJE04yi) | 2:52 |
-| 54 | [Introvert](https://open.spotify.com/track/0UShrEEVntV8OGruqeFYt7) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Introvert](https://open.spotify.com/album/6Tz74aSvCkoTiekO3SQRY9) | 6:02 |
+| 54 | [Introvert](https://open.spotify.com/track/2lbX8Jt97ou14yL9rqG58C) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 6:02 |
 | 55 | [Getting Late](https://open.spotify.com/track/7MD0vUh6C3AMn1Uh1DNasq) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Getting Late](https://open.spotify.com/album/4wojQkbjpRtihKKlo9J9fd) | 3:06 |
 | 56 | [Triple Gold Sox](https://open.spotify.com/track/3tLy7XCsTxCsn0O94DLYRs) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Triple Gold Sox](https://open.spotify.com/album/6TL62q0id5NHiugOwFH0LD) | 1:56 |
 | 57 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 70 | [Funny](https://open.spotify.com/track/4nuDDf6CLzze9sboDvGDTB) | [Lauryn England](https://open.spotify.com/artist/6JaWk1YjJxuNBtbGpGtP2G) | [Funny](https://open.spotify.com/album/7aldT6iNs0kwUk9rTezQmH) | 2:20 |
 | 71 | [Playing Games \- Acapella](https://open.spotify.com/track/1ssxrMl5lNPCC3h8gdqsIo) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It \(Complete Set\)](https://open.spotify.com/album/7xILMK2dqawf30xGvHQvQC) | 2:23 |
 | 72 | [SVDKA](https://open.spotify.com/track/5nZ34uFO2TOxpeAtkSiPqR) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [:PINKROOM](https://open.spotify.com/album/0Zwm3DHDS1nYcOB2MW3Wqb) | 2:05 |
-| 73 | [UPP](https://open.spotify.com/track/11MHYvBOYGE98chs0XFbYB) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:12 |
+| 73 | [UPP](https://open.spotify.com/track/6zmXiJQtvFEvyLFQedgGYx) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:12 |
 | 74 | [Nice Guy](https://open.spotify.com/track/5cThMoFV6XK0xCqEcNg6Jw) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Muthaland](https://open.spotify.com/album/6TXwuaX600F8N3s6Rpq04m) | 2:14 |
 | 75 | [Work It](https://open.spotify.com/track/7Frr3YYtn636DNqUcwKr78) | [BE3K](https://open.spotify.com/artist/5CTU3qCfIjCOYMfzaPogFk) | [L 0 V 3 R B 0 Y](https://open.spotify.com/album/6qHnLCNmXjMf5pdt2Qk8Lw) | 2:27 |
 | 76 | [TOMYBAE](https://open.spotify.com/track/30RUT7ewpDfCuMLxJXqUjA) | [Merca Bae](https://open.spotify.com/artist/7tNlqSl7RogtzMsEA20byE), [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD) | [TOMYBAE](https://open.spotify.com/album/7Ck9eaiColPrrSefyMQMvh) | 3:09 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 80 | [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 |
 | 81 | [The Richest Garden in your Memory](https://open.spotify.com/track/5Snt7YJiJj5kGd1mSOiQtg) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 2:57 |
 
-Snapshot ID: `MTY1NDgwMjU2MSwwMDAwMDAwMDBjNTQ1NjI5NjM2MDk0YjFiYThkOWY3YmU3NDJjZTA0`
+Snapshot ID: `MTY1NDgwMjU2MSwwMDAwMDAwMGY1NzQzNzgxZWFmYzlmNjczOWUyOTQ4Yzg0YTAzZjM1`

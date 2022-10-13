@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-155 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+157 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Lonely Man of Winter](https://open.spotify.com/track/3s1ajekHdEht2t8thsmFJT) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Lonely Man of Winter](https://open.spotify.com/album/6ih3mS49nmttFRS8A63X7L) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [Lonely This Christmas](https://open.spotify.com/track/17nkZDCa1MM4a9EopwfnAV) | [Lizzie Loveless](https://open.spotify.com/artist/0VYgAWwMWfQDvhsJg3wyHn) | [Lonely This Christmas](https://open.spotify.com/album/7y6V04lRxsmGuF2r3F3W54) | 3:21 | 2021-11-12 | 2022-07-20 |
 | [Lonely This Christmas](https://open.spotify.com/track/1myuYueGLh0ToUQTQKj5db) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Lonely This Christmas](https://open.spotify.com/album/7aZOmQvyXfwccx3xl6jOn9) | 3:38 | 2021-11-12 | 2022-07-22 |
-| [Love To Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love To Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 | 2021-12-03 |  |
+| [Love To Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love To Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 | 2021-12-03 | 2022-10-13 |
+| [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 | 2021-12-03 |  |
 | [Marshmallow World](https://open.spotify.com/track/4mdVkJdWmb50glN1NFbUOb) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Marshmallow World](https://open.spotify.com/album/7lrmUFv0Or4AtdysLgj7Fi) | 2:26 | 2021-11-12 | 2022-07-23 |
 | [Maybe This Christmas](https://open.spotify.com/track/3TrwJl33jfgEJDdwpSa2lK) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The O.C\. Mix 3 Have A Very Merry Chrismukkah](https://open.spotify.com/album/6NIY572otUHYWANBBa4fiq) | 1:52 | 2021-11-12 | 2022-07-12 |
 | [Maybe This Christmas](https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Maybe This Christmas](https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY) | 1:52 | 2021-11-12 |  |
@@ -142,7 +143,8 @@
 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 | 2021-12-09 |  |
 | [This December \- slow](https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [This December \(slow\)](https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li) | 3:33 | 2021-12-03 |  |
 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 | 2022-01-07 |  |
-| [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-11-12 |  |
+| [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-11-12 | 2022-10-13 |
+| [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 | 2021-11-12 |  |
 | [ugly xmas sweater party](https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [ugly xmas sweater party](https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI) | 3:28 | 2021-11-12 | 2022-07-28 |
 | [Vegetarian Christmas](https://open.spotify.com/track/56iWDgPeaauhH7C3EWEE7l) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Vegetarian Christmas](https://open.spotify.com/album/1RRAz0Fa380MOhzVgJylCP) | 3:31 | 2021-11-12 | 2022-07-28 |
 | [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 | 2021-11-12 |  |

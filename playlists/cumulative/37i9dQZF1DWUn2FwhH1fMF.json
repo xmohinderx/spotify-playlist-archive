@@ -1665,7 +1665,7 @@
     {
       "album": {
         "name": "Motion",
-        "url": "https://open.spotify.com/album/3NkinGi0Fv1BPYhh06hzjU"
+        "url": "https://open.spotify.com/album/0XrwWR8YPTfrboiAS3Dp8O"
       },
       "artists": [
         {
@@ -1676,6 +1676,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187990,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/1YGVpvE7hKdqNArudG04Ll"
+    },
+    {
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/3NkinGi0Fv1BPYhh06hzjU"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 187990,
       "name": "Motion",
       "url": "https://open.spotify.com/track/7GRfEf5BG1OCSMpeVotldQ"
@@ -1903,6 +1921,24 @@
     {
       "album": {
         "name": "Ones You Miss",
+        "url": "https://open.spotify.com/album/6attcIq1peIGvUC29hoaFA"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133669,
+      "name": "Ones You Miss",
+      "url": "https://open.spotify.com/track/31rl8e7IEpHtt3mkjOU4FW"
+    },
+    {
+      "album": {
+        "name": "Ones You Miss",
         "url": "https://open.spotify.com/album/6Khd1eXtKR9Iq1CPB9TRQE"
       },
       "artists": [
@@ -1931,7 +1967,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 133669,
       "name": "Ones You Miss",
       "url": "https://open.spotify.com/track/4cFeXui0uAhC2f4fTwN4P7"
@@ -2881,10 +2917,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 329531,
       "name": "When The Summer Dies",
       "url": "https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI"
+    },
+    {
+      "album": {
+        "name": "When The Summer Dies",
+        "url": "https://open.spotify.com/album/7LasafuTdmSWgVvC1Zweum"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329531,
+      "name": "When The Summer Dies",
+      "url": "https://open.spotify.com/track/1Lgvs8WzpPbT5VuUFIAJwt"
     },
     {
       "album": {

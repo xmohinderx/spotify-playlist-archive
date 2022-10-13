@@ -4,7 +4,7 @@
 
 > Electronic + Dance making waves, every month\. Cover: Austin Millz.
 
-179 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/2TNmeY42vrKnq2dfH2dCEO)
+180 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/2TNmeY42vrKnq2dfH2dCEO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Colours](https://open.spotify.com/track/4BW2RnlPPYCVmiM2iLiVxm) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Colours](https://open.spotify.com/album/12iI9cnI21f6BfPsXGLdE9) | 2:41 | 2022-02-01 | 2022-06-18 |
 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 | 2022-06-17 |  |
 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 | 2022-07-08 |  |
+| [Dance](https://open.spotify.com/track/0h20OvcHKLzhEiQBY4Xgqe) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/7q65VftPY7x1F8bHHnKvvw) | 2:45 | 2022-09-16 |  |
 | [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 | 2022-02-25 | 2022-07-29 |
-| [Dance](https://open.spotify.com/track/7AYYU5KQb4yjWyLEemiDc9) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/4HnqIIxtcFAuUqFX4soPVM) | 2:45 | 2022-07-22 |  |
+| [Dance](https://open.spotify.com/track/7AYYU5KQb4yjWyLEemiDc9) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/4HnqIIxtcFAuUqFX4soPVM) | 2:45 | 2022-07-22 | 2022-10-13 |
 | [Dancin In The D](https://open.spotify.com/track/4IakwcfKlaDeSqeZB4xko7) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g) | [Truth](https://open.spotify.com/album/75FlIJdCotTnyEOZRew18J) | 5:10 | 2022-02-01 |  |
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2022-09-09 |  |
 | [Demons](https://open.spotify.com/track/29jPMXHd2Yhpubhf1qHOcx) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Demons](https://open.spotify.com/album/4t92zAGms07Tr2S1DDh4ud) | 3:20 | 2022-06-17 |  |

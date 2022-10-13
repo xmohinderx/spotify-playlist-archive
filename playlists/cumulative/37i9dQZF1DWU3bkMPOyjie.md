@@ -4,7 +4,7 @@
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
 
-99 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
+100 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [The Beach](https://open.spotify.com/track/3xOE5ciDmfQ0VY3WahE0eJ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:01 | 2022-04-26 |  |
 | [The Beach](https://open.spotify.com/track/4DnRAvfHBRkxMMOAXsCJpZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/7GcuimRczCCOblhJr0NgzD) | 3:01 | 2020-08-18 | 2022-07-29 |
 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 | 2020-08-18 |  |
-| [The Chamber](https://open.spotify.com/track/2wBW9jGZRRMbQ416NDc7LW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/03vJ0BcslLb4fKyBYN78Gy) | 4:57 | 2020-08-18 |  |
+| [The Chamber](https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 4:57 | 2022-04-26 |  |
+| [The Chamber](https://open.spotify.com/track/2wBW9jGZRRMbQ416NDc7LW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/03vJ0BcslLb4fKyBYN78Gy) | 4:57 | 2020-08-18 | 2022-10-13 |
 | [The Only Place](https://open.spotify.com/track/0NCcbiW3kiasTzgg3CiBrf) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [The Only Place \(Deluxe\)](https://open.spotify.com/album/02gFZUaqAcQNtV6rmVIsN0) | 2:42 | 2022-04-26 |  |
 | [The Only Place](https://open.spotify.com/track/1jqRIFPidtXj9H9YKv5ILM) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [The Only Place](https://open.spotify.com/album/3vTAcIRcaEwrdy5q8dXBYV) | 2:42 | 2022-04-26 | 2022-08-10 |
 | [The Only Place](https://open.spotify.com/track/4nczzhe10DQGPUClkevmqB) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [The Only Place \(Deluxe\)](https://open.spotify.com/album/2lpW13Gis4FaolJmwufJB1) | 2:42 | 2022-04-26 | 2022-09-17 |

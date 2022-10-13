@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Trippie Redd
 
-307 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
+308 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Milwaukee](https://open.spotify.com/track/6vY53ev5SnH2m3EDe0OmU7) | [FWC Big Key](https://open.spotify.com/artist/1Iqj2pasBQAqLQMfTCKZDD) | [Industry Ready](https://open.spotify.com/album/26bYIUAp933spmDSjM2p3B) | 1:42 | 2022-02-18 | 2022-06-11 |
 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 | 2022-06-03 | 2022-06-18 |
 | [Misfit](https://open.spotify.com/track/6v83lCQkyqUvZGY7Au9IVI) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50) | [Misfit](https://open.spotify.com/album/5DxK2C3rMlXURlUyf8PvTq) | 2:49 | 2022-04-08 | 2022-04-29 |
-| [Mount Olympus](https://open.spotify.com/track/51iOn6LKdI9QWW04Db4H5E) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Mount Olympus](https://open.spotify.com/album/26TbZ36ISE56kbgRP71jNV) | 2:39 | 2022-09-23 |  |
+| [Mount Olympus](https://open.spotify.com/track/3zgUEeCkyezg8a9PfKF36G) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Mount Olympus](https://open.spotify.com/album/5T11JgUa7BzCjB8HW732MV) | 2:39 | 2022-09-23 |  |
+| [Mount Olympus](https://open.spotify.com/track/51iOn6LKdI9QWW04Db4H5E) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Mount Olympus](https://open.spotify.com/album/26TbZ36ISE56kbgRP71jNV) | 2:39 | 2022-09-23 | 2022-10-13 |
 | [MURDAMAN! \(feat\. Chief Keef\)](https://open.spotify.com/track/32DFtWSM5SpEAHcyzW3m0A) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [MURDAMAN! \(feat\. Chief Keef\)](https://open.spotify.com/album/4MAiy2yUEGl1Pkx5arNtxO) | 3:42 | 2022-08-12 | 2022-08-27 |
 | [Murderzone \(feat\. EST Gee\)](https://open.spotify.com/track/1CSsb62J1mtvWthlljcmbG) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Trench Baby 2](https://open.spotify.com/album/6FXz7jXl0k95MmlWkMto6B) | 2:40 | 2021-11-12 | 2022-03-05 |
 | [My Bitches](https://open.spotify.com/track/36YBLRF6EwUI6K0oHgKFg8) | [Rahli](https://open.spotify.com/artist/6WwVzGJQWr2jU3iBgl8WPm) | [My Bitches](https://open.spotify.com/album/2qHwuYa2Lit4sRhfIxcGYW) | 2:30 | 2022-02-04 | 2022-03-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,047 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,644 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 46 | [boys don't cry](https://open.spotify.com/track/2nOCXHxoN6hRqQbt6TDnnP) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [boys don’t cry](https://open.spotify.com/album/0vfdaU8XkSjixvd5RcTWm7) | 2:32 |
 | 47 | [masquerade \- BabySantana Remix](https://open.spotify.com/track/6U7aXej66xOtncZRzfKnFS) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [masquerade \(BabySantana Remix\)](https://open.spotify.com/album/4paXOAztOfbIz9Fwe1khee) | 2:12 |
 | 48 | [LIVID](https://open.spotify.com/track/23q6bVeIuECLcUeYkwgbRZ) | [Triple01s](https://open.spotify.com/artist/0KUXfWDNjqQ0SVVbb0zJBx) | [LIVID](https://open.spotify.com/album/3ekNTuYS4S9C6QE6oeBmPQ) | 2:40 |
-| 49 | [All Night Long](https://open.spotify.com/track/2CHVJkpUoIgz5vt8uX53gG) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [All Night Long](https://open.spotify.com/album/57Ns6doMMJBlNjy1nnYy4e) | 2:09 |
+| 49 | [ALL NIGHT LONG](https://open.spotify.com/track/2CHVJkpUoIgz5vt8uX53gG) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [ALL NIGHT LONG](https://open.spotify.com/album/57Ns6doMMJBlNjy1nnYy4e) | 2:09 |
 | 50 | [so silly !](https://open.spotify.com/track/4AAU9Fg5uQqq8OkmhxSxIm) | [Koto.](https://open.spotify.com/artist/7BhOIxOt4a0uyyIu6zJYef) | [so silly !](https://open.spotify.com/album/1Rudga8yVbJbBsFkuKF2YI) | 1:43 |
 | 51 | [just cant](https://open.spotify.com/track/4DCSx7XCBxYWuc71WL02j2) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 2:22 |
 | 52 | [less than me \(with NoCap\)](https://open.spotify.com/track/1giAAC2ehzhihRYA7sxYHO) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [WORLD DAMINATION](https://open.spotify.com/album/3N8tj0jEEDRSKwET5u3xgW) | 3:14 |

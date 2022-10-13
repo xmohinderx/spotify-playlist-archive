@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-127 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
+131 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [It’s All So Incredibly Loud](https://open.spotify.com/track/0H8LHYMi4hzbwSzxp7DOxR) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [It’s All So Incredibly Loud](https://open.spotify.com/album/0YuU3tqK56d8UfewdAqCIl) | 4:19 | 2021-10-14 |  |
 | [Jealous](https://open.spotify.com/track/2i0AHHG97Cs8tRrBea2tH1) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/1aOr4fzpxI4I1MWzwtXKcl) | 3:36 | 2021-10-14 |  |
 | [Jealous](https://open.spotify.com/track/5OfWbw2sIHfJnWP9kb3381) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Jealous](https://open.spotify.com/album/7yPMOeiZe1clMr90IvrvP2) | 3:36 | 2021-10-14 | 2022-07-29 |
-| [Just Asking](https://open.spotify.com/track/4LoMqgfxEbYZrnqxloUMAq) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/6k4YdfQ8Qe8RIRmKB5ReFn) | 2:29 | 2021-10-14 |  |
+| [Just Asking](https://open.spotify.com/track/4LoMqgfxEbYZrnqxloUMAq) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/6k4YdfQ8Qe8RIRmKB5ReFn) | 2:29 | 2021-10-14 | 2022-10-13 |
+| [Just Asking](https://open.spotify.com/track/6D1dL8RshXW9TkhqFRynx5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/7pddbmgA9wlMn6HomsAe2d) | 2:29 | 2021-10-14 |  |
 | [Kilkee](https://open.spotify.com/track/23ib6CJ9JzEJUsItSsPDXm) | [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Music for Picture: Vol\. II \(Metamorphosis\)](https://open.spotify.com/album/6ZFEU4um5fjx39GpnByQ53) | 4:00 | 2021-10-14 |  |
 | [Let You Down](https://open.spotify.com/track/2fPLTshHikksne597oM4q5) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [See Inside](https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db) | 3:26 | 2021-10-14 |  |
 | [Liquid Love](https://open.spotify.com/track/02X75Hn5XDRg60ZtLYLCqi) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:51 | 2021-10-14 |  |
@@ -100,7 +101,8 @@
 | [On The Way There](https://open.spotify.com/track/1cwV9KDoWoL2espNeeibvb) | [RolledBack](https://open.spotify.com/artist/1XZkIY1rC0QNcjpSIdMCoU), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [On The Way There](https://open.spotify.com/album/47SYiqJbww6E7jwvXscLSR) | 2:25 | 2021-10-14 |  |
 | [Only The River](https://open.spotify.com/track/0OpuLpm4RWwZ4cZi3nz5cP) | [Alex Luca](https://open.spotify.com/artist/3Gf3YElKXsG1ukhCyxHR9l) | [Only The River](https://open.spotify.com/album/3B27QZhpGZsDnbZHIdonpC) | 2:38 | 2021-10-14 | 2022-07-29 |
 | [Only the River](https://open.spotify.com/track/63B3O9pt9RwbeBfDvAae6H) | [Alex Luca](https://open.spotify.com/artist/3Gf3YElKXsG1ukhCyxHR9l) | [Only the River](https://open.spotify.com/album/3O6op1uiIABkqL3B55WbIZ) | 2:38 | 2021-10-14 |  |
-| [Our Bones Turn To Stone](https://open.spotify.com/track/3L0XH247cWBtheVx7Tkfaa) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Our Bones Turn To Stone](https://open.spotify.com/album/0dwMCKOYFs0j4pWRx9iuZ5) | 4:20 | 2021-10-14 |  |
+| [Our Bones Turn To Stone](https://open.spotify.com/track/2dG6GUKbE9iOwvnekPYqpj) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 4:20 | 2021-10-14 |  |
+| [Our Bones Turn To Stone](https://open.spotify.com/track/3L0XH247cWBtheVx7Tkfaa) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Our Bones Turn To Stone](https://open.spotify.com/album/0dwMCKOYFs0j4pWRx9iuZ5) | 4:20 | 2021-10-14 | 2022-10-13 |
 | [Particles \- Edit](https://open.spotify.com/track/4ROXjJjgMW0y6wXlTJBPqA) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Particles](https://open.spotify.com/album/2q5XSD3D9TwFNOTK1m1uWt) | 3:02 | 2021-10-14 |  |
 | [RC\-20](https://open.spotify.com/track/4D1lbXrMY3iNnTqmRlcN5t) | [ChiruP](https://open.spotify.com/artist/5vaqhKQFXVxNaLP5qXYjrs) | [RC\-20](https://open.spotify.com/album/6lcAWTaPj9p67z1uBPX2aS) | 3:24 | 2021-10-14 |  |
 | [Reculver](https://open.spotify.com/track/6rkBNzraDcu5xuOMPGM041) | [lotusbliss](https://open.spotify.com/artist/7KasCF2ZfqwGRglWxqPFne) | [Bittersweet](https://open.spotify.com/album/3vbgdxeQbajiKQGphj6nkR) | 4:28 | 2021-10-14 |  |
@@ -110,7 +112,8 @@
 | [Shiloh](https://open.spotify.com/track/6S2YNUnLEUUT4LejZE6WMM) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Shiloh](https://open.spotify.com/album/6BpvHghrcCtSKXe7rTYevD) | 3:17 | 2021-10-14 | 2022-07-29 |
 | [Sirens](https://open.spotify.com/track/1EVus1vgkvjSZ7AGXTjMbX) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Sirens](https://open.spotify.com/album/2Hl1GmsR6cRLFmQUqpdPZ5) | 3:09 | 2021-10-14 |  |
 | [Small Foreign Faction](https://open.spotify.com/track/42ri8tCtPeHfGQJTo7zIVX) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Small Foreign Faction](https://open.spotify.com/album/0ZQupG0Qurk8jDq2fnEb7y) | 3:33 | 2021-10-14 |  |
-| [Sober](https://open.spotify.com/track/2lQv5l2Bmf7hYyYwjNe2lC) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober](https://open.spotify.com/album/7qM4xyGyZdO6K2r2k7Lz7V) | 3:19 | 2021-10-14 |  |
+| [Sober](https://open.spotify.com/track/2lQv5l2Bmf7hYyYwjNe2lC) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober](https://open.spotify.com/album/7qM4xyGyZdO6K2r2k7Lz7V) | 3:19 | 2021-10-14 | 2022-10-13 |
+| [Sober](https://open.spotify.com/track/3fztFuRWPK8GkA8KhMjeYY) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober](https://open.spotify.com/album/4D3dgRuKR8T0tEREC6DdNh) | 3:19 | 2021-10-14 |  |
 | [Somewhere Not Real](https://open.spotify.com/track/5kj38BAjlr6rXhD6GYglz0) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [Hometime](https://open.spotify.com/album/6niZSnemfDke5ITcAYPK1c) | 2:45 | 2021-10-14 |  |
 | [Somewhere Not Real](https://open.spotify.com/track/6At2QQEJoa1J5Btb75n3l0) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [Somewhere Not Real](https://open.spotify.com/album/6AYltyZ5qK3WjMuSjM83RH) | 2:45 | 2021-10-14 | 2022-07-29 |
 | [Take Me Apart](https://open.spotify.com/track/5Vklvoh0PmgKfekJyVadFs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Take Me Apart](https://open.spotify.com/album/0AKeQGFy4FxMEaE6yS65bY) | 4:00 | 2021-10-14 |  |
@@ -120,7 +123,8 @@
 | [The Bottom Line](https://open.spotify.com/track/4zO1yIlRNBzF0TF2Zx4fKZ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW) | [some kind of peace](https://open.spotify.com/album/5GoNI6fKC1BVsuITYKMRB9) | 4:02 | 2021-10-14 | 2022-07-29 |
 | [The Bottom Line \(feat\. Josin\)](https://open.spotify.com/track/6SWcMCO8k07ptNCxf3Vmij) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 4:02 | 2021-10-14 |  |
 | [The Girls Before Me](https://open.spotify.com/track/7IecWBldlrmQNoqZH0FH5u) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [The Girls Before Me](https://open.spotify.com/album/13RMTU3mRKfjemE1ouEjIZ) | 3:35 | 2021-10-14 |  |
-| [The Sun Is Up Forever](https://open.spotify.com/track/1Lb1S77Ooubhoy3sz509aY) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/4E2TcDaegufL6YTbOzHiqR) | 3:44 | 2021-10-14 |  |
+| [The Sun Is Up Forever](https://open.spotify.com/track/1Lb1S77Ooubhoy3sz509aY) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/4E2TcDaegufL6YTbOzHiqR) | 3:44 | 2021-10-14 | 2022-10-13 |
+| [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 | 2021-10-14 |  |
 | [Third Way](https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Begin Again \- EP](https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN) | 4:47 | 2021-10-14 |  |
 | [This is Where it Ends](https://open.spotify.com/track/4RErVR8msKr0WXp4hkRPnU) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [This is Where it Ends](https://open.spotify.com/album/6kyYwC2flZrnoYB7QvQTIc) | 3:42 | 2021-10-14 | 2022-07-29 |
 | [This is Where it Ends](https://open.spotify.com/track/58VEaFuQPo9VYXz2775CA3) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Golden Veins](https://open.spotify.com/album/2vzDjT8BARIETMFRL7Yn0o) | 3:42 | 2021-10-14 |  |

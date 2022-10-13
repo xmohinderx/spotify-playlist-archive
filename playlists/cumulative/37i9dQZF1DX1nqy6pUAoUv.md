@@ -4,7 +4,7 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-220 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/79ANrvDhADPfS6kpFqiqNP)
+221 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/79ANrvDhADPfS6kpFqiqNP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Minneapolis Cold](https://open.spotify.com/track/36OJDRPWTJGiIBTA3aCNGG) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O), [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Minneapolis Cold](https://open.spotify.com/album/0fFFWq9vCPF9dmnCLWvRNe) | 3:59 | 2021-10-13 | 2022-01-17 |
 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 | 2022-02-25 |  |
 | [Mohabbat](https://open.spotify.com/track/5PY0OvDT2tnAykdiUQayF8) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mohabbat](https://open.spotify.com/album/1DUjMy0rHh8ckyyvGzQzhm) | 7:42 | 2021-10-13 | 2022-07-29 |
+| [Money Is King](https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 2:54 | 2022-02-25 |  |
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2021-10-13 |  |
 | [Mountain Song](https://open.spotify.com/track/657ot8l0R4wbreAkl9KiAm) | [Ava Earl](https://open.spotify.com/artist/4PouHBQ1thPvzhfP1LsSAQ) | [Mountain Song](https://open.spotify.com/album/5QpaqDTkWgRcJRCvNtLss2) | 4:47 | 2021-10-13 | 2022-07-25 |
 | [My Heart Aches](https://open.spotify.com/track/2JexGQLlpihuwBxihoTM9r) | [Eliza Gilkyson](https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG) | [2020](https://open.spotify.com/album/7zzz0Fqahwtd6jd2BgBFj6) | 3:49 | 2022-01-12 | 2022-05-17 |
@@ -157,7 +158,7 @@
 | [Pigeons](https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 5:25 | 2021-10-13 | 2022-07-28 |
 | [Place We Were Made](https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT) | 3:05 | 2022-02-25 |  |
 | [Pretty Polly](https://open.spotify.com/track/737aOcPrTs5bMeDl8Gywud) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 4:57 | 2021-10-13 | 2022-07-28 |
-| [Quasheba, Quasheba](https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 4:42 | 2021-10-13 |  |
+| [Quasheba, Quasheba](https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 4:42 | 2021-10-13 | 2022-10-13 |
 | [Queen Jane Approximately](https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y) | [Emma Swift](https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R) | [Blonde On The Tracks \(Deluxe Edition\)](https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i) | 4:36 | 2021-10-13 |  |
 | [Racquel Blue](https://open.spotify.com/track/2uV62sbVkmNLzTCDhOZ3ij) | [Ike Reilly](https://open.spotify.com/artist/2lWPNlK4GycPBUHln4ySBP) | [Racquel Blue](https://open.spotify.com/album/0c4awjNmULg2WG4owTrCih) | 7:17 | 2022-02-25 | 2022-07-17 |
 | [Real Heart](https://open.spotify.com/track/6jjpqcjHaH42fu2lY4E0Wl) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [Real Heart](https://open.spotify.com/album/3MnrQYNpy5o9H4bGhkkpdU) | 3:48 | 2022-02-25 |  |

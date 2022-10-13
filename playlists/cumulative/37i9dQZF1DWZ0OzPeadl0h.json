@@ -1685,10 +1685,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 149045,
       "name": "Just Asking",
       "url": "https://open.spotify.com/track/4LoMqgfxEbYZrnqxloUMAq"
+    },
+    {
+      "album": {
+        "name": "Just Asking",
+        "url": "https://open.spotify.com/album/7pddbmgA9wlMn6HomsAe2d"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149045,
+      "name": "Just Asking",
+      "url": "https://open.spotify.com/track/6D1dL8RshXW9TkhqFRynx5"
     },
     {
       "album": {

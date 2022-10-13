@@ -4,7 +4,7 @@
 
 > Esos éxitos que todavía quieres seguir escuchando\. Foto: J Balvin & Bad Bunny
 
-296 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/6ENxT1J0ltTig8PeynE97H)
+297 songs - 18 hr 7 min - [published](https://open.spotify.com/playlist/6ENxT1J0ltTig8PeynE97H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [La Pared 360](https://open.spotify.com/track/2w8SKQCnT2YQK1qCqKl2uW) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Pared 360](https://open.spotify.com/album/396afOAgz7QHqygyGhMJbw) | 2:32 | 2021-12-10 | 2022-07-25 |
 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 | 2022-08-17 |  |
 | [La Pregunta](https://open.spotify.com/track/4z3RCjcCBdDFqYlrhDglXf) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Otro Nivel De Musica](https://open.spotify.com/album/70MlPWqiWt8nE5zxqVRgM2) | 4:29 | 2021-12-10 | 2022-07-29 |
+| [La Pregunta](https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Timeless](https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU) | 4:29 | 2022-08-17 |  |
 | [La Rompe Corazones](https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Rompe Corazones](https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw) | 3:24 | 2021-12-10 |  |
 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 | 2021-12-10 |  |
 | [La Vecinita](https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Los Bandoleros Reloaded](https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R) | 4:25 | 2021-12-10 |  |
@@ -226,7 +227,7 @@
 | [Quiero Repetir](https://open.spotify.com/track/0MIcPSq9n2z5H8TAfEstri) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:20 | 2021-12-10 | 2022-07-29 |
 | [Quiéreme](https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Invicto](https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh) | 3:11 | 2021-12-10 | 2022-07-29 |
 | [Rebota](https://open.spotify.com/track/2YRvdf9cdS88y1wB1WhKoE) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/0WtvTluO0QSmXndhOydGDA) | 3:24 | 2022-01-13 | 2022-07-29 |
-| [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 | 2022-03-31 |  |
+| [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 | 2022-03-31 | 2022-10-13 |
 | [Regalame Una Noche](https://open.spotify.com/track/534weu3DIwV9UELLTGanOC) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [El Movimiento: The Mixtape](https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ) | 4:09 | 2021-12-10 | 2022-07-29 |
 | [Reggaeton en Paris](https://open.spotify.com/track/2FK1agZzZzTyxV2CD7ixcP) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 4:01 | 2022-03-31 | 2022-04-21 |
 | [Reggaetonera](https://open.spotify.com/track/6yVkakCN460KOVol9ZazjH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:32 | 2021-12-10 | 2022-07-04 |

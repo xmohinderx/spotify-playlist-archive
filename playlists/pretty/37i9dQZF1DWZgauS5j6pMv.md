@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Louis Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,794 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,888 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 15 | [Gimme The Word](https://open.spotify.com/track/4kIhrMfenA2r86h98xh91r) | [Uzuhan](https://open.spotify.com/artist/2KG9Jkvp7Y5wvaMjCcIu37) | [Gimme The Word](https://open.spotify.com/album/4I7sMTrlO9UQ4jNDQxqGBq) | 3:17 |
 | 16 | [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 |
 | 17 | [Jammin' Tonight](https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Jammin' Tonight](https://open.spotify.com/album/2JuAzf0eakBX1l47SyJbu7) | 4:07 |
-| 18 | [Major Love](https://open.spotify.com/track/5YwslI1NOE5ZIs99KYtO0z) | [Quincy Mumford](https://open.spotify.com/artist/5SuvllnauIOmQexrVDf3yZ) | [Major Love](https://open.spotify.com/album/2GZtc9I9wmJDPpLDOwCGo6) | 2:16 |
+| 18 | [Major Love](https://open.spotify.com/track/4UPenBNUClXgAFQoPeuy1X) | [Quincy Mumford](https://open.spotify.com/artist/5SuvllnauIOmQexrVDf3yZ) | [Major Love](https://open.spotify.com/album/3f4Zn0VaPxUOHo3A7pldG1) | 2:16 |
 | 19 | [Doubts \- Live from Studio 54, 2022](https://open.spotify.com/track/3rzEkGL4fjIB6hdIx2DZc5) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Doubts \(Live from Studio 54, 2022\)](https://open.spotify.com/album/3hMtt6d0eyyfm1lOI3O9ib) | 3:23 |
 | 20 | [Catch Me If You Can](https://open.spotify.com/track/4D04v6javNlEsTHjFvxkxZ) | [Joseph Luca](https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu) | [Catch Me If You Can](https://open.spotify.com/album/7MdPrJm69q7pETDcm0iYht) | 2:34 |
 | 21 | [Sweet Tooth](https://open.spotify.com/track/2PSissBzTet0WdjuFXU6A5) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT) | [Sweet Tooth](https://open.spotify.com/album/45CGUxginHlvey2BY8E2pE) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [You Got Me](https://open.spotify.com/track/5nLKrvpQBb8sE3MvEfQGFI) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [You Got Me](https://open.spotify.com/album/2cogfCjxAEmXoWHFex4gDN) | 3:00 |
 | 100 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDYzY2I5MDVmYjViNjMzZjA5ZWNkMTc4MTNhNTk5OGUx`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDI4YTFhNDZhMGUyOTNhMzI4NzNmZmE1YTk5MmZkNjFm`

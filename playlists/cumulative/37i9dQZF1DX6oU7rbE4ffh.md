@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-118 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
+119 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/6gL2G2PqG3eJ4wI5j0BKO2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [I Believe](https://open.spotify.com/track/0vK8tdh9HbtUcAm9g4CVDD) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:00 | 2022-05-25 | 2022-08-06 |
 | [Imagination](https://open.spotify.com/track/1wqc4mp6CKNGnDV3rOTb9M) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Imagination](https://open.spotify.com/album/4RbMri9MGtYClHNBOdDNVm) | 2:54 | 2022-05-25 |  |
 | [Indirectly](https://open.spotify.com/track/68bxCGlDAMm5ZfxCcH8LKO) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Indirectly](https://open.spotify.com/album/0wcE5AoDhShhJMdftUd2oh) | 2:56 | 2022-05-25 |  |
-| [infinity](https://open.spotify.com/track/4fiWZuhwD3FN7FDOphDDSH) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [inner focus \(meditation\)](https://open.spotify.com/album/6swg69yRNzeFcSez1QXQ1N) | 2:55 | 2022-05-25 |  |
+| [infinity](https://open.spotify.com/track/4fiWZuhwD3FN7FDOphDDSH) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [inner focus \(meditation\)](https://open.spotify.com/album/6swg69yRNzeFcSez1QXQ1N) | 2:55 | 2022-05-25 | 2022-10-13 |
+| [infinity](https://open.spotify.com/track/6EMvtm8uRwnPU6nvTgMHV7) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [inner focus \(meditation\)](https://open.spotify.com/album/17UAPjFDSI5stoNdmqvLAn) | 2:55 | 2022-10-07 |  |
 | [Intuition](https://open.spotify.com/track/3VSHwYTtcZNrdwZuyOGjHo) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Intuition](https://open.spotify.com/album/021gMyQNpIiRxNspxbQuyR) | 3:59 | 2022-05-25 |  |
 | [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 | 2022-06-24 |  |
 | [Kiedy anioły śpiewają](https://open.spotify.com/track/00B2qA7KX5pkJN0mriTeIw) | [Nadzieja Nowak](https://open.spotify.com/artist/4G7MZ9ZdNf8SwRZix5rFLx) | [Kiedy anioły śpiewają](https://open.spotify.com/album/6mi0Whx3iDPqGCniA5s2Uu) | 3:31 | 2022-05-25 |  |

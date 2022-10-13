@@ -1,15 +1,15 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 64695,
+  "num_followers": 64769,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTUwNDAzNywwMDAwMDAwMGRjNGFiMTJlMzY1Njg5MzAyODBhY2JkMmI0N2JjN2Ri",
+  "snapshot_id": "MTY2NTUwNDAzNywwMDAwMDAwMDAxYzVkYzU3NmIxNTkxZDVhNTMwYWMzYzYyODU1MDE5",
   "tracks": [
     {
-      "added_at": "2022-10-12 01:47:00",
+      "added_at": "2022-10-13 01:37:57",
       "album": {
         "name": "missing",
         "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
@@ -89,10 +89,10 @@
       "url": "https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD"
     },
     {
-      "added_at": "2022-10-12 01:47:00",
+      "added_at": "2022-10-13 01:37:57",
       "album": {
-        "name": "\u5931\u697d\u5712",
-        "url": "https://open.spotify.com/album/0xhrDqFnWl8WdOKU1TN3Qn"
+        "name": "Paradise Lost",
+        "url": "https://open.spotify.com/album/0vnIfdckK1V6rAbhZDlHvp"
       },
       "artists": [
         {
@@ -101,8 +101,8 @@
         }
       ],
       "duration_ms": 215750,
-      "name": "\u5931\u697d\u5712",
-      "url": "https://open.spotify.com/track/5QVMFQYQndc0qyzXzJcD8P"
+      "name": "Paradise Lost",
+      "url": "https://open.spotify.com/track/6pdi51BIJZMFolAjocMeFd"
     },
     {
       "added_at": "2022-10-06 16:45:36",
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
     },
     {
-      "added_at": "2022-10-12 01:47:00",
+      "added_at": "2022-10-13 01:37:57",
       "album": {
         "name": "\u541b\u3088 \u6c17\u9ad8\u304f\u3042\u308c",
         "url": "https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/5dwkmgutIFdurpXlzEyCtB"
     },
     {
-      "added_at": "2022-10-12 01:47:00",
+      "added_at": "2022-10-13 01:37:57",
       "album": {
         "name": "\u661f\u971c\u30ed\u30de\u30f3\u30b9\u30dd\u30c3\u30c8",
         "url": "https://open.spotify.com/album/3y5m8YvNm0yGHYoi4ada4V"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
     },
     {
-      "added_at": "2022-10-12 01:47:00",
+      "added_at": "2022-10-13 01:37:57",
       "album": {
         "name": "\u53c2\u4e0a!\u30a2\u30cb\u30de\u30eb\u6559\u56e3!",
         "url": "https://open.spotify.com/album/1DhGLgkbbbYdHiI8zDn4vm"
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-10-06 16:45:36",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3pkvUedqMjZPjbUgYrbsiq"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN"
-    },
-    {
-      "added_at": "2022-10-06 16:45:36",
-      "album": {
         "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba)",
         "url": "https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 217429,
       "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba)",
       "url": "https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e"
+    },
+    {
+      "added_at": "2022-10-06 16:45:36",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3pkvUedqMjZPjbUgYrbsiq"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN"
     },
     {
       "added_at": "2022-10-06 16:45:36",

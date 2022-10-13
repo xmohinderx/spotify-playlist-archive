@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,245 likes - 104 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,275 likes - 104 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 90 | [A Marshmallow World](https://open.spotify.com/track/37L7EPenK5SI5ydjF8XWNm) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/2RRdk9dTPqgDdeEWRSflbg) | 2:14 |
 | 91 | [Only Thing I Ever Get For Christmas](https://open.spotify.com/track/4BY6dDtUBweniXJXnd13Ek) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:12 |
 | 92 | [Wonderful Christmastime \(with MIKA\)](https://open.spotify.com/track/0xayyhWqB60xkkcZ6A4v71) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 3:42 |
-| 93 | [It's Christmas Now!](https://open.spotify.com/track/4rcoY9VWWQkzFeEsxGDbUX) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n) | 2:40 |
+| 93 | [It's Christmas Now!](https://open.spotify.com/track/6tc2mMOQTiMMH238j1UieZ) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/5OK4C8RKMEDrTKuN6YKrOC) | 2:40 |
 | 94 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 |
 | 95 | [That's Christmas to Me](https://open.spotify.com/track/2U9kDk5mlHYunC7PvbZ8KX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:02 |
 | 96 | [Because It's Christmas](https://open.spotify.com/track/1qGnUL1QqUFMIIG2tVf1Qh) | [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [A Tashian Family Christmas](https://open.spotify.com/album/31UM7flh32SoxhfEW7hy95) | 1:51 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 103 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 104 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 |
 
-Snapshot ID: `MTYzODg5NTg0MiwwMDAwMDAwMDI5NTI3NmQzZTYwNmY0NTdkOWQ3NWEwYjQ4MjA5YjZm`
+Snapshot ID: `MTYzODg5NTg0MiwwMDAwMDAwMDhhNGQyNWExYWYzZjlkZDkxZDgzYjAxOWJmMWI1MDFh`

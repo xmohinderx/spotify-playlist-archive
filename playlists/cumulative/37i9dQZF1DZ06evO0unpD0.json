@@ -26,6 +26,32 @@
     },
     {
       "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "Africa, One Of A Kind",
+      "url": "https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44"
+    },
+    {
+      "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
       },
@@ -153,7 +179,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 514200,
       "name": "Deri",
       "url": "https://open.spotify.com/track/1PXSEtSOVpFV1znyEWeoXz"
@@ -495,7 +521,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Karifa",
       "url": "https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP"
@@ -621,7 +647,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 475760,
       "name": "Lony",
       "url": "https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn"
@@ -727,6 +753,28 @@
       "duration_ms": 403334,
       "name": "Mansa Fo La",
       "url": "https://open.spotify.com/track/5gAw9gpPXg6gCUoeuxfN1C"
+    },
+    {
+      "album": {
+        "name": "Bamako",
+        "url": "https://open.spotify.com/album/5h1nuuzwo2Usr6BTF5HMdw"
+      },
+      "artists": [
+        {
+          "name": "Simphiwe Dana",
+          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "Masibambaneni",
+      "url": "https://open.spotify.com/track/1pX94ATR4DVBR9viWZAaTP"
     },
     {
       "album": {
@@ -911,7 +959,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 478373,
       "name": "Sanni Kagniba",
       "url": "https://open.spotify.com/track/5k6du3Uk5dj8IB5lPtGJgH"
@@ -987,7 +1035,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 590893,
       "name": "Soro (Afriki)",
       "url": "https://open.spotify.com/track/5EoPQlFF6eRdP04DmSc7iA"
@@ -1233,7 +1281,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 373973,
       "name": "Yambo",
       "url": "https://open.spotify.com/track/25fS72Gn3j78nfYOKLcrQk"

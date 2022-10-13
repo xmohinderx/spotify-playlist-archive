@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-464 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+465 songs - 1 day 2 hr 4 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [Mai Tais \(feat\. Skylar Grey\)](https://open.spotify.com/track/58e08QJdz9zs7AY2KiiHBt) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Mai Tais \(feat\. Skylar Grey\)](https://open.spotify.com/album/5dtKqmSeXNh85Mt7tjP3Vt) | 3:44 | 2019-11-22 | 2020-01-22 |
 | [Mean It](https://open.spotify.com/track/3GRSqlALWISqLeNncZMbpX) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/4aoWQU2gSUjl4AZeCPSo1b) | 3:52 | 2019-11-22 | 2020-02-21 |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-12 |  |
-| [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2021-10-16 |  |
+| [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 | 2022-09-28 |  |
+| [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2021-10-16 | 2022-10-13 |
 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 | 2019-09-27 | 2020-04-24 |
 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 | 2022-01-13 |  |
 | [Mess Her Up \- Single Edit](https://open.spotify.com/track/3TZgPOKPqzvj2pS4AeGTAu) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Mess Her Up](https://open.spotify.com/album/5CSCU90DSnBpCZNrQ2PE7B) | 3:25 | 2019-08-02 | 2019-10-25 |

@@ -1,15 +1,15 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 8920,
+  "num_followers": 8995,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMDM5MWY1MDRmMGQzZGE4ZTJjZGQ3MzY2MTAzNjU0M2Vi",
+  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMGRiMzBjZTJmMmRiMTk3OGIwMDRhN2VkYjRlN2NmNmQ4",
   "tracks": [
     {
-      "added_at": "2022-10-12 01:30:11",
+      "added_at": "2022-10-13 01:22:17",
       "album": {
         "name": "28 Reasons - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-10-04 14:56:03",
       "album": {
+        "name": "HORIZON : THE MIXTAPE",
+        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 81101,
+      "name": "OVERZONE",
+      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
+    },
+    {
+      "added_at": "2022-10-04 14:56:03",
+      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 219080,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
-    },
-    {
-      "added_at": "2022-10-04 14:56:03",
-      "album": {
-        "name": "HORIZON : THE MIXTAPE",
-        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 81101,
-      "name": "OVERZONE",
-      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
     },
     {
       "added_at": "2022-10-04 14:56:03",
@@ -815,6 +815,26 @@
     {
       "added_at": "2022-10-04 14:56:03",
       "album": {
+        "name": "K.I.S.S",
+        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Te Quiero(feat.BIBI)",
+      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
+    },
+    {
+      "added_at": "2022-10-04 14:56:03",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -839,22 +859,18 @@
     {
       "added_at": "2022-10-04 14:56:03",
       "album": {
-        "name": "K.I.S.S",
-        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+        "name": "VELVETMOTH",
+        "url": "https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx"
       },
       "artists": [
         {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
         }
       ],
-      "duration_ms": 194645,
-      "name": "Te Quiero(feat.BIBI)",
-      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
+      "duration_ms": 196250,
+      "name": "CANTSAY",
+      "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
     },
     {
       "added_at": "2022-10-04 14:56:03",
@@ -871,22 +887,6 @@
       "duration_ms": 224000,
       "name": "Harujongil",
       "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
-    },
-    {
-      "added_at": "2022-10-04 14:56:03",
-      "album": {
-        "name": "VELVETMOTH",
-        "url": "https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx"
-      },
-      "artists": [
-        {
-          "name": "Bryn",
-          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "CANTSAY",
-      "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
     },
     {
       "added_at": "2022-10-04 14:56:03",
@@ -957,6 +957,26 @@
       "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
     },
     {
+      "added_at": "2022-10-13 01:22:17",
+      "album": {
+        "name": "Be there",
+        "url": "https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf"
+      },
+      "artists": [
+        {
+          "name": "DAVII",
+          "url": "https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc"
+        },
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "duration_ms": 223008,
+      "name": "Be there",
+      "url": "https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg"
+    },
+    {
       "added_at": "2022-10-04 14:56:03",
       "album": {
         "name": "TAKE",
@@ -1023,26 +1043,6 @@
       "duration_ms": 176126,
       "name": "Gunner",
       "url": "https://open.spotify.com/track/2s6mnu51NafM2OLVgdRhlF"
-    },
-    {
-      "added_at": "2022-10-12 01:30:11",
-      "album": {
-        "name": "Be there",
-        "url": "https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf"
-      },
-      "artists": [
-        {
-          "name": "DAVII",
-          "url": "https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc"
-        },
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
-        }
-      ],
-      "duration_ms": 223008,
-      "name": "Be there",
-      "url": "https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg"
     },
     {
       "added_at": "2022-10-04 14:56:03",

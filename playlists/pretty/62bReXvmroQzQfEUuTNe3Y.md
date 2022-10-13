@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 986,659 likes - 100 songs - 5 hr 20 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 987,299 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 81 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 |
 | 82 | [When I'm Around You](https://open.spotify.com/track/2MYTYXJXUj3YeCsGfiIdRq) | [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [When I’m Around You](https://open.spotify.com/album/3ECrboeSffBx7IYNtg1HsS) | 3:23 |
 | 83 | [I Can't Sleep](https://open.spotify.com/track/5xB5b4L2jOylbYhSf15PTq) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [I Can't Sleep](https://open.spotify.com/album/06SmE9wI7ZTaCHnil6sNWl) | 3:11 |
-| 84 | [Until We Leave the Ground \- Steve James Remix](https://open.spotify.com/track/1qcxoSRrWRDxvOCHVit2of) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY) | [Far from Here \(The Remix Album\)](https://open.spotify.com/album/0wi2YmWEKfm2g0YuvCMcUH) | 3:17 |
+| 84 | [Until We Leave the Ground \- Steve James Remix](https://open.spotify.com/track/1qcxoSRrWRDxvOCHVit2of) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Steve James](https://open.spotify.com/artist/7k8z1Z8hQqKnLLMQ5Ihzjk) | [Far from Here \(The Remix Album\)](https://open.spotify.com/album/0wi2YmWEKfm2g0YuvCMcUH) | 3:17 |
 | 85 | [Saturday Night](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Saturday Night](https://open.spotify.com/album/6DcRUK41ymZ8yTNuzZJ8NV) | 2:40 |
 | 86 | [Let You Know](https://open.spotify.com/track/0ZKvsGwD3D8Y4orIQGyyBW) | [Carter.](https://open.spotify.com/artist/4FNkz4oChr6RwFLZqHQiX0), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Let You Know](https://open.spotify.com/album/3j0SwqbhvA8Aw0pmET5Wh9) | 2:43 |
 | 87 | [Us \- Selected Mix](https://open.spotify.com/track/5PU3Pd7ml1GfvJt7IqksG6) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Us](https://open.spotify.com/album/1FtgISKKm0jFKfZxKvZ8QC) | 2:43 |

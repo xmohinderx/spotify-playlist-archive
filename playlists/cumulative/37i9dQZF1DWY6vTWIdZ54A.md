@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-233 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
+236 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Loose Ends](https://open.spotify.com/track/4rZaSU1gqk7zkywTDqxGeX) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Loose Ends](https://open.spotify.com/album/47kuTI9HG6YuOBMhyIe3qQ) | 2:40 | 2020-12-11 | 2022-07-29 |
 | [Love Is All You Love](https://open.spotify.com/track/23yFGudxXhWkEP0DQDiYgB) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/5vo1GaBWX1gtv5xKobictw) | 3:22 | 2022-06-17 |  |
 | [Love Is All You Love](https://open.spotify.com/track/26NeDcBDtSOsdwYjGO9Mrl) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/2wPUZq7cmmqMMchtCMgJSO) | 3:22 | 2020-12-11 | 2022-07-29 |
-| [Love Spills](https://open.spotify.com/track/1Be8ytAIubyZBVffoubQzj) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Dark Black Makeup](https://open.spotify.com/album/2KfVV36ma18SbZKRmFcXKf) | 3:32 | 2020-12-11 |  |
+| [Love Spills](https://open.spotify.com/track/6PgYxALBTd2JmgsU8neAUz) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Delicious Rock Noise](https://open.spotify.com/album/40oVGFomjqPGwUzPRkxnqG) | 3:31 | 2022-10-07 |  |
+| [Love Spills](https://open.spotify.com/track/1Be8ytAIubyZBVffoubQzj) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Dark Black Makeup](https://open.spotify.com/album/2KfVV36ma18SbZKRmFcXKf) | 3:32 | 2020-12-11 | 2022-10-13 |
 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 | 2020-12-11 |  |
 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 | 2020-12-11 |  |
 | [Making Gestures](https://open.spotify.com/track/675pQka4krUCyb7zMX3M7y) | [The Pack a.d.](https://open.spotify.com/artist/2gbOUPIhea9nrCmAeZBgpo) | [Funeral Mixtape](https://open.spotify.com/album/2LXcr5m7LagfVGni7NcYQy) | 4:10 | 2020-12-11 |  |
@@ -199,7 +200,8 @@
 | [Talk & Walk](https://open.spotify.com/track/0BvFgXSJZ1irgFEbhHT5hc) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Talk & Walk](https://open.spotify.com/album/6jJpnrltVW9zHyfBSNk2FE) | 4:35 | 2022-09-23 |  |
 | [That Black Bat Licorice](https://open.spotify.com/track/4WcFUZMb0wiUZBePgnpgDa) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:50 | 2020-12-11 | 2022-06-14 |
 | [That Dress](https://open.spotify.com/track/4I9qjUCx8jFQkFFi5Eyt5x) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress](https://open.spotify.com/album/1LdR3si9EGC2Eav5Arcn0T) | 3:08 | 2020-12-11 | 2022-07-29 |
-| [That Dress \- Demo](https://open.spotify.com/track/6RU7KnvzXFxCJERQuFcCR5) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/1s65VLQ9UpVAwTMDopPCp1) | 3:08 | 2022-06-17 |  |
+| [That Dress \- Demo](https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3) | 3:08 | 2022-10-07 |  |
+| [That Dress \- Demo](https://open.spotify.com/track/6RU7KnvzXFxCJERQuFcCR5) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/1s65VLQ9UpVAwTMDopPCp1) | 3:08 | 2022-06-17 | 2022-10-13 |
 | [the depths](https://open.spotify.com/track/6KBR2f0QJBdnLddWSJnQbs) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [the boys](https://open.spotify.com/album/3YLIa2HCjlMNgLFHqHwgor) | 4:01 | 2020-12-11 | 2022-07-29 |
 | [the depths](https://open.spotify.com/track/6XEPaRg8LRsVb4OMJGxmDG) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [daphne did it / the depths](https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M) | 4:01 | 2022-06-17 |  |
 | [The Middle](https://open.spotify.com/track/0ldybyyoztnIBPsqZWjPNF) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [The Middle](https://open.spotify.com/album/35GXWiN1dp2ZkXjQraRwUi) | 3:34 | 2022-09-23 |  |
@@ -231,8 +233,9 @@
 | [What’s It Take To Be Happy?](https://open.spotify.com/track/36ctXtkmh0ot5PTBhlr9vJ) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [What’s It Take To Be Happy?](https://open.spotify.com/album/2gqKXGj4NkMH4FdrXviY9x) | 3:20 | 2022-09-23 |  |
 | [When I'm Gone](https://open.spotify.com/track/3VZjogSj2XePaVubGgFOUo) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/5P1eT6Xpd9DNeSHJkJAzNo) | 3:25 | 2020-12-11 | 2022-07-29 |
 | [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 | 2022-06-17 |  |
-| [Who’s Gonna Love Me Now](https://open.spotify.com/track/1T9DxFAS1H7RgR4PDUzAGQ) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/5XWHfMAw90dNXWbAy0t6hq) | 2:51 | 2022-06-17 |  |
+| [Who’s Gonna Love Me Now](https://open.spotify.com/track/1T9DxFAS1H7RgR4PDUzAGQ) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/5XWHfMAw90dNXWbAy0t6hq) | 2:51 | 2022-06-17 | 2022-10-13 |
 | [Who’s Gonna Love Me Now](https://open.spotify.com/track/3OAiJ8YdnNr2zus6CwT3y2) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Who’s Gonna Love Me Now](https://open.spotify.com/album/2BbF1f4OKq2MbgSGl8mvvb) | 2:51 | 2020-12-11 | 2022-07-29 |
+| [Who’s Gonna Love Me Now](https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT) | 2:51 | 2022-10-07 |  |
 | [Wolf](https://open.spotify.com/track/2S7R4trL4HITPIfvKUxcA4) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 6:56 | 2022-06-17 |  |
 | [Wolf](https://open.spotify.com/track/3O8XITugw7W9svMQw0ODcf) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Wolf](https://open.spotify.com/album/4zq9AhdglvCEYYY6llnbnj) | 6:56 | 2020-12-11 | 2022-07-29 |
 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 | 2020-12-11 |  |

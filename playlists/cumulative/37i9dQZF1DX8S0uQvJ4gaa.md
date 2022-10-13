@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Restless Road
 
-1,499 songs - 3 day 9 hr 8 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
+1,500 songs - 3 day 9 hr 12 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,7 +649,8 @@
 | [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 | 2022-04-08 | 2022-05-28 |
 | [I Love Her, but She Don't Love Me Back](https://open.spotify.com/track/2XdrIZCGsVf4mMfbYgyKUg) | [James Carothers](https://open.spotify.com/artist/5pX3zfSvGUMxg3RGHRug5f) | [I Love Her, but She Don't Love Me Back](https://open.spotify.com/album/0XAjb83S8voqt6ArQoFiOu) | 3:10 | 2020-06-07 | 2020-06-14 |
 | [I Love My Country](https://open.spotify.com/track/16kqEZBfhhK8XlQpauKej1) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [I Love My Country](https://open.spotify.com/album/6HQLji6pkqG4guxd9YcFTP) | 3:04 | 2020-03-28 | 2020-05-02 |
-| [I Love My Hometown](https://open.spotify.com/track/3EF8vJwg4NBkzp7DCO90E1) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID) | 3:18 | 2022-05-13 |  |
+| [I Love My Hometown](https://open.spotify.com/track/3EF8vJwg4NBkzp7DCO90E1) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID) | 3:18 | 2022-05-13 | 2022-10-13 |
+| [I Love My Hometown](https://open.spotify.com/track/7De4wjRz4WCceF0DXqf2Z8) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/1paYFxYmurwK3quB1vL6Pq) | 3:18 | 2022-10-07 |  |
 | [I Love You More](https://open.spotify.com/track/31KrrOzf8FgoTJa7djzdol) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [I Love You More](https://open.spotify.com/album/4KQP0Ov59zHV46sHTehqNI) | 3:24 | 2021-11-13 | 2022-01-22 |
 | [I Only Date Cowboys](https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [I Only Date Cowboys](https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI) | 2:56 | 2021-06-12 | 2021-11-27 |
 | [I Should Be Asleep](https://open.spotify.com/track/4UcvvbP9NekBVBVSrL40j8) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1), [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [I Should Be Asleep](https://open.spotify.com/album/4B52xEDrksvqvQyFc3HxFm) | 3:00 | 2020-11-07 | 2021-01-23 |

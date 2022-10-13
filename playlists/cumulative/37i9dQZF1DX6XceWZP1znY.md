@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-599 songs - 1 day 16 hr 11 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+600 songs - 1 day 16 hr 17 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Reincarnate](https://open.spotify.com/track/5osgKGvGB4ZEvkw406QxDr) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [Reincarnate](https://open.spotify.com/album/7m7P4P9vYujJUYXEYLivFK) | 4:07 | 2022-06-07 | 2022-07-29 |
 | [REMEMBER](https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4) | [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8), [coladrain](https://open.spotify.com/artist/4qLXYL3mOJD057YL4puyU4), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 4:03 | 2022-06-07 | 2022-07-27 |
 | [REMEMBER](https://open.spotify.com/track/5LpoOEvLsPtK9baecA3Gnp) | [Masto \(coldrain\)](https://open.spotify.com/artist/6lnOwnN8wy4PO5nbkYRQ7D), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 4:03 | 2022-06-07 |  |
+| [remember](https://open.spotify.com/track/37L7Zjb22r6sRPjwDKNJtG) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [remember](https://open.spotify.com/album/6LEUN2BTXQBHx5O8DcHtPu) | 5:49 | 2022-08-11 |  |
 | [remember](https://open.spotify.com/track/4LnRLsKhypMfOqExy6QanW) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Orion Blue \(Special Edition\)](https://open.spotify.com/album/18fDDV05JDXFmNSACmKj7r) | 5:50 | 2022-06-07 | 2022-07-27 |
 | [remember](https://open.spotify.com/track/559BPTSuJ3FvdQb3Kq9VRQ) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [オリオンブルー \(Special Edition\)](https://open.spotify.com/album/369KX0SKUZRgD0MISapqrT) | 5:50 | 2022-06-07 | 2022-08-12 |
 | [Replica](https://open.spotify.com/track/2cWXjk50iwkCaEesJUCm8f) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [Replica](https://open.spotify.com/album/1XlrmvRSyeuTXYU74D9t8Y) | 3:31 | 2022-06-07 | 2022-07-29 |
@@ -328,7 +329,7 @@
 | [WISH](https://open.spotify.com/track/5tw5KJQclTS3iL4NbzE7TJ) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [WISH](https://open.spotify.com/album/08349lPWDWIljpetuDptPe) | 4:54 | 2022-06-07 | 2022-07-22 |
 | [You & Me](https://open.spotify.com/track/6j04uewYlGesO1udV72rv8) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [You & Me](https://open.spotify.com/album/7bFmphJq8vUgm4hWONZX85) | 3:23 | 2022-06-07 | 2022-07-29 |
 | [You're my perfect mirror](https://open.spotify.com/track/19292wQKsyLO6SrT1IGlWi) | [富金原佑菜](https://open.spotify.com/artist/75pZmt1oHpu1jO8so1wp6P) | [You're my perfect mirror](https://open.spotify.com/album/1whMo4kK8sjP2qIjQX04jJ) | 5:05 | 2022-06-07 | 2022-07-27 |
-| [Your Name](https://open.spotify.com/track/3yU4bAIj873n4QI2otkPO8) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Your Name](https://open.spotify.com/album/2IPmik2ZoemnGk0V2VlWiI) | 3:37 | 2022-06-07 |  |
+| [Your Name](https://open.spotify.com/track/3yU4bAIj873n4QI2otkPO8) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Your Name](https://open.spotify.com/album/2IPmik2ZoemnGk0V2VlWiI) | 3:37 | 2022-06-07 | 2022-10-13 |
 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/7md7CglfYIdzVPco9bdQMy) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name\. \(Deluxe Edition / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QAbGrQVTzyUDTS9ld0OEN) | 4:44 | 2022-06-07 | 2022-07-25 |
 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 | 2022-06-07 |  |
 | [あなたがいる](https://open.spotify.com/track/0zrqEdXxtNbM9ksb3WJjsv) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [あなたがいる](https://open.spotify.com/album/6YfYZIqDNCQ1iVMJ6Silga) | 4:15 | 2022-06-07 | 2022-07-24 |

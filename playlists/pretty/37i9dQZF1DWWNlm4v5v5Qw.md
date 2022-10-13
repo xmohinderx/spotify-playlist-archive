@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: DEETRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,504 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,507 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 15 | [Sandbox](https://open.spotify.com/track/5FpA9VUCUquTkHPpn5Uaiq) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Sandbox](https://open.spotify.com/album/4XH6r97ff6p58FGNxexSBy) | 3:37 |
 | 16 | [Le Fond](https://open.spotify.com/track/224LybpL68A0JachfVey7W) | [HIM$](https://open.spotify.com/artist/2VYvmMPuZt0YSUjM8yYIe2), [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [RIDE OR DIE, Vol\. 1](https://open.spotify.com/album/4DBZZlmJDkG8gLhXFJaa0f) | 2:10 |
 | 17 | [Spankin ‘Em](https://open.spotify.com/track/2vVlltQQiXG5mu3D6RimBn) | [Rahiem Supreme](https://open.spotify.com/artist/1F6QRQPzMp6gM6xydxbzIK), [WiFiGawd](https://open.spotify.com/artist/2tM4YvbGRPeHpxdD6PqLwe) | [Spankin ‘Em](https://open.spotify.com/album/2PCCyQH3NC2FmJS76AicNu) | 1:42 |
-| 18 | [LECTRIC SLIDE](https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/6Z6nRjRrfbP1RwzI730m7i) | 2:32 |
+| 18 | [LECTRIC SLIDE](https://open.spotify.com/track/2Cw6qLeiePD8OgSLvl39PO) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 2:32 |
 | 19 | [Spaceship](https://open.spotify.com/track/0YTG5KzkkvB8YTWt6BqMOj) | [Young Moe](https://open.spotify.com/artist/2n5heo4vW6jWfCh94dNSXg), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Real One](https://open.spotify.com/album/2nvsUnIIDAXuszWRDlEqPj) | 3:22 |
 | 20 | [Gotsta Get Paid](https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Gotsta Get Paid](https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku) | 3:30 |
 | 21 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 43 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
 | 44 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 |
 | 45 | [What More](https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors 3](https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6) | 2:29 |
-| 46 | [SINCERELY](https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [SINCERELY](https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0) | 3:04 |
+| 46 | [SINCERELY](https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 3:04 |
 | 47 | [Quicker Than That](https://open.spotify.com/track/4ZeeyCxzmzg6sfXLppwU7b) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT) | [Quicker Than That](https://open.spotify.com/album/1Dc3n72JxyGSCHtGGXK2rm) | 2:29 |
 | 48 | [From My Heart](https://open.spotify.com/track/4aEpW2S3YgSlO0aIvfNGvh) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [From My Heart](https://open.spotify.com/album/2iyd9rlZ8toIXdK5raw8dH) | 1:39 |
 | 49 | [Worst Way](https://open.spotify.com/track/3mEXiOSlqWTk0zVq2VLiWt) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN), [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [VIRGOAT](https://open.spotify.com/album/5TchtfpSg3MUUZu6pAqB3r) | 3:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 59 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
 | 60 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDI3NmEzN2U0Y2Q1NGIzYzcxNDFhMTNkZjMwYWI5NjI0`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDgxYWZkYTM5OGYxNzU3Y2QxODM0OTA4YTUwZTg5OWY4`

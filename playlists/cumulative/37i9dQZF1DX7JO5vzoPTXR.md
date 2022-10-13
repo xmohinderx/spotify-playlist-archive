@@ -4,7 +4,7 @@
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz?si=IrA26cUAS5W88Q9mtXvX2A&nd=1">Mickey Guyton,</a> Emma\-Lee, and Karen Kosowski.
 
-395 songs - 22 hr 9 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
+396 songs - 22 hr 13 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Easy Way Out](https://open.spotify.com/track/0uBweZFdnXrd8Krl37hlNG) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Easy Way Out](https://open.spotify.com/album/2Gkpj6KschtE9Nmz3SRwL6) | 3:26 | 2022-06-01 | 2022-07-07 |
 | [End of the World](https://open.spotify.com/track/6JqvM0pNL3ENdJPZYlYcPY) | [Joyeur](https://open.spotify.com/artist/6KcrIG9ECqAUh7ETEZZAHh) | [End of the World](https://open.spotify.com/album/0zaJA2j9Xg3dBPW5aNWi31) | 3:56 | 2022-07-06 | 2022-08-04 |
 | [evergreen](https://open.spotify.com/track/075oabiIyfrUrIjZgNQboz) | [carly and martina](https://open.spotify.com/artist/7D7UTmb1NyT7aOyi3nw1Uz), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [evergreen](https://open.spotify.com/album/4s7QFbsqSOZBEtJaOzHRgW) | 3:30 | 2022-07-06 | 2022-09-09 |
-| [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-08 |  |
+| [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-08 | 2022-10-13 |
+| [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2022-10-05 |  |
 | [Face](https://open.spotify.com/track/4adUFO0GaeoZfdhdtj9RNZ) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [Face](https://open.spotify.com/album/3zzOvx0cCLS6z2M2iKj57F) | 3:22 | 2022-02-02 | 2022-05-05 |
 | [Fade Away](https://open.spotify.com/track/0IWBaEf7GOwKPKHyC32E1z) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Ten Love Songs](https://open.spotify.com/album/3jviKiBoZrkHLQZYIReWCh) | 3:18 | 2022-05-04 | 2022-06-01 |
 | [Fall](https://open.spotify.com/track/6I4WHWtwN5LIf0ar1vXTjm) | [Villette](https://open.spotify.com/artist/0PliqNw2AWIrelCOI4tgzx) | [100% HER](https://open.spotify.com/album/4c8qCznUZNz4H5xoYrdA0B) | 6:25 | 2022-08-03 | 2022-09-09 |

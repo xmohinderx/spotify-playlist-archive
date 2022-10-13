@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Walk Off the Earth, Tenille Townes
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,533 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,549 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 6 | [Another Love Song](https://open.spotify.com/track/2PKEWeRvcGxPzr3FaGes5e) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Another Love Song](https://open.spotify.com/album/0BLaVp7Mzl2LOSQNvURmsM) | 2:57 |
 | 7 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 |
 | 8 | [Don't I Make It Look Easy](https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Don't I Make It Look Easy](https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1) | 2:34 |
-| 9 | [Go Write with the Stars](https://open.spotify.com/track/0LIojBe01OpupDLuMUYwHK) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write with the Stars](https://open.spotify.com/album/1WSBhoawi94swRpqd0weQF) | 3:33 |
+| 9 | [Go Write It In The Stars](https://open.spotify.com/track/4I7ly7eSt1raF0ZSOAlWKP) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write It In The Stars](https://open.spotify.com/album/6SAJNqTw4P8uVV8qeApNbJ) | 3:35 |
 | 10 | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 |
 | 11 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 12 | [Perfectly Broken](https://open.spotify.com/track/3Xx9gfUF7fd9tlffUrhxNi) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Perfectly Broken](https://open.spotify.com/album/5DGzH5tTCp8qWkR0trpPSZ) | 3:08 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 46 | [One Of You](https://open.spotify.com/track/4E3CLD8ovFxgySwZjzkKJr) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [One Of You](https://open.spotify.com/album/4wgSE6Bn2e7AglOJWIAk1T) | 3:45 |
 | 47 | [Paper Airplanes](https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Paper Airplanes](https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen) | 4:17 |
 | 48 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
-| 49 | [Evergreen](https://open.spotify.com/track/0kJmIaK9zElQON3tKCw8Pn) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Evergreen](https://open.spotify.com/album/2CGZsbbj70jVgBcSB3bvE9) | 3:01 |
+| 49 | [Evergreen](https://open.spotify.com/track/5tP2NMeAOujUeK0w3C96nh) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Evergreen](https://open.spotify.com/album/51V6vLEvHhYyFZgUXGqVFI) | 3:01 |
 | 50 | [MANIAC \(feat\. Windser\)](https://open.spotify.com/track/4Dmav01B2Fra0U4VYPPq4d) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [MANIAC \(feat\. Windser\)](https://open.spotify.com/album/7KjUZhvlYVBcSxUR8bqR91) | 3:00 |
 | 51 | [Way It Is](https://open.spotify.com/track/0TvcmPpFvMpj88NFnX4FCt) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Way It Is](https://open.spotify.com/album/4mSaUD7NdvOzGnYjRGugDU) | 3:27 |
 | 52 | [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 86 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 |
 | 87 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 88 | [In Madness](https://open.spotify.com/track/2lZ3gdbKLymyHJqcuGQZhb) | [Constance](https://open.spotify.com/artist/6TkolBM4MZMH9ed7Vln8Tq) | [In Madness](https://open.spotify.com/album/2zGXzzZGXwEth56t495oPt) | 3:20 |
-| 89 | [somebody to you](https://open.spotify.com/track/7eQTq1NSbkz0rbf4Z19ZHF) | [Lyle Kam](https://open.spotify.com/artist/3tpxZOPwm3IFQo00wq6hNd) | [somebody to you](https://open.spotify.com/album/4zonaEyspZNJQHcwhoZutg) | 3:13 |
+| 89 | [somebody to you](https://open.spotify.com/track/73RthGWMCa1Sc8uZbOzvYs) | [Lyle Kam](https://open.spotify.com/artist/3tpxZOPwm3IFQo00wq6hNd) | [somebody to you](https://open.spotify.com/album/7HOVSUkLR2II0NCF07ld4h) | 3:13 |
 | 90 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
 | 91 | [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 |
 | 92 | [Beautiful Way](https://open.spotify.com/track/0Xs7vjXIYm7f6pWE25Ov6y) | [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM) | [Beautiful Way](https://open.spotify.com/album/3IQwR1NBsUZa8wqkTu3RJo) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Saved My Life \(with R3HAB\)](https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Saved My Life \(with R3HAB\)](https://open.spotify.com/album/6deJd6SdTPGoCFwyzJk4L7) | 2:54 |
 | 100 | [This Kind Of Love](https://open.spotify.com/track/3QyyIBuuY8yXlGox5Bhh71) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [This Kind Of Love](https://open.spotify.com/album/66DsYVnmcviZORiwGqCWls) | 3:17 |
 
-Snapshot ID: `MTY2NTM2MjY1MywwMDAwMDAwMDFkYTQ4MzFiYTE3ZjM0NWI2ZjMzMGRhZGEzYzJlNDBl`
+Snapshot ID: `MTY2NTM2MjY1MywwMDAwMDAwMDE2OTc3ZTA5YzljN2FhNjcxYzY3Y2RmNTIzMTNlNzc3`

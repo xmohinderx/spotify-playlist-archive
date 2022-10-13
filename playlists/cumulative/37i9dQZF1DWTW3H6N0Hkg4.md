@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-232 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
+233 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Cozumel](https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [Antología...Los Sonor's](https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6) | 2:47 | 2022-06-07 | 2022-07-28 |
 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 | 2022-06-07 |  |
 | [Cumbia Cienaguera](https://open.spotify.com/track/3uUTp8ivOJPX695AIFBpwj) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:04 | 2021-10-19 | 2022-07-24 |
-| [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2022-06-07 |  |
+| [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2022-06-07 | 2022-10-13 |
 | [Cumbia Del Caribe](https://open.spotify.com/track/2QwG8nmiwvSwWdVqqpEH7m) | [Orquesta De Edmundo Arias](https://open.spotify.com/artist/3kbbhoHPSGIvPe77gD2Rxk) | [Musica Tropical De Colombia 2](https://open.spotify.com/album/6yB0UUjVedFpxgQ7dGHn73) | 3:16 | 2022-06-07 | 2022-07-19 |
 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 | 2022-06-07 |  |
 | [Cumbia Del Infinito](https://open.spotify.com/track/1zPTmz8qgQXnnpOeKGmmek) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 3:22 | 2022-06-07 | 2022-07-22 |
@@ -105,6 +105,7 @@
 | [He Nacido Para Amarte](https://open.spotify.com/track/1fhyzLcWS6EMvJNcWxlHdQ) | [Los Warahuaco](https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ) | [Los Warahuaco \- Cumbias, Cumbias](https://open.spotify.com/album/0DPYstnJlenKC5XhdRTToH) | 3:10 | 2022-06-07 | 2022-07-20 |
 | [Hoja En Blanco](https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Nunca Me Faltes](https://open.spotify.com/album/4IERX704YcJHePC2n4irxt) | 4:26 | 2022-07-19 |  |
 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2022-07-19 |  |
+| [Juana la Cubana](https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Y Es por Ti](https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m) | 3:13 | 2022-07-19 |  |
 | [Juana La Cubana](https://open.spotify.com/track/50HdY3sn3Np9Fh2yICpPcX) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/1Epn9WsW3M8oE075XiKAwS) | 3:13 | 2022-06-07 | 2022-07-29 |
 | [Juana La Cubana](https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0) | 3:13 | 2022-07-19 | 2022-08-12 |
 | [Juventud](https://open.spotify.com/track/6XGVwHELAvx2LYv3uAH7DV) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Confesiones De Amor](https://open.spotify.com/album/07ES558NCyjBbDDjCW0ZmK) | 3:41 | 2022-06-07 | 2022-07-29 |

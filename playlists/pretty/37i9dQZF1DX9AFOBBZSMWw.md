@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,864 likes - 66 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,926 likes - 66 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 | 54 | [Velvet / Jenny Francis \- Interlude](https://open.spotify.com/track/4GXMWFus2XoMuPqP5gdgld) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 5:39 |
 | 55 | [Keepin' It Real \(feat\. Stormzy\)](https://open.spotify.com/track/32ryh8zbFiGQshi0XuYcaN) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Live & Direct](https://open.spotify.com/album/4zCmTbDeY0ceuXSKQEi48Q) | 3:44 |
 | 56 | [Blinded By Your Grace, Pt\. 1](https://open.spotify.com/track/5hzBiEGCC6IUzIImitWJKy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 2:40 |
-| 57 | [My Hood](https://open.spotify.com/track/41aEJVUVNjhvZlECWDQZgW) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Durt](https://open.spotify.com/album/1P29D0CPo7YeQnUUL13SEh) | 4:31 |
+| 57 | [My Hood](https://open.spotify.com/track/5IeuKkd8EE5prwJX77iW03) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Durt](https://open.spotify.com/album/2A9YfiOYh4jJ7qsLeUdnDM) | 4:31 |
 | 58 | [The Blow Back](https://open.spotify.com/track/31pZmYjJI95sg0ykkXAf5E) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Dubz](https://open.spotify.com/artist/43jySAjj0BKSQDAr6yloo3) | [Landlord](https://open.spotify.com/album/2JckMCvStjcfDrJ3EK2y0n) | 6:02 |
 | 59 | [Momma's Prayers](https://open.spotify.com/track/482wtNOgjcKepFrwPeIT5Q) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 5:05 |
 | 60 | [Chains \- Stormzy Remix](https://open.spotify.com/track/3IgShuJaI7JUFK3A0ncjJf) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Chains](https://open.spotify.com/album/1gs9NA48hWHDS35qVOonZi) | 3:49 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 | 65 | [Feels Like \(feat\. Stormzy\) \- LOXE Remix](https://open.spotify.com/track/2swyFMOrTT4zkodisWLq93) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [LOXE](https://open.spotify.com/artist/4Jb1EAbXK4BpbQopoeMWKT) | [For All We Know \- The Remixes \- EP](https://open.spotify.com/album/1Yc1t2yclQXZ6djjYMOped) | 3:34 |
 | 66 | [Warning Light](https://open.spotify.com/track/4eYqUolWDMh8CkwLz2cftB) | [Nick Brewer](https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Warning Light](https://open.spotify.com/album/6n1tvArHGTk29S4aGK2Se2) | 3:47 |
 
-Snapshot ID: `MTYyNTc4NTQwMSwwMDAwMDAwMDY1Y2I5YmY1OTk4ZTk4ZGRkMDJhNDRkNmM5NmNhOTZk`
+Snapshot ID: `MTYyNTc4NTQwMSwwMDAwMDAwMGY2YTFkNTVlZDU0YmQ5ZmY5NDY0MzUyZWI3MzYwNmUy`

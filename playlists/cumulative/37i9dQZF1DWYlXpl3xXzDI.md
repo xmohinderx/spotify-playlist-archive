@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-165 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
+166 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [I Was Made For Loving You](https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:08 | 2017-12-03 |  |
 | [I'm Not In Love \- Edit](https://open.spotify.com/track/0o3x0nS7xb0SXStxGA3S3U) | [Monique Klemann](https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf) | [I'm Not In Love \(Edit\)](https://open.spotify.com/album/4ka3M6jWwfhOkeadSXqksY) | 3:25 | 2021-11-18 | 2022-07-29 |
 | [I'm Not In Love \- Edit](https://open.spotify.com/track/6AZ4O5q9B4nMQVghTfTBe3) | [Monique Klemann](https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf) | [I'm Not In Love \(Edit\)](https://open.spotify.com/album/3CgRVSjpSnD9g08WQCLytz) | 3:25 | 2021-11-18 |  |
-| [In Your Arms](https://open.spotify.com/track/2UcrOnNw5WJr6Xu2q8QAPI) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [In Your Arms](https://open.spotify.com/album/6mR9tHwbzt0284PGj9Z9KD) | 3:28 | 2017-12-03 |  |
+| [In Your Arms](https://open.spotify.com/track/2TC2RvlE8Op9aTQzhdYAx5) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Paper Doors](https://open.spotify.com/album/39OhC1jSFTS9wIBQQRfuvY) | 3:28 | 2017-12-03 |  |
+| [In Your Arms](https://open.spotify.com/track/2UcrOnNw5WJr6Xu2q8QAPI) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [In Your Arms](https://open.spotify.com/album/6mR9tHwbzt0284PGj9Z9KD) | 3:28 | 2017-12-03 | 2022-10-13 |
 | [Late in the Evening](https://open.spotify.com/track/6iEdOcozqnI8Ww5hRy9a2w) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:02 | 2017-12-03 | 2022-08-09 |
 | [Lately](https://open.spotify.com/track/3tFxrWeJcm0Z5mIwQJPeyZ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July \(Digipak\)](https://open.spotify.com/album/0qdxOwxupH4fh5aWi02s76) | 4:05 | 2017-12-03 | 2022-07-29 |
 | [Lately](https://open.spotify.com/track/5rlgpm7n5f9mWc5LQU42bI) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh) | 4:05 | 2017-12-03 |  |

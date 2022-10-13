@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,274 likes - 110 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,273 likes - 110 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 29 | [This Song Belongs to You](https://open.spotify.com/track/54kCoe6ix7rXjFym0nqiHh) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq), [YolanDa Brown](https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0) | [YolanDa's Band Jam](https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc) | 3:10 |
 | 30 | [Good Tonight \(from The Bad Guys\)](https://open.spotify.com/track/5XYNCCkYoFLegWZcQU9ecn) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Good Tonight \(from The Bad Guys\)](https://open.spotify.com/album/3EV8GtPveYRG4GB2aUHznk) | 3:41 |
 | 31 | [My Voice Is A Trumpet](https://open.spotify.com/track/3l4aDXm2sm3A7YvUwP9UbV) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [My Voice Is A Trumpet](https://open.spotify.com/album/0UPyebDii2nRtZkZFl6G1u) | 2:24 |
-| 32 | [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 |
+| 32 | [The Lucky One](https://open.spotify.com/track/56H7ChmRXYt092T3qwjARD) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/2Qjp6JMCIVm3582SkJMere) | 3:39 |
 | 33 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 |
 | 34 | [The Word is Love](https://open.spotify.com/track/7lqd7pWvJgsCdyecGibcAy) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [The Word is Love](https://open.spotify.com/album/47FJMtS7LjWDAUD1r7ErEr) | 3:29 |
 | 35 | [Wild and Free](https://open.spotify.com/track/3LLrYsa09Us4UFAtVJggsy) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Wild and Free](https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI) | 3:02 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 109 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 |
 | 110 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 |
 
-Snapshot ID: `MTY2NTEzMTg2NywwMDAwMDAwMGNlMDMzMWZhNDZiZGI4M2VlMmNiMGQxZjYzZDlhOGVh`
+Snapshot ID: `MTY2NTEzMTg2NywwMDAwMDAwMDEzZWI4YWY1NDI5ZmU1Y2VkMmM5Y2YzMjYzMDk0NWVl`

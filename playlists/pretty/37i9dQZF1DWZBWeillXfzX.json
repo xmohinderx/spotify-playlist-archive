@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 14045,
+  "num_followers": 14060,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDMyMDI4YTg2NzUzMDZhZmZiMDU1MjM5ODI4Mjg3N2M2",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDExNjQ2YjlkNTI5MDQ2MTkwM2MzOTEyYTI0ODE4MDRh",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -711,6 +711,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I"
+      },
+      "artists": [
+        {
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+        }
+      ],
+      "duration_ms": 216552,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 335546,
       "name": "Signs",
       "url": "https://open.spotify.com/track/6WwKPvUMydIJFX0QAZfHYj"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -759,18 +759,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi"
       },
       "artists": [
         {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
         }
       ],
-      "duration_ms": 216552,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
+      "duration_ms": 168293,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "What You\u2019re Made Of",
-      "url": "https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Rock Bottom",
         "url": "https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 197237,
       "name": "Gettin Old",
       "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "What You\u2019re Made Of",
+      "url": "https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn"
     },
     {
       "added_at": "2021-04-27 23:04:41",

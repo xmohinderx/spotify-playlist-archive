@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: jxdn
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,864 likes - 71 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,822 likes - 71 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 13 | [I Saw Mommy Kissing Santa Claus \- Spotify Holiday Single](https://open.spotify.com/track/6CXNzOwENnzLV09gvmqrH1) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/0DmXAI8kiQMatXpxapDiLH) | 2:02 |
 | 14 | [All I Want for Christmas Is You](https://open.spotify.com/track/5jfp1SOlHfDmkAhaclif6A) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [All I Want for Christmas Is You](https://open.spotify.com/album/3lk74ZQt2hNBpF90tAR9Ss) | 3:38 |
 | 15 | [O Holy Night](https://open.spotify.com/track/7hWs7SHdvZQVtEyWBha5QG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [O Holy Night](https://open.spotify.com/album/0xj9dGod1YUIMOgYHto1nU) | 2:35 |
-| 16 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/7d2iMQMa1HAJJm6RcsOjYK) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6kFmsjBclIk7XynM8Px5kp) | 3:51 |
+| 16 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/3EVwJlQpABcNBWQf660X78) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1WWw5IwQsLlzO1iFC90qm4) | 3:51 |
 | 17 | [Christmas Will Really Be Christmas](https://open.spotify.com/track/1XnK3vy0uLNYAW60O5Xn88) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/7EM6VUKspXVgEu8uref4au) | 2:40 |
-| 18 | [Blackout Christmas](https://open.spotify.com/track/7l7FQufQxYcuEQ7u28ur37) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2vtMi8UlnIo8EDgCrNjDEa) | 2:19 |
+| 18 | [Blackout Christmas](https://open.spotify.com/track/1oZRAefHTh7YzA02kQ8519) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5ZV6Hh6cLp1t1QV83LEMaB) | 2:19 |
 | 19 | [5 pa las 12](https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [5 pa las 12](https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300) | 2:53 |
 | 20 | [Silver Bells \- Spotify Singles](https://open.spotify.com/track/2pR9egtFKNDMm18zGfif0l) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Silver Bells \(Spotify Singles\)](https://open.spotify.com/album/5nvYEOcMNKiZSfCISL4rzv) | 3:21 |
 | 21 | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl) | 3:38 |
 | 22 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
-| 23 | [Blue Christmas \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/526s5K8K8MP5FG5HkZ6BOa) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Blue Christmas \(Recorded at Electric Lady Studios NYC, 2020\)](https://open.spotify.com/album/6wlrfgJzGa9aU01nSYHI2t) | 2:27 |
+| 23 | [Blue Christmas \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/4FmC0eIjz88sSEhVPzgVbN) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Blue Christmas \(Recorded at Electric Lady Studios NYC, 2020\)](https://open.spotify.com/album/03LcPpFSGxjhACkEZvs639) | 2:27 |
 | 24 | [The First Noel \(feat\. Cory Henry\) \- Spotify Holiday Single](https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The First Noel \(feat\. Cory Henry\)](https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd) | 3:10 |
 | 25 | [Christmas \(Baby Please Come Home\) \- Recorded at Electric Lady Studios in NYC](https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp) | 3:23 |
 | 26 | [I'll Be Home For Christmas \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2kpdorrZmanV015tDKqZY1) | 3:26 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 70 | [Oh My Christmas Tree \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/60SifRrS0a3jOQITjpstp8) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5en558OdtGQER6bVirXNnM) | 4:04 |
 | 71 | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/track/2jB9jrpggKxSvymiWXM2pz) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [B.B\. Bones](https://open.spotify.com/artist/61QhyKKCq2VbbWRgFLlD6B) | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/album/05mmfK3BaBsbXRUmds8FYU) | 2:43 |
 
-Snapshot ID: `MTYzOTU0NDQwMCwwMDAwMDAwMDVmNGUwNjhlYTEzZjI3ODQ4MjVkZDdjNTYwNzI5OGQ2`
+Snapshot ID: `MTYzOTU0NDQwMCwwMDAwMDAwMDU1ZmRlZmJlYmRiZmQzODJjMzEwMDVlNjI0MzU2NDNm`

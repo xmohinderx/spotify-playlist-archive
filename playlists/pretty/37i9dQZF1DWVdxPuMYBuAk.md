@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,697 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,716 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 6 | [You're All I Need to Make It](https://open.spotify.com/track/1aAKe7L1OKsoXJHqy8uMwH) | [Johnson, Hawkins, Tatum & Durr](https://open.spotify.com/artist/3eobivfx0tOH94jFekNtaG) | [Eccentric Soul: The Capsoul Label](https://open.spotify.com/album/04D0mW6vcrkyirMVF7x1cy) | 3:18 |
 | 7 | [Dream Girl](https://open.spotify.com/track/568ZnkQDsn09lX1FXn7a4Q) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 2:31 |
 | 8 | [Wannabe](https://open.spotify.com/track/1TYmnAWxFBttuHzwZZt2nQ) | [Sandflower](https://open.spotify.com/artist/2frKv3a39gzx9Ppx8UGVKR) | [Wannabe](https://open.spotify.com/album/7JRCylMpB4AEmofvQX5TDx) | 3:17 |
-| 9 | [Affection](https://open.spotify.com/track/2Ob8v0rsJHRKnzhSzyBmMm) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [WOMAN](https://open.spotify.com/album/2RBm6OAEi7dCdtOotH2Gl2) | 3:10 |
+| 9 | [Affection](https://open.spotify.com/track/3T0NgIX8k7bOlJAlTI9d8D) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [WOMAN](https://open.spotify.com/album/1NSWIgJ1hbl7uFgfOOmVsg) | 3:10 |
 | 10 | [On Fire Again \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/2Ug470Bny3tWsLl9iA3wcp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:03 |
 | 11 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 |
 | 12 | [Eat Them Apples](https://open.spotify.com/track/7ofbhfuwvOfeG8yIKI9aeK) | [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 2:55 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 20 | [warm glow](https://open.spotify.com/track/0WSPIU3Y3bNXsGeKnzSnt1) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 5:58 |
 | 21 | [17](https://open.spotify.com/track/5SjErtIbsrlp0Gz26t4Qpy) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:39 |
 | 22 | [Highway](https://open.spotify.com/track/0Pauzv94n1YslWEd32WNa9) | [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi) | [Error 404](https://open.spotify.com/album/1P5LPhxM7YCe7cqiPr3xvx) | 3:18 |
-| 23 | [Until We Leave the Ground](https://open.spotify.com/track/2U5GoyOx5r93PzP1xbji9V) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/596mgQppymQJnhfphd3RJP) | 3:00 |
+| 23 | [Until We Leave the Ground](https://open.spotify.com/track/1oRUR4mnq1aRwAKD6ONelx) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:00 |
 | 24 | [Gold Star](https://open.spotify.com/track/6fSJcXv3t4I83ZClYCWfmq) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [This Is It](https://open.spotify.com/album/35H7mR1u6XET8YKvezYUkB) | 2:13 |
 | 25 | [Don’t Speak](https://open.spotify.com/track/5OrgPHDvj8ItDT1FAvhPFx) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Don’t Speak](https://open.spotify.com/album/0jz9YZL1ADkZqDEkikYp32) | 3:21 |
 | 26 | [In My Head](https://open.spotify.com/track/1MjywBIaDgHK8po7QRwBpV) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:34 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 84 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 85 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 
-Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMDVkZDk2YWFhNGFlMDcwMWEwZDFiZWQ3Yjk1ZmFiZDAw`
+Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMGQzZWUzYmZhMWEzYTNjMWQyODEyZTdmY2Q5NjNkZTE0`

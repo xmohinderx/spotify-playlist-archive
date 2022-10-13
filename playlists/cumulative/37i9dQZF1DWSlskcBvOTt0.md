@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-309 songs - 1 day 8 hr 12 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+310 songs - 1 day 8 hr 19 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Audara](https://open.spotify.com/track/6YjQxa2wea38xj1ZUzjZR7) | [Lindahl](https://open.spotify.com/artist/5Tf9JeR6Ry2OQv6c4UucP1), [ATÉA](https://open.spotify.com/artist/2ldjUobIK4xXwGWqIW8el0) | [Audara EP](https://open.spotify.com/album/7BZdCphrUu99bBX8WeP9FZ) | 7:22 | 2021-04-21 | 2022-07-28 |
 | [Aura](https://open.spotify.com/track/4JIphNXs4zpmNyaJFhKKKY) | [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Aura EP](https://open.spotify.com/album/4SErxwdvqZvsrYcQ8gGimx) | 8:21 | 2021-06-18 | 2022-07-22 |
 | [Aye Aye](https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Aye Aye](https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc) | 4:00 | 2022-08-05 |  |
-| [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2021-04-21 |  |
+| [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2021-04-21 | 2022-10-13 |
 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 | 2022-03-25 |  |
 | [Baghira](https://open.spotify.com/track/4QuoelVf8l7Q9xMiu2f6SG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Baghira](https://open.spotify.com/album/5pz7Iyiq1c7zk2wQgOs1By) | 6:34 | 2021-09-03 | 2022-07-29 |
 | [Balafonerra](https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Balafonerra](https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX) | 4:11 | 2022-05-27 |  |
@@ -228,8 +228,9 @@
 | [Pink Elephant](https://open.spotify.com/track/5PYE614MlfD0iWdug1SjcX) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 5:45 | 2021-09-03 | 2022-07-28 |
 | [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 | 2022-07-28 |  |
 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 | 2021-09-03 |  |
+| [Power](https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Mario Reyes](https://open.spotify.com/artist/0MNovidyopz59Kcu16ot3v) | [Power](https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO) | 7:49 | 2022-09-30 |  |
 | [Praah Com Poesia](https://open.spotify.com/track/5wA6aFuMZw783ghYlxVybw) | [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Confluencias II: Montaña](https://open.spotify.com/album/59OxHbwWRRJ20ZGENMwRSq) | 6:16 | 2021-04-21 | 2022-06-07 |
-| [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 | 2022-07-08 | 2022-09-19 |
+| [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 | 2022-07-08 |  |
 | [Pyxis](https://open.spotify.com/track/4VfESynVjdqW2aXQk4SMKs) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Pyxis EP](https://open.spotify.com/album/4HFq51XXEP4uPzcCACtYyT) | 7:44 | 2022-03-11 | 2022-07-26 |
 | [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 | 2021-04-21 |  |
 | [Ramona](https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Ramona](https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc) | 7:03 | 2021-10-15 | 2022-07-17 |
@@ -311,7 +312,7 @@
 | [Walking Away](https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Walking Away](https://open.spotify.com/album/7dEfqz2vpf9b77Lx4e4FkR) | 7:05 | 2022-08-05 |  |
 | [Wanyama](https://open.spotify.com/track/7mdgRb5f7pg3gKOO9jXe0v) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [Wanyama](https://open.spotify.com/album/4aQfRePd7j4IwqzQ3m5Yhq) | 3:26 | 2021-09-03 | 2022-07-29 |
 | [Warrior](https://open.spotify.com/track/4MxV7MwM5eUBwRW9PCcabQ) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [PRYDA 15 VOL I](https://open.spotify.com/album/2MSprf6584peQvdVMWAEMt) | 8:23 | 2021-04-21 | 2022-04-21 |
-| [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 |  |
+| [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 | 2022-10-13 |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-04-29 | 2022-07-29 |
 | [Whistleman](https://open.spotify.com/track/386PnZfbszq42M8GprZnVt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:59 | 2021-04-21 |  |
 | [Yira Yirar](https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU) | [Marco Tegui / Raw Main](https://open.spotify.com/album/5dV8KbeFNzZcncF57GBEPA) | 6:39 | 2021-04-21 |  |

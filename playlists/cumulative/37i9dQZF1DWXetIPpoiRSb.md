@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Tate McRae
 
-858 songs - 1 day 19 hr 16 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
+860 songs - 1 day 19 hr 23 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,8 @@
 | [GO TO HELL](https://open.spotify.com/track/55XRXhQeU25IwqVpjQqxkz) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [GO TO HELL](https://open.spotify.com/album/32boQRfLOkEfXznZtudRrS) | 3:03 | 2021-12-04 | 2022-02-26 |
 | [God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [God Must Hate Me](https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm) | 2:29 | 2021-12-04 | 2022-02-26 |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-08 | 2022-02-05 |
-| [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 | 2022-07-14 |  |
+| [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-10-07 |  |
+| [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 | 2022-07-14 | 2022-10-13 |
 | [Good Days Bad Days](https://open.spotify.com/track/4qBcU6u4RtMts3RhbGeuE5) | [Anna Straker](https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Days Bad Days](https://open.spotify.com/album/5nwkUanE7359GpZDoTTnQp) | 2:57 | 2020-10-13\* | 2020-12-05 |
 | [Good Enough](https://open.spotify.com/track/0cFvdXOqN4drzStfQZyrTP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Good Enough](https://open.spotify.com/album/5EJUe8e86fTXdx98j0UPXE) | 3:36 | 2020-10-13\* | 2020-11-21 |
 | [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2022-04-14 | 2022-07-02 |
@@ -404,7 +405,8 @@
 | [It Might Take a Woman](https://open.spotify.com/track/59FVrD6JZb0PsF1Ok9AoPb) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [It Might Take a Woman](https://open.spotify.com/album/7HZYjMfb9uZg2rcmbDPF1u) | 3:10 | 2020-10-13\* | 2021-01-23 |
 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 | 2020-10-13\* | 2020-10-17 |
 | [Jigsaw](https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Jigsaw](https://open.spotify.com/album/4OmdjXVk6PslBdirwfruqQ) | 3:28 | 2022-01-21 | 2022-04-02 |
-| [Joe](https://open.spotify.com/track/2fSdrOgBjisneSqSwhXWsn) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/6jZmjxCxlbPxxeClvZbjZo) | 3:07 | 2022-09-16 |  |
+| [Joe](https://open.spotify.com/track/2fSdrOgBjisneSqSwhXWsn) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/6jZmjxCxlbPxxeClvZbjZo) | 3:07 | 2022-09-16 | 2022-10-13 |
+| [Joe](https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI) | 3:07 | 2022-10-07 |  |
 | [John Hughes Movie](https://open.spotify.com/track/4NzoEowcMzDs9ELjzlOvW5) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [John Hughes Movie](https://open.spotify.com/album/0hkUCfDTq7ATw6j0MZn9oc) | 3:36 | 2021-02-26 | 2021-06-05 |
 | [Just A Mess](https://open.spotify.com/track/24RCh9nhADnz72QwspioB6) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:51 | 2021-07-17 | 2021-08-21 |
 | [Just Friends](https://open.spotify.com/track/0tjYK2gtxo8fT2kdD4XGeF) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Just Friends](https://open.spotify.com/album/21abgAYeRvgOJefmSBA3QW) | 2:35 | 2022-05-13 | 2022-09-04 |

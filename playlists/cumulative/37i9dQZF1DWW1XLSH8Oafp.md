@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring nia archives
 
-401 songs - 23 hr 16 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+402 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 | 2022-08-26 |  |
 | [Long Time No See](https://open.spotify.com/track/0Tm7G3FNuVfUgeJ4SzPIAQ) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Long Time No See](https://open.spotify.com/album/48SnkQ3ugM4QwvkFNzEuyW) | 1:51 | 2022-06-03 |  |
 | [Loose](https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Loose](https://open.spotify.com/album/4beJq426gqDrSeqP8p5Xnl) | 2:41 | 2022-02-23 | 2022-03-12 |
-| [Lose Our Minds](https://open.spotify.com/track/3ct8fBd9ZmhZjAmFAE5u5P) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Lose Our Minds](https://open.spotify.com/album/286fCu34pH9RIuXoDWJNHJ) | 3:21 | 2022-04-29 |  |
+| [Lose Our Minds](https://open.spotify.com/track/3ct8fBd9ZmhZjAmFAE5u5P) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Lose Our Minds](https://open.spotify.com/album/286fCu34pH9RIuXoDWJNHJ) | 3:21 | 2022-04-29 | 2022-10-13 |
+| [Lose Our Minds](https://open.spotify.com/track/4C5dI7ps3TgYSijQZv95gF) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Lose Our Minds](https://open.spotify.com/album/7ajdIFTb0yueDF5X4IhYr9) | 3:21 | 2022-04-29 |  |
 | [Lovedata](https://open.spotify.com/track/0byrx9AGVNLUhMrZBuHZNC) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR) | [Lovedata](https://open.spotify.com/album/2CTjWz0OICHI3EVbNn2BgV) | 3:26 | 2022-05-13 | 2022-08-17 |
 | [low down](https://open.spotify.com/track/5hwQBJojbljFjxg7t49r03) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/48KWh33PB86WJeyFhQOkVl) | 3:02 | 2022-04-15 | 2022-08-17 |
 | [low down](https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/6Q9y1eI1EbuyVt5md6SlOT) | 3:02 | 2022-04-15 | 2022-07-29 |

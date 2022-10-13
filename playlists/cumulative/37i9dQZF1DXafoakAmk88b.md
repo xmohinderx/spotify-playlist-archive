@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-168 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
+172 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,9 +29,11 @@
 | [Blame](https://open.spotify.com/track/5j5bTgdWPU5h3MDhhaMbDX) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Blame](https://open.spotify.com/album/7gwnkG7m1cna7GPo2kUEud) | 2:50 | 2022-02-18 | 2022-07-29 |
 | [Break of Dawn](https://open.spotify.com/track/5rv0ykJvnvPBunZacaysvW) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [YAMA//SATO](https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1) | [Break of Dawn](https://open.spotify.com/album/1ihFDbyCB1zQsKxwsQt3VN) | 3:53 | 2022-02-18 |  |
 | [breakfast](https://open.spotify.com/track/7I2hbb8rsTvJR5PtaywRkv) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [breakfast](https://open.spotify.com/album/1B1Cj7rG8nQ8KdQ5FSYZNc) | 3:12 | 2022-02-18 |  |
-| [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 | 2022-02-18 |  |
+| [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 | 2022-02-18 | 2022-10-13 |
+| [Brown Eyes and Backwoods](https://open.spotify.com/track/5Q8ILM1zVZWyGjIxAs8jdn) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:58 | 2022-05-13 |  |
 | [Burn Me Out](https://open.spotify.com/track/6EA7oUfwTlK4Uc5RIzAJrz) | [Shébani](https://open.spotify.com/artist/1t8rTRUUPUItjj6vOTP8kc) | [Burn Me Out](https://open.spotify.com/album/4020PhRlGUOUZwRcU00Uc1) | 4:43 | 2022-02-18 |  |
-| [Chasing Ghosts](https://open.spotify.com/track/3YMsPW55w8Oou0f5SV1wh1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghosts](https://open.spotify.com/album/3R98G6k2dyvKnZdwxkkHGN) | 2:59 | 2022-10-03 |  |
+| [Chasing Ghost](https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghost](https://open.spotify.com/album/32by8hxBsVTaYAaUBBzuW9) | 2:59 | 2022-10-03 |  |
+| [Chasing Ghosts](https://open.spotify.com/track/3YMsPW55w8Oou0f5SV1wh1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghosts](https://open.spotify.com/album/3R98G6k2dyvKnZdwxkkHGN) | 2:59 | 2022-10-03 | 2022-10-13 |
 | [chosen](https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [chosen](https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z) | 2:49 | 2022-06-17 | 2022-10-04 |
 | [Claymore \(feat\. Smino\)](https://open.spotify.com/track/051zam2WDIKOLdu4XYpCaA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:06 | 2022-02-18 |  |
 | [Clear Bones](https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 2:46 | 2022-02-18 | 2022-04-16 |
@@ -93,7 +95,8 @@
 | [Like That](https://open.spotify.com/track/5zDo9mZyUdCZ1tVj515SZS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Like That](https://open.spotify.com/album/5ZL7YD2z03z5DGj1Z132ua) | 2:46 | 2022-02-18 | 2022-06-19 |
 | [Liquorice](https://open.spotify.com/track/5UEnl8IntXqIABMLOIrz2l) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Liquorice](https://open.spotify.com/album/5XT8Y2ZfswLOpgZE5lXfyy) | 2:17 | 2022-02-18 |  |
 | [Little Lies \- A COLORS SHOW](https://open.spotify.com/track/3mKaY08m60EwKSx5sbsANC) | [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov) | [Little Lies \- A COLORS SHOW](https://open.spotify.com/album/7uiJKbfH5H4GHSC315IebW) | 3:09 | 2022-02-25 |  |
-| [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2022-02-18 |  |
+| [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 | 2022-05-13 |  |
+| [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2022-02-18 | 2022-10-13 |
 | [Loner](https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Loner](https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI) | 3:05 | 2022-10-03 |  |
 | [Lost](https://open.spotify.com/track/4Tyb1yqPkrVI5hyudVc0QW) | [Santé Rose](https://open.spotify.com/artist/6ID6N2FNCPskPc2ERK8IH2) | [Lost](https://open.spotify.com/album/4EqiwDa8jcePX5tx172nTU) | 2:20 | 2022-03-25 |  |
 | [Lost In America](https://open.spotify.com/track/2CnjVYs88XhZBZ5x2KR0ra) | [Lo Village](https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi) | [Lost In America](https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T) | 3:00 | 2022-02-18 | 2022-03-12 |
@@ -114,7 +117,8 @@
 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 | 2022-10-03 |  |
 | [Outta This World](https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Outta This World](https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG) | 2:45 | 2022-03-11 |  |
 | [Overexposed](https://open.spotify.com/track/75ltCxPZaTM2hi8YRnQuir) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Overexposed](https://open.spotify.com/album/1fo7LauHBzmPE1JxHOF9qu) | 3:01 | 2022-02-18 | 2022-04-02 |
-| [Pandemia](https://open.spotify.com/track/6TM8mafPCp7BfQDwvPe6MG) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Pandemia](https://open.spotify.com/album/3nr0Km2WewEH7Sd3qR4Mdy) | 1:49 | 2022-02-18 |  |
+| [Pandemia](https://open.spotify.com/track/6TM8mafPCp7BfQDwvPe6MG) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Pandemia](https://open.spotify.com/album/3nr0Km2WewEH7Sd3qR4Mdy) | 1:49 | 2022-02-18 | 2022-10-13 |
+| [Pandemia](https://open.spotify.com/track/77OgpTPbyPxU4eu0IHX0Iv) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 1:49 | 2022-05-13 |  |
 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 | 2022-02-18 |  |
 | [Perfect Wife](https://open.spotify.com/track/2fYXieYGhGKFYUH5wbBnVp) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:38 | 2022-05-13 |  |
 | [Perfect Wife](https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Perfect Wife](https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz) | 3:38 | 2022-02-18 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 70 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 363 likes - 70 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 30 | [Melodien für Triolen](https://open.spotify.com/track/7h2d1N9U9JZGYAJiQRREIi) | [kalupke](https://open.spotify.com/artist/0cIvZxLLintmeKg65N08be) | [Melodien für Triolen](https://open.spotify.com/album/7onLHz8y0jAgY4SyG420eq) | 6:05 |
 | 31 | [Lake](https://open.spotify.com/track/3xW5rM9V4xjh3WcITHIaT9) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0) | [Lake](https://open.spotify.com/album/0yQdBZyuG5M4OpBI04o1mH) | 6:18 |
 | 32 | [Wave](https://open.spotify.com/track/2oXcyOjlXeYGxuYd94Xx6V) | [ulises](https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [Ritual Incognito](https://open.spotify.com/album/3GtAg5zcPLMx2eaGAQMSms) | 3:57 |
-| 33 | [Resiliencia](https://open.spotify.com/track/1sYbjIz5jBAqE8n9nbdDDI) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resiliencia](https://open.spotify.com/album/6WiwJthVBqLR7rd5tQ4jzz) | 4:49 |
+| 33 | [Resiliencia](https://open.spotify.com/track/590gL4Fk4eHhLazuvVefLn) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX) | 4:49 |
 | 34 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 |
 | 35 | [Peu a Peu \- Kermesse's Poco a Poco Remix](https://open.spotify.com/track/1icYndZsVkgF7FqQ9tAZ57) | [Dolph](https://open.spotify.com/artist/1Xw4E3IabrEFoiT1o4vJB1), [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Peu a Peu \(Kermesse's Poco a Poco Remix\)](https://open.spotify.com/album/25JvwwAWofb0OWsBmaZ6Xe) | 5:10 |
 | 36 | [Nimm Mini Hand](https://open.spotify.com/track/7FojbHTsKvbpU3X5KGHttf) | [Kalabrese](https://open.spotify.com/artist/2MUENaxB93ZPNclZIDEMMV), [Rumpelorchester](https://open.spotify.com/artist/4lNOG0B4DXiimA4JX64aCe) | [Nimm Mini Hand](https://open.spotify.com/album/5MKbj733Ik4LP31VLkoA0S) | 6:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 69 | [Luz](https://open.spotify.com/track/5PVVI6EgYnMcNcgU4nY7Wu) | [thds](https://open.spotify.com/artist/6TVqFrTp63smZC4WefwDgA) | [Ubuntu](https://open.spotify.com/album/7F1RAZZQabVvNrLEm6ewoe) | 5:13 |
 | 70 | [Dimanche](https://open.spotify.com/track/72rLUZXj0Yq2Q3LR4YSQ7v) | [CLAAP!](https://open.spotify.com/artist/4DK1qq54kEAEmFiQlDYAD3) | [Dimanche](https://open.spotify.com/album/6lHrrM4SgbNJRvIMI5aebb) | 4:33 |
 
-Snapshot ID: `MTY1ODYxMzYwMCwwMDAwMDAwMGJkMjJiZDcyYjdjZWFhNjAyZDM5NWE2ZDVlODk2NTA3`
+Snapshot ID: `MTY1ODYxMzYwMCwwMDAwMDAwMDU2MTdkNzBiYTk4YmM3ZDU3NzM0ODc4ZjIyYzE5Y2Nh`

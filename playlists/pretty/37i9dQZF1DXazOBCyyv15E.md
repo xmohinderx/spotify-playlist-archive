@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Sorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,779 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,813 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 12 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 |
 | 13 | [Give Me A Reason](https://open.spotify.com/track/2ZCZc1R6mUTDKpy1O0rmTz) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Give Me A Reason](https://open.spotify.com/album/2Q3nPnB0WjJoWkJ25XB3SS) | 5:53 |
 | 14 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 |
-| 15 | [Inner Peace](https://open.spotify.com/track/3o5ZrzWvJPJY8vlddeSP19) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Inner Peace](https://open.spotify.com/album/2gSP7Vxdp72vtYAUOv9siS) | 3:37 |
+| 15 | [Inner Peace](https://open.spotify.com/track/79D28tx4kK2OVBFcEZHH6l) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Inner Peace](https://open.spotify.com/album/3IXRHT3220izT7xi9Oq0JW) | 3:37 |
 | 16 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 |
 | 17 | [The Laundress](https://open.spotify.com/track/2bhA1Mxwwco5PzYaG7T6eL) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [The Laundress](https://open.spotify.com/album/2ACYWoeooKOTV4Ecv1moYZ) | 3:59 |
 | 18 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
-| 19 | [What's Your Poison?](https://open.spotify.com/track/4qIPEkoL8k5UX6CzsjAXMl) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [What's Your Poison?](https://open.spotify.com/album/5jzF5g9IC2WZ7dcodz3uBc) | 3:12 |
+| 19 | [What's Your Poison?](https://open.spotify.com/track/2AVcklGvXjvGZu6blTLOr0) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [What's Your Poison?](https://open.spotify.com/album/69CGbp5GBvSu0R3oOQoUiU) | 3:12 |
 | 20 | [Noodle Poodle](https://open.spotify.com/track/5Dt4AAF4DAiPOXA7StJw9C) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Noodle Poodle](https://open.spotify.com/album/4Yttcr64MtYTglzlAfO2OH) | 3:44 |
 | 21 | [New Gen](https://open.spotify.com/track/0e9NEV4tJjKUUrVSPyRdcB) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Romance in Great Britain](https://open.spotify.com/album/3gL5sXknuYa2VCjr5bA5UT) | 3:15 |
 | 22 | [Forever Is Too Long](https://open.spotify.com/track/0EH1NRDT9U59ZfiuJL78XN) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [Forever Is Too Long](https://open.spotify.com/album/5bUHhNVlJkZOVA51BKX04x) | 4:10 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 35 | [Goodbye Paris](https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Goodbye Paris](https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ) | 3:45 |
 | 36 | [Can We Talk About The Past Instead?](https://open.spotify.com/track/3qkQOeWa5BVjvOBdId2pFT) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Can We Talk About The Past Instead?](https://open.spotify.com/album/0sqwR0A7aaXYH8BrWJvodL) | 3:04 |
 | 37 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 |
-| 38 | [End of Beginning](https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 2:39 |
+| 38 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 39 | [Everything I'm Not](https://open.spotify.com/track/2tOo4bCn4p9UlONC4M4yLX) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/7t8QnZV0PVK4dg569rGrkF) | 2:42 |
 | 40 | [No Limit](https://open.spotify.com/track/5U6PQ4fJo1yyTvmpvdcq3L) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [No Limit](https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV) | 3:27 |
 | 41 | [Divebomb](https://open.spotify.com/track/4yDT02dRXXMIZEEYxBiSkE) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Divebomb](https://open.spotify.com/album/1YXKiRHBrBczUqXo7cWEC6) | 3:22 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 43 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 |
 | 44 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
 | 45 | [Run The Credits](https://open.spotify.com/track/03vgK21xN1rnN2WbSY2txK) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Run The Credits](https://open.spotify.com/album/1AYmvWV0JLTdgNMAxngkGy) | 4:21 |
-| 46 | [Second Nature](https://open.spotify.com/track/0Kqo7V39HrgjMaDwL5uvq7) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Second Nature](https://open.spotify.com/album/0UmhcENCeTcbLF4cf9lAEA) | 5:47 |
+| 46 | [Second Nature](https://open.spotify.com/track/0fiViisu7WflcoY6YedSnq) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 5:47 |
 | 47 | [up all week \(with slowthai\)](https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:02 |
 | 48 | [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 |
 | 49 | [Spotlight Television](https://open.spotify.com/track/5o5CADtcyCZFR2COk8EJ2g) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Smiling Like An Idiot](https://open.spotify.com/album/4Q86qieApCBrN9e2vnlzmG) | 4:08 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 52 | [Bitter](https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Bitter](https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO) | 2:59 |
 | 53 | [Dreams](https://open.spotify.com/track/3H8JYbDDyS65ui2Obl7QTW) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Dreams](https://open.spotify.com/album/2Ry7t04pq9buAzPucJhr5o) | 3:14 |
 | 54 | [i just want to hide my face](https://open.spotify.com/track/1xDZoTi6F9wZtpcQ1dlyE7) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i just want to hide my face](https://open.spotify.com/album/0mPO0i23qRLIkp5DgmpFkB) | 2:12 |
-| 55 | [Chasing Ghosts](https://open.spotify.com/track/3YMsPW55w8Oou0f5SV1wh1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghosts](https://open.spotify.com/album/3R98G6k2dyvKnZdwxkkHGN) | 2:59 |
+| 55 | [Chasing Ghost](https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghost](https://open.spotify.com/album/32by8hxBsVTaYAaUBBzuW9) | 2:59 |
 | 56 | [all on me](https://open.spotify.com/track/7Bqk3RPCq9QJDWF8WR0vXP) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [all on me](https://open.spotify.com/album/0lNXXDUQyEWrpnQJXWuO8S) | 2:47 |
 | 57 | [Bunker](https://open.spotify.com/track/7tdhnR3o3p2jPZL7WD1u6k) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Bunker](https://open.spotify.com/album/6RavgfEZ7VgRwUF0uuhS7d) | 5:20 |
 | 58 | [Rat Race](https://open.spotify.com/track/4JIYMwRJwMjyMo6sjD9PbA) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Rat Race](https://open.spotify.com/album/6VWn9VsfNhGOpxdxsYDVpv) | 2:29 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 77 | [Reaching 2](https://open.spotify.com/track/4kTcd0tvXw3Kb71R9mlOMO) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [ICYMI](https://open.spotify.com/album/6sS4RRzhd4oeWwirHJYQWQ) | 2:58 |
 | 78 | [So Clear](https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [So Clear](https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf) | 3:00 |
 | 79 | [Hold My Wine](https://open.spotify.com/track/3M41VBmk1OHf0DNsBW4fSM) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Hold My Wine](https://open.spotify.com/album/1LbwnoUOmFjRdEUfkEXZaF) | 3:17 |
-| 80 | [Crying in the Club](https://open.spotify.com/track/440bHvLOgExwePapxmMtGI) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/3GuSAYm0w5TMJ6k0qeftwt) | 3:05 |
+| 80 | [Crying in the Club](https://open.spotify.com/track/59WUdUrXEBygApzlzjvnne) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/5m4HHGSrjzHGf2G6xP7jwl) | 3:05 |
 
-Snapshot ID: `MTY2NTE0NzEyNCwwMDAwMDAwMDJjNzc3NmM2YmM5MzdiZTgzM2YwMGM4NDllMmEwNDFk`
+Snapshot ID: `MTY2NTE0NzEyNCwwMDAwMDAwMDEyMGQ4MjVkNmE0MzhlMzRkZjZmYzFjYmQyNTU4YmRi`

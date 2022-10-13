@@ -4,7 +4,7 @@
 
 > This is Fatherson\. The essential tracks, all in one playlist.
 
-30 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/2w9AMEYmRxcqw1vx49H6j4)
+31 songs - 1 hr 53 min - [published](https://open.spotify.com/playlist/2w9AMEYmRxcqw1vx49H6j4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [End Of The World](https://open.spotify.com/track/2MZyaYM9njg7EYYBVvy59N) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 | 2022-09-18 |  |
 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 | 2022-09-16 |  |
 | [Ghost](https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:02 | 2022-09-16 |  |
-| [Gratitude](https://open.spotify.com/track/3U0VBpy0YU3dAE7KCh9s0W) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:37 | 2022-09-25 |  |
+| [Gratitude](https://open.spotify.com/track/3U0VBpy0YU3dAE7KCh9s0W) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:37 | 2022-09-25 | 2022-10-13 |
 | [Half the Things](https://open.spotify.com/track/7iHkJ0K8sWYs9R8xERHd5s) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:30 | 2022-09-29 | 2022-10-08 |
 | [Hometown](https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:23 | 2022-09-16 |  |
 | [Honest To God](https://open.spotify.com/track/5ZTCrAYPecQ2zjt7lmwNYw) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 | 2022-09-16 | 2022-09-26 |
@@ -37,6 +37,7 @@
 | [Open Book](https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:09 | 2022-09-16 |  |
 | [Reflection](https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 5:14 | 2022-09-16 |  |
 | [Sleeping Over](https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:13 | 2022-09-16 |  |
+| [The Landscape](https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:25 | 2022-10-12 |  |
 | [The Rain](https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:58 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

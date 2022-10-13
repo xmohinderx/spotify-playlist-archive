@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Louis Cole
 
-223 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+224 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Lover](https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm) | [Genevra Munoa](https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew) | [Lover](https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W) | 2:54 | 2022-03-11 |  |
 | [Maintain \- Jafunk Remix](https://open.spotify.com/track/1FEGSFfL4Iz62fe2ew8CgX) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Maintain \(Jafunk Remix\)](https://open.spotify.com/album/5mucdv4xnrZOU0vHQFEg9z) | 3:13 | 2022-02-18 | 2022-08-13 |
 | [Maintain \- Jafunk Remix](https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Maintain \(Jafunk Remix\)](https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq) | 3:13 | 2022-02-18 |  |
-| [Major Love](https://open.spotify.com/track/5YwslI1NOE5ZIs99KYtO0z) | [Quincy Mumford](https://open.spotify.com/artist/5SuvllnauIOmQexrVDf3yZ) | [Major Love](https://open.spotify.com/album/2GZtc9I9wmJDPpLDOwCGo6) | 2:16 | 2022-08-12 |  |
+| [Major Love](https://open.spotify.com/track/4UPenBNUClXgAFQoPeuy1X) | [Quincy Mumford](https://open.spotify.com/artist/5SuvllnauIOmQexrVDf3yZ) | [Major Love](https://open.spotify.com/album/3f4Zn0VaPxUOHo3A7pldG1) | 2:16 | 2022-08-12 |  |
+| [Major Love](https://open.spotify.com/track/5YwslI1NOE5ZIs99KYtO0z) | [Quincy Mumford](https://open.spotify.com/artist/5SuvllnauIOmQexrVDf3yZ) | [Major Love](https://open.spotify.com/album/2GZtc9I9wmJDPpLDOwCGo6) | 2:16 | 2022-08-12 | 2022-10-13 |
 | [Make A Move](https://open.spotify.com/track/3dvmN38CZBO3kbH1HG3CbP) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/0bAXdCQ4f1n3Rd3p6b3hH7) | 3:35 | 2020-11-20 | 2022-04-09 |
 | [Make It Out](https://open.spotify.com/track/2tA2ISa4vfuVYPX1Gacbwl) | [Reliably Bad](https://open.spotify.com/artist/0O1ym9Pe8SUDDyTchHGO79) | [Make It Out](https://open.spotify.com/album/6dwS2R4gZAK3Jih8sdOoW7) | 3:00 | 2020-11-20 | 2022-04-09 |
 | [Mass Appeal](https://open.spotify.com/track/1o8M06Dkv4z2n2AOG1jMLM) | [Daron.](https://open.spotify.com/artist/1VjgVjThC1RxttpTp9kT0i) | [Mass Appeal](https://open.spotify.com/album/4qFW7nJYWxpSjgcipscqv7) | 2:57 | 2021-06-18 | 2022-01-29 |

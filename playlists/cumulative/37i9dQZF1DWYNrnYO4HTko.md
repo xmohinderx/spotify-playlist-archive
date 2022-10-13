@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-97 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/0OKXgg6EX7PXQvXM76xIJP)
+98 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/0OKXgg6EX7PXQvXM76xIJP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [I've Been Loving You Too Long](https://open.spotify.com/track/3LeLZUoYt3voQCtUjRLkrp) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Soulful](https://open.spotify.com/album/343ADGfYYyoLedMtdH9PIM) | 3:34 | 2021-10-01 |  |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/5HWRHyGh5pkMYXHrrDfdpG) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Bold Soul Sister: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/3o9NHT9ox7Is7ZzQXm2OE9) | 3:50 | 2021-10-01 |  |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/0uTL7DcOPs7e8ieSeotJXQ) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 2:50 | 2021-10-01 |  |
-| [I've Been Loving You Too Long](https://open.spotify.com/track/5EMPc2auf81fkY6mLfOTAs) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:48 | 2021-10-01 |  |
+| [I've Been Loving You Too Long](https://open.spotify.com/track/5EMPc2auf81fkY6mLfOTAs) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:48 | 2021-10-01 | 2022-10-13 |
+| [I've Been Loving You Too Long](https://open.spotify.com/track/71wChc3CSiggAp5gnNPmI9) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/0Ohny76eNCYxU4TQEm07iz) | 3:48 | 2021-10-01 |  |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/6FYcUjSuBISmRIhCYiKvuB) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [The Percy Sledge Way](https://open.spotify.com/album/2QpYWeEUwnus0QgrWCO9Yu) | 2:47 | 2021-10-01 |  |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/3F4OtBOeU19X9EHGC9tUHV) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul](https://open.spotify.com/album/05WixXdxsULFJn8f4XhuWI) | 3:06 | 2021-10-01 |  |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/5O1DssQ6fsYworXsH9voyN) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul](https://open.spotify.com/album/5coBwIJ5Z8h2OlrimmdE1S) | 3:06 | 2021-10-01 | 2022-07-29 |

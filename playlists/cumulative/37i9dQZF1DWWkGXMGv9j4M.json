@@ -1411,7 +1411,7 @@
     {
       "album": {
         "name": "EPHEMERA",
-        "url": "https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo"
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
       },
       "artists": [
         {
@@ -1426,6 +1426,28 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137092,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW"
+    },
+    {
+      "album": {
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 137092,
       "name": "Note To Self (feat. Empress Of)",
       "url": "https://open.spotify.com/track/3dBgEBXZvYLshrZ0ATB7fT"
@@ -2389,7 +2411,7 @@
     {
       "album": {
         "name": "Winona",
-        "url": "https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY"
+        "url": "https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx"
       },
       "artists": [
         {
@@ -2400,6 +2422,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 145186,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n"
+    },
+    {
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY"
+      },
+      "artists": [
+        {
+          "name": "Miloe",
+          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 145186,
       "name": "Winona",
       "url": "https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy"

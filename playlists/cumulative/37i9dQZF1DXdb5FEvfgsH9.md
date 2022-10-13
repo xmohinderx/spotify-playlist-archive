@@ -4,12 +4,13 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-82 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
+84 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Baby I\) Need Your Love](https://open.spotify.com/track/7wV4rDX1iaPLB388EGYl0y) | [Nicolaas](https://open.spotify.com/artist/5IqWaBUBZviyaMlZ78ZmtI), [Elzhi](https://open.spotify.com/artist/6OwOuTjrLVrlMH1nxxIjbT) | [\(Baby I\) Need Your Love](https://open.spotify.com/album/3TUELfYjAy6PoQ5k4tsFFi) | 3:43 | 2021-07-30 |  |
-| [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-07-26 |  |
+| [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-07-26 | 2022-10-13 |
+| [10 Years](https://open.spotify.com/track/6N6HSN3zytFXva8LTUUvIL) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/3qSyv2svKxAypN9AsWVm92) | 2:46 | 2021-07-26 |  |
 | [Alcool](https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5) | 2:49 | 2021-07-26 |  |
 | [Audrey Tell Me](https://open.spotify.com/track/7DmjDhPdEeaNMB7WukaAux) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Audrey Tell Me](https://open.spotify.com/album/2c9s1pWE0PPyD9lbJ822Rl) | 4:14 | 2021-07-26 |  |
 | [Basement Fonk](https://open.spotify.com/track/4KRcIBZEAen2jCt6OJEEoG) | [Azmito](https://open.spotify.com/artist/2pVNUjcGJobjpBLq4mGoMZ), [Nicofasho](https://open.spotify.com/artist/4tWV1lOUGf5jTcgqNjDZQi), [Vade One](https://open.spotify.com/artist/4rPB8o4SyEa6cNCIzUBvU7), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Basement Fonk](https://open.spotify.com/album/76SkVpRwhBm3hpg9rzzV6u) | 3:36 | 2021-10-29 |  |
@@ -70,7 +71,8 @@
 | [Remember](https://open.spotify.com/track/2vScopeFot4IyMBG4Smgqf) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Remember](https://open.spotify.com/album/71Zx19ODMWH3fAVqqE8vR5) | 3:53 | 2022-08-12 |  |
 | [Second Dinner](https://open.spotify.com/track/1s4dt9PEMuaZqdOIwbJXfo) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Mr Experience](https://open.spotify.com/album/4jWfPxX2PeXQqxXkyysMKC) | 3:37 | 2021-07-26 |  |
 | [Shoulda Been Me \- Single Edit](https://open.spotify.com/track/4MS9NuV2IXFMLf5v0Wph1W) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ) | [Shoulda Been Me](https://open.spotify.com/album/7Jy1gsRR1XSFb1jN6jMwvx) | 4:46 | 2022-06-24 |  |
-| [Skin on Skin](https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av) | 3:03 | 2021-07-26 |  |
+| [Skin on Skin](https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e) | 3:03 | 2021-07-26 |  |
+| [Skin on Skin](https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av) | 3:03 | 2021-07-26 | 2022-10-13 |
 | [Slide](https://open.spotify.com/track/7oBOmgTxwJt7MKGHXTcUGt) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Slide](https://open.spotify.com/album/4PJBp0cb5Vxx2mLwvbV1P7) | 3:39 | 2021-10-29 |  |
 | [Slight Variations](https://open.spotify.com/track/6UUmEKtqOuhpUO0nJFzNKW) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Slight Variations](https://open.spotify.com/album/1OcWfQAxxIcL3NqXjLUKaS) | 3:31 | 2022-09-02 |  |
 | [So Good](https://open.spotify.com/track/6NzsjUWvW5WyR22jR2LPKu) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d) | 3:40 | 2021-07-26 |  |

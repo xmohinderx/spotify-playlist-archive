@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u304f\u308b\u308a",
-  "num_followers": 237119,
+  "num_followers": 237199,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTUwMDQwMCwwMDAwMDAwMDc1NGYzMTQzZDQ0NzlmNDkwMTk2NTRhNTA0NmQxYzhm",
+  "snapshot_id": "MTY2NTUwMDQwMCwwMDAwMDAwMGViYjU1N2RhMjJjYTNjYTJlNzdlYzU4YmIzMjZmODRh",
   "tracks": [
     {
       "added_at": "2022-10-11 15:00:00",
@@ -107,8 +107,8 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "\u6d77\u306b\u306a\u308a\u305f\u3044 part.3",
-        "url": "https://open.spotify.com/album/40bf5W62dYkwPyJJZoQC39"
+        "name": "Umi ni Naritai part.3",
+        "url": "https://open.spotify.com/album/2W9C8HL0Rkp2SwCLw4ySuh"
       },
       "artists": [
         {
@@ -117,8 +117,8 @@
         }
       ],
       "duration_ms": 216146,
-      "name": "\u6d77\u306b\u306a\u308a\u305f\u3044 part.3",
-      "url": "https://open.spotify.com/track/1MovJJh0Se1uJ5ddG2aLdj"
+      "name": "Umi ni Naritai part.3",
+      "url": "https://open.spotify.com/track/2mspLmFrpyqd4DCxGjN3Sz"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
-        "url": "https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND"
-      },
-      "artists": [
-        {
-          "name": "YUKI",
-          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
-      "url": "https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU"
-    },
-    {
-      "added_at": "2022-10-11 15:00:00",
-      "album": {
         "name": "COMEBACK -\u611b\u3057\u304d\u7834\u7247-",
         "url": "https://open.spotify.com/album/1kIuGGIYH31Y9ev3q2DmA3"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 266700,
       "name": "COMEBACK -\u611b\u3057\u304d\u7834\u7247-",
       "url": "https://open.spotify.com/track/7Mgn8p0451fAjylZny6ABK"
+    },
+    {
+      "added_at": "2022-10-11 15:00:00",
+      "album": {
+        "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
+        "url": "https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
+      "url": "https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU"
     },
     {
       "added_at": "2022-10-11 15:00:00",

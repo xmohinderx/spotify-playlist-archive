@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-94 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/12w8cCmx1q2Iov56A3YAS8)
+95 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/12w8cCmx1q2Iov56A3YAS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [I Heard The Bells on Christmas Day](https://open.spotify.com/track/1C7WXnqr5h8woxzYk4cCh1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [A Very Mayries Christmas](https://open.spotify.com/album/2hj3TtOFRw31Fzfumf4gB1) | 2:49 | 2021-12-17 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/24R1qc77L7eb38XKBFIfEN) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Before Christmas](https://open.spotify.com/album/2NCP9hd23zIKGnjueQT3SR) | 3:03 | 2021-12-17 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/6su4EbvpnYRuC0wnP1wUWd) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Christmas Collection, Vol\. 1](https://open.spotify.com/album/1DINBPK1Aqj6Y4Cjf3w11o) | 2:12 | 2022-10-07 |  |
-| [In the Bleak Midwinter](https://open.spotify.com/track/6eIlh4r8kaTAs3YQcSHkzu) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/7bzooZ5hpkaLmxvp4NKsnV) | 3:24 | 2021-12-17 |  |
+| [In the Bleak Midwinter](https://open.spotify.com/track/0f0QKHOvwpcLuIe7nUjY6m) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/2cLYDYEWIHVCIXsjMmQi5u) | 3:24 | 2022-10-07 |  |
+| [In the Bleak Midwinter](https://open.spotify.com/track/6eIlh4r8kaTAs3YQcSHkzu) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/7bzooZ5hpkaLmxvp4NKsnV) | 3:24 | 2021-12-17 | 2022-10-13 |
 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/0LIkmGyT1ztCTyB8cjpSxp) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/16tTE4MqPmzFC9Xe7GxdTN) | 1:51 | 2022-10-07 |  |
 | [It's Beginning to Look a Lot Like Christmas \- Acoustic](https://open.spotify.com/track/3rQHAo2HnOxYvipyx8ATmk) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Acoustic Christmas Hits](https://open.spotify.com/album/4UFm1ArDoNI3M4opS9JF1g) | 2:31 | 2021-12-17 | 2022-07-29 |
 | [It's Beginning to Look a Lot Like Christmas \- Acoustic](https://open.spotify.com/track/60tvX10bz2f0esq1k2DM3j) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [It's Beginning to Look a Lot Like Christmas \(Acoustic\)](https://open.spotify.com/album/3XAdKKhullAux0eNZJkBQW) | 2:31 | 2021-12-17 |  |

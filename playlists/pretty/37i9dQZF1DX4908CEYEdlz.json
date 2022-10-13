@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Godsmack",
-  "num_followers": 705570,
+  "num_followers": 705544,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTY2MCwwMDAwMDAwMDU4NGI0YjgxODNlNjNhODMwYzMzNTkyNDQ3MzY5ZTYw",
+  "snapshot_id": "MTY2NTExMTY2MCwwMDAwMDAwMDkyZDg3YzYwNzk5NWI0MzZmNjY4YWZhMzE4YjBiOGRl",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "For Those That Wish To Exist",
-        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 244364,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 238109,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 244364,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
+        "name": "The Art Of Survival",
+        "url": "https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 228119,
+      "name": "Slow Me",
+      "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
         "name": "Dregs of the Wine",
         "url": "https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 238720,
       "name": "Going Crazy",
       "url": "https://open.spotify.com/track/4roPy7UCHujegMBkutBawy"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
-        "name": "The Art Of Survival",
-        "url": "https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 228119,
-      "name": "Slow Me",
-      "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
     },
     {
       "added_at": "2022-10-07 03:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-10-07 03:01:00",
       "album": {
-        "name": "Nowhere Sessions",
-        "url": "https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Fortunate Son - Nowhere Sessions",
-      "url": "https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo"
-    },
-    {
-      "added_at": "2022-10-07 03:01:00",
-      "album": {
         "name": "Maquiagem",
         "url": "https://open.spotify.com/album/0xvs1QlQNbxBryIYOKCrs1"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 184941,
       "name": "Maquiagem",
       "url": "https://open.spotify.com/track/5MCWDrTtqhQQL2tIE2prde"
+    },
+    {
+      "added_at": "2022-10-07 03:01:00",
+      "album": {
+        "name": "Nowhere Sessions",
+        "url": "https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Fortunate Son - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo"
     },
     {
       "added_at": "2022-10-07 03:01:00",

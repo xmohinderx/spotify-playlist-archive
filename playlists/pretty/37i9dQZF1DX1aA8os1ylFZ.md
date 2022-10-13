@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > Me and bae = love
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,508 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,511 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 15 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
 | 16 | [go \(feat\. Sam Fischer\)](https://open.spotify.com/track/54FVfRWXJwZbTUmKFen2nu) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:35 |
 | 17 | [Uh Baby \- Sad Version](https://open.spotify.com/track/7nu2Wb4OPkH5ISWotOKSrb) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Uh Baby \(Sad Version\)](https://open.spotify.com/album/7AIChYb5phmJN3nOGFnjsT) | 2:43 |
-| 18 | [All About You](https://open.spotify.com/track/4aqRAulpuMv4np1LloQwYJ) | [23rd Letter](https://open.spotify.com/artist/2tpT0yIItPFcLOmh0tml9J) | [All About You](https://open.spotify.com/album/5IL9eNIJTmCKB02gUUdLOY) | 3:10 |
+| 18 | [All About You](https://open.spotify.com/track/6Kbaa3G0goXxwIyIi0q5ic) | [23rd Letter](https://open.spotify.com/artist/2tpT0yIItPFcLOmh0tml9J) | [All About You](https://open.spotify.com/album/6DVHEzXIRURCUoRwwYPlC8) | 3:10 |
 | 19 | [Home](https://open.spotify.com/track/5cJwZEAFSYVPqZjdGxBkVW) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Home](https://open.spotify.com/album/4qiqFAHCjnheNKnESivXuU) | 3:16 |
 | 20 | [Control](https://open.spotify.com/track/73dizJioW3V6zacAOr1tg3) | [Paul Eckert](https://open.spotify.com/artist/1eoWfFa4fgWTTv212vn78R) | [Covers](https://open.spotify.com/album/3uuBQUwNStdBuJs2Xoidbs) | 4:01 |
 | 21 | [Love&Adoration](https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Love&Adoration](https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ) | 2:23 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 87 | [Bobbie's Song](https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Bobbie's Song](https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP) | 2:25 |
 | 88 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 |
 | 89 | [Focus](https://open.spotify.com/track/1IJ9taH1AFHfrKYvBbgMq1) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/1DLqQDX8YBOFSF6SwosfsK) | 2:44 |
-| 90 | [Love Haze](https://open.spotify.com/track/3UPq5vcUDRgVRfghbNcqCR) | [JPL](https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G) | [Love Haze](https://open.spotify.com/album/679TkSsX2sIJIBAOIv52Ad) | 2:59 |
+| 90 | [Love Haze](https://open.spotify.com/track/568o5iTUDb6e7al75YI7Dn) | [JPL](https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G) | [Love Haze](https://open.spotify.com/album/2hufaDzF9MfrF2Q73jIhgb) | 2:59 |
 | 91 | [NINA](https://open.spotify.com/track/32HIXa1zzJJxfCslCIQ9QK) | [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [NINA](https://open.spotify.com/album/54I14zucBYar1VfmZnNTIa) | 3:09 |
 | 92 | [Forgot How To Love Me](https://open.spotify.com/track/484aU8wGt1mHA8ymmDGtPQ) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/7rID19h03gYHYAwUMsuKWh) | 3:41 |
 | 93 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Say Yes \(Turquoise\) \(feat\. Joshua J\)](https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:41 |
 | 100 | [Take Mine](https://open.spotify.com/track/1aE7IyH98sfj1GjpzitNfE) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [City Of Our Lives](https://open.spotify.com/album/3vWGsppgWED2VQZxBSh56t) | 3:05 |
 
-Snapshot ID: `MTY1ODUwMzYzMCwwMDAwMDAwMDMyYjgwYWQ2NjBkNjhlNDMyMzliYmZiZWI2ODM3Yzk0`
+Snapshot ID: `MTY1ODUwMzYzMCwwMDAwMDAwMDE3OGM3MjM3ZWM4NWI4YjgxMzM3MmU3NDBkNDc0MmIz`

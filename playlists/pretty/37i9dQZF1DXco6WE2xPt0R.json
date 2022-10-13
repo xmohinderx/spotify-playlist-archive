@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 82147,
+  "num_followers": 82166,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjg2MCwwMDAwMDAwMDZlOWIyZjkyODMyZTg5YThmNmQxZjU5OTYyMmRkOWFm",
+  "snapshot_id": "MTY2NDUwNjg2MCwwMDAwMDAwMGRiNTc0OTc5NDBlMDJlOGEzN2E3ZDIwMGQ0MjYyN2Rm",
   "tracks": [
     {
       "added_at": "2022-09-30 03:01:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 130981,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
         "name": "Seamless (with Kehlani)",
         "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 195265,
       "name": "Seamless (with Kehlani)",
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 130981,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "Bl\u00fc Moon",
-        "url": "https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "Bl\u00fc Moon",
-      "url": "https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -459,22 +443,6 @@
       "duration_ms": 356493,
       "name": "Send It On",
       "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -495,18 +463,18 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "Public Displays Of Affection Too",
-        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 196641,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -523,6 +491,22 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "Public Displays Of Affection Too",
+        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 196641,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -679,22 +663,6 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "Let Me See Your Phone",
-        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 202371,
-      "name": "Let Me See Your Phone",
-      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
         "name": "moonlit room",
         "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
       },
@@ -727,22 +695,38 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "GODDESS REIGN",
-        "url": "https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1"
+        "name": "Let Me See Your Phone",
+        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
       },
       "artists": [
         {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        },
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
         }
       ],
-      "duration_ms": 209773,
-      "name": "GODDESS REIGN",
-      "url": "https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys"
+      "duration_ms": 202371,
+      "name": "Let Me See Your Phone",
+      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "Drunken Wordz Sober Thoughtz",
+        "url": "https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Wet Dreamz",
+      "url": "https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -771,22 +755,22 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "Drunken Wordz Sober Thoughtz",
-        "url": "https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv"
+        "name": "GODDESS REIGN",
+        "url": "https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1"
       },
       "artists": [
         {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
         },
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 185753,
-      "name": "Wet Dreamz",
-      "url": "https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB"
+      "duration_ms": 209773,
+      "name": "GODDESS REIGN",
+      "url": "https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -983,22 +967,6 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "She Knows",
-        "url": "https://open.spotify.com/album/6CryGQCKTRIK0hJcx1I1us"
-      },
-      "artists": [
-        {
-          "name": "Kaleem Taylor",
-          "url": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
-        }
-      ],
-      "duration_ms": 248250,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
         "name": "Rare Pleasure",
         "url": "https://open.spotify.com/album/4ZwuqG7srOt86hMjF0o3No"
       },
@@ -1011,6 +979,22 @@
       "duration_ms": 315798,
       "name": "Slowdance",
       "url": "https://open.spotify.com/track/0Nc4QJeqhbkFsjZWwyaDlt"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "She Knows",
+        "url": "https://open.spotify.com/album/6CryGQCKTRIK0hJcx1I1us"
+      },
+      "artists": [
+        {
+          "name": "Kaleem Taylor",
+          "url": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
+        }
+      ],
+      "duration_ms": 248250,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -1039,26 +1023,6 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "DNA (Live)",
-        "url": "https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN"
-      },
-      "artists": [
-        {
-          "name": "a l l i e",
-          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
-        },
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 228292,
-      "name": "DNA - Live",
-      "url": "https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
         "name": "Still Wonder",
         "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
       },
@@ -1079,6 +1043,26 @@
       "duration_ms": 238153,
       "name": "Still Wonder",
       "url": "https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "DNA (Live)",
+        "url": "https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN"
+      },
+      "artists": [
+        {
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
+        },
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "DNA - Live",
+      "url": "https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
+        "name": "Chocolate Covered Strawberries",
+        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Chocolate Covered Strawberries",
+      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
         "name": "Nu Beginning",
         "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
       },
@@ -1271,38 +1271,6 @@
       "duration_ms": 237240,
       "name": "Previouscats",
       "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
-        "name": "Chocolate Covered Strawberries",
-        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Chocolate Covered Strawberries",
-      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Comeback.",
-      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -1379,6 +1347,22 @@
       "duration_ms": 195000,
       "name": "Midnight Snacks",
       "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Comeback.",
+      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -1547,22 +1531,6 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
-        "name": "Genius",
-        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 188797,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
         "name": "chuu",
         "url": "https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU"
       },
@@ -1615,6 +1583,22 @@
       "duration_ms": 161573,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/4aKniqIkySbQDkrOA6uUqP"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "Genius",
+        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 188797,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
     },
     {
       "added_at": "2022-09-30 03:01:00",
@@ -1775,6 +1759,22 @@
       "duration_ms": 235000,
       "name": "Wake Up Baby",
       "url": "https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
+        "name": "Bl\u00fc Moon",
+        "url": "https://open.spotify.com/album/0QfoZb8MSbOoR6vdRs1WLr"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "Bl\u00fc Moon",
+      "url": "https://open.spotify.com/track/5fMURyUIFKXqvGM89YPcaA"
     },
     {
       "added_at": "2022-09-30 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,067 likes - 115 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,049 likes - 115 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 50 | [Sunset at the Gas Pump](https://open.spotify.com/track/7eVWFB4z9ETseDMJ04ftYi) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Lives](https://open.spotify.com/album/62hP0p3napMAE06DsYt2fg) | 1:44 |
 | 51 | [Focus \(Rosie's Theme\)](https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE) | [The Civil Wars & T Bone Burnett](https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME) | [A Place at the Table \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP) | 2:21 |
 | 52 | [Neanderthal](https://open.spotify.com/track/6dLkbgtwhk5vzSLhbRlW8A) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Legs to Make us Longer](https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL) | 4:28 |
-| 53 | [Barragán](https://open.spotify.com/track/0w2kb2POWcEtGbbqhXu4IF) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4XvtXHbIkZVLp65p5KBHMP) | 2:13 |
+| 53 | [Barragán](https://open.spotify.com/track/2EbnbSeiXnyXfGdf17OoGa) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4UhYqrNKcEiRHdVIxI7vso) | 2:13 |
 | 54 | [The Ballad of Barbara Allen](https://open.spotify.com/track/1vMUVPqOZDb0rAy1e9JMnS) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 1:43 |
 | 55 | [Those Days Are Now](https://open.spotify.com/track/4wTb3hb5WrqseQ35KxwIvp) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:43 |
 | 56 | [Everything](https://open.spotify.com/track/25I5OlzgEUCqg0MWLWCZpv) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:37 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 114 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 115 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MTYxNTMxNzY2NiwwMDAwMDAwMGU4YzE1OTExZWYyMDBmZmY1N2JhMmFmZWZkNTk4YzMy`
+Snapshot ID: `MTYxNTMxNzY2NiwwMDAwMDAwMGUzYzE4YTU4MmEyMDliYzgzNjhjZDRhOWM2MzdiYzgz`

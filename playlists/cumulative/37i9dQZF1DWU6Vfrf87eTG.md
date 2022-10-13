@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-165 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
+166 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Angi](https://open.spotify.com/track/6jXd3IhCFUJxDJ0wEtk010) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/4UE3bjQpfPwVlPtKFPAxB3) | 2:27 | 2020-07-13 |  |
 | [Ashoken Farewell](https://open.spotify.com/track/1F8eHbbrXTSRQTPLEREItt) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix) | 2:30 | 2020-07-13 | 2022-07-29 |
 | [Ashoken Farewell](https://open.spotify.com/track/5nNn40GNviPx4GxmPP1ebd) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 2:30 | 2020-07-13 |  |
-| [Barragán](https://open.spotify.com/track/0w2kb2POWcEtGbbqhXu4IF) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4XvtXHbIkZVLp65p5KBHMP) | 2:13 | 2020-07-13 |  |
+| [Barragán](https://open.spotify.com/track/0w2kb2POWcEtGbbqhXu4IF) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4XvtXHbIkZVLp65p5KBHMP) | 2:13 | 2020-07-13 | 2022-10-13 |
+| [Barragán](https://open.spotify.com/track/2EbnbSeiXnyXfGdf17OoGa) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4UhYqrNKcEiRHdVIxI7vso) | 2:13 | 2020-07-13 |  |
 | [Bella Marie](https://open.spotify.com/track/3s128mpojxjvzyafuFmxmF) | [Megafaun](https://open.spotify.com/artist/0o1wK6uAmkrixovsE80lMR) | [Gather, Form & Fly](https://open.spotify.com/album/1P9aTmYR9bmmqReOdvXmAo) | 1:29 | 2020-07-13 | 2022-07-29 |
 | [Bella Marie](https://open.spotify.com/track/6A0p1XuHe4wd8FQEFiod7T) | [Megafaun](https://open.spotify.com/artist/0o1wK6uAmkrixovsE80lMR) | [Gather, Form & Fly](https://open.spotify.com/album/7eIn0DBntIsCUSotnjepUh) | 1:29 | 2020-07-13 |  |
 | [Bellwoods Park](https://open.spotify.com/track/2rknjj7MqyOPIif150QmXg) | [Shawn William Clarke](https://open.spotify.com/artist/654buPExx4Mk8xVddb8zgs) | [William](https://open.spotify.com/album/3PrhKqEzYomIrCmiSKpoVR) | 3:35 | 2020-07-13 |  |

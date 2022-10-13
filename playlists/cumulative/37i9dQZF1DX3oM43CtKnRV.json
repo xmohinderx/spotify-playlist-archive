@@ -1791,6 +1791,24 @@
     {
       "album": {
         "name": "Sleeping With Ghosts",
+        "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190573,
+      "name": "The Bitter End",
+      "url": "https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf"
+    },
+    {
+      "album": {
+        "name": "Sleeping With Ghosts",
         "url": "https://open.spotify.com/album/4fUDor6o5gw0b18iYKEaRq"
       },
       "artists": [
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 190573,
       "name": "The Bitter End",
       "url": "https://open.spotify.com/track/3WBPiogtVDBSXK7uOpxJ6m"

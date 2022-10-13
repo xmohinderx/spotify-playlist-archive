@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,627 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,632 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 31 | [Love Out Loud](https://open.spotify.com/track/6zAnoyecEdyzK1qo569Wa0) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Love Out Loud](https://open.spotify.com/album/77A0zjywOShlbv2fZgrOvu) | 3:08 |
 | 32 | [Be Around](https://open.spotify.com/track/3T3U9f5UJTTvZttYLW4J8C) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [In That Room](https://open.spotify.com/album/6i1Tfuso1BV4pRNMDtfybF) | 3:15 |
 | 33 | [I Like You](https://open.spotify.com/track/7Afr3PKTtlFGHGiXYgnv6P) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Walking in Between](https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu) | 2:18 |
-| 34 | [pass you by](https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/06AsoKSZYbdlX0a01Z3RFt) | 4:05 |
+| 34 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 |
 | 35 | [Forever](https://open.spotify.com/track/5m73Rb4xnEezVManFujRnC) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Forever](https://open.spotify.com/album/1NBKZ51sVnHveH2MDZDZZU) | 3:27 |
 | 36 | [Goodnight](https://open.spotify.com/track/4dp4W8NhrA19psRyzpj0rN) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Goodnight](https://open.spotify.com/album/0l1EpYy3NKI02dnVSlbW5Z) | 4:21 |
 | 37 | [Lose Control \- Acoustic Version](https://open.spotify.com/track/3uGJfbP8pV3zTIH6Vi8G8x) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [When The Lights Go Down](https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [Days of Old](https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Days of Old](https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP) | 3:15 |
 | 100 | [Right Through Me](https://open.spotify.com/track/7HQ0kkdIswgLxz2X9Qm4ci) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/60916foyRWkGRNvS0pDcEa) | 3:33 |
 
-Snapshot ID: `MTY2NDIwMDIzMiwwMDAwMDAwMGQ4YmIwOTI0ZDYzYmExMjgxZmZmYzliODFhNWQxMDlj`
+Snapshot ID: `MTY2NDIwMDIzMiwwMDAwMDAwMGRkZjE1YWNlYmU3NjlmMmQ2MmQzMmE3OWQ4YTcxYjI4`

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 195952,
       "name": "2021",
       "url": "https://open.spotify.com/track/5DlXq40tjFwd3SFp55AfKp"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "About You",
       "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 247333,
       "name": "Build",
       "url": "https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 209749,
       "name": "Don't Give In",
       "url": "https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2"
@@ -1903,7 +1903,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 231910,
       "name": "heights",
       "url": "https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V"
@@ -1943,6 +1943,24 @@
       "duration_ms": 156729,
       "name": "Hello, I said",
       "url": "https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx"
+    },
+    {
+      "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188478,
+      "name": "Holding the Gun",
+      "url": "https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz"
     },
     {
       "album": {
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 212787,
       "name": "I Want You Around",
       "url": "https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy"
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 269638,
       "name": "iFeel",
       "url": "https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 198359,
       "name": "Keep Me Up",
       "url": "https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE"
@@ -2787,7 +2805,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 158675,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
@@ -3357,7 +3375,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 201301,
       "name": "Play Me Something Nice",
       "url": "https://open.spotify.com/track/4YEoimxmDNIwTDaG6jZmcg"
@@ -3805,7 +3823,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 198594,
       "name": "Sola",
       "url": "https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9"
@@ -3823,7 +3841,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 214885,
       "name": "Some Place Else",
       "url": "https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C"
@@ -3841,7 +3859,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 213535,
       "name": "Something to Feel",
       "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"

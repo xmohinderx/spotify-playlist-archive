@@ -4,14 +4,15 @@
 
 > Anything from hidden local gems to pop classics about the journey to embracing all kinds of love.
 
-75 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
+77 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10,000ft.](https://open.spotify.com/track/0B7Bmgk2EIogEnhLz6gqRI) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 3:41 | 2022-07-28 |  |
 | [99% Angel](https://open.spotify.com/track/3uxSM3Ciu05sNWUoSJRbER) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [99% Angel](https://open.spotify.com/album/3wgrIUZWIjkempUhkuVDLK) | 2:45 | 2022-04-07 | 2022-06-24 |
 | [@princejoyce](https://open.spotify.com/track/0MCuH8pcS50dyNTfr30xoQ) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 3:14 | 2022-04-07 | 2022-06-24 |
-| [all my ghosts](https://open.spotify.com/track/2tEfW1QMddoTWIIgHtHiPV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:17 | 2022-07-28 |  |
+| [all my ghosts](https://open.spotify.com/track/2tEfW1QMddoTWIIgHtHiPV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:17 | 2022-07-28 | 2022-10-13 |
+| [all my ghosts](https://open.spotify.com/track/46BHP7nFOrGQPLW8mCxzZr) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:17 | 2022-07-28 |  |
 | [altar](https://open.spotify.com/track/1GaMFbWeBZeSwgyAEr1s4m) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 4:04 | 2022-07-28 |  |
 | [Blinding Lights](https://open.spotify.com/track/6qYkmqFsXbj8CQjAdbYz07) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Blinding Lights](https://open.spotify.com/album/3sL9Myf7JF1k9TbrXE46ou) | 3:20 | 2022-04-07 | 2022-06-24 |
 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 | 2022-04-07 | 2022-06-24 |
@@ -38,7 +39,8 @@
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-07-28 |  |
 | [Matter To You](https://open.spotify.com/track/1InPL1Qm8qJC3FIIvFruNt) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Only Child](https://open.spotify.com/album/7v0KN0VlHJZrhAbSbxEZvZ) | 3:37 | 2022-07-28 |  |
 | [Mean](https://open.spotify.com/track/2YpqqxAb7TBIVJGC05CBsi) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [Mean](https://open.spotify.com/album/6EosfD2Tx35BF3wCgaYP9m) | 4:48 | 2022-06-23 | 2022-07-29 |
-| [mona lisa](https://open.spotify.com/track/6tJOpzHYBF6Ym2gmmQy9mE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 3:10 | 2022-07-28 |  |
+| [mona lisa](https://open.spotify.com/track/5Nc3vGiiHFyQegUNjsboj9) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 3:10 | 2022-07-28 |  |
+| [mona lisa](https://open.spotify.com/track/6tJOpzHYBF6Ym2gmmQy9mE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 3:10 | 2022-07-28 | 2022-10-13 |
 | [my hair](https://open.spotify.com/track/6u7gmPOz7pzzaeR9xSBpsR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:38 | 2022-07-28 |  |
 | [ONE SIZE FITS ALL](https://open.spotify.com/track/5R7ZGxCZElz3ivYaui4IKn) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [ONE SIZE FITS ALL](https://open.spotify.com/album/0wzhWxSywM34dLDPvxWkUT) | 3:31 | 2022-07-28 |  |
 | [Psycho](https://open.spotify.com/track/2eQAOUcjGKoLrCHQkFekAI) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 2:51 | 2022-07-28 |  |

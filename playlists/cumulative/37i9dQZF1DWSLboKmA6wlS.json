@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: KONGTHAP PEAK (\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e \u0e1e\u0e35\u0e04). Artwork: Isu Kim",
+  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: FOOL STEP. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "published_playlist_ids": [
     "0sFtnPcJ2xiQS1kZ7Io9aQ"
@@ -308,6 +308,28 @@
     },
     {
       "album": {
+        "name": "South out",
+        "url": "https://open.spotify.com/album/0dbEMtGsG8y7kCxq8RLtrl"
+      },
+      "artists": [
+        {
+          "name": "Zambug",
+          "url": "https://open.spotify.com/artist/698QM0vyNkViI1jrJlBQg5"
+        },
+        {
+          "name": "R\u00e9jizz",
+          "url": "https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222148,
+      "name": "South out",
+      "url": "https://open.spotify.com/track/7uDKsDaXSZIdSpiumsr4Ek"
+    },
+    {
+      "album": {
         "name": "Standby (n)",
         "url": "https://open.spotify.com/album/1QtxWAUEjvQdIWn9qqQz4E"
       },
@@ -409,7 +431,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 257937,
       "name": "\u0e04\u0e19\u0e44\u0e01\u0e25\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/0TS1RJ916ck0tyJdfakc2u"
@@ -535,7 +557,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 267789,
       "name": "\u0e04\u0e37\u0e19\u0e27\u0e31\u0e19\u0e28\u0e38\u0e01\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/2bepAvTPvI3JPl6hQA568H"
@@ -633,6 +655,24 @@
       "duration_ms": 237841,
       "name": "\u0e09\u0e31\u0e19\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e40\u0e23\u0e32\u0e04\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19 (Click) [feat. AUTTA]",
       "url": "https://open.spotify.com/track/3TSlqmkBcZwHgZ0MnhdP2l"
+    },
+    {
+      "album": {
+        "name": "\u0e09\u0e31\u0e19\u0e42\u0e01\u0e2b\u0e01",
+        "url": "https://open.spotify.com/album/6UVN6wVDFbh1m2LLeBtDk1"
+      },
+      "artists": [
+        {
+          "name": "FOOL STEP",
+          "url": "https://open.spotify.com/artist/2YvQp7JVYyy5Hxk1QLXnLV"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "\u0e09\u0e31\u0e19\u0e42\u0e01\u0e2b\u0e01",
+      "url": "https://open.spotify.com/track/7vOhr4S75hqQf3xmiHLsKG"
     },
     {
       "album": {
@@ -1301,7 +1341,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 257086,
       "name": "\u0e2e\u0e30 \u0e2e\u0e30",
       "url": "https://open.spotify.com/track/4te1SDktZQSg1AiZSes1Nt"
@@ -1509,6 +1549,24 @@
       "duration_ms": 247125,
       "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32 (1517) [feat. MANGKORN]",
       "url": "https://open.spotify.com/track/38LqNoIo76nP28GGevEeE2"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e25\u0e22\u0e2d\u0e4b\u0e2d (Niksen)",
+        "url": "https://open.spotify.com/album/5uN9xdTandou9yZVSoX6R0"
+      },
+      "artists": [
+        {
+          "name": "Bellythebear",
+          "url": "https://open.spotify.com/artist/2B3Hs8KIU4FqMYrHOWL7wh"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146898,
+      "name": "\u0e40\u0e25\u0e22\u0e2d\u0e4b\u0e2d (Niksen)",
+      "url": "https://open.spotify.com/track/1R22HeagVHQck7v9m8wRA0"
     },
     {
       "album": {

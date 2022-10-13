@@ -4,13 +4,14 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Stephen Sanchez
 
-230 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
+231 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12345](https://open.spotify.com/track/6WKZjZ8Efxa5JDBEE5Qiyg) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [12345](https://open.spotify.com/album/1UULSmzki8FPkCVaSjVnRl) | 2:42 | 2021-11-12 | 2022-07-25 |
 | [3AM](https://open.spotify.com/track/30OVbvbrKOdmzeXxaOiyZW) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f), [TAESAN](https://open.spotify.com/artist/2Zz9U4J4t6H3G0HdYVX0uY) | [3AM](https://open.spotify.com/album/5NQXeXToor0XUCpTxe4eSZ) | 2:18 | 2021-11-12 | 2022-07-08 |
 | [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 | 2021-11-12 |  |
+| [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 | 2022-08-19 |  |
 | [All the Time in the World](https://open.spotify.com/track/480SRGJA3IAzyoamrpnkOX) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Talk](https://open.spotify.com/album/0FO0CHC3r7HQJXWSXE3F3l) | 3:44 | 2021-11-12 | 2022-07-19 |
 | [All We Ever Knew](https://open.spotify.com/track/5wrGviDHdJ2MYgDRow14cu) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [All We Ever Knew](https://open.spotify.com/album/2DxrFMvkLvj3CiTapFkXhX) | 3:45 | 2021-11-12 | 2022-04-29 |
 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 | 2022-03-12 |  |
@@ -103,7 +104,7 @@
 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 | 2021-11-12 |  |
 | [I Don't Deserve It](https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [I Don't Deserve It](https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8) | 3:46 | 2022-03-12 | 2022-08-20 |
 | [I Don't Really Care For You](https://open.spotify.com/track/5heU7rc2joRWgV7zz9N0Ll) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [I Don't Really Care For You](https://open.spotify.com/album/2WVqGcJwbqBQxJCeytGbvx) | 4:03 | 2021-11-12 | 2022-07-28 |
-| [I Don't Really Care for You](https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 4:04 | 2022-03-12 |  |
+| [I Don't Really Care for You](https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 4:04 | 2022-03-12 | 2022-10-13 |
 | [I Got You on My Mind](https://open.spotify.com/track/2yDmtELC2x3qNbJRfnFmga) | [BEEBE](https://open.spotify.com/artist/0oAtSSMTWJahNLnc0OMxiq) | [Beebe](https://open.spotify.com/album/1t3vArpUecsBVn9Maanu53) | 3:09 | 2021-11-12 | 2022-07-29 |
 | [I Hate That Part](https://open.spotify.com/track/2vKUa0RyA8xIzFteB7mikF) | [Caroline Glaser](https://open.spotify.com/artist/4qiAhwxeFLSbkNq6tFEWpJ) | [Caroline Glaser](https://open.spotify.com/album/4zd3piahMJULe7zBWeZcxJ) | 3:54 | 2021-11-12 | 2022-03-01 |
 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 | 2022-03-12 |  |

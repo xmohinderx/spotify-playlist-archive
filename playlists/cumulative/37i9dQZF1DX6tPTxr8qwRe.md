@@ -4,7 +4,7 @@
 
 > Extra vicious, karma driven, hard hitting pop\. This is SALT\. Cover: Maisie Peters
 
-269 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
+270 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Antsy](https://open.spotify.com/track/2eDBWo7MfkdezN1FKxxQRb) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Antsy](https://open.spotify.com/album/0AcNlsXfyXwZcurMIbAlww) | 2:30 | 2022-09-16 |  |
 | [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 | 2022-03-28 | 2022-04-02 |
 | [Backstabber](https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:06 | 2022-03-18 | 2022-05-28 |
-| [BAD B!TCH](https://open.spotify.com/track/7tN1ARlynrlNNZN7UB9PPf) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [BAD B!TCH](https://open.spotify.com/album/2Qvht1jKHMmAWGDv0BSRCQ) | 3:02 | 2022-09-16 |  |
+| [BAD B!TCH](https://open.spotify.com/track/1hQytzOArHdHZuFDRLLurh) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [BAD B!TCH](https://open.spotify.com/album/2X0N7b14wqy5XtkzXvmUgU) | 3:02 | 2022-09-16 |  |
+| [BAD B!TCH](https://open.spotify.com/track/7tN1ARlynrlNNZN7UB9PPf) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [BAD B!TCH](https://open.spotify.com/album/2Qvht1jKHMmAWGDv0BSRCQ) | 3:02 | 2022-09-16 | 2022-10-13 |
 | [Bad Bitch](https://open.spotify.com/track/4BSv6txtXIBg44D9EHpifH) | [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Bad Bitch](https://open.spotify.com/album/6h9dGhDGp7IbnthobQ23xK) | 2:19 | 2022-07-01 |  |
 | [Bad Energy](https://open.spotify.com/track/1W3ufvaiblglNP1ohlDTob) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [The Character](https://open.spotify.com/album/7dAPAxXAFZPsBDiSJu1CUx) | 2:22 | 2022-07-29 |  |
 | [Bad Game Of Telephone](https://open.spotify.com/track/1XlzvHH3NU2csyowpJcr6C) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [Bad Game Of Telephone](https://open.spotify.com/album/20Wa4xEz4oj4tG8n2CNN1s) | 3:05 | 2022-08-19 | 2022-10-08 |

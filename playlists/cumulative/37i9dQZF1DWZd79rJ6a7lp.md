@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-684 songs - 1 day 10 hr 48 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
+685 songs - 1 day 10 hr 50 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [dream waltz](https://open.spotify.com/track/51Q43uqDOTCvY3I6bzG9Hd) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [dream waltz](https://open.spotify.com/album/51QaCYK4lnkL2GGsdN7VcO) | 3:42 | 2020-10-20\* | 2021-03-14 |
 | [Dreaming](https://open.spotify.com/track/5ewuV9PoExpWPIedXbEIJv) | [Wes Jools](https://open.spotify.com/artist/2Tsae4bvjzn4Xtc8EhQrdG) | [Dreaming](https://open.spotify.com/album/2mua8SuagF4jqz05kI6JeR) | 3:14 | 2020-12-04 | 2021-06-16 |
 | [Dreaming Of Dust](https://open.spotify.com/track/33cvC00s0tc6bFeM92xksE) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Dreaming Of Dust](https://open.spotify.com/album/0oJreCCMV1gBvlV3ibowI7) | 2:50 | 2021-09-22 | 2021-10-06 |
-| [drifting](https://open.spotify.com/track/0Bkuw9iTcI7JGHnLDcYDiR) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/43XZAnWowTdkO2jEoDxmB8) | 2:45 | 2021-10-23 |  |
+| [drifting](https://open.spotify.com/track/0Bkuw9iTcI7JGHnLDcYDiR) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/43XZAnWowTdkO2jEoDxmB8) | 2:45 | 2021-10-23 | 2022-10-13 |
+| [drifting](https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq) | 2:45 | 2022-10-07 |  |
 | [Dromen over jou](https://open.spotify.com/track/3i066yEKcUByD71IIhr8f5) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Dromen over jou](https://open.spotify.com/album/6Hx2DpkhbReCoFJkxALAD7) | 3:52 | 2020-10-20\* | 2021-03-14 |
 | [Droplets of Dew](https://open.spotify.com/track/78bhTdz0YawuHFNqHCtv4M) | [Volatilis](https://open.spotify.com/artist/58hwGRzGRrInGO1vK8BKrM) | [Droplets of Dew](https://open.spotify.com/album/00cOSLrAoo9ZF3yDxqB4mC) | 2:50 | 2020-10-20\* | 2020-12-12 |
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2022-02-09 |  |

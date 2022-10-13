@@ -4,7 +4,7 @@
 
 > Soothing sounds of gentle rains.
 
-215 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/4ga3UYCr8dual7uzYJDIEx)
+217 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/4ga3UYCr8dual7uzYJDIEx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Midnight Storm](https://open.spotify.com/track/36FvQBMn5ZaS9l5Ze5Dw5A) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Midnight Storm](https://open.spotify.com/album/1IEgHTWuEvpHQii8l48GNH) | 3:28 | 2021-11-10 |  |
 | [Mindful Rain](https://open.spotify.com/track/4q4u6MLCGrpfHperJ7U8NZ) | [Dreamy Drops](https://open.spotify.com/artist/6Ml1Yweh4BCb2qGIi9NGp2) | [Mindful Rain](https://open.spotify.com/album/4E1vqp2xaDzCxez2IPrkMh) | 2:48 | 2021-11-10 |  |
 | [Monsoon](https://open.spotify.com/track/0bEOey9OHVNI8MfEc2328F) | [Sofia Rain](https://open.spotify.com/artist/4VfldWr0PMJDucnvdPESqm) | [Monsoon](https://open.spotify.com/album/4p6C0X0yyxCfwWXi5tGXkO) | 3:00 | 2021-11-10 |  |
-| [moonlit patter](https://open.spotify.com/track/01mxstcuyN6ExxgjhLjgXf) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [moonlit patter](https://open.spotify.com/album/5Psup5q7mmVYZVC2or6PTg) | 2:36 | 2021-11-10 |  |
+| [moonlit patter](https://open.spotify.com/track/01mxstcuyN6ExxgjhLjgXf) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [moonlit patter](https://open.spotify.com/album/5Psup5q7mmVYZVC2or6PTg) | 2:36 | 2021-11-10 | 2022-10-13 |
+| [moonlit patter](https://open.spotify.com/track/0HFz1abbtEE5mTRsRkMdou) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:36 | 2022-07-19 |  |
 | [Morgonregn](https://open.spotify.com/track/5Jg2TWaUW9RaoUCFuKEBLx) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Morgonregn](https://open.spotify.com/album/0Kq1zjeX2PuQqnhqrR3UKh) | 2:00 | 2021-11-10 |  |
 | [Morning Rain](https://open.spotify.com/track/70LJyAuEGlgXrsEuaWmCkP) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/2abBIAGnbK4LEppbtAB3KL) | 3:03 | 2021-11-10 |  |
 | [Morning Rain](https://open.spotify.com/track/6ZWHkhgj0Q8sf1x6jzSGNf) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Nature's Rain](https://open.spotify.com/album/5AcfrjqA4vnBfkvXV4yKe8) | 3:08 | 2021-11-10 |  |
@@ -185,7 +186,8 @@
 | [Relaxing Rain Slumber](https://open.spotify.com/track/5CfhvCrR3kegEsafOkucIx) | [Capital Rain Sounds](https://open.spotify.com/artist/7G1SkmoihklZHI5j5tocSA) | [Capital Rain Sounds](https://open.spotify.com/album/4oUPIgy0BVsB2lH5UQgi1V) | 3:05 | 2021-11-10 |  |
 | [Relaxing Sleep Ambience](https://open.spotify.com/track/0dUMBi3YvpnfxOshM783xa) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Garden Rain](https://open.spotify.com/album/2B422CHROjn9jI9YjumQbH) | 3:01 | 2021-11-10 |  |
 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 | 2021-11-10 |  |
-| [rumbling rainfall](https://open.spotify.com/track/7e4RppJmMYGWgvx1qGGixI) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [rumbling rainfall](https://open.spotify.com/album/2aSuvA08FWUZ7LLkwxs31n) | 2:34 | 2021-11-10 |  |
+| [rumbling rainfall](https://open.spotify.com/track/45eRVAGkGYIygQ1GjTl2Ff) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:34 | 2022-07-19 |  |
+| [rumbling rainfall](https://open.spotify.com/track/7e4RppJmMYGWgvx1qGGixI) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [rumbling rainfall](https://open.spotify.com/album/2aSuvA08FWUZ7LLkwxs31n) | 2:34 | 2021-11-10 | 2022-10-13 |
 | [Rural Rain](https://open.spotify.com/track/5rqQCxXIbe5YwIdbV0rSUJ) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 1:58 | 2021-11-10 |  |
 | [Safe Rain](https://open.spotify.com/track/23ekbyCzQ5EchBKxWESCRt) | [AEON](https://open.spotify.com/artist/1TgJCAaMIcCTM980NCH5xk) | [Empty Rain](https://open.spotify.com/album/0DJngrcM7Tk4wU95QlTM1y) | 2:04 | 2021-11-10 |  |
 | [Scandinavian Forest Rain Sound](https://open.spotify.com/track/0U72R7eOGDPit3iw1Wg0mh) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:37 | 2021-11-10 | 2022-03-22 |

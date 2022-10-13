@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-120 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
+122 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/3YRFxtNz0CCiBYmZO0rPdr) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/5EY9uxrUOSqG64coGCPA6q) | 3:11 | 2021-12-10 | 2022-07-29 |
 | [FU](https://open.spotify.com/track/2F37All4Cmeteqm0aTc1gC) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [FU](https://open.spotify.com/album/5MsObBgbn9V4EJAx49ZCc4) | 2:53 | 2021-12-10 |  |
 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 | 2022-06-10 |  |
-| [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2021-12-10 |  |
+| [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2021-12-10 | 2022-10-13 |
+| [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 | 2022-08-19 |  |
 | [Grey](https://open.spotify.com/track/5uiBxGoDN7ys5iR7jQiiI6) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Grey](https://open.spotify.com/album/0VUfyApXn4pk0hkxiM7nan) | 3:05 | 2022-02-18 |  |
 | [Half An Orphan](https://open.spotify.com/track/2KdGu9WtqeGlmleNPuGyXg) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Denis Was a Bird](https://open.spotify.com/album/0xa2MFADkJYkKXXIzJLDKa) | 2:37 | 2021-12-10 | 2022-06-11 |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-04-01 |  |
@@ -48,7 +49,8 @@
 | [High Moon](https://open.spotify.com/track/1p3wVXamX3ceuO8cCPy5fa) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Lay Low EP](https://open.spotify.com/album/6ybtVG56huE7EZGWsz6gYv) | 3:51 | 2022-06-10 |  |
 | [High Moon](https://open.spotify.com/track/5g7kNKE5PK1XNBuVQ6mVyf) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [High Moon](https://open.spotify.com/album/4lId9PZ1NyhAb3Tk1NfetV) | 3:51 | 2021-12-10 | 2022-07-29 |
 | [Homesick](https://open.spotify.com/track/7d0kDcSMb4gITAYL5Os52M) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton Palm](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [Homesick](https://open.spotify.com/album/5SfwE6ByYqjZLv2SwWLgFf) | 3:53 | 2022-08-19 |  |
-| [Hostages \- Alternate](https://open.spotify.com/track/7xFYoEpqDy5yxyCJLe3pUO) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/4dTR9TJBCMHFArn4z6TrH8) | 4:21 | 2021-12-10 |  |
+| [Hostages \- Alternate](https://open.spotify.com/track/2nb3ZHHRzwa1bq0UpTWSoY) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/0Xd9rEkK9lzqauqoMDx1s7) | 4:21 | 2022-08-19 |  |
+| [Hostages \- Alternate](https://open.spotify.com/track/7xFYoEpqDy5yxyCJLe3pUO) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/4dTR9TJBCMHFArn4z6TrH8) | 4:21 | 2021-12-10 | 2022-10-13 |
 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 | 2021-12-10 |  |
 | [I Don't Know Why](https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv) | 3:24 | 2022-02-18 |  |
 | [I Wanna See You Smile](https://open.spotify.com/track/5A7m1ZdTNhZAZ19Hl5H3F2) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I Wanna See You Smile](https://open.spotify.com/album/2ZMs2qoPYNuPvqXoXOWt4S) | 3:19 | 2021-12-10 |  |

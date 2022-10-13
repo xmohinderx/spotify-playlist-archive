@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Damares",
-  "num_followers": 54367,
+  "num_followers": 54373,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODQ2NCwwMDAwMDAwMDZmNWRiNGZjMmE0ODZhNmZjOGJlZjUzZTI5ODcxZDVm",
+  "snapshot_id": "MTY2NTExODQ2NCwwMDAwMDAwMDJkNjY3MjgxZTUyOWFjNTVlNzI3YWYxNWY0ZTgzOTk4",
   "tracks": [
     {
       "added_at": "2022-09-30 13:09:27",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-09-30 13:09:27",
       "album": {
-        "name": "O M\u00ednimo de Mim",
-        "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "O M\u00ednimo de Mim",
-      "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
-    },
-    {
-      "added_at": "2022-09-30 13:09:27",
-      "album": {
         "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 314542,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
+    },
+    {
+      "added_at": "2022-09-30 13:09:27",
+      "album": {
+        "name": "O M\u00ednimo de Mim",
+        "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "O M\u00ednimo de Mim",
+      "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
     },
     {
       "added_at": "2022-09-30 13:09:27",
@@ -751,6 +751,30 @@
     {
       "added_at": "2022-09-30 13:09:27",
       "album": {
+        "name": "Treinar Voc\u00ea",
+        "url": "https://open.spotify.com/album/6nvoq8EFg817BBinpcg8Wc"
+      },
+      "artists": [
+        {
+          "name": "Kemily Maciel",
+          "url": "https://open.spotify.com/artist/12sY570nlrZo3u5dnd2cuP"
+        },
+        {
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+        },
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 301454,
+      "name": "Treinar Voc\u00ea",
+      "url": "https://open.spotify.com/track/2rJMAfn7eB3GQTr276zBiO"
+    },
+    {
+      "added_at": "2022-09-30 13:09:27",
+      "album": {
         "name": "O Noivo Vir\u00e1",
         "url": "https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE"
       },
@@ -779,30 +803,6 @@
       "duration_ms": 258017,
       "name": "Jesus Est\u00e1 no Barco",
       "url": "https://open.spotify.com/track/3mxEWCqhceAJ5n4AaKA98e"
-    },
-    {
-      "added_at": "2022-09-30 13:09:27",
-      "album": {
-        "name": "Treinar Voc\u00ea",
-        "url": "https://open.spotify.com/album/6nvoq8EFg817BBinpcg8Wc"
-      },
-      "artists": [
-        {
-          "name": "Kemily Maciel",
-          "url": "https://open.spotify.com/artist/12sY570nlrZo3u5dnd2cuP"
-        },
-        {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
-        },
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 301454,
-      "name": "Treinar Voc\u00ea",
-      "url": "https://open.spotify.com/track/2rJMAfn7eB3GQTr276zBiO"
     },
     {
       "added_at": "2022-09-30 13:09:27",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-09-30 13:09:27",
       "album": {
-        "name": "T\u00e1 Gerando",
-        "url": "https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE"
-      },
-      "artists": [
-        {
-          "name": "Joyce Queiroz",
-          "url": "https://open.spotify.com/artist/0ztG5F6KsJNv8v3B8tWBuN"
-        },
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        }
-      ],
-      "duration_ms": 274773,
-      "name": "T\u00e1 Gerando",
-      "url": "https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8"
-    },
-    {
-      "added_at": "2022-09-30 13:09:27",
-      "album": {
         "name": "Fase do Deserto",
         "url": "https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 266020,
       "name": "Fase do Deserto",
       "url": "https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0"
+    },
+    {
+      "added_at": "2022-09-30 13:09:27",
+      "album": {
+        "name": "T\u00e1 Gerando",
+        "url": "https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE"
+      },
+      "artists": [
+        {
+          "name": "Joyce Queiroz",
+          "url": "https://open.spotify.com/artist/0ztG5F6KsJNv8v3B8tWBuN"
+        },
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        }
+      ],
+      "duration_ms": 274773,
+      "name": "T\u00e1 Gerando",
+      "url": "https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8"
     },
     {
       "added_at": "2022-09-30 13:09:27",
@@ -1089,6 +1089,34 @@
       "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
     },
     {
+      "added_at": "2022-10-13 01:23:26",
+      "album": {
+        "name": "Adorarei",
+        "url": "https://open.spotify.com/album/1EI39CSfZIwDWQ0qjd8HUS"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        },
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 379560,
+      "name": "Adorarei",
+      "url": "https://open.spotify.com/track/1IrOfZTENgD6zd7ijPl2bB"
+    },
+    {
       "added_at": "2022-09-30 13:09:27",
       "album": {
         "name": "Voc\u00ea Disse",
@@ -1147,22 +1175,6 @@
     {
       "added_at": "2022-09-30 13:09:27",
       "album": {
-        "name": "No Tempo Certo",
-        "url": "https://open.spotify.com/album/5jh4nKyFyQmuLcYjwpfOBT"
-      },
-      "artists": [
-        {
-          "name": "Eliane Silva",
-          "url": "https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs"
-        }
-      ],
-      "duration_ms": 336438,
-      "name": "No Tempo Certo",
-      "url": "https://open.spotify.com/track/3pq7EX35ipQzIneMCTt8MZ"
-    },
-    {
-      "added_at": "2022-09-30 13:09:27",
-      "album": {
         "name": "Soldado Ferido (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Y446NueL5hkuNN41Nvtu7"
       },
@@ -1183,18 +1195,18 @@
     {
       "added_at": "2022-09-30 13:09:27",
       "album": {
-        "name": "O Desfecho",
-        "url": "https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU"
+        "name": "No Tempo Certo",
+        "url": "https://open.spotify.com/album/5jh4nKyFyQmuLcYjwpfOBT"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+          "name": "Eliane Silva",
+          "url": "https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs"
         }
       ],
-      "duration_ms": 308059,
-      "name": "O Desfecho",
-      "url": "https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo"
+      "duration_ms": 336438,
+      "name": "No Tempo Certo",
+      "url": "https://open.spotify.com/track/3pq7EX35ipQzIneMCTt8MZ"
     },
     {
       "added_at": "2022-09-30 13:09:27",
@@ -1229,32 +1241,20 @@
       "url": "https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye"
     },
     {
-      "added_at": "2022-10-12 01:31:52",
+      "added_at": "2022-09-30 13:09:27",
       "album": {
-        "name": "Adorarei",
-        "url": "https://open.spotify.com/album/1EI39CSfZIwDWQ0qjd8HUS"
+        "name": "O Desfecho",
+        "url": "https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU"
       },
       "artists": [
         {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        },
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 379560,
-      "name": "Adorarei",
-      "url": "https://open.spotify.com/track/1IrOfZTENgD6zd7ijPl2bB"
+      "duration_ms": 308059,
+      "name": "O Desfecho",
+      "url": "https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo"
     },
     {
       "added_at": "2022-09-30 13:09:27",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-09-30 13:09:27",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/0uZHHtKPIXyIhZNsT6Ur55"
-      },
-      "artists": [
-        {
-          "name": "Eliane Silva",
-          "url": "https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs"
-        }
-      ],
-      "duration_ms": 272952,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/6XyL1cVqrfox76QZODQ22t"
-    },
-    {
-      "added_at": "2022-09-30 13:09:27",
-      "album": {
         "name": "Aquietai-Vos",
         "url": "https://open.spotify.com/album/3SbU3TxwgCGrUAUTOagd0o"
       },
@@ -1359,22 +1343,6 @@
     {
       "added_at": "2022-09-30 13:09:27",
       "album": {
-        "name": "Acredite",
-        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 304210,
-      "name": "Acredite",
-      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
-    },
-    {
-      "added_at": "2022-09-30 13:09:27",
-      "album": {
         "name": "Chore pra Deus",
         "url": "https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb"
       },
@@ -1387,6 +1355,38 @@
       "duration_ms": 282888,
       "name": "Chore pra Deus",
       "url": "https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh"
+    },
+    {
+      "added_at": "2022-09-30 13:09:27",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/0uZHHtKPIXyIhZNsT6Ur55"
+      },
+      "artists": [
+        {
+          "name": "Eliane Silva",
+          "url": "https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs"
+        }
+      ],
+      "duration_ms": 272952,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/6XyL1cVqrfox76QZODQ22t"
+    },
+    {
+      "added_at": "2022-09-30 13:09:27",
+      "album": {
+        "name": "Basta uma Palavra",
+        "url": "https://open.spotify.com/album/1ZgQqx0JZRWhsRFwluUwlk"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Azevedo Oficial",
+          "url": "https://open.spotify.com/artist/29C07hDeBxC0pbCDWiwXYE"
+        }
+      ],
+      "duration_ms": 239523,
+      "name": "Basta uma Palavra",
+      "url": "https://open.spotify.com/track/0N5lJZVZ2fnAUcNH921nDL"
     },
     {
       "added_at": "2022-09-30 13:09:27",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2022-09-30 13:09:27",
       "album": {
-        "name": "Basta uma Palavra",
-        "url": "https://open.spotify.com/album/1ZgQqx0JZRWhsRFwluUwlk"
+        "name": "Acredite",
+        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Azevedo Oficial",
-          "url": "https://open.spotify.com/artist/29C07hDeBxC0pbCDWiwXYE"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 239523,
-      "name": "Basta uma Palavra",
-      "url": "https://open.spotify.com/track/0N5lJZVZ2fnAUcNH921nDL"
+      "duration_ms": 304210,
+      "name": "Acredite",
+      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
     },
     {
       "added_at": "2022-09-30 13:09:27",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-09-30 13:09:27",
       "album": {
-        "name": "Ele Te Escolheu",
-        "url": "https://open.spotify.com/album/4U8TNmrXVreBkDM1VSBaIn"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ele Te Escolheu",
-      "url": "https://open.spotify.com/track/0ht6st5Jxh3s6GAaFTdM8b"
-    },
-    {
-      "added_at": "2022-09-30 13:09:27",
-      "album": {
         "name": "Maior Esperan\u00e7a",
         "url": "https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd"
       },
@@ -1485,7 +1469,7 @@
       "url": "https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO"
     },
     {
-      "added_at": "2022-10-12 01:31:52",
+      "added_at": "2022-10-13 01:23:26",
       "album": {
         "name": "A Vit\u00f3ria Chegou",
         "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
@@ -1499,6 +1483,22 @@
       "duration_ms": 238167,
       "name": "A Vit\u00f3ria Chegou",
       "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+    },
+    {
+      "added_at": "2022-09-30 13:09:27",
+      "album": {
+        "name": "Ele Te Escolheu",
+        "url": "https://open.spotify.com/album/4U8TNmrXVreBkDM1VSBaIn"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ele Te Escolheu",
+      "url": "https://open.spotify.com/track/0ht6st5Jxh3s6GAaFTdM8b"
     }
   ],
   "unique_name": "Louvores Pentecostais",

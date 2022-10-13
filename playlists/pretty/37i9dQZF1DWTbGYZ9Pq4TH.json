@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 157697,
+  "num_followers": 157728,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMGZhZDI3ZjYzNGNkNWVmMmQ3ZTNkZjM3NzVlY2I4ZDJj",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMGM4MTU4ZTBmMDBmM2RjY2Y4YzExN2RjOTZkYWE5YTE2",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 282720,
-      "name": "Senza Parole",
-      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Concedimi",
         "url": "https://open.spotify.com/album/3aunYOAreqjC6cdHn6iOaJ"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Un'emozione per sempre",
-      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+      "duration_ms": 282720,
+      "name": "Senza Parole",
+      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -475,6 +459,22 @@
       "duration_ms": 249417,
       "name": "Questa nostra stupida canzone d'amore",
       "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Un'emozione per sempre",
+      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "A Te",
-      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Sorriso (Milano Dateo)",
         "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 177145,
       "name": "Sorriso (Milano Dateo)",
       "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 264240,
+      "name": "A Te",
+      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
     },
     {
       "added_at": "2021-09-26 18:38:53",

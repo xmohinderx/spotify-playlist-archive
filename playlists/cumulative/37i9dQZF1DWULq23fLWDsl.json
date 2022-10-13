@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Star Of Love",
+        "url": "https://open.spotify.com/album/00v21bgN2da5KonMWEAMec"
+      },
+      "artists": [
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306440,
+      "name": "At Home",
+      "url": "https://open.spotify.com/track/3dXNrqnhNUPdrkvnj8TjvX"
+    },
+    {
+      "album": {
         "name": "Baby I'm Yours",
         "url": "https://open.spotify.com/album/0sCktPXUOt19W503or8h9b"
       },
@@ -387,7 +405,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 303653,
       "name": "Down in the Valley",
       "url": "https://open.spotify.com/track/7B2yGUDt0aHGP0YuP4c2iG"
@@ -903,7 +921,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX"
@@ -943,6 +961,24 @@
       "duration_ms": 271720,
       "name": "Lucidity",
       "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
+    },
+    {
+      "album": {
+        "name": "Meyrin Fields EP",
+        "url": "https://open.spotify.com/album/74Duvq6GksnldghnjwYRdB"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "Meyrin Fields",
+      "url": "https://open.spotify.com/track/0Em7kYMP9LGyRNc7KroJTZ"
     },
     {
       "album": {
@@ -1227,7 +1263,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/3nzXs8ynjIwQvmxjogvCYx"
@@ -1371,7 +1407,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 205213,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/30YMGz5pjtRaIjtQcpjn01"

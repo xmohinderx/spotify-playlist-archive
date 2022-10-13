@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-143 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
+150 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Fresh Air](https://open.spotify.com/track/1NFNa1nGPnwdmcHO5XQ7Ui) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE), [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Fresh Air](https://open.spotify.com/album/4OP99LS15fHzssETt4q6ce) | 3:30 | 2019-12-10 |  |
 | [Fresh Air](https://open.spotify.com/track/3gc6FK8cVsdSb3RIq21C8V) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE), [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Jackie](https://open.spotify.com/album/3GmLZdSugxGxuninHFvvk4) | 3:30 | 2019-12-10 | 2022-07-29 |
 | [Fuckboy](https://open.spotify.com/track/05XpoWw7JYRohKMRTnaWg9) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/2TRiBsR9hLYX1Zesd66AdU) | 3:00 | 2019-12-10 | 2022-07-29 |
-| [Fuckboy](https://open.spotify.com/track/2CEbsTJ0q3Z6ld2lkJ8Q8c) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/7a6357TgSeKzQsTU9eLdf9) | 3:00 | 2019-12-10 |  |
+| [Fuckboy](https://open.spotify.com/track/2CEbsTJ0q3Z6ld2lkJ8Q8c) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/7a6357TgSeKzQsTU9eLdf9) | 3:00 | 2019-12-10 | 2022-10-13 |
+| [Fuckboy](https://open.spotify.com/track/78qLNsfY3uVO1B40fcQMmA) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/5qdP91YC6kTRH0CXGunKxl) | 3:00 | 2019-12-10 |  |
 | [Give Me a Chance](https://open.spotify.com/track/1m6DIPiI6vkoCRoJLLcH7n) | [Hish](https://open.spotify.com/artist/3LnJf5WXTmQY4MbPPReA1F) | [Give Me a Chance](https://open.spotify.com/album/5k60WuJUWFPopkEGoMbLAa) | 3:07 | 2019-12-10 |  |
 | [glitter](https://open.spotify.com/track/5Oc9SrrW1BICBePI1MF4OB) | [Zac Greer](https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz) | [glitter](https://open.spotify.com/album/6JAFdHAdf99vu5WGOsPjJM) | 2:45 | 2019-12-10 |  |
 | [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 | 2019-12-10 |  |
@@ -77,7 +78,8 @@
 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 | 2019-12-10 |  |
 | [I Don't Care](https://open.spotify.com/track/2Ni252QabsHI8nq6K30aV9) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [I Don't Care](https://open.spotify.com/album/1hdsybfpeNL3lLXFOXZXfq) | 2:56 | 2019-12-10 |  |
 | [i don't miss u](https://open.spotify.com/track/5WgdCkTa3l9GznpPQaQH6W) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:58 | 2019-12-10 |  |
-| [i don't think i love you anymore](https://open.spotify.com/track/1saZ5nnaCWBjOK09izEK9c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/2LQ2jwXMR5yG9SBfVR6FwG) | 3:49 | 2019-12-10 |  |
+| [i don't think i love you anymore](https://open.spotify.com/track/1saZ5nnaCWBjOK09izEK9c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/2LQ2jwXMR5yG9SBfVR6FwG) | 3:49 | 2019-12-10 | 2022-10-13 |
+| [i don't think i love you anymore](https://open.spotify.com/track/43rHcWvKMlLGWMmJFjCk7I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/40o9ndikNL2d6j4w9hJP01) | 3:49 | 2019-12-10 |  |
 | [Icing on the Cake](https://open.spotify.com/track/2Yfk1z6IWQFzczDAt8kr6G) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [2nd](https://open.spotify.com/album/6MECuIrDtZP9R0bVekN6sQ) | 1:56 | 2019-12-10 | 2022-07-29 |
 | [Icing on the Cake](https://open.spotify.com/track/5vgag6LYnA7LhlUw6u4K5T) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [2nd](https://open.spotify.com/album/1NNr44atY90LWvAcDcwqMU) | 1:56 | 2019-12-10 |  |
 | [In My Head](https://open.spotify.com/track/7H5jn1FKEhUGbewLxXNGNE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Hasta La Vista](https://open.spotify.com/album/4orC5HDPd0VTsaWs5vNMtb) | 2:20 | 2019-12-10 |  |
@@ -89,8 +91,10 @@
 | [Liar](https://open.spotify.com/track/3RZrvN10qqiNa9BIVd0d8w) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Liar](https://open.spotify.com/album/1WGC3tZw74moco9cEfYKKw) | 2:26 | 2019-12-10 | 2022-07-29 |
 | [Liar](https://open.spotify.com/track/53yWQ1FObrwPlVYCZdR6es) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Liar](https://open.spotify.com/album/55aI0Y84kAkGiqk8Y7BPGp) | 2:26 | 2019-12-10 |  |
 | [Light Personified](https://open.spotify.com/track/1qtRjq4lKqilxJCQErodW8) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CcRPXoDJ6gDw3g27gjy8u) | 3:20 | 2019-12-10 |  |
-| [Limbo](https://open.spotify.com/track/6VVr03DVlC6rqp8uFTPVUx) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/4ciSUimSqK6DSbeAuBDm5Q) | 3:44 | 2019-12-10 |  |
-| [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2019-12-10 |  |
+| [Limbo](https://open.spotify.com/track/3QFoimz3M85b96Qo3UwfFN) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/0ZHHeDr94cRR3fitDONgge) | 3:44 | 2019-12-10 |  |
+| [Limbo](https://open.spotify.com/track/6VVr03DVlC6rqp8uFTPVUx) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/4ciSUimSqK6DSbeAuBDm5Q) | 3:44 | 2019-12-10 | 2022-10-13 |
+| [Little Bit](https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:46 | 2019-12-10 |  |
+| [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2019-12-10 | 2022-10-13 |
 | [Luzon](https://open.spotify.com/track/0vInsOPBHyqtF5KYmyiNsv) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Luzon](https://open.spotify.com/album/3uWdP1qbPaBmVx1BEEtSLc) | 3:01 | 2019-12-10 |  |
 | [Make You Wait](https://open.spotify.com/track/0s58Xx9kQFoujKAuWM5k04) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Three, Fever](https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu) | 3:00 | 2019-12-10 |  |
 | [Meaner Girl](https://open.spotify.com/track/75Ybs07OwRvhRE1kedAhv5) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Self Aware Bitch](https://open.spotify.com/album/3AhOyLa5HZSJE0vb8ot3bn) | 3:11 | 2019-12-10 |  |
@@ -103,10 +107,12 @@
 | [My Love](https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [My Love](https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE) | 3:59 | 2019-12-10 |  |
 | [No More](https://open.spotify.com/track/3MuGGKbW1ts6LOeWtsLI7p) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [No More](https://open.spotify.com/album/2KLXHDskQC5i3aWFPzWBWi) | 3:06 | 2019-12-10 | 2022-07-29 |
 | [No More](https://open.spotify.com/track/6T3Yt7O6rxpeiRF1dxODQL) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [No More](https://open.spotify.com/album/4UCY9M6aQm4RikN8BsptLI) | 3:06 | 2019-12-10 |  |
-| [Rewind](https://open.spotify.com/track/5Lp117p0NotCBlMHVxdizb) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Rewind](https://open.spotify.com/album/6jNYBvQbwW6I4tjVBqvJf6) | 2:52 | 2019-12-10 |  |
+| [Rewind](https://open.spotify.com/track/3mDU9150jy8FYm8BtImUSw) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Rewind](https://open.spotify.com/album/1joaXuyfiUhkxYZyFeI9jH) | 2:52 | 2019-12-10 |  |
+| [Rewind](https://open.spotify.com/track/5Lp117p0NotCBlMHVxdizb) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Rewind](https://open.spotify.com/album/6jNYBvQbwW6I4tjVBqvJf6) | 2:52 | 2019-12-10 | 2022-10-13 |
 | [Rewind](https://open.spotify.com/track/6eZo2NQF38Ir58bQgXOf5W) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Rewind](https://open.spotify.com/album/2JdaxFKa5lnYAiSv29sCHv) | 2:52 | 2019-12-10 | 2022-07-29 |
 | [Riding With Me](https://open.spotify.com/track/2gZCXOYWtv3i7bhl870Bqa) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Riding With Me](https://open.spotify.com/album/3v1hXdqqnxJkVDZi9R1pjB) | 2:56 | 2019-12-10 |  |
-| [Rollin' Stone](https://open.spotify.com/track/3wXw9CsZsxca37dbzHUx4g) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [No Roof Access](https://open.spotify.com/album/51HUVGcLT7SjgNStg8JgWt) | 3:14 | 2019-12-10 |  |
+| [Rollin' Stone](https://open.spotify.com/track/3kNC4RXL1bGLzeLIL4e30X) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [No Roof Access](https://open.spotify.com/album/1GJTZ0fSwgf4ZKXdhhCpkS) | 3:14 | 2019-12-10 |  |
+| [Rollin' Stone](https://open.spotify.com/track/3wXw9CsZsxca37dbzHUx4g) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [No Roof Access](https://open.spotify.com/album/51HUVGcLT7SjgNStg8JgWt) | 3:14 | 2019-12-10 | 2022-10-13 |
 | [Run Tings \(feat\. Dounia\)](https://open.spotify.com/track/0wYYZ1ag9YbdVKFxoWo6yO) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU), [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Press L To Continue](https://open.spotify.com/album/0kYqF9RnizQlTrVpIrRmac) | 2:49 | 2019-12-10 |  |
 | [Runaway Man](https://open.spotify.com/track/2bbG9OmvZLCsdWoRu7rj2m) | [Olivia Willhite](https://open.spotify.com/artist/70Mu5ttTV5XTLxs4uzF0H0) | [Runaway Man](https://open.spotify.com/album/1kSqEoIqznzirT0Gi4IxzW) | 3:09 | 2019-12-10 |  |
 | [Shawty](https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Shawty](https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes) | 3:17 | 2019-12-10 |  |
@@ -149,7 +155,8 @@
 | [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 | 2019-12-10 |  |
 | [Wishing For Rain](https://open.spotify.com/track/1avc8BMkZ9fJrlhD5WzaP0) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Wishing For Rain](https://open.spotify.com/album/2bJe3ugOMGWQ899OBo524F) | 3:17 | 2019-12-10 |  |
 | [Your Hands](https://open.spotify.com/track/0gUGTaVTrXhweOk3vZFySa) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Your Hands](https://open.spotify.com/album/7cMcp1gBGc0vrtSBfI0bo5) | 2:51 | 2019-12-10 | 2022-07-29 |
-| [Your Hands](https://open.spotify.com/track/2vPxpS0gx5neWILuBiP1UV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [New Girl](https://open.spotify.com/album/57fLue2W4EdREmLLiPTPwT) | 2:51 | 2019-12-10 |  |
+| [Your Hands](https://open.spotify.com/track/2vPxpS0gx5neWILuBiP1UV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [New Girl](https://open.spotify.com/album/57fLue2W4EdREmLLiPTPwT) | 2:51 | 2019-12-10 | 2022-10-13 |
+| [Your Hands](https://open.spotify.com/track/3FoI03BV37v8z8M6stIwuq) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [New Girl](https://open.spotify.com/album/4vOlKuqbW1IAoAI8ykk7l7) | 2:51 | 2019-12-10 |  |
 | [Your Love](https://open.spotify.com/track/1KsWS1hACIVyT3PeluqkAt) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF) | [Your Love](https://open.spotify.com/album/6yerbMzLaLIDMy9cMdjlaJ) | 3:20 | 2019-12-10 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

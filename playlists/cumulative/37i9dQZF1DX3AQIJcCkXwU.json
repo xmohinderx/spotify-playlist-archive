@@ -1153,6 +1153,24 @@
     {
       "album": {
         "name": "Devotion 1: Blessings of the Heart",
+        "url": "https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub"
+      },
+      "artists": [
+        {
+          "name": "Ben Leinbach",
+          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513546,
+      "name": "Mother's Wingspan",
+      "url": "https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G"
+    },
+    {
+      "album": {
+        "name": "Devotion 1: Blessings of the Heart",
         "url": "https://open.spotify.com/album/3vERpdSCKMGDzreizY178B"
       },
       "artists": [
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 513546,
       "name": "Mother's Wingspan",
       "url": "https://open.spotify.com/track/58j7x742K2P6jhthofQwBp"
@@ -2303,10 +2321,28 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 304594,
       "name": "Your Daily Practice: Yoga",
       "url": "https://open.spotify.com/track/3TJu7LDVWY1WoYxVuClXtD"
+    },
+    {
+      "album": {
+        "name": "Your Daily Practice: Yoga",
+        "url": "https://open.spotify.com/album/5ZYUi8YTn1mabqL9QjUAD0"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304594,
+      "name": "Your Daily Practice: Yoga",
+      "url": "https://open.spotify.com/track/7qrYHP8c8pmHUbgtk8LBGs"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1SOULFIA y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9515,
+  "num_followers": 9522,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMGExYmI2MzE5NGVlZWUwMGJjZmUxZGZlYzY5NzVlNWU0",
+  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMDhhNTRmZmYwMWQ4M2UzY2ZiYTc1Yjk4YmUzMjkyYjQ2",
   "tracks": [
     {
       "added_at": "2022-10-05 03:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "Besame",
-        "url": "https://open.spotify.com/album/5i9XwsUbqZaBDtlFroAJ4B"
-      },
-      "artists": [
-        {
-          "name": "Dainesitta",
-          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
-        }
-      ],
-      "duration_ms": 178727,
-      "name": "Besame",
-      "url": "https://open.spotify.com/track/4SCZZqR0xUoG8PcY9CuDzY"
-    },
-    {
-      "added_at": "2022-10-05 03:01:00",
-      "album": {
         "name": "Romper Platos",
         "url": "https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 184516,
       "name": "Rika",
       "url": "https://open.spotify.com/track/2YflQd7qpTRWkk0HwrNgov"
+    },
+    {
+      "added_at": "2022-10-05 03:01:00",
+      "album": {
+        "name": "Besame",
+        "url": "https://open.spotify.com/album/5i9XwsUbqZaBDtlFroAJ4B"
+      },
+      "artists": [
+        {
+          "name": "Dainesitta",
+          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
+        }
+      ],
+      "duration_ms": 178727,
+      "name": "Besame",
+      "url": "https://open.spotify.com/track/4SCZZqR0xUoG8PcY9CuDzY"
     },
     {
       "added_at": "2022-10-05 03:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u"
-      },
-      "artists": [
-        {
-          "name": "Anto Bosman",
-          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
-        }
-      ],
-      "duration_ms": 188076,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc"
-    },
-    {
-      "added_at": "2022-10-05 03:01:00",
-      "album": {
         "name": "TYF",
         "url": "https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA"
       },
@@ -735,22 +719,18 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "No me dejar\u00e9 caer",
-        "url": "https://open.spotify.com/album/29PpuwqvwZEOJP1eEsDmqR"
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u"
       },
       "artists": [
         {
-          "name": "Nihla",
-          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
-        },
-        {
-          "name": "Saito ape",
-          "url": "https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1"
+          "name": "Anto Bosman",
+          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
         }
       ],
-      "duration_ms": 156734,
-      "name": "No me dejar\u00e9 caer",
-      "url": "https://open.spotify.com/track/4pv1VaZa5hxAWsdn1NFLlE"
+      "duration_ms": 188076,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc"
     },
     {
       "added_at": "2022-10-05 03:01:00",
@@ -775,6 +755,26 @@
       "duration_ms": 247653,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/43obEvBKQz14FjoM90fdxX"
+    },
+    {
+      "added_at": "2022-10-05 03:01:00",
+      "album": {
+        "name": "No me dejar\u00e9 caer",
+        "url": "https://open.spotify.com/album/29PpuwqvwZEOJP1eEsDmqR"
+      },
+      "artists": [
+        {
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        },
+        {
+          "name": "Saito ape",
+          "url": "https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "No me dejar\u00e9 caer",
+      "url": "https://open.spotify.com/track/4pv1VaZa5hxAWsdn1NFLlE"
     },
     {
       "added_at": "2022-10-05 03:01:00",

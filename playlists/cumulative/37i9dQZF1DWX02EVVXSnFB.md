@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-51 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/32ANKGPpQYwIXwf7rAOEGQ)
+53 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/32ANKGPpQYwIXwf7rAOEGQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,12 @@
 | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/track/0qjOgJ8BLIt5d9VgYEYq75) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/album/0W5rlGoHNrLwN35NG1HtTw) | 2:57 | 2022-03-23 |  |
 | [Controversy](https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 7:15 | 2022-03-23 |  |
 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 | 2022-03-23 |  |
-| [Dance](https://open.spotify.com/track/7AYYU5KQb4yjWyLEemiDc9) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/4HnqIIxtcFAuUqFX4soPVM) | 2:45 | 2022-03-23 |  |
+| [Dance](https://open.spotify.com/track/0h20OvcHKLzhEiQBY4Xgqe) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/7q65VftPY7x1F8bHHnKvvw) | 2:45 | 2022-03-23 |  |
+| [Dance](https://open.spotify.com/track/7AYYU5KQb4yjWyLEemiDc9) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/4HnqIIxtcFAuUqFX4soPVM) | 2:45 | 2022-03-23 | 2022-10-13 |
 | [Dance, Dance, Dance \(Disco Version\)](https://open.spotify.com/track/6chkDKDiskOeKnctKVO5GK) | [Marta Acuna](https://open.spotify.com/artist/3GfLu9GKQxKZCzKLy1Dggn) | [Dance, Dance, Dance](https://open.spotify.com/album/3DWpUoxqqPH6DWr1ToXyZb) | 6:15 | 2022-03-23 |  |
 | [Disco Sole](https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:23 | 2022-03-23 |  |
-| [Dopamine](https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt) | 4:03 | 2022-03-23 |  |
+| [Dopamine](https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd) | 4:03 | 2022-03-23 |  |
+| [Dopamine](https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt) | 4:03 | 2022-03-23 | 2022-10-13 |
 | [EQUILIBRIUM](https://open.spotify.com/track/2GnhkfBcDsFdG1MQILHM3j) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [EQUILIBRIUM](https://open.spotify.com/album/5e3V72rf9cvVg8hMS5UvHH) | 4:49 | 2022-03-23 |  |
 | [Fallin' Apart](https://open.spotify.com/track/2qKmnm0cEXnvD82C6Sr2hs) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Fallin' Apart](https://open.spotify.com/album/7LK33wpZ5LmLwWkCMxDXdp) | 2:04 | 2022-03-23 |  |
 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0yU8ftsMI0LDMtee8TDsDR) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/album/0CttfgSuHvMSFKshmwa8vb) | 4:05 | 2022-03-23 |  |

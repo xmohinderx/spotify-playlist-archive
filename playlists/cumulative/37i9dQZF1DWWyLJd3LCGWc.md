@@ -4,7 +4,7 @@
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-51 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/513tfrlbDdecPO8RvqG20y)
+52 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/513tfrlbDdecPO8RvqG20y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Guap](https://open.spotify.com/track/03fEtr50LVz8QDZBynTYZh) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/1TeREorFy8BVBPlu7MDrPB) | 5:40 | 2021-06-01 | 2022-07-29 |
 | [Guap](https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 5:40 | 2021-06-01 |  |
 | [Hype Beast](https://open.spotify.com/track/6whBYdE8GepAR0X27SuYXo) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5) | [Snack Time](https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG) | 2:35 | 2021-06-01 |  |
-| [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 | 2021-06-01 |  |
+| [IN IN IN](https://open.spotify.com/track/3APSXl8dTTumv9L1HHpCCV) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:17 | 2021-06-01 |  |
+| [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 | 2021-06-01 | 2022-10-13 |
 | [IN THE AIR](https://open.spotify.com/track/63Nh9nDjrK0YB3BaMDN9v6) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [CRY 4 HELP](https://open.spotify.com/album/3a9TkAd9pVKebwqaGrQw0n) | 4:21 | 2021-06-01 |  |
 | [Jimmy](https://open.spotify.com/track/60r0mEqH580d1kYWGeEpwM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:29 | 2021-06-01 |  |
 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 | 2021-06-01 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-850 songs - 1 day 15 hr 41 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+851 songs - 1 day 15 hr 43 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Cheat Code](https://open.spotify.com/track/4K0ELLoquGS6aTRRom52zv) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Sense Of Human](https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm) | 2:12 | 2021-10-17 | 2021-10-18 |
 | [Christmas EveL](https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 2:58 | 2021-12-02 | 2021-12-03 |
 | [Close Eyes](https://open.spotify.com/track/7BNWWI6aZPLkYCfRat8HuD) | [Chego1963](https://open.spotify.com/artist/5UkiJi6aTQnJeqCrsGEAt7), [onurxt](https://open.spotify.com/artist/1Sl3NqTA49ay9Cb1ANXQog), [Rylixe](https://open.spotify.com/artist/57wNgV40K2oSH5KyzvVw1F) | [Close Eyes](https://open.spotify.com/album/6phw9EwZgc6h5tmiIRndVe) | 2:12 | 2022-04-10 | 2022-04-22 |
-| [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-06-27 |  |
+| [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-06-27 | 2022-10-13 |
 | [Close Eyes](https://open.spotify.com/track/4cboAOd9H48uPTWknVyLBq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/5A4ufdNeSzNjZePkkZrhcO) | 2:12 | 2021-06-16 | 2021-06-27 |
 | [Close Eyes](https://open.spotify.com/track/220oA415Hr87iYECBgabgE) | [KaSuo](https://open.spotify.com/artist/5XzfL0Zz0gVDDw9aOEtlhn) | [Close Eyes](https://open.spotify.com/album/6vTv8avMRDNfVHZQPAH9aN) | 2:12 | 2022-04-28 | 2022-04-30 |
 | [Codeinoslav](https://open.spotify.com/track/0pgbIUVOfAUml2rYrf4hcz) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [Codeinoslav](https://open.spotify.com/album/5lbBiquAaFHQq63Q9lpcSY) | 1:49 | 2022-07-23 | 2022-08-21 |
@@ -292,6 +292,7 @@
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-18 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-10-02 |
 | [Playa](https://open.spotify.com/track/3E5Ny10emcMLPk6Myhiu0Q) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [First Day Out](https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY) | 3:12 | 2022-07-01 | 2022-07-10 |
+| [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-12 |  |
 | [PON PON](https://open.spotify.com/track/3p10tSGpNwEO0DQTo7brsb) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ROOMINATION](https://open.spotify.com/album/7ofd6S4JDREJIPbLqMqWK1) | 2:50 | 2021-12-16 | 2021-12-18 |
 | [Popa Yana](https://open.spotify.com/track/00I0reI4XO1h9goVaUbN9d) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [MEDIV Luff N Sip](https://open.spotify.com/album/6oKn91CSNeDdZHyc2VQnyh) | 2:02 | 2022-08-20 | 2022-08-24 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-16 | 2021-12-19 |
@@ -544,7 +545,7 @@
 | [Дрейдл](https://open.spotify.com/track/7b00YlvjOe9I4Qirj3F2fB) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:25 | 2021-12-04 | 2021-12-06 |
 | [ДРЕССКОД](https://open.spotify.com/track/1QyvurbWtrlEUK1ZnyHsyH) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl) | [ДРЕССКОД](https://open.spotify.com/album/0s6IIJX7DoCrivBPrs8otg) | 2:00 | 2021-10-10 | 2021-10-31 |
 | [ДУЛО](https://open.spotify.com/track/2Db7e6H4R5XXnyuTtxUggp) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ДУЛО](https://open.spotify.com/album/6f2VuDAHzWpNAjEN5QxeOH) | 2:06 | 2021-05-09 | 2021-07-28 |
-| [Думи](https://open.spotify.com/track/3bKxhUuoRvSRwIdyZfQa3F) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Думи](https://open.spotify.com/album/2y2j37kI9RbPyLWZoCTtup) | 2:45 | 2022-06-08 | 2022-10-12 |
+| [Думи](https://open.spotify.com/track/3bKxhUuoRvSRwIdyZfQa3F) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Думи](https://open.spotify.com/album/2y2j37kI9RbPyLWZoCTtup) | 2:45 | 2022-06-08 |  |
 | [Если я спал с тобой](https://open.spotify.com/track/6UsqOehjmlpuWqo9ghiIrP) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ДО ТОГО КАК СТАЛ ИЗВЕСТЕН](https://open.spotify.com/album/3pZQRzdfyMxZHTimg1yGSo) | 3:35 | 2021-07-04 | 2021-07-06 |
 | [Жальменiна](https://open.spotify.com/track/4WDasHtnmPeZr17S2OvFKH) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [\#Ідиназвук](https://open.spotify.com/album/0rZDKDmMcweiFIHsc2r7yl) | 3:43 | 2022-03-24 | 2022-04-10 |
 | [Жизнь не Голливуд](https://open.spotify.com/track/5gHtv8AcvKadJWzalS8w2Q) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 5:05 | 2021-12-18 | 2021-12-19 |
@@ -714,7 +715,7 @@
 | [Птичка](https://open.spotify.com/track/6Abmb1Nh7Bc5U6o4iEgSDH) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [Птичка](https://open.spotify.com/album/1jODMZb23tkxLfaDHcgnse) | 3:10 | 2021-05-23 | 2021-10-20 |
 | [Пушка](https://open.spotify.com/track/3UlGli59XnXKdaocUFn0gw) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Пушка](https://open.spotify.com/album/4R38tSYY31xhqOFincgFb0) | 3:23 | 2021-06-28 | 2021-09-30 |
 | [Рамок нет](https://open.spotify.com/track/5hxp2TrctRjKSvu9LDhjsS) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:50 | 2021-04-29 | 2021-05-03 |
-| [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 |  |
+| [Рассвет](https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu) | [КАКАЯ РАЗНИЦА](https://open.spotify.com/artist/1QljgLVnBEZge237LSpemA) | [Рассвет](https://open.spotify.com/album/7MNBXNVJoXx5TiSrk2YJp9) | 2:04 | 2022-01-08 | 2022-10-13 |
 | [Расстояние](https://open.spotify.com/track/10sZQtPs0nGSQOl8usFePV) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:05 | 2021-04-10 | 2021-04-11 |
 | [Рашн Роуд Рейдж](https://open.spotify.com/track/0zkmYBCfhQQ4GObqz2HQG3) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:38 | 2021-12-03 | 2021-12-06 |
 | [Ребром](https://open.spotify.com/track/2aQgGle0AyaUEA70sA9Nnf) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [NO BANG! HOLD ON!](https://open.spotify.com/album/7uLeEgq6ndnivtW6Kwh5ar) | 2:18 | 2022-03-26 | 2022-03-28 |

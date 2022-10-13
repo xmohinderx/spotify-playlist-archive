@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,358 likes - 81 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,342 likes - 81 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 10 | [Baby Why](https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau) | 5:14 |
 | 11 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
 | 12 | [Not Another Drop](https://open.spotify.com/track/0lIZwOOHDL1eNr45rbrrKH) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Kings Left Behind](https://open.spotify.com/album/3xtjT9ABeqldfL6SysRIoI) | 3:56 |
-| 13 | [Crashed My Bike](https://open.spotify.com/track/4Kqa4GdRQux0hEXtHzfd6x) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/7txeejhG7IZECo9VLTNO8b) | 3:03 |
+| 13 | [Crashed My Bike](https://open.spotify.com/track/0DX6TehELIsI9N3wKAM0fV) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/2pRVYKpvfRzCCGCEImrvTr) | 3:03 |
 | 14 | [Come On](https://open.spotify.com/track/5pc6PL2JYnJ8tvyW2ciinU) | [The 4th Coming](https://open.spotify.com/artist/1CeSvNOGIf68AZ9MH1zwhr) | [Strange Things \(The Complete Works, 1970 \- 1974\)](https://open.spotify.com/album/4kwIasWUTsii5bSXUFFlDT) | 2:57 |
 | 15 | [Let it Burn](https://open.spotify.com/track/3QH0vAK0h4L9pOZZdHX5YY) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Let it Burn](https://open.spotify.com/album/5A3Pw3CQl7DSX26vMeOTCC) | 6:03 |
 | 16 | [After After](https://open.spotify.com/track/2MVypWL5Lbz5lOKmB2wyRj) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/799SiIngfx9kQtEC1jcert) | [Quatermass Seven](https://open.spotify.com/album/0XEty5HBu5XeQGuSQcezxI) | 8:10 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 80 | [Never Gonna Let You Go](https://open.spotify.com/track/2Im4WHEm20ByCq5AhgshXr) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:31 |
 | 81 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMDQxOTA4NjAzNWI3MTFiOWM5MjVlYWMxM2Y0NzRiZjgz`
+Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMGM3NjJiOTI3Y2Q3Zjk1YzBhNWNjZmYyZjdiM2I2Nzcx`

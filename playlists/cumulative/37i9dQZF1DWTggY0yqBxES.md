@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Kenny Mason
 
-268 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
+269 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Peso](https://open.spotify.com/track/6oqRowe5lMSV62jZwar1VO) | [Lance Skiiiwalker](https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Tales From The Telescope Chapter 2: Internal Shine](https://open.spotify.com/album/08MjfVgkdqINsqCeY67xaG) | 3:10 | 2021-12-17 | 2022-07-29 |
 | [Plead The .45th](https://open.spotify.com/track/2iY7S7JW6JCh0N6qZIFWWL) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Judas and the Black Messiah: The Inspired Album](https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz) | 2:20 | 2021-09-03 | 2022-07-26 |
 | [Point and Kill](https://open.spotify.com/track/2JVkNlfC5n7KvsaXAQdfIs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Point and Kill](https://open.spotify.com/album/4X0qkXpSENN8uzENjrxY0b) | 3:05 | 2022-03-25 | 2022-04-21 |
+| [Point and Kill](https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:05 | 2022-10-07 |  |
 | [Point God](https://open.spotify.com/track/2GdalCMhRsci19qs8yjCZc) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L), [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Point God](https://open.spotify.com/album/5Rj9y2OkoTogv1La20MgLG) | 2:37 | 2022-06-17 | 2022-07-23 |
 | [Pomegranate](https://open.spotify.com/track/1jNKhbKmDgYSHHSCEeMXey) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 2](https://open.spotify.com/album/0nJ5saIxlohpcXqBR586pH) | 1:49 | 2021-09-03 |  |
 | [Popeye](https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/3xrOFa0RU14V1b9gIH1NQN) | 2:54 | 2021-09-03 | 2022-07-27 |
@@ -206,7 +207,7 @@
 | [Rollin Wit The Homies \(feat\. Buddy\)](https://open.spotify.com/track/2X1WUhn4giE70wOXg6BTcR) | [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Rollin Wit The Homies \(feat\. Buddy\)](https://open.spotify.com/album/3Kj2ZkKAGpd81rX3KQy3Wu) | 4:03 | 2022-04-29 | 2022-07-29 |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 1:42 | 2022-09-02 |  |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/3rGkm51Yn7ynxGmGcNC5De) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/3ZFgX4IgUylPhDOKFatHKL) | 1:42 | 2022-07-29 | 2022-08-04 |
-| [RUN THE WORLD](https://open.spotify.com/track/24O46adSE5SxxOthWe28AC) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [RUN THE WORLD](https://open.spotify.com/album/06spODPScUqLi5jMPKq93q) | 2:58 | 2021-09-03 |  |
+| [RUN THE WORLD](https://open.spotify.com/track/24O46adSE5SxxOthWe28AC) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [RUN THE WORLD](https://open.spotify.com/album/06spODPScUqLi5jMPKq93q) | 2:58 | 2021-09-03 | 2022-10-13 |
 | [Running With The Angels](https://open.spotify.com/track/7nXTQjl7BGAhhWTqVsYXo6) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Tia P.](https://open.spotify.com/artist/7uFSEV6cpCa34EnVeJ2hE2) | [Running With The Angels](https://open.spotify.com/album/6Fjjj82WDhGnR287L6lHVi) | 2:20 | 2022-04-01 | 2022-04-15 |
 | [SIERRA NIGHTS \(feat\. Ryan Beatty\)](https://open.spotify.com/track/1CsLmXktvD3Cj04dPCtJNI) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [SIERRA NIGHTS \(feat\. Ryan Beatty\)](https://open.spotify.com/album/0msGRJHLXl4KB7GXJiKZSx) | 4:23 | 2021-09-03 | 2022-07-30 |
 | [signs](https://open.spotify.com/track/1YfqDbjEzIOmoSOEarcpGL) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [signs](https://open.spotify.com/album/3gfVDalK5kBVFZGrYNe9NC) | 2:35 | 2022-03-25 | 2022-04-20 |

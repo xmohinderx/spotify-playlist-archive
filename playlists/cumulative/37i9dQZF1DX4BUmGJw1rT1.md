@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-130 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/0ZYfVRCO1TPKQs9yo56rwb)
+131 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/0ZYfVRCO1TPKQs9yo56rwb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,9 +98,10 @@
 | [No Limit to My Love](https://open.spotify.com/track/51YhgKncpDg0Y9nB1eB7Ox) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [No Limit to My Love](https://open.spotify.com/album/4Rm5WNevoHC55Fez7NO5Mj) | 4:26 | 2022-05-25 | 2022-07-29 |
 | [No Mercy In This Land](https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:45 | 2022-05-25 |  |
 | [No Other Way](https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sunny Side Up](https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b) | 4:25 | 2022-05-25 |  |
-| [Oh Frustration](https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Oh Frustration](https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu) | 3:46 | 2022-10-03 |  |
+| [Oh Frustration](https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Oh Frustration](https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu) | 3:46 | 2022-10-03 | 2022-10-13 |
 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-05-25 |  |
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-05-25 |  |
+| [Pulling Down The Ride](https://open.spotify.com/track/1rFeL11BESHiNemWysu9eE) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7hhxms8KCwlQCWffIJpN9b) | 2:40 | 2022-10-03 |  |
 | [Pulling Down The Ride](https://open.spotify.com/track/2bZNey5v7dHTruDyAAgxVg) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7wa5uPSOSbDkqmv5oUS92V) | 2:40 | 2022-09-07 | 2022-09-21 |
 | [Pulling Down The Ride](https://open.spotify.com/track/7JOMqLn74IaT8TkETwBTwS) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/2ydEbiuezhkdsJwa3l7L19) | 2:40 | 2022-09-23 | 2022-10-09 |
 | [Real Contender](https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Real Contender](https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9) | 3:21 | 2022-07-08 |  |

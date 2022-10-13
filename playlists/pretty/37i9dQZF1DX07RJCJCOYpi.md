@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The leading wave of Latin Electronic music\. Cover: Luis R Conriquez, Rod Contreras, Tony Aguirre, Jay Silva
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739,047 likes - 71 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,739,023 likes - 71 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 13 | [MAMIII \- kryptogram Remix](https://open.spotify.com/track/46Lqs8FqqomRGmRmpm1Adx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [MAMIII \(kryptogram Remix\)](https://open.spotify.com/album/60CnppsgEGpKhlT4xV5TGz) | 3:29 |
 | 14 | [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 |
 | 15 | [Pa Ti Ya !](https://open.spotify.com/track/24ZWoKxAmcG06vBfv2yARt) | [Carlos Montesquieu](https://open.spotify.com/artist/6aUadgc3VIt06htkgXEMIA) | [Pa Ti Ya !](https://open.spotify.com/album/5Heeh3NtSDw5Wq73kiorub) | 2:43 |
-| 16 | [Sweet Potato](https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV) | 2:46 |
+| 16 | [Sweet Potato](https://open.spotify.com/track/37Irxjh40DtOug3lCHIwIa) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/5CAbEja62qpe4nzETlwQhg) | 2:46 |
 | 17 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |
 | 18 | [Me Medicaron \- Remix](https://open.spotify.com/track/64uTg0DPxkjGKwiLAdWTBz) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [8CHO](https://open.spotify.com/artist/51yzNnpk6vFEDz5qt8rmrM) | [Me Medicaron \(Remix\)](https://open.spotify.com/album/5nbQlyRsvBmnaombqh7o4n) | 3:22 |
 | 19 | [Siempre Happy](https://open.spotify.com/track/3aGf3ECy05mRNhthHjqlif) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ) | [Siempre Happy](https://open.spotify.com/album/3XhOTcxYjY05zs0m9rFmD6) | 3:34 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 39 | [A Solas \(House\)](https://open.spotify.com/track/5QhLerJoRUjlmi35DzQDd7) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Romances de una Nota 2021, Vol.2](https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T) | 3:21 |
 | 40 | [Nómada \(Viic Remix\)](https://open.spotify.com/track/4D3XtP9njTq47nrc0VXs08) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Nómada \(Viic Remix\)](https://open.spotify.com/album/3L19MWTcbsLDK5SZzrlFiP) | 2:25 |
 | 41 | [Gastar](https://open.spotify.com/track/7jZGELQvY3aZKaCIQVqwSY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:29 |
-| 42 | [Loco Toditos](https://open.spotify.com/track/3PCnoYjmTmOEZvTOopA8nJ) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB) | [Loco Toditos](https://open.spotify.com/album/3fLplolZzEdJ0BCg6gx7jL) | 4:19 |
+| 42 | [Loco Toditos](https://open.spotify.com/track/523MYItBrJ5NCxJMrSZTFI) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB) | [Loco Toditos](https://open.spotify.com/album/3Oo25Wcclg5ivALG00Dkpb) | 4:19 |
 | 43 | [Hace Calor \- Remix](https://open.spotify.com/track/7jfE42hjNY8zUuKKJlmBz6) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Hace Calor \(Remix\)](https://open.spotify.com/album/4CYQ2m9siG9HnQwzadPkcP) | 3:17 |
 | 44 | [Fenix \- Radio Edit](https://open.spotify.com/track/1kATj4UD3ZO9EeiEyRXBx0) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Hidd Sage](https://open.spotify.com/artist/3d6BUISFDk2Nkb1NUOuTrc) | [Fenix \(Radio Edit\)](https://open.spotify.com/album/4OWOcaoeR6A6HmOfC2UYyQ) | 2:35 |
 | 45 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 67 | [Cucu](https://open.spotify.com/track/4XGUihmiNJAH22UusW4KZU) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Cucu](https://open.spotify.com/album/2nVcDPVHyNZpcVKDyTlMWd) | 3:05 |
 | 68 | [A Mí Me Encanta \(Tequila\)](https://open.spotify.com/track/7hOypPNirw4UFkCtCHAOou) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [A Mí Me Encanta \(Tequila\)](https://open.spotify.com/album/3v2S4J6gKUF5oG8cQFXiNi) | 2:36 |
 | 69 | [Drifting & Burning](https://open.spotify.com/track/2WTTEfbb96NHOmKJ7TrJvH) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 2](https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6) | 2:50 |
-| 70 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 |
+| 70 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 |
 | 71 | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/track/7HqtpURyE5eUVY2mMImqTX) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/album/57hEnKIuvKtgQHrGid8ubd) | 2:44 |
 
-Snapshot ID: `MTY2MzMwMTE5NCwwMDAwMDAwMDcxYmZmMGU1MGZhZjU3ZjExODI3YzgyYThiNjhhNjUy`
+Snapshot ID: `MTY2MzMwMTE5NCwwMDAwMDAwMGQ3N2RiMGY2MTlkMjVkMTFkZDgyMDlkMmFjZWM3YTlm`

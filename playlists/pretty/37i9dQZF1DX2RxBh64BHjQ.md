@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,686,063 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,686,345 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 83 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
 | 84 | [No Mind](https://open.spotify.com/track/2g7RAqIAWvejbBMiv0qYHj) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [No Mind](https://open.spotify.com/album/7whE3mVgEdIUitoZZgc7A2) | 2:41 |
 | 85 | [Dawg House](https://open.spotify.com/track/4OWhcwHOnB7ZLGJI0Fo4oN) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Dawg House](https://open.spotify.com/album/1sjsLTzS0WxitdFmqvPpUW) | 1:46 |
-| 86 | [LECTRIC SLIDE](https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/6Z6nRjRrfbP1RwzI730m7i) | 2:32 |
+| 86 | [LECTRIC SLIDE](https://open.spotify.com/track/2Cw6qLeiePD8OgSLvl39PO) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 2:32 |
 | 87 | [Teach Her The Game](https://open.spotify.com/track/4dcnMjjjEKpMXMg70EUjeT) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Teach Her The Game](https://open.spotify.com/album/4e6FwvLip0QgE6ix2fQjG6) | 2:18 |
 | 88 | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/track/69Q3vsqXFMKhZGTHssGSDC) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Shun](https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11), [DCG Bsavv](https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [WYO \(feat\. PGF Nuk\)](https://open.spotify.com/album/5MTkjTQASZLLnrAze7GC90) | 3:16 |
 | 89 | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/track/7LkIkjlWgXYIHgWW0DHsSg) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/album/02a5YA3rWMRQz1ZqWZ19BA) | 2:38 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/album/4YaTl6b04ax8sSywFGcrPC) | 4:38 |
 | 99 | [She Knows](https://open.spotify.com/track/7rUc8Bxj6y2yLImSLm7FRy) | [Rocco](https://open.spotify.com/artist/7IjqLxpglRdDUYta4R82B0) | [She Knows](https://open.spotify.com/album/7evmRdQK32AVYuXoliPUsh) | 2:30 |
 
-Snapshot ID: `MTY2NTUxMDU5MiwwMDAwMDAwMGIzZTgyNjEzODI0ZDU4NjJkZTVjYzU5NjU0MDFiOTMy`
+Snapshot ID: `MTY2NTUxMDU5MiwwMDAwMDAwMDg1NTBiNWIxZDBmMGNlY2E2YzdkODliY2EzOTk5M2Fl`

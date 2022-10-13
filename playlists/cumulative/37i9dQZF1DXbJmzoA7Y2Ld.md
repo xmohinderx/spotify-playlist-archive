@@ -4,7 +4,7 @@
 
 > Blues favorites released in 2020\. Cover: Shemekia Copeland
 
-58 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/2Gz9kC8AIgoXvxdfjIonf2)
+59 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/2Gz9kC8AIgoXvxdfjIonf2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Black Roller Coming](https://open.spotify.com/track/5OLFlnmmC8gQHiFisYvrAh) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 2:49 | 2020-12-08 |  |
 | [Blues Comin' On](https://open.spotify.com/track/5D7ZBbrS0iSh2jlyaBEBe9) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 5:55 | 2020-12-08 |  |
 | [Blues For The Weepers](https://open.spotify.com/track/1uOKBuziYCCioYymiwI8zi) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 3:46 | 2020-12-08 |  |
-| [Boom Boom](https://open.spotify.com/track/1tRztGP1nj2Vdn3wGaRtkq) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/2QJKrWBci7NRXIFDe1zo6p), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Boom Boom](https://open.spotify.com/album/1u48epo8DIoUdTxL5EfE3B) | 2:52 | 2020-12-08 |  |
+| [Boom Boom](https://open.spotify.com/track/1tRztGP1nj2Vdn3wGaRtkq) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/2QJKrWBci7NRXIFDe1zo6p), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Boom Boom](https://open.spotify.com/album/1u48epo8DIoUdTxL5EfE3B) | 2:52 | 2020-12-08 | 2022-10-13 |
+| [Boom Boom](https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/0U4YQE1rVs1bFFdRTv5s6u), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Boom Boom](https://open.spotify.com/album/0Fj3i3nj3SabKrmnSIUsrA) | 2:52 | 2020-12-08 |  |
 | [Catfish](https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Catfish](https://open.spotify.com/album/0UHFzxUW8gPhFwjIj7y6E0) | 3:51 | 2020-12-08 |  |
 | [Catfish Blues](https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws) | 4:11 | 2020-12-08 | 2022-07-29 |
 | [Catfish Blues](https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK) | 4:11 | 2020-12-08 |  |

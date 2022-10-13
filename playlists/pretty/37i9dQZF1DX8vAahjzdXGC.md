@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Charlie Puth
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,241 likes - 112 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,269 likes - 112 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 37 | [I Bring Death](https://open.spotify.com/track/5KLhVXTWQcyB4WwokbgVfn) | [Sdbyrim](https://open.spotify.com/artist/3OOUjm6NNuWBzcGYxLL9jz) | [I Bring Death](https://open.spotify.com/album/5qtisImaIHb1G40SZibyNc) | 1:50 |
 | 38 | [easier \- with Db Mandala](https://open.spotify.com/track/2OlH6XNQl2HnBeRZ9gJhCW) | [Ramandhika](https://open.spotify.com/artist/47WzpqQTUuAnZQsMl6V6Kt), [Db Mandala](https://open.spotify.com/artist/6JVLqhpcrlRroql6UduuqC) | [easier](https://open.spotify.com/album/536NMf5JgpWnRlgnnxp4j4) | 3:12 |
 | 39 | [Selamanya Berdua](https://open.spotify.com/track/4rP73AmOKV5OVqUq8wp8vq) | [VDYP](https://open.spotify.com/artist/6vih4fNghZHL0PRv9UzPJV) | [Selamanya Berdua](https://open.spotify.com/album/1r5jmQR5KtOYx4HcSrK1s5) | 2:55 |
-| 40 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 |
+| 40 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/4KQLEIHhg3Pjdgx1QY6Ehv) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/5TIrVSKDY1rxhqPu6Axw7r) | 2:39 |
 | 41 | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW) | 2:38 |
 | 42 | [Whiskey In My Cup](https://open.spotify.com/track/5yq218AElUnMSXGm75X01D) | [BILBOYSAN](https://open.spotify.com/artist/01hmGM01DAPioXw1BF5Tul) | [Whiskey In My Cup](https://open.spotify.com/album/1rvS93DwqHrSoyvBcx3anT) | 3:48 |
 | 43 | [State Of My Heart](https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [State Of My Heart](https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5) | 2:56 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 52 | [Under The Influence](https://open.spotify.com/track/6hGp5enYJDfTstBCnApfQT) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [Under The Influence](https://open.spotify.com/album/14WfMM99fXcFPXkXNfYar7) | 3:03 |
 | 53 | [Don't Desire Me](https://open.spotify.com/track/4mPaMOvlD6f9wNhdf72zqS) | [Ekklefa](https://open.spotify.com/artist/2e7cQ7K4nBISOUMi9OlNtx) | [Don't Desire Me](https://open.spotify.com/album/1cRAVvOyhBzV3SgtWUpW5O) | 4:09 |
 | 54 | [The Victory & Satisfactory](https://open.spotify.com/track/4VzQHrr3nDLKQPIxyVuAMR) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [The Victory & Satisfactory](https://open.spotify.com/album/2PMwlyvDmrfD0ca45Lpv71) | 3:00 |
-| 55 | [Never Be the Same](https://open.spotify.com/track/05AqzInQVaFUqshRXHUTIE) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Never Be the Same](https://open.spotify.com/album/4R4OBxAKjtHUmUxBYKhGX6) | 3:25 |
+| 55 | [Never Be the Same](https://open.spotify.com/track/1W5j84OLhShyEIJEwaLzaU) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Never Be the Same](https://open.spotify.com/album/5mBF1iS21JNdxRcQrekPlS) | 3:25 |
 | 56 | [Heaven](https://open.spotify.com/track/1V64TVDYZ0Uexa1uAAAiEi) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Heaven](https://open.spotify.com/album/4fsKmBcWhjAOSmy5uPGQCD) | 3:25 |
 | 57 | [What Doesn’t Kill You Mutates and Tries Again](https://open.spotify.com/track/2AAelyYn8MafDdW5merUfD) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [What Doesn’t Kill You Mutates and Tries Again](https://open.spotify.com/album/3vrrjsR4sOTlg6StJET8xq) | 2:56 |
-| 58 | [Sour](https://open.spotify.com/track/6Ji1Ucu9oFMkRawhEe8a16) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2jmok4chNxn00UBs3gj1xF) | 3:20 |
+| 58 | [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 |
 | 59 | [Sakit Hati](https://open.spotify.com/track/7MDfm5rwRLkzanAexAwIcP) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Sakit Hati](https://open.spotify.com/album/46Aa6om98lyofUS8uIvzHk) | 3:18 |
 | 60 | [Berubah](https://open.spotify.com/track/1WhkLfwJ0rJtAeNQ0ylYKh) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Berubah](https://open.spotify.com/album/7ldfXTwlEZChKWBTBL81LY) | 2:46 |
 | 61 | [Detached](https://open.spotify.com/track/5HQppSYyU4whulcnaYZyFP) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Detached](https://open.spotify.com/album/7gqvota2LkWgkoqEI51Q3U) | 2:26 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 85 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 |
 | 86 | [your mom](https://open.spotify.com/track/6rp15O3RvL5sOMjHfLjxTK) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [your mom](https://open.spotify.com/album/0MDDf0IrpoEaYU0sMJ98H4) | 3:20 |
 | 87 | [Suzie](https://open.spotify.com/track/7KzZ1f667FYKudSIst9paz) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Suzie](https://open.spotify.com/album/6uAV69hWf44gJa8BcLKZFm) | 3:40 |
-| 88 | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z) | 3:08 |
+| 88 | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/2oal7Q9v9hFQXFZbaiGNsy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/1q132A3KkxRLRrEiWZXWqN) | 3:08 |
 | 89 | [Air Guitar](https://open.spotify.com/track/2cTcCo0OwGfvIEAAW6y8NK) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs) | 3:03 |
 | 90 | [careless](https://open.spotify.com/track/0SBylBekAoBQ6JpYtGDaCA) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:06 |
 | 91 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 96 | [Never Gonna Change](https://open.spotify.com/track/3F8xxwdpfi50qEuHn6rrNH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Never Gonna Change](https://open.spotify.com/album/1kfPbv9rWWhaHV2cAivjiN) | 3:38 |
 | 97 | [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 |
 | 98 | [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 |
-| 99 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 |
+| 99 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 |
 | 100 | [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 |
 | 101 | [Paradise](https://open.spotify.com/track/3ykUxF5IqZjldwnIYeuAGs) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Paradise](https://open.spotify.com/album/0KHrgTIvfMjTHRJjVBjPB0) | 2:57 |
 | 102 | [Hang On](https://open.spotify.com/track/28PvEJuegs01Cs1zElNScW) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Castle St](https://open.spotify.com/album/4xsF8vbA01OKUvapkElizI) | 2:42 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [Gin & Soda](https://open.spotify.com/track/7lFihcfRNVSGfMiWiXJzH2) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Gin & Soda](https://open.spotify.com/album/38UGREYisQWILn6iLTcKnM) | 3:50 |
 | 112 | [Caramel](https://open.spotify.com/track/6GQOeSP0Oh7XRlh522vIVm) | [Monday Off With Bluesy](https://open.spotify.com/artist/0OwLX5KcmGFbIZPORrK6xB) | [Caramel](https://open.spotify.com/album/7pJ3vpCpbPy4RTACGs0ThQ) | 3:05 |
 
-Snapshot ID: `MTY2NTExNTYxNCwwMDAwMDAwMDViNzRmODEzNmI0ZGZiNjI3ZjIzNzI1ZDdlNDdlNjZj`
+Snapshot ID: `MTY2NTExNTYxNCwwMDAwMDAwMGY2YTg5YzNmZDIzOGM1NWJlMjk5ZWM5YzdkNWYwYThh`

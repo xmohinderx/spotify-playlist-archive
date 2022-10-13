@@ -4,7 +4,7 @@
 
 > For whatever activity you do that may need a punch of intensity!
 
-276 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/1oJeOPmShDcRBjFvIb3Azw)
+277 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/1oJeOPmShDcRBjFvIb3Azw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Baby \(Lil Baby feat\. DaBaby\)](https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:22 | 2022-04-15 | 2022-04-18 |
 | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 | 2022-01-26 | 2022-05-19 |
 | [Back to Basics](https://open.spotify.com/track/7bb2iBhmeQeggAe623m6FY) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Back to Basics](https://open.spotify.com/album/3TLBa9ZgL9Ka58oXvQPk2Q) | 3:17 | 2022-04-15 | 2022-04-17 |
-| [Back2Roadz](https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Back2Roadz](https://open.spotify.com/album/4h4vZc4NDKHRrlV5AYEgv8) | 3:29 | 2022-06-24 |  |
+| [Back2Roadz](https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Back2Roadz](https://open.spotify.com/album/4h4vZc4NDKHRrlV5AYEgv8) | 3:29 | 2022-06-24 | 2022-10-13 |
 | [Backseat](https://open.spotify.com/track/6PyDmJQd9gT9vBOc5aPAXw) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Backseat](https://open.spotify.com/album/5GJuKaFeTSF8FgES4iv7dM) | 2:41 | 2022-04-15 | 2022-06-25 |
 | [Bad Boy \(with Young Thug\)](https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bad Boy \(with Young Thug\)](https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE) | 2:37 | 2021-12-20 | 2022-07-15 |
 | [Ball If I Want To](https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Ball If I Want To](https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu) | 1:52 | 2021-12-20 | 2022-07-29 |
@@ -263,7 +263,8 @@
 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 | 2021-12-20 | 2022-07-29 |
 | [Wants and Needs \(feat\. Lil Baby\)](https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 3:12 | 2021-12-20 |  |
 | [War](https://open.spotify.com/track/5fLvnG9XNRpQWwy8kNDTDk) | [Mastermind](https://open.spotify.com/artist/7cebmXLpLp4Rk2eFI00ppV), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [War](https://open.spotify.com/album/3nJ3FDFsREfCBpxKRcyU77) | 2:33 | 2022-04-15 | 2022-04-16 |
-| [Warm](https://open.spotify.com/track/7JWYtvZzxAptMETUfm37oL) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Trapo](https://open.spotify.com/album/65OgHp58osKvhu1XlWwI09) | 2:47 | 2022-10-07 |  |
+| [Warm](https://open.spotify.com/track/7JWYtvZzxAptMETUfm37oL) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Trapo](https://open.spotify.com/album/65OgHp58osKvhu1XlWwI09) | 2:47 | 2022-10-06 |  |
+| [Wasteman](https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:31 | 2022-10-12 |  |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-12-20 |  |
 | [Waze](https://open.spotify.com/track/5F3b1gGfnIME7mIaoWT2YF) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Insomnia](https://open.spotify.com/album/3BZyfvmDgZFXqCGJpYt7ES) | 3:17 | 2022-04-15 | 2022-04-16 |
 | [Westside](https://open.spotify.com/track/7tvb6TUeR2wAcBLuZVTkgw) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [LOVE FOR GUALA](https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10) | 3:44 | 2022-04-15 | 2022-04-16 |

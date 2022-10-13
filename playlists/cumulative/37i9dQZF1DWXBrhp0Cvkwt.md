@@ -4,11 +4,12 @@
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-175 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/7xn0WLmo8CN5m9X5KXy76q)
+176 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/7xn0WLmo8CN5m9X5KXy76q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['98 NISSAN](https://open.spotify.com/track/566uttKKrPrKvM5uN3Mx69) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | ['98 NISSAN](https://open.spotify.com/album/3QfGua1rhcFaoMQdKgJPCS) | 2:07 | 2022-09-09 |  |
+| ['98 NISSAN](https://open.spotify.com/track/1pUmQSu0fKu3UzdFJ7PCBM) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 2:07 | 2022-09-22 |  |
+| ['98 NISSAN](https://open.spotify.com/track/566uttKKrPrKvM5uN3Mx69) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | ['98 NISSAN](https://open.spotify.com/album/3QfGua1rhcFaoMQdKgJPCS) | 2:07 | 2022-09-09 | 2022-10-13 |
 | [...baby one more time](https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [...baby one more time](https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX) | 2:05 | 2022-05-25 | 2022-06-30 |
 | [100sadsongs](https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [100sadsongs](https://open.spotify.com/album/52D5Elj3MPS11Wa0r50EFM) | 2:56 | 2022-05-31 | 2022-07-27 |
 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2022-05-25 |  |

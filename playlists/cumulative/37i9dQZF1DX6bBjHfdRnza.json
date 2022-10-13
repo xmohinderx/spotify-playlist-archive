@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Beltran, Artwork: Rewina Beshue.",
+  "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Sante Sansone, Artwork: Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "published_playlist_ids": [
     "4dKpDBG1y7h8bfA4dbtQPc"
@@ -305,6 +305,24 @@
       "duration_ms": 238360,
       "name": "Addictive/Predictive",
       "url": "https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD"
+    },
+    {
+      "album": {
+        "name": "Ethereal Techno #012: Aetheria",
+        "url": "https://open.spotify.com/album/3zQ4lUg2UToHoh5ZWKAdX6"
+      },
+      "artists": [
+        {
+          "name": "Lost Rhythm",
+          "url": "https://open.spotify.com/artist/6HKc9lMN8B5NoN113ncFLN"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383414,
+      "name": "Aetheria",
+      "url": "https://open.spotify.com/track/3e8YXxByr6ihoOfeBVcIkJ"
     },
     {
       "album": {
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 356264,
       "name": "Back To The Start",
       "url": "https://open.spotify.com/track/64md1MDPuWSew3UXjnt2eO"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 199024,
       "name": "Can U Lose?",
       "url": "https://open.spotify.com/track/3fWCRNmlVnOSO4rtV3leN2"
@@ -2477,6 +2495,28 @@
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
+    },
+    {
+      "album": {
+        "name": "Chemical Take",
+        "url": "https://open.spotify.com/album/6OXNYEndNPS1BENU2xZGxn"
+      },
+      "artists": [
+        {
+          "name": "Inda Jani",
+          "url": "https://open.spotify.com/artist/2H871Uedpzv7asnQX3gLVk"
+        },
+        {
+          "name": "Manuel Sahagun",
+          "url": "https://open.spotify.com/artist/5ptZQbxub0E1CofeQDhYgn"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420200,
+      "name": "Chemical Take",
+      "url": "https://open.spotify.com/track/0MiEm9ngzjnTgNBkZyP6lo"
     },
     {
       "album": {
@@ -2947,7 +2987,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 265846,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/51vfe5ESCR0kVaz0opw5lg"
@@ -3052,6 +3092,24 @@
     },
     {
       "album": {
+        "name": "Cruiser",
+        "url": "https://open.spotify.com/album/6jxEpmgaUtmreOoBm4TXmf"
+      },
+      "artists": [
+        {
+          "name": "La Giang",
+          "url": "https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290853,
+      "name": "CRUISER",
+      "url": "https://open.spotify.com/track/0hlw564ybetgL5Es1NZNW9"
+    },
+    {
+      "album": {
         "name": "crush",
         "url": "https://open.spotify.com/album/4fq2gOSbxepdB6R0mvviv4"
       },
@@ -3133,7 +3191,7 @@
     {
       "album": {
         "name": "Cycles",
-        "url": "https://open.spotify.com/album/6DIebxNWIVeqRSjPqCk4Tm"
+        "url": "https://open.spotify.com/album/1MwHljUOGvFuX0Tx2zClUS"
       },
       "artists": [
         {
@@ -3148,6 +3206,28 @@
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198379,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/5CKGgj06cR7VzZYPPZFajG"
+    },
+    {
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/6DIebxNWIVeqRSjPqCk4Tm"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Isaiah",
+          "url": "https://open.spotify.com/artist/3gsYxd24CST6We4T6MAtwT"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 198379,
       "name": "Cycles (feat. Isaiah)",
       "url": "https://open.spotify.com/track/2iyaSzxyl0B744yPbXpcEK"
@@ -3401,7 +3481,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 108645,
       "name": "Desire",
       "url": "https://open.spotify.com/track/3DVXjW5D4mPCS7lcUdkuq4"
@@ -3775,7 +3855,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 260605,
       "name": "Don't Go - Edit",
       "url": "https://open.spotify.com/track/16op1pIObrpe67455ckG8d"
@@ -4335,6 +4415,24 @@
       "duration_ms": 221890,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/16wFFYgUKfbFU8CccICUsc"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6emkriPP7MbDjiUj0GzsQn"
+      },
+      "artists": [
+        {
+          "name": "Kundai",
+          "url": "https://open.spotify.com/artist/3X08gT9HYzAdJFfQvS7f81"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292687,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4AKgndrLzzbfHmPLZPpZ8a"
     },
     {
       "album": {
@@ -5046,6 +5144,24 @@
     },
     {
       "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/6kh10pfqwMB1FNmFNvOa9n"
+      },
+      "artists": [
+        {
+          "name": "Alex Kennon",
+          "url": "https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420001,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/2Py5mwVwgCHMXXUnPhj0QL"
+    },
+    {
+      "album": {
         "name": "Follow Me (Radio Edit)",
         "url": "https://open.spotify.com/album/4cYymvWDDfGqqtc379h9qT"
       },
@@ -5385,10 +5501,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 160706,
       "name": "fruttimango",
       "url": "https://open.spotify.com/track/4sUnEvyDA5DQOVDO711oJN"
+    },
+    {
+      "album": {
+        "name": "fruttimango",
+        "url": "https://open.spotify.com/album/1k5BETs1emVtwlDPsgW4Be"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160706,
+      "name": "fruttimango",
+      "url": "https://open.spotify.com/track/5mtjaopZRNOrNVD8G634Y9"
     },
     {
       "album": {
@@ -6075,7 +6209,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 278007,
       "name": "Head2Toe",
       "url": "https://open.spotify.com/track/4v6pQ662HfpVI3XjbTHh8H"
@@ -6097,6 +6231,24 @@
       "duration_ms": 259092,
       "name": "Heal",
       "url": "https://open.spotify.com/track/7BvdzrPBdw3cA5ac6smFVj"
+    },
+    {
+      "album": {
+        "name": "Love Unbound",
+        "url": "https://open.spotify.com/album/52TMIYpU2uhNcCB0awcvTM"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "Hear My Call",
+      "url": "https://open.spotify.com/track/24SKzzJjBoV9cXqNh8trj0"
     },
     {
       "album": {
@@ -6141,7 +6293,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 187045,
       "name": "Heat the Club",
       "url": "https://open.spotify.com/track/3q4DV4TQSjSCiyc5iutSoF"
@@ -6508,6 +6660,24 @@
     },
     {
       "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/7rYuJBSarTgllmLKFsbA6i"
+      },
+      "artists": [
+        {
+          "name": "Cream (PL)",
+          "url": "https://open.spotify.com/artist/42lamKjAQaDXMmc96XnVXF"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480312,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/30LVMRMbXbLcQVaQD4KVXP"
+    },
+    {
+      "album": {
         "name": "Virtual Resistance EP",
         "url": "https://open.spotify.com/album/70OcboZF1QOgC1FTL6g1EA"
       },
@@ -6805,7 +6975,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 163728,
       "name": "i stayed awake",
       "url": "https://open.spotify.com/track/7IQj3w8Y6HvCxF4bPyNSYI"
@@ -7282,6 +7452,28 @@
     },
     {
       "album": {
+        "name": "It's On Fire",
+        "url": "https://open.spotify.com/album/4DqECgdlJp6wXWWsl4EVCg"
+      },
+      "artists": [
+        {
+          "name": "Maxinne",
+          "url": "https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq"
+        },
+        {
+          "name": "Jordano Roosevelt",
+          "url": "https://open.spotify.com/artist/0ogLGZX9wtUfbgotgKRfm8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250393,
+      "name": "It's On Fire - Original Edit",
+      "url": "https://open.spotify.com/track/5tuhxKlP0La0YMvMLHQbzw"
+    },
+    {
+      "album": {
         "name": "ITCH",
         "url": "https://open.spotify.com/album/3cs9dwE0Ffz4Cxto5NvsXY"
       },
@@ -7577,6 +7769,24 @@
       "duration_ms": 358261,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/5Jul5AvR2cTOjYSpgfzG0c"
+    },
+    {
+      "album": {
+        "name": "Keep You As A Memory",
+        "url": "https://open.spotify.com/album/0hIcGSIF4DiYLeQpSyQnxL"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Keep You As A Memory",
+      "url": "https://open.spotify.com/track/0xDXJKshFXRGTNCJcnj9rP"
     },
     {
       "album": {
@@ -8167,6 +8377,24 @@
       "duration_ms": 245000,
       "name": "Love Feels",
       "url": "https://open.spotify.com/track/2Xm0rTs3qXMGSACpgH2xbU"
+    },
+    {
+      "album": {
+        "name": "love like this",
+        "url": "https://open.spotify.com/album/1OBhiq6OtjnSeZw9YlpUcO"
+      },
+      "artists": [
+        {
+          "name": "wilo wilde",
+          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107390,
+      "name": "love like this",
+      "url": "https://open.spotify.com/track/4Yu1bPeu2LdmURfRrnSj9R"
     },
     {
       "album": {
@@ -9015,7 +9243,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 357209,
       "name": "Mr. DJ",
       "url": "https://open.spotify.com/track/4aZABiKOZInmSql3xtTbTD"
@@ -9661,7 +9889,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 394867,
       "name": "Odds Are Good",
       "url": "https://open.spotify.com/track/4c5TkIDTIQnwnqRW4zt7Dt"
@@ -9709,6 +9937,24 @@
       "duration_ms": 373958,
       "name": "Offenn",
       "url": "https://open.spotify.com/track/1pYRrXQAmcdPHQlmOG6jiy"
+    },
+    {
+      "album": {
+        "name": "Oh Yeah",
+        "url": "https://open.spotify.com/album/3x6Bo5IRAkO8zGK1ZuD625"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Curious",
+          "url": "https://open.spotify.com/artist/5R2GATpm4U3ef8PGROt67B"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "Oh Yeah - Radio Edit",
+      "url": "https://open.spotify.com/track/3H9egBnyWs0TodHhzZpqgL"
     },
     {
       "album": {
@@ -9885,10 +10131,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 243008,
       "name": "Opening Credits",
       "url": "https://open.spotify.com/track/1H6fS2MCxuJIH23Dno7Nkq"
+    },
+    {
+      "album": {
+        "name": "Opening Credits",
+        "url": "https://open.spotify.com/album/70ObWOtpXMsBBbYLNmRIgm"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243008,
+      "name": "Opening Credits",
+      "url": "https://open.spotify.com/track/7zuMvkTqp8RQpJqSHCFofp"
     },
     {
       "album": {
@@ -11712,6 +11976,28 @@
     },
     {
       "album": {
+        "name": "SHiNE",
+        "url": "https://open.spotify.com/album/5todskDJAkfo8TYsGGtCEh"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        },
+        {
+          "name": "Broken Future",
+          "url": "https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "SHiNE",
+      "url": "https://open.spotify.com/track/3eGTeMHX7bB8YhUuXs9IV3"
+    },
+    {
+      "album": {
         "name": "Show",
         "url": "https://open.spotify.com/album/4wn3xwe22AWQknYBokPAEO"
       },
@@ -11897,7 +12183,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 330346,
       "name": "Sirens Riddim",
       "url": "https://open.spotify.com/track/5vcbPysrIGQ7lOVhlj31NR"
@@ -12797,7 +13083,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 154285,
       "name": "Susanna",
       "url": "https://open.spotify.com/track/2OHLvh6BIA1yTKQLA4kAbF"
@@ -14533,7 +14819,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 353197,
       "name": "What Have You Done?",
       "url": "https://open.spotify.com/track/22OYFxojUloz4YDJqrKmfT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,554 likes - 120 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,648 likes - 120 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 85 | [Stick with U](https://open.spotify.com/track/4MFfg6PS5YYsWaOHeUlPyF) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick with U](https://open.spotify.com/album/4zSaVRNtwB0eNCkqwBdDnK) | 2:44 |
 | 86 | [Hearts](https://open.spotify.com/track/5stT80YwtT97Lj24NVzGmS) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Hearts](https://open.spotify.com/album/1X0liVnRw1YTEbb1vGz8yl) | 3:38 |
 | 87 | [U Got Me](https://open.spotify.com/track/12cjUe9jUhiAhaqZmgd59O) | [Robotto\-Sei?](https://open.spotify.com/artist/4LNo6UafG70bhFNAG07o4f) | [U Got Me](https://open.spotify.com/album/4BudCMbI5iSGmn37zj1lnX) | 2:24 |
-| 88 | [Low \- Kaskade Remix](https://open.spotify.com/track/2Vrg4Ar4v8KECMdwck1DRl) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:40 |
+| 88 | [Low \- Kaskade Remix](https://open.spotify.com/track/30WY6XV23tYQ3yBXGEgGcn) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/7e1njN30eJ5iKxl9e96XOK) | 5:40 |
 | 89 | [Café Rio](https://open.spotify.com/track/28WEdMqtZ0EW43L0yTRQk5) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [Café Rio](https://open.spotify.com/album/6yL9GXFei3SZJUorDCJZMU) | 3:36 |
 | 90 | [Spirals](https://open.spotify.com/track/2iLCFMUPpBkrluLl55RxI6) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Drine](https://open.spotify.com/album/2gDEjivLQAHFzY7OdUgy5n) | 3:58 |
 | 91 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 119 | [Lost Boys](https://open.spotify.com/track/4pCD8UePjCSLPBZMiWbV2R) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Lost Boys](https://open.spotify.com/album/3HsiVf90EsNt1Bjk0KAcH1) | 3:17 |
 | 120 | [Your Type](https://open.spotify.com/track/2opemWX71oebOvol9at15T) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [Your Type](https://open.spotify.com/album/3CpL725jrZokuSmI7KMtLH) | 2:09 |
 
-Snapshot ID: `MTY2NTEwMDg2MCwwMDAwMDAwMGVmMTQwOTQ3ZWQ3YmZjODBiMWUxOTM4MTE0ZmZhZGRk`
+Snapshot ID: `MTY2NTEwMDg2MCwwMDAwMDAwMDk0YTlmNmI4N2RhMjJhMmI5OWQ3MDllNjAzYzMxZWFh`

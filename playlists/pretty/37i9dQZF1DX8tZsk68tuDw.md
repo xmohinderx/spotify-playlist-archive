@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Carlita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,996,737 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,996,836 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 20 | [Chemistry](https://open.spotify.com/track/23E8Vr8RGP54IoP0n4Lr4Z) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C), [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Chemistry](https://open.spotify.com/album/7M2PgMJyOQ2Pc3FTwNkPBz) | 2:46 |
 | 21 | [Sad Girls \(feat\. Rema\)](https://open.spotify.com/track/2lN5P2zk7ZHpxCutNHSndT) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Sad Girls \(feat\. Rema\)](https://open.spotify.com/album/0NZbQYjlvpJpiCVOGgXQXH) | 2:43 |
 | 22 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
-| 23 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 |
+| 23 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/4KQLEIHhg3Pjdgx1QY6Ehv) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/5TIrVSKDY1rxhqPu6Axw7r) | 2:39 |
 | 24 | [WANNA GO BANG](https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z) | 3:57 |
 | 25 | [Colonia](https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0) | 3:54 |
 | 26 | [The Sound Of Space](https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Sound Of Space EP](https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT) | 8:18 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 48 | [Ready To Fly](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 |
 | 49 | [Your Mind \- Epic Edit](https://open.spotify.com/track/3QeQ9CW00jI5J6NPF7vel0) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Your Mind \(Epic Edit\)](https://open.spotify.com/album/1L8j04mTaJK89xPKGeaQwR) | 3:36 |
 | 50 | [Run to the Forest](https://open.spotify.com/track/4Rc7iS5uJe9bpJfjp5BZta) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Run to the Forest](https://open.spotify.com/album/4VadpUr3pl74PdQsD1Vnnn) | 3:23 |
-| 51 | [Hollow](https://open.spotify.com/track/2F6F3bQ0CWUnv5xje1RTLK) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hollow](https://open.spotify.com/album/64N1sXGEZNQZI7nefF1fwi) | 4:05 |
+| 51 | [Hollow](https://open.spotify.com/track/50ClhUjjjq2MzZTxP535to) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hollow](https://open.spotify.com/album/4DgPkTxV46MSjOAsLDJD8u) | 4:05 |
 | 52 | [Resist](https://open.spotify.com/track/3y3XOxFORmCpcnuEGSyJau) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Resist](https://open.spotify.com/album/3DKGDP3kgAPPIQYXo5ZdI3) | 3:23 |
 | 53 | [Make Me Feel](https://open.spotify.com/track/7xz0zWS9RGucopvS2i1GZC) | [DJ Hanzel](https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Make Me Feel](https://open.spotify.com/album/1rmBeofIajOiaaB7DCVe70) | 3:32 |
 | 54 | [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [All I Need](https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [All I Need](https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix) | 3:06 |
 | 75 | [Mirage](https://open.spotify.com/track/2XMtuYlrbRPmQJUlR3vrvb) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt) | [Mirage](https://open.spotify.com/album/6nYgXiDGaYwWRvc16AIRPc) | 3:38 |
 
-Snapshot ID: `MTY2NTQ5OTM2NiwwMDAwMDAwMDdlY2QyYTdlYmFkZTAxNGYxNDUxMzI1MmQ3MWE3M2E4`
+Snapshot ID: `MTY2NTQ5OTM2NiwwMDAwMDAwMGEwNjBkNzVjNWU1ODY5MjY5YTA5MTQ2YzYyZWQwNjEz`

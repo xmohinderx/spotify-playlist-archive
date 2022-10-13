@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-650 songs - 1 day 0 hr 29 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+651 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [19](https://open.spotify.com/track/6p347KMUUvTqTfQmRX8TIk) | [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [19](https://open.spotify.com/album/6LNUtRzdna1vmq3oGmMuab) | 2:46 | 2022-09-16 |  |
 | [2 unreal](https://open.spotify.com/track/3UCygC7JAMINFBr2fQL91x) | [heavy tone](https://open.spotify.com/artist/7E4tM3LfCNhRISIXPPprFE) | [2 unreal](https://open.spotify.com/album/61lwGB5uZ3W8FQk233sGHE) | 2:10 | 2021-11-10 | 2022-07-22 |
 | [305 sky](https://open.spotify.com/track/3gIJheKHSVrhs5EkxHdNpA) | [Rory Callum](https://open.spotify.com/artist/25DH1fXhuHYG3JDDydqbpY) | [305 sky](https://open.spotify.com/album/3iPp8nXQprbUgcYZP89fKy) | 2:01 | 2021-11-10 | 2022-10-08 |
+| [5am in cairo](https://open.spotify.com/track/1HO5CGNK9d9zGUXpDAxigN) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/3SEeS3WVZhevxaJKnHe3GU) | 2:57 | 2022-10-07 |  |
 | [5am in cairo](https://open.spotify.com/track/21NHuCeoEJ76SVggMgNsNw) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [5am in cairo](https://open.spotify.com/album/1roCs0WmQH30We3HBrCvOn) | 2:57 | 2021-11-10 | 2022-07-29 |
-| [5am in cairo](https://open.spotify.com/track/3yxuDfGZluYOjzdFlxBI7M) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:57 | 2022-07-29 |  |
+| [5am in cairo](https://open.spotify.com/track/3yxuDfGZluYOjzdFlxBI7M) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:57 | 2022-07-29 | 2022-10-13 |
 | [A Guide To Daydreaming](https://open.spotify.com/track/0BxpuhfkdRBY2SxPxw8piy) | [Miilano](https://open.spotify.com/artist/4BRU7LmeFQZ8JGbNc3LdZ9) | [A Guide To Daydreaming](https://open.spotify.com/album/2YjHTbrgym2wZBtTiHDCZl) | 2:09 | 2022-06-10 | 2022-07-22 |
 | [A Letter In A Bottle](https://open.spotify.com/track/4DAcn2yYuvTR3TzBlxfdF3) | [Swoozy](https://open.spotify.com/artist/5sP6S7dFC7D2jWt7ydbGJn) | [A Letter In A Bottle](https://open.spotify.com/album/5VQoDrNEGMznRN5DNkNNWy) | 2:36 | 2022-07-29 |  |
 | [A Lovely Night](https://open.spotify.com/track/3wrLZQo8hUQVAw5xjefOC7) | [Antonius B](https://open.spotify.com/artist/6eZyHHxTWb2rHy2kRPtj0s), [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0) | [A Lovely Night](https://open.spotify.com/album/2zJkPv6KVXyo3RWj3IpUvp) | 2:03 | 2022-07-15 |  |

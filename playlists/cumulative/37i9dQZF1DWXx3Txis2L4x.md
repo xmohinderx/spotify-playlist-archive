@@ -4,10 +4,11 @@
 
 > Keep your run going with these upbeat rock tracks.
 
-139 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/3TPPArdfkB2psOaQQ7VVia)
+141 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/3TPPArdfkB2psOaQQ7VVia)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["45"](https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:22 | 2022-06-02 |  |
 | ["45"](https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Deluxe Version\)](https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY) | 3:27 | 2022-04-08 | 2022-07-29 |
 | [A Hunger In Your Haunt](https://open.spotify.com/track/6fO5kCic9UU6AFPet7jFBn) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Hunger In Your Haunt](https://open.spotify.com/album/6KbmzvqXq3IxqjhJOFEKPh) | 3:49 | 2021-12-09 | 2022-07-29 |
 | [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 | 2022-04-08 | 2022-07-28 |
@@ -45,7 +46,7 @@
 | [Double Cross](https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:25 | 2022-04-08 | 2022-04-21 |
 | [Down](https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:52 | 2022-04-08 |  |
 | [Empty Walls](https://open.spotify.com/track/0eOMrFg8LnFA4q9GMzIyOt) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Empty Walls](https://open.spotify.com/album/51RltZiYvJLkGcDI60ahDx) | 3:50 | 2022-04-08 | 2022-04-21 |
-| [Empty Walls](https://open.spotify.com/track/16pmJwwNFVCqdXWPZtwZzh) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Elect the Dead \(Deluxe\)](https://open.spotify.com/album/4QxqpP6peduwboJWJDOO9H) | 3:50 | 2022-06-02 |  |
+| [Empty Walls](https://open.spotify.com/track/16pmJwwNFVCqdXWPZtwZzh) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Elect the Dead \(Deluxe\)](https://open.spotify.com/album/4QxqpP6peduwboJWJDOO9H) | 3:50 | 2022-06-02 | 2022-10-13 |
 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 | 2022-04-08 |  |
 | [Everything Is Alright](https://open.spotify.com/track/7oeQvorSjIN3Ly9vfqrsKV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/1Ab9O0i8wwOoKGYQEbM6m0) | 3:27 | 2022-04-08 | 2022-04-20 |
 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 | 2022-06-02 |  |
@@ -89,6 +90,7 @@
 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 | 2022-04-08 |  |
 | [Miss Alissa](https://open.spotify.com/track/1YIxmHt4EKS0gMs3L0mxQV) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Peace Love Death Metal](https://open.spotify.com/album/5GclxkE6zvtpg6yKiZfnG7) | 2:38 | 2021-12-09 | 2022-04-20 |
 | [Movies](https://open.spotify.com/track/1SoW6gSGu8dZDIYQQDHONU) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What’s It Like Over There?](https://open.spotify.com/album/75HYUZI2d0FDMlsIEfp6Kj) | 3:22 | 2022-04-08 | 2022-04-20 |
+| [Movies](https://open.spotify.com/track/3D8jabgtmZtDibyb6gqZOT) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What's It Like Over There?](https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu) | 3:22 | 2022-06-02 |  |
 | [My God Is the Sun](https://open.spotify.com/track/0MHHAIjPAd3OSfBS3H0fPg) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 | 2022-06-02 |  |
 | [My God Is The Sun](https://open.spotify.com/track/1Pc3gTtQG4Cq1x81NcXtCN) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq) | 3:55 | 2021-12-09 | 2022-07-29 |
 | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy) | 2:44 | 2021-12-09 | 2022-07-29 |
@@ -123,7 +125,7 @@
 | [Superstar](https://open.spotify.com/track/4Y9BB1DsnEZ2BIfCazAYph) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/5K9MiRHAu2s5qZqxSMEOzW) | 3:35 | 2022-04-08 | 2022-04-20 |
 | [The Artist In The Ambulance](https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:39 | 2022-01-20 |  |
 | [The Big What If](https://open.spotify.com/track/5S9nq3W1Vzw8L3mXl0L4G9) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [The Haze](https://open.spotify.com/album/12sNQhAIKd2ymuGrIk4gnx) | 3:14 | 2021-12-09 | 2022-07-20 |
-| [The Bitter End](https://open.spotify.com/track/3WBPiogtVDBSXK7uOpxJ6m) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/4fUDor6o5gw0b18iYKEaRq) | 3:10 | 2022-04-08 |  |
+| [The Bitter End](https://open.spotify.com/track/3WBPiogtVDBSXK7uOpxJ6m) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/4fUDor6o5gw0b18iYKEaRq) | 3:10 | 2022-04-08 | 2022-10-13 |
 | [The Borders](https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 5:32 | 2021-12-09 |  |
 | [The Colour Of Love](https://open.spotify.com/track/1L1HpEtjT1SSwTAJSBHKhJ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Cyr](https://open.spotify.com/album/0PMkOv68OP1MZWRpz8c9Fi) | 4:23 | 2021-12-09 | 2022-07-29 |
 | [The Hell Song](https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 3:18 | 2022-06-02 |  |

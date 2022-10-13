@@ -4,12 +4,13 @@
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 
-67 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/0GoQG8PRV51P9Lf8L1GQ1U)
+68 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/0GoQG8PRV51P9Lf8L1GQ1U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ala Arabati Jaddi](https://open.spotify.com/track/03IuR9TW9GQEG8Z4e48yth) | [Stephane Husar](https://open.spotify.com/artist/4m6Gg5tLbuoiMNnEFOgtcK), [Qaïs Saadi](https://open.spotify.com/artist/6IDvorIo7wSVdLDIUUvQMR) | [Sing & Learn Arabic](https://open.spotify.com/album/1rCkwA10vL6FlxRbPANQqz) | 3:15 | 2021-08-11 |  |
-| [Alladin Dub](https://open.spotify.com/track/2nx1z24jfU0GlxZRla9ZG9) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Arabadub](https://open.spotify.com/album/1SV6bIoG7MNh0RyQZESMBE) | 4:15 | 2021-08-11 |  |
+| [Alladin Dub](https://open.spotify.com/track/2nx1z24jfU0GlxZRla9ZG9) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Arabadub](https://open.spotify.com/album/1SV6bIoG7MNh0RyQZESMBE) | 4:15 | 2021-08-11 | 2022-10-13 |
+| [Alladin Dub](https://open.spotify.com/track/5TDO53RXRn8fuB1xo47Hrk) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Arabadub](https://open.spotify.com/album/4hZHrfd5gUsmfuM8npYu4X) | 4:15 | 2021-08-11 |  |
 | [Another Planet](https://open.spotify.com/track/7Ep1e9ytrTJvHQBAH0FEl9) | [Loui$ XIV](https://open.spotify.com/artist/4GopqQBVl1DWvqKRZe28Rq) | [Darkness](https://open.spotify.com/album/0biEHbaYequPLvH9lW2vCz) | 3:26 | 2021-08-11 |  |
 | [Avehri](https://open.spotify.com/track/2q9fd5R6sY9iQZ7dPd69D4) | [Abranis](https://open.spotify.com/artist/4vsPrCZRTr09LnO8S96xQ4) | [Chenar le Blues / Avehri](https://open.spotify.com/album/6HXKTWxoOEGVzoISrX1WqI) | 3:24 | 2021-08-11 |  |
 | [Bara Ghani](https://open.spotify.com/track/3VCObdLJBakzLgZPGRboI8) | [Haydar Hamdi](https://open.spotify.com/artist/20ZV4HCxM3dBlKTWIhZglN) | [Fikra](https://open.spotify.com/album/6m08yFBF4tijgdvwfJTVE3) | 4:40 | 2021-08-11 |  |

@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-123 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
+126 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 | 2022-10-07 |  |
 | [Ghost](https://open.spotify.com/track/5xWpOP3RvKvd8oz1y5HfRo) | [Callum Pitt](https://open.spotify.com/artist/15mRJDZiAQq5CI6AqnlJfd) | [Ghost](https://open.spotify.com/album/6tEpoBigcuVdWFWqza7U8f) | 4:12 | 2022-04-08 |  |
 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 | 2022-05-20 |  |
-| [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2022-04-08 |  |
+| [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2022-04-08 | 2022-10-13 |
+| [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 | 2022-10-07 |  |
 | [Give Me Love](https://open.spotify.com/track/1xFGvwqlCx7vnCkviqon4J) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Give Me Love](https://open.spotify.com/album/0Gg7esLkSTocFYZBt1WPsP) | 3:14 | 2022-04-08 |  |
 | [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-04-08 |  |
 | [Harsh](https://open.spotify.com/track/4kQ83UaTyWGNW935WsE6xm) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Harsh](https://open.spotify.com/album/6OF83X7IwBRBP3SXQkMUuR) | 2:14 | 2022-08-26 |  |
@@ -103,11 +104,13 @@
 | [Smoke](https://open.spotify.com/track/24Avnz5JAgVmH0xNBsXUvH) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Smoke](https://open.spotify.com/album/6bbFvcKFbe4xqSxGzyIegJ) | 3:38 | 2022-04-08 |  |
 | [So It Is](https://open.spotify.com/track/5nVX6Lv58ZcwPcK3v2nVkw) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [So It Is](https://open.spotify.com/album/10ngV2CcheV7HQSrhmVLNa) | 4:05 | 2022-07-01 |  |
 | [So It Is](https://open.spotify.com/track/6DlCP3851iJayqnAim9VV4) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [So It Is](https://open.spotify.com/album/1ZRcIpMIyEytofwk1LVd8F) | 4:05 | 2022-04-08 | 2022-07-29 |
-| [Someone's Daughter](https://open.spotify.com/track/6NbxWUDuyHFm9IPicBGv07) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Someone's Daughter](https://open.spotify.com/album/1G0KNj4Rr6HNdHHfArdNpj) | 3:32 | 2022-04-08 |  |
+| [Someone's Daughter](https://open.spotify.com/track/0EnyrELYciaIPQCQKdElAz) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Someone's Daughter](https://open.spotify.com/album/09S56ScuJckcQwKscgYn3k) | 3:32 | 2022-10-07 |  |
+| [Someone's Daughter](https://open.spotify.com/track/6NbxWUDuyHFm9IPicBGv07) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Someone's Daughter](https://open.spotify.com/album/1G0KNj4Rr6HNdHHfArdNpj) | 3:32 | 2022-04-08 | 2022-10-13 |
 | [Spill](https://open.spotify.com/track/7dypjDl8BjW7DZTuPHdk53) | [SELK](https://open.spotify.com/artist/2XQEmjq2NVlPxAhjRanGY6) | [Spill](https://open.spotify.com/album/5xT0WOgcXxOTYHvNY9TwtU) | 4:21 | 2022-08-26 |  |
 | [Stow Brae](https://open.spotify.com/track/6FgsycVqVLwuWVs66lf9sX) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Stow Brae](https://open.spotify.com/album/0CbHExiIeCAhFeOVxH8D1T) | 2:42 | 2022-05-20 |  |
 | [strawberries for two](https://open.spotify.com/track/33AqMQTISnP1daTHunLVKO) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [strawberries for two](https://open.spotify.com/album/1kMlsA7I3l7LiskTVSlRNX) | 2:41 | 2022-08-26 |  |
-| [Sudden Death](https://open.spotify.com/track/5wYzMzDNycLtyBwrHdfavV) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Sudden Death](https://open.spotify.com/album/4QRpPCZnswhtBfRs1q6VLH) | 2:55 | 2022-05-20 |  |
+| [Sudden Death](https://open.spotify.com/track/2pMulZ50yx1Fx6TIepetYP) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Sudden Death](https://open.spotify.com/album/4XNfb6nqJLrNqhV0IQ9Nur) | 2:55 | 2022-10-07 |  |
+| [Sudden Death](https://open.spotify.com/track/5wYzMzDNycLtyBwrHdfavV) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Sudden Death](https://open.spotify.com/album/4QRpPCZnswhtBfRs1q6VLH) | 2:55 | 2022-05-20 | 2022-10-13 |
 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 | 2022-04-08 |  |
 | [Take It Slow \- Organic Edit](https://open.spotify.com/track/1GrGjdBj3VeSm2deNGE6Pm) | [Michael Lane](https://open.spotify.com/artist/6UUPmOaF0syyjXaWHB68xK) | [Take It Slow \(Organic Edit\)](https://open.spotify.com/album/7DH3Z415tH4x2UYXJfd4C0) | 4:51 | 2022-04-08 | 2022-07-02 |
 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 | 2022-04-08 |  |

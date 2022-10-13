@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 322540,
+  "num_followers": 322650,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc2Mzc3NiwwMDAwMDAwMDk4ZGU5NmY4NDI4OTZjZmY4ZTFmYTc5MzZhZmI3MDk0",
+  "snapshot_id": "MTY2Mzc2Mzc3NiwwMDAwMDAwMDc2NzQzODE3ZDdjOTdjNGRlM2JjMDUxODE2NDZkZmY1",
   "tracks": [
     {
       "added_at": "2022-09-21 12:36:16",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-09-21 12:36:16",
       "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
-    },
-    {
-      "added_at": "2022-09-21 12:36:16",
-      "album": {
         "name": "Hey DJ",
         "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 206081,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
+    },
+    {
+      "added_at": "2022-09-21 12:36:16",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2022-09-21 12:36:16",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-21 12:36:16",
       "album": {
-        "name": "Giant Single: Profile Records Rap Anthology",
-        "url": "https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr"
-      },
-      "artists": [
-        {
-          "name": "Dr. Jeckyll & Mr. Hyde",
-          "url": "https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Genius Rap - 7\" Single Version",
-      "url": "https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH"
-    },
-    {
-      "added_at": "2022-09-21 12:36:16",
-      "album": {
         "name": "Schoolly D",
         "url": "https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 388906,
       "name": "P.S.K. 'What Does It Mean'?",
       "url": "https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW"
+    },
+    {
+      "added_at": "2022-09-21 12:36:16",
+      "album": {
+        "name": "Giant Single: Profile Records Rap Anthology",
+        "url": "https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr"
+      },
+      "artists": [
+        {
+          "name": "Dr. Jeckyll & Mr. Hyde",
+          "url": "https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Genius Rap - 7\" Single Version",
+      "url": "https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH"
     },
     {
       "added_at": "2022-09-21 12:36:16",

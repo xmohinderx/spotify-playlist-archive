@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,690 likes - 70 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,708 likes - 70 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 58 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
 | 59 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 |
 | 60 | [Scalar \- HAAi Remix](https://open.spotify.com/track/0iGooa2YKPoK5lwTLzJIcS) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Yearning for the Infinite Remixed](https://open.spotify.com/album/7Fo17tDxpIkg3sc1zuUbOr) | 7:02 |
-| 61 | [Intimate \- Club Mix](https://open.spotify.com/track/1GYYbzYsWYn3epskOuuZCb) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [El Trick](https://open.spotify.com/artist/46W67d6DQ9MkC3M0rtrHI0), [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 3:38 |
+| 61 | [Intimate \- Club Mix](https://open.spotify.com/track/4RkaGrpMqLkMd7nK5mEE4D) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [El Trick](https://open.spotify.com/artist/46W67d6DQ9MkC3M0rtrHI0), [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:38 |
 | 62 | [Crazy Eyes, Eric](https://open.spotify.com/track/5meimDAMBvCXe38w7pP2Xl) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [U](https://open.spotify.com/album/2n91JKUQPPsIvwIOqFAZzE) | 5:38 |
 | 63 | [Can't Help It](https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/4dOyCbf2Qpy6XCrVVSTLBp) | 5:38 |
 | 64 | [Jeanette](https://open.spotify.com/track/66KnxPOG7pEbzqyKhLaIE0) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 6:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 69 | [Rayna \- Shanti Celeste Remix](https://open.spotify.com/track/4hmKziZXTpDbqBqW7hZW7V) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Rayna \(Shanti Celeste Remix\)](https://open.spotify.com/album/5aC4FfAUuHAIqtYmuu1Ki4) | 6:52 |
 | 70 | [Gasoline, Pt\. 2](https://open.spotify.com/track/76rWWUIdZ3QonRhUOzLjvS) | [Darcy Baylis](https://open.spotify.com/artist/3blRQedtHHIGK76BFF1n1P) | [Days After Breaking](https://open.spotify.com/album/30UnTsr4oe3T2QzpKYt7OB) | 6:30 |
 
-Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMDRmNGM5OTMwOTU0NTMxYjliMzAyYjdhZDAyN2FjMWU3`
+Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMDQyZjQ2OGJhZGNhMjM2NmEzODFmN2IyZTA2MmYzMDM1`

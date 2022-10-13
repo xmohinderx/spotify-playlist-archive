@@ -1142,6 +1142,28 @@
     },
     {
       "album": {
+        "name": "Paper Doors",
+        "url": "https://open.spotify.com/album/39OhC1jSFTS9wIBQQRfuvY"
+      },
+      "artists": [
+        {
+          "name": "Felix Riebl",
+          "url": "https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O"
+        },
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "date_added": "2017-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/2TC2RvlE8Op9aTQzhdYAx5"
+    },
+    {
+      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/6mR9tHwbzt0284PGj9Z9KD"
       },
@@ -1157,7 +1179,7 @@
       ],
       "date_added": "2017-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 208853,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/2UcrOnNw5WJr6Xu2q8QAPI"

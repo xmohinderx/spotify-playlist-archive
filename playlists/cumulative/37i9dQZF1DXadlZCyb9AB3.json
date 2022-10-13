@@ -207,7 +207,7 @@
     {
       "album": {
         "name": "University",
-        "url": "https://open.spotify.com/album/6Lhb12HmS4gx0lOVrdXjWz"
+        "url": "https://open.spotify.com/album/1vVQEsE0szv3T5nf7IrZKr"
       },
       "artists": [
         {
@@ -218,6 +218,24 @@
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Bright Yellow Gun",
+      "url": "https://open.spotify.com/track/5ZIDI3l4PZOQ40OfzaKChO"
+    },
+    {
+      "album": {
+        "name": "University",
+        "url": "https://open.spotify.com/album/6Lhb12HmS4gx0lOVrdXjWz"
+      },
+      "artists": [
+        {
+          "name": "Throwing Muses",
+          "url": "https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 223800,
       "name": "Bright Yellow Gun",
       "url": "https://open.spotify.com/track/6Addv8fHU00jjDoWYGtSMa"

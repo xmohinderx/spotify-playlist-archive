@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Dayglow
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,064 likes - 108 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,851 likes - 108 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 |
-| 2 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 |
+| 1 | [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 |
+| 2 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 |
 | 3 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
 | 4 | [Sunshine](https://open.spotify.com/track/5P0Qp4RnsIHOjc153m9Jsa) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [sh](https://open.spotify.com/artist/0R4narCkJHEsmTomh2jD1p) | [Sunshine](https://open.spotify.com/album/5xKLqgTDwEyBg7SfFpBhLL) | 3:19 |
 | 5 | [Back In The Game](https://open.spotify.com/track/0zRinZTCWJCx0pTSUeToC7) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Back In The Game](https://open.spotify.com/album/3mFUxzax1U0c4qKaybkZBF) | 3:28 |
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 30 | [Inhibitions / Intuitions](https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Inhibitions / Intuitions](https://open.spotify.com/album/5uBveYkzBC1RJP2pTEup1h) | 3:29 |
 | 31 | [Olimpica](https://open.spotify.com/track/7jTQYRAAppaWtQuOYZdY3z) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:45 |
 | 32 | [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 |
-| 33 | [WHAT IF WE FALL IN LOVE?](https://open.spotify.com/track/28PEJiJg7H76kHHd24GXB1) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [WHAT IF WE FALL IN LOVE?](https://open.spotify.com/album/6StudnAUV4NbdyRxqWMrSh) | 3:03 |
+| 33 | [WHAT IF WE FALL IN LOVE?](https://open.spotify.com/track/2Y7PDa6oYYTbsTp0fRpizS) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [TECHNICOLOR](https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb) | 3:03 |
 | 34 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 35 | [Flowers From Japan](https://open.spotify.com/track/6UMZpB7uTxDyhUs8cvSHRE) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Flowers From Japan](https://open.spotify.com/album/7cWK1OJgqmkyBjK67LUesw) | 4:06 |
 | 36 | [Still](https://open.spotify.com/track/7qACmdbzeUXh0DhIpsAjMo) | [Proud](https://open.spotify.com/artist/2PsiEj7iYboWZxwfw3wLbh) | [Still](https://open.spotify.com/album/2I9lPRjeNWQcI3eya6iz3e) | 3:39 |
 | 37 | [Dizzy Inside](https://open.spotify.com/track/7ekKMAAhU3KS4zry5OSzV9) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Dizzy Inside](https://open.spotify.com/album/32wi0giOvudmbUcQ2n1rf1) | 4:10 |
 | 38 | [Pensar en Ti](https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Pensar en Ti](https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF) | 3:39 |
 | 39 | [Too Easy](https://open.spotify.com/track/4AjaZOpRvW2p6LbmkMBVZ8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [is it me, or is it you?](https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5) | 3:06 |
-| 40 | [Pulling Through](https://open.spotify.com/track/1TwVMtHkykoWFKXeFPRoIE) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Pulling Through](https://open.spotify.com/album/3FFTxDX2jGovwi0fKvTfxg) | 3:55 |
+| 40 | [Pulling Through](https://open.spotify.com/track/03OFKv857PXCFgUlpah8Tc) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:55 |
 | 41 | [Over the Hill](https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Over the Hill](https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb) | 2:47 |
 | 42 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
 | 43 | [Finally Fine](https://open.spotify.com/track/6JQlOSz9Jd03zn7C3aq0TU) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Finally Fine](https://open.spotify.com/album/60YVVq3JqH321hltQuKXlr) | 2:24 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 59 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 |
 | 60 | [Che sera](https://open.spotify.com/track/41JsNduRhAuFLEU7gy9ckf) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Che sera](https://open.spotify.com/album/4VdWz9znOuVApJnqBcBcbl) | 4:11 |
 | 61 | [Season 2](https://open.spotify.com/track/3nNdbOZI90u2ww9RLULnK0) | [Ditch Days](https://open.spotify.com/artist/3B3nEiNlMRAHeSF9hfVyi2) | [Blossom](https://open.spotify.com/album/3HLxmG17BC8qOiDq2Eid1b) | 2:41 |
-| 62 | [Joe](https://open.spotify.com/track/2fSdrOgBjisneSqSwhXWsn) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/6jZmjxCxlbPxxeClvZbjZo) | 3:07 |
+| 62 | [Joe](https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI) | 3:07 |
 | 63 | [Fairweather Friends](https://open.spotify.com/track/3whPP50GNNpbGNkIWMMdeG) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/2Bt3szvXc9Ujmw5r7egQl2) | 3:10 |
 | 64 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 |
 | 65 | [Dial Two Seven](https://open.spotify.com/track/1ExuXW8RmcD8UU86ymIDWf) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Dial Two Seven](https://open.spotify.com/album/3b2AbGIyZof8tEwJdDehN7) | 3:02 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 68 | [sober](https://open.spotify.com/track/1LmM5Y3OnbNAeTVKg73Jgc) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [I started a garden](https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj) | 2:39 |
 | 69 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 |
 | 70 | [Just a moment](https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Just a moment](https://open.spotify.com/album/5BPLqZrd0YicrOFMCWLlkv) | 3:22 |
-| 71 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/2z344vvIbh4Sk4oVgbgxFD) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/4239Z8wD4pZdLNYAM8imWe) | 2:38 |
+| 71 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo) | 2:38 |
 | 72 | [she's in a cage](https://open.spotify.com/track/4HDKe2j93rapEMlfY4knZ5) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [she's in a cage](https://open.spotify.com/album/7IeGWk2pmhU6aQmZNwjpgH) | 4:30 |
 | 73 | [Sad Disco](https://open.spotify.com/track/2BedHMJWiW5CuiTd2wza1u) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow](https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq) | 3:47 |
 | 74 | [20:37](https://open.spotify.com/track/7wU9V3zmRUSHFLQGc7jRbP) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Skin](https://open.spotify.com/album/2XEHXx2cRclNP5ThLEqStX) | 3:26 |
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 83 | [Happy Ending](https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 3:48 |
 | 84 | [Ultraviolet](https://open.spotify.com/track/6DxfWDdfSKYYrCTaqEFF20) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Ultraviolet](https://open.spotify.com/album/7oOXwpYyXLLvfhEF4zvLaY) | 2:51 |
 | 85 | [experimento.mp3](https://open.spotify.com/track/4gBYdUeR9pDuGDXQOECqVh) | [Lu Demie](https://open.spotify.com/artist/0UngCHHTGXq1hWlQCuqDmb) | [experimento.mp3](https://open.spotify.com/album/2af8vzDgiAlMXUwfaaMID9) | 2:03 |
-| 86 | [frown](https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:19 |
+| 86 | [frown](https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:19 |
 | 87 | [suitable](https://open.spotify.com/track/0xLaFN3LOpWkVoKSKhPqD7) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [suitable](https://open.spotify.com/album/19GdwqMEVjVVQzUZQxrUez) | 3:18 |
 | 88 | [Turn the Lights Down Low](https://open.spotify.com/track/1SNhcEKK6m83oLxLWQJcqk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Pink Room](https://open.spotify.com/album/1Hu2L5nA5Rg48bKOtIkmJB) | 3:12 |
 | 89 | [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 |
 | 90 | [Le matin](https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le matin](https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM) | 2:48 |
 | 91 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 |
-| 92 | [‎whiskey](https://open.spotify.com/track/0bRq2UOu3CNuH0dvwukfMc) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/6Rfaj1WW6a9B1wjjP77fpC) | 2:25 |
+| 92 | [‎whiskey](https://open.spotify.com/track/7yH1ewkwvwh2SaKFqXnXYW) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF) | 2:25 |
 | 93 | [Deriva](https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Error 404](https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp) | 1:54 |
 | 94 | [Better Days](https://open.spotify.com/track/3MGWaWeAl4XWovfBnZAGg3) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [A Life Designed for Fun \(Pastimes Vol\. II\)](https://open.spotify.com/album/645TLVk1UxX0AM8FWFxuQ3) | 3:57 |
 | 95 | [Pearls](https://open.spotify.com/track/4t4DAOAR5YGGHycUfQjiDq) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Pearls](https://open.spotify.com/album/2KNjqcrm4ijeQAUqWQzyBj) | 4:23 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 107 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 |
 | 108 | [Holobiont](https://open.spotify.com/track/06ZetzKuRbym6iYX0uPcKI) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Windows of My House \(Pastimes Vol\. III\)](https://open.spotify.com/album/5ZULctCGzLPmsTUFXtwC4T) | 2:02 |
 
-Snapshot ID: `MTY2NTE2MzQ1MiwwMDAwMDAwMDQxMTFiYTgwNzk4ZTFlN2EzMWUwZGM0MWEwNzQ2Mjgz`
+Snapshot ID: `MTY2NTE2MzQ1MiwwMDAwMDAwMDExOGQ0NzY0NWI4NTcxNzdmYTUzMmUzYmU4ZTRmMzQ4`

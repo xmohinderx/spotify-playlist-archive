@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 179686,
+  "num_followers": 179900,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMGQzY2EwYzY1ZmYwMTYxYWYzNGYwNGEzZmYxM2NlYzE1",
+  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMGIzMDUyMzc3ZTBlNDJhYTI0MWE3MTQ4NDE0NTY3Y2Mz",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Double Fantasy Stripped Down",
-        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Woman - Remastered 2010",
-      "url": "https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Eye In The Sky (Expanded Edition)",
         "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 276280,
       "name": "Eye In The Sky",
       "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Double Fantasy Stripped Down",
+        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Woman - Remastered 2010",
+      "url": "https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -539,18 +539,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Against The Wind",
-        "url": "https://open.spotify.com/album/2Go2GZ8qMznHdAoLO1cG4W"
+        "name": "The Seeds Of Love",
+        "url": "https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO"
       },
       "artists": [
         {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
         }
       ],
-      "duration_ms": 333720,
-      "name": "Against The Wind",
-      "url": "https://open.spotify.com/track/1SWmFiFSIBoDbQJjNKC7SR"
+      "duration_ms": 391000,
+      "name": "Woman In Chains",
+      "url": "https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -571,22 +575,18 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "The Seeds Of Love",
-        "url": "https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO"
+        "name": "Against The Wind",
+        "url": "https://open.spotify.com/album/2Go2GZ8qMznHdAoLO1cG4W"
       },
       "artists": [
         {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        },
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
         }
       ],
-      "duration_ms": 391000,
-      "name": "Woman In Chains",
-      "url": "https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B"
+      "duration_ms": 333720,
+      "name": "Against The Wind",
+      "url": "https://open.spotify.com/track/1SWmFiFSIBoDbQJjNKC7SR"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/4zEi4tr3lEhiAvTRxEzbEz"
     },
     {
-      "added_at": "2022-07-05 15:47:05",
-      "album": {
-        "name": "Daylight Again (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Southern Cross - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
-    },
-    {
       "added_at": "2022-03-28 14:29:51",
       "album": {
         "name": "Private Eyes (Expanded Edition)",
@@ -683,6 +667,22 @@
       "duration_ms": 307306,
       "name": "I Can't Go for That (No Can Do)",
       "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+    },
+    {
+      "added_at": "2022-07-05 15:47:05",
+      "album": {
+        "name": "Daylight Again (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Southern Cross - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 315306,
-      "name": "The End Of The Innocence",
-      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
-    },
-    {
       "added_at": "2022-03-28 14:29:51",
       "album": {
         "name": "Private Eyes (Expanded Edition)",
@@ -763,6 +747,22 @@
       "duration_ms": 217200,
       "name": "Private Eyes",
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "The End Of The Innocence",
+      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Go to Heaven",
-        "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 412595,
-      "name": "Althea - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
-    },
-    {
       "added_at": "2021-10-12 12:30:27",
       "album": {
         "name": "Bella Donna (2016 Remastered)",
@@ -867,6 +851,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Go to Heaven",
+        "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 412595,
+      "name": "Althea - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Martika (Expanded Edition)",
         "url": "https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 287600,
       "name": "Toy Soldiers",
       "url": "https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 322600,
-      "name": "The Heart Of The Matter",
-      "url": "https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -927,6 +911,22 @@
       "duration_ms": 292800,
       "name": "Sara",
       "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 322600,
+      "name": "The Heart Of The Matter",
+      "url": "https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ"
     },
     {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
+    },
+    {
       "added_at": "2021-05-06 11:08:15",
       "album": {
         "name": "The Principle of Moments",
@@ -1023,22 +1039,6 @@
       "duration_ms": 265840,
       "name": "Kyrie",
       "url": "https://open.spotify.com/track/5K3Q1gue9nWLLwh6bYQFoB"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2022-03-28 14:29:51",

@@ -1720,6 +1720,28 @@
     },
     {
       "album": {
+        "name": "Ma ch\u00e9rie",
+        "url": "https://open.spotify.com/album/78wXRLJtmhkwU1WuIxTn48"
+      },
+      "artists": [
+        {
+          "name": "DJ Sem",
+          "url": "https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp"
+        },
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215826,
+      "name": "Ma ch\u00e9rie",
+      "url": "https://open.spotify.com/track/4eHeFewqpAJWg9Cc6W8jFj"
+    },
+    {
+      "album": {
         "name": "Ma colombe (Moroccan Remix)",
         "url": "https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09"
       },

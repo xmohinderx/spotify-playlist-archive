@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 345693,
       "name": "'Til We Die",
       "url": "https://open.spotify.com/track/7bhfCl1a1InaSy8NOWVswk"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 340400,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/1PcANFoqnDsexSHXpWrn8Q"
@@ -289,10 +289,28 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 263093,
       "name": "H377",
       "url": "https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv"
     },
     {
       "album": {
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 289226,
       "name": "The Chapeltown Rag",
       "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"

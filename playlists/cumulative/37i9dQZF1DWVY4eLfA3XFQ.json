@@ -8067,7 +8067,7 @@
     {
       "album": {
         "name": "Numb",
-        "url": "https://open.spotify.com/album/1MjP5yqxOxVWCh7sSqYSF4"
+        "url": "https://open.spotify.com/album/7tRFEgxsUJXTeRgf8xdtda"
       },
       "artists": [
         {
@@ -8086,6 +8086,32 @@
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200346,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2G98kMgzYP8zwtQR3XkYLy"
+    },
+    {
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/1MjP5yqxOxVWCh7sSqYSF4"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        },
+        {
+          "name": "Zook\u00ebper",
+          "url": "https://open.spotify.com/artist/2XvV82x6Qs0W3GBTkBSjPI"
+        },
+        {
+          "name": "SODIUM",
+          "url": "https://open.spotify.com/artist/3bVv7vl0RcYYMjLb84vYH9"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 200346,
       "name": "Numb",
       "url": "https://open.spotify.com/track/5fXyZRgVtg6FGGnNSeaMOO"

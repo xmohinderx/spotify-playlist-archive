@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ที่สุดศิลปินรุ่นใหม่ของประเทศไทย ศิลปิน: Jeff Satur, YourMOOD, Blackbeans, The White Hair Cut, THEMOONWILLALWAYSBEWITHME, BELL WARISARA, HYBS, Saran, SPRITE, Only Monday
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,226 likes - 45 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,229 likes - 45 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [นั้น](https://open.spotify.com/track/5CiAE9nLZkkNkFnMAjUgeD) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [นั้น](https://open.spotify.com/album/6xKKC6DregDGOqrUgkSZhA) | 3:20 |
+| 1 | [ไม่เป็นไรหรอกมั้ง](https://open.spotify.com/track/3mtHA5dSJW9DsCh1NjhwtX) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 5:24 |
 | 2 | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6) | 4:22 |
-| 3 | [คิดถึง](https://open.spotify.com/track/3RbIohUryKaJXeLrfrBhE3) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [คิดถึง](https://open.spotify.com/album/2RSg1hfBnFxLUzj08vsvlg) | 4:00 |
-| 4 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
-| 5 | [How Are You](https://open.spotify.com/track/41TTWfDZYANqv7XXcZmOdb) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [How Are You](https://open.spotify.com/album/4TcQkMW5XgnYQ4E6awBd9T) | 2:42 |
-| 6 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 |
-| 7 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 |
-| 8 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 |
-| 9 | [แค่เงา \(Hide\)](https://open.spotify.com/track/33JnDNgKlExUckYH3xK78n) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เงา \(Hide\)](https://open.spotify.com/album/1mulr04By8ZaH9h0dL9Hnj) | 3:36 |
-| 10 | [I miss you](https://open.spotify.com/track/0pKBFvPNQ6aSlKk0dA4Jzm) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:08 |
-| 11 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 |
-| 12 | [เธอทำให้ฉันกลายเป็นเด็ก](https://open.spotify.com/track/2jhMzVTUrycGnB1QzpWova) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ) | [เธอทำให้ฉันกลายเป็นเด็ก](https://open.spotify.com/album/1m5YwT664K3xwfTwdBa5ex) | 3:33 |
-| 13 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 |
-| 14 | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/track/1BhiR1qlAMzWhi0AgEPilB) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/album/3VnwBDrzS0Ly8e3Q7nmOzy) | 3:42 |
-| 15 | [ไม่เป็นไรหรอกมั้ง](https://open.spotify.com/track/3mtHA5dSJW9DsCh1NjhwtX) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 5:24 |
+| 3 | [นั้น](https://open.spotify.com/track/5CiAE9nLZkkNkFnMAjUgeD) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [นั้น](https://open.spotify.com/album/6xKKC6DregDGOqrUgkSZhA) | 3:20 |
+| 4 | [คิดถึง](https://open.spotify.com/track/3RbIohUryKaJXeLrfrBhE3) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [คิดถึง](https://open.spotify.com/album/2RSg1hfBnFxLUzj08vsvlg) | 4:00 |
+| 5 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
+| 6 | [How Are You](https://open.spotify.com/track/41TTWfDZYANqv7XXcZmOdb) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [How Are You](https://open.spotify.com/album/4TcQkMW5XgnYQ4E6awBd9T) | 2:42 |
+| 7 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 |
+| 8 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 |
+| 9 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 |
+| 10 | [แค่เงา \(Hide\)](https://open.spotify.com/track/33JnDNgKlExUckYH3xK78n) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เงา \(Hide\)](https://open.spotify.com/album/1mulr04By8ZaH9h0dL9Hnj) | 3:36 |
+| 11 | [I miss you](https://open.spotify.com/track/0pKBFvPNQ6aSlKk0dA4Jzm) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:08 |
+| 12 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 |
+| 13 | [เธอทำให้ฉันกลายเป็นเด็ก](https://open.spotify.com/track/2jhMzVTUrycGnB1QzpWova) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ) | [เธอทำให้ฉันกลายเป็นเด็ก](https://open.spotify.com/album/1m5YwT664K3xwfTwdBa5ex) | 3:33 |
+| 14 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 |
+| 15 | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/track/1BhiR1qlAMzWhi0AgEPilB) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/album/3VnwBDrzS0Ly8e3Q7nmOzy) | 3:42 |
 | 16 | [มาๆหายๆ feat.Karn The Parkinson](https://open.spotify.com/track/4DvOHc5Tguj6RN8o677cWC) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [I GOT LOST BUT LOOK WHAT I FOUND](https://open.spotify.com/album/4P76Ypg17RLMlwr17EPWL6) | 3:10 |
 | 17 | [KIMINOTO](https://open.spotify.com/track/5pbD2zRUQmzhzqHTp97K19) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [KIMINOTO](https://open.spotify.com/album/7KRy7dJ1H6oIUdvkF9LXj2) | 3:42 |
 | 18 | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ) | 3:27 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 44 | [แฟนเก่าคนโปรด](https://open.spotify.com/track/0AQkjLgo2ATGnv8EO2xKyJ) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [แฟนเก่าคนโปรด](https://open.spotify.com/album/1DNoigGZ9lI8p4lbjGd86P) | 3:36 |
 | 45 | [Locker](https://open.spotify.com/track/43rGeSTINiWovwNPiQGAXl) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Locker](https://open.spotify.com/album/6Z4hEV3oVdbCiJd4yYJqu7) | 2:29 |
 
-Snapshot ID: `MTY2MzkzNjc5MCwwMDAwMDAwMGMwZmExNGJmNDVmZmVmN2ZmYjE1M2JjMmY2ZWQ5ZWQw`
+Snapshot ID: `MTY2NTYwMDEwOCwwMDAwMDAwMGVlYzE5Mjg2MDE0NzIzZmNkNmRhMmY2ZDhlZWI3ZWU2`

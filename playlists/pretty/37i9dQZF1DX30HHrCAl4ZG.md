@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Cover: Surf Curse
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,188 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,207 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 2 | [Randall Flagg](https://open.spotify.com/track/4eRoGhykyQCIzhOaFf35zX) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Magic Hour](https://open.spotify.com/album/4SjIdmDhVUA1eunwERtgPv) | 3:39 |
 | 3 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 4 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 |
-| 5 | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z) | 3:08 |
+| 5 | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/2oal7Q9v9hFQXFZbaiGNsy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/1q132A3KkxRLRrEiWZXWqN) | 3:08 |
 | 6 | [Teenage Dream](https://open.spotify.com/track/4rssWNMsh5veaSUEydTAls) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Teenage Dream](https://open.spotify.com/album/7KGsbhfYrdhjLO7XPk04zs) | 3:51 |
 | 7 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
 | 8 | [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 38 | [Quota](https://open.spotify.com/track/0u6e9PEJjRHWXklORJibwd) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [Quota](https://open.spotify.com/album/543i7ziEJtqS4LDsEBQm7g) | 3:09 |
 | 39 | [What Do We Do Now?](https://open.spotify.com/track/06HgiR8nOgQaXuQQdGQbS9) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [What Do We Do Now?](https://open.spotify.com/album/6xRTvgiVIkBPIZH8IzGBUR) | 4:07 |
 | 40 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
-| 41 | [Figure You Out](https://open.spotify.com/track/0zcKU98jIjZAxGPQZ5sDpe) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Figure You Out](https://open.spotify.com/album/2Rx6PnJtokpPlAF1WQQYhw) | 3:04 |
+| 41 | [Figure You Out](https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 3:04 |
 | 42 | [Hello Sunshine](https://open.spotify.com/track/0gWJjbrMpbWkOauTiWghvV) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Hello Sunshine](https://open.spotify.com/album/4QO0A5dTLKEkjKMQuFGH9i) | 3:42 |
 | 43 | [Hide from the World](https://open.spotify.com/track/3LKZ2F6N0Sju2rgXg8kpbj) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Milk Teeth](https://open.spotify.com/album/7nzVmvjPmAXNc7MnIaKVQe) | 3:03 |
 | 44 | [The Other Way](https://open.spotify.com/track/72tFZO4vGmXJvjG62rnpWI) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [The Other Way](https://open.spotify.com/album/20k8V0vHdLxnkTaJjXGcFE) | 3:10 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 52 | [Park Lodge](https://open.spotify.com/track/1eN9cS5xBwzH3Xqt2BCj2f) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Park Lodge](https://open.spotify.com/album/1hXRsKevSg8qrakx7AGZY5) | 3:23 |
 | 53 | [Singapore](https://open.spotify.com/track/6KYHEjY1Q6PskPAjQlzw6z) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [SIDE B](https://open.spotify.com/album/0e7O2OWagUpoL2JXFkKGQj) | 2:52 |
 | 54 | [Don't Take It Personally](https://open.spotify.com/track/2KBCLxrGtUHGsbQTTabnft) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Don’t Take It Personally](https://open.spotify.com/album/0nPvJX8egjWzT7geR5y8Wc) | 3:40 |
-| 55 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 |
+| 55 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 |
 | 56 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
 | 57 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 |
 | 58 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Distraction](https://open.spotify.com/track/7eRNT48fKCtZkq8ASyJGVS) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | ["Hello, Hi"](https://open.spotify.com/album/6GQh3hPNHA7ZOixEdKQKD9) | 5:10 |
 | 100 | [Violent](https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Violent](https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd) | 2:41 |
 
-Snapshot ID: `MTY2NTE1NjIwNCwwMDAwMDAwMDI2Y2U1NmZkZmUzNDhhNTkxOTUzMTFhMjZiMGQyNzFm`
+Snapshot ID: `MTY2NTE1NjIwNCwwMDAwMDAwMGEwNjVkMDU3OTYxMWQ0ZWVjMmVhMmQwYjk4MDlkYzRl`

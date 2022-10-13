@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 22832,
+  "num_followers": 22903,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDYwMzg0NDcxMWI5ZGU0MTU4YzIyZjA2NzdlOGU1ODY5",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDhmYTAwM2M3MGM1M2RiNjdiOTJlNzllNTlhNTAzN2Zl",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -743,38 +743,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Have You Lost Your Mind yet?",
-        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
+        "name": "Chocolate Samurai",
+        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
       },
       "artists": [
         {
           "name": "Fantastic Negrito",
           "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
         }
       ],
-      "duration_ms": 225551,
-      "name": "Searching for Captain Save a Hoe",
-      "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Sand Castles",
-        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
-      },
-      "artists": [
-        {
-          "name": "Rehab",
-          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Them That Matter Don't Mind",
-      "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
+      "duration_ms": 295839,
+      "name": "Chocolate Samurai",
+      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -795,18 +775,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Bottom Shelf Gin",
-        "url": "https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC"
+        "name": "Sand Castles",
+        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
       },
       "artists": [
         {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+          "name": "Rehab",
+          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Bottom Shelf Gin",
-      "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
+      "duration_ms": 169000,
+      "name": "Them That Matter Don't Mind",
+      "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -827,6 +807,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Bottom Shelf Gin",
+        "url": "https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Bottom Shelf Gin",
+      "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -843,18 +839,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Reaching",
-        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
+        "name": "Going Down",
+        "url": "https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5"
       },
       "artists": [
         {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+          "name": "Black River Delta",
+          "url": "https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
+      "duration_ms": 208866,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk"
     }
   ],
   "unique_name": "Alt-Blue",

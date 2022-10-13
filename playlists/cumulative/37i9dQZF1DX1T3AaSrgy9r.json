@@ -319,10 +319,28 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 216440,
       "name": "Bodyrock",
       "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
+    },
+    {
+      "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "Bodyrock",
+      "url": "https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko"
     },
     {
       "album": {
@@ -1168,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
+    },
+    {
+      "album": {
         "name": "Play & Play: The B Sides",
         "url": "https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B"
       },
@@ -1197,7 +1233,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 253760,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/5MIOomJuCJkfuf6mrHJu9H"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,725 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,838 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 89 | [Repent Walpurgis](https://open.spotify.com/track/3oU71W9KUFDllbYWjKaqwL) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Procol Harum \(2009 remaster\)](https://open.spotify.com/album/6OLClv70DOXi5XxmNR0jk2) | 5:05 |
 | 90 | [Red](https://open.spotify.com/track/2ROj14ZhKchHWBMtzwzo0i) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Red \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/13dGZzRzFoejmyVXAbTPAH) | 6:15 |
 | 91 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
-| 92 | [Tarkus \(i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus\) \[2012 Remastered Version\]](https://open.spotify.com/track/62d0aGpYF2p8fpvJ1qa32V) | [Keith Emerson](https://open.spotify.com/artist/5MwQBuYuEnf6hLsupDJ0Um) | [Tarkus \(Deluxe Version\)](https://open.spotify.com/album/6mqJylLfGnLCXhdyMPBCRo) | 20:37 |
+| 92 | [Tarkus \(i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus\) \[2012 Remastered Version\]](https://open.spotify.com/track/62d0aGpYF2p8fpvJ1qa32V) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus \(Deluxe Version\)](https://open.spotify.com/album/6mqJylLfGnLCXhdyMPBCRo) | 20:37 |
 | 93 | [Future Days](https://open.spotify.com/track/4KdjQ2DMs845e6Ag6TO6Yg) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Future Days \(Remastered Version\)](https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w) | 9:29 |
 | 94 | [Sole Survivor](https://open.spotify.com/track/63UeOapFmkJv0NEKGQQTJp) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 4:48 |
 | 95 | [Ashes Are Burning](https://open.spotify.com/track/2Aru12lSfPt3qGePyijaRu) | [Renaissance](https://open.spotify.com/artist/4MERAVAHX04B50JOnasmWf) | [Ashes Are Burning](https://open.spotify.com/album/1C2fgiQmiTF9Dr8NdbPSou) | 11:21 |

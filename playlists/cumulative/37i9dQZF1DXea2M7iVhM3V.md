@@ -4,11 +4,12 @@
 
 > Kill it today with this awesome Hip Hop.
 
-43 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/5Q6IMDAfsGWBrdnbUcY7mG)
+45 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/5Q6IMDAfsGWBrdnbUcY7mG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 | 2022-07-29 |  |
+| [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 | 2022-07-29 | 2022-10-13 |
+| [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 | 2022-10-13 |  |
 | [Blockbuster Night Part 1](https://open.spotify.com/track/2KxIMZDazuXN3yvPC6Kqwn) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Run the Jewels 2](https://open.spotify.com/album/2lPYlP4eumsjz6LBG8GCbG) | 2:32 | 2015-04-07 | 2022-07-29 |
 | [Blockbuster Night, Pt\. 1](https://open.spotify.com/track/1AESnzWt4iMrEPGG7TjXAa) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Run the Jewels 2](https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY) | 2:32 | 2022-07-29 |  |
 | [Both of Us \(feat\. Taylor Swift\)](https://open.spotify.com/track/3r9bgSJlJz2zlevcBRYXko) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Strange Clouds](https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE) | 3:36 | 2015-04-07 |  |
@@ -25,8 +26,9 @@
 | [Express Yourself](https://open.spotify.com/track/0hXJmucLNpF138QY9FJvsT) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:03 | 2022-07-29 |  |
 | [Express Yourself](https://open.spotify.com/track/7GjjSQwQwq6gjcH1kQeNVn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Beneath Your Beautiful](https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8) | 4:03 | 2015-04-07 | 2022-07-29 |
 | [Guts Over Fear](https://open.spotify.com/track/0VZs2OQq4axr8GFRdC9nyD) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Guts Over Fear](https://open.spotify.com/album/1x8e6xbrhtLgipVKFXhGdm) | 5:00 | 2015-04-07 |  |
+| [Heartbeat](https://open.spotify.com/track/0zo4aX57COch7Wh3NRImTM) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh) | 4:29 | 2022-10-13 |  |
 | [Heartbeat](https://open.spotify.com/track/3HooZZPp0evFShqaJ2Pwer) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/4q5E2s5u5X5HT4UMJpbMKE) | 4:29 | 2015-04-07 | 2022-07-29 |
-| [Heartbeat](https://open.spotify.com/track/3WWAvWDBQANpJeNbvVbjMg) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx) | 4:29 | 2022-07-29 |  |
+| [Heartbeat](https://open.spotify.com/track/3WWAvWDBQANpJeNbvVbjMg) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx) | 4:29 | 2022-07-29 | 2022-10-13 |
 | [I Mean It \(feat\. Remo\)](https://open.spotify.com/track/6jmTHeoWvBaSrwWttr8Xvu) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Remo](https://open.spotify.com/artist/7rVA45AaxEEetdqc9NngiJ) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 3:56 | 2015-04-07 |  |
 | [Ill Mind of Hopsin 7](https://open.spotify.com/track/4E9oMuvzEsS2T9hdxWBwPQ) | [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Ill Mind of Hopsin 7](https://open.spotify.com/album/0b8mFD9R0dfVga1xDJjNC5) | 5:50 | 2015-04-07 |  |
 | [Just What I Am](https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [King Chip](https://open.spotify.com/artist/5NjUjtjtkzZqRuWFdspT1K) | [Indicud](https://open.spotify.com/album/262o5a05pMUDSV2uzo5EwQ) | 3:48 | 2022-07-29 |  |

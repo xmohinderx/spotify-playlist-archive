@@ -1621,10 +1621,28 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 156038,
       "name": "moonlit patter",
       "url": "https://open.spotify.com/track/01mxstcuyN6ExxgjhLjgXf"
+    },
+    {
+      "album": {
+        "name": "peaceful showers (rain)",
+        "url": "https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156038,
+      "name": "moonlit patter",
+      "url": "https://open.spotify.com/track/0HFz1abbtEE5mTRsRkMdou"
     },
     {
       "album": {
@@ -3194,6 +3212,24 @@
     },
     {
       "album": {
+        "name": "peaceful showers (rain)",
+        "url": "https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154124,
+      "name": "rumbling rainfall",
+      "url": "https://open.spotify.com/track/45eRVAGkGYIygQ1GjTl2Ff"
+    },
+    {
+      "album": {
         "name": "rumbling rainfall",
         "url": "https://open.spotify.com/album/2aSuvA08FWUZ7LLkwxs31n"
       },
@@ -3205,7 +3241,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 154124,
       "name": "rumbling rainfall",
       "url": "https://open.spotify.com/track/7e4RppJmMYGWgvx1qGGixI"

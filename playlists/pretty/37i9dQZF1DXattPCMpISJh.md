@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Agnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,589 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,722 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 78 | [JUST US TWO](https://open.spotify.com/track/3ipRosZucAVvarAmxKWH1A) | [Scotty Sire](https://open.spotify.com/artist/24vm5FBjvLpwUiVNcYc8qy) | [JUST US TWO](https://open.spotify.com/album/6NMaqBL0rfysZBo4mcyWTY) | 2:10 |
 | 79 | [Say Something \- Extended Mix](https://open.spotify.com/track/6W2ECdBNRoqVfHLRAPo71h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Extended Mixes\)](https://open.spotify.com/album/29SeXSOfJNZetqkzF7stl9) | 5:20 |
 | 80 | [The Way\(feat\. Norman Vladimir\)](https://open.spotify.com/track/4nmGmv2c6eryWwpCjkRS3N) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Norman Vladimir](https://open.spotify.com/artist/0Z28GthKQS0BG8FvHMwYw1) | [The Way \(feat\. Norman Vladimir\)](https://open.spotify.com/album/3gVI5yKLE7ds74O2yZD03v) | 3:25 |
-| 81 | [Keep Moving \- Dave Lee Remix](https://open.spotify.com/track/1xnlffPIq3yKph87VmCiqc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Keep Moving \(Dave Lee Remix\)](https://open.spotify.com/album/6n3JSbR3ONbiGvh9Rb9DiP) | 6:03 |
+| 81 | [Keep Moving \- Dave Lee Remix](https://open.spotify.com/track/0h2Z6MjprW1IVfIyqpZcrg) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Keep Moving \(Dave Lee Remix\)](https://open.spotify.com/album/58EPf9YRS5Xvdc0fMFElkl) | 6:03 |
 | 82 | [Pretty Please \- Supertaste Disco Mix](https://open.spotify.com/track/2EgXnTdWnh4Z4GCwjkwbCI) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/4lcOO4b226jeXKOZ1VTIcm) | 3:41 |
 | 83 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 |
 | 84 | [It's You](https://open.spotify.com/track/1Ky3doQEPgrKmZzLXEp04b) | [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct) | [It's You](https://open.spotify.com/album/1dKA9jVXe7CfeZQJXt77FJ) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Crying on the Dance Floor](https://open.spotify.com/track/71j6BFw8ZUvgYolCXfjyRd) | [Jessy Jones](https://open.spotify.com/artist/0iMXHXPmYYWhfvjnNK42Kd) | [Crying on the Dance Floor](https://open.spotify.com/album/7pzEWRSHiJ6SZA8lviN99M) | 3:25 |
 | 100 | [You Should Be Dancing](https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS) | [Dee Gees](https://open.spotify.com/artist/0mCTPQ5oa1lbPvbw4kc0eX) | [Dee Gees / Hail Satin \- Foo Fighters / Live](https://open.spotify.com/album/50QMS2zosvUxhucf6zMRUy) | 3:52 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDU0ZmU2OWVhNDJkYmE5OGU2MmM4NWNmNTBjMjIxYjll`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGZkMmY4YWMzNWM5ZmI0N2YwOTZiMWZhYjQyNWJjN2Fm`

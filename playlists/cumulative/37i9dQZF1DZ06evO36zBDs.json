@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 271560,
       "name": "CLICK -season 02-",
       "url": "https://open.spotify.com/track/3ey9NGmQAQ21guN77Kp1v1"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 305253,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/4CUnP1yLlZOxdW5puFIZN9"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 213933,
       "name": "Fairy Party",
       "url": "https://open.spotify.com/track/1ijOD2KVBWe4p6kfhu80Wo"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 216346,
       "name": "Fight!!",
       "url": "https://open.spotify.com/track/5Vqe6O1inyJuf54FsCm5SL"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 250186,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/20iLkzds9JViZjGm7BZQB2"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 235066,
       "name": "missing you",
       "url": "https://open.spotify.com/track/40AUDiMUMRhyx0IzQWY7MD"
@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/2DvBe1kVqRuZHzsVNZOu1p"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227573,
+      "name": "Sweet Holic",
+      "url": "https://open.spotify.com/track/5jIa584Dyf6YzMFUsdWRkq"
+    },
+    {
+      "album": {
         "name": "BIRTHDAY",
         "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
       },
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 230651,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/6ZgkaVkKBrvZtOefIIPI8f"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 269040,
       "name": "\u51ac\u7a7a\u82b1\u706b",
       "url": "https://open.spotify.com/track/6eArFjBGBVdWlCwOIZzmi5"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 159520,
       "name": "\u604b\u306e\u30d0\u30ab\u30f3\u30b9",
       "url": "https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 282213,
       "name": "\u685c\u54b2\u304f",
       "url": "https://open.spotify.com/track/4sEgpIXYobY9NRlQmoIBG1"
@@ -1295,6 +1313,24 @@
       "duration_ms": 240200,
       "name": "\u7720\u308a\u59eb",
       "url": "https://open.spotify.com/track/4C6L6e2wXdWXj4tw5TcLcP"
+    },
+    {
+      "album": {
+        "name": "Parfaitone",
+        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "\u77b3\u306e\u4e2d\u306e\u30ed\u30fc\u30ec\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/0GxGhggqr0zvTiFb5yEC4z"
     },
     {
       "album": {

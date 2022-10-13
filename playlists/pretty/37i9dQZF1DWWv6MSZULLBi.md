@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: First Aid Kit
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,042 likes - 99 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,049 likes - 99 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 91 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 |
 | 92 | [Lotusland](https://open.spotify.com/track/3sK6qdQsZvPjRkua3UrSGD) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Glossolalia](https://open.spotify.com/album/66hCqmyDrUMjZrooeuG1PM) | 3:21 |
 | 93 | [The Well Has Run Dry](https://open.spotify.com/track/4bdBLdV7zfd29ZdDvbUfkC) | [The Wilderness of Manitoba](https://open.spotify.com/artist/5iiDMOV4u4LhRMqbCAepUM) | [The Well Has Run Dry](https://open.spotify.com/album/5Op8BG0Ex8C3BHvRQvKE6H) | 5:17 |
-| 94 | [On the Edge](https://open.spotify.com/track/7G5kS3Z1uzgUZlVv6kGhDw) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/2LEAHem1o9t6AzAxVbMRja) | 2:40 |
+| 94 | [On the Edge](https://open.spotify.com/track/4ghxG39Um1SQ8OHdDgUH1p) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/3Ifz0AOMdu8Rs2lhtjuDcJ) | 2:40 |
 | 95 | [Sailors](https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Sailors](https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7) | 4:01 |
 | 96 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 |
 | 97 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
 | 98 | [Friends Are Miracles](https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 3:17 |
 | 99 | [Snake](https://open.spotify.com/track/3AYCM68uOBBJohCXZ107P0) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Snake](https://open.spotify.com/album/0dryzQjbnmvdyOVr2q4Rkr) | 4:04 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGJmMzQxODIyMTg2ZDQxYmY2MTI0YmFjNDZlYzhiYzIx`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGFhYjQ2Zjc2ZDJhMmM5Y2JlZjU3ZGE5NWY3ODNjZjZj`

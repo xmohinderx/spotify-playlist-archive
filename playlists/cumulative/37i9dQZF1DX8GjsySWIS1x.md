@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-754 songs - 1 day 17 hr 58 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+755 songs - 1 day 18 hr 1 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,8 @@
 | [Kim & Jessie](https://open.spotify.com/track/1cTu1MiLR4rOyzIzZd6GYP) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE) | 5:22 | 2021-03-15 | 2021-05-22 |
 | [King Ruby](https://open.spotify.com/track/64TVBhoIG4hcugkDy9J0gv) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [King Ruby](https://open.spotify.com/album/2gnvd0BpGdLskrP7wOjRdv) | 3:40 | 2021-05-22 | 2021-12-11 |
 | [Knee Deep at ATP](https://open.spotify.com/track/7GdIvzFCC3ZGS4sGsCuR9W) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/4COjHeRyvJkn9C5a2QnLkr) | 3:07 | 2022-05-11 | 2022-08-10 |
-| [Knee Deep at ATP](https://open.spotify.com/track/7GN5qZoCkvWxo4ENsFKA6B) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/6FaPUkwFu0JUmEc9yi3PPs) | 3:08 | 2022-07-28 |  |
+| [Knee Deep at ATP](https://open.spotify.com/track/18g9sFXzAcXTPrcmDXSk9z) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/6pTPviSRgaaaGzxGiuna5O) | 3:08 | 2022-07-28 |  |
+| [Knee Deep at ATP](https://open.spotify.com/track/7GN5qZoCkvWxo4ENsFKA6B) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/6FaPUkwFu0JUmEc9yi3PPs) | 3:08 | 2022-07-28 | 2022-10-13 |
 | [L.A.F](https://open.spotify.com/track/6efq1RwNvWhVtt3u5ZmfKr) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [L.A.F](https://open.spotify.com/album/21RgDMRvhtcyrftdYH1uk9) | 2:47 | 2021-03-16 | 2021-03-23 |
 | [La Ciudad](https://open.spotify.com/track/4x6aawsLyPkF3aGPXGvbat) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 4:31 | 2021-05-22 | 2021-10-22 |
 | [La Luna](https://open.spotify.com/track/2cmwLeCZjv3wIl4kjn5WlS) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Luna \(feat\. Totó La Momposina\)](https://open.spotify.com/album/4DSR3RtqC2tH5OL48e7vc6) | 2:23 | 2021-05-24 | 2021-05-28 |

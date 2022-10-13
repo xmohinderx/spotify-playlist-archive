@@ -2315,7 +2315,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -2791,7 +2791,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 184000,
       "name": "Lie Like This",
       "url": "https://open.spotify.com/track/0Vza8xv9EmTgei0HxLO8L3"
@@ -6313,7 +6313,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 174738,
       "name": "\u05d1\u05e9\u05d5\u05e8\u05d5\u05ea \u05d8\u05d5\u05d1\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5dUG9RrLElsi2sxJAhVUZJ"
@@ -6433,6 +6433,24 @@
       "duration_ms": 188244,
       "name": "\u05d3\u05e4\u05d5\u05e7 \u05e2\u05dd \u05ea\u05e2\u05d5\u05d3\u05d5\u05ea",
       "url": "https://open.spotify.com/track/2Xl1BmPcZakzag2gIRs06i"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05d0\u05de\u05ea",
+        "url": "https://open.spotify.com/album/42hRqDyszb7lDxQpZ0Ba7o"
+      },
+      "artists": [
+        {
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177741,
+      "name": "\u05d4\u05d0\u05de\u05ea",
+      "url": "https://open.spotify.com/track/1bd0D0cXcpGeJXsn2Xt8lc"
     },
     {
       "album": {
@@ -7579,7 +7597,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 155219,
       "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
       "url": "https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft"
@@ -8371,7 +8389,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 192660,
       "name": "\u05de\u05dc\u05db\u05ea \u05d4\u05e8\u05d7\u05d1\u05d4",
       "url": "https://open.spotify.com/track/1Dus0KytptzGZvzfAnTcfG"
@@ -9307,7 +9325,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 180984,
       "name": "\u05e4\u05e2\u05de\u05d5\u05df",
       "url": "https://open.spotify.com/track/4DgyTAwiSJsT5u5EljsImB"
@@ -10055,7 +10073,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 212963,
       "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"

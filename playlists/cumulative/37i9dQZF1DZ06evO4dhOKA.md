@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/26XIbqN6SHbg7Y0qsWzhfG)
+84 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/26XIbqN6SHbg7Y0qsWzhfG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [La Novia De Mi Hermano AKA No Te Apasiones](https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 2:42 | 2022-07-23 | 2022-07-25 |
 | [La Vieja Banca](https://open.spotify.com/track/206W3bVhwGOxsEM6ujApk6) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Serie Diamante\-15 Súper Éxitos](https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR) | 2:34 | 2022-06-01 | 2022-08-08 |
 | [Laulomen](https://open.spotify.com/track/7Eov2dZXJ7BX4SjSXxXEtY) | [Ada Band](https://open.spotify.com/artist/2owBL6a90fnWufVtP70K8f), [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Laulomen](https://open.spotify.com/album/6P0N1owkrdRD8IDeCmr1uH) | 2:25 | 2022-06-01 | 2022-06-18 |
-| [Laulomen](https://open.spotify.com/track/0Fwlg3YdgjlOuqM1iXA4UE) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vinniys](https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr) | 2:23 | 2022-08-02 |  |
+| [Laulomen](https://open.spotify.com/track/0Fwlg3YdgjlOuqM1iXA4UE) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vinniys](https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr) | 2:23 | 2022-08-02 | 2022-10-13 |
 | [Leonardo Reyes](https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [12 Corridos](https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4) | 2:54 | 2022-06-01 |  |
 | [Litiznow](https://open.spotify.com/track/7iNMJiQmglKRsh0g8tuO8G) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD), [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Litiznow](https://open.spotify.com/album/3C1ujqy2xIAQuK2ldQrvcV) | 1:33 | 2022-07-09 | 2022-08-11 |
 | [Lo Bera De](https://open.spotify.com/track/7h029g3cf0asV2FrTFdG1I) | [Ada Band](https://open.spotify.com/artist/2owBL6a90fnWufVtP70K8f), [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Lo Bera De](https://open.spotify.com/album/5WQrUtJ7GSrTiBf1E20jDG) | 2:31 | 2022-06-01 | 2022-06-16 |
@@ -72,6 +72,7 @@
 | [Nineteenz](https://open.spotify.com/track/76WEWDcFfI8Xgbg655gDNU) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vinniys](https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr) | 2:39 | 2022-08-07 | 2022-09-25 |
 | [Ojitos a Mi Gusto](https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:40 | 2022-06-01 |  |
 | [Para Ti Mi Amor](https://open.spotify.com/track/2DgnPsg5oI4jiFLnTvuEBA) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:49 | 2022-07-22 | 2022-09-23 |
+| [Pcrct](https://open.spotify.com/track/2NFxWx1OMaZzpGKYumJRqs) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA) | [Pcrct](https://open.spotify.com/album/5n4ScMcE5IpqkskLHGpTpE) | 3:00 | 2022-10-12 |  |
 | [Perro Viejo](https://open.spotify.com/track/683mVjXRj66upXCE2s9tgj) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:29 | 2022-07-27 | 2022-08-17 |
 | [Playa Sola](https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:48 | 2022-06-01 |  |
 | [Popurri / En Vivo Desde Monterrey \- En Vivo \- La Fe Music Hall \- Monterrey, NL / 2008](https://open.spotify.com/track/0sPQ3zxRu4JqrPm3fbwL80) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo Desde Monterrey \(En Vivo \- La Fe Music Hall \- Monterrey, NL / 2008\)](https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL) | 9:07 | 2022-08-05 | 2022-08-07 |

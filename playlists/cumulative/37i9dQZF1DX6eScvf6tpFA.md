@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-124 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/1oIqvSth1lQrZdmEB66StS)
+126 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/1oIqvSth1lQrZdmEB66StS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [IDGAF](https://open.spotify.com/track/19yYZxguSuz2UUgW6J7fOO) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [4 da 304’s](https://open.spotify.com/album/5N6520vpd3Nj66r18wlU4s) | 2:28 | 2021-11-16 |  |
 | [In In \- Lotic Remix](https://open.spotify.com/track/4qGkSR26dmQG7vu7SvBdB0) | [Resina](https://open.spotify.com/artist/4YwqIO2idfCdo4ZRpihMQY), [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [In In \(Lotic Remix\)](https://open.spotify.com/album/1PKzytYNpLC0E5h5Po9Qs8) | 3:44 | 2021-11-16 | 2022-01-22 |
 | [In The Party](https://open.spotify.com/track/52BJrldggFQyTiW8XrILhO) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:17 | 2021-11-16 | 2022-06-10 |
-| [Introvert](https://open.spotify.com/track/0UShrEEVntV8OGruqeFYt7) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Introvert](https://open.spotify.com/album/6Tz74aSvCkoTiekO3SQRY9) | 6:02 | 2021-11-16 |  |
+| [Introvert](https://open.spotify.com/track/0UShrEEVntV8OGruqeFYt7) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Introvert](https://open.spotify.com/album/6Tz74aSvCkoTiekO3SQRY9) | 6:02 | 2021-11-16 | 2022-10-13 |
+| [Introvert](https://open.spotify.com/track/2lbX8Jt97ou14yL9rqG58C) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 6:02 | 2022-06-09 |  |
 | [Jelly](https://open.spotify.com/track/7upI4eeUGFQWpHvFF36p2G) | [Big Homie Ty.Ni](https://open.spotify.com/artist/0IiQOvnmgZpXMLB1fLVYko) | [Jelly](https://open.spotify.com/album/62vEl5UFS0O6XcF7haIZDN) | 2:22 | 2021-11-16 |  |
 | [Jigga Who](https://open.spotify.com/track/5epd4ctYB4yCkBuA31XbiN) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Outside](https://open.spotify.com/album/5ec2VzJnxnvn4eh2vdJc1Q) | 2:32 | 2021-11-16 |  |
 | [Koroba](https://open.spotify.com/track/6MzjLOHzkqoi7667ysz41k) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Koroba](https://open.spotify.com/album/674LMffDQV6mF5JbtvU1Hs) | 2:36 | 2021-11-16 | 2022-01-29 |
@@ -120,7 +121,8 @@
 | [Trinity Dance](https://open.spotify.com/track/0mF6wxdF1c683tC6eQMSgW) | [Tokyo Vanity](https://open.spotify.com/artist/3tyNfmlL7wNE6zaVmTWmRZ) | [P\-Valley: Season 1 \(Music From the Original TV Series\)](https://open.spotify.com/album/1eJXocm0r51Iwyhzeg2eBU) | 2:21 | 2021-11-16 |  |
 | [Triple Gold Sox](https://open.spotify.com/track/3tLy7XCsTxCsn0O94DLYRs) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Triple Gold Sox](https://open.spotify.com/album/6TL62q0id5NHiugOwFH0LD) | 1:56 | 2021-11-16 |  |
 | [Uber Girl](https://open.spotify.com/track/3rXzTqtCULaoOKn8W17Wq1) | [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Defective Holiday OST](https://open.spotify.com/album/7EV6GsiM2nvt38n2FnnpEj) | 1:18 | 2021-11-16 | 2022-03-23 |
-| [UPP](https://open.spotify.com/track/11MHYvBOYGE98chs0XFbYB) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:12 | 2021-11-16 |  |
+| [UPP](https://open.spotify.com/track/11MHYvBOYGE98chs0XFbYB) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:12 | 2021-11-16 | 2022-10-13 |
+| [UPP](https://open.spotify.com/track/6zmXiJQtvFEvyLFQedgGYx) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:12 | 2022-06-09 |  |
 | [UT Squad](https://open.spotify.com/track/294w7zSPE0BZfe2i3dEobH) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [UT Squad](https://open.spotify.com/album/4lrgl2Nm5IbTN5WIDdK3kz) | 3:22 | 2021-11-16 |  |
 | [Uu Uuu](https://open.spotify.com/track/17WDn2rhLS2pXgHocVPe5s) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Paul Marmota](https://open.spotify.com/artist/1hWh4VJXSSsQeqcxKkHqcK) | [Sonrisas](https://open.spotify.com/album/1EWQRQBOtqeuw4DIJE04yi) | 2:52 | 2021-11-16 |  |
 | [V S X](https://open.spotify.com/track/1iJrfg5YIuKyPO6KRMZall) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [D L X](https://open.spotify.com/album/1YfT1nRqendMuVLyTvfaEF) | 3:41 | 2021-11-16 | 2022-06-10 |

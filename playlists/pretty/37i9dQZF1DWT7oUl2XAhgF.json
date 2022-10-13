@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 148039,
+  "num_followers": 148267,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGYwZmFiN2NkYjc4ODk0ZGUyNmJmOWIyYTE4NmY5ZWQ5",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGQ0Nzg5NTMyZTUxYTE4NjcxMjU4ZmE3NjA0ZWMxMzA4",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
     },
     {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Building Balance",
+        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 184952,
+      "name": "Consider Me",
+      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
+    },
+    {
       "added_at": "2021-12-13 16:49:02",
       "album": {
         "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
@@ -471,22 +487,6 @@
       "duration_ms": 218248,
       "name": "Our Love (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Building Balance",
-        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 184952,
-      "name": "Consider Me",
-      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Hard Up (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo"
-      },
-      "artists": [
-        {
-          "name": "The Bamboos",
-          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
-        }
-      ],
-      "duration_ms": 255227,
-      "name": "Hard Up",
-      "url": "https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "More To Learn",
@@ -855,6 +839,22 @@
       "duration_ms": 270722,
       "name": "More To Learn",
       "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Hard Up (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo"
+      },
+      "artists": [
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        }
+      ],
+      "duration_ms": 255227,
+      "name": "Hard Up",
+      "url": "https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Easier Said Than Done",
-        "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Easier Said Than Done",
-      "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "Arcadia",
@@ -959,6 +943,22 @@
       "duration_ms": 156733,
       "name": "Hear Me",
       "url": "https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Easier Said Than Done",
+        "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Easier Said Than Done",
+      "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1009,26 +1009,6 @@
       "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Bury Me",
-        "url": "https://open.spotify.com/album/30t9ltSIwCagrzwMSHHnZb"
-      },
-      "artists": [
-        {
-          "name": "Stealth",
-          "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
-        },
-        {
-          "name": "The Dap-Kings",
-          "url": "https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU"
-        }
-      ],
-      "duration_ms": 174688,
-      "name": "Black Heart",
-      "url": "https://open.spotify.com/track/6lTZctflz7IxPbWKXGJVVS"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Sage Motel",
@@ -1047,6 +1027,26 @@
       "duration_ms": 232493,
       "name": "Sage Motel",
       "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Bury Me",
+        "url": "https://open.spotify.com/album/30t9ltSIwCagrzwMSHHnZb"
+      },
+      "artists": [
+        {
+          "name": "Stealth",
+          "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
+        },
+        {
+          "name": "The Dap-Kings",
+          "url": "https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU"
+        }
+      ],
+      "duration_ms": 174688,
+      "name": "Black Heart",
+      "url": "https://open.spotify.com/track/6lTZctflz7IxPbWKXGJVVS"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "Trade of Hearts",
-      "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Nothing at All / Good Times",
@@ -1129,20 +1113,20 @@
       "url": "https://open.spotify.com/track/7APfnIBMqfT1UDy7p02Yje"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
+      "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r"
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
       },
       "artists": [
         {
-          "name": "Sonny Cleveland",
-          "url": "https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 162680,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q"
+      "duration_ms": 174586,
+      "name": "Trade of Hearts",
+      "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1199,6 +1183,22 @@
       "duration_ms": 198200,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1PkXZNVlv7SkhAvGEDpfOb"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "A Strange Arrangement",
+        "url": "https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 150933,
+      "name": "Just Ain't Gonna Work Out",
+      "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
     }
   ],
   "unique_name": "Retro Soul",

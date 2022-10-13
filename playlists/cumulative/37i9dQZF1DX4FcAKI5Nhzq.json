@@ -2300,6 +2300,28 @@
     },
     {
       "album": {
+        "name": "FIVE SENSES",
+        "url": "https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Complex (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0"
+    },
+    {
+      "album": {
         "name": "Weki Meki 4th Mini Album [NEW RULES]",
         "url": "https://open.spotify.com/album/3VRhzwIZ6kfd7CSirU2E7x"
       },
@@ -9292,6 +9314,28 @@
     },
     {
       "album": {
+        "name": "She Gonna Stop",
+        "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
+      "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+    },
+    {
+      "album": {
         "name": "SPECIAL HISTORY BOOK",
         "url": "https://open.spotify.com/album/3XByrdCCU42SI5I9nxoA10"
       },
@@ -9631,7 +9675,7 @@
     {
       "album": {
         "name": "HEAL",
-        "url": "https://open.spotify.com/album/2jmok4chNxn00UBs3gj1xF"
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
       "artists": [
         {
@@ -9642,6 +9686,24 @@
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+    },
+    {
+      "album": {
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2jmok4chNxn00UBs3gj1xF"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 200581,
       "name": "Sour",
       "url": "https://open.spotify.com/track/6Ji1Ucu9oFMkRawhEe8a16"

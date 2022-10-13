@@ -1,12 +1,12 @@
 {
   "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: JAMIE(\uc81c\uc774\ubbf8))",
-  "num_followers": 804895,
+  "num_followers": 804924,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzIyNiwwMDAwMDAwMDU2OTZiMGI1MGJjZGY1NTFkNWMwOTNiYjI0NTczZTFj",
+  "snapshot_id": "MTY2NTYyNTY5MywwMDAwMDAwMDgzNzM4N2E0YzY5MzcwNzlmODM0OGNkZTZhZjcxZGIw",
   "tracks": [
     {
       "added_at": "2022-10-07 04:33:46",
@@ -23,6 +23,22 @@
       "duration_ms": 185253,
       "name": "3D Woman",
       "url": "https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7"
+    },
+    {
+      "added_at": "2022-10-07 04:33:46",
+      "album": {
+        "name": "Animal Farm",
+        "url": "https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 203945,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
     },
     {
       "added_at": "2022-10-07 04:33:46",
@@ -45,64 +61,48 @@
       "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
     },
     {
-      "added_at": "2022-10-07 04:33:46",
+      "added_at": "2022-10-13 01:59:16",
       "album": {
-        "name": "Animal Farm",
-        "url": "https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/673LeCLGE4vwfR72Zhr3X9"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Spray",
+          "url": "https://open.spotify.com/artist/08yoNApAYvtzOK5P3qZKw8"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "Jason Lee",
+          "url": "https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD"
         }
       ],
-      "duration_ms": 203945,
-      "name": "Animal Farm",
-      "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
+      "duration_ms": 195692,
+      "name": "Love (feat. Loco, Moon Sujin & Jason Lee)",
+      "url": "https://open.spotify.com/track/0unN86elNEKkjrscaPjKbB"
     },
     {
-      "added_at": "2022-10-07 04:33:46",
+      "added_at": "2022-10-13 01:59:16",
       "album": {
-        "name": "Be there",
-        "url": "https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf"
+        "name": "LUV SIGN",
+        "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
       },
       "artists": [
         {
-          "name": "DAVII",
-          "url": "https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc"
-        },
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
         }
       ],
-      "duration_ms": 223008,
-      "name": "Be there",
-      "url": "https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg"
-    },
-    {
-      "added_at": "2022-10-07 04:33:46",
-      "album": {
-        "name": "Wine, HAAN",
-        "url": "https://open.spotify.com/album/6MSzUB3R6lYX9iYEqwbvjN"
-      },
-      "artists": [
-        {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
-        },
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "PLHN",
-          "url": "https://open.spotify.com/artist/1T23OINQy0bqby8QXcM7cm"
-        }
-      ],
-      "duration_ms": 170154,
-      "name": "Forget Me (Feat. PLHN)",
-      "url": "https://open.spotify.com/track/1ox7zkdVWVUFJY0H1547qB"
+      "duration_ms": 225800,
+      "name": "Got U",
+      "url": "https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx"
     },
     {
       "added_at": "2022-10-07 04:33:46",
@@ -139,18 +139,26 @@
     {
       "added_at": "2022-10-07 04:33:46",
       "album": {
-        "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
+        "name": "Wine, HAAN",
+        "url": "https://open.spotify.com/album/6MSzUB3R6lYX9iYEqwbvjN"
       },
       "artists": [
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        },
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "PLHN",
+          "url": "https://open.spotify.com/artist/1T23OINQy0bqby8QXcM7cm"
         }
       ],
-      "duration_ms": 229570,
-      "name": "LA VIE",
-      "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
+      "duration_ms": 170154,
+      "name": "Forget Me (Feat. PLHN)",
+      "url": "https://open.spotify.com/track/1ox7zkdVWVUFJY0H1547qB"
     },
     {
       "added_at": "2022-10-07 04:33:46",
@@ -771,18 +779,18 @@
     {
       "added_at": "2022-10-07 04:33:46",
       "album": {
-        "name": "modern breakups",
-        "url": "https://open.spotify.com/album/2QnNSkWnmb2Aw42kEGvDQL"
+        "name": "WAYO",
+        "url": "https://open.spotify.com/album/391Rvtlm88VGNp8ls7FVbB"
       },
       "artists": [
         {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+          "name": "BANG YE DAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
         }
       ],
-      "duration_ms": 184833,
-      "name": "maybe we need a break",
-      "url": "https://open.spotify.com/track/2P2r0647uy5pKUikGZ7q9B"
+      "duration_ms": 205164,
+      "name": "WAYO",
+      "url": "https://open.spotify.com/track/0BOVjtn27VIF8Ph0CSIKyG"
     },
     {
       "added_at": "2022-10-07 04:33:46",
@@ -803,18 +811,18 @@
     {
       "added_at": "2022-10-07 04:33:46",
       "album": {
-        "name": "WAYO",
-        "url": "https://open.spotify.com/album/391Rvtlm88VGNp8ls7FVbB"
+        "name": "modern breakups",
+        "url": "https://open.spotify.com/album/2QnNSkWnmb2Aw42kEGvDQL"
       },
       "artists": [
         {
-          "name": "BANG YE DAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
         }
       ],
-      "duration_ms": 205164,
-      "name": "WAYO",
-      "url": "https://open.spotify.com/track/0BOVjtn27VIF8Ph0CSIKyG"
+      "duration_ms": 184833,
+      "name": "maybe we need a break",
+      "url": "https://open.spotify.com/track/2P2r0647uy5pKUikGZ7q9B"
     },
     {
       "added_at": "2022-10-07 04:33:46",

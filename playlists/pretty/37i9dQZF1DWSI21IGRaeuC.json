@@ -1,32 +1,36 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 9023,
+  "num_followers": 9096,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDljNDE2YzIxNmQ4ODUwZGE4MTQxM2Q0NDVjZmFhNDA2",
+  "snapshot_id": "MTY2NTYwMDIxMCwwMDAwMDAwMGQ2NmVkNjAxZmM5Yzc1MDQzMzk4MGU1ZDVmYTJlNmYw",
   "tracks": [
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-10-12 18:33:51",
       "album": {
-        "name": "Da Fonk (feat. Joni)",
-        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
+        "name": "Bocat (Michael Bibi Remix)",
+        "url": "https://open.spotify.com/album/7eFCcNOJPqwfcHfdfygATF"
       },
       "artists": [
         {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+          "name": "Guy Gerber",
+          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
         },
         {
-          "name": "Joni",
-          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
+          "name": "Albertina",
+          "url": "https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq"
+        },
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         }
       ],
-      "duration_ms": 366141,
-      "name": "Da Fonk (feat. Joni)",
-      "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
+      "duration_ms": 367086,
+      "name": "Bocat - Michael Bibi Remix",
+      "url": "https://open.spotify.com/track/1pea4MX31SSMy0PeQsme33"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -49,32 +53,24 @@
       "url": "https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ"
     },
     {
-      "added_at": "2022-08-15 14:49:47",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Raw (Tony Romera Remix)",
-        "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
+        "name": "Da Fonk (feat. Joni)",
+        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
       "artists": [
         {
-          "name": "Julio Navas",
-          "url": "https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr"
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
         },
         {
-          "name": "Gustavo Bravetti",
-          "url": "https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9"
-        },
-        {
-          "name": "David Amo",
-          "url": "https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+          "name": "Joni",
+          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Raw - Tony Romera Remix",
-      "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
+      "duration_ms": 366141,
+      "name": "Da Fonk (feat. Joni)",
+      "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -113,20 +109,32 @@
       "url": "https://open.spotify.com/track/11fsAfyLE6m6j1Zay5hpvF"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-08-15 14:49:47",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6"
+        "name": "Raw (Tony Romera Remix)",
+        "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
       "artists": [
         {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+          "name": "Julio Navas",
+          "url": "https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr"
+        },
+        {
+          "name": "Gustavo Bravetti",
+          "url": "https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9"
+        },
+        {
+          "name": "David Amo",
+          "url": "https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 206378,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
+      "duration_ms": 217500,
+      "name": "Raw - Tony Romera Remix",
+      "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -173,6 +181,22 @@
       "url": "https://open.spotify.com/track/3FWy6mQGJt44v0YmLU6ieG"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "duration_ms": 206378,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
+    },
+    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Roll Play",
@@ -187,22 +211,6 @@
       "duration_ms": 203437,
       "name": "Roll Play",
       "url": "https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "The Ciggie",
-        "url": "https://open.spotify.com/album/5TijfininJwDUX6P1iSyf7"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 373032,
-      "name": "The Ciggie",
-      "url": "https://open.spotify.com/track/1r8ZqfggYqW1R2JjiDGBQV"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -257,6 +265,46 @@
       "url": "https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "The Ciggie",
+        "url": "https://open.spotify.com/album/5TijfininJwDUX6P1iSyf7"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 373032,
+      "name": "The Ciggie",
+      "url": "https://open.spotify.com/track/1r8ZqfggYqW1R2JjiDGBQV"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Won't Stop Now",
+        "url": "https://open.spotify.com/album/0eLnugOAUou9oEHIsGWpDn"
+      },
+      "artists": [
+        {
+          "name": "Rony Seikaly",
+          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        },
+        {
+          "name": "Black Circle",
+          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
+        }
+      ],
+      "duration_ms": 405294,
+      "name": "Won't Stop Now Ft. Diddy - Andrea Oliva & Black Circle Remix",
+      "url": "https://open.spotify.com/track/2RcogvIEmlk7DoI1iDrySs"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Rizzla (Mochakk Remix)",
@@ -283,30 +331,6 @@
       "duration_ms": 321860,
       "name": "Rizzla - Mochakk Remix",
       "url": "https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Won't Stop Now",
-        "url": "https://open.spotify.com/album/0eLnugOAUou9oEHIsGWpDn"
-      },
-      "artists": [
-        {
-          "name": "Rony Seikaly",
-          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
-        },
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        },
-        {
-          "name": "Black Circle",
-          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
-        }
-      ],
-      "duration_ms": 405294,
-      "name": "Won't Stop Now Ft. Diddy - Andrea Oliva & Black Circle Remix",
-      "url": "https://open.spotify.com/track/2RcogvIEmlk7DoI1iDrySs"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -365,42 +389,6 @@
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
     },
     {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Otto's Chant",
-        "url": "https://open.spotify.com/album/3suaEss6InlgqN8pf51Sa5"
-      },
-      "artists": [
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        },
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 369836,
-      "name": "Otto's Chant",
-      "url": "https://open.spotify.com/track/3j8PXtq0NN7QQVdNwkoFBe"
-    },
-    {
-      "added_at": "2022-06-10 14:45:01",
-      "album": {
-        "name": "Bionic Boy",
-        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 206265,
-      "name": "Bionic Boy",
-      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Sete (Carlita Remix)",
@@ -427,6 +415,22 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0"
+    },
+    {
+      "added_at": "2022-06-10 14:45:01",
+      "album": {
+        "name": "Bionic Boy",
+        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 206265,
+      "name": "Bionic Boy",
+      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -597,22 +601,6 @@
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
     },
     {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Really Really Hot",
-        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
-      },
-      "artists": [
-        {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Really Really Hot",
-      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
-    },
-    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Take Me Back",
@@ -627,6 +615,22 @@
       "duration_ms": 197502,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Really Really Hot",
+        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Really Really Hot",
+      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -801,38 +805,6 @@
       "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
-      "added_at": "2022-07-08 17:12:43",
-      "album": {
-        "name": "Kick It EP",
-        "url": "https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ"
-      },
-      "artists": [
-        {
-          "name": "Archie Hamilton",
-          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
-        }
-      ],
-      "duration_ms": 422250,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Freak With Us",
-        "url": "https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        }
-      ],
-      "duration_ms": 197007,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Beeper Blowing Up",
@@ -851,6 +823,38 @@
       "duration_ms": 218130,
       "name": "Beeper Blowing Up",
       "url": "https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Freak With Us",
+        "url": "https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 197007,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC"
+    },
+    {
+      "added_at": "2022-07-08 17:12:43",
+      "album": {
+        "name": "Kick It EP",
+        "url": "https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "duration_ms": 422250,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
     },
     {
       "added_at": "2022-07-15 04:00:00",

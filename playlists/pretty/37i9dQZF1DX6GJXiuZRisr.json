@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1377517,
+  "num_followers": 1377951,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ5Njg3MiwwMDAwMDAwMGJmOTNhOWE0MDdhNTRjYzIwNTY3ZDQyYjNhMDJlYjJl",
+  "snapshot_id": "MTY2NTQ5Njg3MiwwMDAwMDAwMDYxYzhlNWZkY2M2NTJhY2JlNGQ1ZmNkMGU2NjdlNzg1",
   "tracks": [
     {
       "added_at": "2022-07-01 11:37:35",
@@ -727,6 +727,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Offshore",
         "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 199680,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -893,6 +893,30 @@
       "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
     },
     {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "The World You See",
+        "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+        }
+      ],
+      "duration_ms": 217515,
+      "name": "The World You See",
+      "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Origin",
@@ -939,30 +963,6 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6RCT4geaXTmDmtiwFLJv8j"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "The World You See",
-        "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Artche",
-          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
-        }
-      ],
-      "duration_ms": 217515,
-      "name": "The World You See",
-      "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 205161,
       "name": "Elements Of A New Life",
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "False Reactions",
+      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/7cLqRIMFqyzbGRyVYMhCyA"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 250587,
       "name": "Say",
       "url": "https://open.spotify.com/track/51o86RT9X0EqMLJ43hrYe9"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "False Reactions",
-      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Thermal / Oblivion",
         "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 229440,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1365,38 +1365,6 @@
       "url": "https://open.spotify.com/track/1CgZ0pKxdBB9trUYULmKSs"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Gee",
-          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Time and Time Again",
-        "url": "https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 234098,
-      "name": "Time and Time Again - Single Edit",
-      "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
-    },
-    {
       "added_at": "2022-09-09 10:15:52",
       "album": {
         "name": "Love Instead",
@@ -1419,22 +1387,18 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "All I Want (feat. Goatchy)",
-        "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
       },
       "artists": [
         {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        },
-        {
-          "name": "Goatchy",
-          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
         }
       ],
-      "duration_ms": 224978,
-      "name": "All I Want (feat. Goatchy)",
-      "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
+      "duration_ms": 160000,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1451,6 +1415,42 @@
       "duration_ms": 229512,
       "name": "Tantrum",
       "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Time and Time Again",
+        "url": "https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 234098,
+      "name": "Time and Time Again - Single Edit",
+      "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "All I Want (feat. Goatchy)",
+        "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
+      },
+      "artists": [
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        },
+        {
+          "name": "Goatchy",
+          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
+        }
+      ],
+      "duration_ms": 224978,
+      "name": "All I Want (feat. Goatchy)",
+      "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1509,6 +1509,22 @@
       "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
     },
     {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "This Time / Ray",
+        "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
+      },
+      "artists": [
+        {
+          "name": "Avoure",
+          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
+        }
+      ],
+      "duration_ms": 414646,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Artefact",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "This Time / Ray",
-        "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
-      },
-      "artists": [
-        {
-          "name": "Avoure",
-          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
-        }
-      ],
-      "duration_ms": 414646,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Deep State",
         "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
       },
@@ -1559,6 +1559,26 @@
       "duration_ms": 337500,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2YL8UqzkqxspHtnBkDWyVA"
+        }
+      ],
+      "duration_ms": 220644,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1601,26 +1621,6 @@
       "url": "https://open.spotify.com/track/41rjAEQbD85oUdFX9uPGqG"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        },
-        {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2YL8UqzkqxspHtnBkDWyVA"
-        }
-      ],
-      "duration_ms": 220644,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
-    },
-    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Heartbreak",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Haunt Me",
-        "url": "https://open.spotify.com/album/4EMZGTv76C32KyS0dZRwad"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "The Moth & The Flame",
-          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
-        }
-      ],
-      "duration_ms": 299232,
-      "name": "Haunt Me",
-      "url": "https://open.spotify.com/track/17zdyEVw9oe9FBDevjOl5c"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Temper Temper (feat. ONR)",
         "url": "https://open.spotify.com/album/78cHKcaJ2agjy5arczangj"
       },
@@ -1695,26 +1675,6 @@
       "duration_ms": 213571,
       "name": "Temper Temper (feat. ONR)",
       "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/36BFn54Z3fFYVBXMCG99qZ"
-      },
-      "artists": [
-        {
-          "name": "i_o",
-          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/0TzkG2s7nhpZs0RNSBsAlF"
     },
     {
       "added_at": "2022-08-26 13:27:46",
@@ -1761,6 +1721,22 @@
       "url": "https://open.spotify.com/track/3QeQ9CW00jI5J6NPF7vel0"
     },
     {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Twin Souls",
+        "url": "https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 269460,
+      "name": "Twin Souls",
+      "url": "https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Gamma",
@@ -1791,22 +1767,6 @@
       "duration_ms": 231739,
       "name": "Playing Chess",
       "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Twin Souls",
-        "url": "https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 269460,
-      "name": "Twin Souls",
-      "url": "https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1975,6 +1935,46 @@
       "duration_ms": 305078,
       "name": "LINE IN THE SAND",
       "url": "https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Paradise (feat. Lucas Ariel)",
+        "url": "https://open.spotify.com/album/11AxCghy6UurshHIAKNaRe"
+      },
+      "artists": [
+        {
+          "name": "Luis Torres",
+          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
+        },
+        {
+          "name": "Lucas Ariel",
+          "url": "https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T"
+        }
+      ],
+      "duration_ms": 232740,
+      "name": "Paradise (feat. Lucas Ariel)",
+      "url": "https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Bridges In The Sky",
+        "url": "https://open.spotify.com/album/1aPCc1XkP3hSE21HfdAVWD"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Maurits Colijn",
+          "url": "https://open.spotify.com/artist/3flMOgDUT0vdbSZwkl4by3"
+        }
+      ],
+      "duration_ms": 345365,
+      "name": "Bridges In The Sky (feat. Maurits Colijn)",
+      "url": "https://open.spotify.com/track/7qmj6GXCoataBL3kBYBrII"
     }
   ],
   "unique_name": "Night Rider",

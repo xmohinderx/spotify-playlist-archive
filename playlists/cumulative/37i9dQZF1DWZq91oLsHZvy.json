@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172307,
       "name": "Call A Friend",
       "url": "https://open.spotify.com/track/2JoNqjOOEn1VsiDMS3BQ85"
@@ -525,6 +525,24 @@
     {
       "album": {
         "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
+    },
+    {
+      "album": {
+        "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
       },
       "artists": [
@@ -535,7 +553,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 278769,
       "name": "Can I Call You Tonight?",
       "url": "https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 163381,
       "name": "Dirtball",
       "url": "https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 219973,
       "name": "Entertainment",
       "url": "https://open.spotify.com/track/6CplRWasnvBmi33sFv6xYn"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 212800,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/3TNz5pqBMHctxlb1fNU95G"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 233986,
       "name": "Gun",
       "url": "https://open.spotify.com/track/4cTVAIFH1zGNQFFRFMCzsd"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 204990,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9"
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 192612,
       "name": "i'll die anyway.",
       "url": "https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 221946,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 165666,
       "name": "Is This What It Feels Like to Feel Like This?",
       "url": "https://open.spotify.com/track/2qiYy5k1mDAOpegYqv00wG"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 144921,
       "name": "Love Is An Only Child",
       "url": "https://open.spotify.com/track/2mKXwnyTLDOuZQz8vodLMh"
@@ -2491,7 +2509,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "Speeddance",
       "url": "https://open.spotify.com/track/1gdO3q99cYhaFg3WaP27JQ"
@@ -2671,7 +2689,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 221226,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2rS77EbhEs7Y2UZD8pWIPb"
@@ -2971,10 +2989,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 195951,
       "name": "You Stupid Bitch",
       "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
+    },
+    {
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
     },
     {
       "album": {

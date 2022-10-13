@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: GAYLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,854 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,933 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 44 | [HABIBI \(MY LOVE\)](https://open.spotify.com/track/7IZ5mUwsHLULx7vTHLzIHE) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [HABIBI \(MY LOVE\)](https://open.spotify.com/album/27wb1fwl2aMDdmoUOCaQY3) | 2:29 |
 | 45 | [I Remember](https://open.spotify.com/track/2l8jOQQNJAhjYDoGBnR7bV) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [I Remember](https://open.spotify.com/album/1gRBVJiD8X9V79rLnHGLWE) | 3:27 |
 | 46 | [Wildflower](https://open.spotify.com/track/5HEfenabh2FfPUOO4xa89L) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Wildflower](https://open.spotify.com/album/5MX0G9hlDVOUsY6zRDFMq0) | 2:41 |
-| 47 | [Never Be the Same](https://open.spotify.com/track/05AqzInQVaFUqshRXHUTIE) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Never Be the Same](https://open.spotify.com/album/4R4OBxAKjtHUmUxBYKhGX6) | 3:25 |
+| 47 | [Never Be the Same](https://open.spotify.com/track/1W5j84OLhShyEIJEwaLzaU) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Never Be the Same](https://open.spotify.com/album/5mBF1iS21JNdxRcQrekPlS) | 3:25 |
 | 48 | [Someone Who Loved You](https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone Who Loved You](https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9) | 2:57 |
 | 49 | [The Neighborhood](https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Neighborhood](https://open.spotify.com/album/5p1furq3olcZbnXe51liZh) | 3:13 |
 | 50 | [Can I](https://open.spotify.com/track/3iykpxKSHzIBd3EWkkWhfN) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Can I](https://open.spotify.com/album/2dWNwyF7ac8Q5LWxAXhup1) | 3:00 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 64 | [Picture You Naked](https://open.spotify.com/track/5EX6Fj4aElgJUt1YXuEn6F) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Picture You Naked](https://open.spotify.com/album/5ifwFsUzVSnj7QYN7FMnaY) | 2:40 |
 | 65 | [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 |
 | 66 | [18](https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [18](https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod) | 2:58 |
-| 67 | [this is what sadness feels like](https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:11 |
+| 67 | [this is what sadness feels like](https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:11 |
 | 68 | [Summer Is Over](https://open.spotify.com/track/78nvT4euebtCsEigaNt4aa) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Summer Is Over](https://open.spotify.com/album/6RtywjU8C5NqmQPKUYeROd) | 3:08 |
 | 69 | [Regrets](https://open.spotify.com/track/2PDMHRRjLH8HJSF5COYdgr) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Regrets](https://open.spotify.com/album/741T9n7WN9E0kdwFj43CAN) | 2:02 |
 | 70 | [Looking for Trouble](https://open.spotify.com/track/67CCjpC8R4pWs2xaqkn3op) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Looking for Trouble](https://open.spotify.com/album/1SXRmp8DSW8ewbGB1DRnAO) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Becoming](https://open.spotify.com/track/4cFgns2ecfWhXR7BTWYdtX) | [Austin Ward](https://open.spotify.com/artist/3iQH8Wnh2zRBvZEdoV2aHz) | [Becoming](https://open.spotify.com/album/3x2iJa0yBkNSG0S9iA2cI0) | 4:04 |
 | 100 | [Manhattan](https://open.spotify.com/track/1BbC5Ziws2nDOIFhPiVefD) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [Manhattan](https://open.spotify.com/album/2Ec8ao91ENgzKn5g1pu91F) | 2:46 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDRjMDVmZjVmZTEwYmE4MmU3ZDg4MGQyNzk1MWZmMTAy`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGI0M2NkYWMyNGVjNGQ4YmVkMjllOWI1NmNmNjUxNzRi`

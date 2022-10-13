@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Sobs \(Singapore\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,037 likes - 74 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,089 likes - 74 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 11 | [Have A Break!](https://open.spotify.com/track/3tbq7cimDQYHvfV8LQIgEX) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Have A Break!](https://open.spotify.com/album/3rjU1R2gOxdIf4TiGudtJV) | 3:05 |
 | 12 | [Flying Bobs](https://open.spotify.com/track/7by74pjKw8FxKatW0l92Mf) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEEN TROUBLES](https://open.spotify.com/album/1KCSoihLiF0x66tJyQ6VbE) | 4:02 |
 | 13 | [Honestly](https://open.spotify.com/track/09PLEiRIRz7RhQmZSX2iE7) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honestly](https://open.spotify.com/album/0BR7eudQY2ly2t99WLuJ4b) | 3:18 |
-| 14 | [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 |
+| 14 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 |
 | 15 | [In Another Life](https://open.spotify.com/track/1jpgacTEqXNNhTLTQTeUcl) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [In Another Life](https://open.spotify.com/album/4KDL14uRiNvUfIhVhkJfKx) | 2:27 |
 | 16 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 |
 | 17 | [ドク](https://open.spotify.com/track/3gP9oOdbuyRpD5Pn3SiAMv) | [warbear](https://open.spotify.com/artist/0crqBMILaHvFaCvagAiwZr) | [Patch](https://open.spotify.com/album/5kpqm3njhyZaMOclXBuhEj) | 2:57 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 73 | [OUT OF YOU](https://open.spotify.com/track/7vMcexHRs6bnRaIAWNjXtG) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [OUT OF YOU](https://open.spotify.com/album/5N0wdGbzWYwVcc3S8tYX2h) | 3:28 |
 | 74 | [沒關係 it’s okay!!](https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [沒關係 it’s okay!!](https://open.spotify.com/album/5w3yXSuQASET0SIpfmH43X) | 3:11 |
 
-Snapshot ID: `MTY2NTA3NTYxMSwwMDAwMDAwMGQ5ODA3MDU1NDQ0ZTllZTI4OWFhYTgzYmQ4MjE1Mjll`
+Snapshot ID: `MTY2NTA3NTYxMSwwMDAwMDAwMDc1YWI3YTQ5N2MzOGM1NDdhYjg0MTg0ZTRjNDYyZmFi`

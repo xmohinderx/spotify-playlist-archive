@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 196146,
       "name": "Ace Of Spades",
       "url": "https://open.spotify.com/track/5MmG5hbnnNp87pS7xTtDct"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 257224,
       "name": "Boogie With Stu - Live",
       "url": "https://open.spotify.com/track/168hcGYzhikucSpy8LLTiV"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 373125,
       "name": "Going Down (Live)",
       "url": "https://open.spotify.com/track/46aW1XoxfDLztY4mSdLyGs"
@@ -551,6 +551,36 @@
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
+    },
+    {
+      "album": {
+        "name": "From the New World",
+        "url": "https://open.spotify.com/album/0ySYs5Q9ATYf72SvoNGULZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Parsons",
+          "url": "https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG"
+        },
+        {
+          "name": "David Pack",
+          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Mike Larson",
+          "url": "https://open.spotify.com/artist/6mrMrYWO8ZfWiry8Obud1l"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280559,
+      "name": "I Won't Be Led Astray",
+      "url": "https://open.spotify.com/track/4dhiXdTmpDy5gDaFElnUrv"
     },
     {
       "album": {
@@ -661,7 +691,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 313093,
       "name": "I'll Take Care Of You",
       "url": "https://open.spotify.com/track/4T7n1ZajPPQCuvX4yby9Pt"
@@ -917,7 +947,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 423666,
       "name": "Notches",
       "url": "https://open.spotify.com/track/37OvIUoTAlKsuO3nTGSLSf"
@@ -965,6 +995,24 @@
       "duration_ms": 229840,
       "name": "Nutbush City Limits - Live",
       "url": "https://open.spotify.com/track/76nH08xYcm4PiKwpHMuyGU"
+    },
+    {
+      "album": {
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55186,
+      "name": "Pilgrimage",
+      "url": "https://open.spotify.com/track/0SN7oedJQF4Lisqp61Qt5c"
     },
     {
       "album": {
@@ -1507,6 +1555,24 @@
       "duration_ms": 333333,
       "name": "What I've Known For A Very Long Time",
       "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
+    },
+    {
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215026,
+      "name": "You Upset Me Baby",
+      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
     },
     {
       "album": {

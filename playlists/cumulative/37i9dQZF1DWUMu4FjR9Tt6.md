@@ -4,7 +4,7 @@
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-100 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/7b1BQYuQIj2i5nZNS1UeKq)
+103 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/7b1BQYuQIj2i5nZNS1UeKq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,17 +89,20 @@
 | [Short Change Hero](https://open.spotify.com/track/7JOizhmt3HlBgQyJEa0AgK) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [The House That Dirt Built](https://open.spotify.com/album/0sKcuounq52lm9hmFwEZN5) | 5:22 | 2022-06-22 |  |
 | [Sinnerman](https://open.spotify.com/track/3EIidirnGCYto1KtcNfttt) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Legendary Jazz Voices](https://open.spotify.com/album/5k62RQ9j9mk4AGYaZpLIWR) | 10:22 | 2022-06-17 | 2022-07-29 |
 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 | 2022-06-17 |  |
-| [Sister of Pearl](https://open.spotify.com/track/2tfhqmq39kpDf1k7IJWxld) | [Baio](https://open.spotify.com/artist/50lhyY7UVI9NyVHl79rVgk) | [The Names](https://open.spotify.com/album/4ahm7bGwWItEetGLYuYelf) | 4:13 | 2022-06-17 |  |
+| [Sister of Pearl](https://open.spotify.com/track/1ZbsCkJ4mFuZZmaIKbwbP9) | [Baio](https://open.spotify.com/artist/50lhyY7UVI9NyVHl79rVgk) | [The Names](https://open.spotify.com/album/0kKOoiVp24PhkzlD8XSQna) | 4:13 | 2022-06-17 |  |
+| [Sister of Pearl](https://open.spotify.com/track/2tfhqmq39kpDf1k7IJWxld) | [Baio](https://open.spotify.com/artist/50lhyY7UVI9NyVHl79rVgk) | [The Names](https://open.spotify.com/album/4ahm7bGwWItEetGLYuYelf) | 4:13 | 2022-06-17 | 2022-10-13 |
 | [Something On Your Mind](https://open.spotify.com/track/6Vz2IQv3AYoznh4tjsrRPo) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [In My Own Time](https://open.spotify.com/album/1OuzXj4yo7VyBKwHZhxEnW) | 3:23 | 2022-06-17 | 2022-07-29 |
 | [Something on Your Mind](https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [In My Own Time \(50th Anniversary Edition\)](https://open.spotify.com/album/36WryGURqME9Y2URzzzmio) | 3:23 | 2022-06-17 |  |
-| [Sometimes](https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL) | 3:16 | 2022-06-22 |  |
+| [Sometimes](https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL) | 3:16 | 2022-06-22 | 2022-10-13 |
+| [Sometimes](https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh) | 3:16 | 2022-06-22 |  |
 | [Soul Kitchen](https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 3:33 | 2022-06-17 |  |
 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 | 2022-06-17 |  |
 | [Teenage Dream](https://open.spotify.com/track/08feveJTNL1OMLSrdoHQ6Q) | [The Rescues](https://open.spotify.com/artist/28xUSGD80Bh3CuLlg0GVqf) | [Teenage Dream](https://open.spotify.com/album/1dKSvTjt9oKdPuttrwrwLj) | 3:39 | 2022-06-22 |  |
 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 | 2022-06-22 |  |
 | [The Order of Death](https://open.spotify.com/track/3QOQEObqJvCi4M2SNeko7V) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [This is What You Want..\. This Is What You Get](https://open.spotify.com/album/72V5EfB3sa97eKf0Fs99EJ) | 4:49 | 2022-06-17 |  |
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2022-06-22 |  |
-| [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 | 2022-06-17 |  |
+| [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 | 2022-06-17 | 2022-10-13 |
+| [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 | 2022-06-17 |  |
 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 | 2022-06-17 |  |
 | [Unwind Yourself](https://open.spotify.com/track/0h7pMUK2EKEj7E4gGvhDO5) | [Marva Whitney](https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h) | [It's My Thing](https://open.spotify.com/album/5DRDGz9y5gyLgd0S8gI0aO) | 2:50 | 2022-06-17 |  |
 | [We'll Get Through](https://open.spotify.com/track/7qzWNwTdiodHlOMgC1MC5A) | [The Slugs](https://open.spotify.com/artist/2uVd7a7CGDZKUYP4yK7aer) | [Fort Fun](https://open.spotify.com/album/1LSJiyGSX7F27HwJj5bpVq) | 3:16 | 2022-06-22 |  |

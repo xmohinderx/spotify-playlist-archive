@@ -4,7 +4,7 @@
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-89 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
+90 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,8 +78,9 @@
 | [Oxygenesis](https://open.spotify.com/track/6nUjywA9WxzdtSJEkkUg0r) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [ZERO2](https://open.spotify.com/album/1YUGatFxMZCGLDO611dDXL) | 2:48 | 2021-02-19 |  |
 | [Oxygenesis](https://open.spotify.com/track/6qVugF64yHpE9R535iRzkp) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [ZERO2](https://open.spotify.com/album/6WBQWFCQo0z9MLNIsH0hIB) | 2:48 | 2021-02-19 | 2022-08-15 |
 | [Pandaemonium](https://open.spotify.com/track/5me2adkCbJjK6f7VrdUlL0) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Pandaemonium](https://open.spotify.com/album/3FQpDZp9dl3lhCSqaAJSFH) | 4:58 | 2021-02-19 |  |
+| [Pounce](https://open.spotify.com/track/0wdgTXpl7C4Y1bCDSGObH1) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Cadenza](https://open.spotify.com/artist/1bNzXbgsvRae7iPvgdwLsh) | [Pounce](https://open.spotify.com/album/4aPyjcIQmlVzXuePvMBID7) | 3:24 | 2021-02-19 |  |
 | [Pounce](https://open.spotify.com/track/1O2rjHOLrlqrVuiBnvtMhk) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk) | [Pounce](https://open.spotify.com/album/0jCZQwU8ez3ozZVjNvW9um) | 3:24 | 2021-02-19 | 2022-07-29 |
-| [Pounce](https://open.spotify.com/track/3SrEARFQQeB1jPvcdY0TzR) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk) | [Pounce](https://open.spotify.com/album/6Okmbkojhxqf64W25s2N88) | 3:24 | 2021-02-19 |  |
+| [Pounce](https://open.spotify.com/track/3SrEARFQQeB1jPvcdY0TzR) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk) | [Pounce](https://open.spotify.com/album/6Okmbkojhxqf64W25s2N88) | 3:24 | 2021-02-19 | 2022-10-13 |
 | [Priestess](https://open.spotify.com/track/1F96wp4Aa2l2ygMcmSX75w) | [AMAZONDOTCOM](https://open.spotify.com/artist/2wSYqnT1Cu1oQcFFspe0Ie) | [Mirror River](https://open.spotify.com/album/6uAcSbDR2nBr6WPE1IOgf3) | 6:41 | 2021-02-19 |  |
 | [Raising Hell](https://open.spotify.com/track/5q9F2CNzrrNQMM7l62S2c6) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 4:10 | 2021-02-19 |  |
 | [Razzy Beat](https://open.spotify.com/track/6s6RtUrhYdOxJ70rNyCKh8) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Fight! Fight! Fight!](https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2) | 3:19 | 2021-02-19 |  |

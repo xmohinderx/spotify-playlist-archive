@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 367387,
+  "num_followers": 367426,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1MjMwOSwwMDAwMDAwMGI5Zjc5YzhhNTg2OTM0Yzc3YTU3M2M3NWE1Y2FkN2Q0",
+  "snapshot_id": "MTY2NDY1MjMwOSwwMDAwMDAwMDhjNDgwNWRkMzgyMmVjZDFlMmYxN2Q0OTVhZDNjNTFi",
   "tracks": [
     {
       "added_at": "2022-10-01 19:25:09",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
-        "name": "golden hour",
-        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
-    },
-    {
-      "added_at": "2022-10-01 19:25:09",
-      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "added_at": "2022-10-01 19:25:09",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
     },
     {
       "added_at": "2022-10-01 19:25:09",
@@ -323,18 +323,26 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
-        "name": "Pink Venom",
-        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
       "added_at": "2022-10-01 19:25:09",
@@ -363,26 +371,18 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
-        "name": "Cold Heart (PNAU Remix)",
-        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "added_at": "2022-10-01 19:25:09",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "added_at": "2022-10-01 19:25:09",
+      "album": {
         "name": "Sweetest Pie",
         "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
-    },
-    {
-      "added_at": "2022-10-01 19:25:09",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
     },
     {
       "added_at": "2022-10-01 19:25:09",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
-        "name": "There\u2019d Better Be A Mirrorball",
-        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 265798,
-      "name": "There\u2019d Better Be A Mirrorball",
-      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
-    },
-    {
-      "added_at": "2022-10-01 19:25:09",
-      "album": {
         "name": "Love Me More",
         "url": "https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 190658,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3"
+    },
+    {
+      "added_at": "2022-10-01 19:25:09",
+      "album": {
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
     },
     {
       "added_at": "2022-10-01 19:25:09",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
+        "name": "Infinite Dream",
+        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 158083,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9"
+    },
+    {
+      "added_at": "2022-10-01 19:25:09",
+      "album": {
         "name": "My Oasis (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q"
       },
@@ -1299,38 +1315,6 @@
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
-    },
-    {
-      "added_at": "2022-10-01 19:25:09",
-      "album": {
-        "name": "i can't help it",
-        "url": "https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 177886,
-      "name": "i can't help it",
-      "url": "https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc"
-    },
-    {
-      "added_at": "2022-10-01 19:25:09",
-      "album": {
-        "name": "Infinite Dream",
-        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 158083,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9"
     },
     {
       "added_at": "2022-10-01 19:25:09",
@@ -1531,22 +1515,6 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
-        "name": "no song without you",
-        "url": "https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "la la la that\u2019s how it goes",
-      "url": "https://open.spotify.com/track/5Pw4Q2Z2NttJtISFFxe9MK"
-    },
-    {
-      "added_at": "2022-10-01 19:25:09",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
       },
@@ -1559,6 +1527,22 @@
       "duration_ms": 246345,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
+    },
+    {
+      "added_at": "2022-10-01 19:25:09",
+      "album": {
+        "name": "no song without you",
+        "url": "https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "la la la that\u2019s how it goes",
+      "url": "https://open.spotify.com/track/5Pw4Q2Z2NttJtISFFxe9MK"
     },
     {
       "added_at": "2022-10-01 19:25:09",
@@ -1599,22 +1583,6 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
-        "name": "American Clich\u00e9",
-        "url": "https://open.spotify.com/album/2LNj7phPxqxUhn05s0itfQ"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 203389,
-      "name": "American Clich\u00e9",
-      "url": "https://open.spotify.com/track/2IFioAFD8QEIq17UwOaSFb"
-    },
-    {
-      "added_at": "2022-10-01 19:25:09",
-      "album": {
         "name": "American Girl",
         "url": "https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG"
       },
@@ -1651,22 +1619,6 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/4ApVfr2gmTFvwKgJRF6szr"
-      },
-      "artists": [
-        {
-          "name": "New Rules",
-          "url": "https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C"
-        }
-      ],
-      "duration_ms": 183179,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/4vYGDBF9aI3Ro8RbMqKLIb"
-    },
-    {
-      "added_at": "2022-10-01 19:25:09",
-      "album": {
         "name": "Sofia Carson",
         "url": "https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD"
       },
@@ -1699,42 +1651,18 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
-        "name": "ok on your own",
-        "url": "https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK"
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/51V8Fme8o9GthQ3O1RNMtE"
       },
       "artists": [
         {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 208333,
-      "name": "ok on your own (feat. Carly Rae Jepsen)",
-      "url": "https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7"
-    },
-    {
-      "added_at": "2022-10-01 19:25:09",
-      "album": {
-        "name": "One More Day",
-        "url": "https://open.spotify.com/album/2fMyuRiPrm57Z60DowjQPi"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        },
-        {
-          "name": "April",
-          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
-        }
-      ],
-      "duration_ms": 269480,
-      "name": "One More Day",
-      "url": "https://open.spotify.com/track/6EEOfwJ6K8z7Kx4B02dVP4"
+      "duration_ms": 190348,
+      "name": "Let's Fall in Love for the Night",
+      "url": "https://open.spotify.com/track/6p97rhyuy0YEQn0OOQeM1H"
     },
     {
       "added_at": "2022-10-01 19:25:09",
@@ -1759,18 +1687,22 @@
     {
       "added_at": "2022-10-01 19:25:09",
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/51V8Fme8o9GthQ3O1RNMtE"
+        "name": "You've Changed",
+        "url": "https://open.spotify.com/album/3nBG3PMsewqaez580cHdM6"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Lisa \u00d6stergren",
+          "url": "https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q"
+        },
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
         }
       ],
-      "duration_ms": 190348,
-      "name": "Let's Fall in Love for the Night",
-      "url": "https://open.spotify.com/track/6p97rhyuy0YEQn0OOQeM1H"
+      "duration_ms": 159420,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/173YFoJtllaXjALrFxr7LY"
     },
     {
       "added_at": "2022-10-01 19:25:09",
@@ -1787,6 +1719,70 @@
       "duration_ms": 190653,
       "name": "Bird Sing",
       "url": "https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk"
+    },
+    {
+      "added_at": "2022-10-01 19:25:09",
+      "album": {
+        "name": "Every Single Thing",
+        "url": "https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG"
+      },
+      "artists": [
+        {
+          "name": "Will Joseph Cook",
+          "url": "https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/5bd5tnV0yMeR1dn1oydUo5"
+    },
+    {
+      "added_at": "2022-10-01 19:25:09",
+      "album": {
+        "name": "Beg For You (feat. Rina Sawayama)",
+        "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 136614,
+      "name": "Good Ones",
+      "url": "https://open.spotify.com/track/2UluJnY6YsujKTXYHnVbvv"
+    },
+    {
+      "added_at": "2022-10-01 19:25:09",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 177886,
+      "name": "i can't help it",
+      "url": "https://open.spotify.com/track/3F3roWqJPMtmLbPPl93bbR"
+    },
+    {
+      "added_at": "2022-10-01 19:25:09",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4mMaqnpAO3WPwBhT4DIRS1"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "There Will Be a Way",
+      "url": "https://open.spotify.com/track/6JWQXfgRUbHhnq730bAZsS"
     }
   ],
   "unique_name": "Tarea Casual",

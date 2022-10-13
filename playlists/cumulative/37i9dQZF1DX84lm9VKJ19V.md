@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-56 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/4NjL2b04S4u48PKHjzlyC6)
+58 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/4NjL2b04S4u48PKHjzlyC6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Codeina](https://open.spotify.com/track/749vq4AE25hT0k0ba1Zknp) | [Bclip](https://open.spotify.com/artist/7kGL1m1wkAzKUrLCqaDVDT), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Codeina](https://open.spotify.com/album/4mEfTeBJYd9XczuIVoPy3y) | 3:26 | 2022-05-24 |  |
 | [Drowning](https://open.spotify.com/track/7gw6R8syjMYMkcdLNubFPu) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Drowning](https://open.spotify.com/album/1Y9kWCOmN77yxC2io3A8D9) | 3:45 | 2022-05-24 |  |
 | [Escalator](https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Escalator](https://open.spotify.com/album/15bXChIVRMbSDYDoDoz3bG) | 2:26 | 2022-05-24 |  |
-| [FANTAZIA](https://open.spotify.com/track/3XetDJxSDARsex7zU9KEpM) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 5:36 | 2022-05-24 |  |
+| [FANTAZIA](https://open.spotify.com/track/3XetDJxSDARsex7zU9KEpM) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 5:36 | 2022-05-24 | 2022-10-13 |
+| [FANTAZIA](https://open.spotify.com/track/6aNY5agVFHSm4v6WMCsu0r) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/2WQe3Ixka9ZHOWB087xQXj) | 5:36 | 2022-05-24 |  |
 | [Flashing](https://open.spotify.com/track/3qJ7uiN8W7ykxSVZ1lvdLs) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Flashing](https://open.spotify.com/album/5gMxG9aZ8LC5E5D8hUm73V) | 2:40 | 2022-05-24 |  |
 | [Formation \- Otik Remix](https://open.spotify.com/track/4uZwxFVkVq8fxHad28l4eh) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Formation \(Otik Remix\)](https://open.spotify.com/album/7olsXD3uHGnExYSKHnW0lf) | 7:16 | 2022-05-24 |  |
 | [Friendly](https://open.spotify.com/track/6RpCmGSiaF8x4hAPy1gNwO) | [Elsa Hewitt](https://open.spotify.com/artist/7xwbnGpTJA94MgILLAeThK) | [Quilt Jams](https://open.spotify.com/album/3bEXGkOqaDFmM62M9zm67H) | 2:14 | 2022-05-24 |  |
@@ -44,7 +45,8 @@
 | [Mothra](https://open.spotify.com/track/4jKudQqZgoQMhOvpGdcnYi) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Rare, Forever](https://open.spotify.com/album/5UfCxNbc7RTtM6FyVqyi5x) | 5:39 | 2022-05-24 |  |
 | [Muddy Funster](https://open.spotify.com/track/6RYnTnUSj8uTZhIJUoOuC8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Kurt Wagner](https://open.spotify.com/artist/26Fn0TaiSMe2NjNHWiWcuA) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 5:24 | 2022-05-24 |  |
 | [No More Parties](https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [No More Parties](https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP) | 2:20 | 2022-05-24 |  |
-| [Note To Self](https://open.spotify.com/track/2Lho7mxHpPgTmaWLnpK2Vs) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Note To Self](https://open.spotify.com/album/71DrmZf8omc52ca1mdoyeF) | 2:17 | 2022-05-24 |  |
+| [Note To Self](https://open.spotify.com/track/2Lho7mxHpPgTmaWLnpK2Vs) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Note To Self](https://open.spotify.com/album/71DrmZf8omc52ca1mdoyeF) | 2:17 | 2022-05-24 | 2022-10-13 |
+| [Note To Self](https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:17 | 2022-05-24 |  |
 | [NOVV](https://open.spotify.com/track/10o2dzZBBMl0XUSeXtLUTk) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [NOVV/NASDAQ](https://open.spotify.com/album/0nBnyyGbsT81K2qT4GuSgG) | 4:17 | 2022-05-24 |  |
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2022-05-24 |  |
 | [On A Mountain](https://open.spotify.com/track/72CvvI5icHY81VKG0EkNxR) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [On A Mountain](https://open.spotify.com/album/6PWbRLIiW7ufDn07HxJQjI) | 3:06 | 2022-05-24 |  |

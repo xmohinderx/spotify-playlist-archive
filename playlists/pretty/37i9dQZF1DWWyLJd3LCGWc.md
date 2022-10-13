@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,161 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,167 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 35 | [Jimmy](https://open.spotify.com/track/60r0mEqH580d1kYWGeEpwM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:29 |
 | 36 | [Conjurer](https://open.spotify.com/track/68FahUPlACGIvG3CYjMs9M) | [BEARCAT](https://open.spotify.com/artist/78FV10vQ4A7bDAvR6oPBjr) | [Spell](https://open.spotify.com/album/4vDniXqeQPnnDRJDGk13Lu) | 3:09 |
 | 37 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
-| 38 | [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 |
+| 38 | [IN IN IN](https://open.spotify.com/track/3APSXl8dTTumv9L1HHpCCV) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:17 |
 | 39 | [Decline Him](https://open.spotify.com/track/3Wa96y3cQWjIX9gN2dTb5t) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Transphobic](https://open.spotify.com/album/2vkSCPeqGqr2iCDZEbtieZ) | 3:33 |
 | 40 | [The Meek Shall Inherit the Earth](https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw) | [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Love Thyself](https://open.spotify.com/album/6XDgTZtCEU7AhbbbIdxMBo) | 3:13 |
 | 41 | [Blasian Baddie](https://open.spotify.com/track/3KxkDJCDmG5NzvzWhR01hM) | [Kaede](https://open.spotify.com/artist/7AFY1eM0UyVPLNoCKvsrma) | [Blasian Baddie](https://open.spotify.com/album/1uL4XtcOgKFwIXBodBrN0o) | 2:02 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 45 | [Bling Bling](https://open.spotify.com/track/62NhZM0i7RrAThbBmb2vsQ) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Satisfaction Guaranteed](https://open.spotify.com/album/1LGNcwOY4Ro9eEDJwohBez) | 2:45 |
 | 46 | [IN THE AIR](https://open.spotify.com/track/63Nh9nDjrK0YB3BaMDN9v6) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [CRY 4 HELP](https://open.spotify.com/album/3a9TkAd9pVKebwqaGrQw0n) | 4:21 |
 
-Snapshot ID: `MTYyMjU0MzA0MSwwMDAwMDAwMDA1ZjRjMGI2MjdhZmIyODY5NWYwMGQ3NDVlNzJjYmFm`
+Snapshot ID: `MTYyMjU0MzA0MSwwMDAwMDAwMDE4NTM0YmIzYjU3MDFiZmUyZjlkMTRmYTc2ZDAwYjZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUxl2WH8cGS.md) - [plain]
 
 > Dance to the tunes from your favorite Netflix family\-friendly series and movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,967 likes - 38 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,978 likes - 38 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUxl2WH8cGS.md) - [plain]
 | 12 | [Wake Up \(feat\. Madison Reyes\)](https://open.spotify.com/track/3gy83YfNaZOsAvkbVgD6IQ) | [Julie and the Phantoms Cast](https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC), [Madison Reyes](https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ) | [Julie and the Phantoms: Season 1 \(From the Netflix Original Series\)](https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm) | 3:37 |
 | 13 | [Ultraluminary \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:20 |
 | 14 | [On My Way](https://open.spotify.com/track/2Gzuc9dFCAXSzdHl3UcCNz) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [On My Way](https://open.spotify.com/album/1UemLqG2c35bNSQjQ45GRC) | 3:05 |
-| 15 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 |
+| 15 | [Life Is Better Loud](https://open.spotify.com/track/2MTvq0cuZi6Va3LLxFnNmr) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0) | 2:29 |
 | 16 | [Dance It Out](https://open.spotify.com/track/6Cc44CY0hkXB57ak5MDwms) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:49 |
 | 17 | [Road Runner](https://open.spotify.com/track/6SCBSNcNcR27MEYRkR0XuZ) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Motown Magic \(Original Soundtrack\)](https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL) | 3:16 |
 | 18 | [Party Back At My House](https://open.spotify.com/track/2H3u88hUpwcBoUiuNxDVBp) | [The Soul Contributions](https://open.spotify.com/artist/7hGvepVV7nTgciPJER8e2L) | [Kid Cosmic and the Sonic Courage \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tTsRAyDRVi7NMqNSqxSbR) | 2:13 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUxl2WH8cGS.md) - [plain]
 | 37 | [If It's To Be \- From "Maya And The Three" \- A Netflix Animated Event](https://open.spotify.com/track/72DJZtACE61IsndH6jG8S9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [If It's To Be \(From "Maya And The Three" \- A Netflix Animated Event\)](https://open.spotify.com/album/4a1a5nP1l7nE6jRCQLrHfX) | 3:34 |
 | 38 | [You Belong \(from Spirit Untamed\)](https://open.spotify.com/track/2xkqOhP6nPUdYqZpiA9wO9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Spirit Untamed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yvRvgLR5RJe3i8R7Cfve0) | 3:16 |
 
-Snapshot ID: `MTY1NzMzNzY0MiwwMDAwMDAwMDJkYTI2NDUxZTIyYzg1ZWZlMzI2MmEzZmNlYTgwM2Nk`
+Snapshot ID: `MTY1NzMzNzY0MiwwMDAwMDAwMGZiOGFjYWQ3OTAyYWQyMGIzZjRhOTlmZjZiYzQzNmUx`

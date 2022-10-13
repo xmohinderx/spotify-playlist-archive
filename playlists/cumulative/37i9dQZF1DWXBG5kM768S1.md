@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-182 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/532FWuTW1QFsPK6DTMO5T1)
+184 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/532FWuTW1QFsPK6DTMO5T1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bonden](https://open.spotify.com/track/3qJ67DQIkl9FnqTcbxqkuf) | [Sigrid Moldestad](https://open.spotify.com/artist/4l2PfWenotuMdNx3O2QzkM) | [Bonden](https://open.spotify.com/album/4rhFyhczRVGlYU9zOPYmnE) | 4:44 | 2021-12-16 | 2022-06-17 |
 | [Brenner overalt](https://open.spotify.com/track/38okmcjwEQKPa6qQLC16NW) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Brenner overalt](https://open.spotify.com/album/2tvHKfP5GG5mpPwaNhvM0D) | 4:04 | 2021-12-16 | 2022-06-10 |
 | [Bror](https://open.spotify.com/track/5TWg0DczP5O3aJyVyD0mlh) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Bror](https://open.spotify.com/album/3Md4sOQ6TuqSouOgzIqcVP) | 3:13 | 2021-12-16 | 2022-07-29 |
+| [Bror](https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Hjarteskjell](https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC) | 3:15 | 2022-10-06 |  |
 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 | 2021-12-16 |  |
 | [Bråtebrann](https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF) | 2:28 | 2022-03-23 | 2022-04-20 |
 | [Crescendo i Gågata](https://open.spotify.com/track/6d35rdVufTVqEuaAPLxeMt) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Crescendo i Gågata](https://open.spotify.com/album/2HaKiwfbSwXrh7PNISjHuN) | 2:41 | 2021-12-16 | 2022-07-22 |
@@ -79,6 +80,7 @@
 | [God morgen, min kjære](https://open.spotify.com/track/5umEvtxcXt8FOguVU8jeKV) | [Benny Borg](https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0), [Sigmund Groven](https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT) | [Den største reisen](https://open.spotify.com/album/6SztCAuymcjUkhwCITQozJ) | 4:08 | 2022-07-14 |  |
 | [God Natt Oslo](https://open.spotify.com/track/03DAM7GVONIxrPlxD2nUbp) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e) | [Original Nilsen](https://open.spotify.com/album/5luzv9hkJpBEPW4DhXHjzm) | 4:48 | 2022-01-06 | 2022-07-29 |
 | [God Natt Oslo](https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e) | [Original Nilsen](https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz) | 4:48 | 2022-07-14 | 2022-08-19 |
+| [Godt nok](https://open.spotify.com/track/534GzSVJHfkIWPNkwobLAi) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [Sigrid Aase](https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK) | [Inn i skogen](https://open.spotify.com/album/6IMNPChZ6uTdewFHcbv9Wq) | 3:56 | 2022-10-06 |  |
 | [Gressholmen](https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 4:13 | 2021-12-16 |  |
 | [Ha deg](https://open.spotify.com/track/1BZgQgcgoraUNzsXkaYnbx) | [Pernille Øiestad](https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ) | [Ha deg](https://open.spotify.com/album/28pt6ynFuJFlN9unTKYDTV) | 4:00 | 2022-03-23 | 2022-04-18 |
 | [Halleluja](https://open.spotify.com/track/0uMp1v64V4pmZgMD4y7mcp) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Halleluja](https://open.spotify.com/album/7BfHnqv7aSZehUU8ZnVm0P) | 3:42 | 2022-01-20 | 2022-01-27 |
@@ -155,9 +157,9 @@
 | [Stormens Øye](https://open.spotify.com/track/6NUSlWdJJXjtZK4rUmzlyu) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Stormens Øye](https://open.spotify.com/album/6Fp9e8OcPdzlOCDgtUpntI) | 3:36 | 2022-09-19 |  |
 | [SUPER 8](https://open.spotify.com/track/5dbP3o1bqkIz5pbjnMwLek) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [SUPER 8](https://open.spotify.com/album/11yMIAowUPX1Q3inE8qCSl) | 3:28 | 2021-12-16 | 2022-07-14 |
 | [Svarte Skyer](https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5) | [Hanne Sørvaag](https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH) | [Svarte Skyer](https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R) | 3:00 | 2021-12-16 | 2022-07-08 |
-| [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 | 2021-12-16 |  |
+| [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 | 2021-12-16 | 2022-10-13 |
 | [Så godt at det gjør vondt](https://open.spotify.com/track/04bIOgwqaOlu6Vwqn35RX0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [Så godt at det gjør vondt](https://open.spotify.com/album/3Lh1JnSMYRjPqMHcWpkdlF) | 4:37 | 2022-03-23 | 2022-04-20 |
-| [Så lett som ingenting](https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Så lett som ingenting](https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3) | 3:49 | 2022-06-02 |  |
+| [Så lett som ingenting](https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Så lett som ingenting](https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3) | 3:49 | 2022-06-02 | 2022-10-13 |
 | [Så syng eg da ein song for deg](https://open.spotify.com/track/5JNfXFtBW50P3OftyAhNnr) | [Ine Hoem](https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy) | [Så syng eg da ein song for deg](https://open.spotify.com/album/6Prh2JMSdlVuPUUKADBujR) | 4:02 | 2021-12-16 | 2022-01-06 |
 | [Søtten år](https://open.spotify.com/track/4gYmhjHmokTmLfBO13wIg3) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Søtten år](https://open.spotify.com/album/0NPTQWIsR2doVbxKgmdZcz) | 4:45 | 2021-12-16 | 2022-07-28 |
 | [Takk for alt](https://open.spotify.com/track/54R6o5mqK9bNT69ZACtAFH) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Takk for alt](https://open.spotify.com/album/5HLEnWtZBEtsfXXJK8Cbhq) | 0:29 | 2021-12-16 | 2022-07-02 |

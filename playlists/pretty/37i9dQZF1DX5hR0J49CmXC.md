@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > The Real hip\-hop\. Cover: Freddie Gibbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,261 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,371 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 | 31 | [No Man Falls \(Feat\. Pusha T & 2 Chainz\)](https://open.spotify.com/track/4BWbRimlDfSTUQkqMrkCem) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 4:09 |
 | 32 | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL) | 2:57 |
 | 33 | [Private Valet](https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Private Valet](https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu) | 2:29 |
-| 34 | [Charlie Charlie](https://open.spotify.com/track/2jbrK1JBiL4EupGFeHzazt) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv), [Nico Porter](https://open.spotify.com/artist/7thOgTVMx4Xav2KaWbR5qQ) | [Freelance: Charlie](https://open.spotify.com/album/6JLtQCr4wR5TbPMCK53XDt) | 1:32 |
+| 34 | [Charlie Charlie](https://open.spotify.com/track/7sHUDMtdrBeWf83ZBPmjDx) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv), [Nico Porter](https://open.spotify.com/artist/7thOgTVMx4Xav2KaWbR5qQ) | [Freelance: Charlie](https://open.spotify.com/album/2Z43pvAmKDJdHAVhC4a7ga) | 1:32 |
 | 35 | [Problems \- Cocaine in Milan Remix](https://open.spotify.com/track/30TXzF3Gdw11hyF4MQqJ35) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Hus KingPin](https://open.spotify.com/artist/4IBACd17ekILQx6xdtKxyI), [Manny Megz](https://open.spotify.com/artist/2WidFQxqT78Fx2kF44gSzb) | [Problems \(Cocaine in Milan Remix\)](https://open.spotify.com/album/3phpUg6bJSq30wqEkLsobg) | 3:18 |
 | 36 | [Breakfast in Monaco](https://open.spotify.com/track/2VR44vzNFHsDvQFZB2YMWj) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spaceships on the Blade](https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4) | 3:10 |
 | 37 | [Times Is Rough](https://open.spotify.com/track/1EzmTNUSKb0J5eXGgrP6wy) | [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D), [Rick Hyde](https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1) | [Times Is Rough](https://open.spotify.com/album/0p4zzRMfASMefel2C3BM92) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 | 49 | [Beat Breaks \(feat\. Nas\)](https://open.spotify.com/track/34rwJDeFgvZXd9KtiBkQKI) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Hip Hop 50: Vol\. 1](https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm) | 2:39 |
 | 50 | [In My Pockets](https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [In My Pockets](https://open.spotify.com/album/4nqkI4pUK9k9OdDtyjPsXO) | 2:39 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGQ4ZTkzMjMwYjkyMDZiY2VmMmNjNjVlYTVlMDBhYmQ4`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDY4OGQyMDhkNDZjMjAyNTNlYjQ5YmY2MGQ4ZTZkMDc0`

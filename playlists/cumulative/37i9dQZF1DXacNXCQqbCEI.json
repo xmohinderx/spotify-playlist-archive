@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 206895,
       "name": "Azul Oro",
       "url": "https://open.spotify.com/track/18XhpMPsd4oeX6lQETPeaU"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 222222,
       "name": "Chapinero",
       "url": "https://open.spotify.com/track/0yENDAPqNW1hksxq9KUt8n"
@@ -1675,6 +1675,24 @@
     {
       "album": {
         "name": "Amansara",
+        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
+    },
+    {
+      "album": {
+        "name": "Amansara",
         "url": "https://open.spotify.com/album/2Fqn3yj8vWJKUK6fXaLd3w"
       },
       "artists": [
@@ -2423,7 +2441,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 240000,
       "name": "Ma\u00f1ana Tepotzlan",
       "url": "https://open.spotify.com/track/3SIvxOsX0OUlkhzSdQle6D"
@@ -3239,7 +3257,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 192039,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
@@ -3975,7 +3993,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 213146,
       "name": "Tamarugal (Para de Mirarme)",
       "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"

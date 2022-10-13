@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
+    },
+    {
+      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
       },
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 304400,
       "name": "Happiness/The Gondola Man",
       "url": "https://open.spotify.com/track/3aU2ui8JQOtmgHYH0g1qFL"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 191773,
       "name": "High Times",
       "url": "https://open.spotify.com/track/72fRYCzzLOdbuzDJ2RYUSU"
@@ -507,9 +525,45 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "date_added": "2022-09-16",
+      "date_added": "2022-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220840,
+      "name": "Kiwi Maddog 20/20 (version 2 of 2)",
+      "url": "https://open.spotify.com/track/32gMbrYoS2qIA54JmZ9TFn"
+    },
+    {
+      "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194066,
+      "name": "L.A.",
+      "url": "https://open.spotify.com/track/7xMklu8GE39dYZBWJMxrBU"
+    },
+    {
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 278013,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/2zzJVFSgRcu1ClWtYqlad8"
@@ -621,6 +675,24 @@
       "duration_ms": 193240,
       "name": "No Name #3",
       "url": "https://open.spotify.com/track/5xmqzcBqw4c0c5gcDHthDO"
+    },
+    {
+      "album": {
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "album": {
@@ -815,7 +887,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 222200,
       "name": "Talking To Mary",
       "url": "https://open.spotify.com/track/3BkD7KRNgTXh0bLLL2TsWQ"
@@ -851,7 +923,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 207733,
       "name": "The Last Hour",
       "url": "https://open.spotify.com/track/7DgQ1vzahOgimHdnm2pQov"
@@ -909,6 +981,24 @@
       "duration_ms": 280106,
       "name": "Waltz #2 (XO)",
       "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
+    },
+    {
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137800,
+      "name": "Whatever (Folk Song In C)",
+      "url": "https://open.spotify.com/track/1YbZab5h60Tr89DZp5Tdr2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1u2tEI"

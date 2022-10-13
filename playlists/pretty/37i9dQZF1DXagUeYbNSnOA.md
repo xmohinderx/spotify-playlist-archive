@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Paty B on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,143 likes - 57 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,223 likes - 57 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 26 | [Paradoja](https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl), [Obregøn](https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK) | [Paradoja](https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz) | 3:40 |
 | 27 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 |
 | 28 | [Posguerra](https://open.spotify.com/track/5Kb5RhVvDm5he4xTJ1aNqQ) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Posguerra](https://open.spotify.com/album/78FkR6dvHY3QXLu5Y7wDZF) | 4:11 |
-| 29 | [La Gasolina](https://open.spotify.com/track/2sF7SP88KqQr1CqDkMHKiX) | [LOUJAY](https://open.spotify.com/artist/3LSQt5vgYueIbyiCst6Cwp) | [La Gasolina](https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz) | 3:08 |
+| 29 | [Palmeras](https://open.spotify.com/track/2lMr37Qk71sfTA8VgzqXoU) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM) | [Palmeras](https://open.spotify.com/album/7BnjysmzcG4LA4GgMJwFzm) | 3:21 |
 | 30 | [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 |
-| 31 | [Palmeras](https://open.spotify.com/track/2lMr37Qk71sfTA8VgzqXoU) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM) | [Palmeras](https://open.spotify.com/album/7BnjysmzcG4LA4GgMJwFzm) | 3:21 |
-| 32 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
+| 31 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
+| 32 | [La Gasolina](https://open.spotify.com/track/2sF7SP88KqQr1CqDkMHKiX) | [LOUJAY](https://open.spotify.com/artist/3LSQt5vgYueIbyiCst6Cwp) | [La Gasolina](https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz) | 3:08 |
 | 33 | [Habla Claro](https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ) | [Queens Tafari](https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK) | [Habla Claro](https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH) | 2:30 |
 | 34 | [Bambi](https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT) | [Koi Pali](https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33) | [Bambi](https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG) | 3:10 |
 | 35 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 |
@@ -50,20 +50,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 40 | [Yendo](https://open.spotify.com/track/2z5SxI5c7V2KeZvLhWdZij) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Yendo](https://open.spotify.com/album/77NMPAtfaEyFCPfOSOQBSj) | 3:14 |
 | 41 | [Incendio](https://open.spotify.com/track/662HK9Y4QNgllJyLgjsmp3) | [Cuchillas](https://open.spotify.com/artist/1ijMSVBbWChLbwqGPM5ye8) | [Incendio](https://open.spotify.com/album/0Ml6rdX8Oz0dp2SexNafy4) | 2:46 |
 | 42 | [ALCOHOL](https://open.spotify.com/track/1KlXeNDsdBFK8hUy98hM3a) | [Valeria Cid](https://open.spotify.com/artist/1klJBfGgnBcEI8uVTwLm9U) | [ALCOHOL](https://open.spotify.com/album/4VRmyOwP7CCT3hxwxlWWla) | 2:52 |
-| 43 | [Casas de Papel](https://open.spotify.com/track/4CBSgapphmbC1Y7bGY1l1Y) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3) | [Casas de Papel](https://open.spotify.com/album/4ASwsSghM0muZ5n7SHI2Rn) | 3:48 |
-| 44 | [De Todo Lo Que Fui.](https://open.spotify.com/track/6XHD6YyLwHaXgzueE06M1T) | [Iconauta](https://open.spotify.com/artist/77E8njlzjdYyrOQIkPyPLL) | [De Todo Lo Que Fui.](https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je) | 4:41 |
+| 43 | [De Todo Lo Que Fui.](https://open.spotify.com/track/6XHD6YyLwHaXgzueE06M1T) | [Iconauta](https://open.spotify.com/artist/77E8njlzjdYyrOQIkPyPLL) | [De Todo Lo Que Fui.](https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je) | 4:41 |
+| 44 | [Casas de Papel](https://open.spotify.com/track/4CBSgapphmbC1Y7bGY1l1Y) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3) | [Casas de Papel](https://open.spotify.com/album/4ASwsSghM0muZ5n7SHI2Rn) | 3:48 |
 | 45 | [Todos Los Santos](https://open.spotify.com/track/5QLjbGLCGssN55oxPrd9km) | [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [Todos Los Santos](https://open.spotify.com/album/0vHw6Q8lqxb4GcXdhUKOiR) | 3:33 |
 | 46 | [Girasoles al Oleo](https://open.spotify.com/track/2pLnslSZU2Kvo6VPNLwOmf) | [Aldeano de Neptuno](https://open.spotify.com/artist/7yU2HDXuhph3gvTovbTGSj), [Thaissa](https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ) | [Girasoles al Oleo](https://open.spotify.com/album/4qMplBH0Zqv8KbkawU8Y0d) | 4:24 |
 | 47 | [Alegría](https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty) | [Matiu Colin](https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr) | [Alegría](https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f) | 2:22 |
-| 48 | [Quiero](https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx) | [El Espacio Interior](https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b) | [Un poco más de lo normal](https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj) | 2:58 |
-| 49 | [Cambio](https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [Cambio](https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6) | 3:41 |
+| 48 | [Cambio](https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [Cambio](https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6) | 3:41 |
+| 49 | [Quiero](https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx) | [El Espacio Interior](https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b) | [Un poco más de lo normal](https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj) | 2:58 |
 | 50 | [Reíte](https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Reíte](https://open.spotify.com/album/2GvYbgbsVHC4SVDhqyFt2q) | 3:37 |
-| 51 | [AGUA CON SAL](https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [AGUA CON SAL](https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m) | 3:18 |
-| 52 | [Deli](https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Deli](https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc) | 2:59 |
+| 51 | [Deli](https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Deli](https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc) | 2:59 |
+| 52 | [AGUA CON SAL](https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [AGUA CON SAL](https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m) | 3:18 |
 | 53 | [Inconsciencia](https://open.spotify.com/track/4Dm11rwqGsTvDLml88JyIL) | [La Honte](https://open.spotify.com/artist/4Irt9HPbh6MbM90waVOFiA) | [Inconsciencia](https://open.spotify.com/album/10PYCHUMNWA4vfuXR8DByd) | 3:32 |
 | 54 | [El Incendio](https://open.spotify.com/track/58SONbpFYstwN4LCITKI0v) | [Sara y Jacobo](https://open.spotify.com/artist/3xPClsuX8srpHtN8CCgSZX) | [El Incendio](https://open.spotify.com/album/2wKY7SiYOJsGgo54d199pr) | 4:12 |
 | 55 | [Sombras](https://open.spotify.com/track/01nlKVa79FmkgQ9oYTQzcC) | [Kids Are Fine](https://open.spotify.com/artist/61BZt7XBK4I6rBigflezos) | [Sombras](https://open.spotify.com/album/3dp6pcPCn6wJ08AyUuAy4F) | 3:26 |
 | 56 | [Curarire](https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA) | [puertoazul](https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7), [Hilandera](https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO) | [Curarire](https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See) | 3:22 |
 | 57 | [Es el Final Me Alejo](https://open.spotify.com/track/6maJAvK0EEnYJlwd2Rilfo) | [Hermanas](https://open.spotify.com/artist/6DhjvxaxmaX7X9WGAGnxSr), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Hermanas](https://open.spotify.com/album/76M6D300MhUyIFv3gvoI54) | 3:21 |
 
-Snapshot ID: `MTY2NTAwMDE1MCwwMDAwMDAwMGYxNDM3ZjU1NzU0ZjJmMjI0NGEzOGUwMTk3YWE5YjI5`
+Snapshot ID: `MTY2NTAwMDE1MCwwMDAwMDAwMDM2M2QwNDJkNGVjYzNkMzQyODc1NGVhY2VkMDU0ZTdm`

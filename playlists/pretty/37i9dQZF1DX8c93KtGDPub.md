@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,462 likes - 157 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,513 likes - 157 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 51 | [Avalanche](https://open.spotify.com/track/0Kyxsaxjph9rfEru2uXIGu) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Miles and Miles](https://open.spotify.com/album/16ZBD2rfhcmite2xZ4prJT) | 4:25 |
 | 52 | [Happy New Year](https://open.spotify.com/track/24wlYBTpWrlNZNeBh2eHFZ) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp), [Jon Snodgrass](https://open.spotify.com/artist/2zYTqtjckJABPQiFJelyqW) | [The Third Three Years](https://open.spotify.com/album/6ZobwKLPgXjDJo6imrswZL) | 2:57 |
 | 53 | [Tracks in the Snow](https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks in the Snow](https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9) | 3:50 |
-| 54 | [Winter Song](https://open.spotify.com/track/4kVq0EOO5xmczwrXjRcaeI) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 2:43 |
+| 54 | [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 |
 | 55 | [Sleet and Snow](https://open.spotify.com/track/19PbVUTpF75SeZQpTEUJwM) | [My First Tooth](https://open.spotify.com/artist/2mtHReEeM2MuBaWSY3stG8) | [Sleet and Snow](https://open.spotify.com/album/6IvRuTNcTlPaIosiVlY8Nx) | 3:18 |
 | 56 | [What Are You Doing New Years Eve](https://open.spotify.com/track/5HhcXgRU7kYszL7OQZtNlc) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:53 |
 | 57 | [Snow](https://open.spotify.com/track/4yNKWjEFADa5f11RI1DaKC) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:38 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 156 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 157 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDk1OTUzZTA1ODNjMDdlZjI4ZTVmNWZkNGJhNzYzY2M1`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDYzMDM5MzgxZTdlNTg3ZDllM2QyODI4OTRlYzFmOWM0`

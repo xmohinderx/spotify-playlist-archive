@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: Planet Giza
 
-518 songs - 1 day 4 hr 53 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+521 songs - 1 day 5 hr 2 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [It Ain't Easy](https://open.spotify.com/track/27oVHfIMUIJHEtMopSDx8r) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [It Ain't Easy](https://open.spotify.com/album/7njPhgERKzyMdkrl111Rbi) | 2:43 | 2022-08-19 |  |
 | [It Could Be Nice](https://open.spotify.com/track/5lGoX0XHR2ystyz0OF3Kv5) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [It Could Be Nice](https://open.spotify.com/album/1s4VVB5nN16DfnSVKRx6NK) | 2:52 | 2022-09-09 |  |
 | [Jackpot \(feat\. Jazz Cartier\)](https://open.spotify.com/track/3ef0wd2mVNtMdC0yrO0q9U) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Jackpot \(feat\. Jazz Cartier\)](https://open.spotify.com/album/6zZPyX3Nj5k16D8eflLexP) | 2:42 | 2022-09-30 |  |
-| [Japanese Black Pine](https://open.spotify.com/track/4WYtahAVDnkTAjRqCalZ6d) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Japanese Black Pine](https://open.spotify.com/album/5KUWNSIDYCyQscEiyhWjjE) | 3:14 | 2022-09-03 |  |
+| [Japanese Black Pine](https://open.spotify.com/track/1k1RnBXKfruZerrRtNq1qe) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Japanese Black Pine](https://open.spotify.com/album/4dPJhXTprt8iEqaZTDgJ81) | 3:14 | 2022-10-08 |  |
+| [Japanese Black Pine](https://open.spotify.com/track/4WYtahAVDnkTAjRqCalZ6d) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Japanese Black Pine](https://open.spotify.com/album/5KUWNSIDYCyQscEiyhWjjE) | 3:14 | 2022-09-03 | 2022-10-13 |
 | [Jesus Was An Alien \- Radio Edit](https://open.spotify.com/track/30NOfs6Qqjn1mJ8EQry6He) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB), [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Jesus Was An Alien](https://open.spotify.com/album/0sC7FiXQOBLC798muFftRU) | 4:51 | 2022-04-01 | 2022-04-29 |
 | [Juan Song](https://open.spotify.com/track/22ztW5zxpuWmyowpNgUa3v) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [Juan Song](https://open.spotify.com/album/6REqsoB35rjJIt25v0luuq) | 3:31 | 2022-04-29 | 2022-06-25 |
 | [JUICE](https://open.spotify.com/track/75sl0pvqANavsWCFEZeSBv) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [JUICE](https://open.spotify.com/album/4YH7LDtcPK6K69yY1nPrbh) | 1:56 | 2022-04-08 | 2022-04-20 |
@@ -414,7 +415,8 @@
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-20 | 2022-07-23 |
 | [Selfish...](https://open.spotify.com/track/75rgxmX8w67Af5EgyQiyaa) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [See You Soon](https://open.spotify.com/album/3Si8ZHErCOw4PL0olDgw5L) | 3:14 | 2022-02-18 | 2022-02-26 |
 | [Sent from Above](https://open.spotify.com/track/5SuWbqdRVVQfxpHKOt5ZxN) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Sent from Above](https://open.spotify.com/album/526h2HGg4ldJ0sEHEqvxZK) | 3:06 | 2022-02-18 | 2022-03-26 |
-| [Separation](https://open.spotify.com/track/1x2TnGBqJPTmDy3gAjJ05h) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Separation](https://open.spotify.com/album/7F7T36RnF5k6eJGYjtT4Iz) | 3:10 | 2022-07-22 |  |
+| [Separation](https://open.spotify.com/track/1x2TnGBqJPTmDy3gAjJ05h) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Separation](https://open.spotify.com/album/7F7T36RnF5k6eJGYjtT4Iz) | 3:10 | 2022-07-22 | 2022-10-13 |
+| [Separation](https://open.spotify.com/track/4V5aNcb4CBVou9uWTodMYB) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Separation](https://open.spotify.com/album/1bNyD1b6LuqQUTR8yJvKmI) | 3:10 | 2022-10-08 |  |
 | [Sexo Amor Dinero](https://open.spotify.com/track/3gFhc0884TMOGGxhnD1JTs) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Sexo Amor Dinero](https://open.spotify.com/album/04s5v1OBxraFoczLoN15Sf) | 3:31 | 2022-08-26 | 2022-09-17 |
 | [Shake](https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Shake](https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ) | 1:41 | 2022-08-12 | 2022-10-01 |
 | [Shake](https://open.spotify.com/track/1i5DtAbzTqjJNnMnEeePKp) | [The Homies](https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV) | [Shake](https://open.spotify.com/album/69P4WcAaEnZWmqQbXtq6us) | 2:40 | 2022-05-27 | 2022-07-02 |
@@ -525,6 +527,7 @@
 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/album/4weY0bnYOJU2b9ras4JFbZ) | 3:30 | 2022-02-25 | 2022-06-04 |
 | [Zodiac](https://open.spotify.com/track/1WccyarZJvnRXMiwMrHRct) | [Badge Époque Ensemble](https://open.spotify.com/artist/08E0CO6MC1ykoQP5VQt4hL), [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [Zodiac](https://open.spotify.com/album/4oNnLwtjoiaXDmxEaHkDlb) | 7:26 | 2022-06-17 | 2022-09-24 |
 | [‎rubber ‎checks](https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/48LwULIsLq3P716zccF09g) | 1:58 | 2022-04-01 | 2022-06-11 |
-| [‎whiskey](https://open.spotify.com/track/0bRq2UOu3CNuH0dvwukfMc) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/6Rfaj1WW6a9B1wjjP77fpC) | 2:25 | 2022-08-12 |  |
+| [‎whiskey](https://open.spotify.com/track/0bRq2UOu3CNuH0dvwukfMc) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/6Rfaj1WW6a9B1wjjP77fpC) | 2:25 | 2022-08-12 | 2022-10-13 |
+| [‎whiskey](https://open.spotify.com/track/7yH1ewkwvwh2SaKFqXnXYW) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF) | 2:25 | 2022-10-08 |  |
 
 \*This playlist was first scraped on 2022-02-20. Prior content cannot be recovered.

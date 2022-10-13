@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 392766,
+  "num_followers": 392937,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMDRiOWNiMWY5MTc3ZGJhMjljYjA1ZTI1ODJmMjc4NTYw",
+  "snapshot_id": "MTY2MzM0NDUzMiwwMDAwMDAwMDllODkxZTE5YjVhZjI3MDVmNzMwZTE4ZjAxYjExNjUw",
   "tracks": [
     {
       "added_at": "2022-09-16 16:08:51",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Szikra",
-        "url": "https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi"
-      },
-      "artists": [
-        {
-          "name": "Korn\u00e9l Kov\u00e1cs",
-          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
-        }
-      ],
-      "duration_ms": 401573,
-      "name": "Szikra",
-      "url": "https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/76UMqatl6klSIhmOmd7UNx"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 146949,
       "name": "SEX IS GOOD BUT HAVE U EVER",
       "url": "https://open.spotify.com/track/5Zoo5FV2AteC6zrFwGoukH"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Szikra",
+        "url": "https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        }
+      ],
+      "duration_ms": 401573,
+      "name": "Szikra",
+      "url": "https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
       },
@@ -455,6 +439,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "Brasil",
         "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "lo-fi_house.zip",
-        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
-      },
-      "artists": [
-        {
-          "name": "kemt",
-          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
-        }
-      ],
-      "duration_ms": 375000,
-      "name": "100 reasons",
-      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "The Sayers",
         "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 293584,
       "name": "The Sayers",
       "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "lo-fi_house.zip",
+        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
+      },
+      "artists": [
+        {
+          "name": "kemt",
+          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
+        }
+      ],
+      "duration_ms": 375000,
+      "name": "100 reasons",
+      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Pup Slushy",
-        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 329462,
-      "name": "Pup Slushy",
-      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Songs to Stay Home To",
         "url": "https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 134213,
       "name": "Songs to Stay Home To, Pt. I",
       "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Pup Slushy",
+        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 329462,
+      "name": "Pup Slushy",
+      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
-        "url": "https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 287767,
-      "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
-      "url": "https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Fidelity Radio Club (Toy Tonics Remixes)",
         "url": "https://open.spotify.com/album/7vx7dd3xBvpZeXqKFM6UmF"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
+        "url": "https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 287767,
+      "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
+      "url": "https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "The Sinner \u2014 Time Traveller",
-        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 282857,
-      "name": "The Sinner",
-      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Moonlite",
         "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 212554,
       "name": "Moonlite",
       "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "The Sinner \u2014 Time Traveller",
+        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "The Sinner",
+      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
         "name": "Mellow Mornings",
         "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 154814,
       "name": "Mellow Mornings",
       "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2022-09-16 16:08:51",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-09-16 16:08:51",
       "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6"
+      },
+      "artists": [
+        {
+          "name": "goodmood",
+          "url": "https://open.spotify.com/artist/5MlLVktIQ7bcBcFQqA8YjU"
+        }
+      ],
+      "duration_ms": 312588,
+      "name": "Ritz Carlton",
+      "url": "https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6"
+    },
+    {
+      "added_at": "2022-09-16 16:08:51",
+      "album": {
         "name": "Godson of House",
         "url": "https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 516409,
       "name": "Godson of House",
       "url": "https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX"
-    },
-    {
-      "added_at": "2022-09-16 16:08:51",
-      "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6"
-      },
-      "artists": [
-        {
-          "name": "goodmood",
-          "url": "https://open.spotify.com/artist/5MlLVktIQ7bcBcFQqA8YjU"
-        }
-      ],
-      "duration_ms": 312588,
-      "name": "Ritz Carlton",
-      "url": "https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6"
     }
   ],
   "unique_name": "Lo-Fi House",

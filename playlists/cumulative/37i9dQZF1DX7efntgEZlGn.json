@@ -337,6 +337,28 @@
     {
       "album": {
         "name": "Black Child",
+        "url": "https://open.spotify.com/album/5ufvjfxwFSEJqTxRO4fmSK"
+      },
+      "artists": [
+        {
+          "name": "Mr Seed",
+          "url": "https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw"
+        },
+        {
+          "name": "BELLA KOMBO",
+          "url": "https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275435,
+      "name": "Hubadiliki",
+      "url": "https://open.spotify.com/track/4E9ND957QouLYyU97gMFeg"
+    },
+    {
+      "album": {
+        "name": "Black Child",
         "url": "https://open.spotify.com/album/0IrAxhlwwL6RsdDdyeQyBm"
       },
       "artists": [
@@ -351,7 +373,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 275435,
       "name": "Hubadiliki (feat. Bella Kombo)",
       "url": "https://open.spotify.com/track/1A3uvglKkwzkm3kIE0B67I"

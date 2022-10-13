@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: SHABOOZEY
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,602 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,625 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 14 | [How To Kill A Narcissist](https://open.spotify.com/track/7mbWZGbClvFlJnI1wbFlTE) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X) | [DSM](https://open.spotify.com/album/1p94kHVfSZ6nGQdsWJlvol) | 3:05 |
 | 15 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
 | 16 | [Playin 2](https://open.spotify.com/track/57RYV5tcbV016vtv5rFgpQ) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [Danielle Carr](https://open.spotify.com/artist/0PeyaNO5OnLdSdDEeuBCrZ), [Simmie](https://open.spotify.com/artist/3730JhzlwPpfNdE6a5qAv9) | [Pote Day 2](https://open.spotify.com/album/27jOOsA5RVyicVVRSzYO5d) | 2:43 |
-| 17 | [SINCERELY](https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [SINCERELY](https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0) | 3:04 |
+| 17 | [SINCERELY](https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 3:04 |
 | 18 | [Disturb](https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Disturb / Pablo Moves](https://open.spotify.com/album/1NM948f5uEGrjeYXXy5MkM) | 2:52 |
 | 19 | [Control](https://open.spotify.com/track/29P1QyEgirfz0pJ31npUQx) | [Kenny](https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY) | [Control](https://open.spotify.com/album/3gbs7YXcIZ9LkZRa5tAuzn) | 2:03 |
 | 20 | [Sway](https://open.spotify.com/track/5vjfKzxJpDGawFtTq8f4dj) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sway](https://open.spotify.com/album/7uxnk6j0snMV0K99bWfO4N) | 2:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 46 | [Slow](https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Slow](https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW) | 2:55 |
 | 47 | [Some Other Time \(feat\. Arz\)](https://open.spotify.com/track/2RP9qWN4MpSLHAlskIlV1t) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Some Other Time \(feat\. Arz\)](https://open.spotify.com/album/1ARzgmtTR8Zpq8LctI8sZh) | 3:19 |
 | 48 | [What's A Monday](https://open.spotify.com/track/3r3TNewGNpl7zKgzk9nYTJ) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [What's A Monday](https://open.spotify.com/album/6HfUGBPpQSsqAFDOAIzct1) | 2:33 |
-| 49 | [Too Hot](https://open.spotify.com/track/0r6UbYDhi7MEojd80gXH42) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Too Hot](https://open.spotify.com/album/5hqv7koMqv1vF6oy20Pbe5) | 2:04 |
+| 49 | [Too Hot](https://open.spotify.com/track/4usGSO2f7aE9aKC05itGbq) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Too Hot](https://open.spotify.com/album/0Gde461yTS29VnscdMNrtX) | 2:04 |
 | 50 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDI4MWYzZTFhNWQ2NjMxNDc3MzBlODk5NGYwOGQ4NGFk`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDE2MDdjODQ5ZGU2MzRlZDQ1NmY0OGUyOTQ1ZDllNTVm`

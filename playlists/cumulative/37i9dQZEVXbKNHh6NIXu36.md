@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-1,075 songs - 2 day 6 hr 22 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
+1,076 songs - 2 day 6 hr 23 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,6 +758,7 @@
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-06 |
 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 | 2021-12-25 | 2021-12-27 |
 | [Plesi](https://open.spotify.com/track/4DmaRgnBrN1IF7Q3R9hTFJ) | [Voyage](https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Plesi](https://open.spotify.com/album/2LDGUJR5xUMwkvKlbhrkat) | 2:32 | 2021-04-07 | 2021-04-20 |
+| [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-12 |  |
 | [Polizei](https://open.spotify.com/track/21nMasJVN7cJ9gxtxUEPsu) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Polizei](https://open.spotify.com/album/4HfUAIcfEIhKjPXDiGavqH) | 2:27 | 2021-09-19 | 2021-10-01 |
 | [POPSMOKE DANCE](https://open.spotify.com/track/1ZU19OTgd4Xs5QaYJ78bQF) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [POPSMOKE DANCE](https://open.spotify.com/album/4VG6YdjT1dssidrwp3uNfW) | 3:04 | 2021-06-20 | 2021-06-21 |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-05-28 | 2022-05-30 |
@@ -913,7 +914,7 @@
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-23 |
 | [Strassengeschichten](https://open.spotify.com/track/5wTppCMe8AtTcmYX9K8apU) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [Strassengeschichten](https://open.spotify.com/album/2aJEgKSbUODwrIX31p1P7F) | 2:46 | 2022-01-22 | 2022-01-24 |
 | [Subwoofer](https://open.spotify.com/track/5zPT86unoFaNP2J348n1p0) | [SHINSKY x DIMA](https://open.spotify.com/artist/4iiEdRlpL7LDPxa1Wa0jkj) | [Subwoofer](https://open.spotify.com/album/1kNJG2EFG7VWxlxccruuqB) | 2:42 | 2021-03-27\* | 2021-03-27 |
-| [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-19 |  |
+| [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-19 | 2022-10-13 |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-04-12 | 2022-07-24 |
 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-08-30 | 2022-10-11 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-16 | 2022-09-11 |

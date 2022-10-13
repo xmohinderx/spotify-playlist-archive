@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Sorry
 
-651 songs - 1 day 13 hr 17 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+655 songs - 1 day 13 hr 29 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [If Only](https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [If Only](https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy) | 3:22 | 2021-09-10 | 2022-03-22 |
 | [If We Were Older](https://open.spotify.com/track/6eK1bxauGGFmlVWDjqq5CJ) | [The Gloomies](https://open.spotify.com/artist/6IZyBaB8s1xUK63Ltp9h0b) | [Blackout \(Deluxe\)](https://open.spotify.com/album/15na81dJ5ZIQnNeDOaJyTe) | 4:51 | 2022-04-29 | 2022-07-23 |
 | [If You Feel Alone At Parties](https://open.spotify.com/track/60mVBegbZZTphS4TzKCezF) | [Blvck Hippie](https://open.spotify.com/artist/0mUwpdl65QY5krTuVVDoZd) | [If You Feel Alone At Parties](https://open.spotify.com/album/5z4tK2lRjOTgtG0sxyaARZ) | 4:19 | 2022-04-29 | 2022-09-03 |
-| [ILY2](https://open.spotify.com/track/6TFNpbspD3whCDW98LvMSY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/3nBehmaH78kXLIQhImNnOH) | 3:45 | 2022-09-30 |  |
+| [ILY2](https://open.spotify.com/track/6TFNpbspD3whCDW98LvMSY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/3nBehmaH78kXLIQhImNnOH) | 3:45 | 2022-09-30 | 2022-10-13 |
+| [ILY2](https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k) | 3:45 | 2022-09-30 |  |
 | [Immunity](https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:50 | 2022-09-23 |  |
 | [in love](https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [in love](https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl) | 2:32 | 2021-08-27 | 2022-04-18 |
 | [In My Feelings](https://open.spotify.com/track/51kcXkGlp7q5vFFORbHCmX) | [Bantug](https://open.spotify.com/artist/6zXxD2q2MDoVWsTBd0WCd5) | [In My Feelings](https://open.spotify.com/album/6ipINCnKZlyae3LTOgZZLK) | 2:14 | 2021-04-02 | 2022-04-20 |
@@ -354,6 +355,7 @@
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 | 2021-10-22 | 2022-04-29 |
 | [Keep up That Talk](https://open.spotify.com/track/6xUckCwKNfYr31rHK0VJEM) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [Prince Daddy & The Hyena](https://open.spotify.com/album/4Os6Tb2ris9W7QgWSHEUye) | 2:58 | 2022-04-29 | 2022-05-09 |
 | [Keeper](https://open.spotify.com/track/5IGU1JWZSHU6ivB7pYxONX) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Keeper](https://open.spotify.com/album/1tMQnzjk1JiFwN9BKg7ZRX) | 3:08 | 2021-10-02 | 2022-04-29 |
+| [Killer Whale](https://open.spotify.com/track/3My7lwGD0D1SvJ2JzSipUN) | [Boyscott](https://open.spotify.com/artist/3WPt7OfKDirWGEDH9kHahw) | [Goose Bumps](https://open.spotify.com/album/54WA4vkcrqGV7Jo7vLCevE) | 2:27 | 2022-10-12 |  |
 | [Killfire](https://open.spotify.com/track/7w4I3vNHStXCPGWp6IKXft) | [Black Lizard](https://open.spotify.com/artist/0Hr1HjUofZNMT0NhNNNt6J) | [Killfire](https://open.spotify.com/album/5aAnuVgyRlkZwAbEbkK3hl) | 4:27 | 2022-04-29 | 2022-05-06 |
 | [Kind of a Nice Time](https://open.spotify.com/track/1IyQVkQ5aZUg39cFPwQelq) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Kind of a Nice Time](https://open.spotify.com/album/0fM00ZhL8Jv3EfppLbOxOU) | 3:12 | 2022-03-26 | 2022-07-16 |
 | [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-03-05 | 2022-03-17 |
@@ -396,7 +398,8 @@
 | [Milky Way](https://open.spotify.com/track/7nkxrLrU4mTLvfXRdOG01B) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Milky Way](https://open.spotify.com/album/0UmfTw8qxhWKMgqD0ya9pQ) | 2:33 | 2021-09-17 | 2022-04-20 |
 | [Mind of Its Own](https://open.spotify.com/track/0frbJJp4kKMvrvDnv6YiUD) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Mind of Its Own](https://open.spotify.com/album/0uXrDuj03d9mhUefCxEG3D) | 3:21 | 2022-04-01 | 2022-05-20 |
 | [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-16 |  |
-| [Miracles](https://open.spotify.com/track/2H0Aiqfj2ipE7xAHadLu7M) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Miracles](https://open.spotify.com/album/4YAJF85EawIdkZfsxa4NDe) | 3:16 | 2022-09-16 |  |
+| [Miracles](https://open.spotify.com/track/1aTHfnCCB8RleVKfq5u0bD) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Miracles](https://open.spotify.com/album/3MjUsKkgDivwM51Ew1sAgK) | 3:16 | 2022-09-16 |  |
+| [Miracles](https://open.spotify.com/track/2H0Aiqfj2ipE7xAHadLu7M) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Miracles](https://open.spotify.com/album/4YAJF85EawIdkZfsxa4NDe) | 3:16 | 2022-09-16 | 2022-10-13 |
 | [Mirrors Without Reflections](https://open.spotify.com/track/4zBY3I1VGkGDrtjPLo66eC) | [Name Change](https://open.spotify.com/artist/2JyL2YmRnWwLc9cEdEFqWg) | [Mirrors Without Reflections](https://open.spotify.com/album/2FxwpBEvP9bnrXHvkifZ7Y) | 4:11 | 2021-06-25 | 2022-04-16 |
 | [Monday's Fácil](https://open.spotify.com/track/00W5tnmuEvWvIJiiWJzHr6) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Monday's Fácil](https://open.spotify.com/album/4O5cQY3eatUzq7Kvx2Sei2) | 4:07 | 2021-04-30 | 2022-04-25 |
 | [Montana](https://open.spotify.com/track/5f4jIPLCdVFXLOO3wadbiM) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Montana](https://open.spotify.com/album/1QRmUd7quysdvWp0m32526) | 3:20 | 2021-03-05 | 2022-04-29 |
@@ -412,7 +415,8 @@
 | [Necromancer](https://open.spotify.com/track/0aVM2DspPoHNTDBm7ehySx) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Joy Again](https://open.spotify.com/album/65lnDjCMHpSzQFQFYwF9AE) | 2:33 | 2022-04-29 | 2022-05-03 |
 | [Never Be The Same \(Andrew VanWyngarden Mix\)](https://open.spotify.com/track/70M98T72nkHYIspWyvAnIA) | [Club Intl](https://open.spotify.com/artist/4ocgkEqase6QoOnj6O5wUq), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [Johnny Jewel](https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR), [John Eatherly](https://open.spotify.com/artist/5FgE0utDmmiiVaaFQNO6GZ) | [Never Be The Same](https://open.spotify.com/album/5y6MKcoAspRVH8OOUb2EsF) | 5:46 | 2021-03-05 | 2022-03-22 |
 | [Never Go](https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Hawaii](https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE) | 2:36 | 2022-06-17 |  |
-| [Never Want to Leave](https://open.spotify.com/track/5Cwh8m0uYNK7N2JfLOjoTA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Never Want to Leave](https://open.spotify.com/album/4MBWusrHJl4N8FjXiWWbqT) | 2:34 | 2022-10-07 |  |
+| [Never Want to Leave](https://open.spotify.com/track/2RgHZv1fA9vFEsFouCvvd5) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Never Want to Leave](https://open.spotify.com/album/05QFzhwkX0wMv4KsUiSuUf) | 2:34 | 2022-10-07 |  |
+| [Never Want to Leave](https://open.spotify.com/track/5Cwh8m0uYNK7N2JfLOjoTA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Never Want to Leave](https://open.spotify.com/album/4MBWusrHJl4N8FjXiWWbqT) | 2:34 | 2022-10-07 | 2022-10-13 |
 | [New England](https://open.spotify.com/track/7KA5QCCQoa1AaUMMNa5Tv3) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Homeschool: Book I](https://open.spotify.com/album/2UEeY64ypFb2LWPZHboPZf) | 2:57 | 2021-04-30 | 2022-04-25 |
 | [New Slang](https://open.spotify.com/track/2UGLTM8VWqQai7bq2X7OiK) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [New Slang](https://open.spotify.com/album/5n1bgsaXNRP8y4jXGOEic2) | 4:15 | 2021-08-27 | 2022-04-25 |
 | [New Sublet](https://open.spotify.com/track/6j3FP8EWatS21qW1EBRjIA) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [New Sublet](https://open.spotify.com/album/6zfjNPkpHppPX9NiAZpjbE) | 3:01 | 2021-03-05 | 2022-03-22 |

@@ -506,6 +506,24 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd"
+      },
+      "artists": [
+        {
+          "name": "Edsun",
+          "url": "https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199125,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
       },
@@ -557,10 +575,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 206891,
       "name": "For You",
       "url": "https://open.spotify.com/track/2XmbjslL9zkGfs2UoR2xxf"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6OcYD13rTjmihZu2I5Xn5K"
+      },
+      "artists": [
+        {
+          "name": "Patrik Jean",
+          "url": "https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206891,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5AkF7FqmUUJbPPrQ0OazOc"
     },
     {
       "album": {
@@ -673,7 +709,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 206000,
       "name": "Green Line",
       "url": "https://open.spotify.com/track/5Atbk3bEaMvNn7x9oCNjHX"
@@ -731,6 +767,24 @@
       "duration_ms": 242006,
       "name": "Hawaiian Party",
       "url": "https://open.spotify.com/track/13aTJyIiL95yMLU5df5jts"
+    },
+    {
+      "album": {
+        "name": "Both Sides of the Story",
+        "url": "https://open.spotify.com/album/6Hbt5gcy8lzmYC23vjlwHp"
+      },
+      "artists": [
+        {
+          "name": "Celaviedmai",
+          "url": "https://open.spotify.com/artist/4c61VuJuumv26ISGZ4VzcO"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138095,
+      "name": "HEAL",
+      "url": "https://open.spotify.com/track/2cBysRhIZ0SddRIJPEuYOI"
     },
     {
       "album": {
@@ -1067,7 +1121,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 264873,
       "name": "My Own Person",
       "url": "https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH"

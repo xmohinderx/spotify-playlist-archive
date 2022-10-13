@@ -4,7 +4,7 @@
 
 > New music breaking waves\.  Cover: SHABOOZEY
 
-182 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
+184 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Selfish](https://open.spotify.com/track/4y3jlIv1tEecRRmp3rUovX) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/5l7N5sEr1ALaHvBuMEZ5a0) | 2:41 | 2021-10-29 | 2022-03-05 |
 | [Set It Up](https://open.spotify.com/track/1k9bp6yzlRTOwqB4JB7RFF) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Set It Up](https://open.spotify.com/album/1e3u8uTl5quNGWVIbpD9aF) | 3:37 | 2022-03-04 | 2022-08-27 |
 | [Sim Simma](https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Sim Simma](https://open.spotify.com/album/4y1JexJuRC9hzT2SHCYscg) | 2:25 | 2021-12-01 | 2022-08-27 |
-| [SINCERELY](https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [SINCERELY](https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0) | 3:04 | 2022-09-16 |  |
+| [SINCERELY](https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [SINCERELY](https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0) | 3:04 | 2022-09-16 | 2022-10-13 |
+| [SINCERELY](https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 3:04 | 2022-09-16 |  |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-01-28 | 2022-05-21 |
 | [Skyline](https://open.spotify.com/track/0r2QK1psZlSXAjutXOzmH3) | [BADGER](https://open.spotify.com/artist/3cYU0MrWiLukHpUTuwfH7W) | [BAD KID](https://open.spotify.com/album/25J9kDMnSp8GlO5rWkggR0) | 3:18 | 2021-10-22 | 2022-03-05 |
 | [Slow](https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Slow](https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW) | 2:55 | 2022-08-05 |  |
@@ -173,7 +174,8 @@
 | [Till The World's Awake](https://open.spotify.com/track/4hedQVjhX9bdo7DAUDWtex) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Till The World's Awake](https://open.spotify.com/album/0uR7oNjEFBRJPhvRbzufJP) | 3:28 | 2022-08-05 |  |
 | [Tip Toe](https://open.spotify.com/track/5gHZrIUjZ6eniUIrySkv6Y) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [Tip Toe](https://open.spotify.com/album/67xWUOuZs8Dx36kpES3x4w) | 1:45 | 2022-05-12 | 2022-09-10 |
 | [Too Deep](https://open.spotify.com/track/3qOYmmCabW28q5QQJvac42) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Too Deep](https://open.spotify.com/album/00hxzABSuhHgM4fkrBX8rn) | 2:52 | 2022-03-25 | 2022-05-21 |
-| [Too Hot](https://open.spotify.com/track/0r6UbYDhi7MEojd80gXH42) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Too Hot](https://open.spotify.com/album/5hqv7koMqv1vF6oy20Pbe5) | 2:04 | 2022-08-05 |  |
+| [Too Hot](https://open.spotify.com/track/0r6UbYDhi7MEojd80gXH42) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Too Hot](https://open.spotify.com/album/5hqv7koMqv1vF6oy20Pbe5) | 2:04 | 2022-08-05 | 2022-10-13 |
+| [Too Hot](https://open.spotify.com/track/4usGSO2f7aE9aKC05itGbq) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Too Hot](https://open.spotify.com/album/0Gde461yTS29VnscdMNrtX) | 2:04 | 2022-08-05 |  |
 | [Too Much, Too Fast](https://open.spotify.com/track/5oXSyMpfGALEQYh4PVuHLm) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Too Much, Too Fast](https://open.spotify.com/album/7cFFL0TmlLzxl2INKQGlxy) | 2:34 | 2021-08-20 | 2022-03-05 |
 | [Try Hard](https://open.spotify.com/track/1Y0WL6KqYm78Fn8eIlStyR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Try Hard](https://open.spotify.com/album/0HEoy02ph3KqkAg5OW5iIH) | 2:28 | 2022-05-27 | 2022-09-17 |
 | [Unsigned Hype](https://open.spotify.com/track/7Lag47FQLHc2NBqw7VZPMm) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Unsigned Hype](https://open.spotify.com/album/5xqqtdZ8cijaGURKosIVYC) | 2:29 | 2022-03-04 | 2022-08-06 |

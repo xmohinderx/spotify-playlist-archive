@@ -4,7 +4,7 @@
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-147 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/7KYDTb9MPMU550wXeMZesu)
+148 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/7KYDTb9MPMU550wXeMZesu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/track/2sW3snLTi77h0rm4g9tDuD) | [Wyles](https://open.spotify.com/artist/77u8tnFyGYz4GrpGbQXeUr), [Architechs](https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G), [Crystxl King](https://open.spotify.com/artist/01FnnL35UsLhTNK27gZjqt) | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/album/1JYq2a06tP799ORo2YdBB6) | 2:45 | 2022-04-15 | 2022-07-29 |
 | [Body Talk](https://open.spotify.com/track/79Ys5RA1vKAeKAdYA4dtzz) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [Aliki](https://open.spotify.com/artist/380pxNdAJgBs9PVHfiLKHi) | [Body Talk](https://open.spotify.com/album/7b7jIVxiXqkSRMMMWm8NOw) | 3:20 | 2022-04-15 | 2022-05-24 |
 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 | 2022-04-15 | 2022-07-10 |
-| [Castles](https://open.spotify.com/track/4mGRwVmJgYfM6buErDPI5U) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Castles](https://open.spotify.com/album/3XXAqB2toFnj3mPMlC5nim) | 3:35 | 2022-09-27 |  |
+| [Castles](https://open.spotify.com/track/3QdzpmSbCNb8zh98lnUeXE) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Castles](https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik) | 3:35 | 2022-09-27 |  |
+| [Castles](https://open.spotify.com/track/4mGRwVmJgYfM6buErDPI5U) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Castles](https://open.spotify.com/album/3XXAqB2toFnj3mPMlC5nim) | 3:35 | 2022-09-27 | 2022-10-13 |
 | [Catching a Vibe](https://open.spotify.com/track/3Z9br4pfARAXSlo6uYcUMR) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Catching a Vibe](https://open.spotify.com/album/5BsGg3trz9FlMXsGlXyl2C) | 3:04 | 2022-06-20 | 2022-07-05 |
 | [Champagne \(Anton Powers Remix\)](https://open.spotify.com/track/4s5OohUEtEgGyU7TOONVQv) | [Jessica Hammond](https://open.spotify.com/artist/2lsJv6qUERUm02g6uaxRri), [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc) | [Champagne \(Anton Powers Remix\)](https://open.spotify.com/album/2ROhZoR8dFage2F0t3Eo1J) | 2:46 | 2022-05-10 | 2022-06-20 |
 | [Chemical Embrace](https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Chemical Embrace](https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS) | 3:12 | 2022-07-29 |  |

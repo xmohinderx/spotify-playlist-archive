@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind and chill out to the soundtracks of Einaudi, Beethoven, Mozart, Bach incl\. Igor Levit, Yo\-Yo Ma, Esther Abrami and Alexis Ffrench\. The perfect background music for sleep and study.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 318,168 likes - 111 songs - 7 hr 10 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 318,156 likes - 111 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

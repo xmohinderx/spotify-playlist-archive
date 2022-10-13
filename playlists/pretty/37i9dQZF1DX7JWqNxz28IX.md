@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, i lost kids\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,975 likes - 128 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,993 likes - 128 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

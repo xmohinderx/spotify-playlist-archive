@@ -4438,6 +4438,24 @@
     },
     {
       "album": {
+        "name": "Nadi",
+        "url": "https://open.spotify.com/album/1mmaYhySbmvhqSbLb1YNEq"
+      },
+      "artists": [
+        {
+          "name": "Fazer",
+          "url": "https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338926,
+      "name": "Lina",
+      "url": "https://open.spotify.com/track/79xcRg7hGlIKAJ3Tk1qiJJ"
+    },
+    {
+      "album": {
         "name": "Doug Carn JID005",
         "url": "https://open.spotify.com/album/2NECEnZwEaR6at7uEP8Kmj"
       },
@@ -5281,7 +5299,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 402773,
       "name": "Move",
       "url": "https://open.spotify.com/track/3HYCr4XXLZxMBqNQOvFNFR"
@@ -7177,7 +7195,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 420460,
       "name": "Ships Come In (A Lullaby)",
       "url": "https://open.spotify.com/track/0Jc7cfNj1ppZfC2WzUJymn"
@@ -7849,7 +7867,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 386586,
       "name": "Sunfish",
       "url": "https://open.spotify.com/track/7wXFm7V9l7WDL08iyghuPm"

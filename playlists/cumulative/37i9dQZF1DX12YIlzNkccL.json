@@ -2478,8 +2478,8 @@
     },
     {
       "album": {
-        "name": "Beethoven: Symphonies Nos.5 & 7",
-        "url": "https://open.spotify.com/album/6eOuqhCfrTPp1H0YbQ9PmL"
+        "name": "Originals Beethoven Box",
+        "url": "https://open.spotify.com/album/1kiYP14ax8HLDP9lkwdPwb"
       },
       "artists": [
         {
@@ -2495,12 +2495,12 @@
           "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
         }
       ],
-      "date_added": "2021-06-17",
+      "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 442000,
       "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
-      "url": "https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A"
+      "url": "https://open.spotify.com/track/2ygeBLTP9uu3OW3VTulD8N"
     },
     {
       "album": {
@@ -2523,7 +2523,59 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 442000,
+      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A"
+    },
+    {
+      "album": {
+        "name": "Originals Beethoven Box",
+        "url": "https://open.spotify.com/album/1kiYP14ax8HLDP9lkwdPwb"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 309466,
+      "name": "Symphony No. 5 in C Minor, Op. 67: III. Allegro",
+      "url": "https://open.spotify.com/track/5l4gqZGDx5epelGEzExs4S"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Symphonies Nos.5 & 7",
+        "url": "https://open.spotify.com/album/6eOuqhCfrTPp1H0YbQ9PmL"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "date_added": "2021-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 309466,
       "name": "Symphony No. 5 in C Minor, Op. 67: III. Allegro",
       "url": "https://open.spotify.com/track/7ojkji0OYCOpl3UMy92gEf"

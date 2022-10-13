@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 954 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 963 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 9 | [Ninyeshee](https://open.spotify.com/track/7evPaguX9dGzgv8hu1kcn3) | [BRANNY](https://open.spotify.com/artist/2wBg0iI6AFCm42fUkvIZ6u), [Shani](https://open.spotify.com/artist/1ZbZCoHYPTyGtMK5W56sUp), [Havoc](https://open.spotify.com/artist/5bYp8wilbCtNvQ0naeQ4rQ), [Laura Karwirwa](https://open.spotify.com/artist/7wkxMxxw3LihaaaWQA7tYT) | [Ninyeshee](https://open.spotify.com/album/4dIgeqqMlPdyIyQBRieAJa) | 3:29 |
 | 10 | [Bless Me](https://open.spotify.com/track/0pBoHMgxGSbffE3GXHTOTw) | [Alemba](https://open.spotify.com/artist/6seiRQSfruP9bJmmLAxo9k) | [Bless Me](https://open.spotify.com/album/6kFhQl2OOFDdzxXx3NIHss) | 3:41 |
 | 11 | [Nipe Kukumbuka](https://open.spotify.com/track/2MY7dMPcDPmn7MZd5Y3a6R) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Shukurani](https://open.spotify.com/album/5R0ccaog0qDe7Ubztu6ChM) | 5:20 |
-| 12 | [Hubadiliki \(feat\. Bella Kombo\)](https://open.spotify.com/track/1A3uvglKkwzkm3kIE0B67I) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [Bella Kombo](https://open.spotify.com/artist/72i32gJ4wl0C1b0RG4h5iN) | [Black Child](https://open.spotify.com/album/0IrAxhlwwL6RsdDdyeQyBm) | 4:35 |
+| 12 | [Hubadiliki](https://open.spotify.com/track/4E9ND957QouLYyU97gMFeg) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk) | [Black Child](https://open.spotify.com/album/5ufvjfxwFSEJqTxRO4fmSK) | 4:35 |
 | 13 | [Ukiokoka](https://open.spotify.com/track/1QtFu0IWKC9XM93ZeiYFyP) | [Eko Dydda](https://open.spotify.com/artist/0F0AWv6Giki7xrNkzI27hs) | [Ukiokoka](https://open.spotify.com/album/2q1iT6EVxA3V9Af9GUHgIX) | 3:01 |
 | 14 | [Horera](https://open.spotify.com/track/3SZtn6Vo9q9zaLRrx02UkZ) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq), [Yo Alex](https://open.spotify.com/artist/2dyAmcFC6RZpQdECgopzAT), [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe) | [Horera](https://open.spotify.com/album/0HKGeIN1EWRdZXvL84U9mX) | 3:26 |
 | 15 | [Rada!](https://open.spotify.com/track/42hNeofs70B4RNLFQQylsu) | [Karwirwa Laura](https://open.spotify.com/artist/7zUicfuuQ82TkhpQp1AXvA), [Stonee Jiwe](https://open.spotify.com/artist/7fBagWqtKxfG3Zxr7H38Eb) | [Rada!](https://open.spotify.com/album/0FYVz8qoGeSnA52VosS6tu) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 49 | [Enjoy \(Yo Blessings\)](https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Enjoy \(Yo Blessings\)](https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy) | 3:15 |
 | 50 | [Ulimi wangu](https://open.spotify.com/track/67J85D0hnKBI12SKKPTLi5) | [Timam Evans](https://open.spotify.com/artist/3Pl2sjphziaizyq0JUBzVO) | [Ulimi wangu](https://open.spotify.com/album/4ehQVrrB1CKU7lE0ZIFG5A) | 3:39 |
 
-Snapshot ID: `MTY1MDU3NDc0MCwwMDAwMDAwMDNlMTkwZjczOTI1Y2RhYjdkYTc2YTY3ZmU1YWM2MDgw`
+Snapshot ID: `MTY1MDU3NDc0MCwwMDAwMDAwMGIyYmZhYzk5NjgyMzI3ZWU2MzA2ZWY5ZmNmN2FjMjcx`

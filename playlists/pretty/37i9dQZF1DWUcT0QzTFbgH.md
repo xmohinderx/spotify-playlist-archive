@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,607 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,626 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 75 | [Vene](https://open.spotify.com/track/206f90xtTsjBqhzc6RwL90) | [G Pillola](https://open.spotify.com/artist/0sPRACMUPse4aZ8umTvLw7) | [Ciao belli](https://open.spotify.com/album/0zuikU98237Glp0PZg0y0K) | 3:01 |
 | 76 | [The Egg](https://open.spotify.com/track/6bAa1rz1a9t3SKLkos8gG9) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [Kurzgesagt, Vol\. 6 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6FAs3MjcH9G8N23Q57VqQu) | 7:49 |
 | 77 | [WEST](https://open.spotify.com/track/05fJJPka4e0INdrCAWXt9c) | [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Melo\-Zed](https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv) | [SUGAR LIKE SALT](https://open.spotify.com/album/1mT9o8hv32F1ocKIEmN7sG) | 3:42 |
-| 78 | [LOUSY](https://open.spotify.com/track/0rxVWTeAR9evLU3wBW6jfr) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 2:45 |
+| 78 | [LOUSY](https://open.spotify.com/track/2wkW3RbMGYjbSCNsHShEEm) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 2:45 |
 | 79 | [About Her](https://open.spotify.com/track/7iQDsonHSnaT6hNBJUaRe9) | [Phazz](https://open.spotify.com/artist/0kjZvGERXMvPFSs6DB5UFF) | [About Her](https://open.spotify.com/album/2oPrc4DfMZTI1Bh2ZrSgfF) | 3:31 |
 | 80 | [Dreaming About You](https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 5:52 |
 
-Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMGRkMmMwYmYyY2YwYWRmNDk1NTVkZmU1NzU0YWU5NzZl`
+Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMDQ0ZTliOTExMDJhMzI4NTZiMGMzOTRhYjg3Y2Y4YTIz`

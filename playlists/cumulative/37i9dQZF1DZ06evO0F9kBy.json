@@ -131,10 +131,32 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 231280,
       "name": "Awake My Soul (A Thousand Tongues)",
       "url": "https://open.spotify.com/track/62G1fPW9lyLHs1DGOyDRjL"
+    },
+    {
+      "album": {
+        "name": "New Creation",
+        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233080,
+      "name": "Baptized",
+      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
     },
     {
       "album": {
@@ -319,7 +341,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 272494,
       "name": "Come As You Are (Live)",
       "url": "https://open.spotify.com/track/2fZaAbJv0MYegwqjSmI10W"
@@ -377,7 +399,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 89333,
       "name": "Echoes One",
       "url": "https://open.spotify.com/track/19oOSjEyj3ieUb3hamiUcA"
@@ -399,7 +421,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 211360,
       "name": "Faithfulness (feat. Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
@@ -417,7 +439,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 254146,
       "name": "Firelight",
       "url": "https://open.spotify.com/track/1j5N5RTJPkawg8eYodXo9z"
@@ -617,7 +639,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 326573,
       "name": "Lay It Down",
       "url": "https://open.spotify.com/track/4OV8vjuI9FAonqkWgYQpQe"
@@ -697,6 +719,28 @@
       "duration_ms": 315986,
       "name": "Mighty Fortress",
       "url": "https://open.spotify.com/track/0qbgAalYuLrgYKfEhwzUW4"
+    },
+    {
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Drew Holcomb",
+          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "My Old Friend (feat. Drew Holcomb)",
+      "url": "https://open.spotify.com/track/11DODMoytrztXjlZt3Umhm"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest soul tracks from the 1970s.",
-  "num_followers": 1306913,
+  "num_followers": 1307351,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMGMyNzliNTc1ZmExMTFkYjQzOWM3NjhmNjQ5ZDY5YTc1",
+  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMDVhNzc0MGM1MDdmZTczMmMzZGQ2M2FhYmExMmY2ZTY5",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "70s Gems",
         "url": "https://open.spotify.com/album/2qlmtkBLyoBDkGRVcKh00D"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 238973,
       "name": "Shame, Shame, Shame",
       "url": "https://open.spotify.com/track/1cdRKJlpHp273rwdqMRLOr"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2022-02-04 15:57:42",

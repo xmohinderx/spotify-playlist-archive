@@ -3529,6 +3529,24 @@
     {
       "album": {
         "name": "Trail Mix Tape",
+        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187850,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
+    },
+    {
+      "album": {
+        "name": "Trail Mix Tape",
         "url": "https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i"
       },
       "artists": [
@@ -3539,7 +3557,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 187850,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S"
@@ -3654,6 +3672,24 @@
     },
     {
       "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p"
       },
@@ -3665,7 +3701,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 218000,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi"
@@ -5253,10 +5289,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 184314,
       "name": "Figure You Out",
       "url": "https://open.spotify.com/track/0zcKU98jIjZAxGPQZ5sDpe"
+    },
+    {
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184314,
+      "name": "Figure You Out",
+      "url": "https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae"
     },
     {
       "album": {
@@ -7203,10 +7257,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 147045,
       "name": "HOUSEPARTY",
       "url": "https://open.spotify.com/track/1kbb1Lcg5ASJvvsWqNTOao"
+    },
+    {
+      "album": {
+        "name": "HOUSEPARTY",
+        "url": "https://open.spotify.com/album/6wtBot0kdVYtezrca2upV8"
+      },
+      "artists": [
+        {
+          "name": "mekel",
+          "url": "https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147045,
+      "name": "HOUSEPARTY",
+      "url": "https://open.spotify.com/track/30m81sZ92Ux0Negw2m3W8d"
     },
     {
       "album": {
@@ -13371,6 +13443,24 @@
     {
       "album": {
         "name": "Sensitive",
+        "url": "https://open.spotify.com/album/7eMlwcdSlN4TqLgamB0Qal"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157819,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/2gcs6LDGhgoIrZio5Z2d3P"
+    },
+    {
+      "album": {
+        "name": "Sensitive",
         "url": "https://open.spotify.com/album/4m6TJWcVB64Ja5K5Sz7Urw"
       },
       "artists": [
@@ -13381,7 +13471,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 157819,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/2zQH8HDTJww0eYqXAAnJys"
@@ -16489,10 +16579,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 217500,
       "name": "Trying to Be Nice",
       "url": "https://open.spotify.com/track/28QvDePOqY5DXrGPFRq558"
+    },
+    {
+      "album": {
+        "name": "You Have Got to Be Kidding Me",
+        "url": "https://open.spotify.com/album/3KKsv36GD6Nsmr2KrgQEA0"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Trying to Be Nice",
+      "url": "https://open.spotify.com/track/3O3kGmka7Gqpl6qLOtBXeQ"
     },
     {
       "album": {
@@ -17949,6 +18057,24 @@
     {
       "album": {
         "name": "\u200ecan't \u200eu \u200etell \u200e?",
+        "url": "https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "\u200ecan't \u200eu \u200etell \u200e?",
+      "url": "https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn"
+    },
+    {
+      "album": {
+        "name": "\u200ecan't \u200eu \u200etell \u200e?",
         "url": "https://open.spotify.com/album/4239Z8wD4pZdLNYAM8imWe"
       },
       "artists": [
@@ -17959,7 +18085,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 158769,
       "name": "\u200ecan't \u200eu \u200etell \u200e?",
       "url": "https://open.spotify.com/track/2z344vvIbh4Sk4oVgbgxFD"
@@ -18085,10 +18211,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 145723,
       "name": "\u200ewhiskey",
       "url": "https://open.spotify.com/track/0bRq2UOu3CNuH0dvwukfMc"
+    },
+    {
+      "album": {
+        "name": "\u200erubber \u200echecks",
+        "url": "https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145723,
+      "name": "\u200ewhiskey",
+      "url": "https://open.spotify.com/track/7yH1ewkwvwh2SaKFqXnXYW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz"

@@ -159,6 +159,24 @@
     {
       "album": {
         "name": "Absence of You",
+        "url": "https://open.spotify.com/album/0kg5NHyGzMboxjrWtWOo00"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194745,
+      "name": "Absence of You",
+      "url": "https://open.spotify.com/track/3fk4yTACtSqCzDol4mBPdt"
+    },
+    {
+      "album": {
+        "name": "Absence of You",
         "url": "https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv"
       },
       "artists": [
@@ -169,7 +187,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 194745,
       "name": "Absence of You",
       "url": "https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT"
@@ -1600,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "soft thing",
+        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "either side",
+      "url": "https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl"
+    },
+    {
+      "album": {
         "name": "either side",
         "url": "https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX"
       },
@@ -1611,7 +1647,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 167213,
       "name": "either side",
       "url": "https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m"
@@ -4028,6 +4064,24 @@
     },
     {
       "album": {
+        "name": "Nocturne Interlude / Unholy Appetite",
+        "url": "https://open.spotify.com/album/2naRj9IUpRB5dyWstiTRkm"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89343,
+      "name": "Nocturne Interlude",
+      "url": "https://open.spotify.com/track/5jpnoBnHSxRARxZhAXgOzb"
+    },
+    {
+      "album": {
         "name": "Not Around",
         "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
       },
@@ -4111,7 +4165,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 155609,
       "name": "One Year Stand",
       "url": "https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8"
@@ -5001,6 +5055,24 @@
     {
       "album": {
         "name": "Sola",
+        "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198594,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
+    },
+    {
+      "album": {
+        "name": "Sola",
         "url": "https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546"
       },
       "artists": [
@@ -5011,7 +5083,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 198594,
       "name": "Sola",
       "url": "https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: The Haunted Youth
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,328 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,331 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 27 | [The Things That You Are Not \(Part 1\)](https://open.spotify.com/track/2Lo6dinJC6pLfMRK2H0ehd) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [Manic Pixie Dream Girl](https://open.spotify.com/album/5coRlQYIHdjSU37K7cRC3n) | 2:52 |
 | 28 | [45 Fahrenheit Girl \- Acoustic](https://open.spotify.com/track/4LNvWLzX0GFVaqNJP1cwsn) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Sycamore Redux](https://open.spotify.com/album/6ZMmz3oxPCor3rI0Nrx5re) | 2:23 |
 | 29 | [Numbers Up](https://open.spotify.com/track/2rPcQeiLE5nYhuSFTUAdK0) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Numbers Up](https://open.spotify.com/album/3g6EiOXZ7PNeV3gpuuMjuh) | 3:25 |
-| 30 | [You Were in My Dream Last Night](https://open.spotify.com/track/5XdUEaXDQRaSkMT9y2FNvU) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were in My Dream Last Night](https://open.spotify.com/album/0r9Qxn2RLpE6naOr0GXcJq) | 4:01 |
+| 30 | [You Were in My Dream Last Night](https://open.spotify.com/track/2ibQdYbPWdKbGq1Q0QrIXB) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were In My Dream Last Night](https://open.spotify.com/album/1lELKw9fX8yRiDNEAI7hTE) | 4:01 |
 | 31 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
 | 32 | [What Goes, Let Go](https://open.spotify.com/track/21jath1y9BcbV3tZKUXFw4) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/1YqDdcokv3cDe2819uRPrw) | 4:34 |
-| 33 | [Body And Mind](https://open.spotify.com/track/3IRooi7Z3RsocwcQblHza8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:06 |
+| 33 | [Body And Mind](https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:06 |
 | 34 | [Turn Around](https://open.spotify.com/track/2tEnmxLtnpbhuSks6aOxeL) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Too Young](https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx) | 2:44 |
 | 35 | [RELAPSE](https://open.spotify.com/track/3SuTqS0CuFnVxC52vBArPy) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:37 |
 | 36 | [Another year like that and we'd all be dead \- Stripped](https://open.spotify.com/track/3opGpYcaarSepS5e9Qq05g) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Another year like that and we'd all be dead \(stripped\)](https://open.spotify.com/album/1Ft7nREIGt0NIX7h7fW6Ef) | 3:37 |
 | 37 | [Blu Celeste](https://open.spotify.com/track/0BeXxjO6mgLDzg4xA6UheO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 3:26 |
 | 38 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 |
-| 39 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 |
+| 39 | [pocket locket](https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:08 |
 | 40 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
 
-Snapshot ID: `MTY2NDk4NjM2NCwwMDAwMDAwMDA5YTRhYzY2Y2JlZTM5OTNhYjlhYjlkMDgwZTNhYWEz`
+Snapshot ID: `MTY2NDk4NjM2NCwwMDAwMDAwMGExYjBkZDcxZWQ1YmQ3MzAwNTFkM2VlNTQzMGNlMDhm`

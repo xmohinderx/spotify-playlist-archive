@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,565 likes - 184 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,636 likes - 184 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 56 | [Epilogue](https://open.spotify.com/track/3Nt4wp8TBemJLhPkBlf01y) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Believe](https://open.spotify.com/album/0Iutlc6WCFQ64TZrdQUECo) | 2:49 |
 | 57 | [Tant va au ciel \- Hommage à Roland Dyens](https://open.spotify.com/track/1kl0K6lC7V8bCFUlNQLNRC) | [Arnaud Dumond](https://open.spotify.com/artist/1BbOqTsLJ2L0VAnT0PVVRL) | [Tant va au ciel \(Hommage à Roland Dyens\)](https://open.spotify.com/album/3tsdk6rAfOfe0WQbC50l7V) | 5:46 |
 | 58 | [Traveling Home](https://open.spotify.com/track/6UpA9GfzGPuny8IzZHu3ce) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Traveling Home](https://open.spotify.com/album/42UuqeNyhpaG8Le833PpRX) | 3:13 |
-| 59 | [Nostalgie](https://open.spotify.com/track/3nCXrX86dijsLaCS7jzLlB) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Nostalgia](https://open.spotify.com/album/1z0H1oKZ2DSHvjpG4dDbMX) | 3:36 |
+| 59 | [Nostalgia](https://open.spotify.com/track/3nCXrX86dijsLaCS7jzLlB) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Nostalgia](https://open.spotify.com/album/1z0H1oKZ2DSHvjpG4dDbMX) | 3:36 |
 | 60 | [Satélite](https://open.spotify.com/track/4bACm2m5ym6bX4QaPbUwYX) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Satélite](https://open.spotify.com/album/5Y6HlNBOqKWJEdEohqgcN2) | 2:28 |
 | 61 | [Taller Than Trees](https://open.spotify.com/track/44sLGlyVicqZ8iyyLSzRye) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Taller Than Trees](https://open.spotify.com/album/5KV0i5o9Dzpmgh9YcyTgOT) | 2:31 |
 | 62 | [Port Blair](https://open.spotify.com/track/1jMovOA0kIWC73Xio4pdXT) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Port Blair](https://open.spotify.com/album/1URrRnZNIpkpRRVGcOJszd) | 2:34 |

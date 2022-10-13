@@ -1,13 +1,65 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Ace Hashimoto Artwork: Joy Yamusangie",
-  "num_followers": 27376,
+  "num_followers": 27540,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk0MjQwMCwwMDAwMDAwMGFmN2NlN2JjZjU5ZWFiMWQ0NzIyMzk0NGZhNzhhMGY3",
+  "snapshot_id": "MTY2NTU4MDY2NCwwMDAwMDAwMDRmZTVlYzcyOGIyZmYyNTk3NzM1YzBiM2E2YzM4ZGNm",
   "tracks": [
+    {
+      "added_at": "2022-10-12 13:17:44",
+      "album": {
+        "name": "3rd Party 3rd Floor",
+        "url": "https://open.spotify.com/album/6CQkxgtfiGypJPTF12ZCoF"
+      },
+      "artists": [
+        {
+          "name": "Little Animal!",
+          "url": "https://open.spotify.com/artist/23gLK2H4lsLTxG5T7Qesww"
+        }
+      ],
+      "duration_ms": 369662,
+      "name": "3rd Party 3rd Floor",
+      "url": "https://open.spotify.com/track/0dyQoiukxqfof52egK1CiJ"
+    },
+    {
+      "added_at": "2022-10-12 13:17:44",
+      "album": {
+        "name": "Keep Time",
+        "url": "https://open.spotify.com/album/4OoDyCji0wDAjwwb6EEIv4"
+      },
+      "artists": [
+        {
+          "name": "Dilettante",
+          "url": "https://open.spotify.com/artist/42wN5SSwzTUprhIkVy996t"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Keep Time",
+      "url": "https://open.spotify.com/track/6Skw6NJNRjvcVb2zV5ruxn"
+    },
+    {
+      "added_at": "2022-10-12 13:17:44",
+      "album": {
+        "name": "Camaraderie",
+        "url": "https://open.spotify.com/album/5pLP4yGt9TsJK1HqdHJ3oi"
+      },
+      "artists": [
+        {
+          "name": "BrandonLee Cierley",
+          "url": "https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt"
+        },
+        {
+          "name": "Frances Cierley",
+          "url": "https://open.spotify.com/artist/51Hm6WJrEpkCtYfpPuVOJb"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/4hfoCqOoqgRRfJqmyfvWEo"
+    },
     {
       "added_at": "2022-10-05 04:00:00",
       "album": {
@@ -647,22 +699,6 @@
     {
       "added_at": "2022-09-28 04:00:00",
       "album": {
-        "name": "Rhonda's",
-        "url": "https://open.spotify.com/album/1hOpZ6KnLd4EqFHvAfr6gg"
-      },
-      "artists": [
-        {
-          "name": "Foshe",
-          "url": "https://open.spotify.com/artist/0KCuUspc7QtrKkeTqXGHKZ"
-        }
-      ],
-      "duration_ms": 345020,
-      "name": "Terrigal",
-      "url": "https://open.spotify.com/track/3yccNLYXxEY3MONXXm9wIk"
-    },
-    {
-      "added_at": "2022-09-28 04:00:00",
-      "album": {
         "name": "The Gold Vein",
         "url": "https://open.spotify.com/album/6ekqlVVVqPkBPeeUhAOy8w"
       },
@@ -1247,26 +1283,6 @@
       "duration_ms": 221639,
       "name": "ZANGYO",
       "url": "https://open.spotify.com/track/5hqJ9w8sbwPWnZBIDsLlF9"
-    },
-    {
-      "added_at": "2022-09-14 04:00:00",
-      "album": {
-        "name": "Session #1: Speak Low / Mysterious Hope",
-        "url": "https://open.spotify.com/album/4krLmtUkpfWhdlwNrJGcAd"
-      },
-      "artists": [
-        {
-          "name": "Reginald Chapman",
-          "url": "https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB"
-        },
-        {
-          "name": "Pressure Fit",
-          "url": "https://open.spotify.com/artist/0P5hzxaVFKgTn6cKMvP1rV"
-        }
-      ],
-      "duration_ms": 280320,
-      "name": "Speak Low - Session #1",
-      "url": "https://open.spotify.com/track/5VWVFKD1n8zEAGkTh2kER1"
     },
     {
       "added_at": "2022-09-07 04:00:00",

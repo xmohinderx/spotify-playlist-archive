@@ -433,10 +433,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 207400,
       "name": "Like a Charm",
       "url": "https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT"
+    },
+    {
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246347,
+      "name": "Never the Right Time",
+      "url": "https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ"
     },
     {
       "album": {
@@ -451,7 +469,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 180888,
       "name": "Overwhelmed / Ill Prepared",
       "url": "https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 293213,
       "name": "Sea Sick",
       "url": "https://open.spotify.com/track/0xg9zudXOKmQyMOfSI9ifp"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 161706,
       "name": "Some Cutting Sick",
       "url": "https://open.spotify.com/track/5NFtAVr1pSNC3vkmvQ2cA3"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 165451,
       "name": "Spin and Collapse",
       "url": "https://open.spotify.com/track/5FjHVV2PuGFY1qdgdUAjoQ"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 389663,
       "name": "The Calm and the Ease",
       "url": "https://open.spotify.com/track/0wR0nwUFquHRwPCHOci91H"
@@ -657,6 +675,24 @@
       "duration_ms": 207807,
       "name": "The Cascade Blues",
       "url": "https://open.spotify.com/track/1qNp5Gn4TtlfMLJIJVltMn"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182740,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/6WAXHxstqOYRJleZzxDg6d"
     },
     {
       "album": {

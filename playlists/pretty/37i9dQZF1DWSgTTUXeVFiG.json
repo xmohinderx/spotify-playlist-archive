@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 8727,
+  "num_followers": 8761,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGVkNGZmNTY2MmUwMDk1NGRmY2E5Y2MzNjAyMTM4MTQ4",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDAxOThjMWYwZTRhMDBhYWRkMzNmZWMyYTkxOTRjODgy",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -459,18 +459,30 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+        "name": "Live At The Red Garter, Vol. 1",
+        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 364626,
-      "name": "No Podr\u00e1s Escapar de M\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/7HJL1P3DPHYYtR0wI7X2BK"
+      "duration_ms": 497080,
+      "name": "Me Gusta El Son - Live",
+      "url": "https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -491,38 +503,38 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live At The Cheetah, Vol. 1",
-        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 435640,
-      "name": "Anacaona - Live",
-      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
+      "duration_ms": 364626,
+      "name": "No Podr\u00e1s Escapar de M\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/7HJL1P3DPHYYtR0wI7X2BK"
     },
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "En Vivo Desde El Carnegie Hall",
-        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
       },
       "artists": [
         {
           "name": "Gilberto Santa Rosa",
           "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
         }
       ],
-      "duration_ms": 517666,
-      "name": "Vivir Sin Ella - En Vivo Desde El Carnegie Hall Version",
-      "url": "https://open.spotify.com/track/5uXxRpu20m2smwEsL1BTvj"
+      "duration_ms": 442960,
+      "name": "Agua que Cae del Cielo (Lluvia) (feat. Willie Rosario) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/39XBzvG6sBfwvNvhfD7bpA"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -591,6 +603,26 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 435640,
+      "name": "Anacaona - Live",
+      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
         "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
       },
@@ -619,22 +651,6 @@
       "duration_ms": 343786,
       "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
       "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 424066,
-      "name": "Quiero Morir en Tu Piel - En Vivo",
-      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -675,30 +691,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live At The Red Garter, Vol. 1",
-        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 497080,
-      "name": "Me Gusta El Son - Live",
-      "url": "https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z"
+      "duration_ms": 424066,
+      "name": "Quiero Morir en Tu Piel - En Vivo",
+      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -767,22 +771,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "En Vivo Desde Bellas Artes",
-        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena",
-          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Tu Loco, Loco, Y Yo Tranquilo",
-      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Live At The Cheetah, Vol. 1",
         "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
@@ -803,18 +791,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Todos Vuelven Live, Vol. 2",
-        "url": "https://open.spotify.com/album/1hFypiuMxAkEGse2l0JdsY"
+        "name": "En Vivo Desde Bellas Artes",
+        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
       },
       "artists": [
         {
-          "name": "Ruben Blades y Seis del Solar",
-          "url": "https://open.spotify.com/artist/0Rx4tJspA1e5V2TZFzy0d5"
+          "name": "Roberto Roena",
+          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
         }
       ],
-      "duration_ms": 489853,
-      "name": "Pedro Navaja - Live",
-      "url": "https://open.spotify.com/track/02JsgAcJTmrN9RXWjjhjH5"
+      "duration_ms": 278866,
+      "name": "Tu Loco, Loco, Y Yo Tranquilo",
+      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -831,6 +819,22 @@
       "duration_ms": 330426,
       "name": "Se\u00f1or Sereno - En Vivo",
       "url": "https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Todos Vuelven Live, Vol. 2",
+        "url": "https://open.spotify.com/album/1hFypiuMxAkEGse2l0JdsY"
+      },
+      "artists": [
+        {
+          "name": "Ruben Blades y Seis del Solar",
+          "url": "https://open.spotify.com/artist/0Rx4tJspA1e5V2TZFzy0d5"
+        }
+      ],
+      "duration_ms": 489853,
+      "name": "Pedro Navaja - Live",
+      "url": "https://open.spotify.com/track/02JsgAcJTmrN9RXWjjhjH5"
     },
     {
       "added_at": "2022-03-18 05:00:00",

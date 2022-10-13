@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Pretty Sick
 
-317 songs - 16 hr 49 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+318 songs - 16 hr 52 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [That Sedative](https://open.spotify.com/track/0w9v5TQFW13yOTfYuY0NtR) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [That Sedative](https://open.spotify.com/album/0YjsjTly2Jk6TpVKyk1YZR) | 2:21 | 2021-10-07 | 2022-07-29 |
 | [That Sedative](https://open.spotify.com/track/3xctqctbVGsgX2nzkRQ3xC) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [That Sedative](https://open.spotify.com/album/0JM4lsF31jRVkpuG4Ekrlk) | 2:21 | 2022-07-08 | 2022-10-08 |
 | [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 | 2022-08-05 | 2022-09-26 |
-| [The Drop](https://open.spotify.com/track/3kBeOovTQnNlsRL6nxoWeD) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 2:58 | 2022-09-23 |  |
+| [The Drop](https://open.spotify.com/track/3kBeOovTQnNlsRL6nxoWeD) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/3nsLUmsFPjeEU3tqdMukBJ) | 2:58 | 2022-09-23 | 2022-10-13 |
+| [The Drop](https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Gulp!](https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH) | 2:58 | 2022-10-07 |  |
 | [The Funhouse](https://open.spotify.com/track/056PQr5KUlsRlntQsrNXWd) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [The Funhouse](https://open.spotify.com/album/74CD5vRjAS3QS0zxTQSiXZ) | 4:14 | 2022-03-11 | 2022-08-06 |
 | [The Funhouse](https://open.spotify.com/track/5MjjrqXapXkbiQRDDKcEuR) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [The Funhouse \- EP](https://open.spotify.com/album/1LayZwbujFTB1p99PDYhUS) | 4:14 | 2022-08-05 |  |
 | [The Game](https://open.spotify.com/track/06GiNZKCqFfR8YMEbtUCj9) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Game](https://open.spotify.com/album/00CaleppRhwLyiE6GYpINo) | 2:50 | 2022-06-10 | 2022-06-18 |

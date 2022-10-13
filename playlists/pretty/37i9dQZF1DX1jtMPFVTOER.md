@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Adam Blackstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,720 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,809 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 37 | [Melogold](https://open.spotify.com/track/4t7SPIImOopTdL59FlmZBC) | [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Leo Manzari](https://open.spotify.com/artist/0yVLUPrGwAvksd9ebQroil), [Samwyse](https://open.spotify.com/artist/6HM4BW3z7SCMg0hxUx5Pz3) | [Melogold](https://open.spotify.com/album/2DJzdowSaKz6NVhvpKnkpu) | 2:41 |
 | 38 | [On My Way](https://open.spotify.com/track/1enl38hg9YOTE9odtClSAx) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [DEZ](https://open.spotify.com/artist/3msuv9fbuApqt9E4cJ6HWv), [Supersun](https://open.spotify.com/artist/6CYl2WXTzos16wc8bl3ZPZ) | [Oasis Park III](https://open.spotify.com/album/0gyKYbsf4q8U5RaSBSqp3s) | 2:17 |
 | 39 | [Lemonade](https://open.spotify.com/track/5dG6kn38IgVuGUwFQ3dfSg) | [Alec Hershey](https://open.spotify.com/artist/0n0DLx9JnjPF4A6B3l2ZPX), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf) | [Lemonade](https://open.spotify.com/album/6u5tqSj1AjjRP99XujvXYI) | 4:17 |
-| 40 | [Falling Behind](https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Falling Behind](https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ) | 2:53 |
-| 41 | [Down to Earth](https://open.spotify.com/track/7oOSDG6vMNZSuEwcIdB8Hy) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Erameld](https://open.spotify.com/artist/7onTqmjsNs182OQexatI7N) | [Down to Earth](https://open.spotify.com/album/4smcIFiMaa5cnFpLIwX4OB) | 1:57 |
+| 40 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 |
+| 41 | [Down to Earth](https://open.spotify.com/track/3nwRDFiDJZlXhpfGZifdTo) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Erameld](https://open.spotify.com/artist/7onTqmjsNs182OQexatI7N) | [Down to Earth](https://open.spotify.com/album/2O9bYMKmR7Nkuo1mvFvJkc) | 1:57 |
 | 42 | [The Merchant of Flatbush](https://open.spotify.com/track/0WJ9TYoYrjO0SBb13dsHO5) | [Terence Etc.](https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj) | [The Merchant of Flatbush](https://open.spotify.com/album/4gJbIqbZAFiSZxDbDpEGPW) | 6:46 |
 | 43 | [Peter Parker \(feat\. Asher Roth\)](https://open.spotify.com/track/6EYAJRC9blRX7SOGRU5u61) | [Jeffrey](https://open.spotify.com/artist/5srfZZrn66Wf2JoyO2o9yZ), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Peter Parker \(feat\. Asher Roth\)](https://open.spotify.com/album/6uq3jGgDfCNtyjtw1Man4x) | 3:12 |
 | 44 | [Backinluv](https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Full Circle](https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE) | 4:30 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 78 | [Toxic Love](https://open.spotify.com/track/467uvONzMj0yQfDpItmx9E) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Yod Stewart](https://open.spotify.com/album/4NoXIbNMpg24qQw7Pc70y6) | 2:42 |
 | 79 | [Cool Grey 11s](https://open.spotify.com/track/795dpaaKB78dWBjPZfR3IL) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [While We're Here](https://open.spotify.com/album/5wlqekVOKMlrcpMrlUfwW5) | 4:06 |
 | 80 | [Golden Green feat Wiki](https://open.spotify.com/track/3ySsmBNfH1m9FjMJXSdJql) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [Golden Green](https://open.spotify.com/album/6QrDTDE1rXFegrQWD0JxZD) | 4:03 |
-| 81 | [Strawberry](https://open.spotify.com/track/4e2NJh3yhNT4eNXYaNs3Zr) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Garrett.](https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY) | [Strawberry](https://open.spotify.com/album/1VTmYlNHYrTs22mHOGVPDR) | 2:30 |
+| 81 | [Strawberry](https://open.spotify.com/track/46ZmZ48eTglTAnb7BqQjON) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Garrett.](https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY) | [Strawberry](https://open.spotify.com/album/53lI2ay35ks4BOQqCPGVeD) | 2:30 |
 | 82 | [Miss Chance](https://open.spotify.com/track/1xvUVh7FMV7ur57qLLp7C3) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Home](https://open.spotify.com/album/4OYo1ajrOD65jcMsR7Zohq) | 4:12 |
 | 83 | [Nine 2 Five](https://open.spotify.com/track/3rCGd1027EVQX1fIoe1gKK) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [noFake](https://open.spotify.com/artist/78hh7IoUzU3V4oaueTA9OQ), [KingOsiris](https://open.spotify.com/artist/1qdnOsuULHa0BOACCE9eJJ), [stoic da poet](https://open.spotify.com/artist/5IXHcQG5Sw0xYlRWuWEkL9) | [Nine 2 Five](https://open.spotify.com/album/4QopNiRoOuMwG5yneQmRwi) | 3:02 |
 | 84 | [Crazy](https://open.spotify.com/track/3GHIpmoJ4H7iwMrccZbMFo) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [Betty Michaels](https://open.spotify.com/artist/1BhnNe00irqmdbyijyTZMk) | [Crazy](https://open.spotify.com/album/5ZmnJhFk0soiLq5B7LekX8) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [dimples](https://open.spotify.com/track/33A3P7DydxJYHkKfbglWwO) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo), [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [dimples](https://open.spotify.com/album/3QBCwMQRAUXQ87OJB9rSlS) | 2:40 |
 | 100 | [Imagine That](https://open.spotify.com/track/4of2R3xAsBXGr5QZxF3bag) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Imagine That](https://open.spotify.com/album/569WNyO5TCXAmsdEGJ8RLx) | 3:19 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDFkNzkxNGI2ZDQyYjFmY2U0OTc3MWFlZDYxY2RkY2Y0`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGRlNjZhNTg3ZjcxNzU4NWVjYmM4ZjkxNTBmYTlhOGU5`

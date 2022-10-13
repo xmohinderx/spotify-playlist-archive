@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-44 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/33MxYV25vT0lnGluNDmBL9)
+45 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/33MxYV25vT0lnGluNDmBL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Sri Lanka](https://open.spotify.com/track/58oUv4YvqAthrjI0fMnYUI) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC) | [Sri Lanka](https://open.spotify.com/album/1L3i8chDu8LRbQB2DSWe8d) | 1:56 | 2022-07-14 |  |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-07-14 |  |
 | [Streets \- DJ Sliink Remix](https://open.spotify.com/track/2OlXEjn4FufYIVL9KC1FHO) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Streets \(Remixes\)](https://open.spotify.com/album/2bztR3sQyvs9HxlraqZMRD) | 2:13 | 2022-07-14 |  |
-| [Swagg Talk](https://open.spotify.com/track/0J9RDo9EBTaFcqPlYw49Mj) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/5yfFuazY1M6OyMj14yly14) | 2:58 | 2022-07-14 |  |
+| [Swagg Talk](https://open.spotify.com/track/0J9RDo9EBTaFcqPlYw49Mj) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/5yfFuazY1M6OyMj14yly14) | 2:58 | 2022-07-14 | 2022-10-13 |
+| [Swagg Talk](https://open.spotify.com/track/3uGoSNkxwxEgoxhaYkF6F9) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/3Y7iKUxDQ2xcCYMFu4HsR2) | 2:58 | 2022-07-14 |  |
 | [The Floor Is Ours](https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [The Floor Is Ours](https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1) | 3:29 | 2022-07-14 |  |
 | [Til The World Blow Up \(feat\. Mike Dunn\) \- Mike Dunn BlackBall Classic Soul Extended MixX](https://open.spotify.com/track/4xTRjFR7WcbskxcQqnXuKs) | [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Til The World Blow Up \(feat\. Mike Dunn\)](https://open.spotify.com/album/2Zsv5mQs5LcTS180DIyf8C) | 6:36 | 2022-07-14 |  |
 | [Walk It](https://open.spotify.com/track/6jlXwexeAfo6Cy6MLPEqQW) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Walk It](https://open.spotify.com/album/6WL8LjmangFJvZwCbvWoBL) | 2:17 | 2022-07-14 |  |

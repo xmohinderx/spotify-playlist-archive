@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,941 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,968 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 37 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 |
 | 38 | [Sundowner \- 4\-Track Demo](https://open.spotify.com/track/1JGW7bagfkhvli39OuDXuV) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [A Night At The Little Los Angeles \(Sundowner 4\-Track Demos\)](https://open.spotify.com/album/4EINljdbkgBlqatl4h9OeW) | 4:22 |
 | 39 | [Drunken Angel](https://open.spotify.com/track/0Vk5X3h5v1NDQhGzkRrt8m) | [Alynda Segarra](https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow) | [Drunken Angel](https://open.spotify.com/album/2yEUM0Up8mgePFq4MN0bX7) | 3:30 |
-| 40 | [Cineramascope](https://open.spotify.com/track/1XqQqv32Q9eUerJkpPNJNl) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Corey Henry](https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Now You See Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24kyacpyGz1gfbIoTgLl9B) | 3:14 |
+| 40 | [Cineramascope](https://open.spotify.com/track/63dv2zKXPamiHHOKQBOzbU) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Corey Henry](https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh) | [Ya\-Ka\-May \(Deluxe Edition\)](https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6) | 3:14 |
 | 41 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 |
 | 42 | [Honey I Been Thinking About You](https://open.spotify.com/track/5caWeJ9yfWlLh6magmtLr4) | [Jackie Greene](https://open.spotify.com/artist/5idHaEmJbiGTZ2MBmhmGMV) | [Sweet Somewhere Bound](https://open.spotify.com/album/7mHMvRtYcn606hWw9MoM7L) | 4:45 |
 | 43 | [Charm School \(feat\. Billy Strings & Chris Thile\)](https://open.spotify.com/track/1rgwKgnKVeo4ElDfBkM2Jp) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [My Bluegrass Heart](https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR) | 8:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 59 | [I See It Now](https://open.spotify.com/track/23I2duciX9JdJANkYyrGm6) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/4VL4eRCCfus08MjUiYFB7x) | 2:53 |
 | 60 | [The Long Goodbye](https://open.spotify.com/track/39frvhj8AzWzM5UfduyeDH) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/6lGi8cCtoERQXSpWnb0Hmr) | 10:02 |
 
-Snapshot ID: `MTYzMjkzNDIwNSwwMDAwMDAwMDUyMzgwNjUyOTBjYWNjNzY5ZmYwMzY1Y2VjZjM5MTE1`
+Snapshot ID: `MTYzMjkzNDIwNSwwMDAwMDAwMGI5MmQ0ZTRiZGNmOTliM2MzMWNlNDc2ZTc5N2MwN2Rj`

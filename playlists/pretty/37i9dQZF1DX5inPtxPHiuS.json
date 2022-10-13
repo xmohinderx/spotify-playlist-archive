@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Oh'laville",
-  "num_followers": 79183,
+  "num_followers": 79193,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxNzM2MCwwMDAwMDAwMGFkOWYyMTNhNzdjMGY1YjY3YjY5Y2Y0MWRjOGQ1MDgx",
+  "snapshot_id": "MTY2NDUxNzM2MCwwMDAwMDAwMGY1OThjNmE3ODAxYjVhOTJiZTFiOTM3NTBhMTY2MGNj",
   "tracks": [
     {
       "added_at": "2022-06-24 05:15:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6sayXgNAqCmfUAqGAxP4xA"
     },
     {
-      "added_at": "2022-10-12 01:55:16",
+      "added_at": "2022-10-13 01:47:08",
       "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/2jzGlHolRkjRbO54FP7TLR"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
     },
     {
-      "added_at": "2022-10-12 01:55:16",
+      "added_at": "2022-10-13 01:47:08",
       "album": {
         "name": "LA KAGASTE",
         "url": "https://open.spotify.com/album/7wX1dVzO0AmQfJ3mrezFhU"
@@ -457,7 +457,23 @@
       "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
     },
     {
-      "added_at": "2022-10-12 01:55:16",
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Perdedor",
+        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
+      },
+      "artists": [
+        {
+          "name": "Consulado Popular",
+          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
+        }
+      ],
+      "duration_ms": 191533,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
+    },
+    {
+      "added_at": "2022-10-13 01:47:08",
       "album": {
         "name": "El Pasado Fue Mejor (feat. Don Tetto)",
         "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
@@ -475,22 +491,6 @@
       "duration_ms": 180880,
       "name": "El Pasado Fue Mejor (feat. Don Tetto)",
       "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
-        "name": "Perdedor",
-        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
-      },
-      "artists": [
-        {
-          "name": "Consulado Popular",
-          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
-        }
-      ],
-      "duration_ms": 191533,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Doce Vientos",
-        "url": "https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq"
+        "name": "Barco de Papel",
+        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
       },
       "artists": [
         {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
         }
       ],
-      "duration_ms": 222185,
-      "name": "Somos Coyotes",
-      "url": "https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ"
+      "duration_ms": 212009,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Barco de Papel",
-        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+        "name": "Doce Vientos",
+        "url": "https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq"
       },
       "artists": [
         {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
         }
       ],
-      "duration_ms": 212009,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
+      "duration_ms": 222185,
+      "name": "Somos Coyotes",
+      "url": "https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
+        "name": "Regular",
+        "url": "https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ"
       },
       "artists": [
         {
-          "name": "Poligamia",
-          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
+          "name": "Arbol De Ojos",
+          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
         }
       ],
-      "duration_ms": 187093,
-      "name": "Una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
+      "duration_ms": 162000,
+      "name": "Cangrejo",
+      "url": "https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Regular",
-        "url": "https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ"
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
       "artists": [
         {
-          "name": "Arbol De Ojos",
-          "url": "https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9"
+          "name": "Poligamia",
+          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Cangrejo",
-      "url": "https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n"
+      "duration_ms": 187093,
+      "name": "Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -707,6 +707,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -739,22 +755,6 @@
       "duration_ms": 249965,
       "name": "B\u00fahoz",
       "url": "https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr"
     },
     {
-      "added_at": "2022-10-12 01:55:16",
+      "added_at": "2022-10-13 01:47:08",
       "album": {
         "name": "Si no es muy tarde",
         "url": "https://open.spotify.com/album/65rezM8mnA0svYHgyRcBzb"
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Te Valgo",
-        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "Te Valgo",
-      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "Ave Nocturna",
         "url": "https://open.spotify.com/album/7kwFVg9z4gRPmmz8z5TZIH"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 217903,
       "name": "Ave Nocturna",
       "url": "https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Te Valgo",
+        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "Te Valgo",
+      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Analog\u00eda de una Laguna",
-        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 210217,
-      "name": "Analog\u00eda de una Laguna",
-      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
       },
@@ -951,18 +935,34 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Mar de Hiladas",
-        "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
+        "name": "Analog\u00eda de una Laguna",
+        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
       },
       "artists": [
         {
-          "name": "Babelgam",
-          "url": "https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM"
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
         }
       ],
-      "duration_ms": 212666,
-      "name": "T\u00fanel",
-      "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
+      "duration_ms": 210217,
+      "name": "Analog\u00eda de una Laguna",
+      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Ma\u0301s Alla\u0301 del Tiempo",
+        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
+      },
+      "artists": [
+        {
+          "name": "Los Rolling Ruanas",
+          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Ma\u0301s Alla\u0301 del Tiempo",
+      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
     },
     {
       "added_at": "2022-06-24 05:15:00",

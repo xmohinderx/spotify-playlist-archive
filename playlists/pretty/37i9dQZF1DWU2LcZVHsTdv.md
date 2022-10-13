@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Zach Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,557 likes - 130 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,659 likes - 130 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 37 | [Better Than Me](https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Owen](https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:51 |
 | 38 | [One More Hallelujah](https://open.spotify.com/track/6HnxFNElDrHCClUAofO62l) | [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [One More Hallelujah](https://open.spotify.com/album/2rdif8xIfOoZxACrvrvCy3) | 4:12 |
 | 39 | [Lookin' for You](https://open.spotify.com/track/7nDImE3NrWzpmOb3r2oV50) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Lookin' for You](https://open.spotify.com/album/4RKHZ5tvicbNXz4EXbiARq) | 3:45 |
-| 40 | [If God Took Days Off](https://open.spotify.com/track/3JqF0zLGozLrnS1uvOhluB) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID) | 2:34 |
+| 40 | [If God Took Days Off](https://open.spotify.com/track/7Jy4SVdM8HViyfy3QcaDkb) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/1paYFxYmurwK3quB1vL6Pq) | 2:34 |
 | 41 | [How I Learned to Pray](https://open.spotify.com/track/1zy9Ypjqd8TTxYsYEQOCy7) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Rubberband](https://open.spotify.com/album/3vyIhKkksVFjHYy5HDsB1b) | 4:20 |
 | 42 | [Amazing Grace / My Chains Are Gone](https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Chains Are Gone](https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN) | 4:26 |
 | 43 | [Southern Gospel](https://open.spotify.com/track/04gSahNsdUScq5mdvGVU9T) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Southern Gospel](https://open.spotify.com/album/37ANr5ghqad7jp86QiVZVc) | 3:30 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 129 | [Here On Earth](https://open.spotify.com/track/6oARVUWXiWceOYeijMwcvw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 4:21 |
 | 130 | [The Distance](https://open.spotify.com/track/6j5M0J8g1pfRnJ9wWwrvFP) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:24 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGYyZDlmOWU5NjFmNjBmZjlkMzcwYWM1ZGZjZDc0ZjQ2`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDlhMWFkYjQ4OTQxN2FmYmE4MmUzY2JiNDZmNGEyYmNh`

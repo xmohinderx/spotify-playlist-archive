@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,757 likes - 122 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,777 likes - 122 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 22 | [snowing in LA](https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [snowing in LA](https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy) | 3:25 |
 | 23 | [Christmas Valentine](https://open.spotify.com/track/5KenUsmrGeU2qscgE9ZHgD) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Christmas Valentine](https://open.spotify.com/album/2MDxf6SFK0bNfFU3by4DH2) | 3:07 |
 | 24 | [2000 Miles](https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [2000 Miles](https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4) | 2:46 |
-| 25 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/3jnJxB6kCoqvRKYLklCG18) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/5tPY6MRhnbGqsX1iLSGizw) | 3:55 |
+| 25 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2HVzChP0rkqzQFSwuvT6l6) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/3ooj2KhGGLaLa7QNmse1t5) | 3:55 |
 | 26 | [Snow](https://open.spotify.com/track/1UkFYMVhWAT1N7IIhJJMtE) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Snow](https://open.spotify.com/album/2XVDuyZ7gDHxpU9BAtMwu0) | 3:45 |
 | 27 | [Silver Bells](https://open.spotify.com/track/07FpmgWdTUjWBiRP3ON6OJ) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Silver Bells](https://open.spotify.com/album/2GPICARHZjMAxMu15hhT3M) | 3:33 |
 | 28 | [Christmas Time](https://open.spotify.com/track/3NlghT7vgsSB8UJjcJqO94) | [Sebastian Javier](https://open.spotify.com/artist/7jEax0MCKxovBHDU6AaFca) | [Christmas Time](https://open.spotify.com/album/2jURLzMPgGdJYJh0WZqGT8) | 2:54 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 52 | [Warm December](https://open.spotify.com/track/1xLBOnBn16AXmvDZ2WOTOw) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Warm December](https://open.spotify.com/album/1IudCFPdNr3NcTkfXLLcVx) | 3:15 |
 | 53 | [This Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5iWUd0pLqgRWZpMULl71TN) | 3:08 |
 | 54 | [Silent Night](https://open.spotify.com/track/60iHtNrA3WoJsXa1dgjGAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 2:49 |
-| 55 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 |
+| 55 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 |
 | 56 | [Winter Song](https://open.spotify.com/track/0DE6CIExD51bL5qroihU1W) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Winter Songs](https://open.spotify.com/album/1RaBcI5wubfKYg4CFqtOyp) | 4:21 |
 | 57 | [By Christmas Eve](https://open.spotify.com/track/50p1UrHZsX6KkVydAvSxHC) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:51 |
 | 58 | [Christmas Isn't Christmas](https://open.spotify.com/track/6DeGFcrDiYDuyV7e7KnqPd) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Christmas Isn't Christmas](https://open.spotify.com/album/2Gc07PitsdDbsHxFcyX4mG) | 3:15 |
@@ -97,13 +97,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 87 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 | 88 | [merry christmas darling](https://open.spotify.com/track/6brLwOYFXw7rkGOcLntcPZ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas](https://open.spotify.com/album/5noTFKbSGzGgXWxnEiuoK2) | 3:18 |
 | 89 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
-| 90 | [All I Want for Christmas Is You](https://open.spotify.com/track/7Aino8hE1To2Sz4sKSUvcx) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/7bzooZ5hpkaLmxvp4NKsnV) | 4:39 |
+| 90 | [All I Want for Christmas Is You](https://open.spotify.com/track/6e1OcstXIEnjssiziFUYAR) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/2cLYDYEWIHVCIXsjMmQi5u) | 4:39 |
 | 91 | [I Saw Mommy Kissing Santa Claus \- Spotify Holiday Single](https://open.spotify.com/track/6CXNzOwENnzLV09gvmqrH1) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/0DmXAI8kiQMatXpxapDiLH) | 2:02 |
 | 92 | [Alone on Christmas Eve](https://open.spotify.com/track/6wTP8riwGP5HJXvaURft2K) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/5DA3yYLX4R3YLRMDyjBV6F) | 2:16 |
 | 93 | [Happy New Year Old Friend](https://open.spotify.com/track/5btSSQZTfzuZKdh0dv1Uvp) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Happy New Year Old Friend](https://open.spotify.com/album/2oHpxcuSeaGNmDcknKfclv) | 4:05 |
 | 94 | [Christmas Through Your Eyes](https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:59 |
 | 95 | [Holidays](https://open.spotify.com/track/4WsvWaANExEQ5qx2m4TEmr) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Holidays](https://open.spotify.com/album/2Ko5PYRQhXcrfRqFcX8RaY) | 3:05 |
-| 96 | [Blackout Christmas](https://open.spotify.com/track/7l7FQufQxYcuEQ7u28ur37) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2vtMi8UlnIo8EDgCrNjDEa) | 2:19 |
+| 96 | [Blackout Christmas](https://open.spotify.com/track/1oZRAefHTh7YzA02kQ8519) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5ZV6Hh6cLp1t1QV83LEMaB) | 2:19 |
 | 97 | [Christmas Eve](https://open.spotify.com/track/6Zztw1ERHqXAngHE8PfO6N) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:43 |
 | 98 | [debbie downer on christmas](https://open.spotify.com/track/0w6qnSG6WKe2yqhW6qnVx4) | [suggi](https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS) | [debbie downer on christmas](https://open.spotify.com/album/70uHp9CjvyKw4UeiY9iTcI) | 3:05 |
 | 99 | [Alone On Christmas Eve](https://open.spotify.com/track/7bzSuLGzLwcEhfAi5FjliA) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Alone On Christmas Eve](https://open.spotify.com/album/4CtHrZwvJqIm13Naqpim0S) | 3:45 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 121 | [True Love](https://open.spotify.com/track/4NRF1B6kriUmtXflcVmed7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:46 |
 | 122 | [Love Is Christmas](https://open.spotify.com/track/7edfMl8VjYXRMFzy4LQLGs) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Love Is Christmas](https://open.spotify.com/album/35AQxuSSqGQadvkcnk28TG) | 2:46 |
 
-Snapshot ID: `MTY2NDIwMjEzMCwwMDAwMDAwMDZmNWM4MGE5ZGFhYzVlMWNhM2UxZmM3N2M3MWU0ZTAw`
+Snapshot ID: `MTY2NDIwMjEzMCwwMDAwMDAwMGYzNGVhOGQ2MWEyOTU2MjkwMjg5NjM2MmE0YzJkODU1`

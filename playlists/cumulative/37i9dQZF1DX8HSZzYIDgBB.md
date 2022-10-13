@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Mula en portada.
 
-185 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+188 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 | 2022-08-16 |  |
 | [Frutas](https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw) | [Sin Color](https://open.spotify.com/artist/666CSPv8WKGQkAgI6wtBop) | [Frutas](https://open.spotify.com/album/1Kmmeh36eI13U3nltNhFhD) | 4:19 | 2021-10-05 |  |
 | [Frío Blues](https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Frío Blues](https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB) | 2:45 | 2022-08-13 |  |
-| [Futurista](https://open.spotify.com/track/1qAtVevO8XshdRHFt9dND2) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2kk7QC1wMowvV1AvEhANcg) | 2:59 | 2022-02-15 |  |
+| [Futurista](https://open.spotify.com/track/1qAtVevO8XshdRHFt9dND2) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2kk7QC1wMowvV1AvEhANcg) | 2:59 | 2022-02-15 | 2022-10-13 |
+| [Futurista](https://open.spotify.com/track/5LTW5ofKF8dds0J4zMw6ZW) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2BOs7EIE8UdyDdv1MFPvmv) | 2:59 | 2022-02-15 |  |
 | [Ganas De Bailar](https://open.spotify.com/track/6ftKhKb9peSlUh3EwJ3QOb) | [Chiquita Magic](https://open.spotify.com/artist/567ViviKGU4aOVHghv8W8J) | [Mexico Sexi Time](https://open.spotify.com/album/0XvRUNb2gTTVDYlwzxYQXK) | 2:12 | 2022-03-03 | 2022-08-02 |
 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 | 2021-10-05 |  |
 | [Glorieta](https://open.spotify.com/track/0dARdGOhNNCNf8y4fubUwV) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/3W9U1PYHL85h599ZUMBBQR) | 2:28 | 2022-01-11 |  |
@@ -126,7 +127,8 @@
 | [Ninfa de la Villa](https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:09 | 2021-10-05 | 2022-09-07 |
 | [Ninfa de la villa](https://open.spotify.com/track/7Ax9fR3OPue9dRH7n9Pidm) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Ninfa de la villa](https://open.spotify.com/album/25c9ZAKyYYpeS8ZfUKMeZ2) | 3:09 | 2021-10-05 | 2022-07-29 |
 | [No la Controles](https://open.spotify.com/track/2MjjIhsTUJT9Em2IK1DYbL) | [Vic Contreras](https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev), [La Alucinante Banda](https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo) | [No la Controles](https://open.spotify.com/album/3cnie000TIlXmMybJaQyvl) | 3:25 | 2022-08-13 |  |
-| [Nosotros También](https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nosotros También](https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL) | 3:26 | 2021-10-05 |  |
+| [Nosotros También](https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:26 | 2021-10-05 |  |
+| [Nosotros También](https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nosotros También](https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL) | 3:26 | 2021-10-05 | 2022-10-13 |
 | [Ocasión \- Remix](https://open.spotify.com/track/1E7eaYoGV6UdofumURWUn7) | [Roldán](https://open.spotify.com/artist/7frHfQB5xY6on5DHQdjQws), [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Ocasión \(Remix\)](https://open.spotify.com/album/6OXv8RJSgT68yrOiW6e3wz) | 3:31 | 2021-10-05 | 2022-04-10 |
 | [Ocelote](https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9) | [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Ocelote](https://open.spotify.com/album/5QjSfqwbwpzCtVEoXKflGK) | 7:14 | 2021-10-05 | 2022-05-28 |
 | [Oiseau Sauvage](https://open.spotify.com/track/0A48wzUVDrN0t3JaOrui2a) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY) | [Tempo](https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6) | 2:25 | 2022-02-15 |  |
@@ -145,7 +147,8 @@
 | [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2022-03-11 | 2022-08-09 |
 | [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 | 2021-10-05 | 2022-09-16 |
 | [Plata y Coral](https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Plata y Coral](https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP) | 4:00 | 2022-01-21 |  |
-| [Portales](https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3) | [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Útera](https://open.spotify.com/album/0t49uyMILALgWUltHuraYc) | 4:10 | 2021-10-05 |  |
+| [Portales](https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3) | [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Útera](https://open.spotify.com/album/0t49uyMILALgWUltHuraYc) | 4:10 | 2021-10-05 | 2022-10-13 |
+| [Portales](https://open.spotify.com/track/0eYmU0Cda7T28C8i2ricFy) | [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Útera](https://open.spotify.com/album/337yrNFbtT0KSaHBNeMMub) | 4:11 | 2021-10-05 |  |
 | [PSILOCIBINA](https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99) | 3:17 | 2021-10-05 | 2022-10-01 |
 | [PSILOCIBINA](https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm) | 3:17 | 2021-10-05 | 2022-07-29 |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Quién Podrá Saberlo](https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ) | 2:43 | 2021-10-05 |  |

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Sobs \(Singapore\)
 
-420 songs - 1 day 1 hr 8 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+421 songs - 1 day 1 hr 11 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Dan Terang](https://open.spotify.com/track/6w8sK1XIs2sYC8zuZCtWkQ) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a) | [Dan Terang](https://open.spotify.com/album/2ZyGhjDcQsy5JRD6tAqgMY) | 10:15 | 2022-07-14 | 2022-08-19 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-09 | 2022-07-29 |
 | [Dancing Flowers](https://open.spotify.com/track/0ipGt7HnFJHhDaA5kQGGWh) | [tie a tie](https://open.spotify.com/artist/7v9fLn8ZcdEdqzF1vX80n5) | [Dancing Flowers](https://open.spotify.com/album/0O1LXrV3c4gQt1dIgAWlh6) | 2:51 | 2022-07-14 | 2022-08-12 |
-| [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-09-29 |  |
+| [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-10-06 |  |
+| [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-09-29 | 2022-10-13 |
 | [Day In Day Out](https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Day In Day Out](https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5) | 2:58 | 2022-06-23 | 2022-08-26 |
 | [daydream](https://open.spotify.com/track/5QsaZbHC7scH5i7UdCYNip) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [daydream](https://open.spotify.com/album/07yuPYTf3qC2d5Olk0xYwf) | 3:26 | 2022-09-29 |  |
 | [Days in Bloom](https://open.spotify.com/track/75XYPmzcxOPZkimUCiI8WI) | [VIA](https://open.spotify.com/artist/1GwORzb8qkKDqDgKx3mzNc) | [FREE FALL](https://open.spotify.com/album/4F5JcwEM357HqVobOz0o3b) | 3:14 | 2022-04-07 | 2022-05-20 |

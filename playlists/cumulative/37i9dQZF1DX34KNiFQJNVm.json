@@ -934,7 +934,7 @@
     },
     {
       "album": {
-        "name": "5 Estrelas",
+        "name": "5 Estrelas (Ao Vivo)",
         "url": "https://open.spotify.com/album/37YVuHCd4zQoCsD3kIwG7I"
       },
       "artists": [
@@ -947,7 +947,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158770,
-      "name": "5 Estrelas",
+      "name": "5 Estrelas - Ao Vivo",
       "url": "https://open.spotify.com/track/2Xd1nFvf3pTjTKZRKEgts0"
     },
     {
@@ -59919,10 +59919,32 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 159252,
       "name": "Scandalous (with Tinashe)",
       "url": "https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq"
+    },
+    {
+      "album": {
+        "name": "Scandalous (with Tinashe)",
+        "url": "https://open.spotify.com/album/5TIrVSKDY1rxhqPu6Axw7r"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159252,
+      "name": "Scandalous (with Tinashe)",
+      "url": "https://open.spotify.com/track/4KQLEIHhg3Pjdgx1QY6Ehv"
     },
     {
       "album": {

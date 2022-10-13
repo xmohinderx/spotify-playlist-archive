@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Nina Chuba, Chapo102
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,407 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,413 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 42 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 |
 | 43 | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW) | 2:38 |
 | 44 | [Drop Drop Drop](https://open.spotify.com/track/3EJRsDYQdoBW8S2uj6EhQq) | [THOVI](https://open.spotify.com/artist/55E3g7oUV2dhqCWao7kzm3), [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [Drop Drop Drop](https://open.spotify.com/album/6kAIOQEpuhgPQ7P2Hv5CMZ) | 2:02 |
-| 45 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 |
+| 45 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/4KQLEIHhg3Pjdgx1QY6Ehv) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/5TIrVSKDY1rxhqPu6Axw7r) | 2:39 |
 | 46 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 |
 | 47 | [Das muss Liebe sein](https://open.spotify.com/track/3hLU79BvIP0uJAQBj8TO7n) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Das muss Liebe sein](https://open.spotify.com/album/5r1BOuqrbsi0IOrZ3coCgn) | 2:39 |
-| 48 | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z) | 3:08 |
+| 48 | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/2oal7Q9v9hFQXFZbaiGNsy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/1q132A3KkxRLRrEiWZXWqN) | 3:08 |
 | 49 | [Hungry \(For Love\)](https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Hungry \(For Love\)](https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA) | 2:09 |
 | 50 | [Autoradio](https://open.spotify.com/track/0rwfxlAIAiZiDhUgulDN3u) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Autoradio](https://open.spotify.com/album/0PsdHcBIXqKygKqkdUfcwo) | 3:32 |
 | 51 | [Highs & Lows](https://open.spotify.com/track/698xO1FAsZqETbRvdDHz8T) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Highs & Lows](https://open.spotify.com/album/4VlIHsWUfqI91KEpLoQYZl) | 3:03 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 78 | [Carried Away \- From the “Lyle Lyle Crocodile” Original Motion Picture Soundtrack](https://open.spotify.com/track/7GsdXZI26fL2mFqAhGDGZr) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Lyle, Lyle, Crocodile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kchX1pzbXOv6VRpd7vu5G) | 3:46 |
 | 79 | [Here to Stay](https://open.spotify.com/track/301ftxH8HBSL1pDTyTYn8I) | [Ian Hooper](https://open.spotify.com/artist/0auayPc6fVfCbtw5tSQxxG) | [Here to Stay](https://open.spotify.com/album/3gKoctpzCx3hvVR5emq5My) | 3:09 |
 | 80 | [22 Make](https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 3:32 |
-| 81 | [Happiness](https://open.spotify.com/track/7MKkJGoeTSynk1FrrfN4sh) | [Tonbandgerät](https://open.spotify.com/artist/0PUf7ZQsGx7s7en5EVfNNx) | [Happiness](https://open.spotify.com/album/2F9IVJCZmaoCOBVOvIcYj8) | 3:10 |
+| 81 | [Happiness Comes in Waves](https://open.spotify.com/track/7MKkJGoeTSynk1FrrfN4sh) | [Tonbandgerät](https://open.spotify.com/artist/0PUf7ZQsGx7s7en5EVfNNx) | [Happiness Comes in Waves](https://open.spotify.com/album/2F9IVJCZmaoCOBVOvIcYj8) | 3:10 |
 | 82 | [Täler](https://open.spotify.com/track/5l7UOT8LUAMi3dE11tMSmP) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk), [Preussisch Gangstar](https://open.spotify.com/artist/2COR9lpEz2nbx8fRryAOL4) | [Täler](https://open.spotify.com/album/2ydRrmPJf7Hsfg6ts7Xai0) | 2:22 |
 | 83 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
 | 84 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 98 | [Golden Days](https://open.spotify.com/track/7jXleTiRCmalHnS2in4Io1) | [EVÎN](https://open.spotify.com/artist/0lWgtltnu46nD7fJxTjarO) | [Golden Days](https://open.spotify.com/album/7svKlf7Pb8v9pGxWqmgfo7) | 2:50 |
 | 99 | [What They Call Us](https://open.spotify.com/track/4r7bIvlgghaidRNJghhs3o) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What They Call Us](https://open.spotify.com/album/67rERGR5WbUsR5baHR8wIR) | 4:27 |
 
-Snapshot ID: `MTY2NTA5MzY2MCwwMDAwMDAwMDcwOTU3MTgyNWYwOGFhNDdlYjhmNGRhMjYwYzZiZDVj`
+Snapshot ID: `MTY2NTA5MzY2MCwwMDAwMDAwMDJjYmE5Y2Y1ODEwNzMyNzg1ZjcyMTY5ZmFmZDVkNmUw`

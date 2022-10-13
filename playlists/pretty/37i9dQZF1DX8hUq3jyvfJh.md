@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Pocah e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,629 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,623 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 32 | [Sentada de Milhões](https://open.spotify.com/track/6THLDEkPoMdlgVNqxccJmq) | [Pri Pach](https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H) | [Sentada de Milhões](https://open.spotify.com/album/3FTIGVXppGBczjFkLomdHk) | 2:14 |
 | 33 | [Tormento](https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Tormento](https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI) | 3:18 |
 | 34 | [Liga pro Samu](https://open.spotify.com/track/6rmmUAr6RY43JjvFYRUuWK) | [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Liga pro Samu](https://open.spotify.com/album/2hUNPuvV5NTPUymQihNGhm) | 2:20 |
-| 35 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
-| 36 | [É o Poder](https://open.spotify.com/track/2BCiFaDZ3oZdVRxet12Lga) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [É o Poder](https://open.spotify.com/album/0Fdps7yyNESfqZsISQSsOc) | 3:36 |
+| 35 | [É o Poder](https://open.spotify.com/track/2BCiFaDZ3oZdVRxet12Lga) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [É o Poder](https://open.spotify.com/album/0Fdps7yyNESfqZsISQSsOc) | 3:36 |
+| 36 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
 | 37 | [Perdeu](https://open.spotify.com/track/5Y3tgOf8Dbp5ja44Qh5vhw) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa) | [Perdeu](https://open.spotify.com/album/2hG7gG84BDPGy98WjZKjBX) | 2:06 |
 | 38 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 |
 | 39 | [Queima](https://open.spotify.com/track/64IShZobTusAmWeVM6UmSZ) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Queima](https://open.spotify.com/album/2pInFmdmjElwaoSETmKlJo) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Voltei](https://open.spotify.com/track/5xM24ffgOwCwJ9bYyNlQMW) | [Agatha](https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i), [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Voltei](https://open.spotify.com/album/1cWeUMEeeityWPHsjU5Nbb) | 2:03 |
 | 50 | [Nocaute](https://open.spotify.com/track/61jYnAUclCOarbNsNWDYS4) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Nocaute](https://open.spotify.com/album/72xcNZ9fxb3V7dw5u2zHNT) | 2:04 |
 
-Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMGZhZGYwZmZkZGMzMTUyNGM3YThhMGU5NzMzNTQzMzhm`
+Snapshot ID: `MTY2NTExMTYwMCwwMDAwMDAwMGRiZTMwYmQ3YWRiYjY4OGFiZGY0NjU1MTIzNmZiNGVi`

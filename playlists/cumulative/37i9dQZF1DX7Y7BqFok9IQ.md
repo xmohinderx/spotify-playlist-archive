@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Anthony Gomes
 
-124 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
+125 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [One Way Out](https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/1jR11CwDOnsQi1z56zcIDe) | 4:03 | 2021-05-28 | 2022-07-29 |
 | [Open Your Eyes](https://open.spotify.com/track/1HaJ3wcWeA8n7QVdqfagKx) | [Madison Galloway](https://open.spotify.com/artist/50J27BeJLo8Roh6QepeJBR) | [Open Your Eyes](https://open.spotify.com/album/3WxhJW0zQ4HQjqYxerjrmB) | 4:34 | 2022-08-12 | 2022-08-27 |
 | [Out Of My Head](https://open.spotify.com/track/7KzCDlgiVOY8sQOKlbUy1m) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Out Of My Head](https://open.spotify.com/album/3hK0Qi59tuXjInHFnEIC0r) | 3:58 | 2021-08-20 | 2022-07-29 |
-| [Painted Horse](https://open.spotify.com/track/2FWKa4zEa6lrdTDuGNMur9) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Painted Horse](https://open.spotify.com/album/0KFGI2lrMjXjq1w74dfDkz) | 3:45 | 2022-08-26 |  |
+| [Painted Horse](https://open.spotify.com/track/2FWKa4zEa6lrdTDuGNMur9) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Painted Horse](https://open.spotify.com/album/0KFGI2lrMjXjq1w74dfDkz) | 3:45 | 2022-08-26 | 2022-10-13 |
+| [Painted Horse](https://open.spotify.com/track/312chAE7wHDSz5tbxmKljM) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [High Voltage Blues](https://open.spotify.com/album/0ieocMI2zlwYG0JcJUq6Ey) | 3:45 | 2022-08-26 |  |
 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 | 2020-10-16 |  |
 | [Pick Your Poison](https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Pick Your Poison](https://open.spotify.com/album/7DVKYtrPILCQxbUgP7EJ0a) | 3:45 | 2020-10-16 | 2022-07-27 |
 | [Poison the Water](https://open.spotify.com/track/4FZTgKUSqTsZ2oSNpHl0O4) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [Poison the Water](https://open.spotify.com/album/0Hl9xfHPd8mm0JTBBf7T9H) | 3:51 | 2022-09-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,044 likes - 72 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,273 likes - 72 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 34 | [True Love](https://open.spotify.com/track/1rNVWAPDh9YZbjjTRY9ibt) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [True Love](https://open.spotify.com/album/6cFEBbV5uWZXhLAzBLRQpT) | 3:26 |
 | 35 | [Long Way Home \(with Iyaz\)](https://open.spotify.com/track/1aZneCRRKdfNutBcFqROnI) | [DMP](https://open.spotify.com/artist/7pNbAaBrIRKErypLJiIrQ4), [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Long Way Home \(with Iyaz\)](https://open.spotify.com/album/0OnrJZGdMGNows8oKIsJ3t) | 3:51 |
 | 36 | [Make Love](https://open.spotify.com/track/0FQJrnW7nH6P2LJsPk4aqX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs) | 5:35 |
-| 37 | [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 |
+| 37 | [The Lucky One](https://open.spotify.com/track/56H7ChmRXYt092T3qwjARD) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/2Qjp6JMCIVm3582SkJMere) | 3:39 |
 | 38 | [My World Is Empty Without You](https://open.spotify.com/track/2f5l3dzeD2KMTZJDxo3wZP) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Red Mango](https://open.spotify.com/album/3GbXwZCsddzlFF4QPLzS0E) | 4:39 |
 | 39 | [Night Nurse](https://open.spotify.com/track/4DQttwipnILl88cru3BRZx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 4:09 |
-| 40 | [Circle of Peace](https://open.spotify.com/track/6B1aXosrQegaSVEwcPoTSO) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Rebellion Rises](https://open.spotify.com/album/5HVcH6enN6uUk7lAjoKlIK) | 3:21 |
+| 40 | [Circle of Peace](https://open.spotify.com/track/7lPYCnj8FdLanbEWnt7BiZ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Rebellion Rises](https://open.spotify.com/album/0Adhu5aZikW2lFQt3JP9f5) | 3:21 |
 | 41 | [People](https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Victory Rock Riddim](https://open.spotify.com/album/2ychB1n3vMLc8t2bOflZTu) | 3:27 |
 | 42 | [Solitude](https://open.spotify.com/track/0k5s9BlyIUaHK1Fa7DVTyY) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:39 |
 | 43 | [I Wanna Live](https://open.spotify.com/track/2myre8mTEQXlkuaa9iAYdT) | [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [Good](https://open.spotify.com/album/6W1TIkWWfuVxEi9tut8CL4) | 3:57 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 71 | [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 |
 | 72 | [Beautiful Things \(Remix\)](https://open.spotify.com/track/1OhaZufeyAo6bve6Dm8hWR) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [New Again](https://open.spotify.com/album/5RN7Lm1aUvOsr7viqOl4x4) | 4:05 |
 
-Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMGNhMzdhYzVjOTIzN2Y5ZmYwMzI4M2ExNGU4ZjlmYTA3`
+Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMGE3YTMyZDA4NmM5ZjZlNjgyYmMwYzI2NTA1NTZiZmMy`

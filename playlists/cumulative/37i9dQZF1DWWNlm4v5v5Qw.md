@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Cover: DEETRANADA
 
-279 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
+281 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/6nQJck6sZVUzsd3csrIbig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Lately \(with 6LACK\)](https://open.spotify.com/track/6QyNMgB28X9oCdz2rAEnp7) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Lately \(with 6LACK\)](https://open.spotify.com/album/2WjGKlC8Em8IspICjgXpoU) | 3:51 | 2022-03-18 | 2022-06-08 |
 | [Le Fond](https://open.spotify.com/track/224LybpL68A0JachfVey7W) | [HIM$](https://open.spotify.com/artist/2VYvmMPuZt0YSUjM8yYIe2), [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [RIDE OR DIE, Vol\. 1](https://open.spotify.com/album/4DBZZlmJDkG8gLhXFJaa0f) | 2:10 | 2022-10-07 |  |
 | [Leave Me Alone](https://open.spotify.com/track/31Ckt3mpMNk6vYqEbCKwoZ) | [Bandingo YGNE](https://open.spotify.com/artist/4WChwgMrLJSFKqAbfYA4Es) | [Checkpoint](https://open.spotify.com/album/2g5i0OXm8Emc0g2ICUp9cA) | 2:51 | 2022-08-12 | 2022-09-24 |
-| [LECTRIC SLIDE](https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/6Z6nRjRrfbP1RwzI730m7i) | 2:32 | 2022-09-23 |  |
+| [LECTRIC SLIDE](https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/6Z6nRjRrfbP1RwzI730m7i) | 2:32 | 2022-09-23 | 2022-10-13 |
+| [LECTRIC SLIDE](https://open.spotify.com/track/2Cw6qLeiePD8OgSLvl39PO) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 2:32 | 2022-09-23 |  |
 | [Lesson Learned](https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Beautiful Michi Girls](https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo) | 2:31 | 2022-05-20 | 2022-09-10 |
 | [LET UP](https://open.spotify.com/track/26iQwztcSXNHKmN87mU0xt) | [Twellly](https://open.spotify.com/artist/1isLpCDTiMLbyn5PMKU9Jo) | [LET UP](https://open.spotify.com/album/0jLUj49ZitP8bUgErqndPN) | 2:27 | 2021-10-15 | 2022-02-26 |
 | [Letter Grade](https://open.spotify.com/track/2PAQ6lDXfmB7DJxMZLJtqk) | [Shark Breach](https://open.spotify.com/artist/3dXwEWeXNM60sfrLdiBKP6), [Swerzie](https://open.spotify.com/artist/5cdRW3M7PAo9EAB0qYk8bU) | [Letter Grade](https://open.spotify.com/album/4fhWfiF5SltcSgOdGsgu8r) | 2:14 | 2022-03-11 | 2022-04-09 |
@@ -228,7 +229,8 @@
 | [Show Me Something](https://open.spotify.com/track/6sAic1RifoLBsJApRomgkq) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Show Me Something](https://open.spotify.com/album/0A20gaWH1tTpMLVAwnrIPF) | 3:17 | 2022-02-18 | 2022-03-18 |
 | [Showtime](https://open.spotify.com/track/5zdMnsXUZpwx7jk10mF6ev) | [King Green](https://open.spotify.com/artist/3jivTPQnC8Vupqc3EFO33c) | [Showtime](https://open.spotify.com/album/3L9YpGA1DUmi4mHCrN1zCf) | 3:01 | 2022-07-09 | 2022-09-24 |
 | [SHROOM TRIP](https://open.spotify.com/track/54B9JQXq1Q3oTE9DIp1mHg) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [SHROOM TRIP](https://open.spotify.com/album/10t8VXwMKS8cDq2Pc6rQB7) | 2:23 | 2022-09-09 |  |
-| [SINCERELY](https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [SINCERELY](https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0) | 3:04 | 2022-09-09 |  |
+| [SINCERELY](https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [SINCERELY](https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0) | 3:04 | 2022-09-09 | 2022-10-13 |
+| [SINCERELY](https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 3:04 | 2022-09-09 |  |
 | [Skate](https://open.spotify.com/track/1A0msuvhMnM2FcVgx6Sec2) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Ascension \(Deluxe\) – Virtual World 2](https://open.spotify.com/album/6vfyj8L1dnjGJbon4gWS8c) | 2:19 | 2021-10-29 | 2022-02-26 |
 | [Skedaddle](https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Skedaddle](https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO) | 2:30 | 2022-10-07 |  |
 | [Snake](https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:24 | 2022-10-07 |  |

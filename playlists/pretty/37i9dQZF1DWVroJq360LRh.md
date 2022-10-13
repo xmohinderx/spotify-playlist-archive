@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,671 likes - 113 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,714 likes - 113 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 104 | [Dare You To Move \- Acoustic](https://open.spotify.com/track/6y0G798fs8GW7hgAZ9Jqbx) | [Ryan de Mel](https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E) | [Dare You To Move \(Acoustic\)](https://open.spotify.com/album/3jge9qVwcy42Za1AZz0390) | 4:06 |
 | 105 | [Head Swim](https://open.spotify.com/track/7qUEWkkeVH44GWsV5vTz5x) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cala](https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW) | 2:54 |
 | 106 | [Tenerife Sea](https://open.spotify.com/track/6vSwxzO2Qf4BinHSXRwZJe) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:01 |
-| 107 | [Faith You Might](https://open.spotify.com/track/1sj1zSyFRj72niCZRhjjPJ) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Hoax](https://open.spotify.com/album/4o8bLB3eE8zNngen1PmGMz) | 4:12 |
+| 107 | [Faith You Might](https://open.spotify.com/track/7MmaUyUT4BZ34h0efprslf) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Hoax](https://open.spotify.com/album/4dfCzW5PNzNIcYLZaVbuqs) | 4:12 |
 | 108 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 |
 | 109 | [Send My Love \(To Your New Lover\) \- Acoustic Version](https://open.spotify.com/track/2NZXGZVgML83MePjoxxofN) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [25 Acoustic \(Acoustic Version\)](https://open.spotify.com/album/2hDCebKKttYzWSJEnp9m0a) | 3:37 |
 | 110 | [Peer Pressure \(Acoustic\) \[feat\. Julia Michaels\]](https://open.spotify.com/track/2hFFke3WXVA9mV31XNy0dP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Peer Pressure \(Acoustic\)](https://open.spotify.com/album/27RJgXCscKOnvbjhhI3nWQ) | 2:56 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 112 | [Hallelujah](https://open.spotify.com/track/6AV1zIEKthWkvTQ2pWHydH) | [Thao & Mirah](https://open.spotify.com/artist/3cRmvX2dbq6zPFDCrogUlF), [Thao](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG), [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Thao & Mirah](https://open.spotify.com/album/73gHZI1HuZBKRARYwCqqLC) | 4:08 |
 | 113 | [Don't Start Now](https://open.spotify.com/track/3HHzqOZpEHA7jc1zSaaGPJ) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [Don't Start Now](https://open.spotify.com/album/0lg04Mk7Y1oTsG1UaOD5Wj) | 3:31 |
 
-Snapshot ID: `MTY2MTc4NzQ2OCwwMDAwMDAwMDllNjc1NDRmNWJiMzA4MzA0NDZiNmFiZWQ0NmM3N2Vk`
+Snapshot ID: `MTY2MTc4NzQ2OCwwMDAwMDAwMDM3YzJjMjYyNGI4YjU0Yzc3OWUzYTA4NWI2ODNmNmRj`

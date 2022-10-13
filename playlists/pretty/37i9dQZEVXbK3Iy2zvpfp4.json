@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE4ODA0Mzg5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE4ODkzNjAzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Traktor! (with saymooon)",
         "url": "https://open.spotify.com/album/75brCaOvHbJoDxcMTrbSen"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7tKl0VtxiEMtgQtYgf4JAZ"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "The Midnight Club GT",
         "url": "https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx"
@@ -93,39 +93,7 @@
       "url": "https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -145,7 +113,39 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
@@ -161,23 +161,7 @@
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "No Wind Resistance SPED UP!",
         "url": "https://open.spotify.com/album/5QOIpTHNCMfnDJSXU2pCv1"
@@ -193,7 +177,7 @@
       "url": "https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
@@ -213,7 +197,39 @@
       "url": "https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "NO STYLIST",
         "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Smile Now Cry Never",
         "url": "https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79"
@@ -249,23 +265,39 @@
       "url": "https://open.spotify.com/track/6QNphn62YKaHG1hrnPSoHi"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+        "name": "Phonk MixTape (Remix)",
+        "url": "https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Fxbii",
+          "url": "https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+      "duration_ms": 117434,
+      "name": "Crazy Phonk - Remix",
+      "url": "https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -285,55 +317,7 @@
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "Phonk MixTape (Remix)",
-        "url": "https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u"
-      },
-      "artists": [
-        {
-          "name": "Fxbii",
-          "url": "https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR"
-        }
-      ],
-      "duration_ms": 117434,
-      "name": "Crazy Phonk - Remix",
-      "url": "https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "the rainbow cassette",
-        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 125256,
-      "name": "dumb dumb",
-      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "Those Eyes",
-        "url": "https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg"
-      },
-      "artists": [
-        {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
-        }
-      ],
-      "duration_ms": 220750,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "2086",
         "url": "https://open.spotify.com/album/0EpKKKRpk570dGcH66ROio"
@@ -349,7 +333,23 @@
       "url": "https://open.spotify.com/track/461ShlymTq7F9zN5KJ2zUk"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "the rainbow cassette",
+        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "dumb dumb",
+      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -369,27 +369,7 @@
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "DOUBLE M'S",
-        "url": "https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui"
-      },
-      "artists": [
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        },
-        {
-          "name": "DUSTY LOCANE",
-          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "NO SNITCHING (with Dusty Locane)",
-      "url": "https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
@@ -405,7 +385,7 @@
       "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "FUCK IT",
         "url": "https://open.spotify.com/album/5LPjVQeMN0Lb2u7LpB3do4"
@@ -421,23 +401,7 @@
       "url": "https://open.spotify.com/track/4emwJBzykVyl76M9HGDhz4"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Munch (Feelin\u2019 U)",
         "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
@@ -453,7 +417,47 @@
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "on & on",
+        "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "on & on",
+      "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "METAMORPHOSIS",
         "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
@@ -469,7 +473,75 @@
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "Csinibaba",
+        "url": "https://open.spotify.com/album/21YFZ4eoDDoj1KPnhhFaY7"
+      },
+      "artists": [
+        {
+          "name": "Kiss Kevin",
+          "url": "https://open.spotify.com/artist/2qiyCYzYvsFEsMn1gSMNed"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Csinibaba",
+      "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "No Fuckin Pose!",
+        "url": "https://open.spotify.com/album/4RF3iDLMbzekEaAqJBIpgx"
+      },
+      "artists": [
+        {
+          "name": "Tomy Kotty",
+          "url": "https://open.spotify.com/artist/0eSoKJDF0VUQLhxNsdKyeC"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "No Fuckin Pose!",
+      "url": "https://open.spotify.com/track/4mjXkTDlLK6T6lW2v9hxQ9"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "Prep\u00e1\u010d",
+        "url": "https://open.spotify.com/album/27I996KseWZ7CGofDjEWer"
+      },
+      "artists": [
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        }
+      ],
+      "duration_ms": 219759,
+      "name": "Prep\u00e1\u010d",
+      "url": "https://open.spotify.com/track/6IUE3plp8y2kr3oeqEtAdN"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "33 Max Verstappen",
+        "url": "https://open.spotify.com/album/7lBGYyVZ0yhpqZ3ol1CQ7i"
+      },
+      "artists": [
+        {
+          "name": "Carte Blanq",
+          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
+        },
+        {
+          "name": "Maxx Power",
+          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "33 Max Verstappen",
+      "url": "https://open.spotify.com/track/6OoGxii9mSxyt4JGab8PsG"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "J. EDEN E-G3N (#freekarlo edition)",
         "url": "https://open.spotify.com/album/6r6i9hynvJcgXARvWHU6UC"
@@ -505,115 +577,27 @@
       "url": "https://open.spotify.com/track/5TnbMs8fTDVrqRGrCv3Y10"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
-        "name": "Prep\u00e1\u010d",
-        "url": "https://open.spotify.com/album/27I996KseWZ7CGofDjEWer"
+        "name": "DOUBLE M'S",
+        "url": "https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui"
       },
       "artists": [
         {
-          "name": "Alan Murin",
-          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "Prep\u00e1\u010d",
-      "url": "https://open.spotify.com/track/6IUE3plp8y2kr3oeqEtAdN"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "on & on",
-        "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
         },
         {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
         }
       ],
-      "duration_ms": 135013,
-      "name": "on & on",
-      "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
+      "duration_ms": 160000,
+      "name": "NO SNITCHING (with Dusty Locane)",
+      "url": "https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "No Fuckin Pose!",
-        "url": "https://open.spotify.com/album/4RF3iDLMbzekEaAqJBIpgx"
-      },
-      "artists": [
-        {
-          "name": "Tomy Kotty",
-          "url": "https://open.spotify.com/artist/0eSoKJDF0VUQLhxNsdKyeC"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "No Fuckin Pose!",
-      "url": "https://open.spotify.com/track/4mjXkTDlLK6T6lW2v9hxQ9"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "Matrix",
-        "url": "https://open.spotify.com/album/68KqgAtY2T2J0jJS5hyCv9"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "We Are The People - Southstar Remix",
-      "url": "https://open.spotify.com/track/2e9GFQn2nNXTbnTl02U7YJ"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "33 Max Verstappen",
-        "url": "https://open.spotify.com/album/7lBGYyVZ0yhpqZ3ol1CQ7i"
-      },
-      "artists": [
-        {
-          "name": "Carte Blanq",
-          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
-        },
-        {
-          "name": "Maxx Power",
-          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "33 Max Verstappen",
-      "url": "https://open.spotify.com/track/6OoGxii9mSxyt4JGab8PsG"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "Csinibaba",
-        "url": "https://open.spotify.com/album/21YFZ4eoDDoj1KPnhhFaY7"
-      },
-      "artists": [
-        {
-          "name": "Kiss Kevin",
-          "url": "https://open.spotify.com/artist/2qiyCYzYvsFEsMn1gSMNed"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Csinibaba",
-      "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -633,59 +617,23 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
-        "name": "No Fuckin Pose!",
-        "url": "https://open.spotify.com/album/4RF3iDLMbzekEaAqJBIpgx"
+        "name": "Matrix",
+        "url": "https://open.spotify.com/album/68KqgAtY2T2J0jJS5hyCv9"
       },
       "artists": [
         {
-          "name": "Tomy Kotty",
-          "url": "https://open.spotify.com/artist/0eSoKJDF0VUQLhxNsdKyeC"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 164999,
-      "name": "Prestupn\u00e1 stanica",
-      "url": "https://open.spotify.com/track/0rWWV2ln7VgWGM8tOUQxWI"
+      "duration_ms": 238400,
+      "name": "We Are The People - Southstar Remix",
+      "url": "https://open.spotify.com/track/2e9GFQn2nNXTbnTl02U7YJ"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "Xanadu",
-        "url": "https://open.spotify.com/album/1rAR24GD7AcmgSjyXRra87"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 229926,
-      "name": "Xanadu",
-      "url": "https://open.spotify.com/track/2ylpbsHqGUAv3za4JkyMgz"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "SHADOW",
-        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
-      },
-      "artists": [
-        {
-          "name": "ONIMXRU",
-          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
-        },
-        {
-          "name": "SMITHMANE",
-          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
-        }
-      ],
-      "duration_ms": 162041,
-      "name": "SHADOW",
-      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "3:59",
         "url": "https://open.spotify.com/album/66wDntJv0lFf0KUw5ssLt6"
@@ -705,7 +653,59 @@
       "url": "https://open.spotify.com/track/3cmi2jWihhNRk7W6QhuHAZ"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "No Fuckin Pose!",
+        "url": "https://open.spotify.com/album/4RF3iDLMbzekEaAqJBIpgx"
+      },
+      "artists": [
+        {
+          "name": "Tomy Kotty",
+          "url": "https://open.spotify.com/artist/0eSoKJDF0VUQLhxNsdKyeC"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "Prestupn\u00e1 stanica",
+      "url": "https://open.spotify.com/track/0rWWV2ln7VgWGM8tOUQxWI"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "Xanadu",
+        "url": "https://open.spotify.com/album/1rAR24GD7AcmgSjyXRra87"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 229926,
+      "name": "Xanadu",
+      "url": "https://open.spotify.com/track/2ylpbsHqGUAv3za4JkyMgz"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "SHADOW",
+        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
+      },
+      "artists": [
+        {
+          "name": "ONIMXRU",
+          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
+        },
+        {
+          "name": "SMITHMANE",
+          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
+        }
+      ],
+      "duration_ms": 162041,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Those Eyes Alternate Versions",
         "url": "https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB"
@@ -721,87 +721,7 @@
       "url": "https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "Make Sudety Great Again",
-        "url": "https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt"
-      },
-      "artists": [
-        {
-          "name": "Robin Zoot",
-          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
-        }
-      ],
-      "duration_ms": 202843,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/5TB7FL9eaJ4fIN3oqJK8rp"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "we fell in love in october / forget her",
-        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
-      "album": {
-        "name": "[MESSAGE FROM THE CLERGY]",
-        "url": "https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
-    },
-    {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
@@ -817,39 +737,43 @@
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
-        "name": "METAMORPHOSIS (Sped Up)",
-        "url": "https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh"
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
       },
       "artists": [
         {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 110936,
-      "name": "METAMORPHOSIS - Sped Up",
-      "url": "https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU"
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
+        "name": "Tell Me Why (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
       },
       "artists": [
         {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         }
       ],
-      "duration_ms": 136733,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
+      "duration_ms": 171428,
+      "name": "Tell Me Why - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "Prach (z filmu BANGER.)",
         "url": "https://open.spotify.com/album/7z3f34cXRGZFioS6TNoMqA"
@@ -869,7 +793,59 @@
       "url": "https://open.spotify.com/track/2nR4w34eMUWK3VuRygoIpq"
     },
     {
-      "added_at": "2022-10-11 11:53:09",
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "Oszt\u00e1lyk\u00e9p",
+        "url": "https://open.spotify.com/album/3DqB5AWtqU8GE6xmwrrPv9"
+      },
+      "artists": [
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Tenger",
+      "url": "https://open.spotify.com/track/1o1jU5NJW5lTAllW6udk6Y"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Flawl\u00ebss (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
       "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
@@ -883,6 +859,38 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "we fell in love in october / forget her",
+        "url": "https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg"
+    },
+    {
+      "added_at": "2022-10-12 12:40:03",
+      "album": {
+        "name": "METAMORPHOSIS (Sped Up)",
+        "url": "https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 110936,
+      "name": "METAMORPHOSIS - Sped Up",
+      "url": "https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU"
     }
   ],
   "unique_name": "Viral 50 - Slovakia",

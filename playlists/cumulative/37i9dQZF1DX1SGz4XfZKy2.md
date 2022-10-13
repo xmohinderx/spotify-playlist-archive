@@ -4,7 +4,7 @@
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-81 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/1ISc2kghgLSBOppDcYOI8f)
+82 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/1ISc2kghgLSBOppDcYOI8f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Ordibehesht](https://open.spotify.com/track/28jWM3Lbd1mvrdoXh5z77F) | [Soheil Mokhberi](https://open.spotify.com/artist/0tBKnYaIeoRQWpEPZs0eYm) | [Dorouj](https://open.spotify.com/album/4o5JCnW65cc9F6jXFwXScn) | 5:52 | 2021-02-15 | 2022-07-29 |
 | [Oud](https://open.spotify.com/track/29952aYh58vdMTjBsdJUHS) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/15Q01qYbkcGQi8Is1ZweA9) | 3:10 | 2021-02-15 | 2022-07-29 |
 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 | 2021-02-15 |  |
-| [Oud Solo](https://open.spotify.com/track/5cgMhpKwX4f1tDK4AV46jJ) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Silt](https://open.spotify.com/album/4aeGmrILBa4zvOb3wt2x3G) | 2:35 | 2021-02-15 |  |
+| [Oud Solo](https://open.spotify.com/track/1VznWczEVtpXeVHXSjaWO2) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Silt](https://open.spotify.com/album/0g2aAVujd0puM9wGzW9T8Y) | 2:35 | 2021-02-15 |  |
+| [Oud Solo](https://open.spotify.com/track/5cgMhpKwX4f1tDK4AV46jJ) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Silt](https://open.spotify.com/album/4aeGmrILBa4zvOb3wt2x3G) | 2:35 | 2021-02-15 | 2022-10-13 |
 | [Pause](https://open.spotify.com/track/7g3L86HLw2p9jXb3NPpMzD) | [Negâr Boubân](https://open.spotify.com/artist/16Tps1ORce0JdjrXbSx9mp) | [In Turn](https://open.spotify.com/album/6mxR9rdf3iF7HzTF6tsrPe) | 4:46 | 2021-02-15 |  |
 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 | 2021-02-15 |  |
 | [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 | 2021-02-15 |  |

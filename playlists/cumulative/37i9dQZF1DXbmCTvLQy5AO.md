@@ -4,7 +4,7 @@
 
 > Empowered rhymes and vibes\. Cover: Queen B
 
-85 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/7wi1BWlfT5Ro0JXOEqc0TU)
+86 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/7wi1BWlfT5Ro0JXOEqc0TU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [wicked, sexy!](https://open.spotify.com/track/6IsOt1shnug3aISsedXatq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Maison2500](https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx) | [EVERYTHING YOU HEARD IS TRUE](https://open.spotify.com/album/2x6YmHjZ0hkVETiz6IJ3EN) | 2:17 | 2021-09-30 |  |
 | [Wish You Would](https://open.spotify.com/track/51FNfc26Vj9R7J1mCospQ3) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Spring​/​Summer 2014](https://open.spotify.com/album/1yE95lst5ODh8lMBSMlbl0) | 2:52 | 2022-06-24 |  |
 | [Wish You Would \(feat\. Princess Nokia\)](https://open.spotify.com/track/0XsCES6ZULNT2cfAuMzfp2) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Spring/Summer 2014](https://open.spotify.com/album/4C8Tr5NjjrfkuJgdV0sKNI) | 2:52 | 2021-09-30 | 2022-07-29 |
-| [Woman](https://open.spotify.com/track/3IqP8UcPDgHmOCCaxfTFwm) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/7M0Tu8Fr3L2K105Ew8qzJ0) | 4:29 | 2021-09-30 |  |
+| [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-09-22 |  |
+| [Woman](https://open.spotify.com/track/3IqP8UcPDgHmOCCaxfTFwm) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/7M0Tu8Fr3L2K105Ew8qzJ0) | 4:29 | 2021-09-30 | 2022-10-13 |
 | [Wut](https://open.spotify.com/track/31WIkt099num18R8nsQhZv) | [Le1f](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/1v8Py9AQuLOfJTzKsTtHy8) | 2:47 | 2021-09-30 | 2022-01-22 |
 | [YOU'RE THE ONE](https://open.spotify.com/track/2b4SSorCTQ2VzmllaeWuuT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/1dZZh7PvVgce1DDsDPzy8Z) | 3:47 | 2021-09-30 | 2022-01-22 |
 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 | 2021-09-30 |  |

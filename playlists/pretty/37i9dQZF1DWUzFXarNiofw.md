@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Alex Vaughn
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,781 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,201 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 74 | [Opposite](https://open.spotify.com/track/1hjQHLXevphvGIZUfRC239) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Pillow Talk](https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6) | 2:50 |
 | 75 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
 | 76 | [In The Moment](https://open.spotify.com/track/5T7CQ8uxqtIEzZ47zUBnz0) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [In The Moment](https://open.spotify.com/album/47jzJC3JouRl3o89fbUrxW) | 3:13 |
-| 77 | [City of Angels](https://open.spotify.com/track/6dQ2LusAx9Lr7NwkwHkYIC) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [City of Angels](https://open.spotify.com/album/7LuzVcbZIaIH3MYWo81k2q) | 2:10 |
+| 77 | [City of Angels](https://open.spotify.com/track/1Da2hZsE9CaUM7xxEpEWyq) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Hope It Gets Better](https://open.spotify.com/album/7p9pChA6KBpvqq8En6bE9B) | 2:10 |
 | 78 | [Love Quotes](https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Love Quotes](https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI) | 3:15 |
 | 79 | [Trip](https://open.spotify.com/track/3MPh6fCxLilH9ZJ1sTLBlN) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Trip](https://open.spotify.com/album/02J88YmFnbuXmGUpRwpqDW) | 3:28 |
 | 80 | [Entice Me](https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Entice Me](https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT) | 2:36 |
 
-Snapshot ID: `MTY2NTE1OTQ4NSwwMDAwMDAwMGEyNDc0YTE5ZjIzMzJlNjkxNTZmOTIxYjM0NmYxMDQy`
+Snapshot ID: `MTY2NTE1OTQ4NSwwMDAwMDAwMDRlZDI3YjA4Nzc4YjdlMTU0Mzk3NzVkNDQ1MTU0ZDg1`

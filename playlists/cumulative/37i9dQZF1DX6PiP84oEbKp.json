@@ -435,10 +435,28 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 140025,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/07sscPQA6fR2yGVf3vMmld"
+    },
+    {
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/3Rfex8n3nRVBZyN0JX059j"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140025,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/28t4A1DdvuZzub3p8E7qFF"
     },
     {
       "album": {

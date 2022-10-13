@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: One True God
 
-318 songs - 17 hr 51 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
+319 songs - 17 hr 54 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,8 @@
 | [Tonight](https://open.spotify.com/track/2QRj78RKZO2VGg2Z4SGCF8) | [The Funk Hunters](https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut), [Kotek](https://open.spotify.com/artist/5JD5mJBIRz9pisqHn7SM7W) | [Tonight](https://open.spotify.com/album/2bmzOjgrYZGfCLuqpOvZW5) | 3:55 | 2022-01-14 | 2022-02-12 |
 | [Too Clean](https://open.spotify.com/track/1p2lHnoRzhlBqPqQN2XKEE) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Too Clean](https://open.spotify.com/album/54pGgb1TxPD1McxxCmVK5p) | 3:30 | 2022-01-14 | 2022-03-18 |
 | [Transitory](https://open.spotify.com/track/52peIXHrnQpSuANcws9IBr) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Transitory](https://open.spotify.com/album/0NH5ptXUhDmNKKeAyqdWma) | 5:01 | 2022-07-29 | 2022-08-20 |
-| [Trials \(feat\. IDK\)](https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Trials \(feat\. IDK\)](https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg) | 2:13 | 2022-08-05 |  |
+| [Trials](https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 2:13 | 2022-09-16 |  |
+| [Trials \(feat\. IDK\)](https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Trials \(feat\. IDK\)](https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg) | 2:13 | 2022-08-05 | 2022-10-13 |
 | [Trigger](https://open.spotify.com/track/76IBjqYohp5r2ff5hvbXqg) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Trigger](https://open.spotify.com/album/37zquxYvzsXCvhO8whITBM) | 2:46 | 2022-05-06 | 2022-07-16 |
 | [Trigger Technology](https://open.spotify.com/track/29e8sjYkArwTiNxKNEgvpX) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Trigger Technology](https://open.spotify.com/album/61Hv14MDmklquNTnwh55wo) | 3:34 | 2022-04-15 | 2022-05-07 |
 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 | 2022-03-25 | 2022-06-25 |

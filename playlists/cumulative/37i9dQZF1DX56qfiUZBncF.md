@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-234 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
+235 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Confidence \(feat\. Jon Waltz\)](https://open.spotify.com/track/6cMKaS2ZRD8GDgdTdufanl) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J) | [Nothing Gold Can Stay](https://open.spotify.com/album/4bdojHk9PdqHImi61mEaHJ) | 4:20 | 2021-02-06 | 2021-12-30 |
 | [Corners Of My Mind](https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:32 | 2020-11-04\* |  |
 | [creep](https://open.spotify.com/track/0OcoZJjaHsYmYZhzT3F3oL) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [creep](https://open.spotify.com/album/7g8SNpeL6pJL8ZlFLQ9C27) | 3:30 | 2021-03-19 | 2022-07-10 |
-| [creep](https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:30 | 2022-04-29 |  |
+| [creep](https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:30 | 2022-04-29 | 2022-10-13 |
 | [Dancing](https://open.spotify.com/track/5WuP4r3XELVbdkYyZgtwwH) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [Age of Experience](https://open.spotify.com/album/5he0TqGD4981oGGjqCvRUq) | 3:52 | 2020-11-04\* | 2022-07-08 |
 | [Die Young](https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:30 | 2022-04-29 |  |
 | [Die Young](https://open.spotify.com/track/3cmQqHMPYs1o0DYBXb7be0) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1fo3f7dtAoeYMpiN5FvK9T) | 3:30 | 2020-11-04\* | 2021-10-20 |
@@ -158,6 +158,7 @@
 | [On the Lookout](https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [On the Lookout](https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E) | 3:49 | 2022-04-29 |  |
 | [On the Lookout \(feat\. Raffaella\)](https://open.spotify.com/track/3kYd839jswPw1go3Sd6nvf) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [On the Lookout \(feat\. Raffaella\)](https://open.spotify.com/album/3Pa9zmTEmVn16bzR0DWibl) | 3:49 | 2020-11-04\* | 2022-07-29 |
 | [On Your Side](https://open.spotify.com/track/4QaNcBEEzo8iTetgnZ1PUj) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [On Your Side](https://open.spotify.com/album/03lh3gqeP8wvvqe2ou9jW3) | 4:08 | 2021-10-19 | 2022-09-29 |
+| [On Your Side](https://open.spotify.com/track/7eibB2Fznm06VctGGJnYd9) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 4:08 | 2022-04-29 |  |
 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 | 2021-02-26 |  |
 | [Only Two at the Start](https://open.spotify.com/track/0DvN8iIWKuuZPmUmqK7Amz) | [DD WALKER](https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS) | [Only Two at the Start](https://open.spotify.com/album/50FSXGpR9OmRhuzEDUpZ3F) | 4:19 | 2021-02-13 | 2022-09-13 |
 | [Onlysmokecigsontheweekend](https://open.spotify.com/track/61sqEURvZ2rKQSo747y8RS) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ), [Chris Ryan](https://open.spotify.com/artist/1R4WQIk1hRYS6ilbFxg5Rx) | [Fun Like That](https://open.spotify.com/album/4jUIb0Ip7qgo3qmCef9nfW) | 2:28 | 2020-11-04\* | 2022-07-09 |

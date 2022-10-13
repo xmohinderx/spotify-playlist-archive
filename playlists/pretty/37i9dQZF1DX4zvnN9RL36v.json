@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 2897,
+  "num_followers": 2909,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDIxYmQ4MjhmYmEyM2FiNWViYzZhYjIwNTcxODlkYjc1",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMGZhMjgzY2FlMjdjOWNlNjE4MzVlMzk5MDQ2OWUyMDY4",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Blooming Period",
-        "url": "https://open.spotify.com/album/0j200gVJhL56SoTrYXytx3"
-      },
-      "artists": [
-        {
-          "name": "Block B",
-          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
-        }
-      ],
-      "duration_ms": 206467,
-      "name": "Toy",
-      "url": "https://open.spotify.com/track/68ABnHNR4y2COQa4eaM6PS"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Hotel del Luna (Original Television Soundtrack) Pt.9",
         "url": "https://open.spotify.com/album/3Hk0MVAZnoM4z71yOwQ8gh"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 271540,
       "name": "\ub0b4 \ubaa9\uc18c\ub9ac \ub4e4\ub9ac\ub2c8",
       "url": "https://open.spotify.com/track/6chlsBLGbBbBd4u21iqbIR"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Blooming Period",
+        "url": "https://open.spotify.com/album/0j200gVJhL56SoTrYXytx3"
+      },
+      "artists": [
+        {
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+        }
+      ],
+      "duration_ms": 206467,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/68ABnHNR4y2COQa4eaM6PS"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -336,8 +336,8 @@
       },
       "artists": [
         {
-          "name": "Toy",
-          "url": "https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR"
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8"
         },
         {
           "name": "Sing Si Kyung",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Greeting",
-      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "SEOULITE",
         "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 220437,
       "name": "UP ALL NIGHT",
       "url": "https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Greeting",
+      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -472,8 +472,8 @@
       },
       "artists": [
         {
-          "name": "Toy",
-          "url": "https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR"
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8"
         },
         {
           "name": "Kwon Jin Ah",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 325150,
-      "name": "Even though I hate you, I love you (Special Track)",
-      "url": "https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 232729,
       "name": "One-Sided Love",
       "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 325150,
+      "name": "Even though I hate you, I love you (Special Track)",
+      "url": "https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "One Strange Night",
-        "url": "https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 251105,
-      "name": "Wanna be her",
-      "url": "https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "\ud654\ubd84",
         "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 270680,
       "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
       "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "One Strange Night",
+        "url": "https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 251105,
+      "name": "Wanna be her",
+      "url": "https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN"
     },
     {
       "added_at": "2022-08-18 14:25:32",

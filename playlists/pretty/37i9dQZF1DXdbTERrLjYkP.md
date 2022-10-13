@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Sadie Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,698 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,763 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,16 +59,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 49 | [Ordinary Love](https://open.spotify.com/track/0cFQYjYEgpoY0iP0vnOOoI) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ordinary Love](https://open.spotify.com/album/56fSzLOj5xwc4nNLGUl51S) | 3:15 |
 | 50 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
 | 51 | [used to love girls](https://open.spotify.com/track/6g8H6zcEjkQKoKrorN92h7) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [used to love girls](https://open.spotify.com/album/1aCojGKRcnIPz5XvokeKkX) | 3:10 |
-| 52 | [Inevitable](https://open.spotify.com/track/16aUfGKznCQHHi00xCFy6v) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her \(Clean\)](https://open.spotify.com/album/1qZD8GiN2m2wxydGdXHpYT) | 3:22 |
+| 52 | [Inevitable](https://open.spotify.com/track/4HFPqbaVJIc0uTB1QhCY8z) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/3HQwoxEe5p7RNoOagQ57q4) | 3:22 |
 | 53 | [How Do I Not.](https://open.spotify.com/track/2HQDOhUcS51VcBem0jmYjJ) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [How Do I Not.](https://open.spotify.com/album/5P2C1iE7qzQkMKHgzsNwo6) | 2:43 |
 | 54 | [Boy In My Head](https://open.spotify.com/track/78hDYhsksee92GDqlZumdJ) | [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Boy In My Head](https://open.spotify.com/album/3735SIva27EuXcwKiyugRb) | 2:29 |
 | 55 | [More Of You](https://open.spotify.com/track/06kYozo6Am3njAuYXy7XJw) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [More Of You](https://open.spotify.com/album/6BPN1ae8Yj3YBjA4smeT6p) | 3:33 |
 | 56 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
 | 57 | [When She Smiles](https://open.spotify.com/track/0GBoforl4fd70EQkYkYqIf) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [When She Smiles](https://open.spotify.com/album/2kVhRjlUMhPF9ewhBB3y7j) | 3:54 |
 | 58 | [July \(Later On\)](https://open.spotify.com/track/4aOn1poQUctDNYifxmgK61) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [July \(Later On\)](https://open.spotify.com/album/67pdoqq7ID77qBa26APJ2m) | 2:19 |
-| 59 | [Rocket Science](https://open.spotify.com/track/6iTCiGPIy42IDvm0PWDWLA) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Rocket Science](https://open.spotify.com/album/7Cb2mXAxynvJSKO4w2DBHN) | 2:42 |
+| 59 | [Rocket Science](https://open.spotify.com/track/7El19GVmLKoGANrPxbWSa7) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Heartbreak Hall Of Fame](https://open.spotify.com/album/4SpxjTnfgxHAxHjLAClJsF) | 2:42 |
 | 60 | [A Little More](https://open.spotify.com/track/79Brj2zZ0x84BxnJZ2q5Wd) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [who?](https://open.spotify.com/album/6hJ2X3eSAb9aCeX0isGxl8) | 3:30 |
-| 61 | [Sadtown USA](https://open.spotify.com/track/5isaeQhLPaB5dGg0ccJOuX) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/6mKq3sxLNkjr8k7fFkGENN) | 3:10 |
+| 61 | [Sadtown USA](https://open.spotify.com/track/5L7sbhEYjCagSs6fGdfVbi) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/64nylLzvc9O40yAD3EaJ2G) | 3:10 |
 | 62 | [Deeper](https://open.spotify.com/track/1R7TJhZujfy7N2fk3wLTrn) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [Deeper](https://open.spotify.com/album/5NPjgNqomchHldXQcN140j) | 2:53 |
 | 63 | [Something I Hate](https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Something I Hate](https://open.spotify.com/album/0sRyc5tDvYwBGm3Rgq5dHo) | 2:51 |
 | 64 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 71 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
 | 72 | [Past Life](https://open.spotify.com/track/5Y5GCQcDkcndKKiKel6tK8) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Past Life](https://open.spotify.com/album/1dTTM2vQpUbvmEYaMAS0rm) | 3:38 |
 | 73 | [Carsick](https://open.spotify.com/track/53QIhVdWpIG3NmpkhoqFy6) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Carsick](https://open.spotify.com/album/2kvGRMPD2fjjzJS9Wwaqdz) | 3:07 |
-| 74 | [Love of My Life](https://open.spotify.com/track/2KC89XSvZn9EEk8Dt7VuG9) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Love of My Life](https://open.spotify.com/album/2aH0R3lc7cJVwjiQTzoBYp) | 3:52 |
+| 74 | [Love of My Life](https://open.spotify.com/track/1KiJFIMQrRH14WF5ntkZbf) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [The Kids Table](https://open.spotify.com/album/6BUjnH6B8ZQH1CGhPT4UGJ) | 3:52 |
 | 75 | [Dream Girl](https://open.spotify.com/track/40NJ6IcslmhpnxVCY0mQUl) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Dream Girl](https://open.spotify.com/album/1d3os2x0L52pyezqlC0lpj) | 3:27 |
 | 76 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 |
 | 77 | [DECLINED](https://open.spotify.com/track/1OvTmyB5Rh9Gn1rqlqgTMY) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [DECLINED](https://open.spotify.com/album/0BVDq72SfkUvDv11NuLyHP) | 4:16 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 84 | [Love Like That \(Words from Her\)](https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Love Like That \(Words from Her\)](https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy) | 2:54 |
 | 85 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDc2M2E1NzMwNWIyMGI5MDAxMDQyNmFmOTQzMGVhYWU3`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDJmNmVlMThlYzBjM2RiMDk3ZjBmMzQ2OGJjNjM1ZTdl`

@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Billy Strings
 
-375 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
+376 songs - 22 hr 42 min - [published](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Into the Fire](https://open.spotify.com/track/0RjqoAsp5jmUVliLaCWuvt) | [Yonder Mountain String Band](https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO) | [Into the Fire](https://open.spotify.com/album/11VbCENTERIqVpyGyBzZDT) | 2:38 | 2022-01-14 | 2022-07-29 |
 | [I’ll Trade You Money for Wine](https://open.spotify.com/track/6hsinmvODBmxLaIeY6t69u) | [Laura Orshaw](https://open.spotify.com/artist/0AGDlPc4c5TUpNltDn99es) | [Solitary Diamond](https://open.spotify.com/album/6D8vEKCtmObKJZaCF86uBu) | 4:11 | 2022-07-15 | 2022-07-18 |
 | [I’ve Been A Long Time Leavin' \(But I’ll Be A Long Time Gone\)](https://open.spotify.com/track/1xITcjwUzUJL4zoZmBB0PZ) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Universal Favorite](https://open.spotify.com/album/72BjHzwfZXDbxm1HuiXcAo) | 2:49 | 2021-12-17 | 2022-07-17 |
+| [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 | 2022-09-30 |  |
 | [Jenny Put the Kettle On](https://open.spotify.com/track/1vHYLSFXktaPllAwMj4bmJ) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/6IG1OlL4Z6fV3zh0hRGqIc) | 2:00 | 2022-08-26 | 2022-10-06 |
 | [Jeremiah](https://open.spotify.com/track/6fQJurzJ7mB8VTRppbg8t7) | [Clint Roberts](https://open.spotify.com/artist/5OVHqPoHGsbQnMuLvLP0gd) | [Jeremiah](https://open.spotify.com/album/05AgUadKLcXpXwwNmwhPfC) | 3:24 | 2022-04-29 | 2022-05-08 |
 | [John](https://open.spotify.com/track/611n0K4uwT68HQSYUN7FQC) | [Wood & Wire](https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX) | [John](https://open.spotify.com/album/5pm6q0j3jSQAki4Oa2SjSV) | 2:55 | 2021-12-17 | 2022-10-08 |
@@ -285,7 +286,7 @@
 | [She Left Me Standing on the Mountain](https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj), [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Vol\. II](https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY) | 3:25 | 2022-08-26 |  |
 | [She Sings](https://open.spotify.com/track/0LHHBhcQQ23V0p7Y5MyjC0) | [One Grass Two Grass](https://open.spotify.com/artist/4DOmXqtkPNBgVaJEkYSaQJ) | [She Sings](https://open.spotify.com/album/46M1uGVjeV2Ydw0MPhkqpn) | 4:52 | 2021-12-17 | 2022-01-28 |
 | [She'll Change](https://open.spotify.com/track/3d3mxvxLxdBtW5OYLV7faR) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [She'll Change](https://open.spotify.com/album/6wYpaSgmMDzyfQxNmcTIXf) | 2:41 | 2021-12-17 | 2022-09-26 |
-| [Shenandoah](https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9), [Michael Starkey](https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk) | [Shenandoah](https://open.spotify.com/album/1QFmpfj9SakhUQe7iWBIzu) | 3:56 | 2022-05-27 |  |
+| [Shenandoah](https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9), [Michael Starkey](https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk) | [Shenandoah](https://open.spotify.com/album/1QFmpfj9SakhUQe7iWBIzu) | 3:56 | 2022-05-27 | 2022-10-13 |
 | [Sinner's Blues](https://open.spotify.com/track/0VHP4nyF5qJT2sPZ8gHtd6) | [Sarah Carrino](https://open.spotify.com/artist/3p8aPv9mmuXQwLugyKxuqQ) | [Sinner's Blues](https://open.spotify.com/album/5Theuza3hcBhjC5YZoPnRI) | 3:38 | 2021-12-17 | 2022-07-23 |
 | [Smokestack](https://open.spotify.com/track/3ScViVE4SPyT1ImJWtP7Rb) | [Kitchen Dwellers](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31) | [Smokestack](https://open.spotify.com/album/3RjVQgkR6znd19sTPQ10x7) | 3:49 | 2022-04-15 | 2022-07-23 |
 | [Smokin' Strings \(feat\. Billy Strings\)](https://open.spotify.com/track/14vh1j0LpAbxUgj3WBuGQd) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/34eGLPiujwVWqOY4y7ywMU) | 7:09 | 2021-12-17 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Alu Mix, Yoss Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,199 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,203 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 52 | [Hace Rato](https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn) | 3:43 |
 | 53 | [HORÓSCOPO](https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [HORÓSCOPO](https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS) | 4:08 |
 | 54 | [Te Juro](https://open.spotify.com/track/0JElJmnJDGum8BGOE4yNsU) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU) | [Te Juro](https://open.spotify.com/album/1rwYQzE9zwJfz8gkqeRVVY) | 2:29 |
-| 55 | [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 |
+| 55 | [Qué Te Está Pasando](https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Qué Te Está Pasando](https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5) | 3:40 |
 | 56 | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/track/7GRe01YSKYRxkXGmrjkcGU) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/album/2I8pcFT4wfrgXi3hynkzag) | 4:53 |
-| 57 | [Qué Te Está Pasando](https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Qué Te Está Pasando](https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5) | 3:40 |
+| 57 | [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 |
 | 58 | [Inédito](https://open.spotify.com/track/0vaPZCDqKhX09VwFruiRVl) | [Fran Rozzano](https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA) | [Inédito](https://open.spotify.com/album/7nyUwMd9qCW90BtiNGxGfJ) | 2:42 |
 | 59 | [Duro](https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Duro](https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r) | 3:42 |
 | 60 | [Manzana](https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Manzana](https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70) | 2:53 |
 
-Snapshot ID: `MTY2NDUwNjgwMCwwMDAwMDAwMDhlZTA0OTljNmQxMGJkMjRmODkxZGFhY2FiY2M5ZTJj`
+Snapshot ID: `MTY2NDUwNjgwMCwwMDAwMDAwMGJiYjM1M2E2NTcxYjlkNGQ3YTc2YThlNWU5YzNhN2Vm`

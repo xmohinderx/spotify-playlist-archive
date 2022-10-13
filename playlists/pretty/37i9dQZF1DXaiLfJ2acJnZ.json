@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 34990,
+  "num_followers": 35002,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1NDM4OSwwMDAwMDAwMDFhMjE2MWNhOWMxODMxN2FjOWMxNTczNDVkY2JiNTA2",
+  "snapshot_id": "MTY2Mzk1NDM4OSwwMDAwMDAwMDU3NTM3NjhhZTE5YWY5MjJjYThiYmJhY2VlZDdjYTJi",
   "tracks": [
     {
       "added_at": "2022-09-23 17:33:09",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Be Kind",
         "url": "https://open.spotify.com/album/1mWXLzWQS9hleyqLwPGu8r"
       },
@@ -867,42 +851,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "East End Coast",
-        "url": "https://open.spotify.com/album/3mJR7KQuYUFP8ptWREijDy"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 226035,
-      "name": "East End Coast",
-      "url": "https://open.spotify.com/track/7iBPtgnL0CcOKy96R7JXIO"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
-        "name": "1,000,000 X Better",
-        "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 191739,
-      "name": "1,000,000 X Better",
-      "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "life's a beach",
         "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
       },
@@ -951,6 +899,26 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
+        "name": "1,000,000 X Better",
+        "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 191739,
+      "name": "1,000,000 X Better",
+      "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
         "name": "Ain't Got No Friends",
         "url": "https://open.spotify.com/album/3OWRyVAA36otEE4Rn50wok"
       },
@@ -967,8 +935,8 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
+        "name": "Stormy Skies (Diamonds)",
+        "url": "https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv"
       },
       "artists": [
         {
@@ -976,9 +944,9 @@
           "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
         }
       ],
-      "duration_ms": 171228,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
+      "duration_ms": 213924,
+      "name": "Stormy Skies (Diamonds)",
+      "url": "https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1055,22 +1023,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Green Grass",
-        "url": "https://open.spotify.com/album/7aCF5YOCtZYyiJOnrK4ESH"
-      },
-      "artists": [
-        {
-          "name": "Ellie Dixon",
-          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
-        }
-      ],
-      "duration_ms": 185374,
-      "name": "Green Grass",
-      "url": "https://open.spotify.com/track/7kIDMuaQ1JNJuEWjKLMLhM"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Godlight",
         "url": "https://open.spotify.com/album/5EDTEEhMBHthUxOIYmXN5N"
       },
@@ -1087,8 +1039,24 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Stormy Skies (Diamonds)",
-        "url": "https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv"
+        "name": "Green Grass",
+        "url": "https://open.spotify.com/album/7aCF5YOCtZYyiJOnrK4ESH"
+      },
+      "artists": [
+        {
+          "name": "Ellie Dixon",
+          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
+        }
+      ],
+      "duration_ms": 185374,
+      "name": "Green Grass",
+      "url": "https://open.spotify.com/track/7kIDMuaQ1JNJuEWjKLMLhM"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
       },
       "artists": [
         {
@@ -1096,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
         }
       ],
-      "duration_ms": 213924,
-      "name": "Stormy Skies (Diamonds)",
-      "url": "https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1"
+      "duration_ms": 171228,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1167,22 +1135,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Blu Shirt Boy",
-        "url": "https://open.spotify.com/album/0wIdXaa8pAUQh5H0DBVmXK"
-      },
-      "artists": [
-        {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
-        }
-      ],
-      "duration_ms": 223703,
-      "name": "Blu Shirt Boy",
-      "url": "https://open.spotify.com/track/7bAT6eo8VuSTPKA52CxPTJ"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "good thing",
         "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
       },
@@ -1247,22 +1199,6 @@
     {
       "added_at": "2022-09-23 17:33:09",
       "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/5ZjBO7Cg1sFL5AjHKPeVKi"
-      },
-      "artists": [
-        {
-          "name": "Florrie",
-          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/3WtLTBXsK5rhp312oKlCpl"
-    },
-    {
-      "added_at": "2022-09-23 17:33:09",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4"
       },
@@ -1275,6 +1211,22 @@
       "duration_ms": 212503,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/5ZjBO7Cg1sFL5AjHKPeVKi"
+      },
+      "artists": [
+        {
+          "name": "Florrie",
+          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/3WtLTBXsK5rhp312oKlCpl"
     },
     {
       "added_at": "2022-09-23 17:33:09",
@@ -1339,6 +1291,54 @@
       "duration_ms": 208563,
       "name": "One of Those Days",
       "url": "https://open.spotify.com/track/1Ircz8F9jlgC59clzg28Tu"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "City That I'm Lost In",
+        "url": "https://open.spotify.com/album/55nT09RXHNHWgx6fX0FYYi"
+      },
+      "artists": [
+        {
+          "name": "Nathan Grisdale",
+          "url": "https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l"
+        }
+      ],
+      "duration_ms": 191838,
+      "name": "1982",
+      "url": "https://open.spotify.com/track/2l48q7fReW5pz6aaF6Daas"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA"
+      },
+      "artists": [
+        {
+          "name": "Wild Youth",
+          "url": "https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO"
+    },
+    {
+      "added_at": "2022-09-23 17:33:09",
+      "album": {
+        "name": "Meet You There",
+        "url": "https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 178470,
+      "name": "You Give Me More",
+      "url": "https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO"
     }
   ],
   "unique_name": "Wholesome",

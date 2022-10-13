@@ -4,11 +4,12 @@
 
 > Neighborhood Storytellers\. Cover: Lil Tjay
 
-140 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
+141 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1738](https://open.spotify.com/track/4JASPSRsT40EJVQM9NjcJP) | [Lil Donald](https://open.spotify.com/artist/73E6GkhXR5Zzj2zbdIWnfm) | [Heart Detox](https://open.spotify.com/album/4L5ic3dwoJZdmAJ5ced90Y) | 2:56 | 2022-09-16 |  |
+| [1738](https://open.spotify.com/track/4JASPSRsT40EJVQM9NjcJP) | [Lil Donald](https://open.spotify.com/artist/73E6GkhXR5Zzj2zbdIWnfm) | [Heart Detox](https://open.spotify.com/album/4L5ic3dwoJZdmAJ5ced90Y) | 2:56 | 2022-09-16 | 2022-10-13 |
+| [1738](https://open.spotify.com/track/7aRzjArjQYjlXj13jfSIlX) | [Lil Donald](https://open.spotify.com/artist/73E6GkhXR5Zzj2zbdIWnfm) | [Heart Detox](https://open.spotify.com/album/37XrhZXV5g8xisXJRA0gbS) | 2:56 | 2022-09-16 |  |
 | [4Reign Gangsta \(feat\. Kevin Gates\)](https://open.spotify.com/track/5SbtfQsckw0gUxsEYIOPI3) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [4Reign Gangsta \(feat\. Kevin Gates\)](https://open.spotify.com/album/3Ydjha34N8zfKz69b1P8Tl) | 3:57 | 2021-10-29 | 2022-06-25 |
 | [Abandoned](https://open.spotify.com/track/5C0x9o6J37xbQgCWRvfHM7) | [Derez De’Shon](https://open.spotify.com/artist/1C5vXvYnmVVTKw4GVCKGzM) | [Abandoned](https://open.spotify.com/album/6aah8TZjuMfUTwq5dxYuYP) | 2:56 | 2021-12-17 | 2022-06-04 |
 | [Alone](https://open.spotify.com/track/1WZSTEcC48PcrQZliCZj2y) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Alone](https://open.spotify.com/album/3PYk89I5WHZTLJhc1cWFS3) | 3:11 | 2022-08-12 |  |

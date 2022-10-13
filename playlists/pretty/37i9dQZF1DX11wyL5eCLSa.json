@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Austin TV en portada.",
-  "num_followers": 132301,
+  "num_followers": 132349,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDY1MCwwMDAwMDAwMGQ1MWJkZGRjODY3NzJhYzdlYjkyZDUzZTU3YzFhMGJk",
+  "snapshot_id": "MTY2NDUxMDY1MCwwMDAwMDAwMGRhNTczMjJjM2Y5MGNhZjkyNTkxNmI4M2Y4M2U5OGUw",
   "tracks": [
     {
       "added_at": "2022-09-27 21:37:51",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f"
     },
     {
-      "added_at": "2022-08-19 01:13:45",
-      "album": {
-        "name": "En Tu Orilla",
-        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205175,
-      "name": "En Tu Orilla",
-      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
-    },
-    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "La Historia Sin Fin",
@@ -455,6 +439,22 @@
       "duration_ms": 297053,
       "name": "Cachito De Galaxia",
       "url": "https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN"
+    },
+    {
+      "added_at": "2022-08-19 01:13:45",
+      "album": {
+        "name": "En Tu Orilla",
+        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205175,
+      "name": "En Tu Orilla",
+      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Tiempos Mejores",
-        "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
       "artists": [
         {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
         }
       ],
-      "duration_ms": 203320,
-      "name": "Amiga - Bonus Track",
-      "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
+        "name": "Tiempos Mejores",
+        "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Amiga - Bonus Track",
+      "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
         "name": "Bah\u00eda Santiago",
         "url": "https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 260508,
       "name": "Globos",
       "url": "https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
+        "name": "Rock en espa\u00f1ol",
+        "url": "https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Como T\u00fa (Magic Music Box)",
+      "url": "https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
         "name": "Brillando",
         "url": "https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 271336,
       "name": "Brillando",
       "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "Rock en espa\u00f1ol",
-        "url": "https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Como T\u00fa (Magic Music Box)",
-      "url": "https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "La Final",
-        "url": "https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "La Final",
-      "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "El Eco de la Nada",
         "url": "https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 184533,
       "name": "Nunca te am\u00e9",
       "url": "https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "La Final",
+        "url": "https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "La Final",
+      "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B"
     },
     {
-      "added_at": "2022-08-05 19:18:55",
-      "album": {
-        "name": "Sigilos y Decretos",
-        "url": "https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11"
-      },
-      "artists": [
-        {
-          "name": "Prismatic Shapes",
-          "url": "https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Acto de Fe",
-      "url": "https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C"
-    },
-    {
       "added_at": "2022-09-02 05:54:02",
       "album": {
         "name": "Vespa 97",
@@ -1199,6 +1183,22 @@
       "duration_ms": 148738,
       "name": "Cuento de Brujas",
       "url": "https://open.spotify.com/track/5MBmJKobRgVwJLScMUmo84"
+    },
+    {
+      "added_at": "2022-08-05 19:18:55",
+      "album": {
+        "name": "Sigilos y Decretos",
+        "url": "https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11"
+      },
+      "artists": [
+        {
+          "name": "Prismatic Shapes",
+          "url": "https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Acto de Fe",
+      "url": "https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C"
     },
     {
       "added_at": "2022-08-19 01:13:45",

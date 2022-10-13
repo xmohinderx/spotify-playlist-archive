@@ -4,7 +4,7 @@
 
 > The highest quality blend\. Cover: Michigander
 
-513 songs - 1 day 7 hr 20 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+515 songs - 1 day 7 hr 26 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [Lightning Of July](https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Lightning Of July](https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG) | 2:56 | 2022-02-04 | 2022-04-09 |
 | [Like Exploding Stones](https://open.spotify.com/track/2JND4SkJHfRpLpN0woStlP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Like Exploding Stones](https://open.spotify.com/album/1FcMgCGoLa3reBCYnNVK0m) | 7:18 | 2022-02-18 | 2022-04-16 |
 | [Like Exploding Stones](https://open.spotify.com/track/3UEmMEcilrUnd589Nhv5ct) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 7:18 | 2022-04-15 | 2022-04-29 |
-| [lipstick](https://open.spotify.com/track/308sxRJm5aLy3tuEGQOeMp) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [DOOMED](https://open.spotify.com/album/16Q1K1wcD7dFBzOADTvdDZ) | 3:23 | 2022-09-23 |  |
+| [lipstick](https://open.spotify.com/track/1mo0KiCkdaVV3i9Jhsu82o) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [DOOMED](https://open.spotify.com/album/2Rvn0NG5DRDxIFGWscilpi) | 3:23 | 2022-10-07 |  |
+| [lipstick](https://open.spotify.com/track/308sxRJm5aLy3tuEGQOeMp) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [DOOMED](https://open.spotify.com/album/16Q1K1wcD7dFBzOADTvdDZ) | 3:23 | 2022-09-23 | 2022-10-13 |
 | [Little Life](https://open.spotify.com/track/4MEEdTG2JEYQ1pgwVIxAy6) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Little Life](https://open.spotify.com/album/1jZf7nWznPC9IsXSpRVFBp) | 3:34 | 2022-05-27 | 2022-07-02 |
 | [Lizard on the Red Brick Wall](https://open.spotify.com/track/2XthjQ4oa8CFTDQKwzOeXt) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Tremblers and Goggles by Rank](https://open.spotify.com/album/0vUYKqCdldnH7i72fZGz7L) | 4:39 | 2022-07-01 | 2022-07-16 |
 | [Lonely Nights](https://open.spotify.com/track/5AzmKbqdNE0waODqrzZFm3) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [Lonely Nights](https://open.spotify.com/album/6TDPDqFhN723c6BMCZcIWV) | 4:01 | 2022-06-10 | 2022-07-23 |
@@ -372,7 +373,8 @@
 | [Sapling \(feat\. Anderson East\)](https://open.spotify.com/track/62dlYm1sz64D1AST1dCLE2) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Sapling \(feat\. Anderson East\)](https://open.spotify.com/album/3hZo4OXyrw0NYHSDGW7FJx) | 3:13 | 2022-01-21 | 2022-04-09 |
 | [Satan](https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I) | 3:16 | 2022-02-11 | 2022-04-09 |
 | [Saturday](https://open.spotify.com/track/0UmzrRke3LyJMiQwGXFKdt) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:10 | 2021-12-10 | 2022-01-15 |
-| [Saturdays](https://open.spotify.com/track/6ZHPwqdzTslbKAYOsWnHCQ) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Saturdays](https://open.spotify.com/album/26yeOGjAAvWuonpIdyDBcO) | 3:07 | 2022-08-19 |  |
+| [Saturdays](https://open.spotify.com/track/4dHNs1k66RG83RAilR3n9W) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 3:07 | 2022-10-07 |  |
+| [Saturdays](https://open.spotify.com/track/6ZHPwqdzTslbKAYOsWnHCQ) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Saturdays](https://open.spotify.com/album/26yeOGjAAvWuonpIdyDBcO) | 3:07 | 2022-08-19 | 2022-10-13 |
 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 | 2022-09-23 |  |
 | [Scared Together](https://open.spotify.com/track/0TiFytLGWmpb19yI0jOe3N) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Scared Together](https://open.spotify.com/album/1ZFett7XcEMcGLIaod85wq) | 3:56 | 2022-07-15 | 2022-07-29 |
 | [Scared Together](https://open.spotify.com/track/1izfiChi4WU4EVXhhRtbcR) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Scared Together](https://open.spotify.com/album/48lWaEKSlFV0VzV0B5PWle) | 3:56 | 2022-07-22 | 2022-08-22 |

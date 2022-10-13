@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,071 likes - 381 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,437 likes - 381 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 15 | [Es hora de acostarse](https://open.spotify.com/track/047f2N27bn7YVyDmjN2CcH) | [Nayara Moore](https://open.spotify.com/artist/38wuntvVRvph542P6Q08bO) | [Es hora de acostarse](https://open.spotify.com/album/7tUywYo0CliiWURhDJVE5M) | 1:44 |
 | 16 | [Allra käraste barn](https://open.spotify.com/track/5arPYmjgjEAn8bOVDya2hb) | [Jan Fridman](https://open.spotify.com/artist/3WiInwbARRXWZX8wXRedJm) | [Allra käraste barn](https://open.spotify.com/album/2hmrhMs5VDj0lfFFOCJMvM) | 1:47 |
 | 17 | [Ensam uti skogen](https://open.spotify.com/track/3tD3QHMN4LfTKYPjGsSkre) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [Ensam uti skogen](https://open.spotify.com/album/1CyZXVJUiv5EubnHNdBYQ1) | 1:24 |
-| 18 | [Sömniga Ögon](https://open.spotify.com/track/6D8blsYLr2kmTvZIJsAzRv) | [Alva Klarström](https://open.spotify.com/artist/0db50QsvuxNWYarvI0sNcd) | [Sömniga Ögon](https://open.spotify.com/album/2nKa6ufE9qHY9f2A1dQpMz) | 2:10 |
+| 18 | [Sömniga Ögon](https://open.spotify.com/track/6D8blsYLr2kmTvZIJsAzRv) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [Sömniga Ögon](https://open.spotify.com/album/2nKa6ufE9qHY9f2A1dQpMz) | 2:10 |
 | 19 | [Row Row Row Your Boat](https://open.spotify.com/track/6kD9wbEUbIweZq45R6cYeD) | [Myla Watson](https://open.spotify.com/artist/4UsO7PCgseF2b8wqm28l6Y) | [Row Row Row Your Boat](https://open.spotify.com/album/3wuB2I7LAWKvwOCgGO016f) | 1:52 |
 | 20 | [Rock A Bye Baby](https://open.spotify.com/track/2sR0CEF0OCF4JfyTOF3okw) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 1:54 |
 | 21 | [Every Dream](https://open.spotify.com/track/3h6YThz5QFWgnF5sBFxDDo) | [Ora Peel](https://open.spotify.com/artist/4jp2rmHOOcHd5CgPVn7pH7) | [Every Dream](https://open.spotify.com/album/4Q28duxPRXhhbX9TcHvN1R) | 1:26 |

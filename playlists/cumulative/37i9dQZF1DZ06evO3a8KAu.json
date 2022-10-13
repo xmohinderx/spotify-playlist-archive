@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164195,
+      "name": "A Qu\u00e9 Le Tiras",
+      "url": "https://open.spotify.com/track/1U8EuDRxTlzBzNZGYUJ28N"
+    },
+    {
+      "album": {
         "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
         "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
       },
@@ -197,7 +215,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 203617,
       "name": "Como No Me Iba a Enamorar - En Vivo",
       "url": "https://open.spotify.com/track/5yd7ST6KDmVLgsDVzGPq7x"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 207980,
       "name": "El Cinco Letras",
       "url": "https://open.spotify.com/track/5U0CiXwCAFUXXsDo7rQXCZ"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 248026,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/5rplIeikQOyojaE1EymFAr"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 252750,
       "name": "Un D\u00eda a La Vez (En Vivo)",
       "url": "https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 229076,
       "name": "Ya Lo Supere",
       "url": "https://open.spotify.com/track/2ypcd1xLqUzpgW70Ap4c24"

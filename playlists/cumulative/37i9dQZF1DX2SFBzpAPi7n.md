@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Peppertones\(페퍼톤스\)\) \(핫한 국내 록음악을 만나보세요!\)
 
-408 songs - 1 day 1 hr 11 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
+409 songs - 1 day 1 hr 15 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,8 @@
 | [sorry](https://open.spotify.com/track/54SuHqxVjZVNDyIUVpSgpJ) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/0HIDsIWC43WiecL3qO7IUP) | 3:35 | 2022-04-12 | 2022-07-22 |
 | [Sorry](https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Sorry](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) | 3:35 | 2022-07-22 |  |
 | [Sound](https://open.spotify.com/track/3NXq3EZ1dcIN0y2gZTqZXq) | [GOMCHI](https://open.spotify.com/artist/7uA35iZSc9vZLATSFqCRua) | [TRUE STORY](https://open.spotify.com/album/4dwceGQaqejgtkZ5hbkcbG) | 4:31 | 2022-06-03 | 2022-06-26 |
-| [Sour](https://open.spotify.com/track/6Ji1Ucu9oFMkRawhEe8a16) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2jmok4chNxn00UBs3gj1xF) | 3:20 | 2022-10-07 |  |
+| [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 | 2022-10-07 |  |
+| [Sour](https://open.spotify.com/track/6Ji1Ucu9oFMkRawhEe8a16) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2jmok4chNxn00UBs3gj1xF) | 3:20 | 2022-10-07 | 2022-10-13 |
 | [Spark](https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:37 | 2022-06-23 |  |
 | [Spring Summer Autumn Winter](https://open.spotify.com/track/57Qgh8evQBroL4BmZP4EsQ) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [the late Kim Hyun\-sik's 30th Anniversary Memorial Album "Making Memories" Part 3](https://open.spotify.com/album/1X8Q3v1vqcbKOw1ALy97xO) | 2:44 | 2022-07-08 | 2022-07-19 |
 | [Spring Weeds](https://open.spotify.com/track/3v5fCdLEFPbxZpjIm5tmrQ) | [Cosmic Abalone](https://open.spotify.com/artist/2GsF3mU0hzhqtnAN6mpbwR) | [Spring Weeds](https://open.spotify.com/album/7JpTawZ0FoVwhHNuHLnYTW) | 4:14 | 2022-05-11 | 2022-05-25 |

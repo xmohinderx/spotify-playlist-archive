@@ -1239,7 +1239,7 @@
     {
       "album": {
         "name": "Silt",
-        "url": "https://open.spotify.com/album/4aeGmrILBa4zvOb3wt2x3G"
+        "url": "https://open.spotify.com/album/0g2aAVujd0puM9wGzW9T8Y"
       },
       "artists": [
         {
@@ -1250,6 +1250,24 @@
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 155371,
+      "name": "Oud Solo",
+      "url": "https://open.spotify.com/track/1VznWczEVtpXeVHXSjaWO2"
+    },
+    {
+      "album": {
+        "name": "Silt",
+        "url": "https://open.spotify.com/album/4aeGmrILBa4zvOb3wt2x3G"
+      },
+      "artists": [
+        {
+          "name": "Alsarah & The Nubatones",
+          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
+        }
+      ],
+      "date_added": "2021-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 155371,
       "name": "Oud Solo",
       "url": "https://open.spotify.com/track/5cgMhpKwX4f1tDK4AV46jJ"

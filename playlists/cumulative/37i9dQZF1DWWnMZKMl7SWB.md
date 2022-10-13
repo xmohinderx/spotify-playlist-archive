@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-270 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
+273 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [1989 \(feat\. Ludwig Kölsch\)](https://open.spotify.com/track/6rrwmDaDa3n7hgQruR3dc1) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Ludwig Kölsch](https://open.spotify.com/artist/067CLGy5KVqspnGEvIWTp8) | [1989](https://open.spotify.com/album/41untqRtFjqcOw1gEdMIop) | 0:59 | 2022-04-12 |  |
 | [1998](https://open.spotify.com/track/0iHwnccPp214om2eGT5gzm) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2ytxqdwQ0Hn9JeQmcIWHuh) | 6:05 | 2022-04-12 | 2022-07-29 |
 | [1998](https://open.spotify.com/track/4SuwafV4Ell3N4unnIzJSI) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 6:07 | 2022-04-12 |  |
-| [1am in nyc](https://open.spotify.com/track/0e53hMy1c4e7bLZh5iRsFi) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:24 | 2022-04-12 |  |
+| [1am in nyc](https://open.spotify.com/track/0e53hMy1c4e7bLZh5iRsFi) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:24 | 2022-04-12 | 2022-10-13 |
+| [1am in nyc](https://open.spotify.com/track/2g9j3O0YzzeqXqliKaqFZD) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/3SEeS3WVZhevxaJKnHe3GU) | 2:24 | 2022-09-09 |  |
 | [1am in nyc](https://open.spotify.com/track/5BIwDSCZB1DVt7CJJn6UAa) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [1am in nyc](https://open.spotify.com/album/3wImABsinR6BGpjMt9XUGn) | 2:24 | 2022-04-12 | 2022-07-29 |
 | [40 Love](https://open.spotify.com/track/3HCoyY47D7po1xC1y7HsBU) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [40 Love](https://open.spotify.com/album/69geYIK32L6nCd4Btqdeh6) | 3:00 | 2022-04-12 |  |
 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 | 2022-04-12 |  |
@@ -81,7 +82,8 @@
 | [Episodes](https://open.spotify.com/track/3tX9hPhKxKBusddqCTWZo4) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Episodes](https://open.spotify.com/album/7mxhPKbg32cdY4LaczJftN) | 3:06 | 2022-04-12 |  |
 | [Episodes](https://open.spotify.com/track/4lIfzxIDvFtWmelRLY4oud) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Episodes](https://open.spotify.com/album/4dlaAUxtiaESKKMCEuKhsp) | 3:06 | 2022-04-12 | 2022-07-29 |
 | [Eremito](https://open.spotify.com/track/4K4tXvsNSkxkmo88sdjdSH) | [Morpheus Two](https://open.spotify.com/artist/1YFyublQissuj82xACfDxj) | [Eremito](https://open.spotify.com/album/1Mjfh4k7pxFSQGFkmmYYr5) | 2:01 | 2022-04-12 |  |
-| [Eros](https://open.spotify.com/track/21j57YHGKnwx2DR3YWnwrC) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [HUMAN](https://open.spotify.com/album/5h5OESkSbpnu5nauqtbFXX) | 4:07 | 2022-04-12 |  |
+| [Eros](https://open.spotify.com/track/21j57YHGKnwx2DR3YWnwrC) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [HUMAN](https://open.spotify.com/album/5h5OESkSbpnu5nauqtbFXX) | 4:07 | 2022-04-12 | 2022-10-13 |
+| [Eros](https://open.spotify.com/track/6ne3tIEFnUcotoQ7VWZ1L8) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [HUMAN](https://open.spotify.com/album/28qORmS5JCCsIEXzXnuzVO) | 4:07 | 2022-09-09 |  |
 | [Evening](https://open.spotify.com/track/0mBaCccsR2N2RvfXYKFeFB) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Evening](https://open.spotify.com/album/11aKnidnBLnSBRZ8L931dG) | 2:22 | 2022-04-12 |  |
 | [Everybody Knows](https://open.spotify.com/track/37OANHO1XQJe3wt04CAIco) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Everybody Knows](https://open.spotify.com/album/0h1DodmcqSkqhkINPyDpLT) | 3:44 | 2022-04-12 |  |
 | [Everything All at Once](https://open.spotify.com/track/2FCu1NM98eXCds1M0ikzWj) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 4:28 | 2022-04-12 |  |
@@ -219,7 +221,8 @@
 | [Sisu](https://open.spotify.com/track/3uQ33vLHvYhUC5EJvd4RuK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisu](https://open.spotify.com/album/5fDif78W0imKj7ZVnsEjGP) | 2:33 | 2022-04-12 |  |
 | [Sleep Sound](https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB) | 6:23 | 2022-04-12 |  |
 | [Sleep Sound](https://open.spotify.com/track/6YPQGcqfMXZbQaz6l30uBJ) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/1AQE19wKZonTmYjOFOJKTJ) | 6:23 | 2022-04-12 | 2022-07-29 |
-| [So Close](https://open.spotify.com/track/00aQGaqM6SFzGfbgKOite0) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [So Close](https://open.spotify.com/album/30665HqOre14GEeakTMDlG) | 4:08 | 2022-04-12 |  |
+| [So Close](https://open.spotify.com/track/00aQGaqM6SFzGfbgKOite0) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [So Close](https://open.spotify.com/album/30665HqOre14GEeakTMDlG) | 4:08 | 2022-04-12 | 2022-10-13 |
+| [So Close](https://open.spotify.com/track/68M7htN4l1TC3mKXoUVKrf) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [So Close](https://open.spotify.com/album/3i2q9STmiRxp7w06YVZJXJ) | 4:08 | 2022-09-09 |  |
 | [Soak It Up](https://open.spotify.com/track/0bVJIp2kMRvZ3GyGjTN2rQ) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [Future Balearica Vol 2 \- A New Wave Of Chill](https://open.spotify.com/album/3dXQarmFLq1BnLniZ798iC) | 4:04 | 2022-04-12 | 2022-07-29 |
 | [Soak It Up](https://open.spotify.com/track/6MOqASyUNmA1Q2I1pcmztK) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [All Night](https://open.spotify.com/album/5y3wpUTsIatqZCQjlE82N5) | 4:11 | 2022-04-12 |  |
 | [Sooner Or Later](https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Sooner Or Later](https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky) | 2:52 | 2022-04-12 |  |

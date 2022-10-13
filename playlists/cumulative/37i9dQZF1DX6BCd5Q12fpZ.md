@@ -4,7 +4,7 @@
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-141 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/1exkrkQUMlN50irx29MF90)
+142 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/1exkrkQUMlN50irx29MF90)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Take Me to Your Heaven](https://open.spotify.com/track/6Phb8GhIzQKi6O7VOGj0QU) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/1oV6KRIP47RM7SdIcDBYm6) | 3:03 | 2022-03-01 | 2022-07-29 |
 | [Takes 2 To Tango](https://open.spotify.com/track/5zxDXyjuvm6EHOvypeZFEP) | [Jari Sillanpää](https://open.spotify.com/artist/6pNVccgyfPKwhKeyPlCPmv) | [Albumi](https://open.spotify.com/album/6zu7ipmaYCsYjzFwwli2zL) | 3:01 | 2020-02-25 | 2022-07-19 |
 | [That's How You Write A Song](https://open.spotify.com/track/4RgfBil6aN3o26M8t3KjGH) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [That's How You Write A Song](https://open.spotify.com/album/6hh8v84gF2oAuglOqX6VxS) | 3:00 | 2020-02-25 | 2022-03-01 |
-| [Think About Things](https://open.spotify.com/track/2iRniYXjMHKmwXqA2jYXP7) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Think About Things](https://open.spotify.com/album/5gEUjiNfaVse6oloI0c6Vt) | 2:53 | 2022-02-28 |  |
+| [Think About Things](https://open.spotify.com/track/2iRniYXjMHKmwXqA2jYXP7) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Think About Things](https://open.spotify.com/album/5gEUjiNfaVse6oloI0c6Vt) | 2:53 | 2022-02-28 | 2022-10-13 |
+| [Think About Things](https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Think About Things](https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs) | 2:53 | 2022-05-16 |  |
 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 | 2020-02-25 |  |
 | [Tick \- Tock \- Eurovision 2014 \- Ukraine](https://open.spotify.com/track/0r9VSL7mGjmb4TwUglCLcr) | [Mariya Yaremchuk](https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5) | [Eurovision Song Contest 2014 Copenhagen](https://open.spotify.com/album/2ChBXM2MXu0Kvmkq9gAbXm) | 3:03 | 2020-02-25 | 2022-07-28 |
 | [Tick Tock](https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56) | [Mariya Yaremchuk](https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5) | [Tick Tock](https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU) | 3:00 | 2022-05-16 |  |

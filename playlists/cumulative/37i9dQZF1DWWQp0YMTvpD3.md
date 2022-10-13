@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-259 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+260 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Lost and sound](https://open.spotify.com/track/4deG32OdrRCNIRRqlltdUJ) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Lost and sound](https://open.spotify.com/album/7bkBU9Rvrt4dpy3juyV3bU) | 2:58 | 2022-08-19 |  |
 | [Lost Boys](https://open.spotify.com/track/4pCD8UePjCSLPBZMiWbV2R) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Lost Boys](https://open.spotify.com/album/3HsiVf90EsNt1Bjk0KAcH1) | 3:17 | 2022-08-12 |  |
 | [Love and Fear](https://open.spotify.com/track/2yZLrdAVKZXS6dhWtnheXw) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Love and Fear](https://open.spotify.com/album/1iGrF9KFH0z04I75umd88i) | 2:13 | 2019-10-04 | 2022-02-12 |
-| [Low \- Kaskade Remix](https://open.spotify.com/track/2Vrg4Ar4v8KECMdwck1DRl) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:40 | 2022-02-11 |  |
+| [Low \- Kaskade Remix](https://open.spotify.com/track/2Vrg4Ar4v8KECMdwck1DRl) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:40 | 2022-02-11 | 2022-10-13 |
+| [Low \- Kaskade Remix](https://open.spotify.com/track/30WY6XV23tYQ3yBXGEgGcn) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/7e1njN30eJ5iKxl9e96XOK) | 5:40 | 2022-10-07 |  |
 | [low grind](https://open.spotify.com/track/266jnj5ORkLKuBiPW75i7o) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [low grind](https://open.spotify.com/album/3TQY6YquTwex59VviOneWt) | 2:30 | 2022-10-07 |  |
 | [Low Life](https://open.spotify.com/track/28BEwylPqT4eAmVYbhC3iL) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Low Life](https://open.spotify.com/album/1BctYb6UkgBUGhEKAJ5JyD) | 2:59 | 2019-10-04 | 2022-02-12 |
 | [Lujo](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI) | [DJ Duboise](https://open.spotify.com/artist/4rrvVP1Aeax1bAcLYpCBCN) | [Lujo](https://open.spotify.com/album/1oaJFXlAaPf1seL59yGGb7) | 2:37 | 2022-02-11 |  |

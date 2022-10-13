@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-585 songs - 1 day 10 hr 58 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
+589 songs - 1 day 11 hr 12 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Addicted To You](https://open.spotify.com/track/4eDYMhIin1pSLIG96f1aD0) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 2:28 | 2022-05-11 |  |
 | [Adore You](https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 4:38 | 2021-08-10 |  |
 | [AF1s](https://open.spotify.com/track/0ppSBkcjCsfVCXsAPYDAk0) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping With Roses II](https://open.spotify.com/album/5Vd7LPk8dDsGv5xWnfNhKy) | 3:04 | 2021-08-10 | 2022-07-29 |
-| [AF1s](https://open.spotify.com/track/13gJwFhWZKRipx85hB0M9J) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping with Roses II](https://open.spotify.com/album/5zjYT5H4GNuVnSKZ9dh4Tm) | 3:04 | 2022-05-11 |  |
+| [AF1s](https://open.spotify.com/track/13gJwFhWZKRipx85hB0M9J) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping with Roses II](https://open.spotify.com/album/5zjYT5H4GNuVnSKZ9dh4Tm) | 3:04 | 2022-05-11 | 2022-10-13 |
+| [AF1s](https://open.spotify.com/track/7hXz7dzgQYaBI0pzgGPoMk) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping with Roses II](https://open.spotify.com/album/3fSiqZlpHGdBi47vg1SV7O) | 3:04 | 2022-05-11 |  |
 | [After the Afterparty \(feat\. Lil Yachty\)](https://open.spotify.com/track/0y8Wf6ltWpGCpgqVa21QNX) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [After the Afterparty \(feat\. Lil Yachty\)](https://open.spotify.com/album/4Txd0wc4WAgnoxXx0SLAlw) | 3:39 | 2021-08-10 |  |
 | [Aftergold \(feat\. Tove Styrke\)](https://open.spotify.com/track/175TH8biBcVV8j4y2NqGTP) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Aftergold](https://open.spotify.com/album/5yZcimhwF8JUD9Hr0OsZza) | 3:11 | 2021-08-10 | 2022-07-29 |
 | [Aftergold \(feat\. Tove Styrke\)](https://open.spotify.com/track/4IL7XG68Hh95OORQSequaq) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Aftergold](https://open.spotify.com/album/56fTcEqPNKUoZOeP708zfI) | 3:11 | 2022-05-11 |  |
@@ -116,7 +117,8 @@
 | [Clown](https://open.spotify.com/track/7JogKto8cNNBqz3dZERgDh) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 3:41 | 2021-08-10 | 2022-07-29 |
 | [Clown](https://open.spotify.com/track/0EGVOnw876hry5JOK0ZaeV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events](https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz) | 3:41 | 2022-05-11 |  |
 | [Colder](https://open.spotify.com/track/3uHRN9pGmNPI1ftbmk35Qu) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 3:08 | 2021-08-10 |  |
-| [Coloring](https://open.spotify.com/track/6OtjKr7zn85Krff67wJuxJ) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Mellow Drama](https://open.spotify.com/album/2u0dSRYohsq8lCCZejHKxx) | 3:39 | 2021-08-10 |  |
+| [Coloring](https://open.spotify.com/track/6OtjKr7zn85Krff67wJuxJ) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Mellow Drama](https://open.spotify.com/album/2u0dSRYohsq8lCCZejHKxx) | 3:39 | 2021-08-10 | 2022-10-13 |
+| [Coloring](https://open.spotify.com/track/7x7BktEdkuhkMAS97GDYOZ) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Mellow Drama](https://open.spotify.com/album/1VHxwWVC3es5fdxgeLaB7h) | 3:39 | 2022-05-11 |  |
 | [Colors](https://open.spotify.com/track/1TnUURhehaoMWKAqQtirm6) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS](https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO) | 4:09 | 2021-08-10 |  |
 | [Come Closer](https://open.spotify.com/track/78grBouzwHBGAXf7wkffwq) | [Lou and Matthew](https://open.spotify.com/artist/43Ij4TGofSYrrATCUydG6Z) | [Come Closer](https://open.spotify.com/album/4bx5gP3WA2wpkpE5zUrQZp) | 3:40 | 2022-04-08 |  |
 | [Cruel \(feat\. ZAYN\)](https://open.spotify.com/track/0B2RttXEiyXsMeQ7mMP3EI) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Cruel \(feat\. ZAYN\)](https://open.spotify.com/album/0foMG0HqauruzIFk43eSzG) | 3:48 | 2021-08-10 |  |
@@ -203,7 +205,8 @@
 | [Graffiti](https://open.spotify.com/track/0SOeDDPvWi1gBxwOwIhIw1) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:38 | 2022-05-11 |  |
 | [Graffiti](https://open.spotify.com/track/29izGj5WZ39AU3p4ilkFcF) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/7EchhykwUf4ACDDABEDa7o) | 3:38 | 2022-05-11 | 2022-09-15 |
 | [Graffiti](https://open.spotify.com/track/2tzs8aV8k9xnbAiaHDn4YP) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF) | 3:38 | 2021-08-10 | 2022-10-03 |
-| [Gravity](https://open.spotify.com/track/4eCe46kZbdcdHeWhjZww8I) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Gravity](https://open.spotify.com/album/2F86S51hRU8GpwISZcsx2Z) | 3:34 | 2022-05-11 |  |
+| [Gravity](https://open.spotify.com/track/3cG8pjohOVCdKfunOtw1kD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Gravity](https://open.spotify.com/album/1QL34MFii1hb1h1N5zmwvo) | 3:34 | 2022-05-11 |  |
+| [Gravity](https://open.spotify.com/track/4eCe46kZbdcdHeWhjZww8I) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Gravity](https://open.spotify.com/album/2F86S51hRU8GpwISZcsx2Z) | 3:34 | 2022-05-11 | 2022-10-13 |
 | [Gravity](https://open.spotify.com/track/6egBojmNB8FSSgmxsBUNMg) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Gravity](https://open.spotify.com/album/4jbJAaML36E3R5RFTORxnN) | 3:34 | 2021-08-10 | 2022-07-29 |
 | [Growing Pains](https://open.spotify.com/track/003eoIwxETJujVWmNFMoZy) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Growing Pains](https://open.spotify.com/album/3mzHuQmDLVuecodQNKUd0T) | 3:13 | 2021-08-10 |  |
 | [GRRRLS](https://open.spotify.com/track/5f6JnxY2aqNdF3qFIPozUd) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOLUME I](https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO) | 3:48 | 2021-08-10 |  |
@@ -339,7 +342,8 @@
 | [Miracle](https://open.spotify.com/track/6vgqv2UHRvXopkV9RbG7Wq) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Miracle](https://open.spotify.com/album/7JE7QEhrbXVV8VjR4P7fk9) | 3:08 | 2021-08-10 | 2022-10-03 |
 | [Misery](https://open.spotify.com/track/6NJwUozBz3XVoDVzOlvFbn) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:26 | 2022-05-11 |  |
 | [Misery](https://open.spotify.com/track/7AjveaJTT8WQn5UTEgvH1E) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:26 | 2021-08-10 | 2022-07-29 |
-| [Miss You](https://open.spotify.com/track/0W5uDMhD0LwNu0ibe9MJ3Y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Miss You](https://open.spotify.com/album/6nuULOa2RTLwAFspmzc991) | 3:17 | 2021-08-10 |  |
+| [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 | 2022-05-11 |  |
+| [Miss You](https://open.spotify.com/track/0W5uDMhD0LwNu0ibe9MJ3Y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Miss You](https://open.spotify.com/album/6nuULOa2RTLwAFspmzc991) | 3:17 | 2021-08-10 | 2022-10-13 |
 | [Mistakes](https://open.spotify.com/track/0sZfuG1rArPovx9CdZ40vZ) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Mistakes](https://open.spotify.com/album/7rQtGumGC7P93t9Z1gUnjd) | 3:24 | 2021-08-10 | 2022-07-29 |
 | [Mistakes](https://open.spotify.com/track/0yvpLNRWeGarNOcQzxxDw8) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sway](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) | 3:25 | 2022-05-11 |  |
 | [Moonlight](https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 3:22 | 2021-11-10 |  |

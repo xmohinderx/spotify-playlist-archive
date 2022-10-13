@@ -150,7 +150,7 @@
 | [봄이 좋냐?? What The Spring??](https://open.spotify.com/track/5gkB40BDQE1CvtXpF6fcPm) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [봄이 좋냐?? What The Spring??](https://open.spotify.com/album/0u4WFVJDJh5dbNYgOgbABY) | 3:25 | 2022-05-11 |  |
 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 | 2022-05-11 |  |
 | [예뻐](https://open.spotify.com/track/1CCuIPrykG6yC6XTz4S6Rn) | [Joonand](https://open.spotify.com/artist/3toxwqi4ajBu4gcnZebBAT), [Jihyeokwon](https://open.spotify.com/artist/0TD6GU8HRvlHAIMP7bPDRs) | [With](https://open.spotify.com/album/3vOKd7vvVvcYZhhaFvT8Fc) | 3:35 | 2022-05-11 | 2022-07-21 |
-| [원 Wish](https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [원 Wish](https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7) | 3:12 | 2022-10-10 |  |
+| [원 Wish](https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [원 Wish](https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7) | 3:11 | 2022-10-10 |  |
 | [이미 난 행복한 사람](https://open.spotify.com/track/1OztdNXWqPxXemRYdXCnCu) | [Nadle](https://open.spotify.com/artist/4J3ruXeNKsZ11VHdlCfkCd) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 33](https://open.spotify.com/album/4b2tpuAJCGzQI3quBsGkxB) | 5:01 | 2022-05-11 | 2022-07-28 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

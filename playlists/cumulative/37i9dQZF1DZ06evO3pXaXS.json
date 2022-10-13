@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 204000,
       "name": "Be My Girl - Sally",
       "url": "https://open.spotify.com/track/4cHObLf8gg0XIvi7AsUPuJ"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 173600,
       "name": "Behind My Camel",
       "url": "https://open.spotify.com/track/3ubCAVpBwpNiFpeOShjNTt"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 171973,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/7HjipY3Vy2HAN11D2juKHT"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 176973,
       "name": "On Any Other Day",
       "url": "https://open.spotify.com/track/6rN4PWNTD8AY1mfLslqrQG"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "Reggatta De Blanc",
       "url": "https://open.spotify.com/track/2EEp2vTGSRDSLHWUF80EZZ"
@@ -725,6 +725,24 @@
       "duration_ms": 186160,
       "name": "Visions Of The Night",
       "url": "https://open.spotify.com/track/33Wh8esQvnlw5Zex1xcC4z"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233253,
+      "name": "Voices Inside My Head",
+      "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
     },
     {
       "album": {

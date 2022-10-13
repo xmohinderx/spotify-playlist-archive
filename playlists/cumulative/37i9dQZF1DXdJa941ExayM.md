@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: WHOKILLEDXIX
 
-166 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+170 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [dedd barchetta](https://open.spotify.com/track/6APgOMkG1jkeFZD3rfCpvp) | [Sugs](https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb) | [dedd barchetta](https://open.spotify.com/album/1DOxrwCYqfxD5MRNRknxWY) | 1:20 | 2022-08-25 |  |
 | [Doorman](https://open.spotify.com/track/6bTAz3pg5ywBeZHCQoleJB) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Nothing Great About Britain](https://open.spotify.com/album/5fx2Hde8xw2jWPtUKXA73X) | 3:04 | 2022-08-28 |  |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-04-25 |  |
-| [Drive in Mind](https://open.spotify.com/track/4nDfSnWHRBDwoeF4YClv09) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Drive in Mind](https://open.spotify.com/album/4fMQjWGXHrUDH7WgomBq6s) | 4:03 | 2021-12-20 |  |
+| [Drive in Mind](https://open.spotify.com/track/4nDfSnWHRBDwoeF4YClv09) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Drive in Mind](https://open.spotify.com/album/4fMQjWGXHrUDH7WgomBq6s) | 4:03 | 2021-12-20 | 2022-10-13 |
+| [Drive in Mind](https://open.spotify.com/track/5VhkquQD3tsUvWGWYD80yf) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Drive in Mind](https://open.spotify.com/album/2yCxWTAQ6QhykPHyVshDhG) | 4:03 | 2022-09-29 |  |
 | [dwell on the guilt of saving myself](https://open.spotify.com/track/3FlDAl8qo24cEpAE3MHIC3) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [dwell on the guilt of saving myself](https://open.spotify.com/album/4A1cgR7WJ44YKY4ffQXyyU) | 2:53 | 2021-12-20 | 2022-08-29 |
 | [El Dorado](https://open.spotify.com/track/1G7gjVi7RTnivq0IhKpPfi) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [El Dorado](https://open.spotify.com/album/35sMewPvkGqx8fwPlN7KQP) | 3:55 | 2022-04-04 | 2022-08-19 |
 | [END CREDITS!](https://open.spotify.com/track/5CPC6pA58SIDKwyje76vBR) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 1:55 | 2022-08-28 |  |
@@ -90,7 +91,8 @@
 | [It's Permanent](https://open.spotify.com/track/7xb85Q1Wy969N6nkcJRWqX) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [It's Permanent](https://open.spotify.com/album/1SUPtafQuEviIXihO8mQmt) | 3:32 | 2021-12-20 |  |
 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 | 2021-12-20 |  |
 | [Katrina](https://open.spotify.com/track/7yrjPMQ4uRjV7cRYQczK2J) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:19 | 2021-12-20 | 2022-08-26 |
-| [Leaders](https://open.spotify.com/track/5Fm8gd5jAXS6mglZVijq3P) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/4DOlIxXtWJbnvWuLpbQbv4) | 2:28 | 2022-08-18 |  |
+| [Leaders](https://open.spotify.com/track/4vABLb1SmE92opkxAyHSOS) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd) | 2:28 | 2022-09-29 |  |
+| [Leaders](https://open.spotify.com/track/5Fm8gd5jAXS6mglZVijq3P) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/4DOlIxXtWJbnvWuLpbQbv4) | 2:28 | 2022-08-18 | 2022-10-13 |
 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-08-25 |  |
 | [Let's Go](https://open.spotify.com/track/0FGRPpBeQxkGEpnIChlnf8) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Let's Go](https://open.spotify.com/album/09PcwXJ6Kdt2M6ezSCYnQb) | 2:22 | 2021-12-20 | 2022-08-26 |
 | [Lonely Army](https://open.spotify.com/track/7fIETzt6S1vL8UJ6xeTqVl) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Lonely Army](https://open.spotify.com/album/0DWeHnaTkA53xK43mJKfu8) | 2:55 | 2021-12-20 |  |
@@ -111,7 +113,8 @@
 | [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 | 2022-08-05 | 2022-10-09 |
 | [Monkey Mind](https://open.spotify.com/track/7qvwnde6QuoYGd0xUcevIQ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Bellevue](https://open.spotify.com/album/7nGrRTsbZWCSCOmziwf5Sy) | 2:18 | 2022-09-29 |  |
 | [MOTHERFUCKER](https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [MOTHERFUCKER](https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt) | 1:02 | 2022-08-25 |  |
-| [Multitudes](https://open.spotify.com/track/3TAXiOL3dqNo4YkrdyN73S) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Multitudes](https://open.spotify.com/album/2o6CaxhzQScrGCSkIZ0N6q) | 4:35 | 2022-06-15 |  |
+| [Multitudes](https://open.spotify.com/track/3TAXiOL3dqNo4YkrdyN73S) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Multitudes](https://open.spotify.com/album/2o6CaxhzQScrGCSkIZ0N6q) | 4:35 | 2022-06-15 | 2022-10-13 |
+| [Multitudes](https://open.spotify.com/track/3rue5FCOZVURcIONrQ9YJQ) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Time Bend and Break The Bower](https://open.spotify.com/album/7c6SzIehKQl4m37Saqo3NS) | 4:35 | 2022-09-29 |  |
 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 | 2021-12-20 |  |
 | [NEW DREAM](https://open.spotify.com/track/78qp11wxzbx1rHB0sNavVu) | [V.RI](https://open.spotify.com/artist/0S4IQu9l1tbbntMQGfwDjA) | [NEW DREAM](https://open.spotify.com/album/0cRB7PNPx4kEPkq4QMGiYJ) | 3:28 | 2022-03-18 | 2022-08-26 |
 | [New Slang](https://open.spotify.com/track/1sRjSllwLDh0xHgZCywXmf) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 4:15 | 2022-07-07 |  |
@@ -169,7 +172,8 @@
 | [walking around with no hands](https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 2:01 | 2022-02-04 |  |
 | [We're All Totally Fucked](https://open.spotify.com/track/6FZk6enwNujep15sIUpZeD) | [Bicurious](https://open.spotify.com/artist/3hg0uAz0P2tHrvqqHU4zzh) | [We're All Totally Fucked](https://open.spotify.com/album/2uBQKNHeZXtrsFh2w58oPy) | 5:17 | 2021-12-20 |  |
 | [What Do You Stand For](https://open.spotify.com/track/0C2BL4ZwEl2iQmQ55aIhU7) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again](https://open.spotify.com/album/3RSVfuDghNNc8LKgqnw7h2) | 3:45 | 2021-12-20 | 2022-07-29 |
-| [What Do You Stand For](https://open.spotify.com/track/3jR2alPjGORDdwlnRMqa4h) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again \(Extended Edition\)](https://open.spotify.com/album/28NC8KTLC7KsI4ra5bW3kT) | 3:45 | 2022-07-07 |  |
+| [What Do You Stand For](https://open.spotify.com/track/3jR2alPjGORDdwlnRMqa4h) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again \(Extended Edition\)](https://open.spotify.com/album/28NC8KTLC7KsI4ra5bW3kT) | 3:45 | 2022-07-07 | 2022-10-13 |
+| [What Do You Stand For](https://open.spotify.com/track/6AnZvbILflah5oY0yqMiPN) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again \(Extended Edition\)](https://open.spotify.com/album/5VkOPCk6b05wEczaRCnH8y) | 3:45 | 2022-09-29 |  |
 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 | 2022-04-25 |  |
 | [Witch Slap \(IOU\)](https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Witch Slap \(IOU\)](https://open.spotify.com/album/5bty0rYDoqIxGohu3ifmuA) | 2:15 | 2021-12-20 | 2022-08-29 |
 | [you can't blame me](https://open.spotify.com/track/25qPKjzyzuWiXGmjLerWhU) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:05 | 2022-08-25 |  |

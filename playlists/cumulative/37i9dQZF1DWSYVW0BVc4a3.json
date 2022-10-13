@@ -2813,7 +2813,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 244624,
       "name": "See Em' Dancing",
       "url": "https://open.spotify.com/track/1mBzumW8DcPEqqJkClUXMN"
@@ -3169,6 +3169,32 @@
     {
       "album": {
         "name": "Take Me High",
+        "url": "https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt"
+    },
+    {
+      "album": {
+        "name": "Take Me High",
         "url": "https://open.spotify.com/album/7B1o7ADGNrli4kqnxTH4fL"
       },
       "artists": [
@@ -3187,7 +3213,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 255000,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/4gjN40eaGDu02UhcIB0mVi"
@@ -3257,6 +3283,28 @@
       "duration_ms": 219375,
       "name": "Tell You What It Is - Shermanology SoulTec Mix",
       "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
+    },
+    {
+      "album": {
+        "name": "Tetema",
+        "url": "https://open.spotify.com/album/5XMlPh4QACA389AplduJ2w"
+      },
+      "artists": [
+        {
+          "name": "The Gabe Concept",
+          "url": "https://open.spotify.com/artist/3EMVE8FNrFISPFosi3Oevr"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202622,
+      "name": "Tetema",
+      "url": "https://open.spotify.com/track/3f9vaq5dOpkvzLMWsarDFF"
     },
     {
       "album": {

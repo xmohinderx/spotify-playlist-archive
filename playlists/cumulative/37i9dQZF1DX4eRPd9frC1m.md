@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-245 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/5pR45Pbz8RKqZerXlydxiz)
+246 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/5pR45Pbz8RKqZerXlydxiz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Muscleville](https://open.spotify.com/track/0mL9QPL0XnecyPgnbnTKh0) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [MUSCLEVILLE EP](https://open.spotify.com/album/75UPb2lnvwv4Qp83kESQKV) | 2:23 | 2021-11-19 | 2022-01-08 |
 | [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 | 2022-08-12 |  |
 | [Necromancer](https://open.spotify.com/track/6rEDjNSmWMZj6sm1MPJ4kv) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Necromancer](https://open.spotify.com/album/5YVDOYztnp9fzagSgCyBBn) | 3:13 | 2021-11-19 | 2022-01-08 |
+| [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 | 2022-10-07 |  |
 | [NEW WIP](https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [NEW WIP](https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn) | 3:06 | 2022-04-22 |  |
 | [NGMF](https://open.spotify.com/track/2iOz9TpTJgR3ZBIQ0Pas2g) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [NGMF](https://open.spotify.com/album/5eOjDPcOskmMG3syjwodSN) | 2:42 | 2021-11-19 | 2022-07-28 |
 | [No Brakes](https://open.spotify.com/track/2rNt0cXjLDLefeCItQrFwG) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Brakes](https://open.spotify.com/album/7o60ves6sdc3vr5LuUpK3Y) | 2:41 | 2022-02-11 | 2022-05-10 |
@@ -232,7 +233,7 @@
 | [Trampoline \- Jauz Remix](https://open.spotify.com/track/68Rnp6Cev6ESnEwlpQI2Ll) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Trampoline \(Jauz Remix\)](https://open.spotify.com/album/0zEgfSceFqevzVPCzcQDb0) | 3:56 | 2021-11-19 | 2022-06-04 |
 | [Trap Anthem](https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Trap Anthem](https://open.spotify.com/album/2w12DfrAjOlweziwmo0W1P) | 2:27 | 2021-11-19 | 2022-08-30 |
 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 | 2021-11-19 |  |
-| [Trials \(feat\. IDK\)](https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Trials \(feat\. IDK\)](https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg) | 2:13 | 2022-08-05 |  |
+| [Trials \(feat\. IDK\)](https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Trials \(feat\. IDK\)](https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg) | 2:13 | 2022-08-05 | 2022-10-13 |
 | [Turn Up](https://open.spotify.com/track/0oyutiBE89NpGtAdo3cA5Y) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Turn Up](https://open.spotify.com/album/7Ig6Dn3DjDgJC9dAk2FJ8M) | 3:00 | 2021-11-19 | 2022-01-08 |
 | [Two Glocks](https://open.spotify.com/track/5mLIHqYIRgdcXxvFdjCH6q) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [Two Glocks](https://open.spotify.com/album/5FB0h5ATYjvJ8idpSD1Lpb) | 2:48 | 2021-11-19 | 2022-01-08 |
 | [U Nasty](https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [U Nasty](https://open.spotify.com/album/4u4e0Wr2F95vEQElrmpw8a) | 3:11 | 2021-11-19 | 2022-01-08 |

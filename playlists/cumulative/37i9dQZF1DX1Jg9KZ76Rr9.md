@@ -4,7 +4,7 @@
 
 > A look back at some of the most impactful songs of 2017.
 
-122 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/3pXmTZBNpu2uGfP0OT5yh6)
+125 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/3pXmTZBNpu2uGfP0OT5yh6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,13 +57,15 @@
 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 | 2017-12-09 |  |
 | [In Bloom](https://open.spotify.com/track/6WoyghnMAvDDRbZfFbpwEo) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/6MiQ7JVsKlOBJFJzWQZ2Kz) | 3:38 | 2017-12-09 | 2022-07-29 |
 | [It's A Trip!](https://open.spotify.com/track/6IY3cC281mz9q0bViUEldz) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Content](https://open.spotify.com/album/5RKLyPZ4P8WhO1uxDMXGe7) | 3:03 | 2017-12-09 |  |
-| [J\-Boy](https://open.spotify.com/track/7fu8iCAdNuV5HLkuZVHLZP) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4VlRZ0j4hEJquxPDIzFVuX) | 4:07 | 2017-12-09 |  |
+| [J\-Boy](https://open.spotify.com/track/4Bu0XuiecALTHX3YWHOLml) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 4:07 | 2017-12-09 |  |
+| [J\-Boy](https://open.spotify.com/track/7fu8iCAdNuV5HLkuZVHLZP) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4VlRZ0j4hEJquxPDIzFVuX) | 4:07 | 2017-12-09 | 2022-10-13 |
 | [J\-Boy](https://open.spotify.com/track/2eoZr92GWsqCaYkkCGWuxl) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/08rZ2mw2qwx60vOJtozqbh) | 4:08 | 2017-12-09 | 2022-07-29 |
 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 | 2017-12-09 |  |
 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX) | 3:56 | 2017-12-09 |  |
 | [Jungle \- Radio Edit](https://open.spotify.com/track/7Jg2M1wTxqyIZEfZgRpHz7) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle](https://open.spotify.com/album/3H6WSHcSwJCvl0YSL7aoJb) | 3:56 | 2017-12-09 | 2022-07-29 |
 | [KILL4ME](https://open.spotify.com/track/6UIo6YbaXihIZ72MWUpcGb) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Heaven Upside Down](https://open.spotify.com/album/6kbfR3NJmBGlgsTPAYmezz) | 3:59 | 2017-12-09 |  |
-| [King](https://open.spotify.com/track/4M6HNRHyV2MykKp7gKQcyD) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [King](https://open.spotify.com/album/0Y33Ki8fZCKljrmweGgISm) | 3:12 | 2017-12-09 |  |
+| [King](https://open.spotify.com/track/4M6HNRHyV2MykKp7gKQcyD) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [King](https://open.spotify.com/album/0Y33Ki8fZCKljrmweGgISm) | 3:12 | 2017-12-09 | 2022-10-13 |
+| [King](https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [King](https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ) | 3:12 | 2017-12-09 |  |
 | [Lay It on Me](https://open.spotify.com/track/7MUNNBJKYo3cdokp06wEOB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Lay It on Me](https://open.spotify.com/album/47NwFzyKpP2MlT7lRMt0kY) | 3:34 | 2017-12-09 | 2022-07-29 |
 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 | 2017-12-09 |  |
 | [Legendary](https://open.spotify.com/track/5ny146QcjwyWUUhJDLv3Ch) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \- EP](https://open.spotify.com/album/1ewy3UCj11RI5NpR5cYbCS) | 3:50 | 2017-12-09 |  |
@@ -72,7 +74,8 @@
 | [Little One](https://open.spotify.com/track/5y1jgbDNgTfxoWXv3FhH2Q) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 4:01 | 2017-12-09 |  |
 | [Living On The 110](https://open.spotify.com/track/5x6MLzwruLYyUiaeYct5Io) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X) | 3:45 | 2017-12-09 |  |
 | [Love Is Mystical](https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:34 | 2017-12-09 |  |
-| [Lullaby](https://open.spotify.com/track/7ASF3rcQSjd8bK9jmSTC2d) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Modern Ruin](https://open.spotify.com/album/50kEeuhjaYhaYPge6pXlG8) | 3:14 | 2017-12-09 |  |
+| [Lullaby](https://open.spotify.com/track/4GVECHfy7uEukej163TsnA) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Modern Ruin](https://open.spotify.com/album/76ZaWI0Q5lVqtv67P8BsGE) | 3:14 | 2017-12-09 |  |
+| [Lullaby](https://open.spotify.com/track/7ASF3rcQSjd8bK9jmSTC2d) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Modern Ruin](https://open.spotify.com/album/50kEeuhjaYhaYPge6pXlG8) | 3:14 | 2017-12-09 | 2022-10-13 |
 | [Make War](https://open.spotify.com/track/6GdEIwsXvpfda24vliflHo) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Make War](https://open.spotify.com/album/32l9F8JtIkqdoWKXULnU6s) | 3:23 | 2017-12-09 |  |
 | [Monster](https://open.spotify.com/track/0criiQKIY1hyU0lRbVhZ8L) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 4:16 | 2017-12-09 |  |
 | [No Good](https://open.spotify.com/track/0gnS1k4dyGPuD3TtHFaCD8) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [VINYL: Music From The HBO® Original Series \- Vol\. 1](https://open.spotify.com/album/3K6FbYh9Hlet8XXryMuqPc) | 3:55 | 2017-12-09 |  |

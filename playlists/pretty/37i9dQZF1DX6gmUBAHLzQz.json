@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. \u30c8\u30c3\u30d7\u30a2\u30a4\u30c9\u30eb\u3092\u76ee\u6307\u3059\u5c11\u5973\u9054\u306e\u7269\u8a9e\u3001<a href=\"http://www.aikatsu.net/01/\">\u30a2\u30a4\u30ab\u30c4\uff01</a>\u306e\u714c\u3081\u304f\u4e16\u754c\u3078\u3002(C)BNP/BANDAI, DENTSU, TV TOKYO",
-  "num_followers": 22547,
+  "num_followers": 22549,
   "original_name": "Let's Aikatsu! -\u30a2\u30a4\u30ab\u30c4-\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1MjIxNiwwMDAwMDAwMDgwMjQzOTdhYWQxZWM1OTc3NjE5MjVlN2I4N2ExNjFl",
+  "snapshot_id": "MTY1ODg1MjIxNiwwMDAwMDAwMGE1NDRhYmFhYmI1MGJkMGZkYmI4NTU1ZTE2ZTRlNTI1",
   "tracks": [
     {
       "added_at": "2022-07-26 16:16:56",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
+        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
+      },
+      "artists": [
+        {
+          "name": "\u308a\u3059\u3053\u30fb\u308f\u304b\u30fb\u3075\u3046\u308a\u30fb\u3082\u306a from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/5nB4kgX7mJ2qOJRV8hFUyE"
+        }
+      ],
+      "duration_ms": 335213,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/7G2iYOPtfwnGKXsx04PkX7"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS7",
         "url": "https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 242346,
       "name": "\u6c38\u9060\u306e\u706f",
       "url": "https://open.spotify.com/track/5wRlmy4oQOTcgfrq0X2mT4"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
-        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
-      },
-      "artists": [
-        {
-          "name": "\u308a\u3059\u3053\u30fb\u308f\u304b\u30fb\u3075\u3046\u308a\u30fb\u3082\u306a from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/5nB4kgX7mJ2qOJRV8hFUyE"
-        }
-      ],
-      "duration_ms": 335213,
-      "name": "Precious",
-      "url": "https://open.spotify.com/track/7G2iYOPtfwnGKXsx04PkX7"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -595,8 +595,8 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS5",
-        "url": "https://open.spotify.com/album/6IgXVSugxE7VjOSLgqG7hm"
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
+        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6"
         }
       ],
-      "duration_ms": 259240,
-      "name": "Let's \u30a2\u30a4\u30ab\u30c4!",
-      "url": "https://open.spotify.com/track/4vtV5Ash3WtUceanVKC20V"
+      "duration_ms": 257760,
+      "name": "Good morning my dream",
+      "url": "https://open.spotify.com/track/1JLuoOB62CtEY5GFyE8VyA"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -752,19 +752,19 @@
       },
       "artists": [
         {
-          "name": "\u306a\u306a\u305b from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/6OeDzCFshleoTNw9hdNIeO"
+          "name": "\u308b\u304b from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/0dHXAbKDjNHYkHKqJgXapA"
         }
       ],
-      "duration_ms": 239800,
-      "name": "MY SHOW TIME!",
-      "url": "https://open.spotify.com/track/7mK90pF2aJ0VQG8s1wjacm"
+      "duration_ms": 276666,
+      "name": "Blooming\u25bdBlooming",
+      "url": "https://open.spotify.com/track/141Pt7oFoPnfOFslHSbT0D"
     },
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
-        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS5",
+        "url": "https://open.spotify.com/album/6IgXVSugxE7VjOSLgqG7hm"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6"
         }
       ],
-      "duration_ms": 257760,
-      "name": "Good morning my dream",
-      "url": "https://open.spotify.com/track/1JLuoOB62CtEY5GFyE8VyA"
+      "duration_ms": 259240,
+      "name": "Let's \u30a2\u30a4\u30ab\u30c4!",
+      "url": "https://open.spotify.com/track/4vtV5Ash3WtUceanVKC20V"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -816,13 +816,13 @@
       },
       "artists": [
         {
-          "name": "\u308b\u304b from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/0dHXAbKDjNHYkHKqJgXapA"
+          "name": "\u306a\u306a\u305b from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/6OeDzCFshleoTNw9hdNIeO"
         }
       ],
-      "duration_ms": 276666,
-      "name": "Blooming\u25bdBlooming",
-      "url": "https://open.spotify.com/track/141Pt7oFoPnfOFslHSbT0D"
+      "duration_ms": 239800,
+      "name": "MY SHOW TIME!",
+      "url": "https://open.spotify.com/track/7mK90pF2aJ0VQG8s1wjacm"
     },
     {
       "added_at": "2022-07-26 16:16:56",

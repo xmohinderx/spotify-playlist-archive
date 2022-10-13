@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,146 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,144 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 36 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
 | 37 | [Hunger](https://open.spotify.com/track/0ADe9aTzgOVhEMAY80kUbp) | [Tully John & Liza\-Jane](https://open.spotify.com/artist/1hENmUFTXkckLPb7sF16nV) | [Hunger](https://open.spotify.com/album/6wXOGyDnQXfxv0v8PZfM0q) | 4:08 |
 | 38 | [Feel Like Clarity](https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb) | [Gaudion](https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI) | [Feel Like Clarity](https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk) | 3:08 |
-| 39 | [After the Sun](https://open.spotify.com/track/3VqkvcP3j3kSr1FsKwctBp) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/7D8yJ8artbOzMvz5Q2HZXX) | 3:33 |
+| 39 | [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 |
 | 40 | [Catch Me](https://open.spotify.com/track/69iZHDveavg2RvuhevpsjW) | [Robbie Miller](https://open.spotify.com/artist/0lkWoQLsP4QWkqefjR9IH1) | [Little Love](https://open.spotify.com/album/0Fm7qXRFQORyiAXCMOecjs) | 2:57 |
 | 41 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
 | 42 | [Wasting Time](https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu), [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH) | [Wasting Time](https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp) | 3:12 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 54 | [Morning Light](https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Morning Light](https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9) | 3:11 |
 | 55 | [Midsummer](https://open.spotify.com/track/0WuXqVDS9LLN41RGSAXuVe) | [Paper Cranes 折り鶴](https://open.spotify.com/artist/5YZSzTjciJAaAek3ujVhpc) | [Voices](https://open.spotify.com/album/4MR4vc3bWQwAaZdbAmH7t9) | 2:45 |
 
-Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMGM0NGY5MWRlODFhN2E4MmE3MDliZjY1YzNlMzM0YWNl`
+Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMDM0MGIzMDE3NWM3YjFjNDkxYzg2M2IzMmQxOTc2MTIx`

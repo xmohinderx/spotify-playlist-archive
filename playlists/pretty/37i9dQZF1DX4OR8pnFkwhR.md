@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bleecker Chrome/ <br/> Early Noise Night\#14プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,739 likes - 58 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,752 likes - 58 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 8 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 |
 | 9 | [Othello](https://open.spotify.com/track/4TAnJMwy3dFjRMyYsvQ9Fh) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Othello](https://open.spotify.com/album/3i2MhTc7yo7UNtpSSP3Lzp) | 4:29 |
 | 10 | [Don't need to let it go](https://open.spotify.com/track/3zAtX7g2H7B03ARDRk0hRn) | [Kinami](https://open.spotify.com/artist/5Zm3vMvLFPUji0Y2txuRdt) | [Don't need to let it go](https://open.spotify.com/album/46ga0qLyG7yUc5WYvJtS97) | 3:11 |
-| 11 | [coming back](https://open.spotify.com/track/4rk7dX6JOIOjQuTbx72PUI) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [coming back](https://open.spotify.com/album/0oPJxMww7r09gyze9ZnqI4) | 3:29 |
+| 11 | [Coming Back](https://open.spotify.com/track/6GrOZYmO4cbVHGz5IGWjd7) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Coming Back](https://open.spotify.com/album/60RRYz2U7iQkuYRvIoAXsn) | 3:29 |
 | 12 | [最低](https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [最低](https://open.spotify.com/album/4DV2vgNpPKrd4BS3p2Msb0) | 3:20 |
 | 13 | [Bye Bye](https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Bye Bye](https://open.spotify.com/album/2oaPQosRx7EHt403lUQu07) | 3:41 |
 | 14 | [貴方日和](https://open.spotify.com/track/7D2f6qNWhBC6PcMTn5Q0mD) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [帝国喫茶](https://open.spotify.com/album/4XXjcfE9VSO82IxUI8sziH) | 5:17 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 52 | [Ginger](https://open.spotify.com/track/3JRQx0Z6DqXdiiPhC6ursV) | [No.18](https://open.spotify.com/artist/2OmPvjarEhRq29rXnl4yc5) | [The One](https://open.spotify.com/album/78N2PusW7lbIHccjOsxzgC) | 3:52 |
 | 53 | [white](https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [white](https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG) | 4:10 |
 | 54 | [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 |
-| 55 | [Foolish \- with SUKISHA](https://open.spotify.com/track/42oZVEWRITDxCvulC8qnCA) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm), [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [風を頼りに](https://open.spotify.com/album/4hbDPyrGSEg9KhMpDxK9fC) | 3:35 |
+| 55 | [Foolish \- with SUKISHA](https://open.spotify.com/track/2NlcMEvOIaFIIKHQ6YKFiR) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm), [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Rely on the Wind](https://open.spotify.com/album/0nlAOQ1jNIX3zXgpTxrpn8) | 3:35 |
 | 56 | [胸騒ぎ \- feat\. Chi\- from カメレオン・ライム・ウーピーパイ](https://open.spotify.com/track/7FHyKWcB49CJK1acgKMhit) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb), [Chi\-](https://open.spotify.com/artist/7xRcaUcszechS0LHtEbt9n), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [?](https://open.spotify.com/album/4rmjxVcCCC6lD3MGjS8hfq) | 3:03 |
 | 57 | [遅刻](https://open.spotify.com/track/2EhMtQkvL0MFmylVUXRklU) | [Niiiya](https://open.spotify.com/artist/2ouzqdQoRdpwti2dT4Kbqh) | [遅刻](https://open.spotify.com/album/3QajBUxnmnGNRC5iQMUck7) | 4:12 |
 | 58 | [火をつけて](https://open.spotify.com/track/5J0UJZXWr4W8I73A30UqSu) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [火をつけて](https://open.spotify.com/album/17bQJPnZKX0QcMWN699xkf) | 4:39 |
 
-Snapshot ID: `MTY2NTUwMDQwMCwwMDAwMDAwMGZjODA3N2NmMGRmNmZjZTVmZWJhNDg4ZTYwZDU2MzA4`
+Snapshot ID: `MTY2NTUwMDQwMCwwMDAwMDAwMGNlMTc2MmZiOTYwZTUxNjhjOGY2NTczOTE1OGQyMmNl`

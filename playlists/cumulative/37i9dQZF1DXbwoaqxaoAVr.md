@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny vibe!
 
-115 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
+117 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Catching Feelings \(feat\. J Boog\) \- Bimwala Remix](https://open.spotify.com/track/2mjlROYtPqKp9mWANqGtCf) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Bimwala](https://open.spotify.com/artist/6pXPBMM6APBn2Ffnh9M55C) | [Catching Feelings \(feat\. J Boog\) \[Bimwala Remix\]](https://open.spotify.com/album/6fkFfPMRuu19AOV1OjNBvJ) | 3:20 | 2021-11-25 |  |
 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 | 2021-11-25 |  |
 | [Circle of Peace](https://open.spotify.com/track/0NUnfqwO7g4jAijTRhrjGv) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/6dIsQaRQ8brUZkbI4TiZpm) | 3:21 | 2021-11-25 | 2022-07-29 |
-| [Circle of Peace](https://open.spotify.com/track/6B1aXosrQegaSVEwcPoTSO) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Rebellion Rises](https://open.spotify.com/album/5HVcH6enN6uUk7lAjoKlIK) | 3:21 | 2022-07-07 |  |
+| [Circle of Peace](https://open.spotify.com/track/6B1aXosrQegaSVEwcPoTSO) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Rebellion Rises](https://open.spotify.com/album/5HVcH6enN6uUk7lAjoKlIK) | 3:21 | 2022-07-07 | 2022-10-13 |
+| [Circle of Peace](https://open.spotify.com/track/7lPYCnj8FdLanbEWnt7BiZ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Rebellion Rises](https://open.spotify.com/album/0Adhu5aZikW2lFQt3JP9f5) | 3:21 | 2022-09-15 |  |
 | [Close to Me](https://open.spotify.com/track/2yoxgmN6Z1YHzRkbOk9x5s) | [SunDub](https://open.spotify.com/artist/4PoPeXL1kTk7cVxVMRdGvy) | [Burden of Love](https://open.spotify.com/album/5dIqKAwu5CZxZgkrJTvOMB) | 4:12 | 2021-11-25 | 2022-07-29 |
 | [Close To Me](https://open.spotify.com/track/4BstuGRgFLQM4Z5OJ1MAwS) | [SunDub](https://open.spotify.com/artist/4PoPeXL1kTk7cVxVMRdGvy) | [Burden of Love](https://open.spotify.com/album/66X9aTvptSH64whP0cixuJ) | 4:12 | 2022-07-07 |  |
 | [Come Over](https://open.spotify.com/track/4s1SbOyRhLpRFWKRmxhhZ5) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Shine](https://open.spotify.com/album/4aNuUgP4gdQvUJ5Cd8LgUi) | 3:41 | 2021-11-25 | 2022-09-02 |
@@ -109,7 +110,8 @@
 | [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 | 2021-11-25 |  |
 | [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 | 2021-11-25 |  |
 | [That's Life](https://open.spotify.com/track/6zj0UbuOOigThu9Wmt99ox) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [That's Life](https://open.spotify.com/album/3vfu6Fg7uXZdfEEV2uDOgt) | 3:24 | 2022-05-26 |  |
-| [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 | 2022-07-07 |  |
+| [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 | 2022-07-07 | 2022-10-13 |
+| [The Lucky One](https://open.spotify.com/track/56H7ChmRXYt092T3qwjARD) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/2Qjp6JMCIVm3582SkJMere) | 3:39 | 2022-09-15 |  |
 | [Things You Can't Control](https://open.spotify.com/track/389BGaLv0BIG8hcIY1a0im) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:04 | 2022-02-25 | 2022-07-29 |
 | [Things You Can't Control](https://open.spotify.com/track/5UjEmU8sBAJEr1q34eHqc4) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 4:04 | 2022-07-07 |  |
 | [Three Little Birds](https://open.spotify.com/track/19L8E51SOAjb0DdA349YuW) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Three Little Birds](https://open.spotify.com/album/3S04DPo3bvwkHQBTAigDIa) | 3:21 | 2021-11-25 |  |

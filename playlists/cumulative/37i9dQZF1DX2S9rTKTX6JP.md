@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-257 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
+259 songs - 16 hr 49 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Runaway](https://open.spotify.com/track/7glhk9s9UWuq9Nhd8l8dPi) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs), [Warren Fitzgerald](https://open.spotify.com/artist/42Wl7GLDaY4vAQrbttojF5) | [Runaway](https://open.spotify.com/album/3RRQDqMVvcFSFaomwUBFqT) | 2:49 | 2020-12-16 | 2022-07-29 |
 | [Running Up That Hill](https://open.spotify.com/track/5Ew5pDFGWVbKqJj7RjAGRA) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Running Up That Hill](https://open.spotify.com/album/4taGbRcoDIs8PgQ341IvfB) | 3:03 | 2022-07-26 |  |
 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 | 2022-06-10 |  |
-| [Running Up That Hill](https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw) | 4:57 | 2022-06-10 |  |
+| [Running Up That Hill](https://open.spotify.com/track/0uYVJ8z5kgMayMNPJA6Cz9) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ) | 4:57 | 2022-08-19 |  |
+| [Running Up That Hill](https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw) | 4:57 | 2022-06-10 | 2022-10-13 |
 | [Sad But True](https://open.spotify.com/track/6xE9pDzPTndxeoTxvln96w) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Sad But True](https://open.spotify.com/album/5CpVJiYhDUavJqv044xQLZ) | 5:28 | 2021-09-17 | 2022-07-29 |
 | [Separate Ways](https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow EP](https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv) | 5:00 | 2022-04-15 |  |
 | [Seven Nation Army](https://open.spotify.com/track/1NdfWHmjZkJDi1YpgoBZyS) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Seven Nation Army](https://open.spotify.com/album/6H2VIw0KwJx8YxL23wQfQ3) | 4:02 | 2022-03-25 | 2022-07-20 |
@@ -228,7 +229,8 @@
 | [The Day I Tried To Live](https://open.spotify.com/track/0xvvmc0Akzpd1C8CAI21f9) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [The Day I Tried To Live](https://open.spotify.com/album/3oXmosWd6LEHUbek4WvKl2) | 4:55 | 2020-12-16 | 2022-07-29 |
 | [The Hand That Feeds](https://open.spotify.com/track/4BgPztdHQ15vB5Ri8ANfRq) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [The Hand That Feeds](https://open.spotify.com/album/1bgHW8a8OZS0PPn3ENnXkh) | 3:25 | 2022-03-25 | 2022-05-28 |
 | [The Man Who Sold The World](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 | 2020-12-16 |  |
-| [The Only Exception \- Spotify Single](https://open.spotify.com/track/4GSP51OmKGNs57ZT9coUDF) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0) | 4:44 | 2022-08-19 |  |
+| [The Only Exception \- Spotify Single](https://open.spotify.com/track/3aemIcBosf7udts37BAvXx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY) | 4:44 | 2022-08-19 |  |
+| [The Only Exception \- Spotify Single](https://open.spotify.com/track/4GSP51OmKGNs57ZT9coUDF) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0) | 4:44 | 2022-08-19 | 2022-10-13 |
 | [The Pot](https://open.spotify.com/track/08Ys3244upKhrzRMl2EWXI) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Brass Against II](https://open.spotify.com/album/5fTCQCBuKJPqrB6A1QHVzx) | 6:21 | 2020-12-16 | 2022-07-29 |
 | [The Sound of Silence](https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:08 | 2020-12-16 |  |
 | [There She Goes](https://open.spotify.com/track/398o7wmnG0V0jL8Y7bbmif) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [There She Goes](https://open.spotify.com/album/6AoYYnPKJTL1W0KCvXuJ6x) | 2:43 | 2022-03-25 | 2022-04-20 |

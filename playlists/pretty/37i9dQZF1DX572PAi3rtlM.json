@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 23825,
+  "num_followers": 23835,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMGU2YjhjMmE4MTdkNDkzN2ZkMWIyN2IwZDJhOThkOTVk",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMGM3YzU0Y2M5ZmQyNzg3NDM0Y2ZiNTVmZmMwMjQyZGE0",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -23,22 +23,6 @@
       "duration_ms": 305649,
       "name": "Like A Fool",
       "url": "https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 225357,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -75,6 +59,22 @@
       "duration_ms": 270145,
       "name": "Must Be Love (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 225357,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Raiding the Vaults",
         "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 237979,
       "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
       "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Sting Like A Bee",
-        "url": "https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI"
-      },
-      "artists": [
-        {
-          "name": "Bumblebee Unlimited",
-          "url": "https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58"
-        }
-      ],
-      "duration_ms": 589706,
-      "name": "Lady Bug - Disco Mix",
-      "url": "https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "The Lost Grooves EP",
         "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 349000,
       "name": "Ba:sen - Pool Party Dub Mix",
       "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Sting Like A Bee",
+        "url": "https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI"
+      },
+      "artists": [
+        {
+          "name": "Bumblebee Unlimited",
+          "url": "https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58"
+        }
+      ],
+      "duration_ms": 589706,
+      "name": "Lady Bug - Disco Mix",
+      "url": "https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -711,6 +711,26 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "For the Beasts",
+        "url": "https://open.spotify.com/album/7thl8MxQ3IyU91WpifnEZH"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "Casey MQ",
+          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
+        }
+      ],
+      "duration_ms": 153231,
+      "name": "Lurk",
+      "url": "https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Calling Out (feat. Dames Brown) [12\" Mix]",
         "url": "https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 234758,
       "name": "Most Precious Love",
       "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "For the Beasts",
-        "url": "https://open.spotify.com/album/7thl8MxQ3IyU91WpifnEZH"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        },
-        {
-          "name": "Casey MQ",
-          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
-        }
-      ],
-      "duration_ms": 153231,
-      "name": "Lurk",
-      "url": "https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR"
     },
     {
       "added_at": "2021-09-01 00:59:23",

@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites.",
-  "num_followers": 416819,
+  "num_followers": 416863,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDlkZmU0ZGYxOTVkYmIyOTIwYzEwNWFkOTljOTA3YWU2",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDk0YTU5YmQyNWYzNjdmZThkN2U2MzQwYzlmMjZmZjc4",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Part Of The Band",
-        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
         }
       ],
-      "duration_ms": 260148,
-      "name": "Part Of The Band",
-      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
+      "duration_ms": 260986,
+      "name": "American Money",
+      "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+        "name": "Part Of The Band",
+        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
       },
       "artists": [
         {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 260986,
-      "name": "American Money",
-      "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
+      "duration_ms": 260148,
+      "name": "Part Of The Band",
+      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 221039,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/1KDPWUuA213r6M2WbWUauE"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Blossom (Deluxe)",
         "url": "https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC"
       },
@@ -595,22 +579,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Free Animal",
-        "url": "https://open.spotify.com/album/0JQE1RdXP7fvTisrFf1t0L"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Free Animal",
-      "url": "https://open.spotify.com/track/5nQvUs9YQeg3vshSzydlRw"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Nine Types of Light",
         "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
       },
@@ -623,6 +591,22 @@
       "duration_ms": 224986,
       "name": "Will Do",
       "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Free Animal",
+        "url": "https://open.spotify.com/album/0JQE1RdXP7fvTisrFf1t0L"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Free Animal",
+      "url": "https://open.spotify.com/track/5nQvUs9YQeg3vshSzydlRw"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -675,22 +659,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Mirror Master",
-        "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 237746,
-      "name": "Call Me Back",
-      "url": "https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -703,6 +671,22 @@
       "duration_ms": 272680,
       "name": "Easier",
       "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Mirror Master",
+        "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 237746,
+      "name": "Call Me Back",
+      "url": "https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -835,22 +819,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "twelvefour",
-        "url": "https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Electric Indigo",
-      "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Falling In",
         "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
       },
@@ -863,6 +831,22 @@
       "duration_ms": 315491,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "twelvefour",
+        "url": "https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Electric Indigo",
+      "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -899,22 +883,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 248399,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -927,6 +895,22 @@
       "duration_ms": 202694,
       "name": "Astronaut (Something About Your Love)",
       "url": "https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 248399,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1031,22 +1015,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/0Y33Ki8fZCKljrmweGgISm"
-      },
-      "artists": [
-        {
-          "name": "SAINT PHNX",
-          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "King",
-      "url": "https://open.spotify.com/track/4M6HNRHyV2MykKp7gKQcyD"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Stars Are on Your Side",
         "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
       },
@@ -1059,22 +1027,6 @@
       "duration_ms": 218004,
       "name": "Stars Are on Your Side",
       "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 232360,
-      "name": "Graveyard Whistling",
-      "url": "https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1107,6 +1059,38 @@
       "duration_ms": 300030,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/4Ppc2CyPzXObEOLgDkP5ZR"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 232360,
+      "name": "Graveyard Whistling",
+      "url": "https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Candy Eyes",
+        "url": "https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX"
+      },
+      "artists": [
+        {
+          "name": "HOKO",
+          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Candy Eyes",
+      "url": "https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1159,22 +1143,6 @@
       "duration_ms": 224343,
       "name": "Just Say When (Version 2.0)",
       "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Candy Eyes",
-        "url": "https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX"
-      },
-      "artists": [
-        {
-          "name": "HOKO",
-          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "Candy Eyes",
-      "url": "https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1343,22 +1311,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
-      },
-      "artists": [
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Fruit",
-      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Young Blood EP",
         "url": "https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi"
       },
@@ -1371,6 +1323,22 @@
       "duration_ms": 157546,
       "name": "As We Are Now",
       "url": "https://open.spotify.com/track/0auccbirOSgf38celsAEJA"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Fruit",
+      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1423,22 +1391,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Cinema Love",
-        "url": "https://open.spotify.com/album/4sfoMGrDHeeO3BhAP2lM1t"
-      },
-      "artists": [
-        {
-          "name": "Patrick Martin",
-          "url": "https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Cinema Love",
-      "url": "https://open.spotify.com/track/59reiI9iXYA0sI3jGKRGdC"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Can You Feel The Sun",
         "url": "https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq"
       },
@@ -1487,22 +1439,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Broods",
-        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
-      },
-      "artists": [
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Taking You There",
-      "url": "https://open.spotify.com/track/6NYtqWYqMbnzoEU9jXla80"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -1515,6 +1451,22 @@
       "duration_ms": 213515,
       "name": "Violet City",
       "url": "https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Broods",
+        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
+      },
+      "artists": [
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Taking You There",
+      "url": "https://open.spotify.com/track/6NYtqWYqMbnzoEU9jXla80"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1547,22 +1499,6 @@
       "duration_ms": 195038,
       "name": "IFK (i fucking know)",
       "url": "https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "I See You",
-      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1611,6 +1547,22 @@
       "duration_ms": 205045,
       "name": "Dead Boys",
       "url": "https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 228735,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1667,22 +1619,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Sun Leads Me On",
-        "url": "https://open.spotify.com/album/5JX80KwJlB847fFVrQxNPV"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Turn Your Love",
-      "url": "https://open.spotify.com/track/2OE1yF5x0xDjjsC5CYArz2"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Come Follow Me Down",
         "url": "https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn"
       },
@@ -1695,6 +1631,22 @@
       "duration_ms": 192666,
       "name": "Come Follow Me Down",
       "url": "https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 273671,
+      "name": "Method to the Madness",
+      "url": "https://open.spotify.com/track/6bdUYF2BSpMJ1eSVb9wbAn"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1715,22 +1667,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Take A Walk",
-        "url": "https://open.spotify.com/album/0ZHOjJXOJ5kZpidFOqWtnw"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 226896,
-      "name": "Take A Walk",
-      "url": "https://open.spotify.com/track/0dVVLxuAvUnkwNGgW9aoZs"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Back In My Head Again",
         "url": "https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge"
       },
@@ -1743,6 +1679,22 @@
       "duration_ms": 174539,
       "name": "Back In My Head Again",
       "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Take A Walk",
+        "url": "https://open.spotify.com/album/0ZHOjJXOJ5kZpidFOqWtnw"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Take A Walk",
+      "url": "https://open.spotify.com/track/0dVVLxuAvUnkwNGgW9aoZs"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1779,18 +1731,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Sleepwalking, Pt. I (Acoustic)",
-        "url": "https://open.spotify.com/album/391n9gKodK0NZ0riyymIzK"
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/6B79nTDPvYv9apEMexlJg2"
       },
       "artists": [
         {
-          "name": "Alvarez Kings",
-          "url": "https://open.spotify.com/artist/1lGiUJqrkVkPL9auz3Fmcf"
+          "name": "Mosa Wild",
+          "url": "https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Sleepwalking, Pt. I (Acoustic)",
-      "url": "https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ"
+      "duration_ms": 227121,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/35WUQVTAFS9mLNynSnRsAR"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1811,18 +1763,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Smoke",
-        "url": "https://open.spotify.com/album/6B79nTDPvYv9apEMexlJg2"
+        "name": "Sleepwalking, Pt. I (Acoustic)",
+        "url": "https://open.spotify.com/album/391n9gKodK0NZ0riyymIzK"
       },
       "artists": [
         {
-          "name": "Mosa Wild",
-          "url": "https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc"
+          "name": "Alvarez Kings",
+          "url": "https://open.spotify.com/artist/1lGiUJqrkVkPL9auz3Fmcf"
         }
       ],
-      "duration_ms": 227121,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/35WUQVTAFS9mLNynSnRsAR"
+      "duration_ms": 201666,
+      "name": "Sleepwalking, Pt. I (Acoustic)",
+      "url": "https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1875,22 +1827,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Bottom Of The Deep Blue Sea",
-        "url": "https://open.spotify.com/album/58CDsLKHOAKFTkAwFefW6d"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "Bottom Of The Deep Blue Sea",
-      "url": "https://open.spotify.com/track/4hg8D0wW7CXEUsc0fl9vnN"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Youth is Only Ever Fun in Retrospect",
         "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
       },
@@ -1903,6 +1839,22 @@
       "duration_ms": 362693,
       "name": "Happy Family",
       "url": "https://open.spotify.com/track/41JKvaaTrlNggstXrYagZ4"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Bottom Of The Deep Blue Sea",
+        "url": "https://open.spotify.com/album/58CDsLKHOAKFTkAwFefW6d"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "Bottom Of The Deep Blue Sea",
+      "url": "https://open.spotify.com/track/4hg8D0wW7CXEUsc0fl9vnN"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -2031,6 +1983,54 @@
       "duration_ms": 260293,
       "name": "Coincidental",
       "url": "https://open.spotify.com/track/3pdaoKvvkDRW5ed0LM2LBe"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Death of Me",
+        "url": "https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP"
+      },
+      "artists": [
+        {
+          "name": "Brandon Jenner",
+          "url": "https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x"
+        }
+      ],
+      "duration_ms": 214230,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Minimum Wage",
+        "url": "https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "duration_ms": 196512,
+      "name": "Minimum Wage",
+      "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Get Hurt",
+        "url": "https://open.spotify.com/album/0VZk3U8WPylj3x0PFwP6yj"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 223360,
+      "name": "Get Hurt",
+      "url": "https://open.spotify.com/track/5EeMYgfcEoRLnxw6CUUVfm"
     }
   ],
   "unique_name": "License To Chill",

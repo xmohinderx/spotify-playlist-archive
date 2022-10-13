@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Schlepp Geist
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,175 likes - 80 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,324 likes - 80 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 28 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 |
 | 29 | [WANNA GO BANG](https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z) | 3:57 |
 | 30 | [World Gone Mad](https://open.spotify.com/track/40tYY6O9fgxJVp4DFMkJ0Y) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Welcome to My World](https://open.spotify.com/album/7wPqfJhYxRIS8qA1YxlNCQ) | 4:24 |
-| 31 | [Feel You \(Beside Me\)](https://open.spotify.com/track/21Ileqj8qYQIWx9CpCUjAo) | [LUPA](https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo) | [Feel You \(Beside Me\)](https://open.spotify.com/album/1GHakCrnmswgxWtnNU2Iel) | 5:29 |
+| 31 | [Feel You \(Beside Me\)](https://open.spotify.com/track/2Y7TA1fnjoZWHvAhi70TUv) | [LUPA](https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo) | [Feel You \(Beside Me\)](https://open.spotify.com/album/4NvXD68wMwVrgzHSSkhQGC) | 5:29 |
 | 32 | [Six For Gold](https://open.spotify.com/track/5x7FKrpE3JBVbOSQ9O7cSn) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Six For Gold](https://open.spotify.com/album/3CbIAm371uRIjuo9pfeSYd) | 5:01 |
 | 33 | [Evergreen](https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 4:13 |
 | 34 | [Roots](https://open.spotify.com/track/4S8hkiVcfSIyP4gSmW7SMw) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [3000Grad Festival Compilation 3022](https://open.spotify.com/album/0GAlYbzVdr5wL0KY8QRGTU) | 6:59 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 54 | [Afterglow](https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Afterglow](https://open.spotify.com/album/1FcT5u2uAOlpCOhJnaTcc9) | 6:18 |
 | 55 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 |
 | 56 | [Growl](https://open.spotify.com/track/0TfxYd20qQvBHD0ZOV29mI) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Growl](https://open.spotify.com/album/3AKmKrfzMK1Ll3ExnUGIDV) | 6:47 |
-| 57 | [Hollow](https://open.spotify.com/track/2F6F3bQ0CWUnv5xje1RTLK) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hollow](https://open.spotify.com/album/64N1sXGEZNQZI7nefF1fwi) | 4:05 |
+| 57 | [Hollow](https://open.spotify.com/track/50ClhUjjjq2MzZTxP535to) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hollow](https://open.spotify.com/album/4DgPkTxV46MSjOAsLDJD8u) | 4:05 |
 | 58 | [Wrap Your Arms \- Coloray Version](https://open.spotify.com/track/4JHi0MNE7lcmKMwEtlwp24) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Wrap Your Arms \(Coloray Version\)](https://open.spotify.com/album/5Z6K8lFDnDKuKEDYbXzJ12) | 3:30 |
 | 59 | [Ciao](https://open.spotify.com/track/0inyYBsSUNNkJ1vIGPUfog) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [La Danse Heureuse EP](https://open.spotify.com/album/0uTSYwT3azlBmvabYjZRew) | 4:14 |
 | 60 | [Start the Madness](https://open.spotify.com/track/0XoN1fHQrvNlZMY434R1t5) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX) | [Generation 72](https://open.spotify.com/album/3CaB7SFjPu1xsesse33IRP) | 6:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 79 | [Phobia](https://open.spotify.com/track/5F7hQ1QAb3Q6QNwxGUMQXU) | [Rampue](https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv) | [Phobia](https://open.spotify.com/album/2prHbKENbnHD0hThZlcrQQ) | 5:51 |
 | 80 | [Always Something](https://open.spotify.com/track/3f0OOLWLpdeDUp3vxv6GEj) | [Manqo](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ) | [Always Something](https://open.spotify.com/album/5vP4jUDdZDqdlQDMroMVJi) | 3:36 |
 
-Snapshot ID: `MTY2NTA5NTIwMCwwMDAwMDAwMGMxYTlmNzkzMTMwNjg1NTU3NjA0Zjk2NDU1MDNmNjg5`
+Snapshot ID: `MTY2NTA5NTIwMCwwMDAwMDAwMGY2MmZiYmYyN2UxZTY1OTQ5YWNhOWM5MmMxNDZlOTMy`

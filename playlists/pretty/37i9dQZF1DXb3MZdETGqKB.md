@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Dylan Triplett
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,098 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,133 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 34 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 |
 | 35 | [Tell It Like It Is](https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Neither Here Nor There](https://open.spotify.com/album/71RpBQJxPUyMXJETnpDFiy) | 2:55 |
 | 36 | [Stay away from me](https://open.spotify.com/track/77iBCaVqdOSmXtHk5OcwUg) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/443tvXMsfPqlt82b5VmyzT) | 2:42 |
-| 37 | [Workin' Man](https://open.spotify.com/track/3vlialdlumHyXrZq6Em5Tq) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/3awKF4xhQXpiPCGNten5ts) | 3:52 |
+| 37 | [Workin' Man](https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Closure](https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J) | 3:52 |
 | 38 | [Hits Like Lightning](https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Hits Like Lightning](https://open.spotify.com/album/3OU9uPVaZH8WIXW2lCFd45) | 2:42 |
 | 39 | [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 |
 | 40 | [Forest Of My Soul](https://open.spotify.com/track/32QGqKxHi22ivxrPl4LK3n) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Forest Of My Soul](https://open.spotify.com/album/0tUiu2DeNVINqcAZNxXFz5) | 3:40 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 75 | [Control](https://open.spotify.com/track/0AchHP2MSvRlL3iKh6kfdt) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Control](https://open.spotify.com/album/1yj4EQuTKMf8VBz1wTAj0D) | 3:23 |
 | 76 | [Until the Heat Leaves Town](https://open.spotify.com/track/1QjOBgzl45AYVVa4yWpZjA) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [Until the Heat Leaves Town](https://open.spotify.com/album/2X1aR4wJFLvQP495uh62ag) | 3:33 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDFiOWJlNjM5ZmFmODIxZTI3NjA1NzU4YWZiYzYwNDVl`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGM3MWI4ZWMxODc5ZWU4NDUxMDQwOTEyODIxZjE4ZGE1`

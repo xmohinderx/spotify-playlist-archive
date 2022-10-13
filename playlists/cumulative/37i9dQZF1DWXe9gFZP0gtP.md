@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-297 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+298 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Aurora](https://open.spotify.com/track/3thLpLQoMsbwCMhi26cwPs) | [Lights From A Distance](https://open.spotify.com/artist/4LPhXlMmFzBwyQVOCHtQAK) | [Aurora](https://open.spotify.com/album/3CYbmcSvawr8gb9y1JTTTm) | 1:59 | 2021-12-17 |  |
 | [Authentic](https://open.spotify.com/track/4WF88Pk0JMP7uOpdrd0bDL) | [Chév Asto](https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n) | [Authentic](https://open.spotify.com/album/1WbSf9I9KYSM8kBqmiYXhX) | 3:12 | 2022-02-15 |  |
 | [awakening](https://open.spotify.com/track/00KTcw8dXiI7Dyxug4S0lt) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [awakening](https://open.spotify.com/album/1eGEmH0bohAxBY6oFXixqR) | 2:34 | 2021-12-17 | 2022-07-29 |
-| [awakening](https://open.spotify.com/track/33UkNFczzJIiLxSAuxfFsL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:34 | 2022-07-22 |  |
+| [awakening](https://open.spotify.com/track/33UkNFczzJIiLxSAuxfFsL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:34 | 2022-07-22 | 2022-10-13 |
+| [awakening](https://open.spotify.com/track/6ur6K60DZUAO8jJr6lvKy8) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:34 | 2022-10-07 |  |
 | [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 | 2021-12-17 |  |
 | [Ballerina \- Ambient Version](https://open.spotify.com/track/6OoZfXgh8Y6V869KQMVY4e) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [Ballerina](https://open.spotify.com/album/33QaWcLXPuFCDEbluuL4Nw) | 2:36 | 2021-12-17 | 2022-04-22 |
 | [Be Here Now](https://open.spotify.com/track/4PqMhMtaGWmI5oBSpbYKdM) | [Star River](https://open.spotify.com/artist/4dK4vT6WMq0uXkxfYolQXf) | [Feeling Calm](https://open.spotify.com/album/6qjVLVgVfP7EpvFREJWlwP) | 3:21 | 2021-12-17 | 2022-09-24 |

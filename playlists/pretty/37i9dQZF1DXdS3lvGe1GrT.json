@@ -1,13 +1,141 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Ally Evenson | Visual Artist: Bailey Elder",
-  "num_followers": 19674,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Junaco | Visual Artist: Bailey Elder",
+  "num_followers": 19813,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk0MjQwMCwwMDAwMDAwMDgyYmNjOTUyNGU5YmNkMjVhNTQzZjZiMjE3Nzc2YzRm",
+  "snapshot_id": "MTY2NTU5MDQwMCwwMDAwMDAwMDk3MDgzNWQ5ZGJhMjRjYjgyYTQ5OGE5ODg2NmRmZjE4",
   "tracks": [
+    {
+      "added_at": "2022-10-12 16:00:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/7eHb55jHq7cPgnKquT81xs"
+      },
+      "artists": [
+        {
+          "name": "Rachael Jenkins",
+          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
+        }
+      ],
+      "duration_ms": 252768,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/4e2OclvRO3w8s4VomIbfxF"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/3nPwr6dVAbMPDkS9JvzbN2"
+      },
+      "artists": [
+        {
+          "name": "Junaco",
+          "url": "https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/1RmZ9Oh6qfidVbzukot42i"
+    },
+    {
+      "added_at": "2022-10-12 16:00:00",
+      "album": {
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
+      },
+      "artists": [
+        {
+          "name": "j solomon",
+          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
+        }
+      ],
+      "duration_ms": 235587,
+      "name": "Gossamer",
+      "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
+    },
+    {
+      "added_at": "2022-10-12 16:00:00",
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/07QRxu8AgGoRmz6qYz7QrH"
+      },
+      "artists": [
+        {
+          "name": "Jenny O.",
+          "url": "https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0"
+        }
+      ],
+      "duration_ms": 190068,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/76iyiXL6GBHt7Mdb5v9GoN"
+    },
+    {
+      "added_at": "2022-10-12 16:00:00",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ"
+      },
+      "artists": [
+        {
+          "name": "Violet Bell",
+          "url": "https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8"
+        }
+      ],
+      "duration_ms": 228083,
+      "name": "All the Stars (Radio Edit)",
+      "url": "https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "Cowboy Gangster Politician",
+        "url": "https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Cowboy Gangster Politician",
+      "url": "https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop"
+    },
+    {
+      "added_at": "2022-10-12 16:00:00",
+      "album": {
+        "name": "Anchored",
+        "url": "https://open.spotify.com/album/1JFzFl3R3za0aJ4YJKZf77"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "duration_ms": 239374,
+      "name": "Anchored",
+      "url": "https://open.spotify.com/track/2kNsGj6pRhA6MfHsk9WDp8"
+    },
+    {
+      "added_at": "2022-10-12 16:00:00",
+      "album": {
+        "name": "Keeping Score",
+        "url": "https://open.spotify.com/album/4UriRN5PykzEXhfLOJbaQC"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        }
+      ],
+      "duration_ms": 182828,
+      "name": "Keeping Score",
+      "url": "https://open.spotify.com/track/4cKKXsPQDXpDbO27lJZQYl"
+    },
     {
       "added_at": "2022-10-05 04:00:00",
       "album": {
@@ -27,6 +155,38 @@
     {
       "added_at": "2022-09-28 16:00:00",
       "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/5WRJ3OqU8n6LfsuR3gu9R3"
+      },
+      "artists": [
+        {
+          "name": "Regina Pimentel",
+          "url": "https://open.spotify.com/artist/3mCLwcR4Gcuw8uAQkeBoEH"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "June",
+      "url": "https://open.spotify.com/track/3Do19iVwOKTq8v6IL3TZ1d"
+    },
+    {
+      "added_at": "2022-10-12 16:00:00",
+      "album": {
+        "name": "Often",
+        "url": "https://open.spotify.com/album/7g2xmu0LTw9bTbcbqZhymQ"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "Often",
+      "url": "https://open.spotify.com/track/4OYPnCvrKBv7MFcdzdCJFX"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
         "name": "A Month Ago",
         "url": "https://open.spotify.com/album/1nka8M1ttrlVEotLDwZJgA"
       },
@@ -39,6 +199,38 @@
       "duration_ms": 160269,
       "name": "A Month Ago",
       "url": "https://open.spotify.com/track/798tRXwkYQ0o5nlY621s3x"
+    },
+    {
+      "added_at": "2022-09-28 16:00:00",
+      "album": {
+        "name": "Good Morning, Al",
+        "url": "https://open.spotify.com/album/66Z431cNHK8eTDjzSZhlR7"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "duration_ms": 159423,
+      "name": "Good Morning, Al",
+      "url": "https://open.spotify.com/track/0rNWtiBcJh8T6gXtIAIJIJ"
+    },
+    {
+      "added_at": "2022-10-12 16:00:00",
+      "album": {
+        "name": "Rollin' 7s",
+        "url": "https://open.spotify.com/album/2iZ6qweZThLqflQNLgwYqh"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wolf",
+          "url": "https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7"
+        }
+      ],
+      "duration_ms": 217214,
+      "name": "Rollin' 7s",
+      "url": "https://open.spotify.com/track/5CUHljLFS594vxJaetda3r"
     },
     {
       "added_at": "2022-10-05 04:00:00",
@@ -59,22 +251,6 @@
     {
       "added_at": "2022-09-28 16:00:00",
       "album": {
-        "name": "Good Morning, Al",
-        "url": "https://open.spotify.com/album/66Z431cNHK8eTDjzSZhlR7"
-      },
-      "artists": [
-        {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
-        }
-      ],
-      "duration_ms": 159423,
-      "name": "Good Morning, Al",
-      "url": "https://open.spotify.com/track/0rNWtiBcJh8T6gXtIAIJIJ"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
         "name": "safe?",
         "url": "https://open.spotify.com/album/7I9BHVSc26R7taqCFRW1UF"
       },
@@ -87,22 +263,6 @@
       "duration_ms": 215833,
       "name": "safe?",
       "url": "https://open.spotify.com/track/71v8LdSVIwJQYFMakxezmD"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/5WRJ3OqU8n6LfsuR3gu9R3"
-      },
-      "artists": [
-        {
-          "name": "Regina Pimentel",
-          "url": "https://open.spotify.com/artist/3mCLwcR4Gcuw8uAQkeBoEH"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "June",
-      "url": "https://open.spotify.com/track/3Do19iVwOKTq8v6IL3TZ1d"
     },
     {
       "added_at": "2022-10-05 04:00:00",
@@ -215,38 +375,6 @@
       "duration_ms": 259933,
       "name": "9 Lives",
       "url": "https://open.spotify.com/track/53M93oh2JcbwkafFmnZ0fD"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/3nPwr6dVAbMPDkS9JvzbN2"
-      },
-      "artists": [
-        {
-          "name": "Junaco",
-          "url": "https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/1RmZ9Oh6qfidVbzukot42i"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Cowboy Gangster Politician",
-        "url": "https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Cowboy Gangster Politician",
-      "url": "https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop"
     },
     {
       "added_at": "2022-10-05 04:00:00",
@@ -464,7 +592,7 @@
       "added_at": "2022-09-28 16:00:00",
       "album": {
         "name": "mmm (wreck a friend)",
-        "url": "https://open.spotify.com/album/6SMR57o5RAHScy3KxP8gTj"
+        "url": "https://open.spotify.com/album/75eVHaSL8O27c5NdpciB1n"
       },
       "artists": [
         {
@@ -474,7 +602,7 @@
       ],
       "duration_ms": 204698,
       "name": "mmm (wreck a friend)",
-      "url": "https://open.spotify.com/track/4dK26aH2F3BotMTzxVhDkr"
+      "url": "https://open.spotify.com/track/1MPCYT5zsG0onlcdI2AViD"
     },
     {
       "added_at": "2022-09-28 16:00:00",
@@ -607,22 +735,6 @@
       "duration_ms": 258160,
       "name": "Just Take Love, for Example",
       "url": "https://open.spotify.com/track/79WTsOWzsiCeyhq9OxkqzC"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "I'm On Your Team",
-        "url": "https://open.spotify.com/album/4vreIPwo6krkOo8bwRXjJl"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 258853,
-      "name": "I'm On Your Team",
-      "url": "https://open.spotify.com/track/69jT12rES32If7pt7tC6SK"
     },
     {
       "added_at": "2022-09-28 16:00:00",
@@ -1523,118 +1635,6 @@
       "duration_ms": 234783,
       "name": "radiator",
       "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Lead Me Home",
-        "url": "https://open.spotify.com/album/0UqsZj10Gp3p8Z5DQmzKLY"
-      },
-      "artists": [
-        {
-          "name": "Wilfred",
-          "url": "https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym"
-        }
-      ],
-      "duration_ms": 178867,
-      "name": "Lead Me Home",
-      "url": "https://open.spotify.com/track/6nqGaeoYs2PL1O47B2K1xE"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Getting Better",
-        "url": "https://open.spotify.com/album/5w3hX19J48fSNi3UkAJCcQ"
-      },
-      "artists": [
-        {
-          "name": "Goodwill",
-          "url": "https://open.spotify.com/artist/08YH3sCgWzw9OuiRALrSCA"
-        }
-      ],
-      "duration_ms": 195288,
-      "name": "Getting Better",
-      "url": "https://open.spotify.com/track/1Jhl3bdPenyPQzF8RgzSPe"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Lou",
-        "url": "https://open.spotify.com/album/2t1IvOLI5e3F09nBpuijMX"
-      },
-      "artists": [
-        {
-          "name": "Juno Lev",
-          "url": "https://open.spotify.com/artist/6jQDETDXZtBIhuZdGhyPop"
-        }
-      ],
-      "duration_ms": 250007,
-      "name": "Lou",
-      "url": "https://open.spotify.com/track/4f02joYEp59ag51L07R7Vk"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "How Do I Show My Love?",
-        "url": "https://open.spotify.com/album/26qehkmpNVmzYhjNMgPnJS"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Reid",
-          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
-        }
-      ],
-      "duration_ms": 222378,
-      "name": "How Do I Show My Love?",
-      "url": "https://open.spotify.com/track/6WeH2AdmFGMNd3Sujcoca0"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Meet Me at the Lake",
-        "url": "https://open.spotify.com/album/6NQ2rJFGqU0hTNPyUPHINw"
-      },
-      "artists": [
-        {
-          "name": "Root Mean Square",
-          "url": "https://open.spotify.com/artist/0idfWq9oG8LIPqBZTq5ZuV"
-        }
-      ],
-      "duration_ms": 209372,
-      "name": "Meet Me at the Lake",
-      "url": "https://open.spotify.com/track/3QLvYJKEPDnfj5ydv4LTfr"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/57vFag5ct36ndRtNUPM7aS"
-      },
-      "artists": [
-        {
-          "name": "CODA FACTO",
-          "url": "https://open.spotify.com/artist/5kj5dKkdvcHkZeUBaCqalV"
-        }
-      ],
-      "duration_ms": 197655,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/6UhsRh1hGUJxINYsSWIIL8"
-    },
-    {
-      "added_at": "2022-09-28 16:00:00",
-      "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy"
-      },
-      "artists": [
-        {
-          "name": "Andrew Montana",
-          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
     }
   ],
   "unique_name": "Fresh Finds Folk",

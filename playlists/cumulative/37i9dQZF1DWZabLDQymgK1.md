@@ -4,7 +4,7 @@
 
 > <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-60 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/4KFliLiyOHO98s1YWCgllz)
+61 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/4KFliLiyOHO98s1YWCgllz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Do You Wanna Funk?](https://open.spotify.com/track/708DnJC8l1b4Bf4xg0GiBv) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO), [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Do Ya Wanna Funk](https://open.spotify.com/album/38ftZ2jxwlJof8nxwo34Ma) | 6:54 | 2021-06-02 | 2022-07-29 |
 | [Do You Wanna Funk? \- Remix](https://open.spotify.com/track/1ZFh6AzZETVrTfpRursnmY) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO), [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Greatest Hits](https://open.spotify.com/album/3XKjuTf91qMUQ6f9AhtKK9) | 6:51 | 2021-06-02 |  |
 | [Emerge](https://open.spotify.com/track/3vyKSb9sAdXl0kQ1KnS9fY) | [Fischerspooner](https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3) | [\#1](https://open.spotify.com/album/3OCiJ6mbOzJdzTrk8R9hy2) | 4:48 | 2021-06-02 |  |
-| [Eurodans](https://open.spotify.com/track/2GXEdhu0Rhqv4XgfSDBG6r) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/27Pe6yBUgKYYXILiT7Cj5u) | 5:49 | 2021-06-02 |  |
+| [Eurodans](https://open.spotify.com/track/2GXEdhu0Rhqv4XgfSDBG6r) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/27Pe6yBUgKYYXILiT7Cj5u) | 5:49 | 2021-06-02 | 2022-10-13 |
+| [Eurodans](https://open.spotify.com/track/5k9kKIMceAfAUHLei43MeM) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/3lc2aq9bjw8sEHepfcQ7U5) | 5:49 | 2021-06-02 |  |
 | [Fascinated \- Miami Mix](https://open.spotify.com/track/3q0Wbd9fujRXRKdzRwZOlp) | [Company B](https://open.spotify.com/artist/56qkRjq9qsAxK5fc7U5moa), [Ciro Llerena](https://open.spotify.com/artist/5CY333LrlnhMG93mQ5etNq), [Randy Miller](https://open.spotify.com/artist/20hNWAoYbQ1wKsQcAoQRjw) | [Techno House Anthems](https://open.spotify.com/album/3P0BdZG7iAhvlt2MHnliqn) | 4:54 | 2021-06-02 |  |
 | [Frank Sinatra](https://open.spotify.com/track/3mK7ll5qJEKgsV3IQtpJJP) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp) | [First Album \(2009 Reissue\)](https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8) | 3:55 | 2021-06-02 |  |
 | [Greatest Hit](https://open.spotify.com/track/4kox25GnFPcvrZWXvbB3Ar) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [Anniemal](https://open.spotify.com/album/3LN3dGIFGEqTjTDwTFFCj6) | 3:40 | 2021-06-02 |  |

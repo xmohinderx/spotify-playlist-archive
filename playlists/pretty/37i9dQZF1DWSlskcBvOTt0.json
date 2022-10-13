@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 323644,
+  "num_followers": 323933,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ5ODIwNywwMDAwMDAwMGJiZGY3MTNiNWQ0MzhlNGEzMzIzYjA0MDBmMDdkNTRk",
+  "snapshot_id": "MTY2NTQ5ODIwNywwMDAwMDAwMDY2Zjk4ZWJhMGQ2NWVhNTBjMjhkN2I0Yjc0ZTcyYjA0",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -661,26 +661,6 @@
       "url": "https://open.spotify.com/track/1W2eqS5HYJXHIhn7T8lWDZ"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Aye Aye",
-        "url": "https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Cameron Jack",
-          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
-        }
-      ],
-      "duration_ms": 240144,
-      "name": "Aye Aye",
-      "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "UUUU (&ME Remix)",
@@ -703,6 +683,26 @@
       "duration_ms": 417346,
       "name": "UUUU - &ME Remix",
       "url": "https://open.spotify.com/track/0rfLJGjPdvqHXgvDCTdGc6"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Aye Aye",
+        "url": "https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Cameron Jack",
+          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
+        }
+      ],
+      "duration_ms": 240144,
+      "name": "Aye Aye",
+      "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Arkade Destinations Tulum",
-        "url": "https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR"
-      },
-      "artists": [
-        {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
-        }
-      ],
-      "duration_ms": 246462,
-      "name": "Bacall",
-      "url": "https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Back In The Taxi (AM\u00c9M\u00c9 Remix)",
         "url": "https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3"
       },
@@ -1017,22 +1001,6 @@
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
     },
     {
-      "added_at": "2022-08-01 18:07:32",
-      "album": {
-        "name": "Footprints",
-        "url": "https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar"
-      },
-      "artists": [
-        {
-          "name": "Kaz James",
-          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
-        }
-      ],
-      "duration_ms": 348815,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Infinity",
@@ -1047,6 +1015,22 @@
       "duration_ms": 424979,
       "name": "Unlocked",
       "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "added_at": "2022-08-01 18:07:32",
+      "album": {
+        "name": "Footprints",
+        "url": "https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar"
+      },
+      "artists": [
+        {
+          "name": "Kaz James",
+          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
+        }
+      ],
+      "duration_ms": 348815,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Little Darling",
-        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 220524,
-      "name": "Little Darling",
-      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Mesta",
         "url": "https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G"
       },
@@ -1247,18 +1215,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "WAYU Various Artists, Vol. 2",
-        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
+        "name": "Little Darling",
+        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
       },
       "artists": [
         {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
         }
       ],
-      "duration_ms": 328089,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
+      "duration_ms": 220524,
+      "name": "Little Darling",
+      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1279,6 +1247,22 @@
       "duration_ms": 404529,
       "name": "Human Aura - Massano Remix",
       "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "WAYU Various Artists, Vol. 2",
+        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 328089,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1401,6 +1385,26 @@
       "url": "https://open.spotify.com/track/7uJvzzUgt8CpkEduX4m1Sp"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Mario Reyes",
+          "url": "https://open.spotify.com/artist/0MNovidyopz59Kcu16ot3v"
+        }
+      ],
+      "duration_ms": 469596,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Departures",
@@ -1511,62 +1515,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Be Here and Now (Helsloot Remix)",
-        "url": "https://open.spotify.com/album/3gkQ7JmUJ9dHiF6zXhViJw"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 269637,
-      "name": "Be Here and Now - Helsloot Remix",
-      "url": "https://open.spotify.com/track/1LVnm7eAB3sTW86CGvWFnn"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Regina Blue EP",
-        "url": "https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        }
-      ],
-      "duration_ms": 525619,
-      "name": "Regina Blue",
-      "url": "https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -1591,18 +1539,58 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Waves of the Soul",
-        "url": "https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL"
+        "name": "Be Here and Now (Helsloot Remix)",
+        "url": "https://open.spotify.com/album/3gkQ7JmUJ9dHiF6zXhViJw"
       },
       "artists": [
         {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
         }
       ],
-      "duration_ms": 212459,
-      "name": "Waves of the Soul",
-      "url": "https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt"
+      "duration_ms": 269637,
+      "name": "Be Here and Now - Helsloot Remix",
+      "url": "https://open.spotify.com/track/1LVnm7eAB3sTW86CGvWFnn"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Regina Blue EP",
+        "url": "https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "duration_ms": 525619,
+      "name": "Regina Blue",
+      "url": "https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1631,22 +1619,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "In Mindibu",
-        "url": "https://open.spotify.com/album/6aZBtDTIcjiD50dTKWoDES"
-      },
-      "artists": [
-        {
-          "name": "Stavroz",
-          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
-        }
-      ],
-      "duration_ms": 308825,
-      "name": "In Mindibu",
-      "url": "https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Calmo",
         "url": "https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f"
       },
@@ -1663,18 +1635,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Giza",
-        "url": "https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw"
+        "name": "In Mindibu",
+        "url": "https://open.spotify.com/album/6aZBtDTIcjiD50dTKWoDES"
       },
       "artists": [
         {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+          "name": "Stavroz",
+          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
         }
       ],
-      "duration_ms": 432786,
-      "name": "Giza",
-      "url": "https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf"
+      "duration_ms": 308825,
+      "name": "In Mindibu",
+      "url": "https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1723,6 +1695,22 @@
       "duration_ms": 470335,
       "name": "Alabora - Foxall Pale Blue Remix",
       "url": "https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "duration_ms": 432786,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1777,22 +1765,6 @@
       "url": "https://open.spotify.com/track/5ugyEMUjFOX7FS2Ao1Vyak"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Ronaparde",
-        "url": "https://open.spotify.com/album/0LkJgzIaYoBcjmr7rj131J"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 417997,
-      "name": "Ronaparde",
-      "url": "https://open.spotify.com/track/2NXEzL65lzjOTfMztPa3h1"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Under Darkening Skies",
@@ -1825,6 +1797,22 @@
       "url": "https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Ronaparde",
+        "url": "https://open.spotify.com/album/0LkJgzIaYoBcjmr7rj131J"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "duration_ms": 417997,
+      "name": "Ronaparde",
+      "url": "https://open.spotify.com/track/2NXEzL65lzjOTfMztPa3h1"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Quetzal",
@@ -1855,6 +1843,22 @@
       "duration_ms": 399465,
       "name": "Yira Yirar",
       "url": "https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a"
+    },
+    {
+      "added_at": "2022-07-08 17:15:14",
+      "album": {
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "duration_ms": 377225,
+      "name": "Psilocybin",
+      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
     },
     {
       "added_at": "2022-07-01 04:01:00",

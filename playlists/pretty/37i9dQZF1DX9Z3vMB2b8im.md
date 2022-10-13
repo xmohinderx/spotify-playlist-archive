@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,291,736 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,291,697 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 25 | [Fake Moon](https://open.spotify.com/track/5CNRQl4e0b2mMF7Zz3f34U) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Fake Moon](https://open.spotify.com/album/0kfLXfbPt4wGJ8BmBXcPjx) | 2:14 |
 | 26 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 |
 | 27 | [I Don't Know Why](https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv) | 3:24 |
-| 28 | [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 |
+| 28 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 |
 | 29 | [Through Those Eyes Again](https://open.spotify.com/track/7bBEsXVdI9IuCOWRhEiUoZ) | [Matt Perriment](https://open.spotify.com/artist/6sZDpE6FObUEWdKLJxv5IZ) | [Through Those Eyes Again](https://open.spotify.com/album/43oE37bFKvu3kS0iwVLzbO) | 3:41 |
 | 30 | [Homesick](https://open.spotify.com/track/7d0kDcSMb4gITAYL5Os52M) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton Palm](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [Homesick](https://open.spotify.com/album/5SfwE6ByYqjZLv2SwWLgFf) | 3:53 |
 | 31 | [Medication \(demo\)](https://open.spotify.com/track/6JQXhEiM8CuOUghiDmFRm3) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Medication \(demo\)](https://open.spotify.com/album/0CiScWsTD9BO0B7dtjU5sk) | 3:21 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 59 | [In Spite of the Weather \- Bill Ryder\-Jones Re\-Imagining](https://open.spotify.com/track/1LyI8GoZSzCR9BcBAHcAAX) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4), [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [In Spite of the Weather \(Bill Ryder\-Jones Re\-Imagining\)](https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy) | 5:56 |
 | 60 | [Nothing Wrong](https://open.spotify.com/track/10KwiqfDBMRT9PNyC7O1Ik) | [Hot Left Pole](https://open.spotify.com/artist/38AMg0A13hyneREkcLXMTR) | [Nothing Wrong](https://open.spotify.com/album/2oolI3oQ28axE7LgQlFzMn) | 2:57 |
 | 61 | [Colour TV](https://open.spotify.com/track/317hD6kkvxNc65HSqoXfCk) | [Will Varley](https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T) | [The Hole Around My Head](https://open.spotify.com/album/7pDgsunvwPnJ78x1UCAixY) | 4:15 |
-| 62 | [Hostages \- Alternate](https://open.spotify.com/track/7xFYoEpqDy5yxyCJLe3pUO) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/4dTR9TJBCMHFArn4z6TrH8) | 4:21 |
+| 62 | [Hostages \- Alternate](https://open.spotify.com/track/2nb3ZHHRzwa1bq0UpTWSoY) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/0Xd9rEkK9lzqauqoMDx1s7) | 4:21 |
 | 63 | [The Art Of Getting By](https://open.spotify.com/track/2PjMTQ9KLmdPtT5IpYXTQo) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The Art Of Getting By](https://open.spotify.com/album/6d9GmtcPSlsisDsJJbfQTy) | 3:39 |
 | 64 | [My Space Is Overgrown](https://open.spotify.com/track/0rQXWkK5iqhKlUZaROzm4I) | [Aayushi](https://open.spotify.com/artist/1r2kTJ27zuaEoXasQT5NDd) | [My Space Is Overgrown](https://open.spotify.com/album/4ghpXfXSE8K7Fcb96Hgm4p) | 3:53 |
 | 65 | [Short Sighted](https://open.spotify.com/track/25hKDHLSeH6M4J47pMXu9T) | [Lewis Ross](https://open.spotify.com/artist/7H1Mw1I4p9sTGTtbGCj8E3) | [Short Sighted](https://open.spotify.com/album/1DWjS1BFUwomgoJErC02Bu) | 3:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 79 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 |
 | 80 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
 
-Snapshot ID: `MTY2MDkyMTkyNCwwMDAwMDAwMGNmMjdmMDZhNzAwMDg0ODZjYTJjNTIxMDI3YzA4OTZm`
+Snapshot ID: `MTY2MDkyMTkyNCwwMDAwMDAwMDc1NmY3YThiNjk0OWIzNTkwMTJiOTViNjMwZWMxYjA5`

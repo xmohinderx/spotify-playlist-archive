@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-246 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+249 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Does Anybody Know](https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 3:27 | 2022-02-25 |  |
 | [Does Anybody Know](https://open.spotify.com/track/6E7MY8plyVrd0RWUDl63Kn) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 3:27 | 2021-07-30 | 2022-10-04 |
 | [Doing The Right Thing](https://open.spotify.com/track/3uW0KJ53gA3MrBZLw6uCGH) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Doing The Right Thing](https://open.spotify.com/album/1SYcjcWOhfnybR956GRKRh) | 5:14 | 2021-07-30 | 2022-07-29 |
-| [Doing the Right Thing](https://open.spotify.com/track/5xz16gO1U2r3aSukjhgMZs) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Not to Disappear](https://open.spotify.com/album/2pN1kvmyK2OoIHQAqou65I) | 5:14 | 2022-02-25 |  |
+| [Doing the Right Thing](https://open.spotify.com/track/5H3jYJObhvC6wHLqoUzN9b) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Not to Disappear](https://open.spotify.com/album/7G9JDNnxBCZdw9thmX5auQ) | 5:14 | 2022-02-25 |  |
+| [Doing the Right Thing](https://open.spotify.com/track/5xz16gO1U2r3aSukjhgMZs) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Not to Disappear](https://open.spotify.com/album/2pN1kvmyK2OoIHQAqou65I) | 5:14 | 2022-02-25 | 2022-10-13 |
 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 | 2021-07-30 |  |
 | [Early](https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Early](https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9) | 3:13 | 2021-07-30 |  |
 | [Edges Run](https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:14 | 2022-02-25 |  |
@@ -112,7 +113,8 @@
 | [Hold On](https://open.spotify.com/track/5lXbZUPAC0ZPJ2zHRXGEIs) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold On](https://open.spotify.com/album/5rbn4SQx7JVldqUVFqyKBX) | 3:49 | 2021-07-30 | 2022-07-29 |
 | [Holy Soul](https://open.spotify.com/track/02g3xtf95O7Xno0bSrNLZ6) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [OOM VELT](https://open.spotify.com/album/2Za99FT6bi8sdtENZMhTiA) | 3:21 | 2021-07-30 | 2022-07-29 |
 | [Holy Soul](https://open.spotify.com/track/3iRIduYS85sZeCE66yPODE) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Oom Velt](https://open.spotify.com/album/0SfbuytTzmQDEsN3mj2sM1) | 3:21 | 2022-02-25 |  |
-| [Hurts to liv](https://open.spotify.com/track/72KDkzE12InC0ahlMc5vqj) | [liv](https://open.spotify.com/artist/7nmgl15vMVoESrB2SZUWlC) | [Hurts to liv](https://open.spotify.com/album/5sdsiygIgqaeulsPlq8gq8) | 5:02 | 2021-07-30 |  |
+| [Hurts to liv](https://open.spotify.com/track/0Qr0rDGtKmoq0LRqvU4P9H) | [liv](https://open.spotify.com/artist/7nmgl15vMVoESrB2SZUWlC) | [Hurts to liv](https://open.spotify.com/album/4QqwfjmRKK1dBNK8lz8ecq) | 5:02 | 2022-02-25 |  |
+| [Hurts to liv](https://open.spotify.com/track/72KDkzE12InC0ahlMc5vqj) | [liv](https://open.spotify.com/artist/7nmgl15vMVoESrB2SZUWlC) | [Hurts to liv](https://open.spotify.com/album/5sdsiygIgqaeulsPlq8gq8) | 5:02 | 2021-07-30 | 2022-10-13 |
 | [Hymnal](https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:26 | 2021-07-30 |  |
 | [I Am a War Machine](https://open.spotify.com/track/2Scsrv2XObYRzbWeCIZTR2) | [SONTALK](https://open.spotify.com/artist/522RotipZoucbl7mEnW5xq) | [Stay Wild](https://open.spotify.com/album/1j0W0Y5zImaUcFWNwkYI1T) | 4:37 | 2022-02-25 |  |
 | [I Am a War Machine](https://open.spotify.com/track/6ux5Y3UFasNu0x3jgGY2Xe) | [SONTALK](https://open.spotify.com/artist/522RotipZoucbl7mEnW5xq) | [SONTALK: Act I](https://open.spotify.com/album/0cyU9VVWOXUUnsbBal4b1u) | 4:37 | 2021-07-30 | 2022-07-29 |
@@ -136,7 +138,8 @@
 | [Love Ain't Enough](https://open.spotify.com/track/2sgbm2X8Ye9YIzvEUFGoar) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 4:50 | 2022-02-25 |  |
 | [Lucky for You](https://open.spotify.com/track/19jTCAxeVnkwKnWHSsdg0i) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 2:16 | 2021-07-30 |  |
 | [Mansion Door](https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Can't Wake Up](https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5) | 4:30 | 2021-07-30 |  |
-| [Maybe](https://open.spotify.com/track/5UaSj2MSrh6AU9ZiU9IYHy) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Maybe](https://open.spotify.com/album/3jm07S9cFjyxY7kJ0cPuUx) | 4:06 | 2021-07-30 |  |
+| [Maybe](https://open.spotify.com/track/3zhiMb4QNcU5nbrjUK9Xx9) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Maybe](https://open.spotify.com/album/2XHcleSj4IH0a8uKZNn9Tt) | 4:06 | 2022-02-25 |  |
+| [Maybe](https://open.spotify.com/track/5UaSj2MSrh6AU9ZiU9IYHy) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Maybe](https://open.spotify.com/album/3jm07S9cFjyxY7kJ0cPuUx) | 4:06 | 2021-07-30 | 2022-10-13 |
 | [Measuring Cities \- Retrospective Sessions](https://open.spotify.com/track/1Ex3dahRo2zd3GpgovxWql) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Measuring Cities \(Retrospective Sessions\)](https://open.spotify.com/album/53JvE9TZoXXvS5O0SSunTN) | 5:37 | 2021-07-30 |  |
 | [Minimum](https://open.spotify.com/track/4FwaJmXeZxr1096KItcUQq) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Minimum](https://open.spotify.com/album/5oHD0TW5vl8qXVZJg0IKx3) | 3:14 | 2021-07-30 | 2022-07-29 |
 | [Minimum](https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 3:14 | 2022-02-25 |  |

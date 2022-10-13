@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - USA.",
-  "num_followers": 363704,
+  "num_followers": 363712,
   "original_name": "Viral 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE4ODA0Mzg1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE4ODkzNTk5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Tennessee Orange",
         "url": "https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "The Midnight Club GT",
         "url": "https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx"
@@ -97,23 +97,7 @@
       "url": "https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - En Vivo",
-      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
@@ -129,23 +113,7 @@
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg"
-      },
-      "artists": [
-        {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
-        }
-      ],
-      "duration_ms": 150005,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Excuse the Mess",
         "url": "https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ"
@@ -161,7 +129,39 @@
       "url": "https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "duration_ms": 150005,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Baby Shark",
         "url": "https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "the rainbow cassette",
         "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Smile Now Cry Never",
         "url": "https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/6QNphn62YKaHG1hrnPSoHi"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
@@ -265,10 +265,10 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8"
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
       },
       "artists": [
         {
@@ -278,10 +278,10 @@
       ],
       "duration_ms": 209259,
       "name": "golden hour",
-      "url": "https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh"
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "It's Corn",
         "url": "https://open.spotify.com/album/6UA672BEiCeihRReCCnlPb"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/58WiMFVLbAfmS7k4T0qKtG"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
@@ -349,23 +349,7 @@
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "NO STYLIST",
-        "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "NOSTYLIST",
-      "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "The Original Monster Mash",
         "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
@@ -385,7 +369,7 @@
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
@@ -401,7 +385,23 @@
       "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "NO STYLIST",
+        "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "NOSTYLIST",
+      "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Northern Attitude",
         "url": "https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4"
@@ -417,39 +417,7 @@
       "url": "https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "Coal Miner's Daughter",
-        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Coal Miner's Daughter - Single Version",
-      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58"
@@ -465,7 +433,39 @@
       "url": "https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -485,39 +485,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "Munch (Feelin\u2019 U)",
-        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 104819,
-      "name": "Munch (Feelin\u2019 U)",
-      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
@@ -533,27 +501,39 @@
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
-        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
-        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
+        "name": "Munch (Feelin\u2019 U)",
+        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 154560,
-      "name": "You're The Reason Our Kids Are Ugly",
-      "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
+      "duration_ms": 104819,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 204676,
+      "name": "Just Pretend",
+      "url": "https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "This fffire",
         "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
@@ -569,39 +549,7 @@
       "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "You Ain't Woman Enough",
-        "url": "https://open.spotify.com/album/1bUKhQcYBhJqEUEHRqOgmj"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 135160,
-      "name": "You Ain't Woman Enough",
-      "url": "https://open.spotify.com/track/5XOM6Neo5IACRMhvd2ibKA"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
@@ -617,39 +565,23 @@
       "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
-        "name": "ENTWURF",
-        "url": "https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 165746,
-      "name": "DICE",
-      "url": "https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "Nightmare Before Christmas",
-        "url": "https://open.spotify.com/album/2qmppQg4IgJRMFbWuwQLw7"
-      },
-      "artists": [
-        {
-          "name": "Disney Characters",
-          "url": "https://open.spotify.com/artist/6utdPEv71mR0DnGp74cJIz"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "This Is Halloween",
-      "url": "https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Burn, Burn, Burn",
         "url": "https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR"
@@ -665,7 +597,23 @@
       "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "Buckles Laboratories Presents: The Intermission",
+        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Spread Thin",
+      "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
@@ -685,23 +633,23 @@
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
-        "name": "Buckles Laboratories Presents: The Intermission",
-        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
+        "name": "Nightmare Before Christmas",
+        "url": "https://open.spotify.com/album/2qmppQg4IgJRMFbWuwQLw7"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Disney Characters",
+          "url": "https://open.spotify.com/artist/6utdPEv71mR0DnGp74cJIz"
         }
       ],
-      "duration_ms": 202519,
-      "name": "Spread Thin",
-      "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
@@ -717,71 +665,23 @@
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
-        "name": "THE DEATH OF PEACE OF MIND",
-        "url": "https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ"
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP"
       },
       "artists": [
         {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 204676,
-      "name": "Just Pretend",
-      "url": "https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2"
+      "duration_ms": 165746,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "Danielle (smile on my face)",
-        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
-      "album": {
-        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
-      },
-      "artists": [
-        {
-          "name": "Andrew Gold",
-          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
-        }
-      ],
-      "duration_ms": 125624,
-      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
-      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
-    },
-    {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "No Wind Resistance SPED UP!",
         "url": "https://open.spotify.com/album/5QOIpTHNCMfnDJSXU2pCv1"
@@ -797,23 +697,59 @@
       "url": "https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
-        "name": "Face no Book",
-        "url": "https://open.spotify.com/album/3OVDIdP6r46Sih6DN0vyHc"
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
       },
       "artists": [
         {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
         }
       ],
-      "duration_ms": 145057,
-      "name": "Face no Book",
-      "url": "https://open.spotify.com/track/61F7oyUltrI5dMVw3IvbQT"
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "Danielle (smile on my face)",
+        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "BACK IN ACTION 3.0",
+        "url": "https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 133136,
+      "name": "223's (feat. BabyTron)",
+      "url": "https://open.spotify.com/track/2Gn3xsO0hacXJy1Z2EHrgm"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
@@ -833,7 +769,55 @@
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "Face no Book",
+        "url": "https://open.spotify.com/album/3OVDIdP6r46Sih6DN0vyHc"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "duration_ms": 145057,
+      "name": "Face no Book",
+      "url": "https://open.spotify.com/track/61F7oyUltrI5dMVw3IvbQT"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "Oxford Circus",
+        "url": "https://open.spotify.com/album/5qmqQfXZ4qTu6HqZ9PMyLC"
+      },
+      "artists": [
+        {
+          "name": "Frex",
+          "url": "https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr"
+        }
+      ],
+      "duration_ms": 152019,
+      "name": "Oxford Circus",
+      "url": "https://open.spotify.com/track/41pmDwHHK9rvdvp6sezqaf"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
       "album": {
         "name": "Run Away to Mars",
         "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
@@ -849,20 +833,40 @@
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
     },
     {
-      "added_at": "2022-10-11 11:53:05",
+      "added_at": "2022-10-12 12:39:59",
       "album": {
-        "name": "Satin Panthers",
-        "url": "https://open.spotify.com/album/0d99LxnQpiPLgSGDRuU9HT"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 171720,
-      "name": "Cbat",
-      "url": "https://open.spotify.com/track/0AzD1FEuvkXP1verWfaZdv"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "added_at": "2022-10-12 12:39:59",
+      "album": {
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 147426,
+      "name": "New thing (Prod. ZICO) (Feat. Homies)",
+      "url": "https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR"
     }
   ],
   "unique_name": "Viral 50 - USA",

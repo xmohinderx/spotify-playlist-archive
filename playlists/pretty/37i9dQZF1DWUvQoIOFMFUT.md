@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,289 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,291 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 4 | [Evaporate](https://open.spotify.com/track/0W0OvPCLT47F8FojLyzWM4) | [Dirty Dreamer](https://open.spotify.com/artist/5zoxiaLvLZspEXDf4nRStt) | [Evaporate](https://open.spotify.com/album/1ttNH67F2Yb1E9fMppcyDu) | 4:11 |
 | 5 | [Did You Know?](https://open.spotify.com/track/4ajhEvz68KJrN1xub1wmHN) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Sunday Walker EP](https://open.spotify.com/album/2jo4HUAOLOv3pZxt7dOrBc) | 3:30 |
 | 6 | [Love Crimes](https://open.spotify.com/track/2CCwrjuDsnmsgpQaw7YdaJ) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Love Crimes](https://open.spotify.com/album/5bENxEMiIDx7w0HgJlEZH0) | 3:55 |
-| 7 | [Our Bones Turn To Stone](https://open.spotify.com/track/3L0XH247cWBtheVx7Tkfaa) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Our Bones Turn To Stone](https://open.spotify.com/album/0dwMCKOYFs0j4pWRx9iuZ5) | 4:20 |
+| 7 | [Our Bones Turn To Stone](https://open.spotify.com/track/2dG6GUKbE9iOwvnekPYqpj) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 4:20 |
 | 8 | [Floating](https://open.spotify.com/track/1MZISLnqzwG3xU6YuQHqPo) | [Lo](https://open.spotify.com/artist/4PWIYHR91QGrOmK0diFMKO) | [Floating](https://open.spotify.com/album/73sU1DlOXPgcp3Z3kFTXYo) | 3:37 |
 | 9 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 |
 | 10 | [Drowning In Dreams](https://open.spotify.com/track/6SekGxt9TDUnZX7LcOZeyB) | [Ed Harcourt](https://open.spotify.com/artist/5EOPLr73C9nIPYwVEAsiOY) | [Drowning In Dreams](https://open.spotify.com/album/5nQi4Ay9Ll58sCAuDY0Oi2) | 4:57 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 62 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 |
 | 63 | [This is Where it Ends](https://open.spotify.com/track/58VEaFuQPo9VYXz2775CA3) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Golden Veins](https://open.spotify.com/album/2vzDjT8BARIETMFRL7Yn0o) | 3:42 |
 | 64 | [In Uh Breeze](https://open.spotify.com/track/2HTObBIfTFYx6d7hReu8ff) | [Monica Riskey](https://open.spotify.com/artist/3JpHMpV3QOd4qrz7Jfkw7w) | [In Uh Breeze](https://open.spotify.com/album/5J7Q14CwfO0wkQXreGWa3R) | 2:18 |
-| 65 | [The Sun Is Up Forever](https://open.spotify.com/track/1Lb1S77Ooubhoy3sz509aY) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/4E2TcDaegufL6YTbOzHiqR) | 3:44 |
+| 65 | [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 |
 | 66 | [Chewing Cotton Wool](https://open.spotify.com/track/3XxI16XYIjNhbvMFSN6Mlg) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 3:29 |
 | 67 | [Let You Down](https://open.spotify.com/track/2fPLTshHikksne597oM4q5) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [See Inside](https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db) | 3:26 |
 | 68 | [Wonder](https://open.spotify.com/track/7wq53xU6AozEaJV4CgNMQq) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Wonder / Own Me](https://open.spotify.com/album/0TVZKR5ERQr5GqKi8T1OJa) | 6:32 |
-| 69 | [Just Asking](https://open.spotify.com/track/4LoMqgfxEbYZrnqxloUMAq) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/6k4YdfQ8Qe8RIRmKB5ReFn) | 2:29 |
+| 69 | [Just Asking](https://open.spotify.com/track/6D1dL8RshXW9TkhqFRynx5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/7pddbmgA9wlMn6HomsAe2d) | 2:29 |
 | 70 | [Don't Forget About Me](https://open.spotify.com/track/5qUujOsbcVq8oo3ndNET6e) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:06 |
 | 71 | [Alright](https://open.spotify.com/track/1MrUQX327aKDnOawrNnRUJ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:02 |
 | 72 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 93 | [Kilkee](https://open.spotify.com/track/23ib6CJ9JzEJUsItSsPDXm) | [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Music for Picture: Vol\. II \(Metamorphosis\)](https://open.spotify.com/album/6ZFEU4um5fjx39GpnByQ53) | 4:00 |
 | 94 | [In the Belly of a Whale](https://open.spotify.com/track/2hU9NAYFdxDAMFhqgsCzQ4) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ), [Amy Acre](https://open.spotify.com/artist/4t6FYLW8R53UEGbdqLbj6B) | [In the Belly of a Whale](https://open.spotify.com/album/42JPvWoQRhGO7qkXJAw8Yx) | 2:13 |
 | 95 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
-| 96 | [Sober](https://open.spotify.com/track/2lQv5l2Bmf7hYyYwjNe2lC) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober](https://open.spotify.com/album/7qM4xyGyZdO6K2r2k7Lz7V) | 3:19 |
+| 96 | [Sober](https://open.spotify.com/track/3fztFuRWPK8GkA8KhMjeYY) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober](https://open.spotify.com/album/4D3dgRuKR8T0tEREC6DdNh) | 3:19 |
 | 97 | [Shiloh](https://open.spotify.com/track/0sgYRasGsU85hoCMvFnYWO) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Shiloh](https://open.spotify.com/album/3JDi0dBUFke6XS30gSQx7r) | 3:17 |
 | 98 | [On The Way There](https://open.spotify.com/track/1cwV9KDoWoL2espNeeibvb) | [RolledBack](https://open.spotify.com/artist/1XZkIY1rC0QNcjpSIdMCoU), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [On The Way There](https://open.spotify.com/album/47SYiqJbww6E7jwvXscLSR) | 2:25 |
 | 99 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 | 100 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
 
-Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMGZlNGY1MDEwZWI5N2U0ZDczNTgzZWQ4N2U5OGJlMDVk`
+Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMDY4MzNlZTViZjMzZGQ4MTMwZWUxYmRkY2RkOGU1NWI5`

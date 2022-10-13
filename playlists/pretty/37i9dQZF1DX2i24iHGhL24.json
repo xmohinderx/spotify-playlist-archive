@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Lewis Capaldi",
-  "num_followers": 77062,
+  "num_followers": 77197,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4MTE1NywwMDAwMDAwMGZmMTM4YzljNjgyNmMzODc1MzJhZjU4YTY1ZjVlYzNj",
+  "snapshot_id": "MTY2NDQ4MTE1NywwMDAwMDAwMGU5YTU1YTkzNmNiNTg1NmYxZmEzZTYxM2UwYzc0ZDNi",
   "tracks": [
     {
       "added_at": "2022-09-23 04:12:38",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
     },
     {
-      "added_at": "2022-10-12 01:49:11",
+      "added_at": "2022-10-13 01:40:41",
       "album": {
         "name": "I Wanna Dance With Somebody (Who Loves Me)",
         "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Lay All Your Love On Me - Spotify Singles",
-        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
+        "name": "You Broke Me First",
+        "url": "https://open.spotify.com/album/4bpL1S1jMzH9OlPWVSoaue"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
         }
       ],
-      "duration_ms": 161125,
-      "name": "Lay All Your Love On Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
+      "duration_ms": 160942,
+      "name": "You Broke Me First",
+      "url": "https://open.spotify.com/track/2xKy8HbpMFgHV2xZhpQf12"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "You Broke Me First",
-        "url": "https://open.spotify.com/album/4bpL1S1jMzH9OlPWVSoaue"
+        "name": "Lay All Your Love On Me - Spotify Singles",
+        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
       },
       "artists": [
         {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 160942,
-      "name": "You Broke Me First",
-      "url": "https://open.spotify.com/track/2xKy8HbpMFgHV2xZhpQf12"
+      "duration_ms": 161125,
+      "name": "Lay All Your Love On Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "glimpse of us",
-        "url": "https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "glimpse of us",
-      "url": "https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "glimpse of us",
+        "url": "https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "glimpse of us",
+      "url": "https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
       },
       "artists": [
         {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
         }
       ],
-      "duration_ms": 268840,
-      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
-      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
+      "duration_ms": 228693,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
       },
       "artists": [
         {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
         }
       ],
-      "duration_ms": 228693,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
+      "duration_ms": 268840,
+      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Semicolon & Parentheses (Deluxe)",
+        "url": "https://open.spotify.com/album/2e3gKhMqzbDQBuB8ZRbLXl"
+      },
+      "artists": [
+        {
+          "name": "Dylan Rockoff",
+          "url": "https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5"
+        },
+        {
+          "name": "Caroline Kole",
+          "url": "https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu"
+        }
+      ],
+      "duration_ms": 172782,
+      "name": "You're the One That I Want",
+      "url": "https://open.spotify.com/track/3XfctDFgPl4vA6aCCXb1KW"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 230775,
       "name": "High",
       "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Semicolon & Parentheses (Deluxe)",
-        "url": "https://open.spotify.com/album/2e3gKhMqzbDQBuB8ZRbLXl"
-      },
-      "artists": [
-        {
-          "name": "Dylan Rockoff",
-          "url": "https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5"
-        },
-        {
-          "name": "Caroline Kole",
-          "url": "https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu"
-        }
-      ],
-      "duration_ms": 172782,
-      "name": "You're the One That I Want",
-      "url": "https://open.spotify.com/track/3XfctDFgPl4vA6aCCXb1KW"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1599,22 +1599,6 @@
       "duration_ms": 230306,
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1791,22 +1775,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "No Letting Go",
-        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
-      },
-      "artists": [
-        {
-          "name": "Dan Caplen",
-          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "No Letting Go - Acoustic",
-      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Another Bundle of Tantrums",
         "url": "https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB"
       },
@@ -1819,6 +1787,22 @@
       "duration_ms": 247816,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "No Letting Go",
+        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
+      },
+      "artists": [
+        {
+          "name": "Dan Caplen",
+          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "No Letting Go - Acoustic",
+      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -1979,22 +1963,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "It's Gonna Be Me",
-        "url": "https://open.spotify.com/album/43mqswumv5wL0UseBpGeMV"
-      },
-      "artists": [
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/0BiuccnShiPP1MIccIu6m5"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Dance In The Dark (Spotify Singles)",
         "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
       },
@@ -2111,30 +2079,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/6h9bC3nDWad10hG7b5UCbd"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "AJ Salvatore",
-          "url": "https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9"
-        },
-        {
-          "name": "Calica",
-          "url": "https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG"
-        }
-      ],
-      "duration_ms": 146668,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/6Ngyk6TvmMeXqxlgdq0u9f"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Nothing Breaks Like A Heart",
         "url": "https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD"
       },
@@ -2167,18 +2111,26 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo"
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/6h9bC3nDWad10hG7b5UCbd"
       },
       "artists": [
         {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "AJ Salvatore",
+          "url": "https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9"
+        },
+        {
+          "name": "Calica",
+          "url": "https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG"
         }
       ],
-      "duration_ms": 299280,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF"
+      "duration_ms": 146668,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/6Ngyk6TvmMeXqxlgdq0u9f"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2199,18 +2151,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Into You",
-        "url": "https://open.spotify.com/album/4gzNs2NUQpmboWO7CTbHGM"
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo"
       },
       "artists": [
         {
-          "name": "Nick Wilson",
-          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
         }
       ],
-      "duration_ms": 286506,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/0mzTvUqyQuXJ3J9KuVNFah"
+      "duration_ms": 299280,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2311,22 +2263,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "How Long Will I Love You",
-        "url": "https://open.spotify.com/album/3v1oL5411yFq1F295H9WWy"
-      },
-      "artists": [
-        {
-          "name": "Kristina Train",
-          "url": "https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK"
-        }
-      ],
-      "duration_ms": 140090,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/1SkEgcnthm7jz1p4eEyHB7"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
       },
@@ -2339,6 +2275,22 @@
       "duration_ms": 266280,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "How Long Will I Love You",
+        "url": "https://open.spotify.com/album/3v1oL5411yFq1F295H9WWy"
+      },
+      "artists": [
+        {
+          "name": "Kristina Train",
+          "url": "https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK"
+        }
+      ],
+      "duration_ms": 140090,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/1SkEgcnthm7jz1p4eEyHB7"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2591,18 +2543,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
+        "name": "Meet Me At Our Spot",
+        "url": "https://open.spotify.com/album/3THXn3TUoFfSSinL7c8NKu"
       },
       "artists": [
         {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+          "name": "Groovie Gang",
+          "url": "https://open.spotify.com/artist/3PcuPOF2Ev7AF4Fj4pLFLf"
+        },
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
         }
       ],
-      "duration_ms": 233865,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
+      "duration_ms": 162666,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/5soh0KBoNInC6rSQ57vCvl"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2619,6 +2575,22 @@
       "duration_ms": 127400,
       "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
       "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 233865,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2651,26 +2623,6 @@
       "duration_ms": 141265,
       "name": "Heat Waves (Acoustic)",
       "url": "https://open.spotify.com/track/2wZnPyFXOFw1zXU4G7y9ab"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Meet Me At Our Spot",
-        "url": "https://open.spotify.com/album/3THXn3TUoFfSSinL7c8NKu"
-      },
-      "artists": [
-        {
-          "name": "Groovie Gang",
-          "url": "https://open.spotify.com/artist/3PcuPOF2Ev7AF4Fj4pLFLf"
-        },
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/5soh0KBoNInC6rSQ57vCvl"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2723,18 +2675,18 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "The One That Got Away (Acoustic)",
-        "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
       },
       "artists": [
         {
-          "name": "Landon Austin",
-          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
         }
       ],
-      "duration_ms": 217884,
-      "name": "The One That Got Away - Acoustic",
-      "url": "https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP"
+      "duration_ms": 275954,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2755,6 +2707,22 @@
       "duration_ms": 220165,
       "name": "Stuck With U",
       "url": "https://open.spotify.com/track/2KjNR7eOwdcUhHPgfj5xsl"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "The One That Got Away (Acoustic)",
+        "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
+      },
+      "artists": [
+        {
+          "name": "Landon Austin",
+          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
+        }
+      ],
+      "duration_ms": 217884,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -2807,22 +2775,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
-        }
-      ],
-      "duration_ms": 275954,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "The Only Exception",
         "url": "https://open.spotify.com/album/25Gq8GQj2uYdWWRwfvuqbW"
       },
@@ -2871,22 +2823,6 @@
       "duration_ms": 259866,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/4JRsIxxToO1yQAxVcXcrMF"
-      },
-      "artists": [
-        {
-          "name": "Beatrich",
-          "url": "https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W"
-        }
-      ],
-      "duration_ms": 225931,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0dq8XHrYcusGvwXmda53v1"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -3039,22 +2975,6 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
-        "name": "In Da Club",
-        "url": "https://open.spotify.com/album/7JAUDSWptc3QlTIuqGT3lN"
-      },
-      "artists": [
-        {
-          "name": "Skylar Stecker",
-          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4NDvqNg11hSuNpiGUtnlRU"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
       },
@@ -3103,6 +3023,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Undercover Heartbreak EP",
+        "url": "https://open.spotify.com/album/6KJAw3Oq1GxFudELGregkh"
+      },
+      "artists": [
+        {
+          "name": "Saibh Skelly",
+          "url": "https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq"
+        }
+      ],
+      "duration_ms": 250765,
+      "name": "I Hate U, I Love U",
+      "url": "https://open.spotify.com/track/3JPkmsyibgVTfk8z5QabEs"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Sweet Dreams (Are Made of This)",
         "url": "https://open.spotify.com/album/1ryMDSZzakLR7RxHo6CmIx"
       },
@@ -3119,22 +3055,6 @@
       "duration_ms": 163440,
       "name": "Sweet Dreams (Are Made of This) [Epic Mix]",
       "url": "https://open.spotify.com/track/3IxGrrXUhehYdSHrEkhzRh"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Undercover Heartbreak EP",
-        "url": "https://open.spotify.com/album/6KJAw3Oq1GxFudELGregkh"
-      },
-      "artists": [
-        {
-          "name": "Saibh Skelly",
-          "url": "https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq"
-        }
-      ],
-      "duration_ms": 250765,
-      "name": "I Hate U, I Love U",
-      "url": "https://open.spotify.com/track/3JPkmsyibgVTfk8z5QabEs"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -3171,6 +3091,22 @@
     {
       "added_at": "2022-09-23 04:12:38",
       "album": {
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/25GWC11DEuw5a6ADXWUrbi"
+      },
+      "artists": [
+        {
+          "name": "Lain Roy",
+          "url": "https://open.spotify.com/artist/76Xhl3MVWLX8m6XtWkdbfI"
+        }
+      ],
+      "duration_ms": 183272,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/0VF4TY3HJBHRmaKSY1bxpF"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
         "name": "Exile",
         "url": "https://open.spotify.com/album/7JCNbamEBw6AQoTgWbiZhJ"
       },
@@ -3187,22 +3123,6 @@
       "duration_ms": 200833,
       "name": "Exile",
       "url": "https://open.spotify.com/track/2l7PYimEwpigpxWOiYNoRl"
-    },
-    {
-      "added_at": "2022-09-23 04:12:38",
-      "album": {
-        "name": "Someone You Loved",
-        "url": "https://open.spotify.com/album/25GWC11DEuw5a6ADXWUrbi"
-      },
-      "artists": [
-        {
-          "name": "Lain Roy",
-          "url": "https://open.spotify.com/artist/76Xhl3MVWLX8m6XtWkdbfI"
-        }
-      ],
-      "duration_ms": 183272,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/0VF4TY3HJBHRmaKSY1bxpF"
     },
     {
       "added_at": "2022-09-23 04:12:38",
@@ -3287,6 +3207,86 @@
       "duration_ms": 198786,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/27yOQlX52G98v1uHMG61rP"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "It's Gonna Be Me",
+        "url": "https://open.spotify.com/album/2SHb6bK1Nd1U5wCRYBcz5V"
+      },
+      "artists": [
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/0IFNMiEiGvBcxJmRhhsjB8"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "In Da Club",
+        "url": "https://open.spotify.com/album/0tY0cLxwPSwvjyFfOol58C"
+      },
+      "artists": [
+        {
+          "name": "Skylar Stecker",
+          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "duration_ms": 286506,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB"
+    },
+    {
+      "added_at": "2022-09-23 04:12:38",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5IgTsKqq63FsI9X8dy5Kx2"
+      },
+      "artists": [
+        {
+          "name": "Beatrich",
+          "url": "https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W"
+        }
+      ],
+      "duration_ms": 225931,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/61FD9qllUEjEopoBfngusF"
     }
   ],
   "unique_name": "Pop Covers",

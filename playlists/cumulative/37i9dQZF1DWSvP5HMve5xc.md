@@ -4,7 +4,7 @@
 
 > Listen to Eric Nam's greatest hits, all in one place.
 
-83 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/64ceLtYUlFs3VLXFCEHFFn)
+84 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/64ceLtYUlFs3VLXFCEHFFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Interview](https://open.spotify.com/track/2izPoWJ6xAuZUNJkdXO3YS) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:25 | 2021-10-14 |  |
 | [Into You](https://open.spotify.com/track/1ySJm5XCFatpIz0j8NFlra) | [KOLAJ](https://open.spotify.com/artist/0hhL0iOf9ebHlwxWQyeH2w), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Into You](https://open.spotify.com/album/3Q33VTKlvcTy5wPTqpwDlK) | 3:45 | 2021-10-14 |  |
 | [Like You](https://open.spotify.com/track/2BHCx2cYIA4pJiXdXCicWT) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Like You](https://open.spotify.com/album/06ig0YtKAdv3OLh3te14Hm) | 2:53 | 2021-10-14 | 2022-07-29 |
-| [Like You](https://open.spotify.com/track/7yERcsIjjI9EO6AJMG2Rw9) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Like You](https://open.spotify.com/album/6eXbcBdkpjbvmQnP8OX64e) | 2:53 | 2021-10-14 |  |
+| [Like You](https://open.spotify.com/track/79HRioSXcdx1C1EI0OYhnb) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Like You](https://open.spotify.com/album/1LGPSvjg56zvngewWWvxf7) | 2:53 | 2021-10-14 |  |
+| [Like You](https://open.spotify.com/track/7yERcsIjjI9EO6AJMG2Rw9) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Like You](https://open.spotify.com/album/6eXbcBdkpjbvmQnP8OX64e) | 2:53 | 2021-10-14 | 2022-10-13 |
 | [Lose You](https://open.spotify.com/track/1SWza9L60qLwv7QYumlBTr) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Honestly](https://open.spotify.com/album/3VJ491AjnQygF0lcuiRD5D) | 3:03 | 2021-10-14 | 2022-07-29 |
 | [Lose You](https://open.spotify.com/track/7MIdbo0RDBjAhtfuqBJ0o1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Honestly](https://open.spotify.com/album/5fhNla7mPuyaDXPwZUhM3Q) | 3:03 | 2021-10-14 |  |
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2022-01-09 |  |

@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-128 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
+131 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Aussie Raver](https://open.spotify.com/track/2IxukbfXzRflTlE06OFI7l) | [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Aussie Raver](https://open.spotify.com/album/4TKmOab6AcYpZmYw44Qkxd) | 2:59 | 2022-09-14 |  |
 | [Aï\-Aï Heyveh Heyveh](https://open.spotify.com/track/4Qr32AUTbgtobPsduiefqE) | [Hamlet Minassian](https://open.spotify.com/artist/68S0gjRMzuqF5zzDlJekQ2) | [Armenian Pop Music](https://open.spotify.com/album/2AqtoC4FaYHRGOYHpbdLRl) | 7:51 | 2022-09-14 |  |
 | [Bars from Unamii](https://open.spotify.com/track/31uHyMfrLRyhc4bdC4eyby) | [Unamii](https://open.spotify.com/artist/46SAbgtAJfViAEME9nlPBm) | [Bars from Unamii](https://open.spotify.com/album/5INRdCI8g18EM4ZW8HrjZP) | 3:02 | 2022-09-14 |  |
-| [Basement Jack](https://open.spotify.com/track/30o8E8pmxyWDVvjud2WE5i) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 1:49 | 2022-09-14 |  |
+| [Basement Jack](https://open.spotify.com/track/30o8E8pmxyWDVvjud2WE5i) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 1:49 | 2022-09-14 | 2022-10-13 |
+| [Basement Jack](https://open.spotify.com/track/3NOIkyNWG0fEjkPkq9HVMW) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 1:49 | 2022-09-15 |  |
 | [Bassically](https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR) | 4:51 | 2022-09-14 |  |
 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 | 2022-09-14 |  |
 | [BIG](https://open.spotify.com/track/2Vbl3bHFd4vlc6WSgMbfbX) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [BIG](https://open.spotify.com/album/78UBl7rvKtr1BMdKT7Rfnb) | 3:38 | 2022-09-14 |  |
@@ -63,7 +64,8 @@
 | [Gasoline \- Intro](https://open.spotify.com/track/1KHOOsJUHBy82PCZVV8Lmd) | [Alpine](https://open.spotify.com/artist/4tKUoNubW02udXOh7SLtXV) | [A Is For Alpine](https://open.spotify.com/album/3ap04q3OeoyOHMs2WJytN4) | 3:21 | 2022-09-14 |  |
 | [GET ME OUT](https://open.spotify.com/track/5R8xUhYG8vJnFUX0TVfKRj) | [RBI](https://open.spotify.com/artist/1W274H48h2fREZkw3JoH5p) | [GET ME OUT / TAKE IT FOR ME ON THE FLOOR](https://open.spotify.com/album/5N9dpTKzTP7lHmutcCB7Gh) | 7:04 | 2022-09-14 |  |
 | [Gold Chains](https://open.spotify.com/track/07yIuXSdR31mHU6aR40pcV) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ) | 3:38 | 2022-09-14 |  |
-| [Good Times](https://open.spotify.com/track/0XzbAAWtu0zx6bnDbBUcOs) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3hie3PiFhq6i06fuptTaZ0) | 2:50 | 2022-09-14 |  |
+| [Good Times](https://open.spotify.com/track/0XzbAAWtu0zx6bnDbBUcOs) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3hie3PiFhq6i06fuptTaZ0) | 2:50 | 2022-09-14 | 2022-10-13 |
+| [Good Times](https://open.spotify.com/track/7yicVvWnecC6g7POm1mJPb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3sI8iJNJwOWEUXdEZTVtvi) | 2:50 | 2022-09-15 |  |
 | [H.G.S](https://open.spotify.com/track/12rSnesdLIZfCzDDk9ZEef) | [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B), [Ms\. Thandi](https://open.spotify.com/artist/0puWDWtG4G9xAJJ6JiZEfA) | [H.G.S](https://open.spotify.com/album/5znkcA0rAq6SIn0OaqKlhP) | 3:01 | 2022-09-14 |  |
 | [Higher](https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Higher](https://open.spotify.com/album/5bNltaFAuWA5gyTTCamcve) | 3:14 | 2022-09-14 |  |
 | [Horseplay](https://open.spotify.com/track/32NHD872Tc7Mh9upntoWjN) | [The Living Eyes](https://open.spotify.com/artist/4Z4RMwDmV4PnKo93AneaqA) | [Modern Living](https://open.spotify.com/album/6H2WvFXkzTqkTLeCdIjsMf) | 2:05 | 2022-09-14 |  |
@@ -75,7 +77,8 @@
 | [Kareem](https://open.spotify.com/track/61QdEvjU6RjbDEIThp78DY) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [GLYPH](https://open.spotify.com/album/01ukt6uUhOmr6N9TvAsUrE) | 1:54 | 2022-09-14 |  |
 | [Kong Foo Sing](https://open.spotify.com/track/0tQLJssKmS3zYc9QW4nikt) | [Regurgitator](https://open.spotify.com/artist/6n3YUZcayLRuAunJUUelvz) | [Tu\-Plang](https://open.spotify.com/album/3sScP5vSCKBsNhBn4Sxm3h) | 3:01 | 2022-09-14 |  |
 | [La Receta](https://open.spotify.com/track/0NK83JCa5xqVMJrEXW3WqB) | [Kemo The Blaxican](https://open.spotify.com/artist/3ARkK5SVTmR3IxAb7pBEyf) | [Simple Plan](https://open.spotify.com/album/1rI0hBIInUgSE701IxUYc4) | 3:43 | 2022-09-14 |  |
-| [Lay Me Down](https://open.spotify.com/track/2ezzd77TFTHCK2EuV6Y8uF) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:03 | 2022-09-14 |  |
+| [Lay Me Down](https://open.spotify.com/track/2ezzd77TFTHCK2EuV6Y8uF) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:03 | 2022-09-14 | 2022-10-13 |
+| [Lay Me Down](https://open.spotify.com/track/7a60lyI9Wy3eezBpGZ37Ni) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:03 | 2022-09-15 |  |
 | [Les Fleurs](https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Come To My Garden](https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV) | 3:19 | 2022-09-14 |  |
 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2022-09-14 |  |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2022-09-14 |  |
@@ -114,7 +117,7 @@
 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 | 2022-09-14 |  |
 | [Sweet Sweet, So Sweet](https://open.spotify.com/track/0AjPf0VlaUXQMDIxguOEnI) | [Al Hazan](https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j) | [Sweet Sweet, So Sweet](https://open.spotify.com/album/5QZVAFAqkhs26qV1OoOJ5m) | 2:05 | 2022-09-14 |  |
 | [Tasteflash](https://open.spotify.com/track/6Q3XmKqHl6d1cXogRLhQNG) | [Strict Face](https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq) | [Tasteflash](https://open.spotify.com/album/6nF1GZ3SlWUahRUUTkTmva) | 4:33 | 2022-09-14 |  |
-| [Tear the House Up \- Edit](https://open.spotify.com/track/5mrDwQ85b5WGRsyub91Jn9) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear the House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 3:15 | 2022-09-14 |  |
+| [Tear the House Up \- Edit](https://open.spotify.com/track/5mrDwQ85b5WGRsyub91Jn9) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear The House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 3:15 | 2022-09-14 |  |
 | [Teenage Birdsong](https://open.spotify.com/track/4onzxTzKgnSrKUmA2YydJB) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 3:25 | 2022-09-14 |  |
 | [Teeth](https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:09 | 2022-09-14 |  |
 | [Thank You](https://open.spotify.com/track/1ychA86oJ3V1UqmFOVhu8U) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Thank You](https://open.spotify.com/album/3zVJkyQpwxJvKGLpuscxZR) | 5:50 | 2022-09-14 |  |

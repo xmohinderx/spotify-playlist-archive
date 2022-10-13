@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-138 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+140 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,12 +27,14 @@
 | [Atlavík](https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Varða](https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH) | 2:35 | 2022-05-31 |  |
 | [Autumnal](https://open.spotify.com/track/2KIx2bD6uvUYDZ2XrAKZXN) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/0BO4sOTUYgYnuQuNqXGbX6) | 5:28 | 2021-12-08 |  |
 | [Awakening](https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Starlight Passage](https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc) | 2:28 | 2022-08-03 |  |
-| [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2021-12-08 |  |
+| [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2021-12-08 | 2022-10-13 |
+| [Bacall](https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Noir](https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G) | 4:06 | 2022-09-16 |  |
 | [Beau](https://open.spotify.com/track/4HlyP1UN4PSkGowgNeYWep) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Flourishing Views](https://open.spotify.com/album/3EwiPwpIygpD2BwEzqbUsw) | 2:17 | 2021-12-08 |  |
 | [Bloom](https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Bloom](https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM) | 4:36 | 2022-09-06 |  |
 | [Blur](https://open.spotify.com/track/7eHDn7TyswvJIfxWGtIYKk) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [Blur](https://open.spotify.com/album/74AP9PqF7MTlqiRy9oXiPd) | 1:56 | 2021-12-08 |  |
 | [both sides of the coin](https://open.spotify.com/track/1chT7Yo3zSvjFPRQ20fWFH) | [Electric Rivers](https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV) | [crestline](https://open.spotify.com/album/0uQHf0jM3WV0yLSoS9x2tj) | 2:51 | 2022-08-03 |  |
-| [cabin](https://open.spotify.com/track/7yKMGeJM3EjNrS6QXnY6xP) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X) | 3:20 | 2021-12-08 |  |
+| [cabin](https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i) | 3:20 | 2022-09-16 |  |
+| [cabin](https://open.spotify.com/track/7yKMGeJM3EjNrS6QXnY6xP) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X) | 3:20 | 2021-12-08 | 2022-10-13 |
 | [Candles](https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl) | 2:28 | 2022-07-25 |  |
 | [Candles](https://open.spotify.com/track/7qH6ICtmf08M8l3bvM27Gc) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Klassik Lounge Nightflight Vol.05 \(compiled by DJ Nartak\)](https://open.spotify.com/album/39VIYItsoIbn6fGVUEi09F) | 2:30 | 2021-12-08 | 2022-07-29 |
 | [capable](https://open.spotify.com/track/1ZqVHQlXm0vBzazX60mgcb) | [Jai Gourgaud](https://open.spotify.com/artist/2u47nFG0ezqztjpaTg6Vjd) | [capable](https://open.spotify.com/album/15aolnX64r6fKjDQ9IHsYT) | 2:52 | 2021-12-08 |  |

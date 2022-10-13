@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,809 likes - 81 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,872 likes - 81 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 27 | [Christmas Lights \- Acoustic](https://open.spotify.com/track/4fID9YxejFIfo7b7xYvFpC) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Christmas Lights \(Acoustic\)](https://open.spotify.com/album/4isjOztosKGlatAuY1BoDT) | 3:23 |
 | 28 | [A Cradle In Bethlehem](https://open.spotify.com/track/76JY0EcePnLePHMXuYSkvH) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [A Cradle in Bethlehem](https://open.spotify.com/album/4riylNG00A6FG6CdVhb5hA) | 3:08 |
 | 29 | [O Come O Come Emmanuel](https://open.spotify.com/track/5JJFGM9oYDkEfG3bNAFyk4) | [Allie Peters](https://open.spotify.com/artist/7l02oACaptr9EPNWrOTOyv) | [O Come O Come Emmanuel](https://open.spotify.com/album/1fJaVLPYThL95uLSG7SoAl) | 2:28 |
-| 30 | [In the Bleak Midwinter](https://open.spotify.com/track/6eIlh4r8kaTAs3YQcSHkzu) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/7bzooZ5hpkaLmxvp4NKsnV) | 3:24 |
+| 30 | [In the Bleak Midwinter](https://open.spotify.com/track/0f0QKHOvwpcLuIe7nUjY6m) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/2cLYDYEWIHVCIXsjMmQi5u) | 3:24 |
 | 31 | [Angel \(Holiday\)](https://open.spotify.com/track/5mb6YQWIVJ44alLjCZmGTT) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 2:02 |
 | 32 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6vZFk2jBqRItgyiVkY2YuH) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Prepare Him Room: Celebrating the Birth of Jesus in Song](https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W) | 4:29 |
 | 33 | [Silent Night](https://open.spotify.com/track/2ry4hqA3P3I4kazKB7d8vQ) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 4:41 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 80 | [Baby, It's Cold Outside](https://open.spotify.com/track/7jCljZFQGhUqK1dNPtfvMQ) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Baby, It's Cold Outside](https://open.spotify.com/album/3eSv2kdz0jDZl8Vx9Oiakt) | 2:24 |
 | 81 | [Christmas Time Is Here](https://open.spotify.com/track/3rAaVjaPoRvFjhKYN5FGEv) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Christmas Time Is Here](https://open.spotify.com/album/411hIapXValKm4r5aFtJuM) | 2:46 |
 
-Snapshot ID: `MTY2NTEyNzAyMCwwMDAwMDAwMDg0YzllMjNlMjQ1NjJiMDdiNzJiNzI4Y2I4MzY2YmZk`
+Snapshot ID: `MTY2NTEyNzAyMCwwMDAwMDAwMDg1ZTE2YjZjNDAyNzI1Njg3NDY3ZDc3ODZlY2RmMGI2`

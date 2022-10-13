@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-762 songs - 1 day 15 hr 45 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+763 songs - 1 day 15 hr 48 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Ghetto Baby](https://open.spotify.com/track/0shx0ff9VlqOkUJn0dIBSc) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Ghetto Baby](https://open.spotify.com/album/4YLKRTg5TWcT31Vh00Qpep) | 2:52 | 2022-02-19 | 2022-02-21 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-03-27\* | 2022-03-28 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-11-10 | 2022-03-21 |
-| [Gi\-ga\-groen](https://open.spotify.com/track/5qHgkualSydbFiJHwKnD1Z) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Gi\-ga\-groen](https://open.spotify.com/album/5aXZyWxZlxLwr6bFL5Izu2) | 2:51 | 2022-10-06 |  |
+| [Gi\-ga\-groen](https://open.spotify.com/track/5qHgkualSydbFiJHwKnD1Z) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Gi\-ga\-groen](https://open.spotify.com/album/5aXZyWxZlxLwr6bFL5Izu2) | 2:51 | 2022-10-06 | 2022-10-13 |
 | [GIRL LIKE ME](https://open.spotify.com/track/2vBET2pmrQqafaS6zIaYta) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Translation](https://open.spotify.com/album/2eORe6u9TPXYisYshyXVeH) | 3:40 | 2021-03-27\* | 2021-04-29 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |
 | [Gister](https://open.spotify.com/track/4AWGjh7darnFpkErHiHgkw) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Gister](https://open.spotify.com/album/2WIiWSRjnunBQWMvEJfHlD) | 2:21 | 2021-07-18 | 2021-07-23 |
@@ -387,6 +387,7 @@
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-03 |
 | [Jongen Van De Straat](https://open.spotify.com/track/4Jdyy7kqElnApng4bbkZGg) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Jongen Van De Straat](https://open.spotify.com/album/6bbRGHKoIOP67F3xkBTNbR) | 3:48 | 2022-09-10 | 2022-09-15 |
 | [Jongens Van Plein](https://open.spotify.com/track/50xUHMCmsbBOp6aaihNYyg) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 2:24 | 2022-01-29 | 2022-03-14 |
+| [Jou Om Me Heen](https://open.spotify.com/track/4t3lYPJLLVDsijIvq6pkJS) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Jou Om Me Heen](https://open.spotify.com/album/29fIcsBMFkJiY9viuiJQmA) | 2:46 | 2022-10-12 |  |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-02 |
 | [Kamer Vol Kadootjes](https://open.spotify.com/track/2em14JGhJINUWgiHm6yPKb) | [Pietenkidz](https://open.spotify.com/artist/6YsruNrEt7IYqK70kLIbY5), [Sinterklaas](https://open.spotify.com/artist/1YxX0GETglQQ6wdUYj49No), [Sinterklaasliedjes](https://open.spotify.com/artist/2ieZVeLSXjusHvAKJCQ1NC) | [Sinterklaasliedjes 1](https://open.spotify.com/album/5QbYMER1ompqjSg9NNlSen) | 2:30 | 2021-12-07 | 2021-12-08 |
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-27 |

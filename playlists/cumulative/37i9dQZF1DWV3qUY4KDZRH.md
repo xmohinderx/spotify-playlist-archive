@@ -4,7 +4,7 @@
 
 > MUNA co\-curate a list of the very best songs from LGBTQQIA+ artists and allies that L.A\. has to offer.
 
-33 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/0xU8ZNY9JRY0CnmJx6Gc6H)
+34 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/0xU8ZNY9JRY0CnmJx6Gc6H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [PAIN](https://open.spotify.com/track/7quWqKzjJwYXF3cqSDSCRL) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [PAIN](https://open.spotify.com/album/6npMxPQjBYL8FQAX7USLp3) | 3:38 | 2021-06-01 |  |
 | [Parentheses](https://open.spotify.com/track/6CH88BsXz1gLCqHW0j8VkG) | [The Blow](https://open.spotify.com/artist/3VNDPLoRirZi28lxSEYkZQ) | [Paper Television](https://open.spotify.com/album/5tiikAhu5xqduJj6axzZyf) | 3:33 | 2021-06-01 |  |
 | [Parentheses](https://open.spotify.com/track/70AwQ6AWOFS89biHvqNRMi) | [The Blow](https://open.spotify.com/artist/3VNDPLoRirZi28lxSEYkZQ) | [Paper Television](https://open.spotify.com/album/44TBeWVP4PNrz8ymxbPzoE) | 3:33 | 2021-06-01 | 2022-07-29 |
-| [Pin\-Up Daddy \- Brian Robert Jones Remix](https://open.spotify.com/track/0B1R5NOFuh8I6sFzGMrwiS) | [Rett Madison](https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F), [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Pin\-Up Daddy \(Brian Robert Jones Remix\)](https://open.spotify.com/album/6qqpS52p4mvhI8sgYoxrSE) | 3:40 | 2021-06-01 |  |
+| [Pin\-Up Daddy \- Brian Robert Jones Remix](https://open.spotify.com/track/0B1R5NOFuh8I6sFzGMrwiS) | [Rett Madison](https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F), [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Pin\-Up Daddy \(Brian Robert Jones Remix\)](https://open.spotify.com/album/6qqpS52p4mvhI8sgYoxrSE) | 3:40 | 2021-06-01 | 2022-10-13 |
+| [Pin\-Up Daddy \- Brian Robert Jones Remix](https://open.spotify.com/track/33Lbb17TYpo2v2NnixiaJP) | [Rett Madison](https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F), [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Pin\-Up Daddy \(Brian Robert Jones Remix\)](https://open.spotify.com/album/3VcHTCLTR4BaIYSxAksjEx) | 3:40 | 2021-06-01 |  |
 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 | 2021-06-01 |  |
 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 | 2021-06-01 |  |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2021-06-01 |  |

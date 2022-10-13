@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,310 likes - 66 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,318 likes - 66 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cyclades](https://open.spotify.com/track/5zoutmgh0shaTKZvBP223V) | [Aera](https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk) | [Ghost Town EP](https://open.spotify.com/album/5KjHBY3qOkaNcCBD69Q6fP) | 3:47 |
 | 2 | [burning \(feat\. just lil\)](https://open.spotify.com/track/2DFA2QYJrgbUVMNgiavKEl) | [ones](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [burning \(feat\. just lil\)](https://open.spotify.com/album/1xusQdAD0SSLGvXqpHFGKS) | 4:06 |
 | 3 | [1st Of July](https://open.spotify.com/track/2rgg7I60pktUnxJzQHWGJa) | [Kev Koko](https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI) | [1st Of July](https://open.spotify.com/album/0YT7I1uzuXYzdNF0B1D6Ln) | 2:44 |
-| 4 | [Cajuína \- Polocorp Remix](https://open.spotify.com/track/057RkPftTEMNrEYdRISYEv) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [Cajuína \(Polocorp Remix\)](https://open.spotify.com/album/7JaL3GebDa7Zl7pVgjpnvW) | 4:11 |
+| 4 | [Cajuína \- Polocorp Remix](https://open.spotify.com/track/057RkPftTEMNrEYdRISYEv) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [Cajuína \(Polocorp Remix\)](https://open.spotify.com/album/7JaL3GebDa7Zl7pVgjpnvW) | 4:08 |
 | 5 | [Step](https://open.spotify.com/track/08BQkqwtl5AavghUuUsB58) | [Brandt Brauer Frick](https://open.spotify.com/artist/29TG40TGDvrOFQZM4adBf7) | [Step](https://open.spotify.com/album/1LLtX7iBHT9U4hjaBgnzdE) | 4:41 |
 | 6 | [Burning Inside](https://open.spotify.com/track/3Y3W8xehFIljbSPt9pu68B) | [Belaria](https://open.spotify.com/artist/1fUvHGqFLdxGCuZnACNflg) | [Boost & Doubts](https://open.spotify.com/album/1wSU2RlRXXUGRJ2ieouKDC) | 4:13 |
 | 7 | [Hope Song](https://open.spotify.com/track/15LuFB9WFKnpq9EebeKZIn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Hope Song](https://open.spotify.com/album/3RgNnPGMNQLis1bbHBcDXw) | 5:39 |

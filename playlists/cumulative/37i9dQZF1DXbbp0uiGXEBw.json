@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 272864,
       "name": "C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/0dxfg8dLCL3ox7qj8QmFaK"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 195000,
       "name": "M\u1eddi Anh V\u00e0o Team Em",
       "url": "https://open.spotify.com/track/4fx2Hs100AuN9qPsFj3fW7"
@@ -1786,6 +1786,24 @@
     },
     {
       "album": {
+        "name": "Tr\u00f3t Y\u00eau",
+        "url": "https://open.spotify.com/album/5bc2VEYLPy8dII9TTZ1caN"
+      },
+      "artists": [
+        {
+          "name": "Ai Phuong",
+          "url": "https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283887,
+      "name": "Tr\u00f3t Y\u00eau",
+      "url": "https://open.spotify.com/track/2lL7kSRjgVZjm942GdVOef"
+    },
+    {
+      "album": {
         "name": "after YOU",
         "url": "https://open.spotify.com/album/2J9z8vV5C4eutvLLoX2foQ"
       },
@@ -2171,6 +2189,24 @@
       "duration_ms": 267272,
       "name": "\u0110\u00f4i Mi Em \u0110ang U S\u1ea7u",
       "url": "https://open.spotify.com/track/0TAEZOaoZx5LBXEkePNrt4"
+    },
+    {
+      "album": {
+        "name": "\u0110\u00f4ng T\u00e2y Nam B\u1eafc",
+        "url": "https://open.spotify.com/album/5Dt3Lq7yoQ32mOiG3VRyYz"
+      },
+      "artists": [
+        {
+          "name": "Ai Phuong",
+          "url": "https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367799,
+      "name": "\u0110\u00f4ng T\u00e2y Nam B\u1eafc",
+      "url": "https://open.spotify.com/track/0hqCfsV0T1e35k7urmBBHz"
     },
     {
       "album": {

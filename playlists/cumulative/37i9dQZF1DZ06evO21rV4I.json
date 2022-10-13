@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 169813,
       "name": "Checklist (with Calvin Harris) (feat. Wizkid)",
       "url": "https://open.spotify.com/track/5xesHO6GLWTrjsKOjAXRmf"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Dis Love",
       "url": "https://open.spotify.com/track/4yF6ykrqb0iDtMjPtQMG8O"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 204631,
       "name": "Eve Bounce - Remix",
       "url": "https://open.spotify.com/track/4WivCZ8PeXzDPuoPHfNSaq"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 246126,
       "name": "Jaiye Jaiye",
       "url": "https://open.spotify.com/track/2vXJl10Kiu3IqMo8moFBFK"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 246828,
       "name": "Love My Baby",
       "url": "https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 233012,
       "name": "Low",
       "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 219946,
       "name": "Mamacita (feat. Wizkid)",
       "url": "https://open.spotify.com/track/5lZ8wDFNEFnFq3ahC08yBX"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 179439,
       "name": "Master Groove",
       "url": "https://open.spotify.com/track/6NynQjhojcFZ9iYhuezO6B"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 192560,
       "name": "Naughty Ride (feat. Major Lazer)",
       "url": "https://open.spotify.com/track/0erJdrkQUJlA7nbtn1qxQR"
@@ -1320,6 +1320,28 @@
     },
     {
       "album": {
+        "name": "Omo Olomo",
+        "url": "https://open.spotify.com/album/6EQxI2JlN9WV4hXWCbdhfl"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183315,
+      "name": "Omo Olomo",
+      "url": "https://open.spotify.com/track/52dfPXnhw6T9PJZ839w169"
+    },
+    {
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -1385,13 +1407,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 227970,
       "name": "Opo (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
@@ -1461,6 +1483,28 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "album": {
+        "name": "Diamond in the Rough",
+        "url": "https://open.spotify.com/album/6t7hQNIVpEOG7Lpk5rJIYZ"
+      },
+      "artists": [
+        {
+          "name": "Ceeza Milli",
+          "url": "https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "Shayo",
+      "url": "https://open.spotify.com/track/37KRtNYpPJ2tK6UcT8PGr0"
     },
     {
       "album": {
@@ -1589,7 +1633,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 205773,
       "name": "Sundown (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1yQ8woSt5tJ7pGJyQGuc2q"
@@ -1689,13 +1733,13 @@
           "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183499,
       "name": "Tinkerbell (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"

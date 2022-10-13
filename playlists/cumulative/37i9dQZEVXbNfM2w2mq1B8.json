@@ -3283,7 +3283,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 272394,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
@@ -5215,7 +5215,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 189350,
       "name": "GRRT",
       "url": "https://open.spotify.com/track/2tqDS3gLLAPh66bSm8I32D"
@@ -6589,7 +6589,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -10300,6 +10300,24 @@
     },
     {
       "album": {
+        "name": "Poland",
+        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83200,
+      "name": "Poland",
+      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
+    },
+    {
+      "album": {
         "name": "POLTERGEIST!",
         "url": "https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp"
       },
@@ -12411,7 +12429,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 350320,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
@@ -15619,6 +15637,24 @@
       "duration_ms": 236000,
       "name": "\u041a\u0430\u0442\u043e \u043c\u0435\u043d",
       "url": "https://open.spotify.com/track/0ypymQDnbOUGK3h0P0SRVE"
+    },
+    {
+      "album": {
+        "name": "\u041a\u043e\u0433\u0430\u0442\u043e \u0442\u0435 \u043d\u044f\u043c\u0430",
+        "url": "https://open.spotify.com/album/2KXJRrSDs3ob5LiyeXKEgR"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/4OxMKohjemdbOjJHVGoudN"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "\u041a\u043e\u0433\u0430\u0442\u043e \u0442\u0435 \u043d\u044f\u043c\u0430",
+      "url": "https://open.spotify.com/track/7CW8Z1qou9zFwABZAv0Vui"
     },
     {
       "album": {

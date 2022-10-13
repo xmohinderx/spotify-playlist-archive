@@ -4,7 +4,7 @@
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-48 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/5rTePWbhiuNAwoE97jsB5A)
+49 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/5rTePWbhiuNAwoE97jsB5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Skin on Skin](https://open.spotify.com/track/4Za6z9eWjkArKOA8xalmqN) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Bjurman](https://open.spotify.com/artist/2Mah50rowOCI0gYAZOaLbY) | [Skin on Skin](https://open.spotify.com/album/3iwxFlpwd2wuIUZgnMGVzZ) | 6:45 | 2022-09-15 |  |
 | [Skylighter \- Space 92 Meteor Remix](https://open.spotify.com/track/0FtATT9vuXJLZGkA9PESMx) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Skylighter](https://open.spotify.com/album/5GaQ4dj4Ln5cOO4C8Fb28P) | 7:09 | 2022-09-15 |  |
 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 | 2022-09-15 |  |
-| [Stand Strong](https://open.spotify.com/track/32jbAQXzokV72zXiU6MwDk) | [SVNF8](https://open.spotify.com/artist/5K3s5fnJzDpLDd622LmQVX), [Mariel Jacoda](https://open.spotify.com/artist/6Kes5J1pMUQE5jxeOx5MO4) | [Stand Strong](https://open.spotify.com/album/0vaMNDgLAbfPbBvW35vyjo) | 4:22 | 2022-09-15 |  |
+| [Stand Strong](https://open.spotify.com/track/2Vl9YLdLXa6oViIhKJIxCe) | [SVNF8](https://open.spotify.com/artist/5K3s5fnJzDpLDd622LmQVX), [Mariel Jacoda](https://open.spotify.com/artist/0eqWbinsRY0hNZ2cW9zwwQ) | [Stand Strong](https://open.spotify.com/album/7MVNs6WRm0gUdPu1r62z2U) | 4:22 | 2022-09-15 |  |
+| [Stand Strong](https://open.spotify.com/track/32jbAQXzokV72zXiU6MwDk) | [SVNF8](https://open.spotify.com/artist/5K3s5fnJzDpLDd622LmQVX), [Mariel Jacoda](https://open.spotify.com/artist/6Kes5J1pMUQE5jxeOx5MO4) | [Stand Strong](https://open.spotify.com/album/0vaMNDgLAbfPbBvW35vyjo) | 4:22 | 2022-09-15 | 2022-10-13 |
 | [Sunday \(feat\. HEIZE, Jay Park\)](https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYWHERE](https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7) | 3:02 | 2022-09-15 |  |
 | [Taste You on My Lip](https://open.spotify.com/track/6wnbmHzVh5B1g2MfE5XCYo) | [Moota](https://open.spotify.com/artist/3g6PTm1Lkdy6y3BqZrrgDE) | [Plur, Love Edition 2021](https://open.spotify.com/album/3xbSYjttRvg97NNDLK21Sb) | 3:50 | 2022-09-15 |  |
 | [Underworld](https://open.spotify.com/track/3L7zm4Oxg8UOr0Q7vYGyAc) | [Cream](https://open.spotify.com/artist/1d1dWkQxaKGW8mnZLmo4dr) | [Underworld](https://open.spotify.com/album/7jMKWla0HcIxnaFMusH5tV) | 2:22 | 2022-09-15 |  |

@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: First Aid Kit
 
-221 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+222 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [North of the Border](https://open.spotify.com/track/1on5aZH6WRLgP0UZsvy680) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [North of the Border](https://open.spotify.com/album/7q3LN4jWho4NMiBXa4EPoi) | 4:24 | 2022-07-22 | 2022-09-10 |
 | [Northern Attitude](https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4) | 4:27 | 2022-09-16 |  |
 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-05-13 |  |
-| [On the Edge](https://open.spotify.com/track/7G5kS3Z1uzgUZlVv6kGhDw) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/2LEAHem1o9t6AzAxVbMRja) | 2:40 | 2022-05-13 |  |
+| [On the Edge](https://open.spotify.com/track/4ghxG39Um1SQ8OHdDgUH1p) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/3Ifz0AOMdu8Rs2lhtjuDcJ) | 2:40 | 2022-10-07 |  |
+| [On the Edge](https://open.spotify.com/track/7G5kS3Z1uzgUZlVv6kGhDw) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/2LEAHem1o9t6AzAxVbMRja) | 2:40 | 2022-05-13 | 2022-10-13 |
 | [On Your Way \- Acoustic](https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect \(Deluxe\)](https://open.spotify.com/album/15utleqV2llYGHYuD72rs8) | 3:08 | 2022-09-09 |  |
 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 | 2022-05-13 | 2022-07-23 |
 | [Opening the Sky](https://open.spotify.com/track/3C5jENIYVwG38O0QkjlAA4) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Opening the Sky](https://open.spotify.com/album/0970umokFEUwY11RwYX7sE) | 4:17 | 2022-09-23 |  |

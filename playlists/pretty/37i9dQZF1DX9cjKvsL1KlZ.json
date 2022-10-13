@@ -1,12 +1,12 @@
 {
   "description": "Sounds of New York curated by <a href=\"https://www.instagram.com/sidetalknyc/\">Sidetalk</a>, New York\u2019s one-minute street show.",
-  "num_followers": 44952,
+  "num_followers": 45030,
   "original_name": "Sidetalk: The Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE2NTI5MywwMDAwMDAwMGI1ZmFhOGQ3ZGFiZDdmOTc0MmU3ZjQ2YTc4ZjBmOTlj",
+  "snapshot_id": "MTY2NTYwNzY0MywwMDAwMDAwMDliODgzNTk5MzVlOWY2OTk1YTQ2OTkxMThlOTQ0MTdj",
   "tracks": [
     {
       "added_at": "2022-10-07 17:54:53",
@@ -613,6 +613,22 @@
       "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
     },
     {
+      "added_at": "2022-10-12 20:47:22",
+      "album": {
+        "name": "Gps",
+        "url": "https://open.spotify.com/album/390U5IkEGO2PSgTGdvqkG0"
+      },
+      "artists": [
+        {
+          "name": "Will Roush",
+          "url": "https://open.spotify.com/artist/4KNkwGvN6J3CRjBORuovqK"
+        }
+      ],
+      "duration_ms": 122669,
+      "name": "Gps",
+      "url": "https://open.spotify.com/track/4JIa6sZkEYPMD5CeVuDkzX"
+    },
+    {
       "added_at": "2022-10-07 17:54:53",
       "album": {
         "name": "BEAM (feat. KALIQ)",
@@ -711,22 +727,6 @@
       "duration_ms": 157619,
       "name": "Weight On Me",
       "url": "https://open.spotify.com/track/6A4hgJdwriera4WSUl4moW"
-    },
-    {
-      "added_at": "2022-10-07 17:54:53",
-      "album": {
-        "name": "OnDaRadar (Freestyle)",
-        "url": "https://open.spotify.com/album/1ut8FyXUcpi66G6Yw7Yovx"
-      },
-      "artists": [
-        {
-          "name": "Dthang",
-          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
-        }
-      ],
-      "duration_ms": 118932,
-      "name": "OnDaRadar (Freestyle)",
-      "url": "https://open.spotify.com/track/2XfEZOaepItvpELhDywnUj"
     },
     {
       "added_at": "2022-07-29 23:52:33",
@@ -875,6 +875,22 @@
       "duration_ms": 120333,
       "name": "Don\u2019t Know How to Act",
       "url": "https://open.spotify.com/track/5T6W3m9DxbtFQa5XQ1YdvY"
+    },
+    {
+      "added_at": "2022-10-12 20:47:22",
+      "album": {
+        "name": "FLYEST OOTA",
+        "url": "https://open.spotify.com/album/39kwAzCvXewcbqclbXHE9X"
+      },
+      "artists": [
+        {
+          "name": "26ar",
+          "url": "https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x"
+        }
+      ],
+      "duration_ms": 121059,
+      "name": "Walk Em",
+      "url": "https://open.spotify.com/track/4PRtRKkYJhWBWOPnxX6Lcq"
     },
     {
       "added_at": "2022-10-07 17:54:53",

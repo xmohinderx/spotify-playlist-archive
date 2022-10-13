@@ -4,7 +4,7 @@
 
 > Crank up the recent hits of Christian rock\.  Cover artist: Wolves At The Gate
 
-103 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
+104 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Eyes](https://open.spotify.com/track/7GGSilkl7QJVN1Ovb6WpFm) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV), [4th Point](https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL) | [Eyes](https://open.spotify.com/album/3K6EYMi8bDzCPs7tk5MXUM) | 4:55 | 2021-05-28 | 2022-03-12 |
 | [Fame](https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy), [Ryan Kirby](https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 3:57 | 2021-05-28 |  |
 | [Familiar Shadows](https://open.spotify.com/track/49DeQeEXxSm9IgQraS6VcV) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Familiar Shadows](https://open.spotify.com/album/55nqt1kWFFIhWdhFlQvLj0) | 3:46 | 2021-05-28 | 2022-01-15 |
-| [Fear](https://open.spotify.com/track/26VRGLG9WTk8GjTnxSjuLH) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5SQnp6ujMnSkSCOQg2g0PV) | 3:45 | 2021-05-28 |  |
+| [Fear](https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm) | 3:45 | 2022-03-11 |  |
+| [Fear](https://open.spotify.com/track/26VRGLG9WTk8GjTnxSjuLH) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5SQnp6ujMnSkSCOQg2g0PV) | 3:45 | 2021-05-28 | 2022-10-13 |
 | [Feel](https://open.spotify.com/track/4Zi1CrhsOZdeg4RB9GeVXB) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Colors](https://open.spotify.com/album/7lEzSWasG7XYYuWGjXJpXs) | 3:20 | 2021-05-28 | 2022-07-29 |
 | [Feel](https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Colors](https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I) | 3:20 | 2022-03-11 |  |
 | [feel nothing.](https://open.spotify.com/track/6RtWU21Io4XwqB8p4lRX2h) | [Corey Wise](https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j) | [feel nothing.](https://open.spotify.com/album/3z4tBbtxbwUER31Nz82xyf) | 3:17 | 2022-03-11 |  |

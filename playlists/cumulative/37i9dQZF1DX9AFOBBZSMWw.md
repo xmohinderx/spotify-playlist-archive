@@ -4,7 +4,7 @@
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-78 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
+79 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Momma's Prayers](https://open.spotify.com/track/1KpPUihIH2BwQ28tIqWszw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Momma's Prayers](https://open.spotify.com/album/2wC9LxnGwBRKlT22St5g5x) | 5:05 | 2021-07-08 | 2022-07-29 |
 | [Momma's Prayers](https://open.spotify.com/track/482wtNOgjcKepFrwPeIT5Q) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 5:05 | 2021-07-08 |  |
 | [Mr Skeng](https://open.spotify.com/track/3DrMEiTE3yu3yyc6xBDEDz) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:17 | 2021-07-08 |  |
-| [My Hood](https://open.spotify.com/track/41aEJVUVNjhvZlECWDQZgW) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Durt](https://open.spotify.com/album/1P29D0CPo7YeQnUUL13SEh) | 4:31 | 2021-07-08 |  |
+| [My Hood](https://open.spotify.com/track/41aEJVUVNjhvZlECWDQZgW) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Durt](https://open.spotify.com/album/1P29D0CPo7YeQnUUL13SEh) | 4:31 | 2021-07-08 | 2022-10-13 |
+| [My Hood](https://open.spotify.com/track/5IeuKkd8EE5prwJX77iW03) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Durt](https://open.spotify.com/album/2A9YfiOYh4jJ7qsLeUdnDM) | 4:31 | 2021-07-08 |  |
 | [Not That Deep](https://open.spotify.com/track/0D4j0g4nGdt70HLilKqOQw) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Not That Deep EP](https://open.spotify.com/album/2BnUcqruNtr4AHEqFlGWuA) | 3:46 | 2021-07-08 | 2022-07-29 |
 | [Not That Deep](https://open.spotify.com/track/6mVNImBIktaXtrGAdiFzd4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Not That Deep \- EP](https://open.spotify.com/album/3FuPHbz5iUP8PPsTceDKGy) | 3:46 | 2021-07-08 |  |
 | [Not That Deep \(feat\. Deepee, Swift, Sleeks, Inch, Littlez, Reeko, K9\) \- Section Remix](https://open.spotify.com/track/39bMhNCFdhEquRuglWptpI) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Deepee](https://open.spotify.com/artist/3Wm7360Oxqx7Fu4h3LfbHX), [Inch](https://open.spotify.com/artist/3J3hhEGpzgTmNeDO5Js5Gu), [K9](https://open.spotify.com/artist/12cju0b8O0q2PcND81DZyE), [Littlez](https://open.spotify.com/artist/4IRb8rAMlRnNQ2p3hrIfb4), [Reeko](https://open.spotify.com/artist/7lWXLanCRGVkiZxWZFDM9u), [Sleeks](https://open.spotify.com/artist/18UMkfg7oAqJ92nqPvHkPW), [Swift](https://open.spotify.com/artist/5xVULiv3wBC0T0lMG20mEC) | [Not That Deep \- EP](https://open.spotify.com/album/3FuPHbz5iUP8PPsTceDKGy) | 4:00 | 2021-07-08 |  |

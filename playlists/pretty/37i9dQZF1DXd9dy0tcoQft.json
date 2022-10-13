@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 11290,
+  "num_followers": 11294,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA4NjAxNiwwMDAwMDAwMGYwZTBmY2ExZWU0NGM4YjUwZWJmYzllYTlmZjEzYTk5",
+  "snapshot_id": "MTY2MzA4NjAxNiwwMDAwMDAwMGQzM2ViN2Y2OTJkNGE5YmVlNjcxMTg1YjdmMmVlYzlk",
   "tracks": [
     {
       "added_at": "2022-05-20 11:08:57",
@@ -23,22 +23,6 @@
       "duration_ms": 255986,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "The Most Beautiful Thing",
-      "url": "https://open.spotify.com/track/5unXHHcSQLGO19RuVqZB6d"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -103,22 +87,6 @@
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Come Around EP",
-        "url": "https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 228473,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -347,22 +315,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "raw",
-        "url": "https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 186432,
-      "name": "raw",
-      "url": "https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Ties",
         "url": "https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR"
       },
@@ -403,22 +355,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Belly",
-        "url": "https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq"
-      },
-      "artists": [
-        {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
-        }
-      ],
-      "duration_ms": 123141,
-      "name": "Molly",
-      "url": "https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Same Girl",
         "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
       },
@@ -435,18 +371,18 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
+        "name": "Belly",
+        "url": "https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
         }
       ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
+      "duration_ms": 123141,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -535,22 +471,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Dream in Colour",
-        "url": "https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 238612,
-      "name": "Flesh and Blood",
-      "url": "https://open.spotify.com/track/3ApDLA7FGUlDc7rNM4bzkb"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
       },
@@ -563,22 +483,6 @@
       "duration_ms": 204592,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Isolation Tapes",
-        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "BRB",
-      "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -599,6 +503,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "Isolation Tapes",
+        "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "Tascam Tapes",
         "url": "https://open.spotify.com/album/43LoWypu3rYrv2TuJmxxaT"
       },
@@ -611,22 +531,6 @@
       "duration_ms": 204173,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/0sWfdO70PRIzqpX2swtFNy"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Somewhere In-Between",
-        "url": "https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/1CQlDfBet6ji4BT8EkrvY6"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -683,6 +587,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "Pieces (EP)",
+        "url": "https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 227424,
+      "name": "Tropical Commotion",
+      "url": "https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -703,22 +623,6 @@
       "duration_ms": 291715,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Pieces (EP)",
-        "url": "https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 227424,
-      "name": "Tropical Commotion",
-      "url": "https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -859,22 +763,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "This Is The Day (Full Band Version)",
-        "url": "https://open.spotify.com/album/6HIzNiydjxIffCg5TGxwBj"
-      },
-      "artists": [
-        {
-          "name": "Mamas Gun",
-          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
-        }
-      ],
-      "duration_ms": 282274,
-      "name": "This Is The Day - Full Band Version",
-      "url": "https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e"
       },
@@ -887,6 +775,22 @@
       "duration_ms": 166363,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "This Is The Day (Full Band Version)",
+        "url": "https://open.spotify.com/album/6HIzNiydjxIffCg5TGxwBj"
+      },
+      "artists": [
+        {
+          "name": "Mamas Gun",
+          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
+        }
+      ],
+      "duration_ms": 282274,
+      "name": "This Is The Day - Full Band Version",
+      "url": "https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -1111,6 +1015,102 @@
       "duration_ms": 184750,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/09PnjJyhIkjYcMzV835Wfx"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Somewhere In-Between",
+        "url": "https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/0hB3Ht06fhqwX8YHKk6Jrp"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/1W8U9tsKVMoqSe9DZMT4Zx"
+      },
+      "artists": [
+        {
+          "name": "Tana\u00eb",
+          "url": "https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1"
+        }
+      ],
+      "duration_ms": 235016,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/29jF8K27kLzhvmXBa28fLA"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "The Gospel Sessions, Vol. 4",
+        "url": "https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8"
+      },
+      "artists": [
+        {
+          "name": "Michelle David & The True-tones",
+          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
+        }
+      ],
+      "duration_ms": 236346,
+      "name": "Yes I Am",
+      "url": "https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Ain't Gonna Let You Drown",
+        "url": "https://open.spotify.com/album/7IqLkJNfLjylpNdzKNlq3l"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "duration_ms": 257239,
+      "name": "Ain't Gonna Let You Drown",
+      "url": "https://open.spotify.com/track/5hKq2P5ZXxwqvQF2oZI07Z"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Something I Know",
+        "url": "https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 228831,
+      "name": "Something I Know",
+      "url": "https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Start over Again",
+        "url": "https://open.spotify.com/album/2eRlK8WSBgZ1v1mB3Rxm1V"
+      },
+      "artists": [
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        }
+      ],
+      "duration_ms": 219354,
+      "name": "Start over Again",
+      "url": "https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef"
     }
   ],
   "unique_name": "Soul Food",

@@ -4,7 +4,7 @@
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-101 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/43vCWCUSR0OchxOLKb5RA4)
+102 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/43vCWCUSR0OchxOLKb5RA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [2000 Black](https://open.spotify.com/track/23IyKrW90Ocw0lrGofQ4l3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:21 | 2020-12-01 |  |
 | [A Chance for Peace](https://open.spotify.com/track/5Nt5jH0oX4qktPE6kxEPx3) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [The Cosmic Echoes](https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb) | [Visions of a New World](https://open.spotify.com/album/5VAwd5IGltpuBUlCgLBngP) | 5:22 | 2020-12-01 |  |
 | [A Real Mother For Ya](https://open.spotify.com/track/27QTVCKEfq41PjPKQVa7vW) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [A Real Mother For Ya](https://open.spotify.com/album/6VXm9FkSL27WhRo8pyc8hr) | 5:04 | 2020-12-01 |  |
-| [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 | 2020-12-01 |  |
+| [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 | 2020-12-01 |  |
+| [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 | 2020-12-01 | 2022-10-13 |
 | [All Aboard The Soul Funky Train](https://open.spotify.com/track/3eikqF7aMxvwI5DLK2f1Dv) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Hustle With Speed](https://open.spotify.com/album/4txPgt8VMJvyBdPWtsKh53) | 4:33 | 2020-12-01 |  |
 | [All Day](https://open.spotify.com/track/5ExF7rCGsIqzfR50vJlyjz) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Raising Hell](https://open.spotify.com/album/2MyvNr8YcohrQASCbjAHiG) | 4:32 | 2020-12-01 |  |
 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:34 | 2020-12-01 |  |

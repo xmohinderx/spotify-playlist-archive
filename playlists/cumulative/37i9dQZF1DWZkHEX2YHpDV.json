@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 183564,
       "name": "Act Like That",
       "url": "https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz"
@@ -4653,7 +4653,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 180472,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e"
@@ -6857,7 +6857,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 178560,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
@@ -8878,6 +8878,28 @@
     },
     {
       "album": {
+        "name": "Misfits",
+        "url": "https://open.spotify.com/album/4aonTkl1RYvNVzJlOcIVVa"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178263,
+      "name": "Misfits",
+      "url": "https://open.spotify.com/track/0b7hOMh8Md7QaMC9Dhzo4n"
+    },
+    {
+      "album": {
         "name": "FLY",
         "url": "https://open.spotify.com/album/3g9oDW0i1jxqlJByNSFxtp"
       },
@@ -9023,6 +9045,32 @@
     {
       "album": {
         "name": "My Friends",
+        "url": "https://open.spotify.com/album/5vjZK0lwnugxDziWPl7Pfz"
+      },
+      "artists": [
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        },
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        },
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192371,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/1G9Z8qsHYfVE1sYn1NEIdF"
+    },
+    {
+      "album": {
+        "name": "My Friends",
         "url": "https://open.spotify.com/album/4ny79UyAfOylO1MiMQo8Pp"
       },
       "artists": [
@@ -9041,7 +9089,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 192371,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/2yS6CimlH5ZIU61HsCtLxg"

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\.  cover: blair lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,695 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,768 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Peachy World](https://open.spotify.com/track/5FEiAtuQ8ZKTAu9tr6zVcA) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Peachy World](https://open.spotify.com/album/2trCjaC8Q7UP4hfMlGbniC) | 2:31 |
-| 2 | [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 |
+| 2 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 |
 | 3 | [figure me out](https://open.spotify.com/track/0aW9tzWTluJpRqMrBzsrpB) | [Brvno](https://open.spotify.com/artist/5jEbZchGgpNRgeBQEgVMyN) | [figure me out](https://open.spotify.com/album/3qjOkOZ9FeKIHxsp8aCmFO) | 3:18 |
 | 4 | [Have It In You](https://open.spotify.com/track/0sHou6HBAx8c7ipaOnab6r) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Have It In You](https://open.spotify.com/album/3Xe1osfRtpz1aIlyxv8Zq4) | 3:22 |
 | 5 | [I Let My Plant Die](https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1c4s3k9S4QEJRwVkta2JQq) | 4:02 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 8 | [WHEN WE WERE KIDS](https://open.spotify.com/track/08RcqKgGxRBnaqAsgm07DI) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [WHEN WE WERE KIDS](https://open.spotify.com/album/3umxF4s0UtsmJ1yOjDBICp) | 3:18 |
 | 9 | [Lonely Hallucinations](https://open.spotify.com/track/4hqIsxoAphbShsRsL0qGmh) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Lonely Hallucinations](https://open.spotify.com/album/7Gs6HTYS71coBejdMXPrCI) | 3:14 |
 | 10 | [The Ruler](https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [The Ruler](https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx) | 3:15 |
-| 11 | [HOUSEPARTY](https://open.spotify.com/track/1kbb1Lcg5ASJvvsWqNTOao) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [HOUSEPARTY](https://open.spotify.com/album/1ByroWcsJkB2R4PpzouniL) | 2:27 |
+| 11 | [HOUSEPARTY](https://open.spotify.com/track/30m81sZ92Ux0Negw2m3W8d) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [HOUSEPARTY](https://open.spotify.com/album/6wtBot0kdVYtezrca2upV8) | 2:27 |
 | 12 | [Inhibitions / Intuitions](https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Inhibitions / Intuitions](https://open.spotify.com/album/5uBveYkzBC1RJP2pTEup1h) | 3:29 |
 | 13 | [Serotonin](https://open.spotify.com/track/2UmrAOZI329X453Z0u1H1K) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Serotonin](https://open.spotify.com/album/0jrztDedMPZDMl0OIyCcr0) | 3:35 |
 | 14 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 33 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 |
 | 34 | [Safe Space](https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Safe Space](https://open.spotify.com/album/1ks99OEgYN41RQmQVKIowY) | 3:23 |
 | 35 | [drugs are for fun](https://open.spotify.com/track/3EAPXckxzS63OgxbDgaAZz) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [drugs are for fun](https://open.spotify.com/album/7IhqRJzrwITx7QCXzYitzT) | 2:22 |
-| 36 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/2z344vvIbh4Sk4oVgbgxFD) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/4239Z8wD4pZdLNYAM8imWe) | 2:38 |
+| 36 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo) | 2:38 |
 | 37 | [Hurricane](https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Hurricane](https://open.spotify.com/album/5ktsvvarrUwWYE33hgPWw9) | 3:13 |
 | 38 | [Diary Entry](https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Diary Entry](https://open.spotify.com/album/5spyMJk3tjLaMb0IamqZLs) | 3:35 |
 | 39 | [dancing in the dark](https://open.spotify.com/track/0GWGdtHDEWTmt7iCc1A9DM) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT), [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [a happy medium](https://open.spotify.com/album/7kibZ3ebsdQwbKNEJ0q3xP) | 3:09 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 42 | [Don't You Want Me](https://open.spotify.com/track/38X5UR1bKeg85ocjyPNAcl) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Celine Autumn](https://open.spotify.com/artist/6Pp0HjTuD5G0IfcHXqpusQ) | [Don't You Want Me](https://open.spotify.com/album/2eg78jugnXfoMypTi5fpus) | 3:33 |
 | 43 | [Camp Anonymous](https://open.spotify.com/track/0BVNjqMhsxCioq76mhDUez) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Camp Anonymous](https://open.spotify.com/album/4YScZstfkp3TeCPnNOVhlg) | 2:49 |
 | 44 | [Gutterball](https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Gutterball](https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93) | 3:32 |
-| 45 | [Trying to Be Nice](https://open.spotify.com/track/28QvDePOqY5DXrGPFRq558) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Trying to Be Nice](https://open.spotify.com/album/6kkBxjmxjJ0ruxfXJ2zpJR) | 3:37 |
+| 45 | [Trying to Be Nice](https://open.spotify.com/track/3O3kGmka7Gqpl6qLOtBXeQ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/3KKsv36GD6Nsmr2KrgQEA0) | 3:37 |
 | 46 | [low down](https://open.spotify.com/track/5hwQBJojbljFjxg7t49r03) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/48KWh33PB86WJeyFhQOkVl) | 3:02 |
 | 47 | [Droves](https://open.spotify.com/track/0u9qsoepu46b6aHi3fr6gW) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Droves](https://open.spotify.com/album/6lR1ihhd03xEjXgCRO8Icj) | 3:50 |
 | 48 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 |
@@ -64,18 +64,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 54 | [si rose](https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:28 |
 | 55 | [Nobody Like You](https://open.spotify.com/track/10HqYPk8krVdDYQCgYh3z7) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:03 |
 | 56 | [Guess I'm Going To Hell](https://open.spotify.com/track/4TETZ56lnLvEpFZmVjsQM1) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Guess I'm Going To Hell](https://open.spotify.com/album/6K8XkU7IREanr9fx3vjbxD) | 4:15 |
-| 57 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 |
+| 57 | [Deep End](https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:38 |
 | 58 | [Magazines](https://open.spotify.com/track/3jqkxkAoFA9T3ohkLmaeJs) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Magazines](https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2) | 2:43 |
 | 59 | [evergreen](https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [evergreen](https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM) | 3:08 |
 | 60 | [Moment In The Sun](https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx) | 3:09 |
 | 61 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 |
 | 62 | [Overthinking](https://open.spotify.com/track/1BdZg2Id9Xq8n9w2owkoaz) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Overthinking](https://open.spotify.com/album/7FaGK2kvmc8vskLYsVIJKa) | 2:55 |
 | 63 | [ok bye](https://open.spotify.com/track/1O1T7oQUQ9jS7gADehnoIv) | [earth2zoe](https://open.spotify.com/artist/4weid71nei8BXt61GNFZiQ) | [ok bye](https://open.spotify.com/album/1m6kdOef5MVsu2I5iu31YO) | 3:00 |
-| 64 | [‎whiskey](https://open.spotify.com/track/0bRq2UOu3CNuH0dvwukfMc) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/6Rfaj1WW6a9B1wjjP77fpC) | 2:25 |
+| 64 | [‎whiskey](https://open.spotify.com/track/7yH1ewkwvwh2SaKFqXnXYW) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF) | 2:25 |
 | 65 | [Fck Love](https://open.spotify.com/track/7KlssVnhed74ecry9mB1RW) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Fck Love](https://open.spotify.com/album/4Yb0MEAmnTb6uMxL6cvSK5) | 2:31 |
 | 66 | [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 |
 | 67 | [CIGARETTES](https://open.spotify.com/track/2e1SliQSsHs1YutpnfuNYC) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [CIGARETTES](https://open.spotify.com/album/0W2PW9SzUoZYRAoYS2YKnH) | 2:29 |
-| 68 | [Figure You Out](https://open.spotify.com/track/0zcKU98jIjZAxGPQZ5sDpe) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Figure You Out](https://open.spotify.com/album/2Rx6PnJtokpPlAF1WQQYhw) | 3:04 |
+| 68 | [Figure You Out](https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 3:04 |
 | 69 | [Strange](https://open.spotify.com/track/2OYlUNbq7xpgEI3qVC2j3W) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Strange](https://open.spotify.com/album/1yzvGSDCzaFQ2GOOlfXKDO) | 2:33 |
 | 70 | [Lately](https://open.spotify.com/track/2Q6KT9dtkAPbT5uOltm6Tg) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Lately](https://open.spotify.com/album/0XSvrTwDa3fNbgaVm30XHO) | 3:14 |
 | 71 | [News At 9](https://open.spotify.com/track/2ezY94QlqbDG0aYgKnpy9C) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:13 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 78 | [Failed English](https://open.spotify.com/track/16BnRyqzdVcurz038JKdje) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [DROWNING IN THE CULTURE](https://open.spotify.com/album/777rLqZdiuGhPNvkpzpfkx) | 2:43 |
 | 79 | [3am in nyc](https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:09 |
 | 80 | [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 |
-| 81 | [Sensitive](https://open.spotify.com/track/2zQH8HDTJww0eYqXAAnJys) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Sensitive](https://open.spotify.com/album/4m6TJWcVB64Ja5K5Sz7Urw) | 2:37 |
+| 81 | [Sensitive](https://open.spotify.com/track/2gcs6LDGhgoIrZio5Z2d3P) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Sensitive](https://open.spotify.com/album/7eMlwcdSlN4TqLgamB0Qal) | 2:37 |
 | 82 | [Eighteen](https://open.spotify.com/track/0Vo9cyMCixFq5n93LjiOGq) | [Julian Daniel](https://open.spotify.com/artist/6pj58pVbAOuTxwJrx4KWHf) | [Eighteen](https://open.spotify.com/album/5nIPa04mVwZKnOjgr0SUBU) | 2:56 |
 | 83 | [Hurdles](https://open.spotify.com/track/09U6OMOn9ALQ7wX1Ly6VqV) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Hurdles](https://open.spotify.com/album/2XCte5k29fj1O7MDlwqwVH) | 3:24 |
 | 84 | [Baby Magic](https://open.spotify.com/track/1OTvZnxAQucT1ybiU4j4yw) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Baby Magic](https://open.spotify.com/album/3FFPTfSqHeIfcndetAJht3) | 4:45 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 |
 | 125 | [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 |
 
-Snapshot ID: `MTY2NTI0MjE4MywwMDAwMDAwMDNjYzBkOGIwZDE4NWMyNjc2NmEyMDE3NTAxMjNhZTMy`
+Snapshot ID: `MTY2NTI0MjE4MywwMDAwMDAwMDVkYjE2ZGVkOGIwOTg5ZWMxMTNkOTVkMDA5NDMzODhi`

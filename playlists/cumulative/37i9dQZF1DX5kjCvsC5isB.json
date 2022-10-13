@@ -3831,10 +3831,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 195374,
       "name": "SENSORYOVERLOAD*",
       "url": "https://open.spotify.com/track/5bpeE40GHCJRZooAWPGAKt"
+    },
+    {
+      "album": {
+        "name": "Death Of A Fantasy",
+        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195374,
+      "name": "SENSORYOVERLOAD*",
+      "url": "https://open.spotify.com/track/64m8pKhLpcqn9uJuShkoPQ"
     },
     {
       "album": {

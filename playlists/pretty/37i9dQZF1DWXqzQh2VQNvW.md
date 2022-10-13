@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,295 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,359 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 12 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
 | 13 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
 | 14 | [On The Weekend](https://open.spotify.com/track/0F9IVBckC6BjxmkSy8Jts9) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [On The Weekend](https://open.spotify.com/album/1rm0uC0uo87fuQuCfEgffH) | 2:52 |
-| 15 | [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 |
+| 15 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
 | 16 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 |
 | 17 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
-| 18 | [Loved You Since I Was Young](https://open.spotify.com/track/0JTEcPbg192uSL2j7UJasI) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/6MyeUwv1VQJgxiIJBdWJoH) | 3:03 |
+| 18 | [Loved You Since I Was Young](https://open.spotify.com/track/4ayHZpebCShYtJuSL8701H) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/7u4FHNJdVRLDLuum8iJnkd) | 3:03 |
 | 19 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 |
 | 20 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 |
 | 21 | [Secrets](https://open.spotify.com/track/6MTwSVy7Ch0cNa1fVx79k3) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/76GeMEfXKBtKjT3lLivUGG) | 2:37 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 51 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
 | 52 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 |
 | 53 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 |
-| 54 | [Stitches](https://open.spotify.com/track/5inSAJvyOTJEUA3uP94TWA) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Stitches](https://open.spotify.com/album/5py29tWB6bYSYf1vct0Lz5) | 2:40 |
+| 54 | [Stitches](https://open.spotify.com/track/7tbzPLKvG08lwU6h33wSso) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Stitches](https://open.spotify.com/album/3G3fVF6R5DEhQg19XZBzwl) | 2:40 |
 | 55 | [Escape](https://open.spotify.com/track/0mn426FxVilDODhgiAkdd2) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [Escape](https://open.spotify.com/album/1TzBxAR9oIbrfW9bjl3n7w) | 3:02 |
 | 56 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
 | 57 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 61 | [ex i never had](https://open.spotify.com/track/1NAyq9TrQIpLHWStUX4xAQ) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx](https://open.spotify.com/album/20tgAhlplT42WnAAC8Xndk) | 3:21 |
 | 62 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 |
 | 63 | [Chai Tea with Heidi](https://open.spotify.com/track/0EhQWGJFjhvVq0PllzJ7Rd) | [WeddingCake](https://open.spotify.com/artist/6Smy5hRNvMoK4C5DYiLDI8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC) | [Chai Tea with Heidi](https://open.spotify.com/album/6ULQCdbVXoexdtfeEQCKtZ) | 2:50 |
-| 64 | [Golden Boy](https://open.spotify.com/track/2zwWr0ZHZwY2h26oQ22Lvn) | [Elise Eriksen](https://open.spotify.com/artist/4Z4AA4VE6yS9vOZdEXabS8) | [Golden Boy](https://open.spotify.com/album/2x4AED7NejAGgGQJYF7g1C) | 2:44 |
+| 64 | [Golden Boy](https://open.spotify.com/track/0LfTGvMnhNmpoR8krD5bsL) | [Elise Eriksen](https://open.spotify.com/artist/4Z4AA4VE6yS9vOZdEXabS8) | [Golden Boy](https://open.spotify.com/album/2qbAb7dIyjtBF9p6DHs2cA) | 2:44 |
 | 65 | [Aqua Girl](https://open.spotify.com/track/2wYOCAxlKPCKen5MN0J08u) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Aqua Girl](https://open.spotify.com/album/3P0fUjfbbAIs4AahxnpgCc) | 2:53 |
 | 66 | [Problems](https://open.spotify.com/track/2RLoxDgrrsQmF0i28pPJQ5) | [Yoza](https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT) | [Problems](https://open.spotify.com/album/1caME5pXTQ9Q2FS3zGINm3) | 2:25 |
 | 67 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 85 | [IT'S OK](https://open.spotify.com/track/1b4TnJwb4rzrkfBilJ2SRO) | [Daniyel](https://open.spotify.com/artist/4Zgs72EVDddJE8pa3oGC4L) | [IT'S OK](https://open.spotify.com/album/63NirVfC79At4NuVFCZnbz) | 1:56 |
 | 86 | [Lose You Now](https://open.spotify.com/track/2wwzGBhDWfZveGjpxj5be7) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Lose You Now](https://open.spotify.com/album/5y4jL5I64YU5vpeJYVgPKG) | 3:13 |
 | 87 | [Suddenly](https://open.spotify.com/track/77DygJyqI6BPmaIGn9iUoU) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [Suddenly](https://open.spotify.com/album/2oIkAIhDcZr7aSutRjSPXK) | 2:18 |
-| 88 | [Already There](https://open.spotify.com/track/09zn6XBm2k46tBiano8uoo) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Hope It Gets Better](https://open.spotify.com/album/3huIUxSlMAeI1FrrQVnJyV) | 3:32 |
+| 88 | [Already There](https://open.spotify.com/track/7pWE9Saa0N4wUZZXBZPZVY) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Hope It Gets Better](https://open.spotify.com/album/7p9pChA6KBpvqq8En6bE9B) | 3:32 |
 | 89 | [Cry/Fun](https://open.spotify.com/track/77QUW7lMcR87ddDAkhnu0T) | [Issy Wood](https://open.spotify.com/artist/3nyoodEXBH2JZUcZuT4KhU) | [Cry/Fun](https://open.spotify.com/album/40Uwh4FbbntjSIBANQlu11) | 3:22 |
 | 90 | [Things Changed](https://open.spotify.com/track/2Yte4JdWO3y8diS3EIlDgX) | [The Sunshine State](https://open.spotify.com/artist/7fvI8ORZUF64qlb2GDcDQ7) | [Things Changed](https://open.spotify.com/album/1U7YDj8Ir8NT5JoSFMpY0Y) | 3:05 |
 | 91 | [The Letter](https://open.spotify.com/track/2MOoSTYPGJhxIzC5DXXom6) | [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo) | [The Letter](https://open.spotify.com/album/36BE8MfyawempfNotMIvq6) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 99 | [Late Night Flex](https://open.spotify.com/track/274ccIgOpacE5urw0k3Z3i) | [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Late Night Flex](https://open.spotify.com/album/6PqDwtH3QmMsZIRP0WJbiN) | 2:36 |
 | 100 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDVjNTdjMzQzZWIyYmUwZjJkYjNkM2EwYzhhN2E3OWVl`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDQ3NjU5NGZjZTBmZWNiOTJhZjdiMmY3YTI0OGJjOTdi`

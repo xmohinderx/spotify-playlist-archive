@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 269478,
+  "num_followers": 269595,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1NzkzNSwwMDAwMDAwMDRlN2QwZGFjMzdjOTEyNTNiMGMwNDZlODQ2M2RlMWVh",
+  "snapshot_id": "MTY2NTE1NzkzNSwwMDAwMDAwMDNlOTJhNTgwNzQ1ZGUxN2YzMjg0OGUxMDM3OGMyNGQx",
   "tracks": [
     {
       "added_at": "2022-10-07 15:52:14",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "Sunrays",
-        "url": "https://open.spotify.com/album/2KZMHq7JT5R7h4rGN3NvKr"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        }
-      ],
-      "duration_ms": 231120,
-      "name": "Sunrays",
-      "url": "https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4LnDWolNUZJEqZdwVjRHKc"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 191420,
       "name": "Run",
       "url": "https://open.spotify.com/track/0VLaaS481wSlMnf6UEQnJM"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
+        "name": "Sunrays",
+        "url": "https://open.spotify.com/album/2KZMHq7JT5R7h4rGN3NvKr"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "duration_ms": 231120,
+      "name": "Sunrays",
+      "url": "https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
+        "name": "Purified Fragments Vi",
+        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Firmoral",
+      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
         "name": "5 Seconds Before Sunrise",
         "url": "https://open.spotify.com/album/1K2ATTJF7dA45WWBAHs4md"
       },
@@ -563,18 +579,18 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "Purified Fragments Vi",
-        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
       },
       "artists": [
         {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
         }
       ],
-      "duration_ms": 228196,
-      "name": "Firmoral",
-      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -591,22 +607,6 @@
       "duration_ms": 467086,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -647,26 +647,6 @@
       "duration_ms": 206223,
       "name": "High On Beat",
       "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
-        "name": "Haunt Me",
-        "url": "https://open.spotify.com/album/4EMZGTv76C32KyS0dZRwad"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "The Moth & The Flame",
-          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
-        }
-      ],
-      "duration_ms": 299232,
-      "name": "Haunt Me",
-      "url": "https://open.spotify.com/track/17zdyEVw9oe9FBDevjOl5c"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -891,22 +871,6 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "World Turns",
-        "url": "https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 323919,
-      "name": "World Turns",
-      "url": "https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
         "name": "Wellenl\u00e4nge",
         "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
       },
@@ -919,6 +883,22 @@
       "duration_ms": 218000,
       "name": "Wellenl\u00e4nge",
       "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
+        "name": "World Turns",
+        "url": "https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 323919,
+      "name": "World Turns",
+      "url": "https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -1023,6 +1003,22 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
+        "name": "Quarantine",
+        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
+      },
+      "artists": [
+        {
+          "name": "Ante Perry",
+          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
+        }
+      ],
+      "duration_ms": 333223,
+      "name": "Quarantine - Original",
+      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
         "name": "Kiss U",
         "url": "https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd"
       },
@@ -1039,22 +1035,6 @@
       "duration_ms": 335043,
       "name": "Kiss U",
       "url": "https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
-        "name": "Quarantine",
-        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
-      },
-      "artists": [
-        {
-          "name": "Ante Perry",
-          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
-        }
-      ],
-      "duration_ms": 333223,
-      "name": "Quarantine - Original",
-      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -1119,6 +1099,22 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
+        "name": "Fjord",
+        "url": "https://open.spotify.com/album/2XXMsYAGzFFWXjX0dbTtaS"
+      },
+      "artists": [
+        {
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+        }
+      ],
+      "duration_ms": 250169,
+      "name": "Fjord",
+      "url": "https://open.spotify.com/track/0wCQhh8ltakGjamI3nVcAG"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/5lOpduLiv7Cexz1YUWtk5w"
       },
@@ -1135,6 +1131,22 @@
       "duration_ms": 296687,
       "name": "Follow (Extended Mix)",
       "url": "https://open.spotify.com/track/7eMdP75WNeu2y8VpKzmfYX"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
+        "name": "Perspective EP",
+        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "duration_ms": 304753,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -1175,22 +1187,6 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "Perspective EP",
-        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        }
-      ],
-      "duration_ms": 304753,
-      "name": "Message",
-      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt"
       },
@@ -1203,22 +1199,6 @@
       "duration_ms": 363889,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
-        "name": "Fjord",
-        "url": "https://open.spotify.com/album/2XXMsYAGzFFWXjX0dbTtaS"
-      },
-      "artists": [
-        {
-          "name": "p\u00f8laroit",
-          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
-        }
-      ],
-      "duration_ms": 250169,
-      "name": "Fjord",
-      "url": "https://open.spotify.com/track/0wCQhh8ltakGjamI3nVcAG"
     },
     {
       "added_at": "2022-10-07 15:52:14",
@@ -1239,22 +1219,6 @@
     {
       "added_at": "2022-10-07 15:52:14",
       "album": {
-        "name": "Silence & Secrets",
-        "url": "https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 268434,
-      "name": "Silence & Secrets",
-      "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
-    },
-    {
-      "added_at": "2022-10-07 15:52:14",
-      "album": {
         "name": "Under Darkening Skies",
         "url": "https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU"
       },
@@ -1267,6 +1231,38 @@
       "duration_ms": 277608,
       "name": "Harlem River",
       "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
+        "name": "Ve",
+        "url": "https://open.spotify.com/album/1yEmW3JlHzrmKNoheAyYNA"
+      },
+      "artists": [
+        {
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ve",
+      "url": "https://open.spotify.com/track/5HngP2bVbIcEC4tHVkCgNc"
+    },
+    {
+      "added_at": "2022-10-07 15:52:14",
+      "album": {
+        "name": "Silence & Secrets",
+        "url": "https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 268434,
+      "name": "Silence & Secrets",
+      "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
     }
   ],
   "unique_name": "Afterhours",

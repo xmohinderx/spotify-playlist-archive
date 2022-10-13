@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The best of UK Rap & Drill\.  Cover: NorthsideBenji & Unknown T 🇨🇦🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,127 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,511 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 36 | [Tell Me I'm Lying](https://open.spotify.com/track/5jq0JokcoHI6vaJXCj5ux8) | [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Tell Me I'm Lying](https://open.spotify.com/album/2TbmBmZv7PZDshf2CWn7Qt) | 2:51 |
 | 37 | [24's](https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [24's](https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP) | 2:46 |
 | 38 | [Talk To Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk To Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
-| 39 | [Please Stay](https://open.spotify.com/track/4Zf9wD8sScwSHyl6upO9gg) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Please Stay](https://open.spotify.com/album/68qEH0gbGKySNcaM9xK8aS) | 2:34 |
+| 39 | [Please Stay](https://open.spotify.com/track/4KYJHqJpWJgVd7H8fACj0y) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Please Stay](https://open.spotify.com/album/4g4VK6QDRBoZ7bdelXvJDp) | 2:34 |
 | 40 | [Elegant & Gang](https://open.spotify.com/track/78ywqAbY9QktwlTHyc8c4I) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ) | [Elegant & Gang](https://open.spotify.com/album/6XklZC1pUcru2h12f8F0WF) | 3:25 |
 | 41 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
 | 42 | [In Da Function](https://open.spotify.com/track/3N4OkYNX9kSjkRIp1k33XF) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [Kayem2x](https://open.spotify.com/artist/0qo7gqk9EnojsHT1K8tQ1h) | [In Da Function](https://open.spotify.com/album/5Phno2AvI3oAz3IO51FKPa) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 49 | [Berlin](https://open.spotify.com/track/7CqqX8wSqvsXaUx4SWIHyN) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Berlin](https://open.spotify.com/album/7apJG7RDrKlucsqpDt3qCp) | 2:24 |
 | 50 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 |
 
-Snapshot ID: `MTY2NTA5Nzc2NSwwMDAwMDAwMDUzNGJkMDMyMjk2Zjg1NDZjYmNjNjE2M2FiZDkzODky`
+Snapshot ID: `MTY2NTA5Nzc2NSwwMDAwMDAwMDIyYjkzN2QxZTc1NDkzNjMxODBjMjk2NDhkYzY1NGRj`

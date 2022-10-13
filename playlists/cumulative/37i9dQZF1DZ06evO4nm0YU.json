@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 427560,
       "name": "Al\u00e9jate",
       "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 574800,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/5UCnz9Q6GSFLl6oeCSaSSZ"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 211200,
       "name": "Comedia",
       "url": "https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk"
@@ -249,6 +249,28 @@
       "duration_ms": 275760,
       "name": "De Ti Depende",
       "url": "https://open.spotify.com/track/6V0m5eu38vtpaVTqdCKxxV"
+    },
+    {
+      "album": {
+        "name": "Dia De Ayer",
+        "url": "https://open.spotify.com/album/5CjN1hidT7zC2QhMy6gyfI"
+      },
+      "artists": [
+        {
+          "name": "Joeski",
+          "url": "https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206827,
+      "name": "Dia De Ayer",
+      "url": "https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs"
     },
     {
       "album": {
@@ -343,7 +365,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 316920,
       "name": "El Retrato De Mam\u00e1",
       "url": "https://open.spotify.com/track/02cJPVJGbORekilKfFsYXM"
@@ -699,7 +721,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 275880,
       "name": "Para\u00edso De Dulzura",
       "url": "https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m"
@@ -721,7 +743,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 704466,
       "name": "Pas\u00e9 La Noche Fumando",
       "url": "https://open.spotify.com/track/2VcX1Y1jsmtNtyjdyN7eMS"
@@ -763,7 +785,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 197026,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/5keKepe0oMUyZcn6PVXBvV"
@@ -807,6 +829,24 @@
       "duration_ms": 316680,
       "name": "Pira\u00f1a",
       "url": "https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6"
+    },
+    {
+      "album": {
+        "name": "Strikes Back",
+        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282800,
+      "name": "Plato De Segunda Mesa",
+      "url": "https://open.spotify.com/track/0urCMoVOripqfDJYQbdNAq"
     },
     {
       "album": {
@@ -915,7 +955,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 391320,
       "name": "Siento",
       "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
@@ -1075,7 +1115,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 216000,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/2qGOhy0tSbvClnQhgBkkoC"
@@ -1093,7 +1133,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 250093,
       "name": "T\u00fa Bien Lo Sabes",
       "url": "https://open.spotify.com/track/10tGX9oQ2xa1mgAXu8Cmc7"

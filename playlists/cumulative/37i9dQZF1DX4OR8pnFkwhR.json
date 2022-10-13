@@ -775,10 +775,28 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 209475,
       "name": "coming back",
       "url": "https://open.spotify.com/track/4rk7dX6JOIOjQuTbx72PUI"
+    },
+    {
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/60RRYz2U7iQkuYRvIoAXsn"
+      },
+      "artists": [
+        {
+          "name": "TOSH",
+          "url": "https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209475,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6GrOZYmO4cbVHGz5IGWjd7"
     },
     {
       "album": {
@@ -1474,6 +1492,28 @@
     },
     {
       "album": {
+        "name": "Rely on the Wind",
+        "url": "https://open.spotify.com/album/0nlAOQ1jNIX3zXgpTxrpn8"
+      },
+      "artists": [
+        {
+          "name": "BELLMAINZ",
+          "url": "https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm"
+        },
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215589,
+      "name": "Foolish - with SUKISHA",
+      "url": "https://open.spotify.com/track/2NlcMEvOIaFIIKHQ6YKFiR"
+    },
+    {
+      "album": {
         "name": "\u98a8\u3092\u983c\u308a\u306b",
         "url": "https://open.spotify.com/album/4hbDPyrGSEg9KhMpDxK9fC"
       },
@@ -1489,7 +1529,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 215589,
       "name": "Foolish - with SUKISHA",
       "url": "https://open.spotify.com/track/42oZVEWRITDxCvulC8qnCA"

@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 169579,
       "name": "BAD bad",
       "url": "https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG"
@@ -3241,10 +3241,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 185155,
       "name": "END OF DAYS",
       "url": "https://open.spotify.com/track/5L0kF2G7PX0pdRSd278n1g"
+    },
+    {
+      "album": {
+        "name": "SUNSPOTS",
+        "url": "https://open.spotify.com/album/23grTY0XfOmdPg9WorGxRw"
+      },
+      "artists": [
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185155,
+      "name": "END OF DAYS",
+      "url": "https://open.spotify.com/track/5enMs9HhVONWrSgVw7ra8f"
     },
     {
       "album": {
@@ -5220,6 +5238,28 @@
     },
     {
       "album": {
+        "name": "IDC",
+        "url": "https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112666,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr"
+    },
+    {
+      "album": {
         "name": "3rr0r",
         "url": "https://open.spotify.com/album/1cem9I2x2idLH5n3Vz4CNx"
       },
@@ -5441,7 +5481,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 217746,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/3o5ZrzWvJPJY8vlddeSP19"
@@ -5913,7 +5953,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 232500,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
@@ -6353,7 +6393,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 220781,
       "name": "Luvaroq",
       "url": "https://open.spotify.com/track/3oRwReVMtEUrQTFlwm0v09"
@@ -9777,7 +9817,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 265115,
       "name": "Steady",
       "url": "https://open.spotify.com/track/1XtR9GdwiSbhtaufCeYcTT"

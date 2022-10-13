@@ -2400,6 +2400,24 @@
     },
     {
       "album": {
+        "name": "Blame The Brakes",
+        "url": "https://open.spotify.com/album/0jGU8t3SZvyiNgu02pInoo"
+      },
+      "artists": [
+        {
+          "name": "Hastings",
+          "url": "https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206411,
+      "name": "Blame The Brakes",
+      "url": "https://open.spotify.com/track/4ZoPMviImcYNDNz6NEuDHm"
+    },
+    {
+      "album": {
         "name": "Blank Me",
         "url": "https://open.spotify.com/album/7na6EPTI7sIHutOQfJNXev"
       },
@@ -2913,6 +2931,24 @@
       "duration_ms": 156381,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
+    },
+    {
+      "album": {
+        "name": "Break Up",
+        "url": "https://open.spotify.com/album/3iyrgPqlArYixTFDvb4inx"
+      },
+      "artists": [
+        {
+          "name": "Citizen Queen",
+          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Break Up",
+      "url": "https://open.spotify.com/track/1gp97syO65VxKgH8ew19tb"
     },
     {
       "album": {
@@ -5379,7 +5415,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 218000,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi"
@@ -8495,7 +8531,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
@@ -10339,7 +10375,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 177247,
       "name": "how dare you",
       "url": "https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS"
@@ -10577,7 +10613,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 177886,
       "name": "i can't help it",
       "url": "https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc"
@@ -10703,7 +10739,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 136799,
       "name": "I Like You Better",
       "url": "https://open.spotify.com/track/5Q8GpY56OWmPs7H7At4tNY"
@@ -24361,7 +24397,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 110400,
       "name": "White Mercedes",
       "url": "https://open.spotify.com/track/5N1OdVOQ1bVpSogyDIsJBJ"

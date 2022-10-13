@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 480825,
+  "num_followers": 480870,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMDdmMjExMWY3MThiNjc4YzY5MzJkMTBhYmU2ZmJjNjli",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMGJhOGRlYTYxZjU3NTM4NzdhMzA2MDlkZWVhY2Y2ZTA5",
   "tracks": [
     {
       "added_at": "2022-02-17 17:26:43",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 221039,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/1KDPWUuA213r6M2WbWUauE"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "The Belt",
         "url": "https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ"
       },
@@ -339,22 +323,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Bahamas Is Afie",
         "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
@@ -367,6 +335,22 @@
       "duration_ms": 157040,
       "name": "Stronger Than That",
       "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -449,6 +433,22 @@
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+    },
+    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Now Is The Time",
@@ -467,34 +467,18 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
+        "name": "Take Good Care",
+        "url": "https://open.spotify.com/album/10cYvuRfY8IpASva845zgF"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
         }
       ],
-      "duration_ms": 217633,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/4VeCmOb1rAEZQfH7Rlms9C"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+      "duration_ms": 218333,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2WgbFkQQswVVEWnyKnFo2q"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -511,22 +495,6 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Take Good Care",
-        "url": "https://open.spotify.com/album/10cYvuRfY8IpASva845zgF"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2WgbFkQQswVVEWnyKnFo2q"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -599,6 +567,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 276466,
+      "name": "I Of The Storm",
+      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "All Your Favorite Bands",
         "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
       },
@@ -631,22 +615,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Beneath The Skin",
-        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 276466,
-      "name": "I Of The Storm",
-      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
       },
@@ -663,22 +631,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Imaginary Man",
-        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Mr. Rodriguez",
-      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Cautionary Tale",
         "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
       },
@@ -691,6 +643,22 @@
       "duration_ms": 220920,
       "name": "Cautionary Tale",
       "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Mr. Rodriguez",
+      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -951,6 +919,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Heigh Ho",
+        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Don't Tell Our Friends About Me",
+      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
       },
@@ -983,22 +967,6 @@
       "duration_ms": 142818,
       "name": "Headstart",
       "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Heigh Ho",
-        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
-      },
-      "artists": [
-        {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Don't Tell Our Friends About Me",
-      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1051,22 +1019,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Jade Bird",
-        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 153151,
-      "name": "Lottery",
-      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Inwards & Onwards",
         "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
       },
@@ -1095,6 +1047,22 @@
       "duration_ms": 246800,
       "name": "Bad Moves",
       "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 153151,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1175,38 +1143,6 @@
       "duration_ms": 199413,
       "name": "Who Do You Think You're Talking To?",
       "url": "https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Sun Leads Me On",
-        "url": "https://open.spotify.com/album/5JX80KwJlB847fFVrQxNPV"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Turn Your Love",
-      "url": "https://open.spotify.com/track/2OE1yF5x0xDjjsC5CYArz2"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf"
-      },
-      "artists": [
-        {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
-        }
-      ],
-      "duration_ms": 291920,
-      "name": "The John Wayne",
-      "url": "https://open.spotify.com/track/3CMlAaKO8Z1MUsmk5ngUtN"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1355,22 +1291,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Breaking Point",
-        "url": "https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ"
-      },
-      "artists": [
-        {
-          "name": "Jackson+Sellers",
-          "url": "https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk"
-        }
-      ],
-      "duration_ms": 216004,
-      "name": "Waste Your Time",
-      "url": "https://open.spotify.com/track/7k1gACB0qAHrRaWjCCvlGj"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Gamble for a Rose",
         "url": "https://open.spotify.com/album/2m7HIJEYualrBm7WAvcmZA"
       },
@@ -1383,6 +1303,22 @@
       "duration_ms": 270853,
       "name": "Gamble for a Rose",
       "url": "https://open.spotify.com/track/3qhyaik3Koy3cvLk9h5L8G"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Breaking Point",
+        "url": "https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ"
+      },
+      "artists": [
+        {
+          "name": "Jackson+Sellers",
+          "url": "https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk"
+        }
+      ],
+      "duration_ms": 216004,
+      "name": "Waste Your Time",
+      "url": "https://open.spotify.com/track/7k1gACB0qAHrRaWjCCvlGj"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1515,22 +1451,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Tried to Tell You",
-        "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 218602,
-      "name": "Tried to Tell You",
-      "url": "https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Galacticana",
         "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
       },
@@ -1543,6 +1463,22 @@
       "duration_ms": 240733,
       "name": "Galacticana",
       "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Tried to Tell You",
+        "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "Tried to Tell You",
+      "url": "https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1623,6 +1559,74 @@
       "duration_ms": 257080,
       "name": "Elastic Heart",
       "url": "https://open.spotify.com/track/2EqFvg1GaWik5nwCmnZVN1"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Aquatic Flowers",
+        "url": "https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "Complex",
+      "url": "https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Busted Jukebox Volume 3",
+        "url": "https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Old Sob Story",
+        "url": "https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Old Sob Story",
+      "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Jazz on the Autobahn",
+        "url": "https://open.spotify.com/album/6WFiE7FugKb5nQpl5Y3FRy"
+      },
+      "artists": [
+        {
+          "name": "The Felice Brothers",
+          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Jazz on the Autobahn",
+      "url": "https://open.spotify.com/track/39FTmyyxXFvK7yXyyuW9ja"
     }
   ],
   "unique_name": "Folk Rock Favorites",

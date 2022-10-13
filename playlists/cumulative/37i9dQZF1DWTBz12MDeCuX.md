@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu
 
-388 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+389 songs - 18 hr 48 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Giftig](https://open.spotify.com/track/69hi7EaJMbzSnEFoWrzrKy) | [Tommyn](https://open.spotify.com/artist/4bKMWpArwutcuzKitMc4ug) | [Giftig](https://open.spotify.com/album/2oUgnNxtcPynysaTQKPkZw) | 2:32 | 2022-07-04 | 2022-08-05 |
 | [GL +3](https://open.spotify.com/track/5liQ5heZoAB6ohWhpdVWPa) | [YUGO](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2), [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [GL +3](https://open.spotify.com/album/0JBJEu7kyFBmygxp9l1KO1) | 2:39 | 2022-06-09 | 2022-07-15 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-20 | 2022-07-01 |
-| [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 | 2022-09-01 |  |
+| [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-10-11 |  |
+| [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 | 2022-09-01 | 2022-10-13 |
 | [Good News](https://open.spotify.com/track/43SWVKMD9mVUAwx8pkmWbV) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Ode](https://open.spotify.com/album/20e4uXVD8PBrziY0YtsTPi) | 3:37 | 2022-08-18 | 2022-09-02 |
 | [großer engel](https://open.spotify.com/track/2Kd245j54FgeO1aN3lpJ6L) | [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [GOTT IST EINE FRAU](https://open.spotify.com/album/3PXwHXxoir2u5RWHAn3occ) | 2:26 | 2022-09-09 | 2022-09-23 |
 | [Hal5](https://open.spotify.com/track/7qCBNPvqBIczTFTa9XHmh2) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa), [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU) | [Hal5](https://open.spotify.com/album/4SvF4VFwnrK0IP5v8tVBa8) | 2:58 | 2022-09-22 |  |

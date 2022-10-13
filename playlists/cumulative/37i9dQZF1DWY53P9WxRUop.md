@@ -4,7 +4,7 @@
 
 > Summer fun for the whole family.
 
-82 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/7BcUzLlBJ2xTZ7YTR5pSJz)
+83 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/7BcUzLlBJ2xTZ7YTR5pSJz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Summertime!](https://open.spotify.com/track/1gAaCOTfapa9tB4nWkUWP2) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Aquabats! Super Show! \(Television Soundtrack\), Vol\. 1](https://open.spotify.com/album/2zfV24Z3J5tYbbITneW2Ju) | 1:19 | 2021-08-30 |  |
 | [SUMMERTIME!](https://open.spotify.com/track/5MwfVQ4xXUMzKTmG9RuoHZ) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Super Show! Vol\. 1 \(Music from The Aquabats! Super Show! Soundtrack\)](https://open.spotify.com/album/3IrSAQW0Hzh2o4qwoPAmOx) | 1:19 | 2021-08-30 | 2022-07-29 |
 | [Sunny Day](https://open.spotify.com/track/1mK8l0dgP7XbDi1dFmcHNT) | [Ernie & Neal](https://open.spotify.com/artist/6VGrwLiwouKP8h3a4yVgby) | [Rock & Roll Band](https://open.spotify.com/album/1Dk4c6BE0JLpjfuIJ43WvG) | 3:56 | 2021-08-30 |  |
-| [Sunscreen](https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps) | 1:23 | 2021-08-30 |  |
+| [Sunscreen](https://open.spotify.com/track/2x9P9IOZIj9t5SNWesDlHe) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/17nFvyQzMs0pbiz9ukUuA5) | 1:23 | 2021-08-30 |  |
+| [Sunscreen](https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps) | 1:23 | 2021-08-30 | 2022-10-13 |
 | [Surfer Shake](https://open.spotify.com/track/3KrrtXZHE3w9Aiy5E9pZl1) | [The Baby Grands](https://open.spotify.com/artist/5utOgNLzDC1fg5EuztlYbC) | [The Baby Grands](https://open.spotify.com/album/4QNuQTPY9OzOSoiY6BWYc9) | 1:56 | 2021-08-30 |  |
 | [Surfin' And Sunnin'](https://open.spotify.com/track/4abQIptzx1pXZBDq8PF71o) | [Sunny Day](https://open.spotify.com/artist/4KqqosG1rMSwHl0AyLeatP) | [Keep Styling, Keep Singing](https://open.spotify.com/album/7cgGVrEHEiJLhjzWfMfItx) | 0:49 | 2021-08-30 |  |
 | [Surf’s Up \- From "Teen Beach Movie"](https://open.spotify.com/track/4FLwksoBdffxACteswhNlU) | [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Maia Mitchell](https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC), [Teen Beach Movie Cast](https://open.spotify.com/artist/7CU7ADIkPVCEZU9miqxSzy) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 3:01 | 2021-08-30 |  |

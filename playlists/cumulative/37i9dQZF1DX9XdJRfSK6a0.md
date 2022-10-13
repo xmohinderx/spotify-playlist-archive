@@ -4,7 +4,7 @@
 
 > This Sunday, let's tune out the words.
 
-70 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/0CpRLqW8EkKiQoCSEtTBEq)
+71 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/0CpRLqW8EkKiQoCSEtTBEq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2019-01-04 |  |
 | [Ashoken Farewell](https://open.spotify.com/track/1F8eHbbrXTSRQTPLEREItt) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix) | 2:30 | 2019-01-04 | 2022-07-29 |
 | [Ashoken Farewell](https://open.spotify.com/track/5nNn40GNviPx4GxmPP1ebd) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 2:30 | 2019-01-04 |  |
-| [Barragán](https://open.spotify.com/track/0w2kb2POWcEtGbbqhXu4IF) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4XvtXHbIkZVLp65p5KBHMP) | 2:13 | 2019-01-04 |  |
+| [Barragán](https://open.spotify.com/track/0w2kb2POWcEtGbbqhXu4IF) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4XvtXHbIkZVLp65p5KBHMP) | 2:13 | 2019-01-04 | 2022-10-13 |
+| [Barragán](https://open.spotify.com/track/2EbnbSeiXnyXfGdf17OoGa) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4UhYqrNKcEiRHdVIxI7vso) | 2:13 | 2022-09-27 |  |
 | [Cabezon](https://open.spotify.com/track/0BIfjMKCMAcuqPDzbXXNG0) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Ocean Beach](https://open.spotify.com/album/7j4C67U6Aj4odzbHRrpeiq) | 3:11 | 2019-01-04 |  |
 | [Cabezon](https://open.spotify.com/track/45H5qttaXmyycyA1EafVmJ) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Ocean Beach](https://open.spotify.com/album/3wjMtECVHVYFJY9QlsHJJV) | 3:11 | 2019-01-04 | 2022-07-29 |
 | [Dance Of The Diaper Fairy](https://open.spotify.com/track/3OtMD4JRXo3XjLQDkH61BR) | [Per Störby Jutbring](https://open.spotify.com/artist/5HKQ1eZfmajJNGC12Nj7xB) | [F!](https://open.spotify.com/album/16XLBiTCmMxMzoJn9zFEMW) | 5:05 | 2019-01-04 | 2022-07-29 |

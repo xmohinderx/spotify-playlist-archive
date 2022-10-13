@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 122630,
+  "num_followers": 122703,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTUwMDQwMCwwMDAwMDAwMDA4YjUwZTVjNWIxMWIxM2FiNDUwYzY2YzkwNmE2YmQy",
+  "snapshot_id": "MTY2NTUwMDQwMCwwMDAwMDAwMDEzNDA5ZWE0NmU1OWEwNDRiZWFmOTcxNDBkYTdlODE0",
   "tracks": [
     {
       "added_at": "2022-10-11 15:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "SEPTEMBER",
-        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
-      },
-      "artists": [
-        {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "SEPTEMBER",
-      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
-    },
-    {
-      "added_at": "2022-10-11 15:00:00",
-      "album": {
         "name": "Call me back",
         "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 225529,
       "name": "Call me back",
       "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
+    },
+    {
+      "added_at": "2022-10-11 15:00:00",
+      "album": {
+        "name": "SEPTEMBER",
+        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
+      },
+      "artists": [
+        {
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "SEPTEMBER",
+      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -655,18 +655,22 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "PLASMA",
-        "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
+        "name": "Smoky Valley",
+        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
       "artists": [
         {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+          "name": "I love you Orchestra Swing Style",
+          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
+        },
+        {
+          "name": "mahina",
+          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
         }
       ],
-      "duration_ms": 376533,
-      "name": "Drive\u2019n The Rain",
-      "url": "https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e"
+      "duration_ms": 259000,
+      "name": "Night Distance",
+      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -691,22 +695,18 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "Smoky Valley",
-        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
+        "name": "PLASMA",
+        "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
       },
       "artists": [
         {
-          "name": "I love you Orchestra Swing Style",
-          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
-        },
-        {
-          "name": "mahina",
-          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Night Distance",
-      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
+      "duration_ms": 376533,
+      "name": "Drive\u2019n The Rain",
+      "url": "https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "\u5618\u5bdd",
-        "url": "https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM"
+        "name": "IMA",
+        "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
         }
       ],
-      "duration_ms": 227573,
-      "name": "\u5618\u5bdd",
-      "url": "https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns"
+      "duration_ms": 217400,
+      "name": "IMA",
+      "url": "https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "IMA",
-        "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
+        "name": "\u5618\u5bdd",
+        "url": "https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM"
       },
       "artists": [
         {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 217400,
-      "name": "IMA",
-      "url": "https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz"
+      "duration_ms": 227573,
+      "name": "\u5618\u5bdd",
+      "url": "https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -999,22 +999,18 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "Sentimental (Neon Mix)",
-        "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
+        "name": "white",
+        "url": "https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG"
       },
       "artists": [
         {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "\u7af9\u5185\u7f8e\u5ba5",
-          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
         }
       ],
-      "duration_ms": 203588,
-      "name": "Sentimental - Neon Mix",
-      "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
+      "duration_ms": 250000,
+      "name": "white",
+      "url": "https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -1039,18 +1035,18 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "white",
-        "url": "https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG"
+        "name": "Change My Life",
+        "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
       },
       "artists": [
         {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
         }
       ],
-      "duration_ms": 250000,
-      "name": "white",
-      "url": "https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y"
+      "duration_ms": 243600,
+      "name": "Change My Life",
+      "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "Change My Life",
-        "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
+        "name": "Sentimental (Neon Mix)",
+        "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
       },
       "artists": [
         {
-          "name": "THE RAMPAGE from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u7af9\u5185\u7f8e\u5ba5",
+          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
         }
       ],
-      "duration_ms": 243600,
-      "name": "Change My Life",
-      "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
+      "duration_ms": 203588,
+      "name": "Sentimental - Neon Mix",
+      "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
+        "name": "ADVENTURE",
+        "url": "https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR"
+      },
+      "artists": [
+        {
+          "name": "Momoko Kikuchi",
+          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/0pDqeRO43GzZTNqrMbahJl"
+    },
+    {
+      "added_at": "2022-10-11 15:00:00",
+      "album": {
         "name": "\u30e9\u30c3\u30ad\u30fc\u30fb\u30c9\u30e9\u30a4\u30d6",
         "url": "https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 208853,
       "name": "\u30e9\u30c3\u30ad\u30fc\u30fb\u30c9\u30e9\u30a4\u30d6",
       "url": "https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho"
-    },
-    {
-      "added_at": "2022-10-11 15:00:00",
-      "album": {
-        "name": "ADVENTURE",
-        "url": "https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR"
-      },
-      "artists": [
-        {
-          "name": "Momoko Kikuchi",
-          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/0pDqeRO43GzZTNqrMbahJl"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "Perfect Vacation",
-        "url": "https://open.spotify.com/album/1L0htF6OHaxrzp46hIlt7n"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 219227,
-      "name": "Perfect Vacation",
-      "url": "https://open.spotify.com/track/3Ur58a9oYjMMhYvbTDfujQ"
-    },
-    {
-      "added_at": "2022-10-11 15:00:00",
-      "album": {
         "name": "MAO",
         "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 267666,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
+    },
+    {
+      "added_at": "2022-10-11 15:00:00",
+      "album": {
+        "name": "Perfect Vacation",
+        "url": "https://open.spotify.com/album/1L0htF6OHaxrzp46hIlt7n"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 219227,
+      "name": "Perfect Vacation",
+      "url": "https://open.spotify.com/track/3Ur58a9oYjMMhYvbTDfujQ"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
+      },
+      "artists": [
+        {
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+        }
+      ],
+      "duration_ms": 227951,
+      "name": "READY",
+      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
+    },
+    {
+      "added_at": "2022-10-11 15:00:00",
+      "album": {
         "name": "\u30d5\u30fc\u30ea\u30c3\u30b7\u30e5\u30b5\u30de\u30fc",
         "url": "https://open.spotify.com/album/4xLSbMXqkmxhaY3mJKKXDh"
       },
@@ -1427,26 +1443,6 @@
       "duration_ms": 267595,
       "name": "\u30d5\u30fc\u30ea\u30c3\u30b7\u30e5\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/6TqYBVT4sytzhEyiujcqjM"
-    },
-    {
-      "added_at": "2022-10-11 15:00:00",
-      "album": {
-        "name": "Ladies In The City",
-        "url": "https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Maki Nomiya",
-          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Tokyo Rouge",
-      "url": "https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
+        "name": "Ladies In The City",
+        "url": "https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7"
       },
       "artists": [
         {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Maki Nomiya",
+          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
         }
       ],
-      "duration_ms": 227951,
-      "name": "READY",
-      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
+      "duration_ms": 223066,
+      "name": "Tokyo Rouge",
+      "url": "https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "Natsume",
-        "url": "https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm"
-      },
-      "artists": [
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 157999,
-      "name": "Natsume",
-      "url": "https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il"
-    },
-    {
-      "added_at": "2022-10-11 15:00:00",
-      "album": {
         "name": "Step in Step in",
         "url": "https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 218910,
       "name": "Step in Step in",
       "url": "https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs"
+    },
+    {
+      "added_at": "2022-10-11 15:00:00",
+      "album": {
+        "name": "Natsume",
+        "url": "https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 157999,
+      "name": "Natsume",
+      "url": "https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "Capsule",
-        "url": "https://open.spotify.com/album/1oQ6rg9khddeMQkPhGNjyb"
-      },
-      "artists": [
-        {
-          "name": "TAIKING",
-          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Capsule",
-      "url": "https://open.spotify.com/track/63yICY4anYaDErIyT6sxv7"
-    },
-    {
-      "added_at": "2022-10-11 15:00:00",
-      "album": {
         "name": "Are U Romantic?",
         "url": "https://open.spotify.com/album/5R1RHDWNPxzdvZVJcUAZEz"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 258600,
       "name": "Ocha",
       "url": "https://open.spotify.com/track/34AxhxmQ3L3ZL1s6M05pcX"
+    },
+    {
+      "added_at": "2022-10-11 15:00:00",
+      "album": {
+        "name": "Capsule",
+        "url": "https://open.spotify.com/album/1oQ6rg9khddeMQkPhGNjyb"
+      },
+      "artists": [
+        {
+          "name": "TAIKING",
+          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Capsule",
+      "url": "https://open.spotify.com/track/63yICY4anYaDErIyT6sxv7"
     },
     {
       "added_at": "2022-10-11 15:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-10-11 15:00:00",
       "album": {
-        "name": "\u697d\u5712",
-        "url": "https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 239300,
-      "name": "\u697d\u5712",
-      "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"
-    },
-    {
-      "added_at": "2022-10-11 15:00:00",
-      "album": {
         "name": "New Beautiful",
         "url": "https://open.spotify.com/album/6DQTtGy06K7dcHZMPqO7sW"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 254400,
       "name": "On The Sunny Side Of The Street (feat. Phum Viphurit)",
       "url": "https://open.spotify.com/track/1mKjl4KEhTa3UGCJ2NDU7y"
+    },
+    {
+      "added_at": "2022-10-11 15:00:00",
+      "album": {
+        "name": "\u697d\u5712",
+        "url": "https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 239300,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"
     },
     {
       "added_at": "2022-10-11 15:00:00",

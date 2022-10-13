@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,112 likes - 52 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,153 likes - 52 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 24 | [Reddy Ikkada Soodu](https://open.spotify.com/track/0AC0O74oBjVfCp0SHr3kQ6) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx), [Anjana Sowmya](https://open.spotify.com/artist/1MRWm9vbsdOdqD1GYQEihD) | [Aravindha Sametha](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 4:04 |
 | 25 | [Jwala Reddy](https://open.spotify.com/track/3sJsBrmu3pVEbxSW5vMQoi) | [Shankar Babu](https://open.spotify.com/artist/0gXtTHD29pO85I6glSfzDD), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Seetimaarr](https://open.spotify.com/album/5QkCmd6LakXYNkzKhDDBsV) | 4:05 |
 | 26 | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/track/3qhq4cn3We0CXDIi44ckHa) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh) | 4:14 |
-| 27 | [Apple Beauty](https://open.spotify.com/track/2o6DT527sOB7r20jVlyhzJ) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Janatha Garage](https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8) | 3:51 |
-| 28 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 |
+| 27 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 |
+| 28 | [Apple Beauty](https://open.spotify.com/track/2o6DT527sOB7r20jVlyhzJ) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Janatha Garage](https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8) | 3:51 |
 | 29 | [Yevandoi Nani Garu](https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:24 |
 | 30 | [Sarrainodu](https://open.spotify.com/track/5FybVtlnyWXL6ntfToOkm3) | [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Brijesh Shandilya](https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:55 |
 | 31 | [Ammadu Let's Do Kummudu](https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 3:28 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
 | 52 | [Puttene Prema](https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs) | 3:46 |
 
-Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMGU0NDVhMjc2MzQ4Mzg4MjcxMzM2Y2MzNGFjODQ1MDIx`
+Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDJkZGM0NGMyMTkzODQzYmIzYmFmNmM0NDQ0YzFlMmU1`

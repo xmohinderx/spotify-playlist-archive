@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-805 songs - 1 day 18 hr 7 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+806 songs - 1 day 18 hr 11 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Million](https://open.spotify.com/track/2D3WwsWSJWNMnglP4KnDXf) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Million](https://open.spotify.com/album/08e6x4kJclAHeB6qNiYUxU) | 2:16 | 2021-04-04 | 2021-04-26 |
 | [Min Mobil \- MGP 2022](https://open.spotify.com/track/1zooMwobWXca8AW6oAzB45) | [7even](https://open.spotify.com/artist/1Qq3fmCUtJ276vlg28OuCr) | [MGP 2022](https://open.spotify.com/album/4O3fsczCwCRwIQuRG8lf6q) | 2:24 | 2022-02-27 | 2022-03-02 |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-01-11 | 2022-01-15 |
+| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-12 |  |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-11-16 | 2021-12-29 |
 | [MJ \(feat\. Shooter Gang\)](https://open.spotify.com/track/2MjJiGe9zI51tr7zin5CBq) | [L.O.C.](https://open.spotify.com/artist/0VUVvNFIyMeIWguwhhImIc), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [FUCK L.O.C.](https://open.spotify.com/album/3hA9742cGSpyar4lJEbmRA) | 3:26 | 2021-05-30 | 2021-05-31 |
 | [Mona Lisa \(feat\. Lord Siva\)](https://open.spotify.com/track/2VO1Lr1MVNGDHzBN5kHHQt) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Mona Lisa \(feat\. Lord Siva\)](https://open.spotify.com/album/4bOYDZcsOGNSyid7BtDOIN) | 3:06 | 2022-06-04 | 2022-06-19 |
@@ -809,7 +810,7 @@
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-30 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-27 |
 | [Zombie](https://open.spotify.com/track/4osCG0whKGmnEe7SZfHGA1) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [4 Til Gulvet](https://open.spotify.com/album/251r5Jv5psSP10WVu4eSyD) | 3:19 | 2022-08-20 | 2022-08-28 |
-| [Årstider](https://open.spotify.com/track/21h80Cfo35Foa17LFp6O0A) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[α\]](https://open.spotify.com/album/5V0uzO6f7OAkHTuxkFKaK8) | 3:23 | 2022-10-03 |  |
+| [Årstider](https://open.spotify.com/track/21h80Cfo35Foa17LFp6O0A) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[α\]](https://open.spotify.com/album/5V0uzO6f7OAkHTuxkFKaK8) | 3:23 | 2022-10-03 | 2022-10-13 |
 | [Æstetisk](https://open.spotify.com/track/4PCcN37jm4tDj8RPZuvC1H) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Æstetisk](https://open.spotify.com/album/6wV9sbuZnumfF8mRnzODZn) | 2:31 | 2022-03-12 | 2022-03-14 |
 | [Øjne Som Dine](https://open.spotify.com/track/7hQltyI2tgXb4lRNFncJdk) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Øjne Som Dine](https://open.spotify.com/album/7t5XWRm0jDYuKnuHlB50SQ) | 2:39 | 2021-10-23 | 2021-11-27 |
 | [Øve Os På Hinanden](https://open.spotify.com/track/5KLDajsSLvA5n2zTwKycvF) | [Fyr Og Flamme](https://open.spotify.com/artist/7EuzcvdfScUqksgKfyN7J0) | [Øve Os På Hinanden](https://open.spotify.com/album/4TWKMqtrWaLhZEpUVVyfY2) | 3:06 | 2021-03-27\* | 2021-05-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Ringnes\-Ronny
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,181 likes - 70 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,211 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 9 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 |
 | 10 | [TANTE](https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [TANTE](https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU) | 2:13 |
 | 11 | [MISSFÖRSTÅTT \- Roc Boyz Remix](https://open.spotify.com/track/5PnY5zibauLwrMFIBfmwM3) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [MISSFÖRSTÅTT \(Roc Boyz Remix\)](https://open.spotify.com/album/0MKKTiQSyTr116fbPq79vf) | 1:54 |
-| 12 | [Hjerteknuser](https://open.spotify.com/track/6D2Hxj0e7gZojlFBV1fKBx) | [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Geasseijat](https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT) | 4:23 |
-| 13 | [Take My Hand](https://open.spotify.com/track/4dbHMUMM1Xh33GPwXXd4OA) | [Oberg](https://open.spotify.com/artist/1g9S6C1WRQYwddKiR3Kwcv) | [Take My Hand](https://open.spotify.com/album/3895zoFFOiT4gDIqwyxwdX) | 2:41 |
+| 12 | [Take My Hand](https://open.spotify.com/track/4dbHMUMM1Xh33GPwXXd4OA) | [Oberg](https://open.spotify.com/artist/1g9S6C1WRQYwddKiR3Kwcv) | [Take My Hand](https://open.spotify.com/album/3895zoFFOiT4gDIqwyxwdX) | 2:41 |
+| 13 | [Hjerteknuser](https://open.spotify.com/track/6D2Hxj0e7gZojlFBV1fKBx) | [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Geasseijat](https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT) | 4:23 |
 | 14 | [Polisen](https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Polisen](https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL) | 2:34 |
 | 15 | [Block Party](https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Block Party](https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj) | 2:05 |
 | 16 | [HAALAND](https://open.spotify.com/track/0LOCSZsi6mwN14aWHi8VCI) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X) | [HAALAND](https://open.spotify.com/album/6oBrrSkRLcvyVWe9ZwIvMl) | 1:44 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 66 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 |
 | 67 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
 | 68 | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3) | 2:57 |
-| 69 | [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 |
-| 70 | [Baksetefylla](https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO) | [Malene Axling](https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ) | [Baksetefylla](https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe) | 2:29 |
+| 69 | [Baksetefylla](https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO) | [Malene Axling](https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ) | [Baksetefylla](https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe) | 2:29 |
+| 70 | [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 |
 
-Snapshot ID: `MTY2NTA5MzYwMCwwMDAwMDAwMGVhMzVjYTJjODE4MGQzNzA3NGU2ZGFiMjNlYjlkYzU3`
+Snapshot ID: `MTY2NTA5MzYwMCwwMDAwMDAwMGJmM2YzYzUxYTI2YTcxNTNiOTEwNTBiMzAwNzk2YmM4`

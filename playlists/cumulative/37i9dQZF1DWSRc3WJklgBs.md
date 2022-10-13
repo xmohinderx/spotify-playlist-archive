@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,010 songs - 2 day 11 hr 44 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+1,011 songs - 2 day 11 hr 47 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,7 +560,8 @@
 | [Lovin' You](https://open.spotify.com/track/3XkAdIenMaTqCnNBRkUOLw) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Moonway](https://open.spotify.com/artist/5TD5NIfep7zFBj02sGPudp), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [Lovin' You](https://open.spotify.com/album/4amastQmuNwMbAR7Pj2OQ9) | 2:22 | 2021-05-08 | 2022-05-14 |
 | [Loving You](https://open.spotify.com/track/3rcnZD0l4NPyyQ9CecXfy9) | [Promise Land](https://open.spotify.com/artist/0ktujbOLx1L1K8wj8o8dpJ) | [Loving You](https://open.spotify.com/album/6nV6V02kQqJwBgm6uadTml) | 3:13 | 2019-08-09\* | 2020-03-29 |
 | [Loyal](https://open.spotify.com/track/33E4cAJlQA7QK8gwHtB5qx) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Loyal](https://open.spotify.com/album/0rKV0ZTVr5JrBniAEOqktI) | 3:16 | 2019-09-01 | 2020-10-30 |
-| [Lucky Ones](https://open.spotify.com/track/16NIrabVJJj9qtOnl1dik8) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Olivia Ray](https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle) | [A Change of Perspective](https://open.spotify.com/album/4lOCWG0YrcTYHFdtweLsv7) | 3:19 | 2022-02-11 |  |
+| [Lucky Ones](https://open.spotify.com/track/16NIrabVJJj9qtOnl1dik8) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Olivia Ray](https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle) | [A Change of Perspective](https://open.spotify.com/album/4lOCWG0YrcTYHFdtweLsv7) | 3:19 | 2022-02-11 | 2022-10-13 |
+| [Lucky Ones](https://open.spotify.com/track/7ptHMwc3zT9qudXy668WDK) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Olivia Ray](https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle) | [A Change of Perspective](https://open.spotify.com/album/0MYbIbyYESrE7NAjuQVcWi) | 3:19 | 2022-09-30 |  |
 | [Lullaby](https://open.spotify.com/track/2c4dLyo3OqHdaej5tafhfR) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Lullaby](https://open.spotify.com/album/5O2uZU8F0jiMbUvWnXap9Q) | 4:56 | 2022-01-28 |  |
 | [Ma Luv](https://open.spotify.com/track/48RoCGs1FNlp8NF3HXW2Wt) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [Ma Luv](https://open.spotify.com/album/7CFZSyuqggIrBjyj86wP0A) | 2:50 | 2021-08-14 | 2021-10-09 |
 | [Magic](https://open.spotify.com/track/7GYLsGlCPqSkLBNDC5mVyl) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Magic](https://open.spotify.com/album/3sv4c3hqHP1ZO8Nj62W8TS) | 2:50 | 2019-08-09\* | 2019-08-27 |

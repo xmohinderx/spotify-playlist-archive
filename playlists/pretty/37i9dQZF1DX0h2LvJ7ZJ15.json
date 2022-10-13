@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 528656,
+  "num_followers": 530148,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODU2MCwwMDAwMDAwMGFjMGUyMmE0NGVjODY5YzdhMjNmNTYyYTMzNjVmMzFm",
+  "snapshot_id": "MTY2NTExODU2MCwwMDAwMDAwMDM2NDMxYTk0OTc1OTBhOWI0ZWRlYzljYWU3NjlkNjg2",
   "tracks": [
     {
       "added_at": "2022-10-07 04:56:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
+        "name": "Righteous (SLOW & REVERB)",
+        "url": "https://open.spotify.com/album/4YI4JmnkU1ggD6wWdCrBfC"
+      },
+      "artists": [
+        {
+          "name": "Mo Beats",
+          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
+        }
+      ],
+      "duration_ms": 180403,
+      "name": "Righteous (SLOW & REVERB)",
+      "url": "https://open.spotify.com/track/4ItmLaoV2YCCx0MKKQOTNT"
+    },
+    {
+      "added_at": "2022-10-07 04:56:00",
+      "album": {
         "name": "Angel Baby (Slowed)",
         "url": "https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 262623,
       "name": "Angel Baby - Slowed",
       "url": "https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
-        "name": "Righteous (SLOW & REVERB)",
-        "url": "https://open.spotify.com/album/4YI4JmnkU1ggD6wWdCrBfC"
-      },
-      "artists": [
-        {
-          "name": "Mo Beats",
-          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
-        }
-      ],
-      "duration_ms": 180403,
-      "name": "Righteous (SLOW & REVERB)",
-      "url": "https://open.spotify.com/track/4ItmLaoV2YCCx0MKKQOTNT"
     },
     {
       "added_at": "2022-10-07 04:56:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 203491,
+      "name": "SNAP - Low and Slow",
+      "url": "https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb"
+    },
+    {
+      "added_at": "2022-10-07 04:56:00",
+      "album": {
         "name": "dirty laundry (slowed)",
         "url": "https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 196568,
       "name": "NOT FAIR (slowed)",
       "url": "https://open.spotify.com/track/3X9DJqqtiG2Uh48TDhtMgn"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 203491,
-      "name": "SNAP - Low and Slow",
-      "url": "https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb"
     },
     {
       "added_at": "2022-10-07 04:56:00",

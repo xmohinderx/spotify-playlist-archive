@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-154 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+155 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 | 2021-04-19 |  |
 | [Call Your Mama \(feat\. Little Big Town\)](https://open.spotify.com/track/5dPc0lDy55q0GCyL66Uudy) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Call Your Mama \(feat\. Little Big Town\)](https://open.spotify.com/album/074bfoI8tp9Kpj4alfarw3) | 3:16 | 2021-04-19 |  |
 | [Carry On](https://open.spotify.com/track/1qBKPuLAM3AMfP8kW6lZ7n) | [Our Atlantic Roots](https://open.spotify.com/artist/7ymwRNbLwKozZwnup5cMtB) | [Carry On](https://open.spotify.com/album/0WyeZyEEb8pidrTsN1mPtK) | 3:25 | 2021-04-19 |  |
-| [Confidence](https://open.spotify.com/track/055h2AsFKK7aSw4hljdgFY) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Confidence](https://open.spotify.com/album/3yzK1XGu66r71Tmewym1Yp) | 2:35 | 2022-03-04 |  |
+| [Confidence](https://open.spotify.com/track/055h2AsFKK7aSw4hljdgFY) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Confidence](https://open.spotify.com/album/3yzK1XGu66r71Tmewym1Yp) | 2:35 | 2022-03-04 | 2022-10-13 |
+| [Confidence](https://open.spotify.com/track/6pS9rYGCtegVdUKDuURMMf) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Confidence](https://open.spotify.com/album/5wBp5OtdqAJ70QLSWuE7JJ) | 2:35 | 2022-03-04 |  |
 | [DRIFT ALONG SMALL WORLD](https://open.spotify.com/track/75sA9kqySGXC9tOae0W0tA) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [DRIFT ALONG SMALL WORLD](https://open.spotify.com/album/5IvyxcEZTKhiGraQJ6Dgrg) | 2:42 | 2022-04-01 |  |
 | [Eveline](https://open.spotify.com/track/6wgCah9IU4VP9zqqMSVxk7) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [farmland](https://open.spotify.com/album/7HD3bbzKRfWsKX5KvaQTe4) | 3:50 | 2021-04-19 |  |
 | [Everybody's Moving Slow](https://open.spotify.com/track/1rCBBYXnxHNZcsG3llCZ0S) | [Jamie Lin Wilson](https://open.spotify.com/artist/4iOvWdVz71Xq2jgkUp1UNL) | [Jumping over Rocks](https://open.spotify.com/album/1ggyQgcurhryP0W6Xizswa) | 3:27 | 2021-04-19 | 2022-06-11 |

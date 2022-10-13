@@ -4,7 +4,7 @@
 
 > Summer memories from yesteryear!
 
-116 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/7bza4DZB9dW08P4zWu1Br4)
+117 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/7bza4DZB9dW08P4zWu1Br4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Destination Calabria \(Feat\. Crystal Waters\) \- Original Radio Edit](https://open.spotify.com/track/2QMdxS78DaXP8aS8qJqGzU) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Hands Up!](https://open.spotify.com/album/0hN2WOLMD22hUYH5MBQ4pw) | 3:43 | 2021-05-16 | 2022-07-29 |
 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 | 2021-05-16 |  |
 | [Drop The Pressure](https://open.spotify.com/track/243NB0yDHxtapXQvJvCaW6) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/5hEmQDypt7E7hJIQeTo6as) | 4:15 | 2021-05-16 | 2022-07-29 |
-| [Drop the Pressure](https://open.spotify.com/track/0IVVCvZYhPEWzAvp6ZMhUh) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll \(2005 Remaster\)](https://open.spotify.com/album/00PDA7SqRAgxpKRg41Yp3m) | 4:15 | 2021-05-16 |  |
+| [Drop the Pressure](https://open.spotify.com/track/0IVVCvZYhPEWzAvp6ZMhUh) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll \(2005 Remaster\)](https://open.spotify.com/album/00PDA7SqRAgxpKRg41Yp3m) | 4:15 | 2021-05-16 | 2022-10-13 |
+| [Drop the Pressure](https://open.spotify.com/track/2VtxdAH96cGcj1QzjpbHjA) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll \(2005 Remaster\)](https://open.spotify.com/album/2wdHHEDHe9dw71xVl1EgJZ) | 4:15 | 2021-05-16 |  |
 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 | 2021-05-16 |  |
 | [Everytime We Touch](https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Everytime We Touch \(Premium Edition\)](https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD) | 3:17 | 2021-05-16 |  |
 | [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/track/6BaCraQ9xeLYg4Sb9TBT2X) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/album/52LQhrLLYOup9HhaOsv54e) | 3:43 | 2021-05-16 |  |

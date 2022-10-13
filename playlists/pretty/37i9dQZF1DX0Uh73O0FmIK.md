@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,580 likes - 89 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,914 likes - 89 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 32 | [Klymaxx](https://open.spotify.com/track/7FiRzDwy4NslWvCKiCzLg0) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [In Decay](https://open.spotify.com/album/6M4kfVR0hxL1zXfoANKP0q) | 4:24 |
 | 33 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 |
 | 34 | [Bury](https://open.spotify.com/track/4336Bwzy1TUIGZeO7YKfxG) | [Mire.](https://open.spotify.com/artist/1tERo1AaIEC4X7PKG8futp) | [A Meaning of Love](https://open.spotify.com/album/0TgDjPWkpbfdu2RkyKAy3a) | 3:55 |
-| 35 | [Hypnocurrency](https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3) | 4:52 |
+| 35 | [Hypnocurrency](https://open.spotify.com/track/6H3uEl6cwtz6w8w1vTbAxE) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/42JmDtuxBI5cOjCojXkf2P) | 4:52 |
 | 36 | [Fear is your Only God](https://open.spotify.com/track/5E4PTNUV7RPpIZCEOM1lD2) | [Mala Sangre](https://open.spotify.com/artist/4ZNEFyoM6tmMuwuTGH2vbh) | [Fear is your Only God](https://open.spotify.com/album/3sNxVmpdyxEuvoPkLdtKNR) | 4:26 |
 | 37 | [The End](https://open.spotify.com/track/1CfCme9SvYiCwegwOS6rKH) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [The End](https://open.spotify.com/album/0no9vd20lVRbHZooRhqUHb) | 4:35 |
 | 38 | [A New Error](https://open.spotify.com/track/1fmoCZ6mtMiqA5GHWPcZz9) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [Moderat](https://open.spotify.com/album/2HEh23ogCT3wiYfag2iMxD) | 6:07 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 88 | [Fly Away](https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Fly Away](https://open.spotify.com/album/0F7ftNMhjvUDyDpWklGStR) | 3:14 |
 | 89 | [The Robots \- 2009 Remaster](https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 6:12 |
 
-Snapshot ID: `MTY2NDgyODQwOSwwMDAwMDAwMDkyYTQ0NTZlODYxYzllNTEyMTk2OWVkN2U3NjBjZTAx`
+Snapshot ID: `MTY2NDgyODQwOSwwMDAwMDAwMDI4N2U4MjIyNzFlZjY4MWIyZDU5ZDQyNWJiOTNmYzNj`

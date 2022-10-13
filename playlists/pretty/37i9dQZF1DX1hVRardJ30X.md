@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Yahritza Y Su Esencia & Ivan Cornejo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,828 likes - 56 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,002 likes - 56 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 15 | [Diablo BB](https://open.spotify.com/track/0BqRxEMRPDOMowx1oWq78o) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Diablo BB](https://open.spotify.com/album/6tnfBqPEpJrSfQYTpFsyy6) | 2:20 |
 | 16 | [Sin Carné](https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Sin Carné](https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc) | 1:57 |
 | 17 | [El Egoísmo](https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [El Egoísmo](https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx) | 2:50 |
-| 18 | [EN LA LENTA](https://open.spotify.com/track/02mYqoWYX6wRrfqKWr4Bj8) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Hit$ Mu$ic \(VOL\. 1\)](https://open.spotify.com/album/5jPDhWUbfyTeUTPSdHdrff) | 3:09 |
+| 18 | [EN LA LENTA](https://open.spotify.com/track/02mYqoWYX6wRrfqKWr4Bj8) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Hit$ Mu$ic \(VOL\. 1\)](https://open.spotify.com/album/5jPDhWUbfyTeUTPSdHdrff) | 3:09 |
 | 19 | [La Culpa](https://open.spotify.com/track/5VUhMAjIfD0NHRckqsE4e3) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [La Culpa](https://open.spotify.com/album/5VriqoVJikkeVk9mfZfeQT) | 3:20 |
 | 20 | [Obvio](https://open.spotify.com/track/6uzFCFLkAw2liJlaW6SSdI) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [Obvio](https://open.spotify.com/album/4JWCU9l3VqFMwi08IfjMjB) | 3:34 |
 | 21 | [Prohibido](https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Prohibido](https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ) | 3:08 |
@@ -63,6 +63,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 53 | [Desapareces](https://open.spotify.com/track/5r9Vlo3LFqFa3SzZr2QimO) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx) | [Desapareces](https://open.spotify.com/album/7qWR95mT0k92Ii5ttcijKr) | 3:02 |
 | 54 | [No Pudo Ser](https://open.spotify.com/track/41MQL7H8imz5hFPwyPqTgX) | [Sweet Lizzy Project](https://open.spotify.com/artist/3HPBGfJkTUsuGQHtzwWAcn) | [Radio Pirata](https://open.spotify.com/album/1JQQrrrCAGGXyvCJOlsgfH) | 3:58 |
 | 55 | [Tal Para Cual](https://open.spotify.com/track/3ttVFm4SM83nYJAIKq4h1Z) | [Jorge Franco](https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB) | [Tal Para Cual](https://open.spotify.com/album/29IBxYVSuuc4ubcllLKtJx) | 3:03 |
-| 56 | [Ya No Queiro](https://open.spotify.com/track/5g8HnZeHOQyOyK1EOb1Jf7) | [CAROLINE](https://open.spotify.com/artist/1YWvf5qw9RnGAW39spyLI1) | [Ya No Queiro](https://open.spotify.com/album/1l4U6ykibEJCMNL01uPqIz) | 3:18 |
+| 56 | [Ya No Queiro](https://open.spotify.com/track/2cMHFUokblCyjYPiyVRO6B) | [CAROLINE](https://open.spotify.com/artist/1YWvf5qw9RnGAW39spyLI1) | [Ya No Queiro](https://open.spotify.com/album/3fbbVNLVjzF5XolHlQmWKB) | 3:18 |
 
-Snapshot ID: `MTY2NTE3MDkxNCwwMDAwMDAwMDAzMWJhOGI3NGUzMzdhNjk5MDFiNmY4ZTk5NjljMjA0`
+Snapshot ID: `MTY2NTE3MDkxNCwwMDAwMDAwMDBmOTZlMDYzZWVjZDllNTY4MzFlMzdkZjY5NTNhN2Y5`

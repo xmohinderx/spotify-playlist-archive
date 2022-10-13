@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: KONGTHAP PEAK \(กองทัพ พีค\)\. Artwork: Isu Kim
+> ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: FOOL STEP\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,381 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,402 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [โรงอาหาร \(Canteen\)](https://open.spotify.com/track/4vAN681BRgElt1Vwr76awL) | [Kamin Kingsak](https://open.spotify.com/artist/2flyd7ey35JuludWaAMELO) | [โรงอาหาร \(Canteen\)](https://open.spotify.com/album/11OzcdWBZwSDDT4QnyU2A9) | 3:57 |
-| 2 | [21วัน ทฤษฎีจีบเธอ \(Love Theory\)](https://open.spotify.com/track/401VVCAswS3tZUJznHrVEZ) | [KONGTHAP PEAK](https://open.spotify.com/artist/6yEr7qQKyVc8tWX7TpVif0) | [21วัน ทฤษฎีจีบเธอ \(Love Theory\)](https://open.spotify.com/album/7bYRNYEY4hnIRrE5pCFtW1) | 3:48 |
+| 2 | [ฉันโกหก](https://open.spotify.com/track/7vOhr4S75hqQf3xmiHLsKG) | [FOOL STEP](https://open.spotify.com/artist/2YvQp7JVYyy5Hxk1QLXnLV) | [ฉันโกหก](https://open.spotify.com/album/6UVN6wVDFbh1m2LLeBtDk1) | 4:27 |
 | 3 | [พิเศษรึเปล่านะ \(Breadcrumbing ?\)](https://open.spotify.com/track/2QtmRzM5dEk8saLilY4ixX) | [Dena Euprasert](https://open.spotify.com/artist/5mLzhpjIOXrJBCjmfv0rUb) | [พิเศษรึเปล่านะ \(Breadcrumbing ?\)](https://open.spotify.com/album/17MWlyVeTaKpdjmhMJEo3L) | 3:22 |
-| 4 | [คิดถึงแต่ไม่บอกเค้าคงจะรู้หรอกมั้ง](https://open.spotify.com/track/1GjrpO4xPIyG0kz8rqXImY) | [Aunchi](https://open.spotify.com/artist/0OqDmG4Uh3u9be64ot9Sz3) | [คิดถึงแต่ไม่บอกเค้าคงจะรู้หรอกมั้ง](https://open.spotify.com/album/1RG4BMZC3uWzfECTTdRMC2) | 3:03 |
+| 4 | [21วัน ทฤษฎีจีบเธอ \(Love Theory\)](https://open.spotify.com/track/401VVCAswS3tZUJznHrVEZ) | [KONGTHAP PEAK](https://open.spotify.com/artist/6yEr7qQKyVc8tWX7TpVif0) | [21วัน ทฤษฎีจีบเธอ \(Love Theory\)](https://open.spotify.com/album/7bYRNYEY4hnIRrE5pCFtW1) | 3:48 |
 | 5 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
-| 6 | [จุดไหน\(ก่อน\)](https://open.spotify.com/track/2A7kaxJyrqNFSn9pINZQPb) | [NUTCHY](https://open.spotify.com/artist/1qDMB8sv51LlelJYkLGY8h) | [จุดไหน\(ก่อน\)](https://open.spotify.com/album/04lBCk99NUjKwzcXWhJOei) | 3:36 |
-| 7 | [ศูนย์คูณอะไรก็ได้ศูนย์](https://open.spotify.com/track/4DE4fRvrmz9OirN65YLT1R) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ศูนย์คูณอะไรก็ได้ศูนย์](https://open.spotify.com/album/1RfjCeIZn3C66mR8Lanxzb) | 3:10 |
-| 8 | [หันสิ](https://open.spotify.com/track/0XzzF1H9SG0NM56x5dXukb) | [Faii apapat](https://open.spotify.com/artist/6jPl1lumS1wPiRZtNMvrFS) | [หันสิ](https://open.spotify.com/album/2niZ6NPiBHuyr4EErGAOd0) | 4:08 |
-| 9 | [โฮกปี๊บ](https://open.spotify.com/track/11XGRK0hUhOSgp1A5rrPuk) | [LOST CHIPS](https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9) | [โฮกปี๊บ](https://open.spotify.com/album/7pwOg2SRX9ZwVbfdZcBYOc) | 4:27 |
-| 10 | [คาปูชิโน่](https://open.spotify.com/track/0Uuw81H5h1TQ7gSzjPA1c3) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [คาปูชิโน่](https://open.spotify.com/album/7Cw9wg8AQYJHBrgijLKLXu) | 4:24 |
-| 11 | [เหงาหรอ? \(Just Leave Me Alone\)](https://open.spotify.com/track/4YeIVN4TgjLa0zJR9c6HYu) | [Nutty Natchaya](https://open.spotify.com/artist/5rrQBPWh522YmC6sVnIPGQ) | [เหงาหรอ? \(Just Leave Me Alone\)](https://open.spotify.com/album/3VU7s7BWenLkU6CWnQKUT0) | 4:19 |
-| 12 | [ไปด้วยกัน](https://open.spotify.com/track/2AmnDywmkFwJHQCKZzjKRz) | [JPS \(Pasav\)](https://open.spotify.com/artist/7lyGnLSdcA4oPELLDpwv8N), [Stickyrice Killah](https://open.spotify.com/artist/4vRJ7PcK5rBxs9OjvMkNiN) | [ไปด้วยกัน](https://open.spotify.com/album/4tTLmDWAVm9ErzxeKg2TpQ) | 4:03 |
-| 13 | [คืนวันศุกร์](https://open.spotify.com/track/2bepAvTPvI3JPl6hQA568H) | [Greenglasses](https://open.spotify.com/artist/0McyZ5AuCB5d0elP2JlzO9) | [คืนวันศุกร์](https://open.spotify.com/album/077V1uqVVVWVVD9HwkK5p8) | 4:27 |
-| 14 | [อยู่ตรงนี้ \(Always be here\)](https://open.spotify.com/track/1hEirNLtSliAdJXLP8pCMr) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [อยู่ตรงนี้ \(Always be here\)](https://open.spotify.com/album/4NqRIitDtRj5M4Bx41wGPz) | 4:37 |
-| 15 | [คนไกลไกล](https://open.spotify.com/track/0TS1RJ916ck0tyJdfakc2u) | [Yoong](https://open.spotify.com/artist/0Tbbu6RrRX8pd2LXotYeBc) | [คนไกลไกล](https://open.spotify.com/album/1tj7lNgAMclTge6gbH1TYx) | 4:17 |
-| 16 | [เราต่างเก็บใครบางคนไว้ในเพลงรัก](https://open.spotify.com/track/2u1KGFiQVEJLrYZDXtYlZr) | [T\-PHARM](https://open.spotify.com/artist/43sd1QFgIOkQhGbMvz3f3K) | [เราต่างเก็บใครบางคนไว้ในเพลงรัก](https://open.spotify.com/album/6K2whcBAHXxEm8rsQaIXn3) | 3:13 |
-| 17 | [ฮะ ฮะ](https://open.spotify.com/track/4te1SDktZQSg1AiZSes1Nt) | [Mek Sippanun](https://open.spotify.com/artist/1Z5XbfiRj15ojnSJsovqGc) | [ฮะ ฮะ](https://open.spotify.com/album/0PAwnJzRYkLZrx6a6vXblW) | 4:17 |
+| 6 | [เลยอ๋อ \(Niksen\)](https://open.spotify.com/track/1R22HeagVHQck7v9m8wRA0) | [Bellythebear](https://open.spotify.com/artist/2B3Hs8KIU4FqMYrHOWL7wh) | [เลยอ๋อ \(Niksen\)](https://open.spotify.com/album/5uN9xdTandou9yZVSoX6R0) | 2:26 |
+| 7 | [จุดไหน\(ก่อน\)](https://open.spotify.com/track/2A7kaxJyrqNFSn9pINZQPb) | [NUTCHY](https://open.spotify.com/artist/1qDMB8sv51LlelJYkLGY8h) | [จุดไหน\(ก่อน\)](https://open.spotify.com/album/04lBCk99NUjKwzcXWhJOei) | 3:36 |
+| 8 | [South out](https://open.spotify.com/track/7uDKsDaXSZIdSpiumsr4Ek) | [Zambug](https://open.spotify.com/artist/698QM0vyNkViI1jrJlBQg5), [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY) | [South out](https://open.spotify.com/album/0dbEMtGsG8y7kCxq8RLtrl) | 3:42 |
+| 9 | [ศูนย์คูณอะไรก็ได้ศูนย์](https://open.spotify.com/track/4DE4fRvrmz9OirN65YLT1R) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ศูนย์คูณอะไรก็ได้ศูนย์](https://open.spotify.com/album/1RfjCeIZn3C66mR8Lanxzb) | 3:10 |
+| 10 | [คิดถึงแต่ไม่บอกเค้าคงจะรู้หรอกมั้ง](https://open.spotify.com/track/1GjrpO4xPIyG0kz8rqXImY) | [Aunchi](https://open.spotify.com/artist/0OqDmG4Uh3u9be64ot9Sz3) | [คิดถึงแต่ไม่บอกเค้าคงจะรู้หรอกมั้ง](https://open.spotify.com/album/1RG4BMZC3uWzfECTTdRMC2) | 3:03 |
+| 11 | [หันสิ](https://open.spotify.com/track/0XzzF1H9SG0NM56x5dXukb) | [Faii apapat](https://open.spotify.com/artist/6jPl1lumS1wPiRZtNMvrFS) | [หันสิ](https://open.spotify.com/album/2niZ6NPiBHuyr4EErGAOd0) | 4:08 |
+| 12 | [โฮกปี๊บ](https://open.spotify.com/track/11XGRK0hUhOSgp1A5rrPuk) | [LOST CHIPS](https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9) | [โฮกปี๊บ](https://open.spotify.com/album/7pwOg2SRX9ZwVbfdZcBYOc) | 4:27 |
+| 13 | [คาปูชิโน่](https://open.spotify.com/track/0Uuw81H5h1TQ7gSzjPA1c3) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [คาปูชิโน่](https://open.spotify.com/album/7Cw9wg8AQYJHBrgijLKLXu) | 4:24 |
+| 14 | [เหงาหรอ? \(Just Leave Me Alone\)](https://open.spotify.com/track/4YeIVN4TgjLa0zJR9c6HYu) | [Nutty Natchaya](https://open.spotify.com/artist/5rrQBPWh522YmC6sVnIPGQ) | [เหงาหรอ? \(Just Leave Me Alone\)](https://open.spotify.com/album/3VU7s7BWenLkU6CWnQKUT0) | 4:19 |
+| 15 | [ไปด้วยกัน](https://open.spotify.com/track/2AmnDywmkFwJHQCKZzjKRz) | [JPS \(Pasav\)](https://open.spotify.com/artist/7lyGnLSdcA4oPELLDpwv8N), [Stickyrice Killah](https://open.spotify.com/artist/4vRJ7PcK5rBxs9OjvMkNiN) | [ไปด้วยกัน](https://open.spotify.com/album/4tTLmDWAVm9ErzxeKg2TpQ) | 4:03 |
+| 16 | [อยู่ตรงนี้ \(Always be here\)](https://open.spotify.com/track/1hEirNLtSliAdJXLP8pCMr) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [อยู่ตรงนี้ \(Always be here\)](https://open.spotify.com/album/4NqRIitDtRj5M4Bx41wGPz) | 4:37 |
+| 17 | [เราต่างเก็บใครบางคนไว้ในเพลงรัก](https://open.spotify.com/track/2u1KGFiQVEJLrYZDXtYlZr) | [T\-PHARM](https://open.spotify.com/artist/43sd1QFgIOkQhGbMvz3f3K) | [เราต่างเก็บใครบางคนไว้ในเพลงรัก](https://open.spotify.com/album/6K2whcBAHXxEm8rsQaIXn3) | 3:13 |
 | 18 | [Rainy day](https://open.spotify.com/track/5G2cOu0sPltEXuENKjzgYD) | [RPS Est.1997](https://open.spotify.com/artist/1ebkX7KLgBa2lejxV9bF2n) | [Rainy day](https://open.spotify.com/album/3owhsLoCNnHAtPX0oLkaEp) | 4:22 |
 | 19 | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/track/1i4sHHgpXJICCcG8rmZVi2) | [Chilax](https://open.spotify.com/artist/347hkhpQtvkWFkspEmFQOE) | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/album/1JvcG0ZNdFlVFGyfIs704h) | 3:42 |
 | 20 | [กล่อง \- Forbidden](https://open.spotify.com/track/2u9NxSt6puZkMY8e2bglrK) | [Yooze](https://open.spotify.com/artist/0O7J0KNxwF39xS3cEwDfPk) | [กล่อง \(Forbidden\)](https://open.spotify.com/album/2TCSrruKKMNuXFNPhRzsEx) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 49 | [น้ำหอม \(Sniff\)](https://open.spotify.com/track/768Q6MngZGOZzAxxIXdmEe) | [ZebraHood](https://open.spotify.com/artist/68jBslqrV1fNhoi0egXJxn) | [น้ำหอม \(Sniff\)](https://open.spotify.com/album/7716g5530eqG8w0iQFQYE7) | 3:58 |
 | 50 | [ไม่ต้องรอหน้าหนาว](https://open.spotify.com/track/3OowRaCSAZJOH6W6ZVxChD) | [RIFF](https://open.spotify.com/artist/13beXmIq2Ji3IWyRxqjeqm), [KANOM](https://open.spotify.com/artist/3LwjNpINUMhhzS5m27epY2), [ONEKIDS](https://open.spotify.com/artist/0Ju4ldEinHEWjqnwgSk7Bz) | [ไม่ต้องรอหน้าหนาว](https://open.spotify.com/album/7wW4IPvO0Tpz7d5mWq6icy) | 4:35 |
 
-Snapshot ID: `MTY2NTEyNjE2NCwwMDAwMDAwMGEwMmE2MjMwMDk1MzE0NjA1ZjIzZjY2YjRmMDU4Nzdi`
+Snapshot ID: `MTY2NTU5NzE5MSwwMDAwMDAwMDY4N2NlM2E4ZjUxYjhhZDQ5M2ViYTNjOWYzZGQ0NGY5`

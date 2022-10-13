@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Atul Gupta, Artwork: Isu Kim",
+  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Unnati Shah, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 212991,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/67XwtNqAA1oJaMkufB78J3"
@@ -1937,7 +1937,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 203007,
       "name": "Crimson Skies",
       "url": "https://open.spotify.com/track/3QehBxsgtGDgjp7dVjFSCl"
@@ -3034,6 +3034,28 @@
     },
     {
       "album": {
+        "name": "Galat",
+        "url": "https://open.spotify.com/album/247DE7Qxb2tQhR0fJrd5l4"
+      },
+      "artists": [
+        {
+          "name": "Debo Sanyal",
+          "url": "https://open.spotify.com/artist/6FBmSL6SyN3GeFfso1Q2uB"
+        },
+        {
+          "name": "Anuj Gurung",
+          "url": "https://open.spotify.com/artist/108ZYC7k2ysiCGCeN7Ugyv"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152314,
+      "name": "Galat",
+      "url": "https://open.spotify.com/track/1moxCFuqVyeYIvFmbANqbn"
+    },
+    {
+      "album": {
         "name": "games with my heart",
         "url": "https://open.spotify.com/album/4liaaSWobC346ywk8McJU4"
       },
@@ -3249,6 +3271,24 @@
       "duration_ms": 214322,
       "name": "halo in the dark.",
       "url": "https://open.spotify.com/track/4jXCnl2qeIiIMSyUVLl27T"
+    },
+    {
+      "album": {
+        "name": "Har Ek Din",
+        "url": "https://open.spotify.com/album/7jYxULg4UUnwMciYfuxiDc"
+      },
+      "artists": [
+        {
+          "name": "Prateek Gandhi",
+          "url": "https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239999,
+      "name": "Har Ek Din",
+      "url": "https://open.spotify.com/track/4ST856xXhA1cKc3D2m5PSM"
     },
     {
       "album": {
@@ -4458,6 +4498,24 @@
     },
     {
       "album": {
+        "name": "Jo Tum Ho",
+        "url": "https://open.spotify.com/album/0enBHmgJ2zbBGgx5EtrIM0"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Kapoor",
+          "url": "https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227666,
+      "name": "Jo Tum Ho",
+      "url": "https://open.spotify.com/track/2zTyNH7GCD99yqywgZg6rk"
+    },
+    {
+      "album": {
         "name": "Jugnoo",
         "url": "https://open.spotify.com/album/2PiMemmXngL1mnIHKVwRJj"
       },
@@ -5093,7 +5151,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 170000,
       "name": "Kho Gaya",
       "url": "https://open.spotify.com/track/45UASWwlQ56DyphGduRe6z"
@@ -5389,6 +5447,24 @@
       "duration_ms": 216000,
       "name": "Kulfi",
       "url": "https://open.spotify.com/track/4kRHGApBIgxV4r1SjwD70l"
+    },
+    {
+      "album": {
+        "name": "Kya Aaoge Kabhi",
+        "url": "https://open.spotify.com/album/0xtoeH3bwjSKIDKJh7F8eP"
+      },
+      "artists": [
+        {
+          "name": "Muzaffer",
+          "url": "https://open.spotify.com/artist/6lKmfBnq8JWmPpUHJWpyzm"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241442,
+      "name": "Kya Aaoge Kabhi",
+      "url": "https://open.spotify.com/track/06EVLHNwa0LTwpOOh9Vo5E"
     },
     {
       "album": {
@@ -6923,7 +6999,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 181000,
       "name": "na kehna alvida",
       "url": "https://open.spotify.com/track/0PRIv5xuxFPCdRNkfAhHGr"
@@ -7003,7 +7079,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 194917,
       "name": "Nabina Sakhi",
       "url": "https://open.spotify.com/track/0PuXAp8qEyMyr9QqE9WMl5"
@@ -7995,6 +8071,24 @@
       "duration_ms": 222610,
       "name": "Piya Bin",
       "url": "https://open.spotify.com/track/4YywWFs8sY6RTmrG6LtLbS"
+    },
+    {
+      "album": {
+        "name": "Pyar Karte Hai",
+        "url": "https://open.spotify.com/album/684I8GXuNmlBgtZXg2m5XB"
+      },
+      "artists": [
+        {
+          "name": "Yash Bafna",
+          "url": "https://open.spotify.com/artist/2uMK7SIBHAYrx4e3dNSjf2"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251515,
+      "name": "Pyar Karte Hai",
+      "url": "https://open.spotify.com/track/73c2WdvJUlCxi6s6Q8d25e"
     },
     {
       "album": {
@@ -9727,7 +9821,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 127500,
       "name": "Summer Crush",
       "url": "https://open.spotify.com/track/5Sy5KenP2IsBVIeElerdT0"
@@ -10935,6 +11029,24 @@
       "duration_ms": 241967,
       "name": "Umeed",
       "url": "https://open.spotify.com/track/4cqq8AEHXZkfHuXHvJQ4je"
+    },
+    {
+      "album": {
+        "name": "Umeedein",
+        "url": "https://open.spotify.com/album/4BN9WDdqER7V7oD8ZT9xV4"
+      },
+      "artists": [
+        {
+          "name": "Lohar The Blacksmiths",
+          "url": "https://open.spotify.com/artist/6HeWvZTa6qiSLyACNbSaNJ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233192,
+      "name": "Umeedein",
+      "url": "https://open.spotify.com/track/525IDA2wNvTSkINA5ScqoG"
     },
     {
       "album": {

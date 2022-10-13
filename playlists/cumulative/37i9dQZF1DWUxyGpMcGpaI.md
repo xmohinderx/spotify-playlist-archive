@@ -2,7 +2,7 @@
 
 ### [Chainsaw Man チェンソーマン](https://open.spotify.com/playlist/37i9dQZF1DWUxyGpMcGpaI)
 
-> Music from New Anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! /  TVアニメ<a href="https://chainsawman.dog/">『チェンソーマン』</a>のオフィシャルプレイリスト。
+> Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! /  TVアニメ<a href="https://chainsawman.dog/">『チェンソーマン』</a>のオフィシャルプレイリスト。
 
 2 songs - 6 min 34 sec - not published yet
 

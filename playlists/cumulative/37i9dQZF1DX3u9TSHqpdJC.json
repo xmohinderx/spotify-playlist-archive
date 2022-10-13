@@ -632,6 +632,24 @@
     },
     {
       "album": {
+        "name": "405",
+        "url": "https://open.spotify.com/album/0LQhcpf3mjvoa1xcTydH0G"
+      },
+      "artists": [
+        {
+          "name": "Katherine Ho",
+          "url": "https://open.spotify.com/artist/2XjmzdpCTEdJPI2KGwdeHy"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "405",
+      "url": "https://open.spotify.com/track/2RRhvqw5Uc8gwCTp13H8bV"
+    },
+    {
+      "album": {
         "name": "4700",
         "url": "https://open.spotify.com/album/4wyAzYfbiNeDm7qzRGJ6LK"
       },
@@ -12336,6 +12354,24 @@
     },
     {
       "album": {
+        "name": "emotionally unavailable",
+        "url": "https://open.spotify.com/album/7f4Jdc4Xjh2SGgyWJ3GHvO"
+      },
+      "artists": [
+        {
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "emotionally unavailable",
+      "url": "https://open.spotify.com/track/3z7wG2e5j9fcCmFu50VTxK"
+    },
+    {
+      "album": {
         "name": "emotionallycoaster",
         "url": "https://open.spotify.com/album/0WaLKsSTgAzTE4HQiB2Doz"
       },
@@ -19149,10 +19185,28 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 147045,
       "name": "HOUSEPARTY",
       "url": "https://open.spotify.com/track/1kbb1Lcg5ASJvvsWqNTOao"
+    },
+    {
+      "album": {
+        "name": "HOUSEPARTY",
+        "url": "https://open.spotify.com/album/6wtBot0kdVYtezrca2upV8"
+      },
+      "artists": [
+        {
+          "name": "mekel",
+          "url": "https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147045,
+      "name": "HOUSEPARTY",
+      "url": "https://open.spotify.com/track/30m81sZ92Ux0Negw2m3W8d"
     },
     {
       "album": {
@@ -22176,6 +22230,24 @@
     },
     {
       "album": {
+        "name": "It's Only Love",
+        "url": "https://open.spotify.com/album/3hqMR8UqQppuf8y4iMNVEz"
+      },
+      "artists": [
+        {
+          "name": "Be Charlotte",
+          "url": "https://open.spotify.com/artist/2rTZSJ6JzWaKJaHGbEkRjl"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179461,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/6a2q2pREr1Noz10UFD3kDB"
+    },
+    {
+      "album": {
         "name": "Itsy Bitsy",
         "url": "https://open.spotify.com/album/5vMRBI41FHQFbyEbD8CHgS"
       },
@@ -24597,6 +24669,24 @@
       "duration_ms": 191661,
       "name": "Livin' Without",
       "url": "https://open.spotify.com/track/58MDVLRaB2lvXCjb2uKnf2"
+    },
+    {
+      "album": {
+        "name": "LMITE",
+        "url": "https://open.spotify.com/album/2elu8ENx8EpK8K5RrJDHMP"
+      },
+      "artists": [
+        {
+          "name": "Liya Bombardier",
+          "url": "https://open.spotify.com/artist/5Mpu0Q3NtAKnagP9pUJrxk"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151772,
+      "name": "LMITE",
+      "url": "https://open.spotify.com/track/016KRWD0xLWWZiM4rOaBkV"
     },
     {
       "album": {
@@ -28283,6 +28373,24 @@
     {
       "album": {
         "name": "PANIC",
+        "url": "https://open.spotify.com/album/7LHFGaRQ60VA36FmGkuB4L"
+      },
+      "artists": [
+        {
+          "name": "PHOEBE AXA",
+          "url": "https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247041,
+      "name": "My Toxic Trait",
+      "url": "https://open.spotify.com/track/0Gjt8MHG0drIK45d6UaQhQ"
+    },
+    {
+      "album": {
+        "name": "PANIC",
         "url": "https://open.spotify.com/album/3z2M6tQbHxSgUuFyVrlSbq"
       },
       "artists": [
@@ -28293,7 +28401,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 247041,
       "name": "My Toxic Trait",
       "url": "https://open.spotify.com/track/6IybUJKNDOKbC9bSDCyDkI"
@@ -34100,6 +34208,24 @@
     },
     {
       "album": {
+        "name": "Rich B!tch",
+        "url": "https://open.spotify.com/album/0rN9Wp6354C9lyGGP5jWZd"
+      },
+      "artists": [
+        {
+          "name": "Rosse",
+          "url": "https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159384,
+      "name": "Rich B!tch",
+      "url": "https://open.spotify.com/track/1SNNwV0FOTPZK32dLoqdQg"
+    },
+    {
+      "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/4yqJZLW1d2RvtiwnhxsMVa"
       },
@@ -34677,6 +34803,24 @@
       "duration_ms": 145310,
       "name": "run away",
       "url": "https://open.spotify.com/track/22QCG4gPqZO0nMYl4CWnwm"
+    },
+    {
+      "album": {
+        "name": "Run!",
+        "url": "https://open.spotify.com/album/1x5vPqqxUDxS5pkaAY4pE0"
+      },
+      "artists": [
+        {
+          "name": "Genes",
+          "url": "https://open.spotify.com/artist/5m34laExsWdTu2fYhRlRMG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147253,
+      "name": "Run!",
+      "url": "https://open.spotify.com/track/5M3UgH0zLEakMLXj6UmWpK"
     },
     {
       "album": {
@@ -42270,6 +42414,24 @@
     },
     {
       "album": {
+        "name": "Till I Met You",
+        "url": "https://open.spotify.com/album/4yk7MltN3wAqWOGIVJanZy"
+      },
+      "artists": [
+        {
+          "name": "Amanda Stan",
+          "url": "https://open.spotify.com/artist/1mxLgtca4UWonOTabN1qWV"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164555,
+      "name": "Till I Met You",
+      "url": "https://open.spotify.com/track/2dg01RHUIFmcXazoDIZfAZ"
+    },
+    {
+      "album": {
         "name": "TIM BURTON",
         "url": "https://open.spotify.com/album/6oABSgthAWalcNbsL8VWKF"
       },
@@ -45803,6 +45965,24 @@
       "duration_ms": 209638,
       "name": "When I'm Around",
       "url": "https://open.spotify.com/track/1qpIRWHo6eW69CSkh7yWrU"
+    },
+    {
+      "album": {
+        "name": "When I'm Falling",
+        "url": "https://open.spotify.com/album/2wtCao4mRBUBYZeXAMfQsy"
+      },
+      "artists": [
+        {
+          "name": "PHEA",
+          "url": "https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197839,
+      "name": "When I'm Falling",
+      "url": "https://open.spotify.com/track/79D77fAqOtXzRiHdjKyyFY"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Grentperez is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,931 likes - 57 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,937 likes - 57 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ego](https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn) | 2:15 |
+| 1 | [Ego](https://open.spotify.com/track/2EDGTV01iqpjgZrVG6IcJ4) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/1t7JB13GN0Zn5pwGHcKe3i) | 2:15 |
 | 2 | [Gone Without a Trace](https://open.spotify.com/track/3FiDuroMXcMhEELDhsGf9p) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Gone Without a Trace](https://open.spotify.com/album/14UUC7JJM4HtlHmRsApk18) | 3:02 |
 | 3 | [Slow](https://open.spotify.com/track/0TcGDRh3AbdKBQXtAbtp3n) | [Sylvee](https://open.spotify.com/artist/1OmQ8TgrwtDSA6cPVWwUbR) | [Slow](https://open.spotify.com/album/4Vp8RMvNLZHccQxPZKqaj0) | 2:43 |
 | 4 | [Missing You](https://open.spotify.com/track/0HxVZLIsHtmANlPe5365CI) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Missing You](https://open.spotify.com/album/7tZNUkPLh4bj1iDphlnDkV) | 2:28 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 33 | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/track/18DoMepvkwmJk4CPH0HCbk) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/album/2xd07PANaM6jBT50rfG50U) | 2:50 |
 | 34 | [Black Cloud](https://open.spotify.com/track/7eKFpAosi1b37KQXHUVa7p) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/2dGVf0K5vgvhqrL3STAGoB) | 3:14 |
 | 35 | [Euphoria](https://open.spotify.com/track/7F4p9HU836tGnUBLwJhHiu) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Newcomer](https://open.spotify.com/album/1sXxuN4YB7Fisgjmp96l9k) | 2:57 |
-| 36 | [it's not how it used to be](https://open.spotify.com/track/48r0FCzpeVpFP4KMW7G8CI) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [it's not how it used to be](https://open.spotify.com/album/2aU13brsy2XVN8YKlrgrLn) | 3:27 |
+| 36 | [it's not how it used to be](https://open.spotify.com/track/5eYJJXpmTUiIBdqnJDongW) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Breakfast for Dinner](https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD) | 3:27 |
 | 37 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 |
 | 38 | [You Don't Decide](https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59) | 2:41 |
 | 39 | [Pop Out](https://open.spotify.com/track/4BK00UVgLXIw7l6UQl8ZQa) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Pop Out](https://open.spotify.com/album/4N0UUFDhzOeKHApxy1ZGgx) | 2:19 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 43 | [Ruin My Life](https://open.spotify.com/track/3078LZDJY0jGDcLupjBFRP) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Ruin My Life](https://open.spotify.com/album/7iUpyRmyLJbkHaa1s68f2x) | 3:17 |
 | 44 | [Anakin](https://open.spotify.com/track/2UwGt0YhbHfGoEUPgcMDs6) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Anakin](https://open.spotify.com/album/29sRzR6ZbXnEhH8jQfPss3) | 4:33 |
 | 45 | [I LUV U](https://open.spotify.com/track/1f4hiNCEGip1N4B6QjCAJm) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [I LUV U](https://open.spotify.com/album/1u14LWDFohYHEqptZhDo8i) | 2:20 |
-| 46 | [GTFO](https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y) | 3:20 |
+| 46 | [GTFO](https://open.spotify.com/track/01nSzyIB57M50XlmuGGqjE) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/5hAPhhrqcSGlLHW3uNgJof) | 3:20 |
 | 47 | [Teenage Tragedy](https://open.spotify.com/track/3z0gcpUkzUUoKx4UQ5slno) | [Rory Webley](https://open.spotify.com/artist/2vlC4o7h61xlMUop6QCuvK) | [Teenage Tragedy](https://open.spotify.com/album/74gU8oZ7f2gNiOX3gi7voJ) | 2:03 |
 | 48 | [Why Do I Keep You?](https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Why Do I Keep You?](https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH) | 4:00 |
 | 49 | [Handful](https://open.spotify.com/track/4kGb0Zb0rjs69mC9gZMZfq) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Beddy Rays](https://open.spotify.com/album/6MwcCDtY8ZkuC356FKC28q) | 3:03 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 56 | [Sabrina](https://open.spotify.com/track/6MWAjPXdw19mWpZxFZ1XPW) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [AfterDeath](https://open.spotify.com/artist/2stjrs7wFuofc0tK9O3utv) | [Sabrina](https://open.spotify.com/album/4G9IsiE3nEH71YX5zOTHit) | 2:13 |
 | 57 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 |
 
-Snapshot ID: `MTY2MTcyNzg4OSwwMDAwMDAwMDMyYjIxNGQyMTY5ZGJiOWU5MDVhNDA3ODg0ZTg0YjU0`
+Snapshot ID: `MTY2MTcyNzg4OSwwMDAwMDAwMDYyOTA2YjNlOWY0NmJmODNmMjRkOTQ0NTcxNTZlMWIx`

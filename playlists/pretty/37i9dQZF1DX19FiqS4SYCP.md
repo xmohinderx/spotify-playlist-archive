@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,562 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,565 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 22 | [Así Fue](https://open.spotify.com/track/0rFblCCLFidTJBvLzJna19) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [Así Fue](https://open.spotify.com/album/0pufIKSnkJQ9LPzaUBrBxf) | 4:43 |
 | 23 | [Quedate](https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7) | [Frankie Caballero Jr](https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR) | [Quedate](https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb) | 2:59 |
 | 24 | [La Primavera](https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3) | [Severo y Grupo Fuego](https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6) | [La Primavera](https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp) | 3:12 |
-| 25 | [Amor Traicionero](https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP) | [Anjelique](https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww) | [Sweet City Style](https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb) | 2:48 |
-| 26 | [Ni Todo el Dinero](https://open.spotify.com/track/32YP9PixXHJNLHvJWDlleP) | [MARISELA HERNANDEZ](https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ) | [Ni Todo el Dinero](https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR) | 3:09 |
+| 25 | [Ni Todo el Dinero](https://open.spotify.com/track/32YP9PixXHJNLHvJWDlleP) | [MARISELA HERNANDEZ](https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ) | [Ni Todo el Dinero](https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR) | 3:09 |
+| 26 | [Amor Traicionero](https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP) | [Anjelique](https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww) | [Sweet City Style](https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb) | 2:48 |
 | 27 | [Me Decías](https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov) | [Sonja De La Paz](https://open.spotify.com/artist/4Z8RA77GGwuKlmpv5pLhR3), [Veno Mona](https://open.spotify.com/artist/37IPrPpo8zMf7SZ0qpMJpL) | [Me Decías](https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ) | 3:17 |
 | 28 | [After Party](https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts) | [Sunny Sauceda Y Todo Eso](https://open.spotify.com/artist/2KXYZbOjSl5DpNSFgOqFjP) | [After Party](https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW) | 3:51 |
 | 29 | [Ya No Te Aguanto Moe \(Live\)](https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO) | [Mesteño](https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K) | [Live Sessions 1](https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX) | 3:33 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 33 | [Me Enamoré de un Ángel](https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Me Enamoré de un Ángel](https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3) | 4:11 |
 | 34 | [Vacía](https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY) | [Destiny Navaira](https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e), [Myrza Maldonado](https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk) | [Vacía](https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g) | 3:00 |
 | 35 | [Nunca Fuiste Mio](https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50) | [Girls Night](https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM) | 3:28 |
-| 36 | [Nunca Me Imagine](https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT) | [Adaly](https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg) | [Nunca Me Imagine](https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh) | 2:47 |
-| 37 | [No Quiero Nada](https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq) | [Número Dos](https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07) | 3:12 |
+| 36 | [No Quiero Nada](https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq) | [Número Dos](https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07) | 3:12 |
+| 37 | [Nunca Me Imagine](https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT) | [Adaly](https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg) | [Nunca Me Imagine](https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh) | 2:47 |
 | 38 | [Escapate](https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq) | [Mia](https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5) | [Escapate](https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c) | 3:05 |
 | 39 | [Baby Luna](https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo) | [D](https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb), [Chelo](https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw) | [Baby Luna](https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO) | 2:57 |
 | 40 | [Final De Tu Amor](https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD) | [Grupo Vidal](https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X) | [Final De Tu Amor](https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 49 | [Un Día Veras](https://open.spotify.com/track/4zsvbSpkG5AXAHp6PeKSIV) | [Grupo Daño](https://open.spotify.com/artist/1MB82Th55brI9PDoanCs9k), [Rene De la Cerda](https://open.spotify.com/artist/1U5bYBgPSlRchxFEWTtlAl) | [Un Día Veras](https://open.spotify.com/album/4p0U6WFwIt5wkFOiC2GAr9) | 3:47 |
 | 50 | [Trampa De Amor](https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr) | [VIRGINIA Y VALOR](https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u) | [Trampa De Amor](https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6) | 2:41 |
 
-Snapshot ID: `MTY2MzI2NzI4MywwMDAwMDAwMGZlZjQxMzk1ZGZkOTgxMjNhYTQxMjUwYTRlOGNlYWRk`
+Snapshot ID: `MTY2MzI2NzI4MywwMDAwMDAwMGFjNDE4NTVjZGRhOWUxNjJmMzdlZjgxMTcyMTBjNmVi`

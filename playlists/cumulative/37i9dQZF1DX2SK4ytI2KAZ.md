@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-394 songs - 22 hr 4 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+395 songs - 22 hr 7 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,11 +260,11 @@
 | [Pedestal](https://open.spotify.com/track/6Ij84EZdWjPvK56BBobn72) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Pedestal](https://open.spotify.com/album/3K1y1b5PS6kpzu0rMqwIBP) | 3:11 | 2022-03-11 | 2022-04-21 |
 | [Perfect People](https://open.spotify.com/track/0pa1iFLMfXO2IcJkMjXiEn) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Perfect People](https://open.spotify.com/album/3ef8oNUf6xiKC1mrb27eDa) | 3:29 | 2022-03-11 | 2022-04-21 |
 | [Permission Slip](https://open.spotify.com/track/5lmX9ai11jjsabltxj32kb) | [Mainland](https://open.spotify.com/artist/1glS4fPaSC5EgMTnOsiXif) | [Permission Slip](https://open.spotify.com/album/7LCWfQDbxUl1RSYTn8fXaP) | 3:29 | 2022-03-11 | 2022-04-20 |
-| [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 | 2022-07-29 | 2022-10-09 |
+| [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 | 2022-07-29 |  |
 | [PIERCED ARROWS](https://open.spotify.com/track/3PjN0os4YRSKt3hefJq14b) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [PIERCED ARROWS](https://open.spotify.com/album/3Rug10AExjdT3hz3gFcJsH) | 4:02 | 2022-03-11 | 2022-04-18 |
 | [Play Along](https://open.spotify.com/track/0vcaM5lVTdNaLagTWiuJqe) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 3:11 | 2022-08-12 |  |
 | [Play Along](https://open.spotify.com/track/2Kqz2NwNRBqg0nJMQU5xjJ) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Play Along](https://open.spotify.com/album/4D9Fx7V3jOlawbQW9Svcf9) | 3:11 | 2022-03-09 | 2022-07-29 |
-| [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 | 2022-07-29 |  |
+| [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 | 2022-07-29 | 2022-10-13 |
 | [Preach](https://open.spotify.com/track/2mAlil0VCzglcu4t1dALfN) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Preach](https://open.spotify.com/album/26EBjKTpGv7b9UczhXxFUe) | 3:04 | 2021-03-10 | 2022-05-28 |
 | [Preacher Man](https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Preacher Man](https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha) | 3:39 | 2021-03-10 |  |
 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 | 2022-08-12 |  |
@@ -362,7 +362,8 @@
 | [Tidal Waves](https://open.spotify.com/track/6bappb56qMkekONP6P6avv) | [Parade of Lights](https://open.spotify.com/artist/5acfZKELBZRBvyhrC0kzG1) | [Tidal Waves](https://open.spotify.com/album/10IJJqNFoVkeQuYPy3zw9E) | 2:59 | 2022-03-11 | 2022-04-20 |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2021-03-10 |  |
 | [Tonight You're Perfect](https://open.spotify.com/track/3ym8RPF4EQPqtW0v8G44BT) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 3:22 | 2022-03-11 | 2022-04-21 |
-| [Turn](https://open.spotify.com/track/4GxWee692irccH1QOmRRLl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Turn](https://open.spotify.com/album/0FaTTMkGSHyPYZ6QVxRmph) | 3:27 | 2021-03-10 |  |
+| [Turn](https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1) | 3:27 | 2022-10-07 |  |
+| [Turn](https://open.spotify.com/track/4GxWee692irccH1QOmRRLl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Turn](https://open.spotify.com/album/0FaTTMkGSHyPYZ6QVxRmph) | 3:27 | 2021-03-10 | 2022-10-13 |
 | [Up All Night](https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 3:10 | 2022-06-27 |  |
 | [Up All Night](https://open.spotify.com/track/6Z884oSfliz0mKqTJTXrwb) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Up All Night](https://open.spotify.com/album/4bODUI8yWQc2ZtBMr9tQHB) | 3:10 | 2022-03-11 | 2022-04-13 |
 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 | 2022-03-11 |  |

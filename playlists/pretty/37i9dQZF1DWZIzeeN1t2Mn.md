@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,459 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,482 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 46 | [Body in Motion](https://open.spotify.com/track/11xpBwmHDLUb8luVNFfQex) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 3:41 |
 | 47 | [Elementary Trill](https://open.spotify.com/track/2XheQ3uh5mpq1Jq5zifNQQ) | [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [Soul Rebel](https://open.spotify.com/album/0WcuWIFO0zSHXmeockAYR8) | 3:42 |
 | 48 | [The Isle Of Arran](https://open.spotify.com/track/2YQ1cc9xWnp5qI08rKt6wv) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:34 |
-| 49 | [Wings](https://open.spotify.com/track/67ChP2tyLa1NABp3fifvBc) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM) | 4:06 |
+| 49 | [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 |
 
-Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMGZmNWIyNzIxNzczYzY2N2VhZDdmNTA0NWVlMGY5YmUy`
+Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMDBhOWZjODQyMDEwZWE4ZWYwMTRmMzU3MzBhYTU4Yjdh`

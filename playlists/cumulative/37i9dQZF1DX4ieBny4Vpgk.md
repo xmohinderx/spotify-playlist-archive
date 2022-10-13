@@ -4,7 +4,7 @@
 
 > Vocal jazz favorites from 2021\. Cover: Veronica Swift
 
-61 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/60p5YX6EhMvmlI8rfgDUBd)
+62 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/60p5YX6EhMvmlI8rfgDUBd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Let You Break My Heart Again](https://open.spotify.com/track/3oX7VxSz6EHHnxKGUjk9sx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/0UTQmhcsGE1eqCLTwvGAcR) | 4:29 | 2021-12-01 |  |
 | [Let You Break My Heart Again](https://open.spotify.com/track/41H96KDENmbR7d9NzMgojt) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2yKcJB2QkNyogIyDY96pu4) | 4:29 | 2021-12-01 | 2022-07-29 |
 | [Let's Do It](https://open.spotify.com/track/45czwhpmoLfzTJDmu2NKsM) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Andre Reiss](https://open.spotify.com/artist/1O4RYTCy8m5JgaPpxytDDE), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503) | [Let's Do It](https://open.spotify.com/album/1saHQW8pTxZJRntJQah8iY) | 3:44 | 2021-12-01 |  |
-| [Like the Movies](https://open.spotify.com/track/4crdHmkZQmNd2hucSIk7dA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:42 | 2021-12-01 |  |
+| [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 | 2021-12-01 |  |
+| [Like the Movies](https://open.spotify.com/track/4crdHmkZQmNd2hucSIk7dA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:42 | 2021-12-01 | 2022-10-13 |
 | [Like the Movies](https://open.spotify.com/track/6jh16zx3qgGeLA5J3iihS0) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:42 | 2021-12-01 | 2022-07-29 |
 | [Love For Sale](https://open.spotify.com/track/4biVNJdcVpAljZjpiO9B4Z) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:40 | 2021-12-01 |  |
 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 | 2021-12-01 |  |

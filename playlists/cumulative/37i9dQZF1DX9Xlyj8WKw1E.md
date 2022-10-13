@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover, Freddie Gibbs
 
-264 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
+265 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [MONEY BANDANNA \(feat\. DOE BOY & BABY FACE RAY\)](https://open.spotify.com/track/7xiTieWJbhZbT0xJB8djKD) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 4:10 | 2022-07-01 | 2022-08-02 |
 | [Mood Swing](https://open.spotify.com/track/7ngD0SFdroiOLGyE4A4mpQ) | [MFnMelo](https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu), [squeakPIVOT](https://open.spotify.com/artist/1CoHUTAynMjIXYnCeP6ReB), [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Frsh Waters](https://open.spotify.com/artist/14hFXWA8giW96HpYkTxywX) | [Mood Swing](https://open.spotify.com/album/10BHKr5JN1SJY5o1FZZYLz) | 3:13 | 2022-01-29 | 2022-06-08 |
 | [Mount Olympus](https://open.spotify.com/track/51iOn6LKdI9QWW04Db4H5E) | [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Mount Olympus](https://open.spotify.com/album/26TbZ36ISE56kbgRP71jNV) | 2:39 | 2022-08-26 | 2022-09-25 |
-| [Mount Olympus](https://open.spotify.com/track/6A91FyIf9FLnqSxwh175uX) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [The Tour Pack](https://open.spotify.com/album/48ecqfl38tl2xv7LpBNY7U) | 2:39 | 2022-09-24 |  |
+| [Mount Olympus](https://open.spotify.com/track/3zgUEeCkyezg8a9PfKF36G) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Mount Olympus](https://open.spotify.com/album/5T11JgUa7BzCjB8HW732MV) | 2:39 | 2022-09-24 |  |
+| [Mount Olympus](https://open.spotify.com/track/6A91FyIf9FLnqSxwh175uX) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [The Tour Pack](https://open.spotify.com/album/48ecqfl38tl2xv7LpBNY7U) | 2:39 | 2022-09-24 | 2022-10-13 |
 | [Move Militant](https://open.spotify.com/track/2YP0d5cUF6MJgg5qbOc7ii) | [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3) | [Move Militant](https://open.spotify.com/album/6CJcdfpfdSmGIpVlmvoBSM) | 1:56 | 2022-07-01 | 2022-07-19 |
 | [My Bitch](https://open.spotify.com/track/3sTdCzV9iKrRuri78a7MpV) | [Detroit Zeus](https://open.spotify.com/artist/5d8yY7EhoN4gcMOsEAQqur) | [My Bitch](https://open.spotify.com/album/7qIxEPMZHiDVK39XxZ972l) | 2:11 | 2022-03-04 | 2022-05-14 |
 | [Never Know](https://open.spotify.com/track/0DjgLMQhrboGCPrm1iJcTs) | [Smba](https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Never Know](https://open.spotify.com/album/6KyAZhtaaOra6CPXhJUpnb) | 2:37 | 2022-02-18 | 2022-04-02 |

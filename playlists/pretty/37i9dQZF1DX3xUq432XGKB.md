@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > The electro revival with Dawn Richard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,600 likes - 37 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,601 likes - 37 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 28 | [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/0Ib2a1F7sq1OTrYSoVIsIX) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 |
 | 29 | [NEEDSUMBODY](https://open.spotify.com/track/5BXNZDjPaV7bpbxQJjmeMn) | [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [NEEDSUMBODY](https://open.spotify.com/album/4eu5lI3vWkSoFMOUVynb6Y) | 4:19 |
 | 30 | [Spiders](https://open.spotify.com/track/3HUNWEwROQxlC05gWtertM) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp4](https://open.spotify.com/album/5t0sp3W275c53WOqxgcmY5) | 2:31 |
-| 31 | [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 |
+| 31 | [IN IN IN](https://open.spotify.com/track/3APSXl8dTTumv9L1HHpCCV) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:17 |
 | 32 | [U.A.F.W.M.](https://open.spotify.com/track/7tyfn9k8LGkDFMkT4BeCyf) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [U.A.F.W.M.](https://open.spotify.com/album/6Q068g9ukV72Ffm88FMKYt) | 2:53 |
 | 33 | [Booty 3000](https://open.spotify.com/track/1ou1ijurTcoe8lSB23rZxP) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Free Form Mixtape](https://open.spotify.com/album/0uqRet3v7HR1RcPWAegQt6) | 2:09 |
 | 34 | [unearth me](https://open.spotify.com/track/0Uq8EBEXYFBGcPTKlTtRdT) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 3:25 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 36 | [Whole House](https://open.spotify.com/track/6rbpsdhGF86u7Eu1Ew8iVK) | [Lolawolf](https://open.spotify.com/artist/6ABaV7mB6WIZKgfEEtWCf8) | [Tenderness](https://open.spotify.com/album/67v0qu708WJVT9rxxdZmh1) | 3:02 |
 | 37 | [Pilot \(a lude\)](https://open.spotify.com/track/56aTDizKP5ZmkOtJ6jl6zH) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Second Line](https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv) | 0:57 |
 
-Snapshot ID: `MTYxNTkyNjQxNSwwMDAwMDAwMDU2ZWE3YzcxMTJiZTQ5MmExNjUyZWRiMWY2YmViYjUx`
+Snapshot ID: `MTYxNTkyNjQxNSwwMDAwMDAwMGY0YzE0NjJmNzVhZGNiMzFkOWNiZTkyM2IxNTk5YmE1`

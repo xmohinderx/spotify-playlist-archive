@@ -1838,6 +1838,24 @@
     },
     {
       "album": {
+        "name": "Chasing Ghost",
+        "url": "https://open.spotify.com/album/32by8hxBsVTaYAaUBBzuW9"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179406,
+      "name": "Chasing Ghost",
+      "url": "https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V"
+    },
+    {
+      "album": {
         "name": "Chasing Ghosts",
         "url": "https://open.spotify.com/album/3R98G6k2dyvKnZdwxkkHGN"
       },
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 179406,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/3YMsPW55w8Oou0f5SV1wh1"
@@ -3111,6 +3129,24 @@
     {
       "album": {
         "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
+        "name": "DECIDE",
         "url": "https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse"
       },
       "artists": [
@@ -3121,7 +3157,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo"
@@ -4338,6 +4374,24 @@
     },
     {
       "album": {
+        "name": "Go Write It In The Stars",
+        "url": "https://open.spotify.com/album/6SAJNqTw4P8uVV8qeApNbJ"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215771,
+      "name": "Go Write It In The Stars",
+      "url": "https://open.spotify.com/track/4I7ly7eSt1raF0ZSOAlWKP"
+    },
+    {
+      "album": {
         "name": "Go Write with the Stars",
         "url": "https://open.spotify.com/album/1WSBhoawi94swRpqd0weQF"
       },
@@ -4349,7 +4403,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 213402,
       "name": "Go Write with the Stars",
       "url": "https://open.spotify.com/track/0LIojBe01OpupDLuMUYwHK"
@@ -6499,10 +6553,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 187660,
       "name": "Joe",
       "url": "https://open.spotify.com/track/2fSdrOgBjisneSqSwhXWsn"
+    },
+    {
+      "album": {
+        "name": "Joe",
+        "url": "https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187660,
+      "name": "Joe",
+      "url": "https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl"
     },
     {
       "album": {
@@ -8529,10 +8601,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 229226,
       "name": "One Night",
       "url": "https://open.spotify.com/track/4R1jaW2mVVct5MU29o6Ysr"
+    },
+    {
+      "album": {
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229226,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/5ZxhHEdMDGitVjy53Cm3Pp"
     },
     {
       "album": {
@@ -8695,10 +8785,28 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 217816,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/3nDlV6GuRRKqT3nK3nSwtM"
+    },
+    {
+      "album": {
+        "name": "Orpheus",
+        "url": "https://open.spotify.com/album/6hyunqfV9PzG6N4SsPyYKF"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217816,
+      "name": "Orpheus",
+      "url": "https://open.spotify.com/track/5jhplymMubt3XgOkEKfAJF"
     },
     {
       "album": {
@@ -9283,10 +9391,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 194800,
       "name": "Radio",
       "url": "https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w"
+    },
+    {
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio"
     },
     {
       "album": {

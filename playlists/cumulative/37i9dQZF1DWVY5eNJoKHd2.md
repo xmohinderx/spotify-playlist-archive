@@ -4,7 +4,7 @@
 
 > Music that makes you feel like you're levitating.
 
-221 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/027UqX8P6FZN5RTz6rBeyf)
+222 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/027UqX8P6FZN5RTz6rBeyf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 | 2021-12-16 | 2022-07-25 |
 | [I Wonder](https://open.spotify.com/track/4jQqM4NI79HEcWHUJb8Hvf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 4:03 | 2021-12-16 | 2022-07-13 |
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2021-12-16 | 2022-04-12 |
-| [Icarus](https://open.spotify.com/track/1iSOrS6dfgPvENu0G4WhAd) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:30 | 2022-09-15 |  |
+| [Icarus](https://open.spotify.com/track/0rlX8acfJKPQ3NVHjxR7ml) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09) | 2:30 | 2022-09-15 |  |
+| [Icarus](https://open.spotify.com/track/1iSOrS6dfgPvENu0G4WhAd) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:30 | 2022-09-15 | 2022-10-13 |
 | [In the Midst of It All](https://open.spotify.com/track/6vPDjg4zuLlJrzgm9vqZCj) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 5:42 | 2021-12-29 | 2022-04-20 |
 | [Innerbloom \(Radio Edit\)](https://open.spotify.com/track/7aOXQ9XfYm5pUNJnk6BOHE) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Innerbloom \(The Remixes\)](https://open.spotify.com/album/0wghImWgt6RztVZR5ZEXYe) | 3:58 | 2021-12-16 | 2022-04-13 |
 | [Is It Any Wonder?](https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 4:36 | 2021-12-16 | 2022-04-19 |

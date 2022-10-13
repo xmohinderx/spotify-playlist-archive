@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Yahritza Y Su Esencia & Ivan Cornejo.
 
-2,460 songs - 5 day 10 hr 25 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,461 songs - 5 day 10 hr 28 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,7 +725,7 @@
 | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [En El Radio Un Cochinero \(Remix\)](https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1) | 3:35 | 2022-06-10 | 2022-06-18 |
 | [En La Cama](https://open.spotify.com/track/06TL4ZJcukYYza7wi3srGY) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [En La Cama](https://open.spotify.com/album/7IohBWavWqlOALxdtz7QPD) | 2:25 | 2022-05-13 | 2022-05-20 |
 | [En La Disco Revela](https://open.spotify.com/track/5GWYepVwLflE0z5Yy8cEhk) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [De Camino A Palomino, Vol\. 1](https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M) | 3:03 | 2022-07-22 | 2022-07-30 |
-| [EN LA LENTA](https://open.spotify.com/track/02mYqoWYX6wRrfqKWr4Bj8) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Hit$ Mu$ic \(VOL\. 1\)](https://open.spotify.com/album/5jPDhWUbfyTeUTPSdHdrff) | 3:09 | 2022-10-07 |  |
+| [EN LA LENTA](https://open.spotify.com/track/02mYqoWYX6wRrfqKWr4Bj8) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Hit$ Mu$ic \(VOL\. 1\)](https://open.spotify.com/album/5jPDhWUbfyTeUTPSdHdrff) | 3:09 | 2022-10-07 |  |
 | [En La Mia](https://open.spotify.com/track/2KjMvMpECZtrN3LeKJdOJs) | [AloSofia](https://open.spotify.com/artist/5Q6CBqo1uJlO4qbw7MD875) | [En La Mia](https://open.spotify.com/album/7DpiHzdZ4ihr0q50asVO5e) | 2:54 | 2022-06-17 | 2022-06-25 |
 | [En La Nota](https://open.spotify.com/track/6KLMErASg71nPtoGvpxIcv) | [Alex Quin](https://open.spotify.com/artist/5BaVKcnadk3QumvcYvszCy), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [En La Nota](https://open.spotify.com/album/0Nc1HMgGyF88sn4U7NiMSY) | 2:55 | 2022-02-18 | 2022-02-26 |
 | [En Otra Vida](https://open.spotify.com/track/6jxwnoSEnnhmPWqCylbyEH) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [En Otra Vida](https://open.spotify.com/album/6krx2ErzaeocE6TXn7JglP) | 3:06 | 2022-09-23 | 2022-10-01 |
@@ -2414,7 +2414,8 @@
 | [Ya Ni Se](https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Ya Ni Se](https://open.spotify.com/album/6KOEiapvapKQuuAIS17mtO) | 3:38 | 2022-04-15 | 2022-04-23 |
 | [Ya no estoy aquí](https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Ya no estoy aquí](https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6) | 3:22 | 2022-04-22 | 2022-04-29 |
 | [Ya No Me Hables](https://open.spotify.com/track/2evewrPsMc78CG7U3ftWCo) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [KID & SERGI: VOL I](https://open.spotify.com/album/3Wd5eZzeDgn4cT1j2DW4MF) | 2:59 | 2022-02-25 | 2022-03-05 |
-| [Ya No Queiro](https://open.spotify.com/track/5g8HnZeHOQyOyK1EOb1Jf7) | [CAROLINE](https://open.spotify.com/artist/1YWvf5qw9RnGAW39spyLI1) | [Ya No Queiro](https://open.spotify.com/album/1l4U6ykibEJCMNL01uPqIz) | 3:18 | 2022-10-07 |  |
+| [Ya No Queiro](https://open.spotify.com/track/2cMHFUokblCyjYPiyVRO6B) | [CAROLINE](https://open.spotify.com/artist/1YWvf5qw9RnGAW39spyLI1) | [Ya No Queiro](https://open.spotify.com/album/3fbbVNLVjzF5XolHlQmWKB) | 3:18 | 2022-10-07 |  |
+| [Ya No Queiro](https://open.spotify.com/track/5g8HnZeHOQyOyK1EOb1Jf7) | [CAROLINE](https://open.spotify.com/artist/1YWvf5qw9RnGAW39spyLI1) | [Ya No Queiro](https://open.spotify.com/album/1l4U6ykibEJCMNL01uPqIz) | 3:18 | 2022-10-07 | 2022-10-13 |
 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 | 2021-12-24 | 2022-01-08 |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-02-18 | 2022-02-26 |
 | [Ya Pa' Que](https://open.spotify.com/track/5zYhfNeQYi7lMmTbQBXJjM) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Ya Pa' Que](https://open.spotify.com/album/1yU4RgPSiYayVJDlRQKJ76) | 4:02 | 2022-07-22 | 2022-07-30 |

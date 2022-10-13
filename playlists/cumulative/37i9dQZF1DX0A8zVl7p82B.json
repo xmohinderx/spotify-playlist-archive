@@ -179,7 +179,7 @@
     {
       "album": {
         "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/2vtMi8UlnIo8EDgCrNjDEa"
+        "url": "https://open.spotify.com/album/5ZV6Hh6cLp1t1QV83LEMaB"
       },
       "artists": [
         {
@@ -190,6 +190,24 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 139130,
+      "name": "Blackout Christmas",
+      "url": "https://open.spotify.com/track/1oZRAefHTh7YzA02kQ8519"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/2vtMi8UlnIo8EDgCrNjDEa"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 139130,
       "name": "Blackout Christmas",
       "url": "https://open.spotify.com/track/7l7FQufQxYcuEQ7u28ur37"
@@ -2077,10 +2095,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 158133,
       "name": "Love To Keep Me Warm",
       "url": "https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX"
+    },
+    {
+      "album": {
+        "name": "Love to Keep Me Warm",
+        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158133,
+      "name": "Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
     },
     {
       "album": {
@@ -2295,7 +2335,7 @@
     {
       "album": {
         "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/6kFmsjBclIk7XynM8Px5kp"
+        "url": "https://open.spotify.com/album/1WWw5IwQsLlzO1iFC90qm4"
       },
       "artists": [
         {
@@ -2306,6 +2346,24 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231124,
+      "name": "Merry Christmas, Happy Holidays",
+      "url": "https://open.spotify.com/track/3EVwJlQpABcNBWQf660X78"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/6kFmsjBclIk7XynM8Px5kp"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 231124,
       "name": "Merry Christmas, Happy Holidays",
       "url": "https://open.spotify.com/track/7d2iMQMa1HAJJm6RcsOjYK"
@@ -2877,10 +2935,36 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 207026,
       "name": "Sausage Rolls for Everyone",
       "url": "https://open.spotify.com/track/05N7K5msPbY3AE5h1i1DlF"
+    },
+    {
+      "album": {
+        "name": "Sausage Rolls for Everyone",
+        "url": "https://open.spotify.com/album/4gQYK0guzqRxHtt9SQnXFr"
+      },
+      "artists": [
+        {
+          "name": "LadBaby",
+          "url": "https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207026,
+      "name": "Sausage Rolls for Everyone",
+      "url": "https://open.spotify.com/track/6fNd6OkGoACwHtAnf2wslm"
     },
     {
       "album": {

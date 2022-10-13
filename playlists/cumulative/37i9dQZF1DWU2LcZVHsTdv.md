@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Zach Williams
 
-149 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+150 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [I Saw God Today](https://open.spotify.com/track/7maV3I3KQNYpsOWYTOhGqn) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Troubadour](https://open.spotify.com/album/3dFuEcl4rdwVFH3CWYgRPJ) | 3:23 | 2021-12-10 |  |
 | [I Saw The Light](https://open.spotify.com/track/3S0dPaZYCax8OnwTFEoEPw) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT), [Sonya Isaacs](https://open.spotify.com/artist/4weums6IzU9u5hNt7lR31b) | [I Serve A Savior](https://open.spotify.com/album/0qmQNcXPAl8V4wPFWC3QDx) | 3:21 | 2021-12-10 |  |
 | [I'll Fly Away](https://open.spotify.com/track/2Rk8fztS3B4ozeNjKtirHb) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 3:52 | 2021-12-10 |  |
-| [If God Took Days Off](https://open.spotify.com/track/3JqF0zLGozLrnS1uvOhluB) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID) | 2:34 | 2022-05-13 |  |
+| [If God Took Days Off](https://open.spotify.com/track/3JqF0zLGozLrnS1uvOhluB) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID) | 2:34 | 2022-05-13 | 2022-10-13 |
+| [If God Took Days Off](https://open.spotify.com/track/7Jy4SVdM8HViyfy3QcaDkb) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/1paYFxYmurwK3quB1vL6Pq) | 2:34 | 2022-10-07 |  |
 | [If That Ain't God](https://open.spotify.com/track/2wD4EACbGI6zfKXEAKJmBV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [If That Ain't God](https://open.spotify.com/album/6zJ23RQJ1NeubHuCzyvPlE) | 3:30 | 2021-12-10 |  |
 | [In All Things](https://open.spotify.com/track/4CVSGsxGy52bNpUAwFqrm7) | [Leslie Jordan](https://open.spotify.com/artist/7rYLqyGeyCnraP6vBfhfFn), [Danny Myrick](https://open.spotify.com/artist/2VnIRUWeM04JHxZvYkxJWv) | [Company's Comin'](https://open.spotify.com/album/2n9E08VXyUL1GGOwnVM6tm) | 3:30 | 2021-12-10 |  |
 | [In Christ Alone](https://open.spotify.com/track/4nZLgB1NYxEjfStRRPZBWE) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [In Christ Alone](https://open.spotify.com/album/5v36cGV6Gk6cA4l79cMImt) | 4:11 | 2022-04-15 |  |

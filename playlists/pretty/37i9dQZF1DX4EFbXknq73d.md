@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked kind, tasty jams! / Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,561 likes - 129 songs - 14 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,570 likes - 129 songs - 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 6 | [That Girl Is You](https://open.spotify.com/track/3W1FUFK0mLvXDYRT0YGaiT) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Come Tomorrow](https://open.spotify.com/album/1Q6IYDePv0Dl8RXBnJ4jhy) | 3:16 |
 | 7 | [Sand \- Live](https://open.spotify.com/track/1I475fQYlPiCgcsRqY7CCm) | [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Burn It Down \(Live\)](https://open.spotify.com/album/4JsU5vwVZEo36Ro5iAMtrD) | 10:17 |
 | 8 | [The Rat King \(feat\. Rob Moose\)](https://open.spotify.com/track/4PZp19w4SRGDAWwKNKZcLF) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25) | [Non\-Secure Connection](https://open.spotify.com/album/7xtEEaRRjuMRMAQUbMu3Mq) | 2:32 |
-| 9 | [Only the Wild Ones](https://open.spotify.com/track/35BIlTop9ZuslYKmE5w4kn) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Where the Wild Things Are](https://open.spotify.com/album/6EiGzhDuf0BPUto7XtgBOv) | 4:13 |
+| 9 | [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 |
 | 10 | [Truckin' \(Live at the Capitol Theatre, Port Chester, NY, 2/18/71\)](https://open.spotify.com/track/5cc8TvVgYMX4YXfoEUFOi1) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Truckin' \(Live at the Capitol Theatre, Port Chester, NY, 2/18/71\)](https://open.spotify.com/album/484WV51x5X8tXB2V11Fn9n) | 9:14 |
 | 11 | [Leave the Light On](https://open.spotify.com/track/0840aH9MvGpXAbS3mq3OXX) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [For Amusement Only](https://open.spotify.com/album/46hZAFDQjOYHnpT3dX8zW5) | 4:13 |
 | 12 | [Arcadia \(7.27.19\)](https://open.spotify.com/track/2zQZfyiQxPxNa2qG9uN9BJ) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Alive and Well](https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O) | 9:31 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 128 | [Tweezer Reprise](https://open.spotify.com/track/2dr35Ocrnflsum09XReWdC) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [LivePhish, Vol\. 16 10/31/98 \(Thomas & Mack Center, Las Vegas, NV\)](https://open.spotify.com/album/69H9X2W50K5Sy0MyhHbw3m) | 3:51 |
 | 129 | [Brokedown Palace \- Live at the Lyceum, London, England 5/25/1972](https://open.spotify.com/track/0emJjGjg7w5AQXlObFREhk) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 Vol\. 21: Lyceum Theatre, London, England 5/25/72 \(Live\)](https://open.spotify.com/album/29pkQOWIBGGFD1EncVkILn) | 6:37 |
 
-Snapshot ID: `MTYwMDkxNDAxMCwwMDAwMDAwMGQ3M2FmMzYxNDRiYzQ5YWYzNTY3NWM2YjFjZjNlNjJk`
+Snapshot ID: `MTYwMDkxNDAxMCwwMDAwMDAwMGM5OTZjMTFmMGU1YjEwMjE1OWZlMTA3NTMyMmU4MDUx`

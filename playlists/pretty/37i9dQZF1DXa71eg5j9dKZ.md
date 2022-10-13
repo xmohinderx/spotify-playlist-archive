@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,698 likes - 128 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,851 likes - 128 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 53 | [Evergreen](https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 4:13 |
 | 54 | [Untitled A](https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Untitled](https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy) | 5:48 |
 | 55 | [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 |
-| 56 | [Change](https://open.spotify.com/track/09KmIUMlvTx7TZQrrSKCgl) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Change / Take My Time](https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5) | 4:50 |
+| 56 | [Change](https://open.spotify.com/track/0eK9owI3ww9aY4KT7pFOt6) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Wayne Snow](https://open.spotify.com/artist/4uQXSvBw8nQ6yOEQctKbz0) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:50 |
 | 57 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 |
 | 58 | [Heavy Like Lead](https://open.spotify.com/track/7xLFFvpk9ntQRNzQnflX5X) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Est\. 2003](https://open.spotify.com/album/56w3xaz6QTSez2nbQ9x9uZ) | 3:21 |
 | 59 | [Seventh Seal](https://open.spotify.com/track/5aMmekZWQmnfiaCZXDqENv) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Seventh Seal](https://open.spotify.com/album/4e1bF5FHt0n07req9vRSQn) | 5:39 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 96 | [Over](https://open.spotify.com/track/7j8ZIYTv5F5hIXY9IRIZnY) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [Over](https://open.spotify.com/album/4LdTjdQXW6E6Y1hrj9E5BS) | 3:28 |
 | 97 | [Too Late Now \- Soulwax Remix](https://open.spotify.com/track/5NY8FqMU71tJbuz6qiZ69C) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Too Late Now \(Soulwax Remix\)](https://open.spotify.com/album/2kV9ScIQHMVQs1XLWQetEz) | 6:38 |
 | 98 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 |
-| 99 | [Miss The Days](https://open.spotify.com/track/4TdBkfjotcNZWAGI2xgxh9) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/4hQ3sSnNbckz5zIkOMEQ3J) | 3:40 |
+| 99 | [Miss The Days](https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/2RR9j2toHQhD2V4bsr2DWK) | 3:40 |
 | 100 | [Let Me Love U](https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Let Me Love U](https://open.spotify.com/album/2IvjJ52cELQb89dchfEG7p) | 3:09 |
 | 101 | [Smiley](https://open.spotify.com/track/2qrhwoAn9s6q1C31811SVS) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [30 Something](https://open.spotify.com/album/1pq7A65DygpNTNRnwJv77h) | 7:09 |
 | 102 | [bda creature](https://open.spotify.com/track/2SJh15C8b0AmfG2leMFp58) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF), [Blue Dust Archive](https://open.spotify.com/artist/0cZmamL9NzyInr7N3c0lDK) | [places faces](https://open.spotify.com/album/3KyFRjXyPY6o46fI8Dvl9d) | 4:51 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 127 | [Magic Moment](https://open.spotify.com/track/6bcShXaH3ur6aM6mDxv95o) | [Francesca Lombardo](https://open.spotify.com/artist/53k6hml77TQV6Eub3zdbju), [VIKTORIIA](https://open.spotify.com/artist/0qXSZNPQ4kmgIamSn1ndHy) | [Magic Moment](https://open.spotify.com/album/4EPidCv1ztlKwUWct8A3CQ) | 9:21 |
 | 128 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 |
 
-Snapshot ID: `MTY2NTA5NzIwMCwwMDAwMDAwMDI0OGEyNDlhNjk0MGI1MTQyZGE2MzI3OTNkNmY4Zjcw`
+Snapshot ID: `MTY2NTA5NzIwMCwwMDAwMDAwMDg5YzMyNDgwZDk2NDljZGE5N2E2OThlZTNkNTc3OTcw`

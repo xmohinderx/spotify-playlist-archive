@@ -4,13 +4,14 @@
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-105 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/7goobQ9e4xy8l1vfpiYXYS)
+107 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/7goobQ9e4xy8l1vfpiYXYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [17](https://open.spotify.com/track/5SjErtIbsrlp0Gz26t4Qpy) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:39 | 2022-02-09 |  |
 | [About Love \- From The Netflix Film “To All The Boys: P.S\. I Still Love You”](https://open.spotify.com/track/12x0zQ2X70OVWsM5X4pg2z) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 3:34 | 2022-02-09 |  |
-| [Affection](https://open.spotify.com/track/2Ob8v0rsJHRKnzhSzyBmMm) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [WOMAN](https://open.spotify.com/album/2RBm6OAEi7dCdtOotH2Gl2) | 3:10 | 2022-02-09 |  |
+| [Affection](https://open.spotify.com/track/2Ob8v0rsJHRKnzhSzyBmMm) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [WOMAN](https://open.spotify.com/album/2RBm6OAEi7dCdtOotH2Gl2) | 3:10 | 2022-02-09 | 2022-10-13 |
+| [Affection](https://open.spotify.com/track/3T0NgIX8k7bOlJAlTI9d8D) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [WOMAN](https://open.spotify.com/album/1NSWIgJ1hbl7uFgfOOmVsg) | 3:10 | 2022-02-09 |  |
 | [Age of Consent \(New Order\)](https://open.spotify.com/track/0s1AJpOokiTy1UMG4D4iPn) | [Cayetana](https://open.spotify.com/artist/5yC8tl2VVpS4HO758L0lSc) | [Tired Eyes](https://open.spotify.com/album/34mGoOqqWODhXjwOXeJ0fK) | 3:46 | 2022-02-09 |  |
 | [Alewife](https://open.spotify.com/track/3jgrNd3uPU1c2PFBKYsV9d) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:33 | 2022-02-09 |  |
 | [As I'll Ever Be \- From The Netflix Film “To All The Boys: P.S\. I Still Love You”](https://open.spotify.com/track/5I2lEwnYNP2xCELWSMRMe4) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 2:26 | 2022-02-09 |  |
@@ -96,7 +97,8 @@
 | [Unsung Songs](https://open.spotify.com/track/7dsYDkjVP0btEBT5d9DVVZ) | [Ages and Ages](https://open.spotify.com/artist/3DozezNrsIE37kJJfHhS9M) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:58 | 2022-02-09 | 2022-07-29 |
 | [Unsung Songs](https://open.spotify.com/track/2YModoAu53OVxlMUqtof87) | [Ages and Ages](https://open.spotify.com/artist/3DozezNrsIE37kJJfHhS9M) | [Me You They We](https://open.spotify.com/album/3wF6DCWrOi4OQEuwowzurN) | 3:58 | 2022-02-09 |  |
 | [Until We Leave the Ground](https://open.spotify.com/track/0Y2BB9NaHf1afyCuwBVTUW) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 2:57 | 2022-02-09 | 2022-07-29 |
-| [Until We Leave the Ground](https://open.spotify.com/track/2U5GoyOx5r93PzP1xbji9V) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/596mgQppymQJnhfphd3RJP) | 3:00 | 2022-02-09 |  |
+| [Until We Leave the Ground](https://open.spotify.com/track/1oRUR4mnq1aRwAKD6ONelx) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:00 | 2022-02-09 |  |
+| [Until We Leave the Ground](https://open.spotify.com/track/2U5GoyOx5r93PzP1xbji9V) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/596mgQppymQJnhfphd3RJP) | 3:00 | 2022-02-09 | 2022-10-13 |
 | [Video Child](https://open.spotify.com/track/5MBKDKheLzcGoRYGWpFNNg) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1cRf3YRjE0pm48CNQC6eCr) | 5:00 | 2022-02-09 |  |
 | [Video Child](https://open.spotify.com/track/6XRJPmdCErAaOEraEuvsuQ) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1BKijwhYBjOXRwdQ1Iv5Fr) | 5:00 | 2022-02-09 | 2022-07-29 |
 | [Wannabe](https://open.spotify.com/track/1TYmnAWxFBttuHzwZZt2nQ) | [Sandflower](https://open.spotify.com/artist/2frKv3a39gzx9Ppx8UGVKR) | [Wannabe](https://open.spotify.com/album/7JRCylMpB4AEmofvQX5TDx) | 3:17 | 2022-02-09 |  |

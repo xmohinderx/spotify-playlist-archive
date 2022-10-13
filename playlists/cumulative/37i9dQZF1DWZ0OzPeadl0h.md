@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-160 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
+161 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Is / Was](https://open.spotify.com/track/4TWXHt2u1IXQWxEP1pkzzH) | [Pieta Brown](https://open.spotify.com/artist/43NpjLskaVb5j2Jgt6fdbP), [JT Bates](https://open.spotify.com/artist/0Xyrv6l8nqOpC7SFsmtECP) | [Is / Was](https://open.spotify.com/album/20oMlx076DuKwUAs57M6tK) | 2:36 | 2021-10-22 |  |
 | [Josephine](https://open.spotify.com/track/2V5vmvIwxqVizuaYJgrmlE) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [From The City To The Wilderness](https://open.spotify.com/album/0S8rucvrE6IF4FClzTndk1) | 4:05 | 2021-10-22 |  |
 | [Josephine](https://open.spotify.com/track/7fljdg3Q8zaqJQiolsMIfU) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Josephine](https://open.spotify.com/album/1SS2dv36qWSoW0ebhwdJUy) | 4:05 | 2021-10-22 | 2022-07-29 |
-| [Just Asking](https://open.spotify.com/track/4LoMqgfxEbYZrnqxloUMAq) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/6k4YdfQ8Qe8RIRmKB5ReFn) | 2:29 | 2021-10-22 |  |
+| [Just Asking](https://open.spotify.com/track/4LoMqgfxEbYZrnqxloUMAq) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/6k4YdfQ8Qe8RIRmKB5ReFn) | 2:29 | 2021-10-22 | 2022-10-13 |
+| [Just Asking](https://open.spotify.com/track/6D1dL8RshXW9TkhqFRynx5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/7pddbmgA9wlMn6HomsAe2d) | 2:29 | 2021-10-22 |  |
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 | 2021-11-17 |  |
 | [Let No Grief](https://open.spotify.com/track/3R2sknZVO963iQknjhDwru) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Blind and Brave](https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90) | 4:34 | 2021-10-22 |  |
 | [Light](https://open.spotify.com/track/0imuQm7CnK74UdorFpC2Eg) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH) | 4:27 | 2021-10-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,716 likes - 73 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,766 likes - 73 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 47 | [Mesera](https://open.spotify.com/track/0DJCGoZodGjfEz5TUOJLKc) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Mesera](https://open.spotify.com/album/5XyrI2rounQVQaxybEYmea) | 4:17 |
 | 48 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 |
 | 49 | [Si Es Trucho Es Trucho \(feat\. Farruko and El Alfa\) \- Remix](https://open.spotify.com/track/3pvalQEg29xTyQk1eqWtVJ) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Si Es Trucho Es Trucho \(feat\. Farruko and El Alfa\) \[Remix\]](https://open.spotify.com/album/2V3oEJWhKr8oYA9VwvPCPX) | 3:33 |
-| 50 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 |
+| 50 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 |
 | 51 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 |
 | 52 | [Salio Pa Guarachar](https://open.spotify.com/track/2t0ObwmBnS7UuefeVSC3IF) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [MC Killer](https://open.spotify.com/artist/6O5pykCTn1t2hp3fL6j1aE) | [Salio Pa Guarachar](https://open.spotify.com/album/6dcaUkqrJyMIdrUitMygdx) | 4:15 |
 | 53 | [Veneno](https://open.spotify.com/track/2WHw2kiG0nhWXgTUqQjr4v) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Steve Andreas](https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6), [Felicia](https://open.spotify.com/artist/2vn8ZAQQc9NvtQ5gxb77Hp) | [Veneno](https://open.spotify.com/album/0YxHSCJZ6C7AWznpuXH4wF) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Smino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,678 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,674 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 30 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 |
 | 31 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 |
 | 32 | [Yellow Brick Road](https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:37 |
-| 33 | [Self Care](https://open.spotify.com/track/0jkTUqi2dO5SQLnnfTag4M) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Self Care](https://open.spotify.com/album/3MqLhEzKBRO4cwJYQCebwJ) | 2:59 |
+| 33 | [Self Care](https://open.spotify.com/track/4Ds6xHWHN5tU8Rxg7na56i) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Self Care](https://open.spotify.com/album/6o2MTShQYYTNBJj4LAK9xf) | 2:59 |
 | 34 | [Easy v2](https://open.spotify.com/track/1ZNOwjcEAqka5feaa5dEko) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Easy v2](https://open.spotify.com/album/01c1TtxDepIhj3i14YiRzA) | 2:55 |
 | 35 | [careful what you wish for](https://open.spotify.com/track/68oWcnNLCiJ8pBy8RIEEFx) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [645AR](https://open.spotify.com/artist/3Iv3mOsjFV8vZkXphpQ8hz), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [careful what you wish for](https://open.spotify.com/album/2cFPylr0St6wSzSzZgn8cF) | 2:57 |
 | 36 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 83 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 |
 | 84 | [BOWLiNG \(feat\. Thundercat\)](https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 1:59 |
 | 85 | [Spinal Tap](https://open.spotify.com/track/4sKEEaJdIlz9M5OOD63gEe) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [deem spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Michael Wolever](https://open.spotify.com/artist/4UegsLqcGpx2enxOUqmOyH) | [Spinal Tap](https://open.spotify.com/album/1WmKwevODNmF9wJ1fxQ5LD) | 3:28 |
-| 86 | [Miss The Days](https://open.spotify.com/track/4TdBkfjotcNZWAGI2xgxh9) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/4hQ3sSnNbckz5zIkOMEQ3J) | 3:40 |
-| 87 | [Far Apart](https://open.spotify.com/track/4l9UNAcgLmxxknjV8ydjcR) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Far Apart](https://open.spotify.com/album/2XHYnTTmjpCcLPjJBEJbXl) | 2:56 |
+| 86 | [Miss The Days](https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/2RR9j2toHQhD2V4bsr2DWK) | 3:40 |
+| 87 | [Far Apart](https://open.spotify.com/track/7hbKeFGGUVsXiNmTE6m57T) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Far Apart](https://open.spotify.com/album/5EbSWehw8zGVtjqx3qJ0WR) | 2:56 |
 | 88 | [Not The Way](https://open.spotify.com/track/05mRjWxSDdjQzaXYQg8BQQ) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0), [Pierce.blue](https://open.spotify.com/artist/77VgINKetSqVqKgRRJi4fv) | [Not The Way](https://open.spotify.com/album/1GqrZGIFYL5PAdROYVrzzB) | 3:08 |
 | 89 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 |
 | 90 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Lullaby](https://open.spotify.com/track/1fTvkU6kdBi5PIvljWboKt) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Lullaby](https://open.spotify.com/album/0HFd1xKLpmy4Lk6H9YdBdc) | 3:06 |
 | 100 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 |
 
-Snapshot ID: `MTY2NTE2Mjc3MywwMDAwMDAwMGM2YWNlNDYxNjUxODY5Yzk0ZGI2ZWNjYjJkZWZlYTU3`
+Snapshot ID: `MTY2NTE2Mjc3MywwMDAwMDAwMDk5ZjYyMTEyMzcyNjY2NTA2MmQ1NzIwZDg0YzA1NzAy`

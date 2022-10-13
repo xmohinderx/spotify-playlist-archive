@@ -1,12 +1,12 @@
 {
   "description": "Punk anthems with strong messages for the masses. Cover: Bad Religion",
-  "num_followers": 1045,
+  "num_followers": 1163,
   "original_name": "Political Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMDc1NGI1NjRmMGFkMDM2MjNjNjRhY2ZkZjMwZjY3MGU4",
+  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMGJiMjRiNjE5MDBjNmNhNmE1YmU1OWUzNmNiYzg2NGU0",
   "tracks": [
     {
       "added_at": "2021-01-16 16:36:48",
@@ -155,6 +155,22 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 49146,
+      "name": "Generational Divide",
+      "url": "https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
         "name": "Victory Lap (Deluxe Edition)",
         "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 176893,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
-        "name": "Leaders of Tomorrow",
-        "url": "https://open.spotify.com/album/0RxeLsWafPCah0PuBIH2w1"
-      },
-      "artists": [
-        {
-          "name": "Perkele",
-          "url": "https://open.spotify.com/artist/6tchRzwnjHlOGnFt1Dh9cF"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "Leaders of Tomorrow",
-      "url": "https://open.spotify.com/track/0E5EcB6lR9ku0RkBEKmkR7"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
+        "name": "Leaders of Tomorrow",
+        "url": "https://open.spotify.com/album/0RxeLsWafPCah0PuBIH2w1"
+      },
+      "artists": [
+        {
+          "name": "Perkele",
+          "url": "https://open.spotify.com/artist/6tchRzwnjHlOGnFt1Dh9cF"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "Leaders of Tomorrow",
+      "url": "https://open.spotify.com/track/0E5EcB6lR9ku0RkBEKmkR7"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
         "name": "Crisis Of Faith",
         "url": "https://open.spotify.com/album/3PvuvoZpz2XWzVKMOi52hW"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 204076,
       "name": "Reckless Paradise",
       "url": "https://open.spotify.com/track/6sQD8a5zZ09yA60YkeqDRS"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
-        "name": "NINE",
-        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 49146,
-      "name": "Generational Divide",
-      "url": "https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "The Restoration Of Chaos & Order",
-        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
-      },
-      "artists": [
-        {
-          "name": "Against All Authority",
-          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "War Machine Breakdown",
-      "url": "https://open.spotify.com/track/1yNjpn8jkrs2RmZZ8Gu1RP"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 139133,
       "name": "State Of The Union",
       "url": "https://open.spotify.com/track/0WDvAKN1wzjNya2xxjh9nq"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "The Restoration Of Chaos & Order",
+        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
+      },
+      "artists": [
+        {
+          "name": "Against All Authority",
+          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "War Machine Breakdown",
+      "url": "https://open.spotify.com/track/1yNjpn8jkrs2RmZZ8Gu1RP"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "If There Was Ever a Time",
-        "url": "https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM"
-      },
-      "artists": [
-        {
-          "name": "Armstrongs",
-          "url": "https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W"
-        }
-      ],
-      "duration_ms": 161909,
-      "name": "If There Was Ever a Time",
-      "url": "https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Never Gonna Die",
         "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 131480,
       "name": "American Lies",
       "url": "https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "If There Was Ever a Time",
+        "url": "https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM"
+      },
+      "artists": [
+        {
+          "name": "Armstrongs",
+          "url": "https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W"
+        }
+      ],
+      "duration_ms": 161909,
+      "name": "If There Was Ever a Time",
+      "url": "https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE"
     },
     {
       "added_at": "2021-01-16 16:36:48",

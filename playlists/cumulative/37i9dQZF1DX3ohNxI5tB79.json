@@ -125,10 +125,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 228473,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23"
+    },
+    {
+      "album": {
+        "name": "Come Around EP",
+        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228473,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
     },
     {
       "album": {
@@ -955,7 +973,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 234032,
       "name": "In Your River",
       "url": "https://open.spotify.com/track/3LKLHWfZ5R4aenoIJ3jLNE"
@@ -977,6 +995,24 @@
       "duration_ms": 234032,
       "name": "In Your River",
       "url": "https://open.spotify.com/track/3W87VCtPfwh9Kr0SGRRKHG"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Explain",
+        "url": "https://open.spotify.com/album/2yZlo1UzbQDfiokZooVfaF"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234032,
+      "name": "In Your River",
+      "url": "https://open.spotify.com/track/4lQc6sLF9a6SWeDpdQ7CSv"
     },
     {
       "album": {
@@ -1035,6 +1071,24 @@
     {
       "album": {
         "name": "Friends",
+        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171106,
+      "name": "Kickback",
+      "url": "https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN"
+    },
+    {
+      "album": {
+        "name": "Friends",
         "url": "https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd"
       },
       "artists": [
@@ -1045,7 +1099,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 171106,
       "name": "Kickback",
       "url": "https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD"

@@ -4,7 +4,7 @@
 
 > Hora de bailar con esta fiesta tropical\. Dance the night away with your favorite tropical tunes.
 
-165 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/5QMdEzMY3IyIgD8gxoZv86)
+166 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/5QMdEzMY3IyIgD8gxoZv86)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Pa'lante y Pa'tras \- Remix](https://open.spotify.com/track/61adK2aayDAKjms9aMaCt8) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Nuestra Esquina](https://open.spotify.com/album/6cMmm1Y4VdgChoFTmlMonr) | 3:33 | 2022-02-05 | 2022-07-29 |
 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 | 2022-02-05 |  |
 | [Parecen Viernes](https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 4:28 | 2022-02-05 |  |
-| [Paula C.](https://open.spotify.com/track/0umkHdiZRtXBxyDGmLBkwc) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/2BRXfbwZl8Rqv4Spi8kB8u) | [SALSA PLUS!](https://open.spotify.com/album/0Q8OYG3pgYUyntttMXCjD8) | 5:36 | 2022-02-05 |  |
+| [Paula C.](https://open.spotify.com/track/0umkHdiZRtXBxyDGmLBkwc) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/2BRXfbwZl8Rqv4Spi8kB8u) | [SALSA PLUS!](https://open.spotify.com/album/0Q8OYG3pgYUyntttMXCjD8) | 5:36 | 2022-02-05 | 2022-10-13 |
+| [Paula C.](https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c) | [SALSWING!](https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI) | 5:36 | 2022-08-17 |  |
 | [Pegadito Suavecito](https://open.spotify.com/track/7FFpxe3RMrRhG63dFtgRed) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Fito Blanko](https://open.spotify.com/artist/5eYDJJfPXinVZq2mXleOSW) | [One Flag](https://open.spotify.com/album/6IDeGLzTfjld3DzSbgnSUt) | 3:46 | 2022-02-05 | 2022-08-30 |
 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 | 2022-02-05 | 2022-07-29 |
 | [Pepas \(Version Merengue\)](https://open.spotify.com/track/1ojTU4PABAOr5i3IaW7RhZ) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Pepas \(Version Merengue\)](https://open.spotify.com/album/6ZTrk7RDsxy5jfaItGProy) | 2:30 | 2022-02-05 | 2022-07-29 |

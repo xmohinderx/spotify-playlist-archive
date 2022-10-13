@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-354 songs - 1 day 1 hr 58 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
+355 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Here Comes Revenge](https://open.spotify.com/track/4Ixe61Sv0WlxBhDjRtEgH3) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 7:17 | 2022-07-13 | 2022-07-26 |
 | [Here Comes The Boom](https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 4:11 | 2022-01-03 |  |
 | [Heretic](https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:55 | 2022-07-13 |  |
+| [Higher Than Heaven](https://open.spotify.com/track/0wJVBMndRGBHrYeBPHc8rd) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm) | 3:30 | 2022-07-13 |  |
 | [Hold On](https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [For We Are Many](https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt) | 2:57 | 2022-07-13 | 2022-08-18 |
 | [Holy Hell](https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 | 2022-07-13 |  |
 | [Honest Eyes](https://open.spotify.com/track/0RcpgSqleSWsmhFi4LC1tA) | [Black Tide](https://open.spotify.com/artist/7wMYATkanaMX5FH4GMVZ4E) | [Post Mortem](https://open.spotify.com/album/4P5AnuXeQ8tQv9i0WVvJkq) | 3:54 | 2022-07-13 | 2022-07-29 |
@@ -267,7 +268,7 @@
 | [Sorceress](https://open.spotify.com/track/5mY8mY7DSfuqVbY2psq3Cg) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Sorceress](https://open.spotify.com/album/2GNdgq3pIVLYZoNK4wJtCP) | 5:49 | 2022-01-03 |  |
 | [Soul Sacrifice](https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 4:10 | 2022-07-13 | 2022-07-15 |
 | [Speed of Light](https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2) | 5:01 | 2022-01-03 | 2022-07-28 |
-| [Spirit](https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:15 | 2022-07-13 |  |
+| [Spirit](https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:15 | 2022-07-13 | 2022-10-13 |
 | [Square Hammer](https://open.spotify.com/track/4AzomjMRpr1NMNE90ZIOD6) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Popestar](https://open.spotify.com/album/36Ybf0SVlKqgGadXe3ZEQf) | 3:59 | 2022-01-03 | 2022-07-29 |
 | [Stitch](https://open.spotify.com/track/0Pl5XX0MbdQ5E702GBhnUn) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Deadweight](https://open.spotify.com/album/0c4JrJyBCQHU0Pq3td483f) | 3:25 | 2022-01-03 |  |
 | [Storytime](https://open.spotify.com/track/2ERRZsSlier2okSRmdzG29) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum \(Deluxe Bonus Version\)](https://open.spotify.com/album/6gTT77DgtftbvP5ISDGGwO) | 5:22 | 2022-01-03 | 2022-07-29 |

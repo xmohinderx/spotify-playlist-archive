@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: YG
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,049 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,052 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 24 | [The Regionals: Taipei \(feat\. NICKTHEREAL, Karencici, Julia Wu, Kumachan\)](https://open.spotify.com/track/0dKUOtfSILNo9GyWx9VIjk) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X), [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [The Regionals: Taipei \(feat\. NICKTHEREAL, Karencici, Julia Wu, Kumachan\)](https://open.spotify.com/album/5QTKfxYNGFJGIoaNpCSF8y) | 3:34 |
 | 25 | [Candela](https://open.spotify.com/track/2GSdnh5WLJAj0fzbywWQkh) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Big Klef](https://open.spotify.com/artist/4VZljMVEAhstVDTphJx2nT) | [Candela](https://open.spotify.com/album/6YOx8xZNUVtJZRV8euOHzo) | 3:05 |
 | 26 | [Disrespectful](https://open.spotify.com/track/2VB8KK5Mpw5faIEuOpHhqJ) | [Smiles Davis](https://open.spotify.com/artist/6vjhuQY1IzfsaJJIKskfZD) | [Disrespectful](https://open.spotify.com/album/6lMQiGo4VMFgA2rzqQVL9I) | 2:36 |
-| 27 | [Dis N Dat \(with VanJess\)](https://open.spotify.com/track/2WOAeCRc28zrEpCmkNYFRj) | [drumaq](https://open.spotify.com/artist/6YxiJtz5oCCcDsMGiLNMh5), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Dis N Dat \(with VanJess\)](https://open.spotify.com/album/59Bb8gaMK4Szc60Ib8Pf9L) | 2:35 |
+| 27 | [Dis N Dat](https://open.spotify.com/track/47l61SN0LmVnzMc1jSpUdJ) | [drumaq](https://open.spotify.com/artist/6YxiJtz5oCCcDsMGiLNMh5), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Dis N Dat](https://open.spotify.com/album/0ohVWsW5RSKamDG6oTvQRx) | 2:35 |
 | 28 | [I Literally Never Think About You](https://open.spotify.com/track/2HMxow43AQQGcsMoi0YEcq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [I Literally Never Think About You](https://open.spotify.com/album/3dSrqg19hoTFp8AeI7MEeX) | 2:55 |
 | 29 | [FUCK 12 FREESTYLE \(feat\. LaRussell & Guapdad 4000\)](https://open.spotify.com/track/0tqqTfWaegbzlTpDwCqwVN) | [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [FUCK 12 FREESTYLE \(feat\. LaRussell & Guapdad 4000\)](https://open.spotify.com/album/1fMBLxMisK0A4QkiRARudn) | 2:59 |
 | 30 | [Not Regular](https://open.spotify.com/track/79DqbC1YHMGkzGQeJqMjqq) | [X4](https://open.spotify.com/artist/7271ibB4SynaG8JFLqoxUg), [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [Not Regular](https://open.spotify.com/album/6l01Xc6l1DE1QzGd6qGExz) | 2:39 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 54 | [White Chalk](https://open.spotify.com/track/42oUrUl65rETqjhls8hjlK) | [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [White Chalk](https://open.spotify.com/album/65HXrr6mKuDCmImOzYgDnM) | 2:40 |
 | 55 | [Put You On It](https://open.spotify.com/track/65ZiQebeLHuV4105IIiPu9) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [Chris O'Bannon](https://open.spotify.com/artist/0x3uLrfIo751mWzFlyVEn9) | [Pure Game](https://open.spotify.com/album/55xbfrYtqvidjibJmMxjUG) | 2:56 |
 
-Snapshot ID: `MTY2NDU3ODc2MSwwMDAwMDAwMDQ0NTU1YTQ5MGJhZDM1MTk1MjAwYjdkOWVkZGI2NDc2`
+Snapshot ID: `MTY2NDU3ODc2MSwwMDAwMDAwMDNkNGNmZDBmZTYxYjFhMmRiMjdkYjk0MTlkYzljZTQx`

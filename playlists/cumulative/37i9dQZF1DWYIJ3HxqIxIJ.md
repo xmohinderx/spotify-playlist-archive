@@ -4,7 +4,7 @@
 
 > Grentperez is our new RADAR artist to watch!
 
-146 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
+149 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Deadweight](https://open.spotify.com/track/73g1ySW6QzK3u3iwTA6zBX) | [Olive Amun](https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv) | [Deadweight](https://open.spotify.com/album/0ip00vW7mfVphllwNShfUv) | 2:47 | 2021-10-15 | 2022-08-16 |
 | [Drive Me Home](https://open.spotify.com/track/6p0QVqnCWpGw1nWdFoDFLe) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Unsolicited Advice for Your DIY Disaster](https://open.spotify.com/album/4pbYeo7Ey0SMWKsPjnHpd2) | 3:12 | 2021-10-15 | 2022-08-16 |
 | [DUBAI](https://open.spotify.com/track/3DWLH5d8DWVwUmOY5c6TMM) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [DUBAI](https://open.spotify.com/album/6AAD0GN8FettJVhoGWejzj) | 2:38 | 2022-08-15 |  |
-| [Ego](https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn) | 2:15 | 2022-08-15 |  |
+| [Ego](https://open.spotify.com/track/2EDGTV01iqpjgZrVG6IcJ4) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/1t7JB13GN0Zn5pwGHcKe3i) | 2:15 | 2022-08-28 |  |
+| [Ego](https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn) | 2:15 | 2022-08-15 | 2022-10-13 |
 | [Euphoria](https://open.spotify.com/track/7F4p9HU836tGnUBLwJhHiu) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Newcomer](https://open.spotify.com/album/1sXxuN4YB7Fisgjmp96l9k) | 2:57 | 2022-08-15 |  |
 | [Ezinna](https://open.spotify.com/track/41UGPePAJSduundVw9xy6j) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [jamie](https://open.spotify.com/album/04aWIaxveChEP20zhtczHb) | 3:40 | 2021-10-15 | 2022-08-16 |
 | [Fairybread & Old Cartoons](https://open.spotify.com/track/2JBIRg63wxrJrGM6o09p4C) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [Fairybread & Old Cartoons](https://open.spotify.com/album/0ZBaxoyYkzONrDiLtbxkVp) | 3:01 | 2022-08-15 |  |
@@ -55,7 +56,8 @@
 | [Good One](https://open.spotify.com/track/1zIV0opbIvd7gmFjSZm64X) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [Good One](https://open.spotify.com/album/5XaWYXtUEkxfbeNxzOU4Fd) | 2:49 | 2021-10-15 | 2022-08-16 |
 | [Gotta Learn](https://open.spotify.com/track/3XtiBlcnXnqjSEbtXjlIQw) | [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [Gotta Learn / It's OK Love](https://open.spotify.com/album/2m7ihiiPGwqm4DnFfGs09W) | 2:29 | 2021-10-15 | 2022-08-16 |
 | [Gravity Glidin](https://open.spotify.com/track/62Wv4hnAk5ichfSckOSnQK) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:20 | 2021-10-15 | 2022-08-16 |
-| [GTFO](https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y) | 3:20 | 2022-08-15 |  |
+| [GTFO](https://open.spotify.com/track/01nSzyIB57M50XlmuGGqjE) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/5hAPhhrqcSGlLHW3uNgJof) | 3:20 | 2022-08-28 |  |
+| [GTFO](https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y) | 3:20 | 2022-08-15 | 2022-10-13 |
 | [Handful](https://open.spotify.com/track/4kGb0Zb0rjs69mC9gZMZfq) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Beddy Rays](https://open.spotify.com/album/6MwcCDtY8ZkuC356FKC28q) | 3:03 | 2022-08-15 |  |
 | [Happy Hangover](https://open.spotify.com/track/3ZJl1SIywHZqVrriDKn7fl) | [Hope D](https://open.spotify.com/artist/6IdzKFOGtbNz84qbJUMM4x) | [Happy Hangover](https://open.spotify.com/album/4h3KVC4rJ091snKcRorfWn) | 3:38 | 2021-10-15 | 2022-08-16 |
 | [Headcase](https://open.spotify.com/track/4puDMkZIGlRQ4m8ht5AIEh) | [Matthew Young](https://open.spotify.com/artist/0EIJLgdMEPVJlnkmjWcx5q) | [Headcase](https://open.spotify.com/album/7El82WcUCLfUBRXEg8lJvs) | 3:06 | 2021-10-15 | 2022-08-16 |
@@ -68,7 +70,8 @@
 | [I Dunno Her](https://open.spotify.com/track/0JgmVPijLg1iPO1LJeZ4zB) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [I Dunno Her](https://open.spotify.com/album/2hIE5CUKfg4stBrq2TC0aR) | 4:48 | 2021-10-15 | 2022-08-16 |
 | [I LUV U](https://open.spotify.com/track/1f4hiNCEGip1N4B6QjCAJm) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [I LUV U](https://open.spotify.com/album/1u14LWDFohYHEqptZhDo8i) | 2:20 | 2022-08-15 |  |
 | [I Want Control](https://open.spotify.com/track/3gaL0JEO7My2e1XksM9G2s) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [I Want Control](https://open.spotify.com/album/0vjK1Vwge6tfcporOhIBVl) | 2:35 | 2022-08-15 |  |
-| [it's not how it used to be](https://open.spotify.com/track/48r0FCzpeVpFP4KMW7G8CI) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [it's not how it used to be](https://open.spotify.com/album/2aU13brsy2XVN8YKlrgrLn) | 3:27 | 2022-08-15 |  |
+| [it's not how it used to be](https://open.spotify.com/track/48r0FCzpeVpFP4KMW7G8CI) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [it's not how it used to be](https://open.spotify.com/album/2aU13brsy2XVN8YKlrgrLn) | 3:27 | 2022-08-15 | 2022-10-13 |
+| [it's not how it used to be](https://open.spotify.com/track/5eYJJXpmTUiIBdqnJDongW) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Breakfast for Dinner](https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD) | 3:27 | 2022-08-28 |  |
 | [it's not that bad](https://open.spotify.com/track/6iUsnQ0gqehflExGxmICBG) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [It's Not That Bad](https://open.spotify.com/album/0aSAgvZV6LfEf9KVfcLXz8) | 2:40 | 2022-08-15 |  |
 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 | 2022-08-15 |  |
 | [La Fiesta](https://open.spotify.com/track/6G0naKtVSu2Q1FS1ewQwYK) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [La Fiesta](https://open.spotify.com/album/6U8rFSFS3IbHR6tYBZUaKR) | 3:43 | 2021-10-15 | 2022-08-16 |

@@ -4,7 +4,7 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-50 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/4voCCAakSbdaILEDDIaot8)
+51 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/4voCCAakSbdaILEDDIaot8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Halellujah](https://open.spotify.com/track/5sEKcXRZ3vGZmIoMKa931I) | [Stivo simple boy](https://open.spotify.com/artist/6xB2biiMZCEImA2wB1qm5s), [Made in Kibera](https://open.spotify.com/artist/1az6RcKSE89nahPJFRImGB) | [Halellujah](https://open.spotify.com/album/7IaUFhIEkUBCgQ0dwsPgTo) | 3:04 | 2022-04-13 |  |
 | [Hinya](https://open.spotify.com/track/2vp3E0GaE2VBHY1EbVuy5p) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe), [Yo Alex](https://open.spotify.com/artist/3PA8YnbJW4N0PuiPamfEJb) | [NOW THAT WE ARE HERE](https://open.spotify.com/album/1lvyxxI5vdtdLTY64WUVYP) | 5:16 | 2022-04-13 |  |
 | [Horera](https://open.spotify.com/track/3SZtn6Vo9q9zaLRrx02UkZ) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq), [Yo Alex](https://open.spotify.com/artist/2dyAmcFC6RZpQdECgopzAT), [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe) | [Horera](https://open.spotify.com/album/0HKGeIN1EWRdZXvL84U9mX) | 3:26 | 2022-04-13 |  |
-| [Hubadiliki \(feat\. Bella Kombo\)](https://open.spotify.com/track/1A3uvglKkwzkm3kIE0B67I) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [Bella Kombo](https://open.spotify.com/artist/72i32gJ4wl0C1b0RG4h5iN) | [Black Child](https://open.spotify.com/album/0IrAxhlwwL6RsdDdyeQyBm) | 4:35 | 2022-04-13 |  |
+| [Hubadiliki](https://open.spotify.com/track/4E9ND957QouLYyU97gMFeg) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk) | [Black Child](https://open.spotify.com/album/5ufvjfxwFSEJqTxRO4fmSK) | 4:35 | 2022-04-13 |  |
+| [Hubadiliki \(feat\. Bella Kombo\)](https://open.spotify.com/track/1A3uvglKkwzkm3kIE0B67I) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [Bella Kombo](https://open.spotify.com/artist/72i32gJ4wl0C1b0RG4h5iN) | [Black Child](https://open.spotify.com/album/0IrAxhlwwL6RsdDdyeQyBm) | 4:35 | 2022-04-13 | 2022-10-13 |
 | [Huru](https://open.spotify.com/track/5zFw2qypqYA2rZfeoR7YbD) | [Jay General](https://open.spotify.com/artist/7dNS5Gtohaw7dCBdeX5oud) | [Huru](https://open.spotify.com/album/6Pe7sUSnckGI6edYYYQXPi) | 3:06 | 2022-04-13 |  |
 | [I Believe](https://open.spotify.com/track/6aDDgd5crYJ0OQPdq3TUmQ) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [I Believe](https://open.spotify.com/album/3omHcm5ucQJ26WUjdoF9DA) | 4:07 | 2022-04-13 |  |
 | [Ipo Siku Remix](https://open.spotify.com/track/70MBx9XPb9qib4iXbezNnl) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku Remix](https://open.spotify.com/album/5xXmXsgHB2Aj7s0SN1Fg9l) | 4:13 | 2022-04-13 |  |

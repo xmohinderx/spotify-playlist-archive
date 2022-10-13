@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Kim Scott",
-  "num_followers": 37101,
+  "num_followers": 37158,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDA4Y2FkZWRlMmNiYzE2NmQ1YTgzNWJlODFjZGZiNGFl",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDc0N2Y1NDM3M2UzY2MxNWJlMTk1ZGMxYWZiNmRjMGY0",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
     },
     {
-      "added_at": "2022-10-12 01:30:58",
+      "added_at": "2022-10-13 01:21:50",
       "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
     },
     {
-      "added_at": "2022-10-12 01:30:58",
+      "added_at": "2022-10-13 01:21:50",
       "album": {
         "name": "Look Both Ways",
         "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
@@ -253,22 +253,6 @@
       "url": "https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "In His Vision",
-        "url": "https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae"
-      },
-      "artists": [
-        {
-          "name": "Christian de Mesones",
-          "url": "https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS"
-        }
-      ],
-      "duration_ms": 231509,
-      "name": "In His Vision",
-      "url": "https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Jazz Party",
@@ -283,6 +267,22 @@
       "duration_ms": 287040,
       "name": "Jazz Party",
       "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "In His Vision",
+        "url": "https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae"
+      },
+      "artists": [
+        {
+          "name": "Christian de Mesones",
+          "url": "https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS"
+        }
+      ],
+      "duration_ms": 231509,
+      "name": "In His Vision",
+      "url": "https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
     },
     {
-      "added_at": "2022-10-12 01:30:58",
+      "added_at": "2022-10-13 01:21:50",
       "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU"
@@ -581,38 +581,6 @@
       "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 261562,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Summertime in Nyc (Instrumental Mix)",
-        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 210179,
-      "name": "Summertime in Nyc (Instrumental Mix)",
-      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Summer in Blue",
@@ -629,6 +597,22 @@
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 261562,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Stride",
@@ -643,6 +627,22 @@
       "duration_ms": 254346,
       "name": "Stride",
       "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Summertime in Nyc (Instrumental Mix)",
+        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 210179,
+      "name": "Summertime in Nyc (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Hello Beautiful",
-        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 268538,
-      "name": "Hello Beautiful - radio single",
-      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
@@ -715,6 +699,22 @@
       "duration_ms": 293280,
       "name": "Weekend Groove",
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Hello Beautiful",
+        "url": "https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "duration_ms": 268538,
+      "name": "Hello Beautiful - radio single",
+      "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -753,20 +753,40 @@
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
-      "added_at": "2022-02-14 15:14:54",
+      "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "A Midnight Rendezvous",
-        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
+        "name": "Feet First",
+        "url": "https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0"
       },
       "artists": [
         {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Pioneer Town",
-      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
+      "duration_ms": 240906,
+      "name": "Feet First",
+      "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Radio Vibe",
+        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        },
+        {
+          "name": "Jeanette Harris",
+          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
+        }
+      ],
+      "duration_ms": 249529,
+      "name": "Radio Vibe - radio single",
+      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -793,58 +813,6 @@
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Radio Vibe",
-        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        },
-        {
-          "name": "Jeanette Harris",
-          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
-        }
-      ],
-      "duration_ms": 249529,
-      "name": "Radio Vibe - radio single",
-      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Red Tiger",
-        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 249262,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Feet First",
-        "url": "https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Feet First",
-      "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "A Sunny Day",
@@ -865,6 +833,22 @@
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
     },
     {
+      "added_at": "2022-02-14 15:14:54",
+      "album": {
+        "name": "A Midnight Rendezvous",
+        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
+      },
+      "artists": [
+        {
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Pioneer Town",
+      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Honest",
@@ -879,6 +863,22 @@
       "duration_ms": 374536,
       "name": "Honest",
       "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Red Tiger",
+        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "duration_ms": 249262,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
     }
   ],
   "unique_name": "New Smooth Jazz",

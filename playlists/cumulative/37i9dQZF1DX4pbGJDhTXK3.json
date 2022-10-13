@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 426575,
       "name": "Bommelom",
       "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 311737,
       "name": "Cool Coronas",
       "url": "https://open.spotify.com/track/4snjzmsb5MrW6u1kVaSnjH"
@@ -797,6 +797,24 @@
     {
       "album": {
         "name": "It's the Arps",
+        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400751,
+      "name": "Inspector Norse",
+      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
+    },
+    {
+      "album": {
+        "name": "It's the Arps",
         "url": "https://open.spotify.com/album/68zh8sbZPMeJb7GnqomRJS"
       },
       "artists": [
@@ -807,7 +825,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 400751,
       "name": "Inspector Norse",
       "url": "https://open.spotify.com/track/2pucDx5Wyz9uHCou4wntHa"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 387053,
       "name": "Italian Stallion",
       "url": "https://open.spotify.com/track/6SQiiwKY6DwT0jcwpejmcn"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 214404,
       "name": "Maskindans - Radio Edit",
       "url": "https://open.spotify.com/track/4ln5gGLJie7NiRwR11RMMc"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 368000,
       "name": "Moonie",
       "url": "https://open.spotify.com/track/1sd3ZoOJUUmgnGM6FRnzeh"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 268440,
       "name": "Strandbar",
       "url": "https://open.spotify.com/track/6reLfBSO38qmFgHgz6kAs0"

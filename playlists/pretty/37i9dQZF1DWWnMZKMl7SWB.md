@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,092 likes - 214 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,098 likes - 214 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 6 | [Afternoon](https://open.spotify.com/track/7bLHWQicZFxR1dkvYrYNCj) | [mushii.](https://open.spotify.com/artist/3ytz3wAW8Qg1GqedDm5E2h), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [Village](https://open.spotify.com/album/00aPsGMmRq7ZL7vcj4HyNz) | 2:27 |
 | 7 | [Runaway](https://open.spotify.com/track/2MfAOSFDDrXMbitZbZoabE) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Runaway](https://open.spotify.com/album/4kyaFX7xMSbCxWl6hv4CeN) | 1:53 |
 | 8 | [Walking Flames](https://open.spotify.com/track/3JLO3GzdHqAr0KbQnT88oW) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Walking Flames](https://open.spotify.com/album/2GkDoPv9tpc1mvw3Xh9heu) | 4:10 |
-| 9 | [1am in nyc](https://open.spotify.com/track/0e53hMy1c4e7bLZh5iRsFi) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:24 |
+| 9 | [1am in nyc](https://open.spotify.com/track/2g9j3O0YzzeqXqliKaqFZD) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/3SEeS3WVZhevxaJKnHe3GU) | 2:24 |
 | 10 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 |
 | 11 | [Trembling](https://open.spotify.com/track/4lgaqqxbWLnc32Iy6gBjyd) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Fugue State](https://open.spotify.com/album/6u4X16JVGz3WBj2x4t6rjg) | 3:48 |
 | 12 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 |
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 139 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
 | 140 | [Vale](https://open.spotify.com/track/58FsmlVRQxpjFmXF8vSKMT) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:07 |
 | 141 | [Take over You \- Perttu Remix](https://open.spotify.com/track/7EcCQa5yVa8pMXM0B43rxw) | [KASPERG](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Joey Cass](https://open.spotify.com/artist/2jb5SbSrV4BSAq7Z8Vyrpl), [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [Take over You \(Remixes\)](https://open.spotify.com/album/43SzTI9Ti7QFl4LZ0WAF6I) | 3:33 |
-| 142 | [So Close](https://open.spotify.com/track/00aQGaqM6SFzGfbgKOite0) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [So Close](https://open.spotify.com/album/30665HqOre14GEeakTMDlG) | 4:08 |
+| 142 | [So Close](https://open.spotify.com/track/68M7htN4l1TC3mKXoUVKrf) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [So Close](https://open.spotify.com/album/3i2q9STmiRxp7w06YVZJXJ) | 4:08 |
 | 143 | [Other Side](https://open.spotify.com/track/0S5as2olu01E5lXXhdVTLA) | [C Duncan](https://open.spotify.com/artist/0x3sTIYnP56TnL6bbyMU2i) | [The Midnight Sun](https://open.spotify.com/album/5vF91mAcXrjETeE4UabePg) | 3:15 |
 | 144 | [Memorand](https://open.spotify.com/track/1JL0mPAwcHB5nYba61C1s2) | [Monitor](https://open.spotify.com/artist/5OUfsZqqBlsVtWIzayDPF5) | [Memorand](https://open.spotify.com/album/3fkwq5Um4ELQXvDKFZ85DT) | 3:27 |
 | 145 | [Walrus](https://open.spotify.com/track/408aMcbMo6TfoEHCfKLsjM) | [D.D Dumbo](https://open.spotify.com/artist/29PVoYGQeFwXgX9vIlnHmR) | [Utopia Defeated](https://open.spotify.com/album/1aSWcjJx8UxTIHWcPNNQLb) | 3:10 |
@@ -207,7 +207,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 197 | [A Moment Apart](https://open.spotify.com/track/59wlTaYOL5tDUgXnbBQ3my) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:54 |
 | 198 | [Never Lost](https://open.spotify.com/track/1YqOZ2frFFiyMIkAuKH48k) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/6wwiwIueaNNBxuabXP39VZ) | 6:46 |
 | 199 | [Prelude](https://open.spotify.com/track/1q1p0bsfEgqXDEWo1kx363) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Territory](https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58) | 1:52 |
-| 200 | [Eros](https://open.spotify.com/track/21j57YHGKnwx2DR3YWnwrC) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [HUMAN](https://open.spotify.com/album/5h5OESkSbpnu5nauqtbFXX) | 4:07 |
+| 200 | [Eros](https://open.spotify.com/track/6ne3tIEFnUcotoQ7VWZ1L8) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [HUMAN](https://open.spotify.com/album/28qORmS5JCCsIEXzXnuzVO) | 4:07 |
 | 201 | [Hope](https://open.spotify.com/track/5B83lmCIpUZbp3llYUN3Mg) | [Nall](https://open.spotify.com/artist/1TTP6vJbLEjFnjflpE4ahI) | [Hope](https://open.spotify.com/album/3XukZxrnN93zd1LCIHztVc) | 3:40 |
 | 202 | [Club der Ewigkeiten](https://open.spotify.com/track/2ywFTaCXKedBFlYA0XcHJM) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 4:09 |
 | 203 | [Water Garden](https://open.spotify.com/track/5XI8zR1T3ASCaZTe0M6RXe) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [Water Garden](https://open.spotify.com/album/5jKT5HC6OXxPT06dbMnR46) | 3:23 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 213 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 214 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDIyNGE1YzQ3YWY2NzkyMTBlOTFlOGZmNGZjNDllMTIy`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDg1YjU5YmNjOTNkYzdjYzU5Y2E2YTdiYjkxMTcxNzVi`

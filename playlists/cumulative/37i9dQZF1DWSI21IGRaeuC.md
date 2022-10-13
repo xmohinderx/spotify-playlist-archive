@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-118 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
+119 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Bigger Than Prince](https://open.spotify.com/album/5MEqbC6zcLtZY1OFeL7nPR) | 6:35 | 2022-06-03 | 2022-08-13 |
 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 | 2022-06-10 |  |
 | [Blackbird](https://open.spotify.com/track/2JY3csEWcMt3JqboZGE5cd) | [Mathias Kaden](https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S), [Zoë Xenia](https://open.spotify.com/artist/5HrUbYq85HT5B1dtYrh3fg) | [Blackbird](https://open.spotify.com/album/6QRoboEziqck9Zdkxl8qJ3) | 6:48 | 2022-07-15 | 2022-08-27 |
+| [Bocat \- Michael Bibi Remix](https://open.spotify.com/track/1pea4MX31SSMy0PeQsme33) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq), [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Bocat \(Michael Bibi Remix\)](https://open.spotify.com/album/7eFCcNOJPqwfcHfdfygATF) | 6:07 | 2022-10-12 |  |
 | [Bouncer](https://open.spotify.com/track/2cPp9AOTQcVcZUklahBmab) | [KI Creighton](https://open.spotify.com/artist/54fZiNN8CtExTWCj5Gbeu4) | [Bouncer](https://open.spotify.com/album/6JPQh64ynH13iEoRDdSMqK) | 4:01 | 2022-06-03 | 2022-07-31 |
 | [CDWU](https://open.spotify.com/track/7BAx0TzD2eE7amrzEZH1Hg) | [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [CDWU EP](https://open.spotify.com/album/04CqfNadncHwswivDrT9xM) | 3:02 | 2022-07-22 | 2022-07-29 |
 | [Changes](https://open.spotify.com/track/6WMjfoQiJn7Bbs7Bv7G6rT) | [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA) | [Changes EP](https://open.spotify.com/album/6OICJ3V1eLF0NTfMY4Em4n) | 2:51 | 2022-06-10 | 2022-07-29 |
@@ -81,7 +82,7 @@
 | [Oh Really](https://open.spotify.com/track/1AhLqJ6z2aIV17F0ijJvJR) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Oh Really](https://open.spotify.com/album/64YKsJIzGG6ilqM2c9s5Gi) | 3:34 | 2022-06-03 | 2022-07-21 |
 | [Okay Alright](https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN) | [Alan Nieves](https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG) | [Okay Alright](https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv) | 6:08 | 2022-08-26 |  |
 | [Oolooloo](https://open.spotify.com/track/3syDoN422EvIEMTiZkxQWc) | [Gaiser](https://open.spotify.com/artist/0zNtdoyO2ZA7hhYMNLh48Y) | [Pullpush](https://open.spotify.com/album/03jAXUbLmJzZaVHzK8fwHB) | 8:27 | 2022-06-03 | 2022-08-27 |
-| [Otto's Chant](https://open.spotify.com/track/3j8PXtq0NN7QQVdNwkoFBe) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Otto's Chant](https://open.spotify.com/album/3suaEss6InlgqN8pf51Sa5) | 6:09 | 2022-06-03 |  |
+| [Otto's Chant](https://open.spotify.com/track/3j8PXtq0NN7QQVdNwkoFBe) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Otto's Chant](https://open.spotify.com/album/3suaEss6InlgqN8pf51Sa5) | 6:09 | 2022-06-03 | 2022-10-13 |
 | [Pasi De Dans](https://open.spotify.com/track/4pRKY2GJfRNH0Mytif1EZ1) | [Mahony](https://open.spotify.com/artist/0IM6etys8CAJAph5dOoGBp) | [U Ready? EP](https://open.spotify.com/album/5ee7du4eAC5kCr7nsXLzPq) | 5:30 | 2022-06-03 | 2022-07-27 |
 | [Poison](https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Poison](https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6) | 3:26 | 2022-08-12 |  |
 | [Ramona](https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Ramona](https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc) | 7:03 | 2022-06-03 | 2022-09-11 |

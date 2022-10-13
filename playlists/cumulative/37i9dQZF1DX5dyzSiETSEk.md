@@ -4,7 +4,7 @@
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-110 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/5XFqsyLYlOB2spadiOeuPU)
+112 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/5XFqsyLYlOB2spadiOeuPU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Blame It on Me](https://open.spotify.com/track/2Zgnaip1c876zmBhz9HifI) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia) | 3:15 | 2020-09-29 | 2022-07-29 |
 | [Blame It on Me](https://open.spotify.com/track/2vzMWO0T008m86yDnXwkII) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:16 | 2022-07-22 |  |
 | [Boomerang](https://open.spotify.com/track/79l5JbcB7MVcjmYlvgq9KQ) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Boomerang](https://open.spotify.com/album/4XjsEEC0egjD59vuN93ep5) | 3:27 | 2021-08-04 |  |
-| [Bop!](https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9) | 2:36 | 2021-08-04 |  |
+| [Bop!](https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9) | 2:36 | 2021-08-04 | 2022-10-13 |
+| [Bop!](https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/2mkXqWgvcHVNM2Vy6kHH2R) | 2:36 | 2022-07-22 |  |
 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 | 2020-09-29 |  |
 | [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2020-09-29 |  |
 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2020-09-29 |  |
@@ -67,7 +68,8 @@
 | [Nice To Meet Ya](https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Nice To Meet Ya](https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ) | 2:38 | 2020-09-29 |  |
 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 | 2022-07-22 |  |
 | [no tears left to cry](https://open.spotify.com/track/5SxkdsY1ufZzoq9iXceLw9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [no tears left to cry](https://open.spotify.com/album/2AkKk7DFnT2IV1gPcq7RCQ) | 3:25 | 2020-09-29 | 2022-07-29 |
-| [Nonstop](https://open.spotify.com/track/07sscPQA6fR2yGVf3vMmld) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/75Ihw1IDFXtLMkqqLE57xg) | 2:20 | 2021-08-04 |  |
+| [Nonstop](https://open.spotify.com/track/07sscPQA6fR2yGVf3vMmld) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/75Ihw1IDFXtLMkqqLE57xg) | 2:20 | 2021-08-04 | 2022-10-13 |
+| [Nonstop](https://open.spotify.com/track/28t4A1DdvuZzub3p8E7qFF) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/3Rfex8n3nRVBZyN0JX059j) | 2:20 | 2022-07-22 |  |
 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 | 2020-09-29 |  |
 | [Old Town Road](https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:53 | 2020-09-29 |  |
 | [On A Roll](https://open.spotify.com/track/56JyMaElW79S7TDWh1Zw1m) | [Ashley O](https://open.spotify.com/artist/14scxEoUN7Dcx1m4EQ7oHe) | [On A Roll](https://open.spotify.com/album/6eV8O8De1mibErM1XM1tEc) | 2:34 | 2020-09-29 |  |

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160626,
+      "name": "All About Our Love",
+      "url": "https://open.spotify.com/track/0TZOdKFWNYfnwewAP8R4D8"
+    },
+    {
+      "album": {
         "name": "Soldier of Love",
         "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 241666,
       "name": "Clean Heart",
       "url": "https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI"
@@ -217,7 +235,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 229413,
       "name": "Flower of the Universe (From Disney's \"A Wrinkle in Time\")",
       "url": "https://open.spotify.com/track/3F6dDV4voQ5OTTYpzpIVYt"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 233533,
       "name": "It's Only Love That Gets You Through",
       "url": "https://open.spotify.com/track/1jgce88ygplFg5g2AS2WEB"

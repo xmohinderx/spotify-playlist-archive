@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,121 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,128 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 12 | [Dreams](https://open.spotify.com/track/6iCnwfimIzp1CTp06er7Te) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/429Bd8x5qNmBK9z6lyOXr6) | 2:42 |
 | 13 | [dying together](https://open.spotify.com/track/703SHNf8XtJnM3gtryjyJ6) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [dying together](https://open.spotify.com/album/31MiwOnaumhyDI1MloNrY3) | 2:36 |
 | 14 | [Space Makes Me Sad](https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Space Makes Me Sad](https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX) | 2:16 |
-| 15 | [i don't think i love you anymore](https://open.spotify.com/track/1saZ5nnaCWBjOK09izEK9c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/2LQ2jwXMR5yG9SBfVR6FwG) | 3:49 |
+| 15 | [i don't think i love you anymore](https://open.spotify.com/track/43rHcWvKMlLGWMmJFjCk7I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/40o9ndikNL2d6j4w9hJP01) | 3:49 |
 | 16 | [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 |
 | 17 | [Hollywood](https://open.spotify.com/track/40ZsN7vKatjbyoY8zx0DM8) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/4eosP6b4AHx0GA5Z9WVu0D) | 4:01 |
 | 18 | [mime](https://open.spotify.com/track/4sISzyWDHQQIOor9HokS7X) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [balloons don't float here](https://open.spotify.com/album/4Qb82ieP4gzGzJiRnUNYyw) | 3:08 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 31 | [No More](https://open.spotify.com/track/6T3Yt7O6rxpeiRF1dxODQL) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [No More](https://open.spotify.com/album/4UCY9M6aQm4RikN8BsptLI) | 3:06 |
 | 32 | [Click](https://open.spotify.com/track/2c72Qa7HHbMN4gaaUY3JKd) | [Badgirl$](https://open.spotify.com/artist/1tVVNIotf3Fc4iylC56Wae) | [Click](https://open.spotify.com/album/6WPjp5c8bSNs5OeYMlrVgU) | 3:33 |
 | 33 | [Bubba](https://open.spotify.com/track/5PnsHlUD6PKlZaschoV7tE) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/0Rl2oukHRhIEK48o5ZbJNu) | 5:00 |
-| 34 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 |
+| 34 | [Little Bit](https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:46 |
 | 35 | [Wishing For Rain](https://open.spotify.com/track/1avc8BMkZ9fJrlhD5WzaP0) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Wishing For Rain](https://open.spotify.com/album/2bJe3ugOMGWQ899OBo524F) | 3:17 |
 | 36 | [Meaner Girl](https://open.spotify.com/track/75Ybs07OwRvhRE1kedAhv5) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Self Aware Bitch](https://open.spotify.com/album/3AhOyLa5HZSJE0vb8ot3bn) | 3:11 |
 | 37 | [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 51 | [Cool to You](https://open.spotify.com/track/4TxuAw6GMHFPMv6NQeXm6l) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool to You](https://open.spotify.com/album/3RCFqeTVmiEtc8cYfj7Uf7) | 3:17 |
 | 52 | [COMMA$](https://open.spotify.com/track/1Fk9MDDgy1VvMosMh4m34G) | [LORD$OFDOGTOWN](https://open.spotify.com/artist/3MR1RYx6wS8n93uSVpYoQ5) | [LORD$OFDOGTOWN](https://open.spotify.com/album/7uBoH5eDFQ7ifeAjjtS9Zn) | 2:26 |
 | 53 | [Tokyo](https://open.spotify.com/track/7bRczR0qkPYmWHFYUPBAmN) | [sam.sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Tokyo](https://open.spotify.com/album/5zQL7loJjfOSiUkI8k8l7K) | 2:56 |
-| 54 | [Rewind](https://open.spotify.com/track/5Lp117p0NotCBlMHVxdizb) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Rewind](https://open.spotify.com/album/6jNYBvQbwW6I4tjVBqvJf6) | 2:52 |
+| 54 | [Rewind](https://open.spotify.com/track/3mDU9150jy8FYm8BtImUSw) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Rewind](https://open.spotify.com/album/1joaXuyfiUhkxYZyFeI9jH) | 2:52 |
 | 55 | [Unwind Me!](https://open.spotify.com/track/1Frr2d2SHGlHC4OWa2m3G3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [Unwind Me!](https://open.spotify.com/album/4ztLWCQr42B0NRYGt756mY) | 3:08 |
 | 56 | [Wait For It](https://open.spotify.com/track/5hKAv7ake0SWKlozUOGGDR) | [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Tender](https://open.spotify.com/album/6QTcJJoYeVNo9pIGapG6q2) | 2:21 |
 | 57 | [Foreign](https://open.spotify.com/track/0uSDgxhgiCoINznpSytYJB) | [Yung Reece](https://open.spotify.com/artist/6peovfLhgtb7BeiaTUI1Yl) | [Foreign](https://open.spotify.com/album/2Pzupmo7Whwo5fTo2EZMQb) | 2:26 |
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 71 | [Runaway Man](https://open.spotify.com/track/2bbG9OmvZLCsdWoRu7rj2m) | [Olivia Willhite](https://open.spotify.com/artist/70Mu5ttTV5XTLxs4uzF0H0) | [Runaway Man](https://open.spotify.com/album/1kSqEoIqznzirT0Gi4IxzW) | 3:09 |
 | 72 | [Hey There Cowgirl](https://open.spotify.com/track/0FeEyD4FZqDh78DhShxGCx) | [Palm Springsteen](https://open.spotify.com/artist/0uCRjVc8oWaEvazuCMDOXD) | [Hey There Cowgirl](https://open.spotify.com/album/4hqsi3T2wX4ogN2syEH7LR) | 3:38 |
 | 73 | [Talking Heads](https://open.spotify.com/track/1h9dZPr48ANzFAiWDu4lU1) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Talking Heads](https://open.spotify.com/album/0OjT45QCcSSsysP8CoaZf9) | 3:04 |
-| 74 | [Fuckboy](https://open.spotify.com/track/2CEbsTJ0q3Z6ld2lkJ8Q8c) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/7a6357TgSeKzQsTU9eLdf9) | 3:00 |
+| 74 | [Fuckboy](https://open.spotify.com/track/78qLNsfY3uVO1B40fcQMmA) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/5qdP91YC6kTRH0CXGunKxl) | 3:00 |
 | 75 | [ugh!](https://open.spotify.com/track/5p6SMibx8q56JAwC64P8qg) | [dwilly](https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84) | [ugh!](https://open.spotify.com/album/0xxmUhhzJBVAlIuNHuYskZ) | 2:51 |
-| 76 | [Your Hands](https://open.spotify.com/track/2vPxpS0gx5neWILuBiP1UV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [New Girl](https://open.spotify.com/album/57fLue2W4EdREmLLiPTPwT) | 2:51 |
-| 77 | [Rollin' Stone](https://open.spotify.com/track/3wXw9CsZsxca37dbzHUx4g) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [No Roof Access](https://open.spotify.com/album/51HUVGcLT7SjgNStg8JgWt) | 3:14 |
+| 76 | [Your Hands](https://open.spotify.com/track/3FoI03BV37v8z8M6stIwuq) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [New Girl](https://open.spotify.com/album/4vOlKuqbW1IAoAI8ykk7l7) | 2:51 |
+| 77 | [Rollin' Stone](https://open.spotify.com/track/3kNC4RXL1bGLzeLIL4e30X) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [No Roof Access](https://open.spotify.com/album/1GJTZ0fSwgf4ZKXdhhCpkS) | 3:14 |
 | 78 | [Leaving Me](https://open.spotify.com/track/64RqCqBxhey5mGq950yyxc) | [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Awake & Dreaming](https://open.spotify.com/album/7mrAOwvegT4oMij1p23pBE) | 2:55 |
 | 79 | [stay](https://open.spotify.com/track/3lNsCW8Kmr4rSGxxgGi6OB) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [dancefloor](https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j) | 2:14 |
 | 80 | [Come Over](https://open.spotify.com/track/25wVTIUdnEIvvKn4TUSWZ0) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI), [Christofi](https://open.spotify.com/artist/2wx1SwH78waV7t1dVM2SWS) | [Come Over](https://open.spotify.com/album/1DjsSJuLsw7t1Fe9zVclJU) | 2:08 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 88 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
 | 89 | [Honey, I](https://open.spotify.com/track/0fKgIfltjBZFvgaWdYlWEr) | [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV) | [Honey, I](https://open.spotify.com/album/5au7m8lFVWix4Ic4RzF3Dw) | 2:33 |
 | 90 | [90's Green Screen](https://open.spotify.com/track/7yXkyxotSbVF1mkP2KNjEA) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Bad Sports](https://open.spotify.com/album/6YJHZfZHLAuwCfBN5FbzPI) | 3:10 |
-| 91 | [Limbo](https://open.spotify.com/track/6VVr03DVlC6rqp8uFTPVUx) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/4ciSUimSqK6DSbeAuBDm5Q) | 3:44 |
+| 91 | [Limbo](https://open.spotify.com/track/3QFoimz3M85b96Qo3UwfFN) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/0ZHHeDr94cRR3fitDONgge) | 3:44 |
 | 92 | [Could Be a Curse](https://open.spotify.com/track/2iuhthdVVoMu3gc735MOkh) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj), [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Next to The Sun](https://open.spotify.com/album/06nJsKOOzPhANRdoTRIQLl) | 6:12 |
 | 93 | [Eggshell](https://open.spotify.com/track/3FVBclNMrglEl6qnquLwYp) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Eggshell](https://open.spotify.com/album/2SW5ToU0ODNlsTMifq2p2A) | 3:24 |
 | 94 | [Floating](https://open.spotify.com/track/5t3FyZsyT4dsI32ZeftWpc) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Floating](https://open.spotify.com/album/5bG3rYE5BjLYnpUiofulkH) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1qtRjq4lKqilxJCQErodW8) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CcRPXoDJ6gDw3g27gjy8u) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDYyNTFlODI2NDAwYzEzMjk4ZWMwYWQ1ZDFmYTZmN2Rh`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMGE3NzVkNWU1YTA5ZWY2ZmJlMjQ5Y2Y1ZGFlYTRkY2M4`

@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-170 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+171 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Dust](https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G) | [En Orbita](https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o) | [Dust](https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1) | 3:17 | 2022-01-21 |  |
 | [Emerald Isles](https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Emerald Isles](https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd) | 3:53 | 2021-11-10 |  |
 | [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-01-21 | 2022-08-13 |
-| [eternity](https://open.spotify.com/track/5aBE5Xdf8mqQcYaNjzFeA7) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:53 | 2022-07-27 |  |
+| [eternity](https://open.spotify.com/track/5aBE5Xdf8mqQcYaNjzFeA7) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:53 | 2022-07-27 | 2022-10-13 |
+| [eternity](https://open.spotify.com/track/6Pbh8GSnDNHM7Uexwbp9Ky) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:53 | 2022-10-07 |  |
 | [eternity](https://open.spotify.com/track/78sv6AmYs4TZpSOjWKAQzr) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [eternity](https://open.spotify.com/album/3PUHobRYFiCDRjrJCnXZNO) | 2:53 | 2021-11-10 | 2022-07-29 |
 | [Eudaemonia](https://open.spotify.com/track/3ZxQ9iLS9QWcnoyg0tbSME) | [Keira Barton](https://open.spotify.com/artist/7MDW47TOvs2sC0FyHqSV3Y) | [Eudaemonia](https://open.spotify.com/album/0E08nTyn985xgztmBEy8V4) | 2:58 | 2021-11-10 |  |
 | [Fair Game](https://open.spotify.com/track/0q1cjVlW64TLWVsn7m8rKy) | [Phlieng](https://open.spotify.com/artist/42CYfnqvxyFOZwgXPNEyIB) | [Fair Game](https://open.spotify.com/album/2HxC0AIJtD05UpH8WUoaOT) | 3:46 | 2021-11-10 |  |

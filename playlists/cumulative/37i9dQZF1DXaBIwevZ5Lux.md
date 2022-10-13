@@ -4,11 +4,12 @@
 
 > Spend an afternoon jamming to this curated playlist of all Asian and Pacific Islander musicians across genres and geographies!
 
-41 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/0wchqQtZZgd5ObhZrlv8DX)
+43 songs - 2 hr 30 min - [published](https://open.spotify.com/playlist/0wchqQtZZgd5ObhZrlv8DX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Afterglow](https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:18 | 2022-05-02 |  |
+| [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 | 2022-05-02 |  |
+| [Afterglow](https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:18 | 2022-05-02 | 2022-10-13 |
 | [Bad Habits](https://open.spotify.com/track/7bM54jOBYpZ1FOd7xUFCpp) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Visions](https://open.spotify.com/album/0V4kDiBvMZDxtPGaXf3fqc) | 3:48 | 2022-05-02 |  |
 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 | 2022-05-02 |  |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 | 2022-05-02 |  |
@@ -29,7 +30,8 @@
 | [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:43 | 2022-05-02 |  |
 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 | 2022-05-02 |  |
 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 | 2022-05-02 |  |
-| [Like the Movies](https://open.spotify.com/track/4crdHmkZQmNd2hucSIk7dA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:42 | 2022-05-02 |  |
+| [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 | 2022-05-02 |  |
+| [Like the Movies](https://open.spotify.com/track/4crdHmkZQmNd2hucSIk7dA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:42 | 2022-05-02 | 2022-10-13 |
 | [Mind Over Matter](https://open.spotify.com/track/5Az8KU81g2aLBbJN67F2CI) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mind Over Matter](https://open.spotify.com/album/3cSzKBfylctgJwqorcNEo2) | 4:04 | 2022-05-02 |  |
 | [My Type](https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:06 | 2022-05-02 |  |
 | [Native Tongue](https://open.spotify.com/track/3pe88vNQ5MWgSXOA1a2xcc) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g), [Pasefika Vitoria Choir](https://open.spotify.com/artist/1lm9HeVotNqu7h0Kv14oKO) | [Native Tongue](https://open.spotify.com/album/4eIPiC26JL1CijhjXwlFzs) | 3:49 | 2022-05-02 |  |

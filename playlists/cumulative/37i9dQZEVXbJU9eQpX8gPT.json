@@ -2395,7 +2395,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
@@ -4081,7 +4081,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -4950,6 +4950,28 @@
     },
     {
       "album": {
+        "name": "Freestyle 0.9",
+        "url": "https://open.spotify.com/album/3PK3cnEduLz2F2qLMVuwky"
+      },
+      "artists": [
+        {
+          "name": "MALTY 2BZ",
+          "url": "https://open.spotify.com/artist/5A7u47fziMdcEMunHjT8Kf"
+        },
+        {
+          "name": "Bendo",
+          "url": "https://open.spotify.com/artist/2VDWsiOnCzMSnxfinUYJkH"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161118,
+      "name": "Freestyle 0.9",
+      "url": "https://open.spotify.com/track/29ZC6MDshpWX9PyV1qN5bo"
+    },
+    {
+      "album": {
         "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
       },
@@ -4979,7 +5001,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 645537,
       "name": "Fuck Off 2",
       "url": "https://open.spotify.com/track/7kJ0F76to1ON6xSkhlMuIn"
@@ -8259,7 +8281,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 177711,
       "name": "Lost",
       "url": "https://open.spotify.com/track/62LM5V7p7Pzq6NVRAwhxay"
@@ -11417,7 +11439,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 216827,
       "name": "Pelele",
       "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
@@ -12189,7 +12211,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 195744,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX"
@@ -13333,7 +13355,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 159360,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV"

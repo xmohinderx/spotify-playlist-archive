@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M?si=BEGDhINTSzmhE8dCRynjQg\"> Zuchu  </a>  and  <a href=\"https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s?si=bKmM6nVLQwWkC34r4BQjNQ\"> Adekunle Gold  </a>  ",
-  "num_followers": 366105,
+  "num_followers": 366452,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyMjAzOCwwMDAwMDAwMGM5NzVkY2U4OTM0MTNiNDJhODdkOWFjMTg3OWIyMWJj",
+  "snapshot_id": "MTY2NTEyMjAzOCwwMDAwMDAwMDMzNjY3MWY2YTkwZjZhMWZhMzEwMDM5MzUyNjE2ZTgw",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
     },
     {
-      "added_at": "2022-10-12 01:41:01",
+      "added_at": "2022-10-13 01:33:15",
       "album": {
         "name": "Likkle Riddim",
         "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -597,7 +581,23 @@
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
-      "added_at": "2022-10-12 01:41:01",
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+    },
+    {
+      "added_at": "2022-10-13 01:33:15",
       "album": {
         "name": "Skedaddle",
         "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"

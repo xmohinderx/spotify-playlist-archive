@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-179 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
+180 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Winter Moon](https://open.spotify.com/track/2sZS1YF9PepJiie2C9xw4Y) | [Mindy Gledhill](https://open.spotify.com/artist/24gJ2GCq5zx1Mh08ZpmiSo) | [Winter Moon](https://open.spotify.com/album/7rB1FyKKfeQV8O1ua3nlAF) | 3:33 | 2021-11-09 | 2022-07-29 |
 | [Winter Moon](https://open.spotify.com/track/5qrMDLp24tIRY9AjpPwVX7) | [Mindy Gledhill](https://open.spotify.com/artist/24gJ2GCq5zx1Mh08ZpmiSo) | [Winter Moon](https://open.spotify.com/album/11aXurCjqzztCLiFi4k7Tv) | 3:33 | 2021-11-09 |  |
 | [Winter Song](https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 2:43 | 2021-11-09 | 2022-07-29 |
-| [Winter Song](https://open.spotify.com/track/4kVq0EOO5xmczwrXjRcaeI) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 2:43 | 2021-11-09 |  |
+| [Winter Song](https://open.spotify.com/track/4kVq0EOO5xmczwrXjRcaeI) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 2:43 | 2021-11-09 | 2022-10-13 |
+| [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 | 2021-11-09 |  |
 | [Winter Wonderland](https://open.spotify.com/track/2SslxBSZSqeyVRq9Mhd6uU) | [McKenna Williams](https://open.spotify.com/artist/03uZO3ld49qo2B5Y39Io05) | [Winter Wonderland](https://open.spotify.com/album/2pQFkne3QWb67GFH4Dr6cX) | 1:51 | 2021-11-09 |  |
 | [Winter Wonderland](https://open.spotify.com/track/1Eb21hL7z70CSuqIgMufBf) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/08dRs9SE1pmfV5pmGZsCwt) | 3:10 | 2021-11-09 | 2022-09-20 |
 | [Winter Wonderland](https://open.spotify.com/track/2WXdf7FI66qbra5dtyPTVS) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/1NRKEQ2RWHcmQ1A81beXio) | 3:10 | 2021-11-09 | 2022-07-29 |

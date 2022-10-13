@@ -3571,6 +3571,24 @@
     {
       "album": {
         "name": "Covers",
+        "url": "https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297320,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/0uYVJ8z5kgMayMNPJA6Cz9"
+    },
+    {
+      "album": {
+        "name": "Covers",
         "url": "https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw"
       },
       "artists": [
@@ -3581,7 +3599,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 297320,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq"
@@ -4149,7 +4167,7 @@
     {
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0"
+        "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
       },
       "artists": [
         {
@@ -4160,6 +4178,24 @@
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 284935,
+      "name": "The Only Exception - Spotify Single",
+      "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 284935,
       "name": "The Only Exception - Spotify Single",
       "url": "https://open.spotify.com/track/4GSP51OmKGNs57ZT9coUDF"

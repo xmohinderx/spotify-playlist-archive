@@ -4,7 +4,7 @@
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-95 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
+96 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Leap](https://open.spotify.com/track/13Jvc6rfcRvvBtqfK12qT2) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/6yhHW85d9Z6D3uyvLZSZxI) | 4:49 | 2020-09-01 | 2022-07-29 |
 | [Leap](https://open.spotify.com/track/5uJxjqSehYT3ZutreHtc0z) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 4:49 | 2020-09-01 |  |
 | [Lizard Street](https://open.spotify.com/track/5WIlLs1q6Wb9RtSgF4Aa7V) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Lizard Street](https://open.spotify.com/album/1uQIwGKgyLr9xdGPUEQGY2) | 4:00 | 2020-09-01 |  |
-| [LOUSY](https://open.spotify.com/track/0rxVWTeAR9evLU3wBW6jfr) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 2:45 | 2020-09-01 |  |
+| [LOUSY](https://open.spotify.com/track/0rxVWTeAR9evLU3wBW6jfr) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 2:45 | 2020-09-01 | 2022-10-13 |
+| [LOUSY](https://open.spotify.com/track/2wkW3RbMGYjbSCNsHShEEm) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 2:45 | 2020-09-01 |  |
 | [Love Shy \- Club Asylum Remix](https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 3:41 | 2020-09-01 |  |
 | [Magic \(feat\. Bandokay & Double Lz\)](https://open.spotify.com/track/0YhJO6feKxyGjwVo5NSXPD) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Magic \(feat\. Bandokay & Double Lz\)](https://open.spotify.com/album/2VZCTJ1tjALGYfT6IjdSVZ) | 2:33 | 2020-09-01 |  |
 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 | 2020-09-01 |  |

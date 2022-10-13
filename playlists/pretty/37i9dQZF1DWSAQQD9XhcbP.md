@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,742 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,749 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Dream Of Christmas](https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:22 |
 | 2 | [Silver Bells \(feat\. Naturally 7\)](https://open.spotify.com/track/2dnNCViz7wU5FclmN5KcT2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Naturally 7](https://open.spotify.com/artist/769D3IwCDrdPospAd3Hlpi) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:09 |
-| 3 | [Love To Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love To Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 |
+| 3 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 |
 | 4 | [let it snow \- acoustic](https://open.spotify.com/track/2NiNSxStr1hnM8PJ9jOkRT) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas \(extra presents\)](https://open.spotify.com/album/4sLx7tVIivmsDGkymn37UW) | 2:39 |
 | 5 | [Alone on Christmas With You](https://open.spotify.com/track/2tuUhtDoHYw3EssfMZaH8F) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Christmas Music: The Complete Collection](https://open.spotify.com/album/4J9Op7laWoUENBxpb8Ry8i) | 4:14 |
 | 6 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7oGsMrfHA4LOQa98ZjEX2i) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [A Very Darren Crissmas \(Deluxe\)](https://open.spotify.com/album/5yyHmkZ7tXDffaWDM5HceP) | 4:09 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 36 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/4zjQjevGJIUCjAJB2qbThT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 3:09 |
 | 37 | [have yourself a merry little christmas](https://open.spotify.com/track/0eeuqu07mKggIMnemXjm67) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [have yourself a merry little christmas](https://open.spotify.com/album/7hEM8dbhYCTJBLvYIVaEgJ) | 1:53 |
 | 38 | [The Holidays With You](https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg) | 2:05 |
-| 39 | [Just Like Christmas](https://open.spotify.com/track/61VQDkmBg7i5GDyQIVvvRS) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/0cIX6G09jcuijrQgH5br9U) | 3:19 |
+| 39 | [Just Like Christmas](https://open.spotify.com/track/6CuBMwtlPhbmsg4vOtE7cZ) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/7rqKrq5prPZc4tqspXvmh3) | 3:19 |
 | 40 | [Christmas Day](https://open.spotify.com/track/6QfjvDB63IGxWNtjySyh9F) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:28 |
 | 41 | [Christmas Eve](https://open.spotify.com/track/5QYZDXADCmEU69KXxfRxNX) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition \- 2020\)](https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8) | 3:21 |
 | 42 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 47 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
 | 48 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 |
 | 49 | [Blue Christmas](https://open.spotify.com/track/1SGNpO62EqT1KC1K8B8lFw) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Blue Christmas](https://open.spotify.com/album/4KRdBwVmISlc4j5EVmDBpe) | 2:28 |
-| 50 | [We Need a Little Christmas](https://open.spotify.com/track/6iD2vZ7WR0Zf77jdvcr4jv) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Today Is Christmas](https://open.spotify.com/album/2P4jHpHDEBsvnHN1htI824) | 2:59 |
+| 50 | [We Need a Little Christmas](https://open.spotify.com/track/2hM6yd9ZDPpKRVqDheFyoW) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Today Is Christmas](https://open.spotify.com/album/4p1Qw5G8LHuiV7Iz1cAyAj) | 2:59 |
 | 51 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\) \(duet with John Legend\)](https://open.spotify.com/track/1O9ML3Bv8XvQ3xWUVL0jj7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Christmas Song \(Chestnuts Roasting On An Open Fire\) \(duet with John Legend\)](https://open.spotify.com/album/6qSiSv2qh4fTiqjvmSQLCy) | 3:30 |
 | 52 | [Merry Christmas, Darling](https://open.spotify.com/track/6dehwS2DnlgK0S5EDg4p7X) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [HAPPINESS is…Christmas!](https://open.spotify.com/album/6CMgL701fxsN5Qb6pZN49j) | 4:04 |
 | 53 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/1ipD9uq7lzGAwGjfjXzdoa) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5ZsuWI1KwuIIjlhjEjpVri) | 2:51 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 69 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 | 70 | [Auld Lang Syne](https://open.spotify.com/track/1xLEZzyPlldPLRpbvQH3uO) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [The Christmas Album](https://open.spotify.com/album/3dtH58hWKPjBEiKXRs69PJ) | 1:44 |
 
-Snapshot ID: `MTY0MDI4MDUwNCwwMDAwMDAwMDJjODQzZjFlY2Q3MTNkMTU0ZDdjN2RmMTA0YmI4NGQ0`
+Snapshot ID: `MTY0MDI4MDUwNCwwMDAwMDAwMDJiMjVmNmE4NDIzZWI0MGQxNTgxNTJkYjYxM2ViMjhi`

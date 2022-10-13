@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:5ITI6SEoUZMIXXkzCfr4oE\">Aluna</a>'s favorite tracks. Updated regularly. Curated by Aluna. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 25472,
+  "num_followers": 25492,
   "original_name": "Aluna's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTUxNDk4OCwwMDAwMDAwMDBlZjYzODBjZjc0ZTRiN2QwNmE4OTI4YzZjNjFkMzFj",
+  "snapshot_id": "MTY2NTYwNzcxOCwwMDAwMDAwMDRmZGQzY2U3OWI5N2YzZGQzMjljNDIwYjQzN2UzZjQ5",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -51,6 +51,30 @@
       "duration_ms": 203383,
       "name": "MOVE (feat. Grace Jones & Tems)",
       "url": "https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g"
+    },
+    {
+      "added_at": "2022-10-12 20:48:38",
+      "album": {
+        "name": "Tell Me [VMIX]",
+        "url": "https://open.spotify.com/album/76pa55CcZvQaRyk5DOIbJ2"
+      },
+      "artists": [
+        {
+          "name": "RM47",
+          "url": "https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL"
+        },
+        {
+          "name": "MAAD",
+          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
+        },
+        {
+          "name": "Raleigh",
+          "url": "https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C"
+        }
+      ],
+      "duration_ms": 193891,
+      "name": "Tell Me [VMIX]",
+      "url": "https://open.spotify.com/track/3OStRo9VxvsqXWbdsry07j"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -239,22 +263,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "3 x 2 EP",
-        "url": "https://open.spotify.com/album/4dvYDMor2bCeiyQh7hK4dJ"
-      },
-      "artists": [
-        {
-          "name": "Bakongo",
-          "url": "https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo"
-        }
-      ],
-      "duration_ms": 308356,
-      "name": "Tribal Warrior",
-      "url": "https://open.spotify.com/track/5nlOnRGgf46AmVzyAPDPyh"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Sungba (Remix) [feat. Burna Boy]",
         "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
       },
@@ -271,6 +279,26 @@
       "duration_ms": 210000,
       "name": "Sungba (feat. Burna Boy) - Remix",
       "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
+    },
+    {
+      "added_at": "2022-10-12 20:48:38",
+      "album": {
+        "name": "Clockwork (feat. Spice)",
+        "url": "https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 152917,
+      "name": "Clockwork (feat. Spice)",
+      "url": "https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -291,6 +319,38 @@
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+    },
+    {
+      "added_at": "2022-10-12 20:48:38",
+      "album": {
+        "name": "Tukuntazo (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/5yEc7JEGFUFl4TZ0vSQXqY"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Tukuntazo (Austin Millz Remix)",
+      "url": "https://open.spotify.com/track/1qb5Uty8dhjbJUrHkTqttE"
     },
     {
       "added_at": "2022-10-11 19:03:08",
@@ -363,6 +423,22 @@
       "duration_ms": 195604,
       "name": "Nowhere To Hide",
       "url": "https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu"
+    },
+    {
+      "added_at": "2022-10-12 20:48:38",
+      "album": {
+        "name": "SunSystem",
+        "url": "https://open.spotify.com/album/2iZTwsFoNuV7KywtKM7lVT"
+      },
+      "artists": [
+        {
+          "name": "Lala &ce",
+          "url": "https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF"
+        }
+      ],
+      "duration_ms": 179186,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/0BJQL4uOXzJCwtVQO141SQ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -523,26 +599,6 @@
       "duration_ms": 241666,
       "name": "BASSMENT",
       "url": "https://open.spotify.com/track/7aP2IvCTcTorfqHYSOVz4u"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/4fgDSI70opc5iYRVcPBb5w"
-      },
-      "artists": [
-        {
-          "name": "Roska",
-          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
-        },
-        {
-          "name": "Murder He Wrote",
-          "url": "https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z"
-        }
-      ],
-      "duration_ms": 255004,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6u3r5ZllVScUXAHVSLsJVC"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1055,22 +1111,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "You'll Be the One",
-        "url": "https://open.spotify.com/album/0BNhlIIB8v4C60LyTOQYYj"
-      },
-      "artists": [
-        {
-          "name": "Khazali",
-          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
-        }
-      ],
-      "duration_ms": 213155,
-      "name": "You'll Be the One",
-      "url": "https://open.spotify.com/track/1XmHaSNqlrHEuQ5JIVjnlK"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Trouble - Spotify Singles",
         "url": "https://open.spotify.com/album/2m0Xqa3n7iERLXzSMUchf8"
       },
@@ -1403,8 +1443,8 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Tear the House Up",
-        "url": "https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju"
+        "name": "Tear The House Up",
+        "url": "https://open.spotify.com/album/7xRaM4csKANBCc9QHxQ6da"
       },
       "artists": [
         {
@@ -1418,7 +1458,7 @@
       ],
       "duration_ms": 280645,
       "name": "Tear the House Up",
-      "url": "https://open.spotify.com/track/2niTP3UJywDtTQj6dP1axR"
+      "url": "https://open.spotify.com/track/5NHMpUXObw7wi2cTjDIAPW"
     },
     {
       "added_at": "2022-09-30 04:00:00",

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
+    },
+    {
+      "album": {
         "name": "Handwritten (Deluxe Version)",
         "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
       },
@@ -685,7 +703,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 230026,
       "name": "Empty Walls",
       "url": "https://open.spotify.com/track/16pmJwwNFVCqdXWPZtwZzh"
@@ -1466,6 +1484,24 @@
     },
     {
       "album": {
+        "name": "What's It Like Over There?",
+        "url": "https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202838,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/3D8jabgtmZtDibyb6gqZOT"
+    },
+    {
+      "album": {
         "name": "...Like Clockwork",
         "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
       },
@@ -2093,7 +2129,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 190573,
       "name": "The Bitter End",
       "url": "https://open.spotify.com/track/3WBPiogtVDBSXK7uOpxJ6m"

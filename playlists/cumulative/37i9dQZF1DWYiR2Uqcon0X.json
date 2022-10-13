@@ -1180,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206986,
+      "name": "MARILYN",
+      "url": "https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg"
+    },
+    {
+      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
       },
@@ -1843,7 +1861,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 223776,
       "name": "what do i",
       "url": "https://open.spotify.com/track/2qG34SPqlVutAZwWe3q6iF"

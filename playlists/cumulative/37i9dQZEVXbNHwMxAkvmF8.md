@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-537 songs - 1 day 4 hr 26 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+539 songs - 1 day 4 hr 33 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Gyönyör](https://open.spotify.com/track/1FlCC0MovzszzvUi8lUmF3) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gyönyör](https://open.spotify.com/album/0oY3W5IWzrI58qN4aiOyQK) | 3:15 | 2022-09-02 | 2022-09-25 |
 | [Ha eddig nem kellettem](https://open.spotify.com/track/0WiQVffKlsnClBBKZ1K3Zj) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Ha eddig nem kellettem](https://open.spotify.com/album/0I4eY1zWo3VxDU15WPIkG2) | 3:35 | 2022-08-31 |  |
 | [Ha Elmegyek](https://open.spotify.com/track/2cHRseVmn2cfCChNmizemK) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Ha Elmegyek](https://open.spotify.com/album/0sOK2IcTaW8a5BctjWughl) | 3:27 | 2022-01-02 | 2022-03-04 |
-| [Ha meghalok](https://open.spotify.com/track/5o5F8K2f2J258y3ZpfU5Ii) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Ha meghalok](https://open.spotify.com/album/1xtToPt8kaJzsQFApViuJx) | 3:21 | 2022-04-20 |  |
+| [Ha meghalok](https://open.spotify.com/track/5o5F8K2f2J258y3ZpfU5Ii) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Ha meghalok](https://open.spotify.com/album/1xtToPt8kaJzsQFApViuJx) | 3:21 | 2022-04-20 | 2022-10-13 |
 | [Habibi](https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 2:41 | 2022-05-21 |  |
 | [Hajnalokig](https://open.spotify.com/track/2CilsBtWk8gwrTAYUmO7Xt) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Hajnalokig](https://open.spotify.com/album/2w8bawy6PfS6SuGv7WXuvX) | 2:34 | 2022-09-20 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-11-14 |
@@ -256,6 +256,7 @@
 | [Kék Hullám Kemping](https://open.spotify.com/track/5OdoKFV4DqciztFZG8WEcm) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Kék Hullám Kemping](https://open.spotify.com/album/0FByjXH7IkqHgOfJ0B1XTE) | 3:11 | 2021-07-22 | 2021-10-02 |
 | [Kérdőjelek és a válaszok](https://open.spotify.com/track/17jtfrOhR0AqiiZHEBe9Qs) | [Ivan & The Parazol](https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8), [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Kérdőjelek és a válaszok](https://open.spotify.com/album/3DxbwWvxCUhnLDIUyFi1v9) | 2:58 | 2021-11-21 | 2021-11-27 |
 | [Késő már](https://open.spotify.com/track/3FuvMgmA7axMw9sps0JM4x) | [Mehringer Marci](https://open.spotify.com/artist/5F3j6uAy19mqLhQy50x1At) | [Késő már](https://open.spotify.com/album/1qT0n9ADqn8uQh03ruCnq5) | 2:13 | 2021-11-10 | 2021-12-16 |
+| [Körforgalom](https://open.spotify.com/track/62PcQw5WFsENhAxufi3slu) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Körforgalom](https://open.spotify.com/album/3tOag75czA6HzZQfDOQ8bG) | 3:10 | 2022-10-12 |  |
 | [labtorlorekakiltam.mp3](https://open.spotify.com/track/0OsukLOsU4j2d698vrdTOC) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 0:52 | 2022-03-12 | 2022-03-16 |
 | [Lassított Felvétel](https://open.spotify.com/track/215ivkVJmNk338IEwN66qC) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Paranoia](https://open.spotify.com/album/40oR75NLHfJOhC3gSX5khZ) | 2:47 | 2021-12-10 | 2022-01-29 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-11-28 | 2021-12-30 |
@@ -309,6 +310,7 @@
 | [Mind1](https://open.spotify.com/track/0urTgP4nVlcZuiMVAUepCQ) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Mind1](https://open.spotify.com/album/6WjneBV2BQdpZckZ1FUM9j) | 3:11 | 2021-06-01 | 2022-05-31 |
 | [Mind1](https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 3:11 | 2022-05-21 | 2022-10-12 |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-05-09 | 2021-05-16 |
+| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-12 |  |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-07 | 2021-12-29 |
 | [Miért ne](https://open.spotify.com/track/3qfYWoDFsgihDzoJLASMX5) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Szörnyeteg](https://open.spotify.com/album/3fwAWokcyYJTxZWDsyOjYm) | 3:13 | 2021-07-31 | 2021-09-05 |
 | [Miért ne](https://open.spotify.com/track/6j8KIZyA2tM4Uo2oAK1naA) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Miért ne](https://open.spotify.com/album/6BKJvyON6QQt5yrilhdp5h) | 3:13 | 2021-07-21 | 2021-07-31 |
@@ -434,7 +436,7 @@
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-10 | 2021-05-10 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-07 | 2021-12-29 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-25 | 2022-07-31 |
-| [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 |  |
+| [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 | 2022-10-13 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-11-30 | 2021-12-31 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-17 | 2022-04-10 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-14 |

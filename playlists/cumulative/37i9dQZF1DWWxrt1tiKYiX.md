@@ -4,7 +4,7 @@
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: Demi Lovato
 
-130 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
+131 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Train Wreck \- Acoustic](https://open.spotify.com/track/043T1ZzD0qHoesyfZhseGn) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Train Wreck \(Acoustic\)](https://open.spotify.com/album/6z6jD5mmTJ5Zr7HRA3C0WQ) | 3:29 | 2022-01-28 |  |
 | [Trampoline \- Stripped](https://open.spotify.com/track/7HHSCN8qAcPBKqNolT5qBg) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Trampoline \(Stripped\)](https://open.spotify.com/album/6RPcqbYgcBZw5pSkPfnALB) | 3:38 | 2022-01-28 |  |
 | [Victoria’s Secret \- Piano Stripped](https://open.spotify.com/track/50skDNkr45SubYkVWC4YOi) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret \(Piano Stripped\)](https://open.spotify.com/album/7cKckU7FmpUFnt94PUibaU) | 2:55 | 2022-10-08 |  |
-| [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/1atfZeWvJu5xxAUJ9Mj9Qs) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1AJ5uDWMN8DYbaIXAVxU7U) | 3:36 | 2022-01-28 |  |
+| [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/1atfZeWvJu5xxAUJ9Mj9Qs) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1AJ5uDWMN8DYbaIXAVxU7U) | 3:36 | 2022-01-28 | 2022-10-13 |
+| [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/65qUxWlmERiGKra1tteQyB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1wJymTwoSi9WFWkLwlc0P6) | 3:36 | 2022-10-08 |  |
 | [When You're Gone \- Acoustic](https://open.spotify.com/track/3KrfUt1cYSbkBpstlITPkp) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone \(Acoustic\)](https://open.spotify.com/album/3xlMYD2dXpt1EF0xQIA2lj) | 3:08 | 2022-05-13 |  |
 | [willow \- lonely witch version](https://open.spotify.com/track/0U0etHtpARihOUUY8Akc7y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(lonely witch version\)](https://open.spotify.com/album/77wvNMSdOowJgpJx1kcKqc) | 3:34 | 2022-01-28 |  |
 | [Wish It Would Rain \- Piano Version](https://open.spotify.com/track/1N0VH1ox2VN1u19j0HkIVP) | [Londin Thompson](https://open.spotify.com/artist/2Sh4jX7pEUGGccmg4f7oKw) | [Wish It Would Rain \(Piano Version\)](https://open.spotify.com/album/34bQ1ACZOV5ynaJuePpqVr) | 3:46 | 2022-01-28 |  |

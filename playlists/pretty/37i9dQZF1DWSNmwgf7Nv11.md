@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,146 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,269 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 47 | [White Roses](https://open.spotify.com/track/5xxHfQuaXGEBHtsGbSXwI7) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [White Roses](https://open.spotify.com/album/01vINTMNqHsxWYTo9HZVJk) | 3:26 |
 | 48 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
 | 49 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 |
-| 50 | [Maybe](https://open.spotify.com/track/5UaSj2MSrh6AU9ZiU9IYHy) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Maybe](https://open.spotify.com/album/3jm07S9cFjyxY7kJ0cPuUx) | 4:06 |
+| 50 | [Maybe](https://open.spotify.com/track/3zhiMb4QNcU5nbrjUK9Xx9) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Maybe](https://open.spotify.com/album/2XHcleSj4IH0a8uKZNn9Tt) | 4:06 |
 | 51 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
 | 52 | [The Giver](https://open.spotify.com/track/5bamaE0kFXh3Sf8fcVe3rN) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:15 |
 | 53 | [We Don't Get More Time](https://open.spotify.com/track/5fuSpSp9IFwS4Iu239L5Nv) | [I See Rivers](https://open.spotify.com/artist/50y0b4AuxvWpH2jlNqGMmg) | [We Don't Get More Time](https://open.spotify.com/album/1A7VyATvNpZqW6U7AqH24C) | 2:36 |
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 125 | [Jungle](https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle](https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY) | 5:15 |
 | 126 | [Bronze \- Acoustic](https://open.spotify.com/track/0lmDEvJrYoNGB7WwH4YsLD) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. III](https://open.spotify.com/album/3QcsQCJT7QmIlPdVznpsmv) | 3:38 |
 | 127 | [Still Clean](https://open.spotify.com/track/3z34424BttGlU2lTT3CneM) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 4:01 |
-| 128 | [Doing the Right Thing](https://open.spotify.com/track/5xz16gO1U2r3aSukjhgMZs) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Not to Disappear](https://open.spotify.com/album/2pN1kvmyK2OoIHQAqou65I) | 5:14 |
+| 128 | [Doing the Right Thing](https://open.spotify.com/track/5H3jYJObhvC6wHLqoUzN9b) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Not to Disappear](https://open.spotify.com/album/7G9JDNnxBCZdw9thmX5auQ) | 5:14 |
 | 129 | [Every Other Freckle](https://open.spotify.com/track/6BVBkKpZK09NmifUMZqj1z) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 3:36 |
 | 130 | [Blind Man \(Gionna Lee Remix\)](https://open.spotify.com/track/1dx7c3AyA4F9m82gXMqSQU) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Blind Man \(Gionna Lee Remix\)](https://open.spotify.com/album/6N6i6STxE8KkiZ4oD2v128) | 3:33 |
 | 131 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 |
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 135 | [Triptych](https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:06 |
 | 136 | [Sadness Is Taking Over](https://open.spotify.com/track/6Eos3ejwtcIinRuYDF1jim) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Nothing Lasts Forever \(And It's Fine\)](https://open.spotify.com/album/4cyvsgs2Sx5JeVqOkXZdSe) | 3:48 |
 | 137 | [The Prettiest](https://open.spotify.com/track/03u5zk56QoyyjQxFIssTrb) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Night](https://open.spotify.com/album/4TChvo17exZYItxs4JnP99) | 3:18 |
-| 138 | [Hurts to liv](https://open.spotify.com/track/72KDkzE12InC0ahlMc5vqj) | [liv](https://open.spotify.com/artist/7nmgl15vMVoESrB2SZUWlC) | [Hurts to liv](https://open.spotify.com/album/5sdsiygIgqaeulsPlq8gq8) | 5:02 |
+| 138 | [Hurts to liv](https://open.spotify.com/track/0Qr0rDGtKmoq0LRqvU4P9H) | [liv](https://open.spotify.com/artist/7nmgl15vMVoESrB2SZUWlC) | [Hurts to liv](https://open.spotify.com/album/4QqwfjmRKK1dBNK8lz8ecq) | 5:02 |
 | 139 | [Better Still](https://open.spotify.com/track/3lhcKkCSj2roKSRkdyYGBr) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Better Still](https://open.spotify.com/album/76jcRAzqVmJ4nyAYUybgMi) | 3:55 |
 | 140 | [Send Me Away](https://open.spotify.com/track/7zMGgwV7iV4fL3zqP1EjjN) | [Steve Tyssen](https://open.spotify.com/artist/5jyPnkEhFmcxXHpGzQavhk) | [Send Me Away](https://open.spotify.com/album/5gDfrinkxK2nBZskaeub7l) | 3:22 |
 | 141 | [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/1Lp6ewfK7ABZWemResfRyK) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/3Xk3lT15u68kn5kxyCdGGs) | 3:48 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 159 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 160 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDM0MDI4ZWE2MWVkMzE5ZTIxMjY5ZWVlOTZjNTExMDg4`
+Snapshot ID: `MTY0NTgyNDUyMSwwMDAwMDAwMDUwMjJmNzI3ZjhlZDQ1OTEzOGEyNTAzN2ZiODY0ODFh`

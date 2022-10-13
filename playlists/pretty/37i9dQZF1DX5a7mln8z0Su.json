@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 4121,
+  "num_followers": 4137,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODgyMSwwMDAwMDAwMDc4NGZmNjM1ZmFkMGM2YTRmNDgwZWIzMjBkNDM0ZDU3",
+  "snapshot_id": "MTY2NTExODgyMSwwMDAwMDAwMDM4ZThiNWFlM2UzNjhjYWVjN2U2MWNlYjdkZjUyNzU4",
   "tracks": [
     {
       "added_at": "2022-10-04 14:54:21",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-10-04 14:54:21",
       "album": {
+        "name": "Je N\u2032aime Que Toi",
+        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Je N\u2032aime Que Toi",
+      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
+    },
+    {
+      "added_at": "2022-10-04 14:54:21",
+      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
@@ -607,6 +623,22 @@
     {
       "added_at": "2022-10-04 14:54:21",
       "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "Love is alone",
+      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+    },
+    {
+      "added_at": "2022-10-04 14:54:21",
+      "album": {
         "name": "Blank",
         "url": "https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk"
       },
@@ -627,22 +659,6 @@
     {
       "added_at": "2022-10-04 14:54:21",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
-    },
-    {
-      "added_at": "2022-10-04 14:54:21",
-      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 235693,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
-    },
-    {
-      "added_at": "2022-10-04 14:54:21",
-      "album": {
-        "name": "Je N\u2032aime Que Toi",
-        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
-      },
-      "artists": [
-        {
-          "name": "oftn",
-          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Je N\u2032aime Que Toi",
-      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
     },
     {
       "added_at": "2022-10-04 14:54:21",
@@ -779,18 +779,22 @@
     {
       "added_at": "2022-10-04 14:54:21",
       "album": {
-        "name": "monochrome",
-        "url": "https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx"
+        "name": "Hold tight",
+        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
       },
       "artists": [
         {
-          "name": "Kisnue",
-          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        },
+        {
+          "name": "Jaw",
+          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
         }
       ],
-      "duration_ms": 261941,
-      "name": "monochrome",
-      "url": "https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k"
+      "duration_ms": 174975,
+      "name": "Hold tight",
+      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
     },
     {
       "added_at": "2022-10-04 14:54:21",
@@ -831,22 +835,18 @@
     {
       "added_at": "2022-10-04 14:54:21",
       "album": {
-        "name": "Hold tight",
-        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
+        "name": "monochrome",
+        "url": "https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        },
-        {
-          "name": "Jaw",
-          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
+          "name": "Kisnue",
+          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
         }
       ],
-      "duration_ms": 174975,
-      "name": "Hold tight",
-      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
+      "duration_ms": 261941,
+      "name": "monochrome",
+      "url": "https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k"
     },
     {
       "added_at": "2022-10-04 14:54:21",

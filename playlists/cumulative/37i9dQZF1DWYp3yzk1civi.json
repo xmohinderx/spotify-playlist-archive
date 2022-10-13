@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/2hF3Z7WIOHkZwsm3rFPla1"
+      },
+      "artists": [
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154043,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1CN3tvx826AiRlcZSKjGdl"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/44exvz3EXFURPy4cs0YXcb"
       },
@@ -401,7 +419,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 154043,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/6DsnPRnJLUUtzKrVVwUiAT"

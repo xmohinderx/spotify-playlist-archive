@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,491 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,531 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 47 | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/track/0WF0028K8mwsg2A4C1cm6p) | [The Doggett Brothers](https://open.spotify.com/artist/5JRS1wbye5NN8Pfgixxofg), [Laura Jackson](https://open.spotify.com/artist/4nNJsw5eLM1kBcGMMZJOAu), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt) | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/album/21zO039GPjGBWUdzowcofq) | 5:36 |
 | 48 | [Listen 4 My Love](https://open.spotify.com/track/5Kd14oUKVX79Q9cIbdbs5r) | [Funk LeBlanc](https://open.spotify.com/artist/3iEbz4zyLq1ac5GQKLR8jx), [Holland Greco](https://open.spotify.com/artist/0iIgks1r7y9TI5y9A6uiXB) | [Listen 4 My Love](https://open.spotify.com/album/5VQ8RTuQrPNGcz5f4tB45B) | 4:42 |
 | 49 | [Somebody](https://open.spotify.com/track/6XpxS5kzpwI78G2LCOLbtt) | [Doom Flamingo](https://open.spotify.com/artist/0b94jN9hNa6rBGfzOcZAMr) | [Flamingo](https://open.spotify.com/album/7hUB77UPPKrq7ro38hkdR0) | 3:54 |
-| 50 | [Skin on Skin](https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av) | 3:03 |
+| 50 | [Skin on Skin](https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e) | 3:03 |
 | 51 | [No Apologies](https://open.spotify.com/track/34xXBHLrnUS2QzE6J5Et8G) | [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [No Apologies](https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3) | 2:38 |
 | 52 | [Cherry On The Top](https://open.spotify.com/track/0hP7EN4IJ57vtvuLcpIshG) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Cherry On The Top](https://open.spotify.com/album/0q0RKHpJIHpNM1QDjnBCht) | 5:18 |
 | 53 | [Every Word \- Radio Edit](https://open.spotify.com/track/145kUDDfoiTzNGVPvem4Xm) | [Darryl Jordan](https://open.spotify.com/artist/07rLy29kxUhgrXwXL8p7jt), [Giman](https://open.spotify.com/artist/75nakAajlHkjK1yMhNPoB1), [Chic\_Ago](https://open.spotify.com/artist/2O0TP0gKFhi1L3T6m2BJXG) | [Every Word](https://open.spotify.com/album/0liZQlGjXRohYLNk5jkquK) | 4:06 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 60 | [Girls](https://open.spotify.com/track/1LFu0JwC7x6CFLc6jpRKzH) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Girls](https://open.spotify.com/album/5pmNkvkpQCHdFvdbwEM2aa) | 3:24 |
 | 61 | [Crush](https://open.spotify.com/track/7GkmADl4mQgmk9x1upnjjN) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt), [Adesha](https://open.spotify.com/artist/24dFswAz2Xxqyju3SqasUw) | [Crush](https://open.spotify.com/album/5DsyOlmMeQK9kdnir41SXe) | 2:46 |
 | 62 | [Ready](https://open.spotify.com/track/5Rszih77oz5igI9wMzOBPs) | [A\-P Connection](https://open.spotify.com/artist/6uJ3byxMvAQqbWpns9Upgc), [Ryan Konline](https://open.spotify.com/artist/6p7EZVSaTUSHSYRafzVy4z) | [Ready](https://open.spotify.com/album/4vLs8sUIWujaVJqxKklXe9) | 4:24 |
-| 63 | [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 |
+| 63 | [10 Years](https://open.spotify.com/track/6N6HSN3zytFXva8LTUUvIL) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/3qSyv2svKxAypN9AsWVm92) | 2:46 |
 | 64 | [Just Like Dope](https://open.spotify.com/track/04nBW6rzcc3cNCljAwDqBx) | [Throwback Zack](https://open.spotify.com/artist/75csMNFe2KTbVYOko3sLzv) | [Funk Junkie](https://open.spotify.com/album/1IF1xqJ4PlH16gZvMv9iLi) | 4:19 |
 | 65 | [Toast to Life](https://open.spotify.com/track/4r0TXr9QGmepTa2trPcMUf) | [Funk LeBlanc](https://open.spotify.com/artist/3iEbz4zyLq1ac5GQKLR8jx), [Holland Greco](https://open.spotify.com/artist/0iIgks1r7y9TI5y9A6uiXB) | [Toast to Life](https://open.spotify.com/album/306KzxQI9dCLC49xT2FfiE) | 3:40 |
 | 66 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 79 | [More](https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO) | 3:03 |
 | 80 | [Keep It Working](https://open.spotify.com/track/37prvjDLAyANTa26VVggl3) | [The Pendletons](https://open.spotify.com/artist/7LzEoX1kEvrogY1Vc5bl55), [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp) | [2 Steps Away](https://open.spotify.com/album/6iUteCVnLSRnsGVgUKlQku) | 3:13 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGZjNmJiNGE4YWY2MDQ3ZDYxYmZiMWNiZmU3MGYxYmUw`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGM0YWE0MzJlZGMyNzBlNjhlZTFmMDBjMTU2YzU4ZDc5`

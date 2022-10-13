@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas portuguesas, como Nena, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,847 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,851 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 25 | [Sentido](https://open.spotify.com/track/6EFzJTt6mCX3bogw6mlfaa) | [Isabella Bretz](https://open.spotify.com/artist/0MNi6Dw2rsbVIsUiWUGK8s), [Rodrigo Lana](https://open.spotify.com/artist/69wkhPFqXSxmeBL8f6D0Fs), [Katerina L'dokova](https://open.spotify.com/artist/5r5JuV2FowaxIOFXNVjmAl), [Lucas Telles](https://open.spotify.com/artist/5GbIjlY1tT2LGFAvY6QQ8G) | [Sentido](https://open.spotify.com/album/2hH09q8R0X4uRNGilln7pr) | 4:22 |
 | 26 | [Planície](https://open.spotify.com/track/5ly7oWQubrGHMX7hDlfMbs) | [Mafalda Veiga](https://open.spotify.com/artist/5bD6psQfhLXvadNAD0VttX) | [Pássaros Do Sul](https://open.spotify.com/album/3IllIXiRES3iGE8AcYP64h) | 4:17 |
 | 27 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 |
-| 28 | [Sausalito](https://open.spotify.com/track/58NbKFlfq0nkU1oM56ukYd) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Sausalito](https://open.spotify.com/album/1nCA0AlzAIQQdJA1hwUr0Z) | 2:09 |
+| 28 | [Sausalito](https://open.spotify.com/track/215NAD3uaae41QNasxDVEB) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Sausalito](https://open.spotify.com/album/5clvalzSamRsnrgAVv82Ss) | 2:09 |
 | 29 | [Mar Azul](https://open.spotify.com/track/5gJyW5NeOsfNa2CSMES2h3) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Mar Azul](https://open.spotify.com/album/0pDADbq5FFUMkls9VeYW9g) | 3:13 |
 | 30 | [Não vai lá](https://open.spotify.com/track/3soU1YzHXcd4nsIjpJmMgK) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Não vai lá](https://open.spotify.com/album/7MkzilGO9QcuASMQuDW0a9) | 3:07 |
 | 31 | [Talvez...](https://open.spotify.com/track/65BXCyoVQ1sSGj0z6UxRcL) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Talvez...](https://open.spotify.com/album/0o8AGwMQunsC0QMOk4hZt3) | 3:04 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 50 | [Bem Perto](https://open.spotify.com/track/7JNtgj9GCVlhUC4oGyR90u) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Bem Perto](https://open.spotify.com/album/64mVaFwyn0iMAd2xV1Y9xH) | 3:11 |
 | 51 | [Barco Negro \- Live In Japan](https://open.spotify.com/track/7cOt0FxNrUM4EVtqVXUlSh) | [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [Amália Rodrigues Live In Japan \(2022 Edition\)](https://open.spotify.com/album/5bjeDouS3uV4Vz0TnQq3yp) | 5:14 |
 
-Snapshot ID: `MTY2NDkyNDQwMCwwMDAwMDAwMDBjMTU0NjJhYjRmNjFlMDdiOTY0MDIzYWFlZTUzNTNi`
+Snapshot ID: `MTY2NDkyNDQwMCwwMDAwMDAwMDEwMGIzYzNkNzI4MjgxOGRhZWYxNGM0NDkxNDVmMWI3`

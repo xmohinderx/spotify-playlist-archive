@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7srJwuLUWi.md) - [plain]
 
 > Listen to the soundtracks of JTBC's drama Golden Spoon and the 'Songs with Ambition & Emotions to Become a Golden Spoon' selected by the actors themselves! \(JTBC 드라마 금수저의 사운드 트랙들과 배우진들이 직접 뽑은 '금수저가 되기 위한 야망 & 감성이 담긴 노래들'을 들어보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 24 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 24 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

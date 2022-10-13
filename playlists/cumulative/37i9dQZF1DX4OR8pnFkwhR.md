@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bleecker Chrome/ <br/> Early Noise Night\#14プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。
 
-447 songs - 1 day 2 hr 57 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+449 songs - 1 day 3 hr 4 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Cheers](https://open.spotify.com/track/1BjNUu608nOEvEtMETFnlB) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Cheers](https://open.spotify.com/album/2o9dAH1dNC3UD1gbIr8RN5) | 3:52 | 2022-05-31 | 2022-07-13 |
 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 | 2022-10-11 |  |
 | [comedy](https://open.spotify.com/track/3eLopqgxulNGjdgBVPCmvW) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0WAltRUelTPVhbvhJCIF6d) | 3:36 | 2022-05-31 | 2022-06-19 |
-| [coming back](https://open.spotify.com/track/4rk7dX6JOIOjQuTbx72PUI) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [coming back](https://open.spotify.com/album/0oPJxMww7r09gyze9ZnqI4) | 3:29 | 2022-10-11 |  |
+| [coming back](https://open.spotify.com/track/4rk7dX6JOIOjQuTbx72PUI) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [coming back](https://open.spotify.com/album/0oPJxMww7r09gyze9ZnqI4) | 3:29 | 2022-10-11 | 2022-10-13 |
+| [Coming Back](https://open.spotify.com/track/6GrOZYmO4cbVHGz5IGWjd7) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Coming Back](https://open.spotify.com/album/60RRYz2U7iQkuYRvIoAXsn) | 3:29 | 2022-10-11 |  |
 | [Control](https://open.spotify.com/track/1HHsbyjm4B1ndvUygoKuLu) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Frontier](https://open.spotify.com/album/6q1nEC2UBlCSkaUXCblGyN) | 3:37 | 2022-07-19 | 2022-07-29 |
 | [Control](https://open.spotify.com/track/6dtdMzhCicbyXYsR9oEXwm) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Frontier](https://open.spotify.com/album/6OP3fToKPWz8rEgyf4Le2e) | 3:37 | 2022-07-28 | 2022-08-10 |
 | [crash](https://open.spotify.com/track/0M8fxdsZtUTqo4bD1HxOng) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [crash](https://open.spotify.com/album/1H9MBQi6MUPyVq4oXWEtz8) | 2:46 | 2022-06-07 | 2022-07-01 |
@@ -85,7 +86,8 @@
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2022-07-12 | 2022-08-24 |
 | [Florida](https://open.spotify.com/track/6F3neIaphDdTjV4cGivHOg) | [itachi](https://open.spotify.com/artist/20xzByUKmZViuEx3OIf0yo) | [Florida](https://open.spotify.com/album/4XYhmwSli2isT42Tle10Ux) | 2:52 | 2022-07-21 | 2022-08-17 |
 | [FOG](https://open.spotify.com/track/3rpdmGoD12xblXFiTyKyFF) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [FOG](https://open.spotify.com/album/5Fi9k1K3IBJV3W7x6FDDTi) | 3:22 | 2022-05-17 | 2022-06-01 |
-| [Foolish \- with SUKISHA](https://open.spotify.com/track/42oZVEWRITDxCvulC8qnCA) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm), [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [風を頼りに](https://open.spotify.com/album/4hbDPyrGSEg9KhMpDxK9fC) | 3:35 | 2022-10-11 |  |
+| [Foolish \- with SUKISHA](https://open.spotify.com/track/2NlcMEvOIaFIIKHQ6YKFiR) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm), [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Rely on the Wind](https://open.spotify.com/album/0nlAOQ1jNIX3zXgpTxrpn8) | 3:35 | 2022-10-11 |  |
+| [Foolish \- with SUKISHA](https://open.spotify.com/track/42oZVEWRITDxCvulC8qnCA) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm), [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [風を頼りに](https://open.spotify.com/album/4hbDPyrGSEg9KhMpDxK9fC) | 3:35 | 2022-10-11 | 2022-10-13 |
 | [Free](https://open.spotify.com/track/0rIweEdu6BVuISxVYcllvp) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [W.O.L.F](https://open.spotify.com/album/0r1Yl2QyFlTSsGIcxM26bV) | 3:02 | 2022-03-08 | 2022-04-06 |
 | [Free](https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Free](https://open.spotify.com/album/74BcG9pHH1R3OJRVBiKC8g) | 3:02 | 2022-02-17 | 2022-02-23 |
 | [Freezin' Cold](https://open.spotify.com/track/6bEaHOVgu3Srz17tvh3FEA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Born Again](https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc) | 4:19 | 2022-02-17 | 2022-03-09 |

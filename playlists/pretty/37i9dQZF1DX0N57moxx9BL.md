@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Crank up the recent hits of Christian rock\.  Cover artist: Wolves At The Gate
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,573 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,630 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 39 | [Standing in the Storm](https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Standing in the Storm / Surviving The Game](https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG) | 4:17 |
 | 40 | [Before I Cave In](https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Before I Cave In](https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr) | 4:20 |
 | 41 | [Awakening](https://open.spotify.com/track/7FR48bbJ4rMj6VbcMj1S0O) | [Relesser](https://open.spotify.com/artist/2mUGKlvJrS87MDsEFAXIBE) | [Release](https://open.spotify.com/album/3ES159pwFUduOUXzDaxwv3) | 3:21 |
-| 42 | [Fear](https://open.spotify.com/track/26VRGLG9WTk8GjTnxSjuLH) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5SQnp6ujMnSkSCOQg2g0PV) | 3:45 |
+| 42 | [Fear](https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm) | 3:45 |
 | 43 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 |
 | 44 | [Burn Back the Sun](https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Acoustic \- EP](https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA) | 3:59 |
 | 45 | [The Fire Itself](https://open.spotify.com/track/0qrjqzcP1kbhtKD2HfODmy) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [The Fire Itself](https://open.spotify.com/album/5Oo7UOjikKgfz36UDS1RAW) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [Erase](https://open.spotify.com/track/5ZCEWXE5I4l6x76GZA2Xby) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Long Live the Rebels](https://open.spotify.com/album/15add9fux55wlIQygXNPz9) | 4:03 |
 | 75 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 |
 
-Snapshot ID: `MTY0NzAyNjExNywwMDAwMDAwMGExNDUxZDg5NTgwOWI4NTIzYWJmNzgzZjMxNDdkYTA4`
+Snapshot ID: `MTY0NzAyNjExNywwMDAwMDAwMDFiNjcwYTQxMjQ0OTJjODE4NmQzODU3YTRmMjhhNzM4`

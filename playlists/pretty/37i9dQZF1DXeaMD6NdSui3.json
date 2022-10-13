@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 96529,
+  "num_followers": 96567,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDdlMTNhZjUwMDQzMjA4Y2U1YzU4Y2U3MDRiZTI2NDNh",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGRkMjQ4NDUzNmVjNWZlMjFhMmUxODhiMzVlMjAwM2Y4",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Too Much is not enough",
         "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 189040,
-      "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
-      "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
+      "duration_ms": 141106,
+      "name": "Honest I Do (feat. Gary Clark, Jr.)",
+      "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Too Much is not enough",
         "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 141106,
-      "name": "Honest I Do (feat. Gary Clark, Jr.)",
-      "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
+      "duration_ms": 189040,
+      "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
+      "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/0uLlDxqX6uatonJwjodv2Q"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Return Of The Radio Avengers",
-        "url": "https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op"
-      },
-      "artists": [
-        {
-          "name": "Ezra Charles",
-          "url": "https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "88 Answers",
-      "url": "https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY"
-    },
-    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Deep In The Heart",
@@ -667,6 +651,22 @@
       "duration_ms": 293373,
       "name": "My Texas Home",
       "url": "https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Return Of The Radio Avengers",
+        "url": "https://open.spotify.com/album/3xkv0QNIZTbz5Z4FIFM6op"
+      },
+      "artists": [
+        {
+          "name": "Ezra Charles",
+          "url": "https://open.spotify.com/artist/5TIgW7vGG3wjwmhg7ESxxa"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "88 Answers",
+      "url": "https://open.spotify.com/track/6JtIMcTWy29xpiTmhMOpnY"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -759,26 +759,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Texas Bluesmen",
-        "url": "https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m"
-      },
-      "artists": [
-        {
-          "name": "Texas Bluesmen",
-          "url": "https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1"
-        },
-        {
-          "name": "Robert Ealey",
-          "url": "https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd"
-        }
-      ],
-      "duration_ms": 385453,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Electric Blues",
         "url": "https://open.spotify.com/album/0Diw0JIhBoHfVxcmvGUHlI"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 299853,
       "name": "I'm About to Lose My Mind",
       "url": "https://open.spotify.com/track/2TPntNWBQ4a4pW9AWsIOHd"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Texas Bluesmen",
+        "url": "https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m"
+      },
+      "artists": [
+        {
+          "name": "Texas Bluesmen",
+          "url": "https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1"
+        },
+        {
+          "name": "Robert Ealey",
+          "url": "https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd"
+        }
+      ],
+      "duration_ms": 385453,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe"
     },
     {
       "added_at": "2018-02-27 16:43:49",

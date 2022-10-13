@@ -4,7 +4,7 @@
 
 > Sleater\-Kinney, in celebration of their new album "Path of Wellness," co\-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive.
 
-110 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
+111 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Bombay](https://open.spotify.com/track/0IwDK2oWehrQ7cv4nA4rj5) | [Sleep Good](https://open.spotify.com/artist/5Fon6tb20oHkqBcePzyJy3) | [Bohemian Grove](https://open.spotify.com/album/0UHxWn1bDOZEGXznuz5oU3) | 3:44 | 2021-06-11 |  |
 | [Bombay](https://open.spotify.com/track/76g6YBOwh714ivn1zeSbCL) | [Sleep Good](https://open.spotify.com/artist/5Fon6tb20oHkqBcePzyJy3) | [Bohemian Grove](https://open.spotify.com/album/3c18ecpUu7nRe2nyVWOYnm) | 3:44 | 2021-06-11 | 2022-07-29 |
 | [Bright Yellow Gun](https://open.spotify.com/track/5B4M7SIVdfoclqKoSbvykA) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/5DrPmYzVSJwbRboOJQbqqS) | 3:43 | 2021-06-11 | 2022-07-29 |
-| [Bright Yellow Gun](https://open.spotify.com/track/6Addv8fHU00jjDoWYGtSMa) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/6Lhb12HmS4gx0lOVrdXjWz) | 3:43 | 2021-06-11 |  |
+| [Bright Yellow Gun](https://open.spotify.com/track/5ZIDI3l4PZOQ40OfzaKChO) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/1vVQEsE0szv3T5nf7IrZKr) | 3:43 | 2021-06-11 |  |
+| [Bright Yellow Gun](https://open.spotify.com/track/6Addv8fHU00jjDoWYGtSMa) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/6Lhb12HmS4gx0lOVrdXjWz) | 3:43 | 2021-06-11 | 2022-10-13 |
 | [Cannonball](https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61) | 3:33 | 2021-06-11 | 2022-07-29 |
 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2021-06-11 |  |
 | [Celebrity Skin](https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj) | 2:42 | 2021-06-11 | 2022-07-29 |

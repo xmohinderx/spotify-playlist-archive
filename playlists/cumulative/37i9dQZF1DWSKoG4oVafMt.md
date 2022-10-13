@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-578 songs - 1 day 7 hr 16 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+579 songs - 1 day 7 hr 19 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [Tod Gayi](https://open.spotify.com/track/77rovUbI0HYyc1AMjvWvp5) | [Khan Saab](https://open.spotify.com/artist/1Y2YoNjhDco7zu09ZtiEjM), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Tod Gayi](https://open.spotify.com/album/2UKewxdeFG7QX7dszVholW) | 3:08 | 2022-03-29 | 2022-04-29 |
 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 | 2021-12-02 |  |
 | [Touch](https://open.spotify.com/track/7N1GIRDrB1l14np1AT6EED) | [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd), [Rameet Sandhu](https://open.spotify.com/artist/3DvttNUNkwPw64Hp3BFsEP) | [Touch](https://open.spotify.com/album/7xbXd6O3AFkSHBeCnZ14Gi) | 3:09 | 2022-07-15 | 2022-08-18 |
+| [Trouble Maker](https://open.spotify.com/track/3TAVm9vSyDhvTEHcdVesjV) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Mxrci](https://open.spotify.com/artist/2Nqey0jwMuyuUKuQ8f1d7D) | [Trouble Maker](https://open.spotify.com/album/7watxaAZ25ax1NQHbduhgU) | 2:38 | 2022-10-12 |  |
 | [Tu Hi Das De](https://open.spotify.com/track/65hNUaQSau704UtsRZVhKy) | [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Simar Panag](https://open.spotify.com/artist/17wXdpGNHQ2vJ1ccoToqGC), [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Tu Hi Das De](https://open.spotify.com/album/5ZYR477Cw4aZu3NDhBKXrW) | 2:52 | 2021-12-02 |  |
 | [Tu Jaanda Ae](https://open.spotify.com/track/68inwrhs0ggPlJhlqVHuCM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Tu Jaanda Ae](https://open.spotify.com/album/1LD9gtlHV6Mh4aeke1ebOw) | 4:10 | 2022-03-29 | 2022-04-06 |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-02-24 | 2022-04-06 |

@@ -4,7 +4,7 @@
 
 > This is the best of today's true alternative rock scene.
 
-216 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
+217 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Black Holes \(Solid Ground\)](https://open.spotify.com/track/38qsRkTKBEHhy8DEfT3vig) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes \(Solid Ground\)](https://open.spotify.com/album/1WVS7Ah9lx0SsSyW9QRjzC) | 3:05 | 2021-03-31 | 2022-04-29 |
 | [Body Talks](https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [YOUNG&DANGEROUS](https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g) | 2:58 | 2021-03-31 |  |
 | [Boilermaker](https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Boilermaker](https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7) | 3:29 | 2021-04-23 | 2022-03-01 |
+| [Boy](https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI) | 3:21 | 2022-04-29 |  |
 | [Boy](https://open.spotify.com/track/6N21ZBtnE0DoofBpoqpNed) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/27l9RTaXrZdE3FL4wTjenz) | 3:21 | 2022-01-14 | 2022-07-28 |
 | [Broken Bones](https://open.spotify.com/track/0fnYEb4IPNMlv46bZweUu8) | [CRX](https://open.spotify.com/artist/4NfVXEoTZVX7rpJSZEVGLg) | [Broken Bones](https://open.spotify.com/album/30gnL7UUcLHZsXYtMsxgfE) | 3:31 | 2021-03-31 | 2022-04-29 |
 | [Bubblegum Infinity](https://open.spotify.com/track/3et7oRd1VMvQ3805uuor7N) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 3:10 | 2022-04-29 |  |
@@ -47,7 +48,7 @@
 | [Call Me the West \(with The Dead Deads\)](https://open.spotify.com/track/5RKOybryugxajbMOTU9aIl) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q), [The Dead Deads](https://open.spotify.com/artist/5WGrqaw1HnSJTslqdqZKOj) | [Dead West](https://open.spotify.com/album/5KpwOCB78vI5n4jYCJknU2) | 3:34 | 2021-04-23 |  |
 | [Can’t You See](https://open.spotify.com/track/6eLKh1uJQ8KWW2o0AWjCXw) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Can't You See](https://open.spotify.com/album/56xnGGmk1FHIj8tZVE3o49) | 2:58 | 2021-03-31 | 2022-04-29 |
 | [Captivate You](https://open.spotify.com/track/7msUsozEfRrk9ZDvk1ncgR) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [The Weird And Wonderful Marmozets](https://open.spotify.com/album/0g6Yixfp4y0wlDCY8ukhfp) | 4:00 | 2021-03-31 | 2022-04-29 |
-| [Car Crash](https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8) | [Low Lying Sun](https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge) | [Car Crash](https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB) | 3:52 | 2022-01-14 | 2022-09-26 |
+| [Car Crash](https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8) | [Low Lying Sun](https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge) | [Car Crash](https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB) | 3:52 | 2022-01-14 |  |
 | [Cause You Got Me](https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA) | [MOSES](https://open.spotify.com/artist/1y3itK0FVcrhTZoCIhXmum) | [Cause You Got Me](https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ) | 3:52 | 2021-03-31 |  |
 | [Change the Waters](https://open.spotify.com/track/7DFOK8SDu7hSaqDGxpZRY6) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Change the Waters](https://open.spotify.com/album/4Xp8qrp6IPU1obR7a8E6m0) | 3:48 | 2021-07-23 | 2022-07-25 |
 | [Cheer Up Baby](https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:53 | 2022-02-28 |  |
@@ -91,7 +92,7 @@
 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 | 2022-02-28 |  |
 | [Giver](https://open.spotify.com/track/37vnLFnjGvhpX2P7jMDkQj) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4yQfZSfkILtVsoOyiboOjv) | 3:34 | 2021-03-31 | 2022-01-03 |
 | [Glisten](https://open.spotify.com/track/6Ua1Ox0jb0O15ZIqPQinDG) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Glisten](https://open.spotify.com/album/5Ho2TJzVuNogqaUOpWhKH3) | 3:54 | 2021-09-17 | 2022-07-29 |
-| [Godsend](https://open.spotify.com/track/2tTH0Jsfxt3jLoZNWHCehP) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Godsend](https://open.spotify.com/album/1v8V0xYmlo1lUfFYNZbxER) | 4:22 | 2021-09-17 |  |
+| [Godsend](https://open.spotify.com/track/2tTH0Jsfxt3jLoZNWHCehP) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Godsend](https://open.spotify.com/album/1v8V0xYmlo1lUfFYNZbxER) | 4:22 | 2021-09-17 | 2022-10-13 |
 | [Going Clear](https://open.spotify.com/track/0wNzCdfjewhDgQZSsbZ09F) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Going Clear](https://open.spotify.com/album/07Msmgxentelm0DcvGdURI) | 3:21 | 2022-02-28 | 2022-07-06 |
 | [Going Clear](https://open.spotify.com/track/3SfnQmi3RLvIK4B2bGC4wg) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present Is a Foreign Land](https://open.spotify.com/album/1qmMt5MpOLwD2FbHZEE034) | 3:21 | 2022-04-29 |  |
 | [Great Mass of Color](https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Great Mass of Color](https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp) | 6:00 | 2022-01-14 |  |
@@ -151,7 +152,7 @@
 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 | 2022-04-29 |  |
 | [My Honest Face](https://open.spotify.com/track/0UB9FchcGKnQ7GCDl9dJjF) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [My Honest Face](https://open.spotify.com/album/07ZR3JqB2j0tAMc8bPRLan) | 4:34 | 2021-03-31 | 2022-07-29 |
 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 | 2021-05-28 |  |
-| [Never Enough](https://open.spotify.com/track/1yYtgpfXMbP6b8kJrZ4Dea) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/0tmRaWJN8L1HUBwiva62gz) | 2:52 | 2022-01-14 |  |
+| [Never Enough](https://open.spotify.com/track/1yYtgpfXMbP6b8kJrZ4Dea) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/0tmRaWJN8L1HUBwiva62gz) | 2:52 | 2022-01-14 | 2022-10-13 |
 | [New Comedown](https://open.spotify.com/track/4kbBYfLMIfzAnt9WoSDmvS) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [New Comedown](https://open.spotify.com/album/3Dtvv3X6YgICRPEAlywpt3) | 3:07 | 2021-03-31 |  |
 | [No Sale](https://open.spotify.com/track/0X6PQ9P3OXKnJbomkuZPLT) | [Middle Class Rut](https://open.spotify.com/artist/1jl7jCbWw8fQApXAgP7vQN) | [No Sale](https://open.spotify.com/album/3xzOUX28RI7Q72RlMaaVUu) | 3:22 | 2021-03-31 | 2022-04-29 |
 | [Nowhere Generation \[with Meg Myers\]](https://open.spotify.com/track/5KBbOzPYd1lnnWV122qKwY) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Nowhere Generation \[with Meg Myers\]](https://open.spotify.com/album/2g1iPboxaw0IV4zRhA2Scl) | 3:59 | 2021-07-23 |  |

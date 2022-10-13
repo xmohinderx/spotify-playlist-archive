@@ -1361,10 +1361,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 253373,
       "name": "Okay",
       "url": "https://open.spotify.com/track/25NjUjptKOeu1k6O4YdyUm"
+    },
+    {
+      "album": {
+        "name": "Fre$h Hugs",
+        "url": "https://open.spotify.com/album/35LKB6WhagH9EVouPmcDvE"
+      },
+      "artists": [
+        {
+          "name": "Tulliah",
+          "url": "https://open.spotify.com/artist/6gdXkpJpXAh1XJGBMOveLq"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/2Z9oOIEPqIA1RPepcDyG8y"
     },
     {
       "album": {
@@ -1945,6 +1963,24 @@
     {
       "album": {
         "name": "Two Strong Hearts",
+        "url": "https://open.spotify.com/album/1v1oL1axOTr3tE615BHuMy"
+      },
+      "artists": [
+        {
+          "name": "Ainslie Wills",
+          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186635,
+      "name": "Two Strong Hearts",
+      "url": "https://open.spotify.com/track/1rMHsiaukDDW0mzwruHdQr"
+    },
+    {
+      "album": {
+        "name": "Two Strong Hearts",
         "url": "https://open.spotify.com/album/70dKYiUjXSV6tSq9psDuDI"
       },
       "artists": [
@@ -1955,7 +1991,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 186635,
       "name": "Two Strong Hearts",
       "url": "https://open.spotify.com/track/31Y9yVkcT70JjKs3A2eR36"

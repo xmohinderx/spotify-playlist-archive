@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Ái Phương
 
-113 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
+115 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Có Một Người Từng Là Tất Cả](https://open.spotify.com/track/0zvG8nb0KNKhNUS1cIn4MV) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Có Một Người Từng Là Tất Cả](https://open.spotify.com/album/2m0ag1i8rTNo1hRqsnwBhZ) | 4:59 | 2021-12-07 | 2022-07-01 |
 | [Có Những Yêu Thương Nào](https://open.spotify.com/track/3dqeOJby9bSAZ6Bxo12HFh) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s), [Huỳnh Thanh Bình](https://open.spotify.com/artist/3cllIHis9we6lup5Rb3SjT) | [The Singer](https://open.spotify.com/album/6mqV4lo8LrZhDS3NzjVLP5) | 3:07 | 2022-04-06 | 2022-05-27 |
 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 | 2022-10-05 |  |
-| [Cô Đơn](https://open.spotify.com/track/0dxfg8dLCL3ox7qj8QmFaK) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Cô Đơn](https://open.spotify.com/album/6QkdiY2GGYp07Re4ztE988) | 4:32 | 2022-10-11 |  |
+| [Cô Đơn](https://open.spotify.com/track/0dxfg8dLCL3ox7qj8QmFaK) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Cô Đơn](https://open.spotify.com/album/6QkdiY2GGYp07Re4ztE988) | 4:32 | 2022-10-11 | 2022-10-13 |
 | [cô đơn sớm tối](https://open.spotify.com/track/6nwPpjXk97fYF2aOUq2fcp) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [cô đơn sớm tối](https://open.spotify.com/album/4qYvvuBK3FkOVg1Qw0liko) | 4:21 | 2021-12-07 | 2021-12-31 |
 | [Cầu Hôn \- Happy Version](https://open.spotify.com/track/4p0oGfPJqrrmdBC2GG6iK2) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 4:04 | 2021-12-07 |  |
 | [Da Lau Roi](https://open.spotify.com/track/6SiVDtUuESkBzjUl2raZkN) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Da Lau Roi](https://open.spotify.com/album/4BIytzT0MGjXs8nfrkF2FO) | 4:10 | 2021-12-07 | 2022-05-20 |
@@ -70,7 +70,7 @@
 | [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 3:28 | 2022-07-24 |  |
 | [Một Cú Lừa](https://open.spotify.com/track/2LKI0fGEKR3RWAiY2jqq8k) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/0JoA8Z6TWI31c6uWXldxyU) | 3:28 | 2021-12-07 | 2022-07-29 |
 | [Một Ngàn Nỗi Đau](https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Một Ngàn Nỗi Đau](https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz) | 5:21 | 2022-06-30 | 2022-10-05 |
-| [Mời Anh Vào Team Em](https://open.spotify.com/track/4fx2Hs100AuN9qPsFj3fW7) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Mời Anh Vào Team Em](https://open.spotify.com/album/0qnWAQh9eqFA7JGjznCJE0) | 3:15 | 2022-09-06 |  |
+| [Mời Anh Vào Team Em](https://open.spotify.com/track/4fx2Hs100AuN9qPsFj3fW7) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Mời Anh Vào Team Em](https://open.spotify.com/album/0qnWAQh9eqFA7JGjznCJE0) | 3:15 | 2022-09-06 | 2022-10-13 |
 | [Ngày Chưa Giông Bão](https://open.spotify.com/track/7laWkT6uyoMDUXBqhcAN4V) | [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9) | [Ngày Chưa Giông Bão \(Người Bất Tử OST\)](https://open.spotify.com/album/6eYeMsrAOwsbGsdMU3tMZn) | 3:32 | 2021-12-07 | 2022-05-04 |
 | [Người Hãy Quên Em Đi](https://open.spotify.com/track/1rJyVbXb3njXbN3lokllKf) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Tâm 9](https://open.spotify.com/album/3A9rCX2VkZWP6NGnLUnjQq) | 3:52 | 2021-12-07 | 2022-06-01 |
 | [Như Lời Đồn](https://open.spotify.com/track/5aUlYDU9wWSVPRdrbCSPHF) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Như Lời Đồn](https://open.spotify.com/album/1Ljk64JLVQVnV9S0lWqPlZ) | 3:39 | 2022-08-02 | 2022-09-07 |
@@ -99,6 +99,7 @@
 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 | 2021-12-07 |  |
 | [thế giới không anh](https://open.spotify.com/track/4IpeOlxcNz1IFVvZ2ll7In) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [yesteryear](https://open.spotify.com/album/33EIrbMJq7O5fQ1WPcwaB4) | 4:19 | 2021-12-07 | 2022-06-01 |
 | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/5zH2inEP6THOY8tomr3DdZ) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/album/6He7un0iQqrbVsmieoliGN) | 3:19 | 2021-12-07 |  |
+| [Trót Yêu](https://open.spotify.com/track/2lL7kSRjgVZjm942GdVOef) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Trót Yêu](https://open.spotify.com/album/5bc2VEYLPy8dII9TTZ1caN) | 4:43 | 2022-10-12 |  |
 | [Trước Tiên Anh Hãy Nói Chia Tay Em Đi](https://open.spotify.com/track/2AhLDaQumFH17AfcxRIlqf) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA) | [after YOU](https://open.spotify.com/album/2J9z8vV5C4eutvLLoX2foQ) | 3:56 | 2022-06-07 | 2022-08-03 |
 | [Trưởng Nữ Chạy Trốn](https://open.spotify.com/track/2Zos792uWaDCqqnmPaBH1x) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:15 | 2022-08-16 |  |
 | [trời giấu trời mang đi](https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 4:13 | 2021-12-07 |  |
@@ -119,6 +120,7 @@
 | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/track/4g05dGhnA69TG6AJljEcL6) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/album/4O5Y2CJavAsV8AkPZQqXrt) | 5:22 | 2021-12-07 |  |
 | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/track/3ckraK42KnTt0Mk0b8pmA2) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/album/6Qb69lLK43aP1s06fQIYnJ) | 3:15 | 2021-12-07 |  |
 | [Đôi Mi Em Đang U Sầu](https://open.spotify.com/track/0TAEZOaoZx5LBXEkePNrt4) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s), [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp) | [Đôi Mi Em Đang U Sầu](https://open.spotify.com/album/2oi3L0ZJrhi4n1SNlZeJjX) | 4:27 | 2022-04-23 | 2022-08-03 |
+| [Đông Tây Nam Bắc](https://open.spotify.com/track/0hqCfsV0T1e35k7urmBBHz) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Đông Tây Nam Bắc](https://open.spotify.com/album/5Dt3Lq7yoQ32mOiG3VRyYz) | 6:07 | 2022-10-12 |  |
 | [Đúng Cũng Thành Sai](https://open.spotify.com/track/33weHbON0j21ZPUMc0ZKTt) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Đúng Cũng Thành Sai](https://open.spotify.com/album/5pB6JpmCb0BhkOc3bZHfxj) | 4:47 | 2021-12-07 | 2022-01-05 |
 | [Đường Về Nhà](https://open.spotify.com/track/41xLRF9wYENxgmTNAd2s4Q) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Đường Về Nhà](https://open.spotify.com/album/2L4kKETYA5sbXVqpk3fpk3) | 4:32 | 2022-10-04 |  |
 

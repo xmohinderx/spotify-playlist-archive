@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,390 likes - 44 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,398 likes - 44 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 9 | [Jimmy Crooks](https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3) | [Tricks](https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT) | [Jimmy Crooks](https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG) | 2:25 |
 | 10 | [Drowning \(feat\. Kodak Black\) \- Jersey Club Remix](https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Remixes\)](https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7) | 2:08 |
 | 11 | [I Got Hoes \(Mo Bamba\)](https://open.spotify.com/track/0D7obTbuXuZS8Y4tA7BYFL) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki) | [I Got Hoes \(Mo Bamba\)](https://open.spotify.com/album/5qF5IvX32dy9MDZ53jK9Pc) | 1:48 |
-| 12 | [Swagg Talk](https://open.spotify.com/track/0J9RDo9EBTaFcqPlYw49Mj) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/5yfFuazY1M6OyMj14yly14) | 2:58 |
+| 12 | [Swagg Talk](https://open.spotify.com/track/3uGoSNkxwxEgoxhaYkF6F9) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/3Y7iKUxDQ2xcCYMFu4HsR2) | 2:58 |
 | 13 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 |
 | 14 | [Shake Dhat](https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4) | [Zahsosaa](https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y), [D STURDY](https://open.spotify.com/artist/4ca91BWVgdWAOiATQiMoxl), [Dj Crazy](https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK) | [Shake Dhat](https://open.spotify.com/album/2H7UA3WRJM2dGMZoMEhUYf) | 2:40 |
 | 15 | [Get Jumped \(with Bandmanrill\)](https://open.spotify.com/track/6KRg5sE4TS4yHzujspaRGY) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Get Jumped](https://open.spotify.com/album/2bKKwvt0HsusnQN5gOOeRt) | 2:04 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 43 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 |
 | 44 | [Til The World Blow Up \(feat\. Mike Dunn\) \- Mike Dunn BlackBall Classic Soul Extended MixX](https://open.spotify.com/track/4xTRjFR7WcbskxcQqnXuKs) | [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Til The World Blow Up \(feat\. Mike Dunn\)](https://open.spotify.com/album/2Zsv5mQs5LcTS180DIyf8C) | 6:36 |
 
-Snapshot ID: `MTY1NzgzNjIxOSwwMDAwMDAwMGZhNmMxMTY3YWYwMWFjYzQxM2Q4ZjgwMzQ2NTAwNDI2`
+Snapshot ID: `MTY1NzgzNjIxOSwwMDAwMDAwMDg1Y2ZiMWFiY2IzM2RhYmM4OTE3MTE0MzMyMzgwYzQ5`

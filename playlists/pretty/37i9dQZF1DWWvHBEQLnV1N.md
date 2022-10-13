@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,270 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,277 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 50 | [Blue Christmas](https://open.spotify.com/track/0cDcnStZNlQe6FL9TwcUqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Elvis Presley Christmas Duets](https://open.spotify.com/album/0dZHOzNT3CYfHmK2yOW7oV) | 2:29 |
 | 51 | [Christmas Prayer](https://open.spotify.com/track/1fVUbYWYtBmzTllJ2EAddD) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Infinite Things \(Deluxe Version\)](https://open.spotify.com/album/3g2kKcxwX4I7ttohCuZkkF) | 3:23 |
 | 52 | [Hang Your Lights \(Edit\)](https://open.spotify.com/track/7yBk4hLd8Nc4m446yllbdD) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:01 |
-| 53 | [Every Moment Is Christmas with You](https://open.spotify.com/track/7c83JUp9KUcPFl04clDuwZ) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Every Moment Is Christmas with You](https://open.spotify.com/album/08oR8mbmEwvxetlQ4mnwCY) | 2:47 |
+| 53 | [Every Moment Is Christmas with You](https://open.spotify.com/track/2fZpSzvmXmWR7beaOY5eBy) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Every Moment Is Christmas with You](https://open.spotify.com/album/2p40roIIQlBS0trttMKPye) | 2:47 |
 | 54 | [Love this Christmas](https://open.spotify.com/track/0s3x37HfdUXvoW9N5zA5fN) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Love this Christmas](https://open.spotify.com/album/3CdqhL16AXYFXcHyGkPFzB) | 3:11 |
 | 55 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/24bMh8AF6XZsklVgnHwlrP) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:31 |
 
-Snapshot ID: `MTYzOTczMTc1MiwwMDAwMDAwMDgxNmE2OWE4NGM0NDQ5YmFlMjM1MWEyNGVmNWEzOTVk`
+Snapshot ID: `MTYzOTczMTc1MiwwMDAwMDAwMDJhZjBmMGQ5M2JlMmIyNWZmOTExMTM0OGYyZDgxNTY5`

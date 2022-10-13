@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Magnolia Park
 
-850 songs - 1 day 21 hr 19 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+851 songs - 1 day 21 hr 23 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,8 @@
 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 | 2022-09-23 |  |
 | [LIKE YOU](https://open.spotify.com/track/7LQTL3hhiZ7ZXKt7dACDrK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [THE BEST DAY OF MY LIFE](https://open.spotify.com/album/2bzsluckPjoDg17ERuLJac) | 2:59 | 2021-12-10 | 2022-01-08 |
 | [lily's backyard](https://open.spotify.com/track/65doEMocPQeWN2dhCcrec5) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [you were good to me](https://open.spotify.com/album/0wSuystARx9990WFLyGck8) | 2:11 | 2022-04-29 | 2022-06-11 |
-| [lipstick](https://open.spotify.com/track/308sxRJm5aLy3tuEGQOeMp) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [DOOMED](https://open.spotify.com/album/16Q1K1wcD7dFBzOADTvdDZ) | 3:23 | 2022-09-23 |  |
+| [lipstick](https://open.spotify.com/track/1mo0KiCkdaVV3i9Jhsu82o) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [DOOMED](https://open.spotify.com/album/2Rvn0NG5DRDxIFGWscilpi) | 3:23 | 2022-10-07 |  |
+| [lipstick](https://open.spotify.com/track/308sxRJm5aLy3tuEGQOeMp) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [DOOMED](https://open.spotify.com/album/16Q1K1wcD7dFBzOADTvdDZ) | 3:23 | 2022-09-23 | 2022-10-13 |
 | [Little High Little Low](https://open.spotify.com/track/0OzLuAmu5XNIPhCSsPAYer) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [Little High Little Low](https://open.spotify.com/album/4iPzGH8F1IIYz7ktfJ26II) | 3:19 | 2022-04-22 | 2022-07-02 |
 | [Live Like This](https://open.spotify.com/track/5CkNMoWHtL0OxNqZSilmYU) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Live Like This](https://open.spotify.com/album/7w6qO7IK9y49S15hmxDiFq) | 3:56 | 2022-05-06 | 2022-07-16 |
 | [Live, Laugh, Love](https://open.spotify.com/track/6smMEA2Cx1I6QuxNlyZuXt) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Live, Laugh, Love](https://open.spotify.com/album/4s1GKS3gkgUneSgjGI1dnw) | 3:16 | 2022-09-23 |  |

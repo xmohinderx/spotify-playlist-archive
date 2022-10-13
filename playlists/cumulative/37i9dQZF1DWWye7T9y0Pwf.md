@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Uy8Skuxzxf38jMDTndKIU">Populous</a>'s favorite tracks\. Updated regularly\. Curated by Populous\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-99 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/4Z2xorn6yxWYhhwb9O1IZh)
+100 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/4Z2xorn6yxWYhhwb9O1IZh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [GMT \- Jamie xx Remix](https://open.spotify.com/track/6kqAKtIZDTeBjLdJJ2jiTt) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [GMT \(Jamie xx Remix\)](https://open.spotify.com/album/5D4DjxpROByDBBVtZyyA5R) | 9:32 | 2022-09-02 | 2022-09-23 |
 | [Histoire d'un soir \(Bye bye les galères\) \- Version originale 1983](https://open.spotify.com/track/5JAGMln9Bd4xrHkjS4jMf2) | [Bibi Flash](https://open.spotify.com/artist/3ey9lZapAq5kQ9A5d65LBO) | [Best of Bibi Flash Collector \(Le meilleur des années 80\)](https://open.spotify.com/album/5sGSZA5uBz4a8JZy5fhfJg) | 4:36 | 2022-10-03 |  |
 | [Hold Up](https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Hold Up](https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio) | 2:04 | 2022-09-22 |  |
-| [HOUSE OF KETA](https://open.spotify.com/track/0uoXtAFQLJSvtRDyHqB5ts) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kenjii](https://open.spotify.com/artist/0gK6u95aXuNa8jNjhgPc0o) | [W](https://open.spotify.com/album/2ykygMGjCj9xRwHsZGn3cT) | 3:37 | 2022-09-02 |  |
+| [HOUSE OF KETA](https://open.spotify.com/track/0uoXtAFQLJSvtRDyHqB5ts) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kenjii](https://open.spotify.com/artist/0gK6u95aXuNa8jNjhgPc0o) | [W](https://open.spotify.com/album/2ykygMGjCj9xRwHsZGn3cT) | 3:37 | 2022-09-02 | 2022-10-13 |
+| [HOUSE OF KETA](https://open.spotify.com/track/2AjIYVOpQL1CMOjv8Z0IRT) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kenjii](https://open.spotify.com/artist/0gK6u95aXuNa8jNjhgPc0o) | [W](https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa) | 3:37 | 2022-10-03 |  |
 | [Hypnotic \(feat\. Uffie\)](https://open.spotify.com/track/21DGq2EA5LRYKbSz7Aih6g) | [Flowers](https://open.spotify.com/artist/0GC742enCDyfsS4rjnSxJq), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Hypnotic](https://open.spotify.com/album/3XNv6j31KuIWzkR2IFhCnJ) | 2:50 | 2022-09-02 | 2022-10-04 |
 | [I Enter \- Original Mix](https://open.spotify.com/track/0I1iEooWlR2h5p4HK3XkAO) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq), [Tyler Rowe](https://open.spotify.com/artist/74oXDtl5ea6CxDhMSFmytI) | [I Enter](https://open.spotify.com/album/7xCclAR31TDfVFcUkfdifK) | 4:42 | 2022-09-02 | 2022-09-23 |
 | [I'm Not Defeated \- Cassius XXL Remix](https://open.spotify.com/track/6RYtVrhtfRCr0ejewSRRsP) | [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor), [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [I'm Not Defeated \(Cassius Remix\)](https://open.spotify.com/album/5QiCs86yEbzpc0ZrkbTMKY) | 8:00 | 2022-09-02 |  |

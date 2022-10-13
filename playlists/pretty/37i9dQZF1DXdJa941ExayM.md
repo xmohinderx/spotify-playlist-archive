@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: WHOKILLEDXIX
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,656 likes - 82 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,750 likes - 82 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 12 | [Play the Greatest Hits](https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:27 |
 | 13 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 |
 | 14 | [People](https://open.spotify.com/track/3ERlkLtr5K5C7VUqlDcNSR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:38 |
-| 15 | [Leaders](https://open.spotify.com/track/5Fm8gd5jAXS6mglZVijq3P) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/4DOlIxXtWJbnvWuLpbQbv4) | 2:28 |
+| 15 | [Leaders](https://open.spotify.com/track/4vABLb1SmE92opkxAyHSOS) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Leaders](https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd) | 2:28 |
 | 16 | [MOTHERFUCKER](https://open.spotify.com/track/6X8VMfcQXjdwMHOSuS1ULl) | [Billy Sane](https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4) | [MOTHERFUCKER](https://open.spotify.com/album/5JvYdJ34ytSm0InoFukcFt) | 1:02 |
 | 17 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
 | 18 | [Silly Boy](https://open.spotify.com/track/6dVCwIlxXWjyOumob05IPQ) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [MEN](https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1) | 3:18 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 54 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 |
 | 55 | [walking around with no hands](https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 2:01 |
 | 56 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
-| 57 | [Drive in Mind](https://open.spotify.com/track/4nDfSnWHRBDwoeF4YClv09) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Drive in Mind](https://open.spotify.com/album/4fMQjWGXHrUDH7WgomBq6s) | 4:03 |
+| 57 | [Drive in Mind](https://open.spotify.com/track/5VhkquQD3tsUvWGWYD80yf) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Drive in Mind](https://open.spotify.com/album/2yCxWTAQ6QhykPHyVshDhG) | 4:03 |
 | 58 | [storyboard for a pessimist](https://open.spotify.com/track/6UObhqa3DmniQ0YTWg2AqW) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [fell in love with a lie](https://open.spotify.com/album/7m9wfRDxzEXAsQugb5xd93) | 2:38 |
-| 59 | [Multitudes](https://open.spotify.com/track/3TAXiOL3dqNo4YkrdyN73S) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Multitudes](https://open.spotify.com/album/2o6CaxhzQScrGCSkIZ0N6q) | 4:35 |
+| 59 | [Multitudes](https://open.spotify.com/track/3rue5FCOZVURcIONrQ9YJQ) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Time Bend and Break The Bower](https://open.spotify.com/album/7c6SzIehKQl4m37Saqo3NS) | 4:35 |
 | 60 | [So You Don't Get In Trouble](https://open.spotify.com/track/2ZlMCcLZaxgF1DLF6pFsJu) | [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [So You Don't Get In Trouble](https://open.spotify.com/album/6lFhQlG8PC9byMDPccFNW6) | 3:06 |
-| 61 | [What Do You Stand For](https://open.spotify.com/track/3jR2alPjGORDdwlnRMqa4h) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again \(Extended Edition\)](https://open.spotify.com/album/28NC8KTLC7KsI4ra5bW3kT) | 3:45 |
+| 61 | [What Do You Stand For](https://open.spotify.com/track/6AnZvbILflah5oY0yqMiPN) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again \(Extended Edition\)](https://open.spotify.com/album/5VkOPCk6b05wEczaRCnH8y) | 3:45 |
 | 62 | [New Slang](https://open.spotify.com/track/1sRjSllwLDh0xHgZCywXmf) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 4:15 |
 | 63 | [Having a Headache](https://open.spotify.com/track/1QinYnsNApMjbqaciWrhks) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Having a Headache](https://open.spotify.com/album/4PJLSSs46r41EnOyzLRcM8) | 2:24 |
 | 64 | [Pool Hopping](https://open.spotify.com/track/4iw5jzsl4j1g82b2VcSVeM) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:07 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 81 | [Date With Death](https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU) | [Paris Shadows](https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT), [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Date With Death](https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA) | 1:59 |
 | 82 | [you can't blame me](https://open.spotify.com/track/25qPKjzyzuWiXGmjLerWhU) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:05 |
 
-Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMGU1YmVjZDU5YWM1YjE4ODk1MWE3MWMzMGQ4YTE1NDcx`
+Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMGRmNmY5OGZjNzM2NjJiYTM1NTJjM2I5ZGVlZmYyZWEy`

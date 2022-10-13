@@ -4,7 +4,7 @@
 
 > New Rock driving the current, every week\. Cover: James Mantis
 
-150 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/2jxSs2Q6Z9zjjyOXKs22bg)
+151 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/2jxSs2Q6Z9zjjyOXKs22bg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [White parents](https://open.spotify.com/track/5uixFA3xg4j7fUmwllKFrm) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [White parents](https://open.spotify.com/album/49CMIVxY031J5eNiqvbeg8) | 2:12 | 2022-02-12 | 2022-03-18 |
 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-09-03 |  |
 | [WITHOUT YOU](https://open.spotify.com/track/4NDffVrm7zr0vJSzakrBbw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl) | 3:09 | 2022-02-12 | 2022-07-23 |
-| [•OUTSIDE•](https://open.spotify.com/track/5VSVz6wsmWEP1PiFfzPcn7) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•OUTSIDE•](https://open.spotify.com/album/4LDezpH6gU6VfBFkSdtNxc) | 1:46 | 2022-08-26 |  |
+| [•OUTSIDE•](https://open.spotify.com/track/4HateMT8YtbMll1LmQmMB7) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•OUTSIDE•](https://open.spotify.com/album/6Y9hVwqc0HGINlORyTVzI8) | 1:46 | 2022-08-26 |  |
+| [•OUTSIDE•](https://open.spotify.com/track/5VSVz6wsmWEP1PiFfzPcn7) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•OUTSIDE•](https://open.spotify.com/album/4LDezpH6gU6VfBFkSdtNxc) | 1:46 | 2022-08-26 | 2022-10-13 |
 
 \*This playlist was first scraped on 2022-02-25. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-145 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+148 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A Thousand Things That Were You](https://open.spotify.com/track/7cRhOk7j7jxXZpsX0s3TA5) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Everchanging Times](https://open.spotify.com/album/09UhH5tXg4GPRG38bsD7yd) | 4:15 | 2021-12-13 | 2022-05-18 |
 | [ADULTHOOD](https://open.spotify.com/track/4FblU56VwlVyJuvq4H6GRv) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:41 | 2022-04-05 |  |
 | [Ain't That Somethin'](https://open.spotify.com/track/0UD3irWPjn3FrropsoPsW2) | [Fabrecollectiv.](https://open.spotify.com/artist/3p7zvGloecJJK4TfTyOfqK) | [Ain't That Somethin'](https://open.spotify.com/album/6RlS5tZbxU06yoAxpQiKoE) | 3:45 | 2021-12-13 | 2022-05-18 |
-| [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 | 2022-04-28 |  |
+| [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 | 2022-04-28 | 2022-10-13 |
+| [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 | 2022-10-10 |  |
 | [All That I Can Say](https://open.spotify.com/track/0rEVw979CI6wMZb3snSE7K) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb) | [The Lost and Found](https://open.spotify.com/album/0zf7XCW761Gswh5sxQBduz) | 3:17 | 2021-12-13 | 2022-07-29 |
 | [All That I Can Say](https://open.spotify.com/track/3hGWCIY6m0jTQlTS9cB0Wn) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb) | [The Lost and Found](https://open.spotify.com/album/4fZx2cNk1Vod8jZkPSWBpv) | 3:17 | 2022-07-05 | 2022-10-01 |
 | [ALTITUDE](https://open.spotify.com/track/1vfY3iOZQ2mFvx0uh2iQrL) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Rehearsal @ NINE](https://open.spotify.com/album/1vggI3ABSj32lXYyfBQdXc) | 3:32 | 2022-07-05 |  |
@@ -56,12 +57,14 @@
 | [I Don't Deserve It](https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [I Don't Deserve It](https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8) | 3:46 | 2022-04-28 |  |
 | [Iconoclasts](https://open.spotify.com/track/0favNaT6zVgr7CAxepoKL0) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Iconoclasts](https://open.spotify.com/album/0HCtHecb8UJYmlHER6fmwg) | 3:38 | 2022-09-30 |  |
 | [Imagineering](https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Imagineering](https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n) | 4:34 | 2021-12-13 |  |
-| [In Your River](https://open.spotify.com/track/3LKLHWfZ5R4aenoIJ3jLNE) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/1imktBT09BUnIjACM1byQH) | 3:54 | 2022-07-05 |  |
+| [In Your River](https://open.spotify.com/track/3LKLHWfZ5R4aenoIJ3jLNE) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/1imktBT09BUnIjACM1byQH) | 3:54 | 2022-07-05 | 2022-10-13 |
 | [In Your River](https://open.spotify.com/track/3W87VCtPfwh9Kr0SGRRKHG) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don't Explain](https://open.spotify.com/album/0KiANF0hNVLXbL9HHwFFpB) | 3:54 | 2021-12-13 | 2022-07-29 |
+| [In Your River](https://open.spotify.com/track/4lQc6sLF9a6SWeDpdQ7CSv) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/2yZlo1UzbQDfiokZooVfaF) | 3:54 | 2022-10-10 |  |
 | [Indecision \- Jungle Remix](https://open.spotify.com/track/2BOgqUaNFikA7RAT0MUpQ4) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Indecision \(Jungle Remix\)](https://open.spotify.com/album/7qnBAGQH7VjWorsnYe8Aec) | 3:20 | 2021-12-13 | 2022-01-11 |
 | [Inside You](https://open.spotify.com/track/0fEcztdrrEaiBpEVkfggd2) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Heritage \(Reissue\)](https://open.spotify.com/album/2BtLI4D4seuSwWDaAu8L9z) | 4:52 | 2021-12-13 |  |
 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 | 2021-12-13 |  |
-| [Kickback](https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 2:51 | 2021-12-13 |  |
+| [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 | 2022-10-10 |  |
+| [Kickback](https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 2:51 | 2021-12-13 | 2022-10-13 |
 | [LIA](https://open.spotify.com/track/4igMWltZhzr97iuC8YwJPk) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/0Om8IQImnBm0g7SGKMfn3m) | 3:38 | 2021-12-13 | 2022-07-29 |
 | [LIA](https://open.spotify.com/track/76F5aEqRgxaUE34JX3g78g) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/34cWIUEnueKa9rQcXsXF4Q) | 3:38 | 2022-07-05 |  |
 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 | 2021-12-13 |  |

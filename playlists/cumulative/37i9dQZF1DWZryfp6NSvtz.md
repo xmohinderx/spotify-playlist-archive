@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Måneskin
 
-2,090 songs - 4 day 23 hr 13 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+2,092 songs - 4 day 23 hr 20 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -871,7 +871,8 @@
 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 | 2022-10-07 |  |
 | [I should've listened to my friends](https://open.spotify.com/track/5JFYTUEMFKVJafHr4S89kr) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [I should've listened to my friends](https://open.spotify.com/album/60TpcJV38QMJlRB0bBt3VO) | 2:46 | 2022-08-19 | 2022-08-27 |
 | [I Still Burn](https://open.spotify.com/track/6aXpsIVZDN1lfdt88T8fX1) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [I Still Burn](https://open.spotify.com/album/7di6xQ4AQEGp9lxmCgOH45) | 3:55 | 2022-03-18 | 2022-03-25 |
-| [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z) | 3:08 | 2022-10-07 |  |
+| [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z) | 3:08 | 2022-10-07 | 2022-10-13 |
+| [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/2oal7Q9v9hFQXFZbaiGNsy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/1q132A3KkxRLRrEiWZXWqN) | 3:08 | 2022-10-07 |  |
 | [I Told You So](https://open.spotify.com/track/30Hw87HEEW4pDpqHjOYW7v) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [I Told You So](https://open.spotify.com/album/4D5L0IcHAbPFA8NgIQRdzf) | 1:24 | 2022-08-12 | 2022-08-20 |
 | [I Wanna Be Brad Pitt](https://open.spotify.com/track/4YynDxZKIXz8Z5rZKQVeiO) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [I Wanna Be Brad Pitt](https://open.spotify.com/album/38lcv9I49GDpySnVfDV66h) | 2:51 | 2022-02-24 | 2022-03-04 |
 | [I Wanna Know You](https://open.spotify.com/track/3ENwOP2kZLbiAAPQmqtZlo) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Outta Sight](https://open.spotify.com/album/7bTPEsKhpCQbM36uZLA40j) | 3:30 | 2022-06-02 | 2022-06-10 |
@@ -1234,7 +1235,8 @@
 | [New England](https://open.spotify.com/track/6Xc7LinCrQ5qwqVihDXrtr) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [New England](https://open.spotify.com/album/7jSPhpCKF0PXgZ2ntVWSnn) | 3:38 | 2022-01-06 | 2022-01-14 |
 | [New June](https://open.spotify.com/track/7pp3SrLJGodZnTqJgJ8yuo) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [New June](https://open.spotify.com/album/5JUVj4w1m5YD2nQ5iHUmhd) | 2:41 | 2022-06-23 | 2022-07-01 |
 | [New Low](https://open.spotify.com/track/0YsGHQXC0LCALA4b36QYA5) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Low](https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT) | 4:23 | 2022-06-23 | 2022-07-01 |
-| [Newman](https://open.spotify.com/track/2f3Vg7P7ibs63VlLFzDMWe) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [Newman](https://open.spotify.com/album/3L4iURSKuHJjq3Akx13wxi) | 3:32 | 2022-10-07 |  |
+| [Newman](https://open.spotify.com/track/2f3Vg7P7ibs63VlLFzDMWe) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [Newman](https://open.spotify.com/album/3L4iURSKuHJjq3Akx13wxi) | 3:32 | 2022-10-07 | 2022-10-13 |
+| [Newman](https://open.spotify.com/track/69YmuDhmJAwNHrpTk8Qoxh) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [Newman](https://open.spotify.com/album/4eqZoNbIbnOBka7qfYPovh) | 3:32 | 2022-10-07 |  |
 | [Newspapers](https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Newspapers](https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl) | 3:08 | 2022-04-07 | 2022-04-15 |
 | [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:10 | 2022-07-29 | 2022-08-06 |
 | [Next Ex](https://open.spotify.com/track/22aPHgXUSUdUMiBMj65OFk) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/0XDyzgXbRLGgg9LB7FeNvj) | 2:10 | 2022-07-29 | 2022-08-04 |

@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 170000,
       "name": "American Spirits",
       "url": "https://open.spotify.com/track/01w1oN1WO5aOThHnLBN8eS"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 232149,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/239chagYycSREsWq5wGq97"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234483,
       "name": "Comix (feat. Mala Rodriguez)",
       "url": "https://open.spotify.com/track/7p7PdWG6KwVavbtgY7v3AV"
@@ -2343,10 +2343,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 127272,
       "name": "Ugotme",
       "url": "https://open.spotify.com/track/2NCBjlH7FHEG7hXcnvUaWA"
+    },
+    {
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127272,
+      "name": "Ugotme",
+      "url": "https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc"
     },
     {
       "album": {
@@ -2361,7 +2379,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 124954,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W"

@@ -4,7 +4,7 @@
 
 > Pouring rain and occasional rolling thunder.
 
-395 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/24mLuWgScUP4helHcwLm2m)
+396 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/24mLuWgScUP4helHcwLm2m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [Relaxing Thunderstorm](https://open.spotify.com/track/3VcUGM9IYstqpptFCokPI4) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Rainy Days](https://open.spotify.com/album/6yxLBvCcUNcqXxugpmv3s8) | 2:09 | 2021-11-08 |  |
 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 | 2021-11-08 |  |
 | [Rumbling](https://open.spotify.com/track/5aHIVNM8mZbJQgkTCEbHLu) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 | 2021-11-08 |  |
-| [rumbling rainfall](https://open.spotify.com/track/7e4RppJmMYGWgvx1qGGixI) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [rumbling rainfall](https://open.spotify.com/album/2aSuvA08FWUZ7LLkwxs31n) | 2:34 | 2021-11-08 |  |
+| [rumbling rainfall](https://open.spotify.com/track/45eRVAGkGYIygQ1GjTl2Ff) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:34 | 2022-07-19 |  |
+| [rumbling rainfall](https://open.spotify.com/track/7e4RppJmMYGWgvx1qGGixI) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [rumbling rainfall](https://open.spotify.com/album/2aSuvA08FWUZ7LLkwxs31n) | 2:34 | 2021-11-08 | 2022-10-13 |
 | [Rumbling Sky](https://open.spotify.com/track/3WvMRwe0VySgRljtVvBtWY) | [Nue](https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9) | [Rumbling Sky](https://open.spotify.com/album/1OHgb6ZIhjzLTO9j6FvBux) | 2:27 | 2021-11-08 |  |
 | [Rural Rain](https://open.spotify.com/track/5rqQCxXIbe5YwIdbV0rSUJ) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 1:58 | 2021-11-08 |  |
 | [Safe Rain](https://open.spotify.com/track/23ekbyCzQ5EchBKxWESCRt) | [AEON](https://open.spotify.com/artist/1TgJCAaMIcCTM980NCH5xk) | [Empty Rain](https://open.spotify.com/album/0DJngrcM7Tk4wU95QlTM1y) | 2:04 | 2021-11-08 |  |

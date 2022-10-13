@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,221 likes - 108 songs - 6 hr 6 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,219 likes - 108 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 3 | [Inside My Head](https://open.spotify.com/track/4wjk41EIeEwam4t2dyFD1F) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN), [biblemami](https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV) | [Inside My Head](https://open.spotify.com/album/46Xk8s8C66TNraDW6r4dWs) | 2:42 |
 | 4 | [TEAR ME UP](https://open.spotify.com/track/5Jsc4Z9MkLB6tfjpByhQzR) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [TEAR ME UP](https://open.spotify.com/album/5uhWQVC6tunHHBBrZD93Xa) | 2:57 |
 | 5 | [Wide Awake \(feat\. Charlie Houston\) \- Devault Remix](https://open.spotify.com/track/0OXTIle1hA45EBBQJ0ktYG) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(Devault Remix\)](https://open.spotify.com/album/2qTLUHWEVu7AaNUpcrMkwr) | 4:33 |
-| 6 | [Wobbledrug](https://open.spotify.com/track/0xqRM5GuFJZgWXXkwaqMtV) | [WOBBLEBUG](https://open.spotify.com/artist/7gPfQfayKKrJ6X2zHg49Zu), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Wobbledrug](https://open.spotify.com/album/1wYCpHXmc2NN3StQeefORi) | 2:57 |
+| 6 | [Wobbledrug](https://open.spotify.com/track/0xqRM5GuFJZgWXXkwaqMtV) | [WOBBLEBUG](https://open.spotify.com/artist/7gPfQfayKKrJ6X2zHg49Zu) | [Wobbledrug](https://open.spotify.com/album/1wYCpHXmc2NN3StQeefORi) | 2:57 |
 | 7 | [222](https://open.spotify.com/track/2aFaDxU5b4aRxOKrTRuA0v) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [222](https://open.spotify.com/album/5v4pzv7O0Ye6dKobqXgMg5) | 3:28 |
 | 8 | [Dreamfields](https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Dreamfields](https://open.spotify.com/album/0moBjWA3zCpUXsAWoqT0NS) | 2:40 |
 | 9 | [HEAVEN'S GATES \(feat\. Izzy Camina\) \- Manila Killa Remix](https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [HEAVEN'S GATES \(feat\. Izzy Camina\) \[Manila Killa Remix\]](https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7) | 4:00 |

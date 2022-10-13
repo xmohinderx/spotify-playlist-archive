@@ -4,7 +4,7 @@
 
 > ¡Empieza un nuevo día con una sonrisa!
 
-97 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/2LTCHqxWDmLKlpGpK2kxc6)
+98 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/2LTCHqxWDmLKlpGpK2kxc6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Cómo Es Posible Que a Mi Lado](https://open.spotify.com/track/6oodugdkaoA4NQ23jMpnfl) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 4:16 | 2021-04-23 | 2022-07-29 |
 | [Daría](https://open.spotify.com/track/6zvh1pH7PwIib64b6uv7kT) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Flores De Alquiler](https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs) | 3:42 | 2021-04-23 | 2022-07-29 |
 | [Daría](https://open.spotify.com/track/3c6C15ucvBPGKjdFDHzqjH) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 3:42 | 2021-04-23 |  |
-| [Dime Ven](https://open.spotify.com/track/15dKsB2vjInNQNN8EWuwxD) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Motel](https://open.spotify.com/album/2NX4ACwyYRtonVJGKd0H8U) | 3:40 | 2021-04-23 |  |
+| [Dime Ven](https://open.spotify.com/track/15dKsB2vjInNQNN8EWuwxD) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Motel](https://open.spotify.com/album/2NX4ACwyYRtonVJGKd0H8U) | 3:40 | 2021-04-23 | 2022-10-13 |
+| [Dime Ven](https://open.spotify.com/track/1kcGgL73ptM5SwurvMZplk) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Motel](https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp) | 3:40 | 2022-08-02 |  |
 | [Don](https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:03 | 2021-04-23 |  |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5Bkib0XUhVqvADQoJaRoWN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [The Greatest Hits 1970\-2002](https://open.spotify.com/album/6nvd1pwRgLrMez7fIiDq8z) | 4:34 | 2021-04-23 | 2022-07-29 |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 | 2021-04-23 |  |

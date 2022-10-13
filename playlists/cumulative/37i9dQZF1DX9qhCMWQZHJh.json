@@ -385,7 +385,7 @@
     {
       "album": {
         "name": "Feels Like I'm Flying",
-        "url": "https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru"
+        "url": "https://open.spotify.com/album/7Kwkp5g082UgcpJtXVOEh7"
       },
       "artists": [
         {
@@ -396,6 +396,24 @@
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Feels Like I'm Flying",
+      "url": "https://open.spotify.com/track/0rOoY7stMHi3T7J2KmkNdV"
+    },
+    {
+      "album": {
+        "name": "Feels Like I'm Flying",
+        "url": "https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 155142,
       "name": "Feels Like I'm Flying",
       "url": "https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p"
@@ -442,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342099,
+      "name": "Gibson Girl",
+      "url": "https://open.spotify.com/track/02yzNsWcv7BtITeIoIqeVU"
+    },
+    {
+      "album": {
         "name": "Gibson Girl",
         "url": "https://open.spotify.com/album/5iQkSBngJVrm7mbhQ6iFaT"
       },
@@ -453,7 +489,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 342099,
       "name": "Gibson Girl",
       "url": "https://open.spotify.com/track/2C5C6grASn2TzfsrGu54tZ"

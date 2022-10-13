@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover:\bSEULGI(\uc2ac\uae30)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover:\bLEE CHAE YEON(\uc774\ucc44\uc5f0)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "New Music K-Pop",
   "published_playlist_ids": [
     "69AzhPM798n6fuDC8uUxaB"
@@ -401,6 +401,24 @@
       "duration_ms": 192250,
       "name": "18 (feat. Paloalto)",
       "url": "https://open.spotify.com/track/3ZqR0AfhgdSq3m4Ebd9TmR"
+    },
+    {
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/3XU9jvuvkqCnXYeCLmjRcO"
+      },
+      "artists": [
+        {
+          "name": "PPCX",
+          "url": "https://open.spotify.com/artist/0MA2Mf1z6lPjvV4fvBp2PB"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256252,
+      "name": "20",
+      "url": "https://open.spotify.com/track/6lpaV0RDDiOVD4pRNLQcBC"
     },
     {
       "album": {
@@ -4136,6 +4154,24 @@
     },
     {
       "album": {
+        "name": "GAUS Electronics, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/30tbmNgt3UdNQxc0qgMOeN"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236368,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/4fa1qm8qc3RmAvjeAp06Zy"
+    },
+    {
+      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/1tbWNmbqbGMTX2ioNCndau"
       },
@@ -4155,24 +4191,6 @@
       "duration_ms": 220924,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/1v1xZWe4flQJlntJXAIVI8"
-    },
-    {
-      "album": {
-        "name": "GAUS Electronics, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/30tbmNgt3UdNQxc0qgMOeN"
-      },
-      "artists": [
-        {
-          "name": "\u30ad\u30e0\u30fb\u30b8\u30e7\u30f3\u30ef\u30f3 of NELL",
-          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
-        }
-      ],
-      "date_added": "2022-10-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236368,
-      "name": "Because I Love You",
-      "url": "https://open.spotify.com/track/4fa1qm8qc3RmAvjeAp06Zy"
     },
     {
       "album": {
@@ -8579,6 +8597,32 @@
       "duration_ms": 209120,
       "name": "confession (feat. Puddy)",
       "url": "https://open.spotify.com/track/3wwubXtZo8fTkY87IRNhOf"
+    },
+    {
+      "album": {
+        "name": "Beauty Of The Pain 2",
+        "url": "https://open.spotify.com/album/6WF8vmI3qqzO6MEk5XZ3ud"
+      },
+      "artists": [
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Hangzoo",
+          "url": "https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Confidence (feat. SINCE & hangzoo)",
+      "url": "https://open.spotify.com/track/01Nqfxufv1yF3R6LqYEbqX"
     },
     {
       "album": {
@@ -14459,10 +14503,28 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 239511,
       "name": "FOOL OF SCENT",
       "url": "https://open.spotify.com/track/1QFxrQq4XwD9kVoLnOzbiY"
+    },
+    {
+      "album": {
+        "name": "FOOL OF SCENT",
+        "url": "https://open.spotify.com/album/5D7W8hkIu6X3vO4MVymdpB"
+      },
+      "artists": [
+        {
+          "name": "DUETTO",
+          "url": "https://open.spotify.com/artist/0XEdjf7875C2IkAiDlgApO"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239511,
+      "name": "FOOL OF SCENT",
+      "url": "https://open.spotify.com/track/58O8NqDJfaJEqP5lhRA0sW"
     },
     {
       "album": {
@@ -16520,6 +16582,24 @@
     },
     {
       "album": {
+        "name": "Green Yellow",
+        "url": "https://open.spotify.com/album/0GfHvFscOjLdrcal6bfB6G"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233106,
+      "name": "Green Yellow",
+      "url": "https://open.spotify.com/track/6xh2AAFE6iTxkumF6CUWYi"
+    },
+    {
+      "album": {
         "name": "Algorithm",
         "url": "https://open.spotify.com/album/2mGJa0lmDRvRnl7nfuPX9A"
       },
@@ -16945,6 +17025,28 @@
       "duration_ms": 233906,
       "name": "Happiness (feat. Vincent Blue)",
       "url": "https://open.spotify.com/track/14dJLoAlJFuypnXt5DJUKj"
+    },
+    {
+      "album": {
+        "name": "New Edition 45",
+        "url": "https://open.spotify.com/album/2fdVPXR7w22euAbHe1zR0g"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278758,
+      "name": "Happy & Fragile (feat. O.WHEN)",
+      "url": "https://open.spotify.com/track/0NY9vGck8Dc10ZSM50eWRi"
     },
     {
       "album": {
@@ -18865,6 +18967,24 @@
       "duration_ms": 114922,
       "name": "Hungry",
       "url": "https://open.spotify.com/track/7k3WiJ9jQR6EzlJdRRUOnK"
+    },
+    {
+      "album": {
+        "name": "HUSH RUSH",
+        "url": "https://open.spotify.com/album/6ksAgHMbcJbfxwwO799483"
+      },
+      "artists": [
+        {
+          "name": "LEE CHAE YEON",
+          "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "HUSH RUSH",
+      "url": "https://open.spotify.com/track/0P2LW3jbuJLpH2mwg0lLzn"
     },
     {
       "album": {
@@ -21069,6 +21189,24 @@
       "duration_ms": 223423,
       "name": "I`ll Say You Goodbye Before You",
       "url": "https://open.spotify.com/track/2JEpy6fTmDFpK7tMVia8Bb"
+    },
+    {
+      "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/4JOsGIjy7emWurxab3ebvo"
+      },
+      "artists": [
+        {
+          "name": "Pre'Melo",
+          "url": "https://open.spotify.com/artist/59jyRPrPkL8QIR0wfaJMWl"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160704,
+      "name": "Ice americano",
+      "url": "https://open.spotify.com/track/7w87aAN18atEqj9a0CMkeZ"
     },
     {
       "album": {
@@ -25041,6 +25179,36 @@
       "duration_ms": 234376,
       "name": "Love & Care",
       "url": "https://open.spotify.com/track/20DJydWFasUXuGiNRAPLNA"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/673LeCLGE4vwfR72Zhr3X9"
+      },
+      "artists": [
+        {
+          "name": "Spray",
+          "url": "https://open.spotify.com/artist/08yoNApAYvtzOK5P3qZKw8"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "Jason Lee",
+          "url": "https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Love (feat. Loco, Moon Sujin & Jason Lee)",
+      "url": "https://open.spotify.com/track/0unN86elNEKkjrscaPjKbB"
     },
     {
       "album": {
@@ -29492,6 +29660,24 @@
     },
     {
       "album": {
+        "name": "THE ANSWER",
+        "url": "https://open.spotify.com/album/4qdkyjBC2173KTRaCzDUxJ"
+      },
+      "artists": [
+        {
+          "name": "PARK JI HOON",
+          "url": "https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209560,
+      "name": "NITRO",
+      "url": "https://open.spotify.com/track/0QtaaIaZRBGazjLBBuZrZ4"
+    },
+    {
+      "album": {
         "name": "NNF",
         "url": "https://open.spotify.com/album/336ugqpZP6UFw65P20Esew"
       },
@@ -29649,6 +29835,24 @@
       "duration_ms": 131585,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/3pahbauVJHNvRU8hAb3D03"
+    },
+    {
+      "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/5I7mGDgQg72UTQEiEa2yX4"
+      },
+      "artists": [
+        {
+          "name": "Baekho",
+          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169693,
+      "name": "No Rules",
+      "url": "https://open.spotify.com/track/4DAcnOyjgcSAuQuDNjTgSd"
     },
     {
       "album": {
@@ -32091,6 +32295,28 @@
       "duration_ms": 157781,
       "name": "Pick Up The Phone (feat. El Vato)",
       "url": "https://open.spotify.com/track/09rKh1TMsxJpiyo77fOeIO"
+    },
+    {
+      "album": {
+        "name": "Pick up the phone",
+        "url": "https://open.spotify.com/album/2RFvujzAQjw5bm2N97bE2M"
+      },
+      "artists": [
+        {
+          "name": "COCONA",
+          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
+        },
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162564,
+      "name": "Pick up the phone (Feat.OLNL)",
+      "url": "https://open.spotify.com/track/0JgK5xa0fMOZ7rmWw35SEf"
     },
     {
       "album": {
@@ -35822,6 +36048,24 @@
     },
     {
       "album": {
+        "name": "Seasons of Blossom (Seasons of Blossom Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4K0V3BKRNdDR2IgYxahk8u"
+      },
+      "artists": [
+        {
+          "name": "Cheon ji won",
+          "url": "https://open.spotify.com/artist/4mAMLdxCAnBsr14WaJ23oy"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219613,
+      "name": "Seasons of Blossom",
+      "url": "https://open.spotify.com/track/17VBb9LWU5o2KxrZEpuNoM"
+    },
+    {
+      "album": {
         "name": "Primary and Pphk Pt.1",
         "url": "https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t"
       },
@@ -36916,6 +37160,24 @@
     },
     {
       "album": {
+        "name": "May It Please The Court (Original Soundtrack from the Disney+ Original)",
+        "url": "https://open.spotify.com/album/5Lz4OYeBQmBEdvw7hfewpH"
+      },
+      "artists": [
+        {
+          "name": "CALi",
+          "url": "https://open.spotify.com/artist/6iwkJtb0XVezb2eDylMkaG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212240,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0LTcltmZVc0IRu2gkpXCqD"
+    },
+    {
+      "album": {
         "name": "Sin",
         "url": "https://open.spotify.com/album/5fRpKKEeNHIxjAL0DhKAlj"
       },
@@ -37827,6 +38089,24 @@
     {
       "album": {
         "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+    },
+    {
+      "album": {
+        "name": "HEAL",
         "url": "https://open.spotify.com/album/2jmok4chNxn00UBs3gj1xF"
       },
       "artists": [
@@ -37837,7 +38117,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 200581,
       "name": "Sour",
       "url": "https://open.spotify.com/track/6Ji1Ucu9oFMkRawhEe8a16"
@@ -43898,6 +44178,24 @@
     },
     {
       "album": {
+        "name": "Lethality",
+        "url": "https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf"
+      },
+      "artists": [
+        {
+          "name": "KWON EUN BI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170600,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
+    },
+    {
+      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/6URYVRtZdipbif6ddS8MLX"
       },
@@ -45691,6 +45989,24 @@
       "duration_ms": 170973,
       "name": "What If (feat. Hoody)",
       "url": "https://open.spotify.com/track/3TkhE34ixqskGRjE5hBnxB"
+    },
+    {
+      "album": {
+        "name": "Code Name: Arrow",
+        "url": "https://open.spotify.com/album/6lGBHQBYL3eRzQ2ONYaxYc"
+      },
+      "artists": [
+        {
+          "name": "UP10TION",
+          "url": "https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190360,
+      "name": "What If Love",
+      "url": "https://open.spotify.com/track/5M2fQ0KSLYRwrpIm4SxDl8"
     },
     {
       "album": {
@@ -49840,7 +50156,7 @@
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192994,
+      "duration_ms": 191872,
       "name": "\uc6d0 Wish",
       "url": "https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw"
     },

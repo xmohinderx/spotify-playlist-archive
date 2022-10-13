@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Wesley Safadão com Zé Vaqueiro, Gusttavo Lima, Leo Santana e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,783,677 likes - 76 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,783,898 likes - 76 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 11 | [Vim de Lá](https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Vim de Lá](https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb) | 2:48 |
 | 12 | [Horas Iguais](https://open.spotify.com/track/4m8kG46clzxMxyrDuFo1Uq) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Horas Iguais](https://open.spotify.com/album/75q0lNTV1DIYkLeBqil9EE) | 4:06 |
 | 13 | [Ciúme Ni Mim \- Ao Vivo](https://open.spotify.com/track/4DeF8klU8y9JWQGN9mzQGS) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Resenha 3 \(Ao Vivo\)](https://open.spotify.com/album/6NATO2Ljai8xB1a9WCta1h) | 2:34 |
-| 14 | [5 Estrelas](https://open.spotify.com/track/2Xd1nFvf3pTjTKZRKEgts0) | [Paulo Pires](https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY) | [5 Estrelas](https://open.spotify.com/album/37YVuHCd4zQoCsD3kIwG7I) | 2:38 |
+| 14 | [5 Estrelas \- Ao Vivo](https://open.spotify.com/track/2Xd1nFvf3pTjTKZRKEgts0) | [Paulo Pires](https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY) | [5 Estrelas \(Ao Vivo\)](https://open.spotify.com/album/37YVuHCd4zQoCsD3kIwG7I) | 2:38 |
 | 15 | [Esfriou \- Ao Vivo](https://open.spotify.com/track/2QhAyuCSo9VdRyeWA6GEWY) | [Luiz Henrique e Leo](https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO), [Netto & Henrique](https://open.spotify.com/artist/7a6OmakIInI0Q0VjbYCASe) | [Esfriou \(Ao Vivo\)](https://open.spotify.com/album/3FlQdQ6oZbWKtHKyVkrraJ) | 3:15 |
 | 16 | [Bebaiada \- Ao Vivo](https://open.spotify.com/track/3kZSM7ZCeGSHm0EDINYXIk) | [Netto & Henrique](https://open.spotify.com/artist/7a6OmakIInI0Q0VjbYCASe) | [Simplesmente Acústico \(Ao Vivo / Vol\. 2\)](https://open.spotify.com/album/57Lpp71FDTUn1gr9Xb1J3j) | 3:11 |
 | 17 | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM) | 3:12 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 32 | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW) | 2:38 |
 | 33 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 |
 | 34 | [Vencemos Esse Mundão](https://open.spotify.com/track/3aNSQtBncZcZh1XzuAqJPB) | [UMusicPlay](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [Dj Batata](https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au), [Guiggow](https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN), [KIQ](https://open.spotify.com/artist/4o1mfAIDQqc0T605GOTpwp), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt), [COTA](https://open.spotify.com/artist/7u1IM9x4Ph8OzXjaWv71LP), [Them Con](https://open.spotify.com/artist/7rBSwSc6iKDV4slZRul3Sr) | [Casa UMusicPlay Urbanamente \(Vol\. 1\)](https://open.spotify.com/album/0x0sbTpKTN1xLfkKot5iSR) | 2:26 |
-| 35 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 |
+| 35 | [Scandalous \(with Tinashe\)](https://open.spotify.com/track/4KQLEIHhg3Pjdgx1QY6Ehv) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/5TIrVSKDY1rxhqPu6Axw7r) | 2:39 |
 | 36 | [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 |
 | 37 | [We Already Know \- Radio Edit](https://open.spotify.com/track/4f5LkvEO13ygcI3LIeVgsf) | [Evokings](https://open.spotify.com/artist/2PHZw1JCGqwqxZdZ0tt222) | [We Already Know](https://open.spotify.com/album/76xOGkrQUbL7kjSNIKSKlw) | 3:46 |
 | 38 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 75 | [Fértil](https://open.spotify.com/track/3AtKu0zAYuDUKrUVnueawO) | [Scracho](https://open.spotify.com/artist/5CMP1ienEyXqs6NkMOZHrw) | [Fértil](https://open.spotify.com/album/0zTgYkPyHSr2CsWzdCYMBL) | 3:17 |
 | 76 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 |
 
-Snapshot ID: `MTY2NTE3MjUxMCwwMDAwMDAwMGE0OWQ1MzEwMzlhZWI0NWYyODZmYTI3MTZmYWYwOGJj`
+Snapshot ID: `MTY2NTE3MjUxMCwwMDAwMDAwMDcwNzJiYjliMDc2YzM0MTgyZGJmOTFmYmYyNmVlNGM1`

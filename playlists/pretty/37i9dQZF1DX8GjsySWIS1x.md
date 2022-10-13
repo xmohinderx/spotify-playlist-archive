@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gamer music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,946 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,059 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 39 | [Solo](https://open.spotify.com/track/6KxHecO2Un6TxnSq8Ufrzi) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk), [Andrea Storm Kaden](https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU) | [Solo](https://open.spotify.com/album/70di9w4RMd5TIGEJ2BvFwU) | 3:22 |
 | 40 | [Fly Away](https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Fly Away](https://open.spotify.com/album/0F7ftNMhjvUDyDpWklGStR) | 3:14 |
 | 41 | [Demons on the Side of My Bed](https://open.spotify.com/track/7gYh5gtrTe88mGvIieU1mk) | [Teflon Sega](https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X) | [Demons on the Side of My Bed](https://open.spotify.com/album/4oyfZ3fSxDqc5co0TwIb9r) | 3:46 |
-| 42 | [Knee Deep at ATP](https://open.spotify.com/track/7GN5qZoCkvWxo4ENsFKA6B) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/6FaPUkwFu0JUmEc9yi3PPs) | 3:08 |
+| 42 | [Knee Deep at ATP](https://open.spotify.com/track/18g9sFXzAcXTPrcmDXSk9z) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/6pTPviSRgaaaGzxGiuna5O) | 3:08 |
 | 43 | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD) | 2:19 |
 | 44 | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Abdul Cisse\]](https://open.spotify.com/track/0nb9kXzptLW51z6gX5jzz7) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Abdul Cisse](https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl) | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Abdul Cisse\] \[Fortnite Battle Pass Gamer Remix/ with Alan Walker & Abdul Cisse\]](https://open.spotify.com/album/3aWHGpf2SLqsaeZElKcD3N) | 2:28 |
 | 45 | [CLOUDS](https://open.spotify.com/track/1mvI5pGoh84IiFSbWxEkGH) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [CLOUDS \(THE MIXTAPE\)](https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t) | 4:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 59 | [Tarantino](https://open.spotify.com/track/4JfaAGQUBwFU886lRnPQIQ) | [Teflon Sega](https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X), [OZZIE](https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p) | [Tarantino](https://open.spotify.com/album/4YFETS96ebbE1JzttOofco) | 3:41 |
 | 60 | [NO MIND](https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [NO MIND](https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b) | 2:52 |
 
-Snapshot ID: `MTY2NDkxMTQ3MSwwMDAwMDAwMGU2NjY4NzIzYzUzMGE1YTIwNDgyYmNhM2JmMGRmZTI0`
+Snapshot ID: `MTY2NDkxMTQ3MSwwMDAwMDAwMGRkMjFkNjc0MzhlZmEwNzNmMmVjYTQ3ZDk1MmU0MjVl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Billkin",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ALALA",
   "name": "T-Pop Now",
   "published_playlist_ids": [
     "46jC5TDLIJijd5c6Z3EIRR"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 209999,
       "name": "ambulance",
       "url": "https://open.spotify.com/track/0mMT09W4GI0c374hAHoRKg"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 188461,
       "name": "I'm in Luv",
       "url": "https://open.spotify.com/track/6Z5yGBnJ6f8AtpvOQWO4FL"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 178200,
       "name": "NOT BAD",
       "url": "https://open.spotify.com/track/7FTMdodLdOOWspXMQKKQw0"
@@ -1684,6 +1684,28 @@
     },
     {
       "album": {
+        "name": "\u0e0b\u0e49\u0e2d\u0e21\u0e21\u0e35\u0e41\u0e1f\u0e19 (trial)",
+        "url": "https://open.spotify.com/album/1X4Je0roqbsKnR5EQwUv4g"
+      },
+      "artists": [
+        {
+          "name": "Kinkaworn",
+          "url": "https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg"
+        },
+        {
+          "name": "bamm",
+          "url": "https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194854,
+      "name": "\u0e0b\u0e49\u0e2d\u0e21\u0e21\u0e35\u0e41\u0e1f\u0e19 (trial)",
+      "url": "https://open.spotify.com/track/5xdmFkq5uVLzhogUK8wRQk"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e35\u0e44\u0e1b\u0e2b\u0e21\u0e14",
         "url": "https://open.spotify.com/album/1viYiMdvWDes9eIAqwLF1p"
       },
@@ -2433,7 +2455,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 250206,
       "name": "\u0e22\u0e34\u0e48\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e22\u0e34\u0e48\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/6CgJl6EjINVDLvRTYIHwl2"
@@ -2669,6 +2691,24 @@
       "duration_ms": 233777,
       "name": "\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e2a\u0e32\u0e22 (Wasn't Right)",
       "url": "https://open.spotify.com/track/55Kh7kfVOwfheYSHpxBFYl"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49\u0e14\u0e31\u0e07\u0e46 (Not A Chance)",
+        "url": "https://open.spotify.com/album/6YN30I26NVC54hlerjD8k6"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235781,
+      "name": "\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49\u0e14\u0e31\u0e07\u0e46 (Not A Chance)",
+      "url": "https://open.spotify.com/track/5j7vOGEPZsnigRggWqYQJr"
     },
     {
       "album": {
@@ -4215,6 +4255,24 @@
       "duration_ms": 218500,
       "name": "\u0e43\u0e08\u0e1b\u0e4b\u0e21 - You cut my heart cuz you don't care my hair",
       "url": "https://open.spotify.com/track/0SwPGg24r6JbBIMJuJI66s"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e08\u0e27\u0e32\u0e22 (Why Do I Love You?)",
+        "url": "https://open.spotify.com/album/6GwmK1E56jer66kfS4KXIg"
+      },
+      "artists": [
+        {
+          "name": "Fairy Dolls",
+          "url": "https://open.spotify.com/artist/1EPm0ioGXLfLYoeiGPV07y"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193359,
+      "name": "\u0e43\u0e08\u0e27\u0e32\u0e22 (Why Do I Love You?)",
+      "url": "https://open.spotify.com/track/6Ejj2a4mxzY6qZL1CnC3Ut"
     },
     {
       "album": {

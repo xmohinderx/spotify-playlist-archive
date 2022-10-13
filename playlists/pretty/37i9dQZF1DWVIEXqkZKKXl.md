@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,508 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,525 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 12 | [Separation \- Instrumental](https://open.spotify.com/track/3GyffYdNhFgjmywjXt6spW) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 2:29 |
 | 13 | [Tango For Taj](https://open.spotify.com/track/3mLdsGVuIG0jJAn8dQFvqU) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 2:58 |
 | 14 | [Dor Theme](https://open.spotify.com/track/0pgw4O5h8wKOVplM54YMCx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kiwHm9mwEnOjka8GrN9hS) | 1:49 |
-| 15 | [Akash's Love Theme](https://open.spotify.com/track/1glyMug7gR6ahQ8evXYqcy) | [Mike Harvey](https://open.spotify.com/artist/4SeAXyEmckKjoQoweI9fiT) | [Dil Chahta Hai](https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI) | 2:10 |
-| 16 | [Title Music](https://open.spotify.com/track/0JssnFzBVPo5Wk9k9UT808) | [Ismail Darbar](https://open.spotify.com/artist/3r4HOyyBpGvNIyajw3mcER) | [Devdas \- An Adaptation Of Sarat Chandra Chattopadhyay's "Devdas"](https://open.spotify.com/album/7DMHBOZasKAboJFNNV7k4m) | 1:31 |
+| 15 | [Title Music](https://open.spotify.com/track/0JssnFzBVPo5Wk9k9UT808) | [Ismail Darbar](https://open.spotify.com/artist/3r4HOyyBpGvNIyajw3mcER) | [Devdas \- An Adaptation Of Sarat Chandra Chattopadhyay's "Devdas"](https://open.spotify.com/album/7DMHBOZasKAboJFNNV7k4m) | 1:31 |
+| 16 | [Akash's Love Theme](https://open.spotify.com/track/1glyMug7gR6ahQ8evXYqcy) | [Mike Harvey](https://open.spotify.com/artist/4SeAXyEmckKjoQoweI9fiT) | [Dil Chahta Hai](https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI) | 2:10 |
 | 17 | [Veer'S Story – Saamiya'S Theme \(Instrumental\)](https://open.spotify.com/track/0cOi8CPOAhUgw1asVhQVdW) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [The Love Legend Themes: Veer\-Zaara Themes & Instrumental Scores](https://open.spotify.com/album/7cufmUMLy4bGanr9fc6Jnl) | 3:11 |
 | 18 | [I'm On \(Theme\)](https://open.spotify.com/track/53smqbWww0YmOlRyRjZT1h) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 1:21 |
 | 19 | [Theme](https://open.spotify.com/track/1BxQvVVchZOL5bLGXRdXHs) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Udaan](https://open.spotify.com/album/675yMfRB6Diis4V1bJi4KL) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 49 | [Crush The Rebels](https://open.spotify.com/track/5JES4hDzGsLOzfPQFpB9Uj) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Sardar Udham \(Original Background Score\)](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 5:11 |
 | 50 | [Rockford Theme \- Instrumental](https://open.spotify.com/track/6rZRfqE5yPnOMqhqgNPxaM) | [Ashirvad](https://open.spotify.com/artist/4BXd7j6uYCeZFgi3B5v3K7), [Sangeeth Luke](https://open.spotify.com/artist/3MJZzdlZhRijyUHSMnaP5o) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 3:35 |
 
-Snapshot ID: `MTY2NDM2Mjk5NywwMDAwMDAwMGRjZmIzYmUyNmM4Zjg4YTA4OTYzNzZmYWI1ODc5YmZk`
+Snapshot ID: `MTY2NDM2Mjk5NywwMDAwMDAwMDE1OTI3YjA3NjVhNDE0YzMzMzcyMDA0Y2Q5NTc5Zjdl`

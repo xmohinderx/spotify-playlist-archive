@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,590 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,602 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 38 | [Station Blues](https://open.spotify.com/track/3EslkE2cZXvv4oiNDZbh3W) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Mississippi To Mali](https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T) | 3:29 |
 | 39 | [Tenere wer tat zinchegh](https://open.spotify.com/track/2ublmuB6ysxXMtb64UOIjk) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Ishumar: Musique touarègue de résistance](https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX) | 7:00 |
 | 40 | [Mississippi\-Mali Blues](https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 3:17 |
-| 41 | [An Mataf Germanawen](https://open.spotify.com/track/7yWMNLI0W0XQulx62QkzVB) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [The Sahara Sessions](https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid) | 4:00 |
-| 42 | [Mansana Blues](https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY) | [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [Mansana Blues](https://open.spotify.com/album/7kuJ2YGGNVdt2wAFY2D0D6) | 6:48 |
+| 41 | [Mansana Blues](https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY) | [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [Mansana Blues](https://open.spotify.com/album/7kuJ2YGGNVdt2wAFY2D0D6) | 6:48 |
+| 42 | [An Mataf Germanawen](https://open.spotify.com/track/7yWMNLI0W0XQulx62QkzVB) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [The Sahara Sessions](https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid) | 4:00 |
 | 43 | [Fenfo](https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fenfo \(Something To Say\)](https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn) | 4:28 |
 | 44 | [Dune Blues](https://open.spotify.com/track/6QqzGQfDnaQDwHGVnPkz6u) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [The West African Blues Project](https://open.spotify.com/album/2qmkovxkB5dMiploF5sI2Y) | 4:10 |
 | 45 | [Tamalah](https://open.spotify.com/track/1x3Y5XIrFf01LIqus4kQKI) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Mississippi To Mali](https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T) | 6:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 49 | [The Lighthouse Keeper](https://open.spotify.com/track/56pRhM8fsMvWGL0dAnzj9W) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6), [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm) | [The West African Blues Project](https://open.spotify.com/album/510vDsJUph73WMw4GK1x19) | 4:11 |
 | 50 | [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 |
 
-Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMGQ0ZmE0OWY4NmYzYzkxYmMxNjI5ODAzOGI2ZjZkMDE2`
+Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDhiZWU1YzVhMjRlYzI4YjlkM2E4ODU4ZGY3YTAzNDBl`

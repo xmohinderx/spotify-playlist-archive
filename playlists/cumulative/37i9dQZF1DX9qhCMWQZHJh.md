@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-64 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/0jqxyVDehbifbJp5LcYEor)
+66 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/0jqxyVDehbifbJp5LcYEor)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,12 @@
 | [Essentially](https://open.spotify.com/track/2OZXdq8Z8pyvGWDnzhHFEX) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Essentially](https://open.spotify.com/album/0nO6SoUfhavtCo0JflL3SJ) | 3:16 | 2022-04-11 |  |
 | [Far from Heaven](https://open.spotify.com/track/1pF0MdgFm92mwM7sxJOves) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Oh What the Future Holds](https://open.spotify.com/album/6Ye3ONH5U76f9MqPg3zxcl) | 4:44 | 2022-04-25 |  |
 | [Fast Slow Disco](https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Fast Slow Disco](https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q) | 3:17 | 2022-04-11 |  |
-| [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2022-04-11 |  |
+| [Feels Like I'm Flying](https://open.spotify.com/track/0rOoY7stMHi3T7J2KmkNdV) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/7Kwkp5g082UgcpJtXVOEh7) | 2:35 | 2022-04-11 |  |
+| [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2022-04-11 | 2022-10-13 |
 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 | 2022-04-11 |  |
 | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/track/5CBEzaNEuv3OO32kZoXgOX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 5:37 | 2022-05-06 |  |
-| [Gibson Girl](https://open.spotify.com/track/2C5C6grASn2TzfsrGu54tZ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Gibson Girl](https://open.spotify.com/album/5iQkSBngJVrm7mbhQ6iFaT) | 5:42 | 2022-04-11 |  |
+| [Gibson Girl](https://open.spotify.com/track/02yzNsWcv7BtITeIoIqeVU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:42 | 2022-04-11 |  |
+| [Gibson Girl](https://open.spotify.com/track/2C5C6grASn2TzfsrGu54tZ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Gibson Girl](https://open.spotify.com/album/5iQkSBngJVrm7mbhQ6iFaT) | 5:42 | 2022-04-11 | 2022-10-13 |
 | [GLOWED UP](https://open.spotify.com/track/4v20N4W83XDJORt7WCedII) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:58 | 2022-05-06 |  |
 | [Good 2 Yourself](https://open.spotify.com/track/14BJVFg03Ep2iytTOSCEy1) | [Life in Sweatpants](https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ) | [Good 2 Yourself](https://open.spotify.com/album/3Crx0tSFjXYhJVERZJ5hXl) | 3:50 | 2022-04-11 |  |
 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 | 2022-05-06 |  |

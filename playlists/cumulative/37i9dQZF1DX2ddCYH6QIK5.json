@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: RAR, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: ISAIAH, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -597,6 +597,24 @@
       "duration_ms": 271983,
       "name": "Baby",
       "url": "https://open.spotify.com/track/37dpyJsBy1bIGJNrztzr6S"
+    },
+    {
+      "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/0ADMAVguSH0yhg9Aiel4vk"
+      },
+      "artists": [
+        {
+          "name": "Yours, Karim",
+          "url": "https://open.spotify.com/artist/3USpxmdBSa87Rnker20yvV"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159829,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/7zJWKWiZ0EBAJpRuLs2uzC"
     },
     {
       "album": {
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 213171,
       "name": "coraz\u00f3n",
       "url": "https://open.spotify.com/track/4CMsK4ruUHWiMX385XkyXQ"
@@ -1543,6 +1561,24 @@
       "duration_ms": 272511,
       "name": "Creeper Deeper",
       "url": "https://open.spotify.com/track/3Nx8BjUdk3hRUSxVpKU8xY"
+    },
+    {
+      "album": {
+        "name": "Cuts",
+        "url": "https://open.spotify.com/album/4kfJubn02wb5fPG0vzKvig"
+      },
+      "artists": [
+        {
+          "name": "Head Under Water",
+          "url": "https://open.spotify.com/artist/2EVz8ejKIkvxXwSGK3sC86"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "Cuts",
+      "url": "https://open.spotify.com/track/6zgVXwAMPAmKBlSxuIAYAR"
     },
     {
       "album": {
@@ -2883,7 +2919,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 160333,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/0HDBZ3PzhFR5MXVzVySgv4"
@@ -4356,6 +4392,24 @@
     },
     {
       "album": {
+        "name": "Leger in Schwarz",
+        "url": "https://open.spotify.com/album/1kU4rikpMi82g15StSKIlP"
+      },
+      "artists": [
+        {
+          "name": "WILDES",
+          "url": "https://open.spotify.com/artist/4loLRSRDzLWcwz5gJroHTJ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179395,
+      "name": "Leger in Schwarz",
+      "url": "https://open.spotify.com/track/3N0vTdg3KZm45diheItjn4"
+    },
+    {
+      "album": {
         "name": "Leichter",
         "url": "https://open.spotify.com/album/55fnSAWqSGoobBwAGJHTdn"
       },
@@ -4457,7 +4511,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 165000,
       "name": "Loop",
       "url": "https://open.spotify.com/track/6JvxNeGUgJSqCRgv1LGgFB"
@@ -4788,6 +4842,24 @@
     },
     {
       "album": {
+        "name": "Hab schon",
+        "url": "https://open.spotify.com/album/4HDLiYxuYulZULlogWhz7L"
+      },
+      "artists": [
+        {
+          "name": "Enpal",
+          "url": "https://open.spotify.com/artist/400vV7Vs9cXxCa0PWBqOrS"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Mich",
+      "url": "https://open.spotify.com/track/5fsuJIbKoH7e6U7g7oJ59C"
+    },
+    {
+      "album": {
         "name": "mikaela",
         "url": "https://open.spotify.com/album/1FyJZUcwRQEOjyA8u1RbJz"
       },
@@ -4929,7 +5001,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 257379,
       "name": "Moondance",
       "url": "https://open.spotify.com/track/29oMrBJZRirU9Endkclqgc"
@@ -4947,7 +5019,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 211492,
       "name": "More",
       "url": "https://open.spotify.com/track/4H2bO5DwAjHWNqc4bjxfjT"
@@ -5527,7 +5599,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 186536,
       "name": "Oscar",
       "url": "https://open.spotify.com/track/2pfXHPxobuMW7nBI9kdDqp"
@@ -5974,6 +6046,24 @@
     },
     {
       "album": {
+        "name": "Rauch",
+        "url": "https://open.spotify.com/album/2MdeebVrs3cpKFaq1JmQ7S"
+      },
+      "artists": [
+        {
+          "name": "ANIKA",
+          "url": "https://open.spotify.com/artist/0i85ZVHgU9GmXkyn9tQRpg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193630,
+      "name": "Rauch",
+      "url": "https://open.spotify.com/track/02YOcaXI86clPG29BTvcxI"
+    },
+    {
+      "album": {
         "name": "tr\u00e4nen von dir",
         "url": "https://open.spotify.com/album/1aYuxGbeXAKWpr1gw6rIa3"
       },
@@ -6201,7 +6291,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 212874,
       "name": "Ride",
       "url": "https://open.spotify.com/track/6aXN9C4bM8kxI9CSLNbjaG"
@@ -7108,6 +7198,24 @@
     },
     {
       "album": {
+        "name": "STRUGGLE",
+        "url": "https://open.spotify.com/album/2frz9hOTIwcaaM0ezctsU5"
+      },
+      "artists": [
+        {
+          "name": "ISAIAH",
+          "url": "https://open.spotify.com/artist/01iPtgyGh1o00ypKadP5DK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192465,
+      "name": "STRUGGLE",
+      "url": "https://open.spotify.com/track/0LEERa0B2yvLwwJjrJMHSA"
+    },
+    {
+      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ"
       },
@@ -7635,7 +7743,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 190000,
       "name": "Timber",
       "url": "https://open.spotify.com/track/6VzXB12CGKLS6Kc5Inha8P"
@@ -7747,6 +7855,24 @@
       "duration_ms": 195925,
       "name": "Traces",
       "url": "https://open.spotify.com/track/5KhnrnJduaIeG7qq7Kly1Y"
+    },
+    {
+      "album": {
+        "name": "Traffic Lights",
+        "url": "https://open.spotify.com/album/61AYogut6rSU9Zr8w9eLOK"
+      },
+      "artists": [
+        {
+          "name": "Bikini Beach",
+          "url": "https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129160,
+      "name": "Traffic Lights",
+      "url": "https://open.spotify.com/track/3gqkIIyHeAwkP6eRMHdzhB"
     },
     {
       "album": {
@@ -7905,10 +8031,28 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 385111,
       "name": "Universe of Annoying Coffee-Snobs",
       "url": "https://open.spotify.com/track/7n7nKBWKWQUJ8OljxHwxTK"
+    },
+    {
+      "album": {
+        "name": "Unruhe",
+        "url": "https://open.spotify.com/album/598A78ybotoNKq85DjETFo"
+      },
+      "artists": [
+        {
+          "name": "Mira Mann",
+          "url": "https://open.spotify.com/artist/49F1sXCUxwblViHic7XuJ4"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240131,
+      "name": "Unruhe",
+      "url": "https://open.spotify.com/track/3jpM2iPMEEYbGb0wrG3kVO"
     },
     {
       "album": {
@@ -8025,6 +8169,24 @@
       "duration_ms": 150434,
       "name": "Vermiss mich",
       "url": "https://open.spotify.com/track/6zx9I912i7PLQ4TIAlHkoZ"
+    },
+    {
+      "album": {
+        "name": "VERY SAD OPFERTYP",
+        "url": "https://open.spotify.com/album/054y1HNR796eDAZsXbEMAn"
+      },
+      "artists": [
+        {
+          "name": "AUGN",
+          "url": "https://open.spotify.com/artist/1kgwADR31NnmIwAfqffBo4"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167671,
+      "name": "VERY SAD OPFERTYP",
+      "url": "https://open.spotify.com/track/78E7hEa5130fVJMwQYCiO3"
     },
     {
       "album": {

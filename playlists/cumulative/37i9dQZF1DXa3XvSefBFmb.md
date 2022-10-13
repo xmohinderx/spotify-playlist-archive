@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas portuguesas, como Nena, com o volume no máximo.
 
-258 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
+259 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [Sai Da Frente, Vou Passar](https://open.spotify.com/track/5DGfI3DkbgaiVUdA44Zq9G) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [Sai Da Frente, Vou Passar](https://open.spotify.com/album/5By89shZkEYtTwXyMxCOe0) | 3:14 | 2022-08-02 | 2022-10-05 |
 | [Salute](https://open.spotify.com/track/1rwl3flvip3W8YTxhXcqSQ) | [Gilsame](https://open.spotify.com/artist/56t7V8kckHrbAj1EjxEfeO) | [Salute](https://open.spotify.com/album/5eAsnIMABbRofsWjWswBbZ) | 3:14 | 2022-02-02 | 2022-03-08 |
 | [saudade, saudade](https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Festival Da Canção 2022](https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx) | 3:01 | 2022-02-02 | 2022-04-06 |
-| [Sausalito](https://open.spotify.com/track/58NbKFlfq0nkU1oM56ukYd) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Sausalito](https://open.spotify.com/album/1nCA0AlzAIQQdJA1hwUr0Z) | 2:09 | 2022-09-06 |  |
+| [Sausalito](https://open.spotify.com/track/215NAD3uaae41QNasxDVEB) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Sausalito](https://open.spotify.com/album/5clvalzSamRsnrgAVv82Ss) | 2:09 | 2022-10-04 |  |
+| [Sausalito](https://open.spotify.com/track/58NbKFlfq0nkU1oM56ukYd) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Sausalito](https://open.spotify.com/album/1nCA0AlzAIQQdJA1hwUr0Z) | 2:09 | 2022-09-06 | 2022-10-13 |
 | [Se Não Me Amas](https://open.spotify.com/track/4Zx3VzAoFuUjSRNleBy0y8) | [Elisa](https://open.spotify.com/artist/5dmOPgOqzAhlpOlGFUouNh) | [No Meu Canto](https://open.spotify.com/album/6HePkzPOyjSuqUy6f9M23x) | 4:32 | 2021-12-08 | 2022-03-08 |
 | [Seguimos pela metade](https://open.spotify.com/track/1WPe6k0tslGlIRsO0obMTy) | [Denise](https://open.spotify.com/artist/6t9iYij561aIw8DBdos1Wr) | [Seguimos pela metade](https://open.spotify.com/album/1fb2OVGhNAxmpHXhISBMlR) | 3:09 | 2022-05-03 | 2022-07-06 |
 | [Seguir Sem Ti](https://open.spotify.com/track/7yPjbiCElh559jItTNcq3e) | [Gabriela](https://open.spotify.com/artist/6gOEb7F3fvyaAQGfJubvq2) | [Seguir Sem Ti](https://open.spotify.com/album/30JGcrXRxylz4UKdTLSrXl) | 3:19 | 2021-12-08 | 2022-03-08 |

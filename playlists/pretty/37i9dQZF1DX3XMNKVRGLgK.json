@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 262,
+  "num_followers": 281,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDQ0YzVmYjJjOGVhZDQ3YTFhY2JhMDk4MzMyOWM0ODVk",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGIxOGExMDA0NWUxM2Q5OTYzZjU1NmFmY2YwMDJiYmI5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Diplomatic Immunity",
-        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
-      },
-      "artists": [
-        {
-          "name": "The Diplomats",
-          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
-        }
-      ],
-      "duration_ms": 281573,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/1Z5kIJ1ZKzVFSJXG1Y5zFb"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 274146,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/0PWQqF5PvqRq0OPLSH0FKI"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Diplomatic Immunity",
+        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
+      },
+      "artists": [
+        {
+          "name": "The Diplomats",
+          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
+        }
+      ],
+      "duration_ms": 281573,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/1Z5kIJ1ZKzVFSJXG1Y5zFb"
     },
     {
       "added_at": "2022-10-01 16:00:00",

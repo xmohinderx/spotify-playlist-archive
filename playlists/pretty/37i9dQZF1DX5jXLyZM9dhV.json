@@ -1,12 +1,12 @@
 {
   "description": "Revive la \u00e9poca de los pantalones acampanados en compa\u00f1\u00eda de mam\u00e1.",
-  "num_followers": 28172,
+  "num_followers": 28199,
   "original_name": "Mam\u00e1 70era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTU4NjE3NSwwMDAwMDAwMGI3ODIxNDc4OWY4YmZjNWRhZDk3OTkwM2FiODc2NDg4",
+  "snapshot_id": "MTYxOTU4NjE3NSwwMDAwMDAwMDZiNGQzZTVmY2Q0NjIzYTU1YjNiNGUwOTUwNTMxODk3",
   "tracks": [
     {
       "added_at": "2021-04-28 05:02:55",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Step II",
-        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
-      },
-      "artists": [
-        {
-          "name": "Sylvester",
-          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
-        }
-      ],
-      "duration_ms": 400115,
-      "name": "You Make Me Feel (Mighty Real)",
-      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Wings At The Speed Of Sound (Archive Collection)",
         "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 354240,
       "name": "Silly Love Songs - Remastered 2014",
       "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Step II",
+        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
+      },
+      "artists": [
+        {
+          "name": "Sylvester",
+          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
+        }
+      ],
+      "duration_ms": 400115,
+      "name": "You Make Me Feel (Mighty Real)",
+      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
     },
     {
       "added_at": "2021-04-28 05:02:55",

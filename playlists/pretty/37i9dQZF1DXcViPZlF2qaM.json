@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 31273,
+  "num_followers": 31323,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwOTUxNCwwMDAwMDAwMDZkZDY2NmE5MzNiMjNiNzBkMjlmMzFmZjVmZDBiMjNm",
+  "snapshot_id": "MTY2NDUwOTUxNCwwMDAwMDAwMGUzMDY0OGQ0Zjc0NzgwNDc3NjZhMTQ3YzY0ZmMzYTA0",
   "tracks": [
     {
       "added_at": "2022-09-27 22:45:21",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
     },
     {
+      "added_at": "2022-01-21 19:49:32",
+      "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/4PtPHfnj1DZZIkVNlVjpyq"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 328773,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Sofrito",
@@ -687,22 +703,6 @@
       "duration_ms": 202906,
       "name": "Baja a la Tierra (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
-    },
-    {
-      "added_at": "2022-01-21 19:49:32",
-      "album": {
-        "name": "Esperanza",
-        "url": "https://open.spotify.com/album/4PtPHfnj1DZZIkVNlVjpyq"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 328773,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -773,6 +773,22 @@
       "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
     },
     {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "No me llores m\u00e1s",
+      "url": "https://open.spotify.com/track/2gIeStpi0SclaktrnvncdO"
+    },
+    {
       "added_at": "2022-04-23 18:00:53",
       "album": {
         "name": "T\u00fa Ve",
@@ -791,22 +807,6 @@
       "duration_ms": 238068,
       "name": "T\u00fa Ve",
       "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "No me llores m\u00e1s",
-      "url": "https://open.spotify.com/track/2gIeStpi0SclaktrnvncdO"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX"
     },
     {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "Sur o No Sur",
+        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Cumbiera Intelectual",
+      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
@@ -931,22 +947,6 @@
       "duration_ms": 275751,
       "name": "Quien lo dir\u00eda",
       "url": "https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D"
-    },
-    {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "Sur o No Sur",
-        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Cumbiera Intelectual",
-      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
-      "added_at": "2022-01-14 04:35:40",
-      "album": {
-        "name": "Mis Amigos",
-        "url": "https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 180569,
-      "name": "Mis Amigos",
-      "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
@@ -1049,20 +1033,36 @@
       "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-04-23 18:00:53",
       "album": {
-        "name": "Cumbias Imaquinarias - EP",
-        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
+        "name": "The Nada",
+        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 237500,
-      "name": "La Cumbia Del Cafe Martinez",
-      "url": "https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O"
+      "duration_ms": 300746,
+      "name": "Guacamole",
+      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
+    },
+    {
+      "added_at": "2022-01-14 04:35:40",
+      "album": {
+        "name": "Mis Amigos",
+        "url": "https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "duration_ms": 180569,
+      "name": "Mis Amigos",
+      "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

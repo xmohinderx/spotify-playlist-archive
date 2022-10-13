@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Goldie Boutilier
 
-187 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+188 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Causeway Road](https://open.spotify.com/track/4FFgPfRziFe3X8IycsBvgy) | [Adam Baldwin](https://open.spotify.com/artist/0NSQUjhseRVGuBwjz6rWnY) | [Causeway Road](https://open.spotify.com/album/6ocdE1SBF3dVvhluIl46B6) | 4:51 | 2022-07-19 | 2022-07-29 |
 | [Church Of Better Daze](https://open.spotify.com/track/6U4jMMusOoHs2XaxVH0qgd) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Church Of Better Daze / Eggs Benediction](https://open.spotify.com/album/39nYzS2wKPTEGglVCwOwTd) | 2:53 | 2022-05-13 | 2022-07-23 |
 | [Come Home](https://open.spotify.com/track/3qNBjyA8TTF9e71oNNUdOK) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [Come Home](https://open.spotify.com/album/5cGQ4683Wr2nkJeaj1lSzW) | 3:32 | 2022-06-03 |  |
-| [Communion \- Country version](https://open.spotify.com/track/0Nyu1FPOJAu7JykM4mf6HR) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Communion \(Country version\)](https://open.spotify.com/album/4xiVZUqaazxXUHUVYoOI1A) | 3:54 | 2022-07-01 |  |
+| [Communion \- Country version](https://open.spotify.com/track/0Nyu1FPOJAu7JykM4mf6HR) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Communion \(Country version\)](https://open.spotify.com/album/4xiVZUqaazxXUHUVYoOI1A) | 3:54 | 2022-07-01 | 2022-10-13 |
+| [Communion \- Country version](https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 3:54 | 2022-10-07 |  |
 | [Contentement](https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39) | [Julie Aubé](https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM) | [Contentement](https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M) | 3:25 | 2022-09-09 |  |
 | [Cowboy Gangster Politician](https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt) | 3:52 | 2022-09-23 |  |
 | [Crucified](https://open.spotify.com/track/6kclw9en3fBEUTjZOjio7c) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Crucified](https://open.spotify.com/album/1LJqHpDylPidxHHunS58Se) | 3:03 | 2022-05-13 | 2022-06-04 |

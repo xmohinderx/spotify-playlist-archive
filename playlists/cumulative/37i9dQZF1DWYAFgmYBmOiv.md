@@ -4,7 +4,7 @@
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-82 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
+84 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 | 2022-07-07 |  |
 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 | 2022-07-07 |  |
 | [Dreaming](https://open.spotify.com/track/79M4YK2A4CNxvmdc6A7her) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Dreaming](https://open.spotify.com/album/1iyAKzNIBvKyEeLS0RwpMC) | 3:36 | 2022-07-07 | 2022-07-29 |
-| [Drift](https://open.spotify.com/track/4CfIRbigdkyDGmgHtHONw3) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/0U1y40quTVSQcDC6IXomkY) | 3:30 | 2022-07-07 |  |
+| [Drift](https://open.spotify.com/track/1bJulrRtEET3KyjpYpaAlX) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/1JXoCmmLYvbifDmKOOneYM) | 3:30 | 2022-07-07 |  |
+| [Drift](https://open.spotify.com/track/4CfIRbigdkyDGmgHtHONw3) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/0U1y40quTVSQcDC6IXomkY) | 3:30 | 2022-07-07 | 2022-10-13 |
 | [Energy Fleets](https://open.spotify.com/track/4Cpg4FCnh6tMDhnLx7mZuW) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Man Alive!](https://open.spotify.com/album/7MLDnEVUacleMDICnnAWuF) | 2:34 | 2022-04-14 | 2022-07-08 |
 | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/track/3UXHq6nG3t1223oh8zZrM9) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/album/119HvKMU8tIao52eIy43X6) | 3:51 | 2022-07-07 |  |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-07-07 |  |
@@ -89,6 +90,7 @@
 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 | 2022-04-14 | 2022-07-08 |
 | [War Pigs / Luke's Wall \- 2012 \- Remaster](https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 7:54 | 2022-04-14 | 2022-07-08 |
 | [Who Are You?](https://open.spotify.com/track/4CvTWDcyTOCDVY4SbXZvqF) | [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [Unsigned](https://open.spotify.com/album/7yzQttn0wrkF1ivIPyYvq8) | 2:33 | 2022-07-07 |  |
-| [Won't Come Down](https://open.spotify.com/track/5tMTwCXoqeRXda2ZQWHEIU) | [Flyers](https://open.spotify.com/artist/5CWnjPFhtLWbquaXL25zZI) | [Dreaming](https://open.spotify.com/album/6BGfVQLnzsBWG4qZaca0Ga) | 3:06 | 2022-07-07 |  |
+| [Won't Come Down](https://open.spotify.com/track/13ZgxPhiygvQBknfoYiUze) | [Flyers](https://open.spotify.com/artist/5CWnjPFhtLWbquaXL25zZI) | [Dreaming](https://open.spotify.com/album/2DyFATyLL55DlX2KrcYs5q) | 3:06 | 2022-07-07 |  |
+| [Won't Come Down](https://open.spotify.com/track/5tMTwCXoqeRXda2ZQWHEIU) | [Flyers](https://open.spotify.com/artist/5CWnjPFhtLWbquaXL25zZI) | [Dreaming](https://open.spotify.com/album/6BGfVQLnzsBWG4qZaca0Ga) | 3:06 | 2022-07-07 | 2022-10-13 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

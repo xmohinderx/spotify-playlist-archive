@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Anti Da Menace
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,584 likes - 52 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,725 likes - 52 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 33 | [Personal Healing](https://open.spotify.com/track/1AnliCzqhA7H7qcDl3Dxcx) | [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Personal Healing](https://open.spotify.com/album/7m6CPETMbn9xGJCtFGcP0D) | 3:12 |
 | 34 | [Razor's Edge](https://open.spotify.com/track/2aLqyoNxj5H1nZC56ObtrG) | [King Chino](https://open.spotify.com/artist/1JUoIzPJTpIc3mnlX98ae7), [Davie Napalm](https://open.spotify.com/artist/5qtnRG93V6Ui9knsxbsoxV), [BlackBuddhaBear](https://open.spotify.com/artist/3yFKoPA8cCjXydhrFeNsOK) | [Razor's Edge](https://open.spotify.com/album/1r3jjeOWI7FTa8obW7FPGI) | 4:36 |
 | 35 | [19](https://open.spotify.com/track/0OG1XZqBMSZNuKoNx1NEgu) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [19](https://open.spotify.com/album/2YP4EV0q1HiZjXkvWteHky) | 2:09 |
-| 36 | [SINCERELY](https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [SINCERELY](https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0) | 3:04 |
+| 36 | [SINCERELY](https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 3:04 |
 | 37 | [NO TELLIN](https://open.spotify.com/track/1G0sjeBdmr2gmVAR3xgZVs) | [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [NO TELLIN](https://open.spotify.com/album/247yuZ7hBgYGX7S3Sh5Fdw) | 2:11 |
 | 38 | [Soda Pop](https://open.spotify.com/track/4rljlKPi0fkI6Lu0ySlIe9) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Soda Pop](https://open.spotify.com/album/3sFt6KykqwyiO2NDPq4owN) | 2:44 |
 | 39 | [TAKE R U OK](https://open.spotify.com/track/4WQWiixXJI7WJsWNdcvsVx) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [TAKE R U OK](https://open.spotify.com/album/7zrajArFSrkaruRU3ZOuzh) | 2:09 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 51 | [My Own World](https://open.spotify.com/track/2UdUvXLXfnSdfKulNXsbLA) | [Trevor Spitta](https://open.spotify.com/artist/6uCXq7IoXFqGSB3L5zX5oV) | [My Own World](https://open.spotify.com/album/5mMiNxliq9IJNvSZyKG1YE) | 2:57 |
 | 52 | [Ziploc](https://open.spotify.com/track/3enOaywliYFULGbAWiSaHH) | [Dot Cromwell](https://open.spotify.com/artist/0hdfJGPr62ZDCTakn4tWa0), [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [Ziploc](https://open.spotify.com/album/6JedRAOLDmKcVcqGS6Zc2O) | 3:10 |
 
-Snapshot ID: `MTY2NDk4NTYwMCwwMDAwMDAwMGFjZjhkOTQyZmM3OTM3OWU0NjE0MWE3NzA5NzYyN2E0`
+Snapshot ID: `MTY2NDk4NTYwMCwwMDAwMDAwMDlmMjk4MzA0OGNjMGU1ZGExMzk3NGJjNDliMGJhZThj`

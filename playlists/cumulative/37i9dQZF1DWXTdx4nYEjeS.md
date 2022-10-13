@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-906 songs - 2 day 7 hr 27 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
+907 songs - 2 day 7 hr 31 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Adios Que Te Vaya Bien](https://open.spotify.com/track/6c9C5tlbSJLC2HY2ItbBcH) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 2:37 | 2022-04-01 | 2022-04-20 |
 | [Agua \- en Memoria de Pau Donés](https://open.spotify.com/track/0Zq33gZMJF9KNUaZl2wCSW) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Lelé](https://open.spotify.com/artist/30zaUiWxGl2IDR0dTiRrXO) | [Agua \- en Memoria de Pau Donés](https://open.spotify.com/album/6wqF9INKjwRgrykys8AJNx) | 3:46 | 2021-12-24 | 2022-07-29 |
 | [Agua Al Cielo](https://open.spotify.com/track/2E0el2kxWVBevtiLuBX09n) | [Uki Goñi](https://open.spotify.com/artist/2RBo7Zu1as03wuY5BHLgZD), [Manuel Quieto](https://open.spotify.com/artist/4OVSeAK6gt29d9V8uwFzHn) | [Agua Al Cielo](https://open.spotify.com/album/2VMgqL4UD7oqk3CYx82Kj5) | 2:41 | 2022-03-24 | 2022-04-12 |
+| [Agua Marfil](https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S) | 4:11 | 2022-10-13 |  |
 | [Aguatera](https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 3:23 | 2022-04-08 | 2022-04-14 |
 | [Ahora 1](https://open.spotify.com/track/3kht15RVvJmEFPVgwKA1HC) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El Pozo Brillante](https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1) | 2:37 | 2022-02-18 | 2022-06-17 |
 | [Ahora Sé Quién Soy](https://open.spotify.com/track/7IwJClDXcIWJ6M4IZm8fTN) | [Las Cosas Invisibles](https://open.spotify.com/artist/3zZQNn1UpIiApuXq7KjGL7) | [Ahora Sé Quién Soy](https://open.spotify.com/album/3qgBUUw8IGPqjDST7KvMYy) | 4:45 | 2022-03-28 | 2022-04-21 |
@@ -111,7 +112,7 @@
 | [Barro](https://open.spotify.com/track/6Gves1KZvYZ4gSg0pKUgqm) | [Valen Bonetto](https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [OTRX II](https://open.spotify.com/album/7xpbbpRtVDDCKcnnqHGa4P) | 3:17 | 2022-04-08 | 2022-04-10 |
 | [Barro Tal Vez \(with Luis Alberto Spinetta\)](https://open.spotify.com/track/3aCnoryvqXihyhd4znMsSb) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 3:45 | 2022-04-01 | 2022-04-17 |
 | [Basket Case](https://open.spotify.com/track/2WM7ZRdvK3YEMKzkLUtVwJ) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Basket Case](https://open.spotify.com/album/7CGhJlFFbyjsz7oRfvjOTp) | 2:49 | 2022-03-24 | 2022-04-13 |
-| [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 | 2021-12-24 |  |
+| [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 | 2021-12-24 | 2022-10-13 |
 | [Beautiful Girls](https://open.spotify.com/track/5IuV0YqQfVkzRQmvoDClV1) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Beautiful Girls](https://open.spotify.com/album/5N3aGKPcdxAViYFagexAEO) | 3:58 | 2022-04-01 | 2022-04-21 |
 | [Bendiciones](https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl) | 3:30 | 2022-04-13 | 2022-04-19 |
 | [Beso](https://open.spotify.com/track/0dpoWGBWs8HZrCV7OsfxF4) | [Julieta Diaz](https://open.spotify.com/artist/5Rsf5ssoL1u7kInV5NK7qF), [Diego Presa](https://open.spotify.com/artist/3ocrfk5U9Q5V2j6F0T8fjT) | [Beso](https://open.spotify.com/album/1UKdo71goXKpKnX09oZYIv) | 1:58 | 2022-04-01 | 2022-04-18 |

@@ -2,9 +2,9 @@
 
 ### [City to City](https://open.spotify.com/playlist/37i9dQZF1DWWIfrT204w7E)
 
-> Drill scenes connect\. Cover: 22Gz
+> Drill scenes connect\. Cover: Black Sherif
 
-397 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/7CePQXk9T7nhNQbo5PKUkn)
+398 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/7CePQXk9T7nhNQbo5PKUkn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [CAP](https://open.spotify.com/track/3a1HcF4HuxICocwxOinRmG) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [CAP](https://open.spotify.com/album/4Quv2pJfaLNE36O6BSzbmk) | 2:55 | 2022-06-03 | 2022-07-08 |
 | [Casa](https://open.spotify.com/track/5rYX6uGGhwRBRseSGosoR8) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [The Blixky Tape 2](https://open.spotify.com/album/42eCvSjk8vGZP9hKEXUsYI) | 2:33 | 2021-10-05 | 2022-07-24 |
 | [CATALYST](https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:44 | 2022-05-20 | 2022-07-09 |
-| [Changed On Me \(feat\. Vory & Polo G\)](https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:01 | 2022-04-08 |  |
+| [Changed On Me \(feat\. Vory & Polo G\)](https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:01 | 2022-04-08 | 2022-10-13 |
 | [Chrome No Heart](https://open.spotify.com/track/2Cjxth1m5L7wlW3GXKjOse) | [Smoove'L](https://open.spotify.com/artist/6FheakPfcCNN0NeROtOKeQ) | [Chrome No Heart](https://open.spotify.com/album/6W26RwqprYyjVtfAIuWmgG) | 2:12 | 2021-10-05 | 2022-03-17 |
 | [City Hot](https://open.spotify.com/track/0qN3ns5IJYujOPJ0H2se1L) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [City Hot](https://open.spotify.com/album/2Ox1JXFE2AlbSvXn7zeWAy) | 2:21 | 2021-10-05 | 2022-07-23 |
 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 | 2022-03-04 |  |
@@ -376,6 +376,7 @@
 | [Walk Em](https://open.spotify.com/track/7Fb1CXeHkU4axxhebmT7Io) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Walk Em](https://open.spotify.com/album/5SAkuoaJVtQkzNCeA7EN8L) | 2:01 | 2022-07-08 | 2022-07-29 |
 | [Want Me Dead](https://open.spotify.com/track/19CrNwBuXS0vqSPdtME9XR) | [917 Rackz](https://open.spotify.com/artist/7unGZ3Xv59pTPK7eMq7JqY) | [Want Me Dead](https://open.spotify.com/album/31LMR4Bi4qQDprGr6A7aj4) | 2:03 | 2022-06-10 | 2022-06-25 |
 | [Warm \- Original](https://open.spotify.com/track/0h67w8nvVRIq5jOm4YO2Da) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Warm](https://open.spotify.com/album/6WBjQpN3WFzSQm0HBiOsiw) | 2:32 | 2021-10-05 | 2022-07-27 |
+| [Wasteman](https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:31 | 2022-10-13 |  |
 | [Wavy](https://open.spotify.com/track/1CIHyjiT25IUp8bfM0bBIv) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [Wavy](https://open.spotify.com/album/5WOrwV7HDo0winkRgO9KUP) | 2:11 | 2021-10-05 | 2022-03-21 |
 | [We Back Pt\. 2](https://open.spotify.com/track/49d9bCcjzbfzAifBXM19o3) | [Edot Babyy](https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [We Back Pt\. 2](https://open.spotify.com/album/1g7W8ZEvEcpkhRUvcH4OTR) | 2:21 | 2022-06-10 | 2022-06-25 |
 | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/track/7LkIkjlWgXYIHgWW0DHsSg) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/album/02a5YA3rWMRQz1ZqWZ19BA) | 2:38 | 2022-08-05 |  |

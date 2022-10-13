@@ -1825,10 +1825,28 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 245945,
       "name": "pass you by",
       "url": "https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp"
+    },
+    {
+      "album": {
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245945,
+      "name": "pass you by",
+      "url": "https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me"
     },
     {
       "album": {

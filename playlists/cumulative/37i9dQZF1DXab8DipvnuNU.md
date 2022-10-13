@@ -4,7 +4,7 @@
 
 > Essential tunes for time with the family.
 
-69 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0dYNpHRtzFloB9ZnDfgiL9)
+70 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/0dYNpHRtzFloB9ZnDfgiL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [People Everyday \- Metamorphosis Mix](https://open.spotify.com/track/5thts3213xwSroRd11fv5A) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [Greatest Hits](https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm) | 4:56 | 2021-07-01 |  |
 | [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/track/5wDeGgYjng63MbfVQyEt0O) | [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/album/7dQ80mhgZrxgzO0KdJkuBS) | 3:51 | 2021-07-01 |  |
 | [Redbone](https://open.spotify.com/track/1AlcpxsgzYwAJ1SfMPPWU4) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Redbone](https://open.spotify.com/album/6yHxhbYjUfv2xTOMI6RFFL) | 5:26 | 2021-07-01 | 2022-07-29 |
-| [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2021-07-01 |  |
+| [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2021-07-01 |  |
+| [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2021-07-01 | 2022-10-13 |
 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 3:46 | 2021-07-01 |  |
 | [Risin' to the Top](https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d) | [Keni Burke](https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2) | [Changes \(Expanded Edition\)](https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh) | 5:14 | 2021-07-01 |  |
 | [Shoop](https://open.spotify.com/track/2c7H254xlKoGhmZT194C0T) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [The Best Of Salt\-N\-Pepa 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0UIuHgtBvcHduPDZSweVMi) | 4:07 | 2021-07-01 | 2022-07-29 |

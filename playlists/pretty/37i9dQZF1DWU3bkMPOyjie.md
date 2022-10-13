@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,617 likes - 73 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,615 likes - 73 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 53 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 54 | [Na Na Na \(Na Na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:25 |
 | 55 | [The Beach](https://open.spotify.com/track/3xOE5ciDmfQ0VY3WahE0eJ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:01 |
-| 56 | [The Chamber](https://open.spotify.com/track/2wBW9jGZRRMbQ416NDc7LW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/03vJ0BcslLb4fKyBYN78Gy) | 4:57 |
+| 56 | [The Chamber](https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 4:57 |
 | 57 | [Life is a Highway \- From "Cars"](https://open.spotify.com/track/5YbeJyTQkdSAWe1Ie4sLAl) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 4:36 |
 | 58 | [The Only Place](https://open.spotify.com/track/0NCcbiW3kiasTzgg3CiBrf) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [The Only Place \(Deluxe\)](https://open.spotify.com/album/02gFZUaqAcQNtV6rmVIsN0) | 2:42 |
 | 59 | [Constructive Summer \- 2018 \- Remaster](https://open.spotify.com/track/5if6bRlufL1WxJESt3vZzt) | [The Hold Steady](https://open.spotify.com/artist/3qkZBMz5JgmRN9u5wwhRC6) | [Stay Positive \(Deluxe Edition\)](https://open.spotify.com/album/43vkSl8wNFKia9CeZWYYTu) | 2:55 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 72 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 |
 | 73 | [hot girls in good moods](https://open.spotify.com/track/3j9ERO1WUkVvU71sNFRDEt) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [The Rise and Fall of..\. Butch Walker and The Let's\-Go\-Out\-Tonites](https://open.spotify.com/album/3RmqVZPcYT5LUFQ6Kl5N4B) | 3:45 |
 
-Snapshot ID: `MTY1MDk4MjgyOCwwMDAwMDAwMGYxY2I2YmUwMzIwZDM5MzMzMGEwZjJmMzI5NWVhZWFj`
+Snapshot ID: `MTY1MDk4MjgyOCwwMDAwMDAwMGYyNWU3N2Q1NjNlMmY2ODQ3MThkMGVhMmMzYzU4YTJk`

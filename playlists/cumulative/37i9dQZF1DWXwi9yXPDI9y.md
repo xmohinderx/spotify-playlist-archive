@@ -4,7 +4,7 @@
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-134 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/5IOGpcMWdAwHjOc8PyryaR)
+135 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/5IOGpcMWdAwHjOc8PyryaR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Mono Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 | 2022-05-12 |  |
 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 | 2022-05-12 |  |
 | [Speak Low \- Live At The London House, Chicago, 1958](https://open.spotify.com/track/0DM4kZSysGsa2fKCmupIT0) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours At The London House](https://open.spotify.com/album/2U3o34rb3OPW4WTdjqAWQz) | 4:51 | 2022-05-12 | 2022-09-16 |
+| [Stairway To The Stars](https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 3:05 | 2022-10-11 |  |
 | [Stardust](https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 4:46 | 2022-05-12 |  |
 | [Stardust](https://open.spotify.com/track/33rhFjtqI16a5Q0qI4VHaO) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [No Count Sarah](https://open.spotify.com/album/53B3ZugSBLBVQT9XftI5Xb) | 3:19 | 2022-05-12 |  |
 | [Stompin' At The Savoy](https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Generation Ago Today](https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf) | 6:08 | 2022-05-12 |  |
@@ -130,7 +131,7 @@
 | [Trav'lin' Light](https://open.spotify.com/track/1ROntzeztBMrLwY6aMAR61) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:11 | 2022-05-12 | 2022-10-06 |
 | [Velvet Moon](https://open.spotify.com/track/1eQnTVNUwVaU7dXglhgCFr) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 5:19 | 2022-05-12 |  |
 | [Waiter, Make Mine Blues](https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 3:20 | 2022-05-12 |  |
-| [Waltz For Debby](https://open.spotify.com/track/5yIMPoQsY9thfRCZe6lrfX) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:30 | 2022-05-12 |  |
+| [Waltz For Debby](https://open.spotify.com/track/5yIMPoQsY9thfRCZe6lrfX) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:30 | 2022-05-12 | 2022-10-13 |
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/3pTA4IxvtoKl0cYYJ3jzA2) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Verve Studio Master Takes](https://open.spotify.com/album/5QJ7EzrfhXHscS4LbubbAr) | 3:10 | 2022-05-12 | 2022-07-29 |
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/4kBkWKfGO2qsVLItaP7TU2) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 3:13 | 2022-06-29 | 2022-09-22 |
 | [When Day Is Done](https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:25 | 2022-05-12 |  |

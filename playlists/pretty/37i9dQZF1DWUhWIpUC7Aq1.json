@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 57655,
+  "num_followers": 57879,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMGVmNGMzMjRlNzc2ZGEyOWE1MGU0ZmFjNzUyYzdhZDBl",
+  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMDg3OWY1MmIzY2Y3MjQyMDM2ODgwNzY1ZTg2ZjliMzQy",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217986,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -383,22 +367,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "In the Aeroplane Over the Sea",
         "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
       },
@@ -411,6 +379,22 @@
       "duration_ms": 202346,
       "name": "In the Aeroplane Over the Sea",
       "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -483,22 +467,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Rebellion (Lies)",
-      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -511,6 +479,22 @@
       "duration_ms": 191560,
       "name": "Nine in the Afternoon - Single Mix",
       "url": "https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Rebellion (Lies)",
+      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -543,22 +527,6 @@
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "America",
-      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -611,18 +579,18 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 220720,
-      "name": "For Emma",
-      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
+      "duration_ms": 215293,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -687,6 +655,22 @@
       "duration_ms": 217333,
       "name": "No One's Gonna Love You",
       "url": "https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "For Emma",
+      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -803,22 +787,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "69 Love Songs",
-        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -831,6 +799,22 @@
       "duration_ms": 353946,
       "name": "Casimir Pulaski Day",
       "url": "https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -851,22 +835,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 198093,
-      "name": "Oh to Be in Love",
-      "url": "https://open.spotify.com/track/628RVPULYzx6bvh8uf0Msn"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "1982 4 Piece Demo",
         "url": "https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG"
       },
@@ -879,6 +847,22 @@
       "duration_ms": 194821,
       "name": "Trees and Flowers",
       "url": "https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "Oh to Be in Love",
+      "url": "https://open.spotify.com/track/628RVPULYzx6bvh8uf0Msn"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -979,22 +963,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "You Forgot It In People",
         "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
@@ -1007,6 +975,22 @@
       "duration_ms": 275693,
       "name": "Anthems For A Seventeen Year-Old Girl",
       "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1219,22 +1203,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "Clementine",
-      "url": "https://open.spotify.com/track/0nUPuUnqVLOZFayUzxi1JG"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "The Execution Of All Things",
         "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
       },
@@ -1247,6 +1215,22 @@
       "duration_ms": 223133,
       "name": "With Arms Outstretched",
       "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/0nUPuUnqVLOZFayUzxi1JG"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1283,22 +1267,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Alright, Still (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "LDN",
-      "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Places Like This",
         "url": "https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM"
       },
@@ -1311,6 +1279,22 @@
       "duration_ms": 194853,
       "name": "Heart It Races",
       "url": "https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Alright, Still (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "LDN",
+      "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Romulus",
+      "url": "https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Where The Wild Things Are Motion Picture Soundtrack: Original Songs By Karen O And The Kids",
         "url": "https://open.spotify.com/album/58lyF4XIJENuFrTI0W2wXf"
       },
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+        "name": "Juno - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Kimya Dawson",
+          "url": "https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz"
         }
       ],
-      "duration_ms": 281746,
-      "name": "Romulus",
-      "url": "https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig"
+      "duration_ms": 165840,
+      "name": "So Nice So Smart",
+      "url": "https://open.spotify.com/track/5EAPbYyAnuOUG4EICxgBlU"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1411,22 +1411,6 @@
       "duration_ms": 199999,
       "name": "A Teenager in Love",
       "url": "https://open.spotify.com/track/03h8yG6LxpmSLgeSJXQDeu"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "Juno - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG"
-      },
-      "artists": [
-        {
-          "name": "Kimya Dawson",
-          "url": "https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz"
-        }
-      ],
-      "duration_ms": 165840,
-      "name": "So Nice So Smart",
-      "url": "https://open.spotify.com/track/5EAPbYyAnuOUG4EICxgBlU"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1479,22 +1463,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "London Weekend",
-        "url": "https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR"
-      },
-      "artists": [
-        {
-          "name": "Another Sunny Day",
-          "url": "https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "You Should All Be Murdered",
-      "url": "https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "The Execution Of All Things",
         "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
       },
@@ -1507,6 +1475,22 @@
       "duration_ms": 271800,
       "name": "The Good That Won't Come Out",
       "url": "https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "London Weekend",
+        "url": "https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR"
+      },
+      "artists": [
+        {
+          "name": "Another Sunny Day",
+          "url": "https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "You Should All Be Murdered",
+      "url": "https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1619,6 +1603,22 @@
       "duration_ms": 294146,
       "name": "It's Okay",
       "url": "https://open.spotify.com/track/1Mhm1ffgSwXQnherftGRau"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/4B1cHpLjzKUSm7LYGmxInZ"
     }
   ],
   "unique_name": "Twee",

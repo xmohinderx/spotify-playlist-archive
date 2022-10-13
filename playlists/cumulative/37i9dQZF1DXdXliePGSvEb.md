@@ -4,7 +4,7 @@
 
 > Our favorite electronic tracks of 2021\. Cover: Fred again..
 
-115 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/3osIW9coSTQHd3N0LFREv3)
+117 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/3osIW9coSTQHd3N0LFREv3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Jour 3](https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV) | 3:06 | 2021-12-01 |  |
 | [Jour 3](https://open.spotify.com/track/6DS9JfbMf76Bo5qqylNtgt) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/1iWXfCQ5mVVcvLtxJYyfPq) | 3:06 | 2021-12-01 | 2022-07-29 |
 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2021-12-01 |  |
-| [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2021-12-01 |  |
+| [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2021-12-01 | 2022-10-13 |
+| [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2021-12-01 |  |
 | [Les gens](https://open.spotify.com/track/3pJoFVanmdOAeyR29X9nIf) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Les gens](https://open.spotify.com/album/7sqpJwq2QQMJ6I7Y0Qr4r1) | 3:14 | 2021-12-01 |  |
 | [Let’s Sing Let’s Dance](https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Let’s Sing Let’s Dance](https://open.spotify.com/album/2v3RfmAE1IyyUDjsKyGreG) | 3:50 | 2021-12-01 |  |
 | [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-12-01 |  |
@@ -66,8 +67,9 @@
 | [Like a Butterfly](https://open.spotify.com/track/4jL1PrNhUhQyTZIAxMqtj7) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Ambition](https://open.spotify.com/album/6qAC2WPjZEQA8FanPkAODg) | 3:19 | 2021-12-01 |  |
 | [London\. Paris\. Berlin.](https://open.spotify.com/track/4OwMTUrschknwvALozCuoD) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Tomorrow’s People](https://open.spotify.com/album/0qk4ovxWz0en2H2HIqz2wT) | 4:05 | 2021-12-01 |  |
 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 | 2021-12-01 |  |
-| [Losing Touch](https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2) | 3:55 | 2021-12-01 |  |
+| [Losing Touch](https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2) | 3:55 | 2021-12-01 | 2022-10-13 |
 | [Losing Touch](https://open.spotify.com/track/33h0F53mXDP3CmBSKlFKo5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/76zZinKzeNvh8GRfPnEB8M) | 3:55 | 2021-12-01 | 2022-07-29 |
+| [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 | 2021-12-01 |  |
 | [Love Reigns](https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:54 | 2021-12-01 |  |
 | [Love Reigns](https://open.spotify.com/track/78Yqfmq11yBeibacqvl4Y4) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Reigns](https://open.spotify.com/album/3TCa2b0OgMFEzCpdVCSB30) | 4:54 | 2021-12-01 | 2022-09-15 |
 | [Low](https://open.spotify.com/track/3vDa2fcL7Ge1jQVKJ3uIOA) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:34 | 2021-12-01 |  |

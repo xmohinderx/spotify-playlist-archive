@@ -4,7 +4,7 @@
 
 > The best in recent hits from your favorite  Contemporary Christian artists all in one list\.  Sit back and let it play!  Cover: Matt Maher
 
-67 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/6UlnaOvHAY0IrDbgMqwgig)
+68 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/6UlnaOvHAY0IrDbgMqwgig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [God Help Me](https://open.spotify.com/track/75OmU3YjGaRYaFKBV7QNCu) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [God Help Me](https://open.spotify.com/album/1fZOXs2yJjDcIwuHP0GuTP) | 3:54 | 2018-04-30 | 2022-07-29 |
 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 | 2018-04-30 |  |
 | [HARD LOVE \(feat\. Lauren Daigle\)](https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:37 | 2018-04-30 |  |
-| [He Always Wins](https://open.spotify.com/track/5AWQavj61rTxCY9VNETLsr) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Matt Hammitt](https://open.spotify.com/album/1m4ZQO0yP3TE26vKzbe7yP) | 4:12 | 2018-04-30 |  |
+| [He Always Wins](https://open.spotify.com/track/2wVA4sr9udqGhPtm83M4EN) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Matt Hammitt](https://open.spotify.com/album/74QTqE5vbEGP0M6012yyos) | 4:12 | 2018-04-30 |  |
+| [He Always Wins](https://open.spotify.com/track/5AWQavj61rTxCY9VNETLsr) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Matt Hammitt](https://open.spotify.com/album/1m4ZQO0yP3TE26vKzbe7yP) | 4:12 | 2018-04-30 | 2022-10-13 |
 | [Hills and Valleys \(The Valleys Version\)](https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 4:09 | 2018-04-30 |  |
 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 | 2018-04-30 |  |
 | [I Have This Hope](https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 3:24 | 2018-04-30 |  |

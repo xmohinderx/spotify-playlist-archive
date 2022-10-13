@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,383 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,406 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 21 | [Alone](https://open.spotify.com/track/1WZSTEcC48PcrQZliCZj2y) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Alone](https://open.spotify.com/album/3PYk89I5WHZTLJhc1cWFS3) | 3:11 |
 | 22 | [Love of the Money \(feat\. Hotboii\)](https://open.spotify.com/track/6yo90VmiX3oiCAZJfZQspi) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Love of the Money \(feat\. Hotboii\)](https://open.spotify.com/album/2jHHkewIxIxHCBoGOSJJCU) | 3:01 |
 | 23 | [livin wild](https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:22 |
-| 24 | [1738](https://open.spotify.com/track/4JASPSRsT40EJVQM9NjcJP) | [Lil Donald](https://open.spotify.com/artist/73E6GkhXR5Zzj2zbdIWnfm) | [Heart Detox](https://open.spotify.com/album/4L5ic3dwoJZdmAJ5ced90Y) | 2:56 |
+| 24 | [1738](https://open.spotify.com/track/7aRzjArjQYjlXj13jfSIlX) | [Lil Donald](https://open.spotify.com/artist/73E6GkhXR5Zzj2zbdIWnfm) | [Heart Detox](https://open.spotify.com/album/37XrhZXV5g8xisXJRA0gbS) | 2:56 |
 | 25 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 |
 | 26 | [Tell Me Bout It](https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:56 |
 | 27 | [Real Shit \(feat\. Morray\)](https://open.spotify.com/track/5XWcUsn2AmuLvPMwdXGecw) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Misguided](https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/album/6Gca3Qwq656lFFcFaomaTg) | 3:37 |
 | 50 | [Shackles to Diamonds](https://open.spotify.com/track/1uPxCL3bvUZKMnwXmAz6rM) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:56 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDA3MWQ3ZGJiNDFhY2M1MTJkZWZlY2YxMTBkOTNhMjQ2`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDQzYmI5OGQwZjA3YjgzMjYyOWQzOWI2NGI0Y2U4NDI1`

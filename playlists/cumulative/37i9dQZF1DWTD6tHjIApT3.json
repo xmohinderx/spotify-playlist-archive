@@ -394,6 +394,24 @@
     },
     {
       "album": {
+        "name": "Ai no sei",
+        "url": "https://open.spotify.com/album/4Exj2cZX9KPaHlz0tvpVuY"
+      },
+      "artists": [
+        {
+          "name": "Sakurako Ohara",
+          "url": "https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256724,
+      "name": "Ai no sei",
+      "url": "https://open.spotify.com/track/5SYSLd0yk5Ih53NANxEbu6"
+    },
+    {
+      "album": {
         "name": "Aiseta",
         "url": "https://open.spotify.com/album/5x7Nn1bwdvJ5Vx1l5cyZST"
       },
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 184600,
       "name": "Flow",
       "url": "https://open.spotify.com/track/55HzAX2f4rVNpJ0XzyNHkP"
@@ -2489,6 +2507,24 @@
       "duration_ms": 222788,
       "name": "Girl",
       "url": "https://open.spotify.com/track/1TVuQ54AaNhpE7QmBakvtp"
+    },
+    {
+      "album": {
+        "name": "Hateshinai Futari",
+        "url": "https://open.spotify.com/album/7E8CvB7huaCPvAoKQSVstA"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317146,
+      "name": "Gokyuchu",
+      "url": "https://open.spotify.com/track/3P1hy53LptV8AhNe5Gh1tm"
     },
     {
       "album": {
@@ -11495,7 +11531,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 317146,
       "name": "\u53f7\u6ce3\u4e2d",
       "url": "https://open.spotify.com/track/5isNCHusrLX45csM6ZM4AV"
@@ -12459,7 +12495,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 233693,
       "name": "\u5e78\u305b\u306e\u63a2\u3057\u65b9 - 2022 Remaster",
       "url": "https://open.spotify.com/track/2vMFdiONHdlNcVCyXhAIqv"
@@ -12719,7 +12755,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 256724,
       "name": "\u611b\u306e\u305b\u3044",
       "url": "https://open.spotify.com/track/4XpqvxRQOeV70xEvAlLoiZ"

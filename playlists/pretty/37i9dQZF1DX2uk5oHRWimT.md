@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,924 likes - 131 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,940 likes - 131 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 14 | [Have Yourself A Merry Little Christmas \(feat\. Missy Higgins\)](https://open.spotify.com/track/1mgs3y0GGmKA941T9qQicU) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N), [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Have Yourself A Merry Little Christmas \(feat\. Missy Higgins\)](https://open.spotify.com/album/4ymnWZQ8tAE6AkyhlwEags) | 3:17 |
 | 15 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
 | 16 | [Auld Lang Syne](https://open.spotify.com/track/3hpq8jEIKgTRQHSTjpsNZY) | [Betsy Phillips](https://open.spotify.com/artist/3m3VhgcmqGV93tHZiOFrId), [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Auld Lang Syne](https://open.spotify.com/album/1ks0JpE2S3GixJUdKsUJ67) | 2:19 |
-| 17 | [Winter Song](https://open.spotify.com/track/4kVq0EOO5xmczwrXjRcaeI) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 2:43 |
+| 17 | [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 |
 | 18 | [O Come, O Come Emmanuel](https://open.spotify.com/track/7lbYAsV9grcE2bxyiW96ex) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [O Come, O Come Emmanuel](https://open.spotify.com/album/3KZxHnEJ7Z3iv9YkpfRdiT) | 3:10 |
 | 19 | [Sister Winter](https://open.spotify.com/track/1N0xDVB8oJ6rb10n2lA46b) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Sister Winter B/W Rest](https://open.spotify.com/album/69madVZCyCpjBr3xIxlNWa) | 3:36 |
 | 20 | [White Christmas](https://open.spotify.com/track/5I152ZJvFMDUWvKd9tiKcn) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings White Christmas](https://open.spotify.com/album/7Cqt4bAqv7ZprtcXsdljzV) | 3:56 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 130 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 131 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MTYzNzMzNjk3MiwwMDAwMDAwMGIxMTAxYzM3YzNlYTNmNDU4YTg3MGMxZDk0OWU2MzE1`
+Snapshot ID: `MTYzNzMzNjk3MiwwMDAwMDAwMDE5YzdiNDE0ODA0YTk5ZGM3MjBkMDA4YWZhNmIxODE1`

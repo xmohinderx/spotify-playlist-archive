@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى أغاني الراب المصري في مكان واحد 😎<br/>! غلاف: ابو الانوار
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,656 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,830 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 49 | [مين يتحدى](https://open.spotify.com/track/2wlvrcPdey3ZCr0KRfRV4T) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Tasneem El Aidy](https://open.spotify.com/artist/6dGbgtd9AkqjuoKHiiGKBx), [Dafencii](https://open.spotify.com/artist/74GGob3vwZoZ5Cs16pd4KC) | [مين يتحدى](https://open.spotify.com/album/6Q7vMeBwuMCGCAQaryhsZm) | 2:08 |
 | 50 | [GHOYOUM](https://open.spotify.com/track/304utXC7fLHXEv1k2vFqQd) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba](https://open.spotify.com/album/3YLhKiHp1tyCZWM5OnkpPt) | 2:41 |
 | 51 | [Narcos](https://open.spotify.com/track/3EVvQT3vvXiBHOQwbMJMEZ) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Narcos](https://open.spotify.com/album/6vXFlldjH89AZJ1uFWcAG5) | 2:52 |
-| 52 | [نرجسه](https://open.spotify.com/track/0RpasZfuIcTzJURLIoQr8u) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [آمل](https://open.spotify.com/album/2kjRdr3nzgOGPPWQctC91A) | 2:33 |
-| 53 | [Santos](https://open.spotify.com/track/0JOKHiIoVwxgYLE3Xi9azJ) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santos](https://open.spotify.com/album/0kEbWvFpD1zQDvm4b6aEwb) | 3:04 |
-| 54 | [Bestaya](https://open.spotify.com/track/6ymLwKX8u2fMMu20TnM02D) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:13 |
-| 55 | [Java](https://open.spotify.com/track/6deC9d7m91vkxwHnhMS3v6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Java](https://open.spotify.com/album/57ZEDWQQWUpKVrasCLRsRS) | 2:20 |
-| 56 | [BIG MOOD](https://open.spotify.com/track/788ZucIemZrlzHQ6WGdhGY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 4:02 |
-| 57 | [متجلونش](https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0PaVKXIWKsJancVULPtreG) | [متجلونش](https://open.spotify.com/album/7FJGKTt0Fi2Ht4B1ts4SrL) | 3:09 |
-| 58 | [Star](https://open.spotify.com/track/1jYpuALqMGpGhbFkPxU8no) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Star](https://open.spotify.com/album/5Q4Je1QV2U4aSOlNTYkdOf) | 3:19 |
-| 59 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy) | 3:11 |
-| 60 | [Tuta Ankh Amoon](https://open.spotify.com/track/4e1btGGrZAkjOobdKywSgJ) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [MiniM](https://open.spotify.com/artist/1dj1W9b1aM6GcE2FcVU34E) | [Tuta Ankh Amoon](https://open.spotify.com/album/0pDygh7XVUENUB9jhsA3p1) | 3:57 |
+| 52 | [Santos](https://open.spotify.com/track/0JOKHiIoVwxgYLE3Xi9azJ) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santos](https://open.spotify.com/album/0kEbWvFpD1zQDvm4b6aEwb) | 3:04 |
+| 53 | [Bestaya](https://open.spotify.com/track/6ymLwKX8u2fMMu20TnM02D) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:13 |
+| 54 | [Java](https://open.spotify.com/track/6deC9d7m91vkxwHnhMS3v6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Java](https://open.spotify.com/album/57ZEDWQQWUpKVrasCLRsRS) | 2:20 |
+| 55 | [BIG MOOD](https://open.spotify.com/track/788ZucIemZrlzHQ6WGdhGY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 4:02 |
+| 56 | [متجلونش](https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0PaVKXIWKsJancVULPtreG) | [متجلونش](https://open.spotify.com/album/7FJGKTt0Fi2Ht4B1ts4SrL) | 3:09 |
+| 57 | [Star](https://open.spotify.com/track/1jYpuALqMGpGhbFkPxU8no) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Star](https://open.spotify.com/album/5Q4Je1QV2U4aSOlNTYkdOf) | 3:19 |
+| 58 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy) | 3:11 |
+| 59 | [Tuta Ankh Amoon](https://open.spotify.com/track/4e1btGGrZAkjOobdKywSgJ) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [MiniM](https://open.spotify.com/artist/1dj1W9b1aM6GcE2FcVU34E) | [Tuta Ankh Amoon](https://open.spotify.com/album/0pDygh7XVUENUB9jhsA3p1) | 3:57 |
 
-Snapshot ID: `MTY2NTM4MTgzMSwwMDAwMDAwMDc4MTYzNjIyNTY3YmVkMDZjODU3MWUwMTc1YWM0ODhi`
+Snapshot ID: `MTY2NTU3MDE0OSwwMDAwMDAwMDE2M2IwY2YzOWE2ODU5MDg1MzFmNDE1OWVhZTIyZWE0`

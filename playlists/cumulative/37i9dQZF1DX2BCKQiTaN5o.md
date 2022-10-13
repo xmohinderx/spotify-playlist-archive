@@ -4,7 +4,7 @@
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-39 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/0ClG1AQzAPgAIoQvOIkI6A)
+41 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/0ClG1AQzAPgAIoQvOIkI6A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Honesty](https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 3:09 | 2020-01-19 |  |
 | [Honesty](https://open.spotify.com/track/2B1JaRSd7T7YP90n6sCh9I) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Honesty](https://open.spotify.com/album/3TTHQTyBu7n3f48pwBtMDu) | 3:09 | 2020-01-19 | 2022-07-29 |
 | [Hussle & Motivate](https://open.spotify.com/track/3CldQZk9z2VifSacRkXJXC) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/3RZIk5CH4y187nGskxMrCf) | 4:18 | 2020-01-19 |  |
-| [I Want You Around](https://open.spotify.com/track/6E3D7NkBDwVaEbUS1aSYz1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/0BCbrYw2TEICVGEXzQbMws) | 3:32 | 2020-01-19 |  |
+| [I Want You Around](https://open.spotify.com/track/2tUuvamTbprsZ2YevAuzGC) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/0xyp4JuWXxA0lPsjuN57Q8) | 3:32 | 2020-01-19 |  |
+| [I Want You Around](https://open.spotify.com/track/6E3D7NkBDwVaEbUS1aSYz1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/0BCbrYw2TEICVGEXzQbMws) | 3:32 | 2020-01-19 | 2022-10-13 |
 | [I'M DOPE](https://open.spotify.com/track/3z6ErCqNLgspjTSlKMGyFZ) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [David Michael Wyatt](https://open.spotify.com/artist/3nBYRtHTuSZGhDataNGunX) | [I'M DOPE](https://open.spotify.com/album/2UEMHDiA98ANR3YHq7R2l6) | 3:23 | 2020-01-19 |  |
 | [Lay Me Down](https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 4:13 | 2020-01-19 |  |
 | [My Money, My Baby \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/7gOb1BmKmG4EYw7lAePO1c) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM) | 3:04 | 2020-01-19 |  |
@@ -46,6 +47,7 @@
 | [Tints \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6JAJxkQA5Q3TYN4dP8b46e) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxnard](https://open.spotify.com/album/470YoR7n18n3xyQTsUxdlV) | 4:28 | 2020-01-19 |  |
 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2020-01-19 |  |
 | [Turnin' Me Up](https://open.spotify.com/track/09XnY0y4QUQmLzfUlbCEeZ) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/4Y8CDk1rrS7lnmcT2C96XA) | 4:29 | 2020-01-19 |  |
-| [V\. 3005](https://open.spotify.com/track/1rfJQpYr0clcyXssjQjk4T) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/7Efnr0fVLkoDz1QEDvmQVZ) | 3:54 | 2020-01-19 |  |
+| [V\. 3005](https://open.spotify.com/track/0BoWVJUFru3oEaU2N1GCyc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/6kWZEtlgdfNxohXEgk8fo0) | 3:54 | 2020-01-19 |  |
+| [V\. 3005](https://open.spotify.com/track/1rfJQpYr0clcyXssjQjk4T) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/7Efnr0fVLkoDz1QEDvmQVZ) | 3:54 | 2020-01-19 | 2022-10-13 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

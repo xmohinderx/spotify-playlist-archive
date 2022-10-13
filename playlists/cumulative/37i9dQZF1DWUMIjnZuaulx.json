@@ -1486,7 +1486,7 @@
     },
     {
       "album": {
-        "name": "TENT REVIVAL",
+        "name": "Tent Revival",
         "url": "https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw"
       },
       "artists": [
@@ -1964,17 +1964,17 @@
     },
     {
       "album": {
-        "name": "Jesus (feat. Le'andria Johnson)",
+        "name": "Jesus (feat. Le'Andria Johnson)",
         "url": "https://open.spotify.com/album/2O1Bu8dQtT2X1ZrJ2mC16r"
       },
       "artists": [
         {
-          "name": "Faith City Music",
-          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
-        },
-        {
           "name": "Tim Bowman Jr.",
           "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        },
+        {
+          "name": "Faith City Music",
+          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
         },
         {
           "name": "Le'Andria Johnson",

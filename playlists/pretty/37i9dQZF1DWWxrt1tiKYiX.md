@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: Demi Lovato
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,875 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,926 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 52 | [Remember That Night? \- Acoustic](https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night? \(Acoustic\)](https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd) | 3:42 |
 | 53 | [One Night \- Stripped Version](https://open.spotify.com/track/46PZbNbQ37DDhMbuVkL8V0) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night \(Stripped Version\)](https://open.spotify.com/album/0IOkSCsKp7rixM8Q1Vzmxn) | 2:34 |
 | 54 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
-| 55 | [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/1atfZeWvJu5xxAUJ9Mj9Qs) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1AJ5uDWMN8DYbaIXAVxU7U) | 3:36 |
+| 55 | [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/65qUxWlmERiGKra1tteQyB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1wJymTwoSi9WFWkLwlc0P6) | 3:36 |
 | 56 | [Graveyard \- Acoustic](https://open.spotify.com/track/6iwMgc34qGH8vDBcyQ8nP9) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:56 |
 | 57 | [Train Wreck \- Acoustic](https://open.spotify.com/track/043T1ZzD0qHoesyfZhseGn) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Train Wreck \(Acoustic\)](https://open.spotify.com/album/6z6jD5mmTJ5Zr7HRA3C0WQ) | 3:29 |
 | 58 | [willow \- lonely witch version](https://open.spotify.com/track/0U0etHtpARihOUUY8Akc7y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(lonely witch version\)](https://open.spotify.com/album/77wvNMSdOowJgpJx1kcKqc) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 99 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 |
 | 100 | [Need Your Love \(feat\. Noah Kahan\) \- Recorded at Electric Lady Studios, NYC](https://open.spotify.com/track/5ViQpaAk3MlvdGPctEUNTw) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Spotify Singles](https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL) | 3:19 |
 
-Snapshot ID: `MTY2NTE5OTc1MiwwMDAwMDAwMGExZTA2NGRjZmQwZjcwOWZmMGExYzdhNjlkMDQ4ZjA4`
+Snapshot ID: `MTY2NTE5OTc1MiwwMDAwMDAwMDYxNmRjNTJlNGJjZGNlNGQ4MmY4MmM3ODkxZjI0YjVm`

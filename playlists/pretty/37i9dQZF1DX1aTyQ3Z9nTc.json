@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 104774,
+  "num_followers": 104852,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDlkNTIwNmE1OGYxY2MzOWJiOTU5ODFiMWMzZGVlZWU1",
+  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDBkMzQ3MzJhZTIzOWIwNzU5OTQxYzhkYmZmYjcwNTI4",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -357,20 +357,24 @@
       "url": "https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
+        "name": "Vanice",
+        "url": "https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        },
+        {
+          "name": "Dear Silas",
+          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
         }
       ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
+      "duration_ms": 109714,
+      "name": "Violin",
+      "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -429,24 +433,20 @@
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "Vanice",
-        "url": "https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb"
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
       },
       "artists": [
         {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        },
-        {
-          "name": "Dear Silas",
-          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 109714,
-      "name": "Violin",
-      "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
       "added_at": "2022-07-30 02:24:25",

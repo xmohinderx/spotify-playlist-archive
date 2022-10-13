@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=6wgTaCM3Qde3b2sNrIjAMw"> Elaine </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,479 likes - 76 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,495 likes - 76 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

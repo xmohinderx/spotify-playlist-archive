@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Cover: Surf Curse
 
-673 songs - 1 day 12 hr 36 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+676 songs - 1 day 12 hr 45 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Feelings Meeting](https://open.spotify.com/track/3ZNZlQHZR4SrZf27DVJD0I) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/4Wvn9tVWMtVQESSBgfiu6y) | 3:59 | 2022-05-20 | 2022-06-25 |
 | [Fever](https://open.spotify.com/track/58gYZpNEBSJUajiS7zDg0O) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Apoptosis](https://open.spotify.com/album/3IPA2O6NvIY88V7ASaTAI8) | 2:54 | 2021-10-02 | 2022-01-17 |
 | [FIGHT](https://open.spotify.com/track/5wDk6k9GPgqZ3mpn0JVzHE) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [FIGHT](https://open.spotify.com/album/51bglOUVDdHtaQCSwQw9Vg) | 3:32 | 2022-05-20 | 2022-07-23 |
-| [Figure You Out](https://open.spotify.com/track/0zcKU98jIjZAxGPQZ5sDpe) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Figure You Out](https://open.spotify.com/album/2Rx6PnJtokpPlAF1WQQYhw) | 3:04 | 2022-08-26 |  |
+| [Figure You Out](https://open.spotify.com/track/0zcKU98jIjZAxGPQZ5sDpe) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Figure You Out](https://open.spotify.com/album/2Rx6PnJtokpPlAF1WQQYhw) | 3:04 | 2022-08-26 | 2022-10-13 |
+| [Figure You Out](https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 3:04 | 2022-08-26 |  |
 | [FIND OUT THE HARD WAY](https://open.spotify.com/track/3pizWVgN68SuzQhCbM3Ezw) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [FIND OUT THE HARD WAY](https://open.spotify.com/album/3Tec3OQhtgh9dBOGhNHrZo) | 3:10 | 2022-05-20 |  |
 | [Fire Escape](https://open.spotify.com/track/5ekucJquBlWaZojC2oNZHU) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Fire Escape](https://open.spotify.com/album/1plhDjFN42Ah25BnKImEhm) | 2:20 | 2022-04-01 | 2022-07-09 |
 | [First Aid](https://open.spotify.com/track/3y2Dktpll4t3zPlgpCnUCy) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:28 | 2021-06-07 | 2022-04-26 |
@@ -296,7 +297,8 @@
 | [I Think I Hate It Here](https://open.spotify.com/track/6VIzm0I0kImumEsXJ4FIty) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [I Think I Hate It Here](https://open.spotify.com/album/1VNIsmdBhaPXIuhNuQXklR) | 2:32 | 2022-04-15 | 2022-06-15 |
 | [I Think I Left the Stove On](https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [I Think I Left the Stove On](https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5) | 3:22 | 2022-07-15 | 2022-09-09 |
 | [I Think I Left the Stove On](https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [I Think I Left the Stove On](https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx) | 3:22 | 2022-07-15 |  |
-| [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z) | 3:08 | 2022-10-07 |  |
+| [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z) | 3:08 | 2022-10-07 | 2022-10-13 |
+| [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/2oal7Q9v9hFQXFZbaiGNsy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/1q132A3KkxRLRrEiWZXWqN) | 3:08 | 2022-10-07 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2022-07-18 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2022-01-14 | 2022-05-24 |
 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 | 2022-08-26 | 2022-10-01 |
@@ -586,7 +588,8 @@
 | [The Strangest Thing](https://open.spotify.com/track/7sumQuqsfJOuQERyfDq6FP) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Homeschool: Book II](https://open.spotify.com/album/5c7spvnif2WCfBfUArnKgz) | 4:13 | 2022-04-08 | 2022-06-25 |
 | [The Sulking Poet](https://open.spotify.com/track/3ZCVtNy6NDzG0SUx5VBkvH) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [The Sulking Poet](https://open.spotify.com/album/5hSG9UtXw3vBvFrQjqmIkP) | 3:34 | 2022-03-25 | 2022-04-18 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2021-11-19 | 2022-04-20 |
-| [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-22 |  |
+| [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-22 | 2022-10-13 |
+| [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2022-07-01 |  |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-14 |  |
 | [These Days R Mine](https://open.spotify.com/track/42WeNaMfqmoMW5BZR43v1z) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [These Days R Mine](https://open.spotify.com/album/2vkVLUruMBiiwHNv9bATTB) | 3:28 | 2021-06-07 | 2022-04-15 |
 | [They Don't Know](https://open.spotify.com/track/2y6ENcGCRfpH6Vbeu19GMq) | [Carver Commodore](https://open.spotify.com/artist/0JYBvQbg4xyCfKy1S5YGpU) | [They Don't Know](https://open.spotify.com/album/0e79HmvVdyBdU9yFiPfGxl) | 3:27 | 2022-06-10 | 2022-07-16 |

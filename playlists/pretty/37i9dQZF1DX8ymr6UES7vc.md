@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 
 > Simply rain
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,196 likes - 193 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,596 likes - 193 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 14 | [Rain Factory](https://open.spotify.com/track/5TTFKNWZNesToIjWK1taw9) | [Relaxing Sound Factory](https://open.spotify.com/artist/744wQ0o4KyJ3Ou29aXIygo) | [Relaxed By The Rain](https://open.spotify.com/album/3ZPz1SGQK41h83bZL7JNxh) | 2:10 |
 | 15 | [Steady Soft Rain \- Fade](https://open.spotify.com/track/2KzY9G2grpQdNs82FKrpE2) | [Turquoise Turmoil](https://open.spotify.com/artist/5W19VR9TpHPvtmH3lfR6vt) | [Constant Showers](https://open.spotify.com/album/3GXpc4Ud7r4tjQpBOh9sYq) | 2:06 |
 | 16 | [Lotus Rain](https://open.spotify.com/track/0cYf8BBWyP83Q6uxqjkSel) | [Adio](https://open.spotify.com/artist/1u9z4r9MRMjVc4t2bI2z4W) | [Lotus Rain](https://open.spotify.com/album/6SeFBqjQUAF0s2JVaoU8eJ) | 2:04 |
-| 17 | [slumber drops](https://open.spotify.com/track/1xACGnZObG7WtwWDCGgyzI) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [slumber drops](https://open.spotify.com/album/45Nh9kf3RNMfFfWo1FkJF0) | 2:38 |
+| 17 | [slumber drops](https://open.spotify.com/track/1ClAwXUxMbV1ypBv4dUo6a) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [slumber drops](https://open.spotify.com/album/1D2ojctAm1Rl42iwZnSWwp) | 2:38 |
 | 18 | [Я люблю дождь](https://open.spotify.com/track/3yVuB24d8sop47Wyfeu1yQ) | [Небесный душ](https://open.spotify.com/artist/4SknsbXfiBH4PJxTZymwjv) | [Мирный дождь над Москвой](https://open.spotify.com/album/682f56Nhny9Iug8C2ArNXt) | 2:14 |
 | 19 | [Blu Droplets](https://open.spotify.com/track/67OwsQXaeWLa2VAV0RHymM) | [ANCIENT RAIN](https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff) | [Blu Droplets](https://open.spotify.com/album/5Iw4u0nUfL2Ikzqf1hz02S) | 3:34 |
 | 20 | [Rain In Swedish Forest](https://open.spotify.com/track/1aRixyBLiOkyVDMoP3Va6l) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 7](https://open.spotify.com/album/0QRu0qcWtW0jEwH0nNS3od) | 2:15 |
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 192 | [Raining Force](https://open.spotify.com/track/3bJu4wU7VYdjlxQnG6z2ud) | [Nue](https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9) | [Raining Force](https://open.spotify.com/album/1MSTsZLkWuOOAePWFDQTFV) | 3:32 |
 | 193 | [Rain On The Lake](https://open.spotify.com/track/0o5VWWgcf66ctfBM8HsO5i) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain On The Lake](https://open.spotify.com/album/0B1aCViIMUFAUgs5vtlfx1) | 3:02 |
 
-Snapshot ID: `MTY1NzI4MzMyNSwwMDAwMDAwMDAzODgzNjU2MDBjYWQ2NWY1ZTY4ODY5NDExZGY0OGM1`
+Snapshot ID: `MTY1NzI4MzMyNSwwMDAwMDAwMDgxM2EzNGYwM2JjZTYwZWE4NGJkZjYzMTZiNjhiZjEx`

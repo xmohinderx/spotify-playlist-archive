@@ -147,7 +147,7 @@
     {
       "album": {
         "name": "SUGA",
-        "url": "https://open.spotify.com/album/4ZQjhcYbZl4KhMoBekUzUL"
+        "url": "https://open.spotify.com/album/5E5QGOClKXPXlVwOW9cWUz"
       },
       "artists": [
         {
@@ -158,6 +158,24 @@
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 234758,
+      "name": "Brown",
+      "url": "https://open.spotify.com/track/0EDzxUaUO4j9knZsytC3V8"
+    },
+    {
+      "album": {
+        "name": "SUGA",
+        "url": "https://open.spotify.com/album/4ZQjhcYbZl4KhMoBekUzUL"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 234758,
       "name": "Brown",
       "url": "https://open.spotify.com/track/0S8mtofOXVslUNzpHLuPW0"
@@ -255,7 +273,7 @@
     {
       "album": {
         "name": "FEELS",
-        "url": "https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd"
+        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
       },
       "artists": [
         {
@@ -266,6 +284,24 @@
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194303,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5"
+    },
+    {
+      "album": {
+        "name": "FEELS",
+        "url": "https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 194303,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV"
@@ -879,10 +915,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 224066,
       "name": "Time",
       "url": "https://open.spotify.com/track/3GTpHuThSwghiUEvVQCwsz"
+    },
+    {
+      "album": {
+        "name": "FEELS",
+        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224066,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6S19yjLFU8FK0D5hJgnaUy"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: davecreates",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Divorce",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -740,6 +740,28 @@
     },
     {
       "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/30IpJxXW4zjXPCaBaYU8Yw"
+      },
+      "artists": [
+        {
+          "name": "Josh Davies",
+          "url": "https://open.spotify.com/artist/4RlAVPfGogv54foLSeFCHN"
+        },
+        {
+          "name": "Sasha Little",
+          "url": "https://open.spotify.com/artist/48Yh9WT0bqRrkpvRwmEx4s"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246177,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/5544ggNo3XcgrOxTvEq7Mq"
+    },
+    {
+      "album": {
         "name": "Back In Style",
         "url": "https://open.spotify.com/album/1y4byy3wz6iLjeUr5p3t2Q"
       },
@@ -1415,7 +1437,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 188519,
       "name": "blue wine.",
       "url": "https://open.spotify.com/track/06bkYsOLP1zKENiTxMBSjx"
@@ -1477,7 +1499,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 150857,
       "name": "Bobs n' Bits",
       "url": "https://open.spotify.com/track/3lSgrUhGTPwnerG9CbaiIx"
@@ -1593,7 +1615,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 208500,
       "name": "but my sister",
       "url": "https://open.spotify.com/track/4NHGE6ml5ymmtYJgncrWNm"
@@ -1683,7 +1705,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 176021,
       "name": "Call me?",
       "url": "https://open.spotify.com/track/1foPquU59VBf6n7XBVKkYU"
@@ -1701,7 +1723,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 225375,
       "name": "Can't Help U",
       "url": "https://open.spotify.com/track/3LvN1PIpS2BUEVSBvXxQHp"
@@ -2015,7 +2037,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 135836,
       "name": "Coy",
       "url": "https://open.spotify.com/track/4tEI3XXnqCHv13c1cAEPxX"
@@ -2740,6 +2762,28 @@
     },
     {
       "album": {
+        "name": "East Side",
+        "url": "https://open.spotify.com/album/107igBsitwYgWY9mi73JYU"
+      },
+      "artists": [
+        {
+          "name": "Jaish",
+          "url": "https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry"
+        },
+        {
+          "name": "JACK MARLOW",
+          "url": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "East Side",
+      "url": "https://open.spotify.com/track/22eVH66FuTAmnVxXfkoWqp"
+    },
+    {
+      "album": {
         "name": "Easy Come Easy Go",
         "url": "https://open.spotify.com/album/5CQjLyXaqP5LPtcqOaAgNM"
       },
@@ -2859,7 +2903,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 227683,
       "name": "Empty Skies",
       "url": "https://open.spotify.com/track/29l16XAWbP0M1bFAu8yx1A"
@@ -3021,7 +3065,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 158400,
       "name": "Eyes Open",
       "url": "https://open.spotify.com/track/4VryLoe8vzFUPkeYZgwbLn"
@@ -3711,7 +3755,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 237640,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/4LvUNvzk0a6giwk1655Qu7"
@@ -4422,6 +4466,24 @@
     },
     {
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/7CXzYWQ7cpSLdLbYI0vSJu"
+      },
+      "artists": [
+        {
+          "name": "Fauness",
+          "url": "https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203320,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2jox9QFalTF1EApqoZ1Yra"
+    },
+    {
+      "album": {
         "name": "Him, Hymn",
         "url": "https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk"
       },
@@ -4775,7 +4837,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 243000,
       "name": "I Need",
       "url": "https://open.spotify.com/track/0fIgQSLtWNMhpCQLqeJY6r"
@@ -5035,6 +5097,42 @@
       "duration_ms": 140487,
       "name": "Inmymind",
       "url": "https://open.spotify.com/track/3OPGQFWEj8psJRQjWwocsX"
+    },
+    {
+      "album": {
+        "name": "Invest",
+        "url": "https://open.spotify.com/album/6JtJjVHJSeoW2m61cfay3z"
+      },
+      "artists": [
+        {
+          "name": "Kate Dineen",
+          "url": "https://open.spotify.com/artist/2s7JrceaCyj0KEfIQ8CjmS"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258327,
+      "name": "Invest",
+      "url": "https://open.spotify.com/track/2h2XqOEsUfr739ju9GSF5N"
+    },
+    {
+      "album": {
+        "name": "Inward",
+        "url": "https://open.spotify.com/album/7KImaY2ikHc9JvhvBrO1Yx"
+      },
+      "artists": [
+        {
+          "name": "Russell Stewart",
+          "url": "https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182181,
+      "name": "Inward",
+      "url": "https://open.spotify.com/track/6Xt50HBqLpImH1NkwlxsHr"
     },
     {
       "album": {
@@ -6680,6 +6778,46 @@
     },
     {
       "album": {
+        "name": "VITD005",
+        "url": "https://open.spotify.com/album/2kYljBbJIa292Vmi63V1Hw"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        },
+        {
+          "name": "WEN",
+          "url": "https://open.spotify.com/artist/1EJ6H4Wh3qAfi24c1RgE3B"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344281,
+      "name": "Never 4Get",
+      "url": "https://open.spotify.com/track/6GABILhlWp5CXxhnc5nkRV"
+    },
+    {
+      "album": {
+        "name": "Never Forget Me (Get Naked)",
+        "url": "https://open.spotify.com/album/1d3TXpSy41K9RHuzKmBHwT"
+      },
+      "artists": [
+        {
+          "name": "Trial by Geneva",
+          "url": "https://open.spotify.com/artist/5qCmXYkpw2sQkpaHccsmRZ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264974,
+      "name": "Never Forget Me (Get Naked)",
+      "url": "https://open.spotify.com/track/1ilcjfgXnAsnbcTu8ITxyv"
+    },
+    {
+      "album": {
         "name": "Never That Easy",
         "url": "https://open.spotify.com/album/28Owwp9AwcZvux4A57R5hk"
       },
@@ -7033,7 +7171,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 224052,
       "name": "notice",
       "url": "https://open.spotify.com/track/6tDNa0dOZAM3WeFabwCQXW"
@@ -7925,6 +8063,24 @@
       "duration_ms": 324545,
       "name": "Retinues",
       "url": "https://open.spotify.com/track/1M4Tkuc3JSuAXC0d2gYvpT"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3fg9IlQdHoEEsGODd4d5A2"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Brown",
+          "url": "https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183453,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/2Rnhkst6SnHnESD8YyZZZm"
     },
     {
       "album": {
@@ -9073,7 +9229,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 211165,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2rPR6H4wB39LxJxMOmJ5kf"
@@ -9167,6 +9323,28 @@
       "duration_ms": 176413,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/5wKaBUE2BWya0BXgRddcDM"
+    },
+    {
+      "album": {
+        "name": "talking to strangers",
+        "url": "https://open.spotify.com/album/2HPgqlpxIi8g7M4Dk1RuAK"
+      },
+      "artists": [
+        {
+          "name": "Loome",
+          "url": "https://open.spotify.com/artist/5uacIDTlT52eDbiGbT1Le8"
+        },
+        {
+          "name": "Oktae",
+          "url": "https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197493,
+      "name": "talking to strangers",
+      "url": "https://open.spotify.com/track/0QtVbyei2xbBLGe7nZbxdB"
     },
     {
       "album": {
@@ -9556,6 +9734,24 @@
     },
     {
       "album": {
+        "name": "Truth and Desire",
+        "url": "https://open.spotify.com/album/4gwEhu0t5psIePibLNyxQP"
+      },
+      "artists": [
+        {
+          "name": "Qbanaa",
+          "url": "https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Truth and Desire",
+      "url": "https://open.spotify.com/track/6ApZAVtCIRIWJ1q0XXAd8W"
+    },
+    {
+      "album": {
         "name": "Try Another Way",
         "url": "https://open.spotify.com/album/6Wqx064Ypi9L6hohzeXx43"
       },
@@ -9603,7 +9799,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 293954,
       "name": "Tupperware Party",
       "url": "https://open.spotify.com/track/3ji7qRyfJlMd7iwFnjKeKW"
@@ -9849,6 +10045,24 @@
       "duration_ms": 177272,
       "name": "Visa",
       "url": "https://open.spotify.com/track/1fCwLjSNuCfihsYmrItaVW"
+    },
+    {
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/1cwEaB9fdUZbNXGHQlC6hP"
+      },
+      "artists": [
+        {
+          "name": "Bakare",
+          "url": "https://open.spotify.com/artist/5XjxzHow7IADc0UMEcvxbn"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/39wW7uJ7JdjjYCcLRgzozF"
     },
     {
       "album": {

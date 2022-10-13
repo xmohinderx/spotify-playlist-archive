@@ -1,12 +1,12 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 86314,
+  "num_followers": 86590,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI1NDAyOCwwMDAwMDAwMDIzMmJjOTMxODljN2NlNTFhZTc0MDBiZjkwYWUwYmE3",
+  "snapshot_id": "MTY1ODI1NDAyOCwwMDAwMDAwMGRkMDQzZGQ2YmZhZTdlOWVlZTM1ZDgwMjM0MjU0MGVj",
   "tracks": [
     {
       "added_at": "2022-07-19 18:07:08",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "Sopa de Caracol",
-      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Sueno Latino",
         "url": "https://open.spotify.com/album/1hgd43q4QftJJ9RLkz6cz5"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 226586,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/415WOC7qIqb1pvOOhe90si"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "Sopa de Caracol",
+      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Inimitable",
-        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Vienes y Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Cerca De Ti",
         "url": "https://open.spotify.com/album/08u4HX1MAvPf6IWc8GC2pi"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Sa, Za...Sabor!!!",
-        "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
+        "name": "Inimitable",
+        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
       },
       "artists": [
         {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 233613,
-      "name": "Porque te Amo",
-      "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
+      "duration_ms": 254333,
+      "name": "Vienes y Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -775,18 +759,18 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+        "name": "Sa, Za...Sabor!!!",
+        "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
         }
       ],
-      "duration_ms": 212400,
-      "name": "Tramposa Y Mentirosa",
-      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
+      "duration_ms": 233613,
+      "name": "Porque te Amo",
+      "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -807,18 +791,18 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+      "duration_ms": 212400,
+      "name": "Tramposa Y Mentirosa",
+      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -835,6 +819,22 @@
       "duration_ms": 220533,
       "name": "Cumbia Francesa",
       "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -883,22 +883,6 @@
       "duration_ms": 311386,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/1nASPG3ZiLBi3fJMOZmRsJ"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
-        "name": "Los M\u00e1s Queridos",
-        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Te Vas a Arrepentir",
-      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -983,6 +967,22 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
+        "name": "Los M\u00e1s Queridos",
+        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
         "name": "Como un Dulce Poema, Vol. 3",
         "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
       },
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Sue\u00f1o Contigo",
-        "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
       "artists": [
         {
-          "name": "Andikiru",
-          "url": "https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o"
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
         }
       ],
-      "duration_ms": 211506,
-      "name": "Mami (Angel De Paz)",
-      "url": "https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9"
+      "duration_ms": 193760,
+      "name": "El Santo Del Amor",
+      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+        "name": "Sue\u00f1o Contigo",
+        "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
       },
       "artists": [
         {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+          "name": "Andikiru",
+          "url": "https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o"
         }
       ],
-      "duration_ms": 193760,
-      "name": "El Santo Del Amor",
-      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
+      "duration_ms": 211506,
+      "name": "Mami (Angel De Paz)",
+      "url": "https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 252679,
-      "name": "Cumbia Del Chinito",
-      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 247000,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 252679,
+      "name": "Cumbia Del Chinito",
+      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 230133,
       "name": "Coraz\u00f3n Adolorido",
       "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Puros Vatos...Choca Y Rebota",
-        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
-      },
-      "artists": [
-        {
-          "name": "Chicos de Barrio",
-          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Mentirosa (Eres Mentirosa)",
-      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Exitos Para Amanecer Bailando",
         "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
-        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+        "name": "Puros Vatos...Choca Y Rebota",
+        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
       },
       "artists": [
         {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+          "name": "Chicos de Barrio",
+          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
         }
       ],
-      "duration_ms": 235240,
-      "name": "Cari\u00f1ito Sin MI",
-      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
+      "duration_ms": 273893,
+      "name": "Mentirosa (Eres Mentirosa)",
+      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Tambo Tambo",
-        "url": "https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4"
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
+        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
       "artists": [
         {
-          "name": "Tamb\u00f3 Tamb\u00f3",
-          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 241600,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5JihaewVTYmV1VexpMQxPp"
+      "duration_ms": 235240,
+      "name": "Cari\u00f1ito Sin MI",
+      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1555,6 +1539,22 @@
       "duration_ms": 248857,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Tambo Tambo",
+        "url": "https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4"
+      },
+      "artists": [
+        {
+          "name": "Tamb\u00f3 Tamb\u00f3",
+          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5JihaewVTYmV1VexpMQxPp"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Nunca Me Faltes",
-        "url": "https://open.spotify.com/album/4IERX704YcJHePC2n4irxt"
-      },
-      "artists": [
-        {
-          "name": "Santamarta",
-          "url": "https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB"
-        }
-      ],
-      "duration_ms": 266146,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 242918,
       "name": "Tabaco y Ron",
       "url": "https://open.spotify.com/track/5kyyzquBdNuJis2kVC4GmT"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "Nunca Me Faltes",
+        "url": "https://open.spotify.com/album/4IERX704YcJHePC2n4irxt"
+      },
+      "artists": [
+        {
+          "name": "Santamarta",
+          "url": "https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB"
+        }
+      ],
+      "duration_ms": 266146,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Los A\u00f1os De Oro - La Orquesta De Siempre",
-        "url": "https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz"
-      },
-      "artists": [
-        {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Pasito Tun, Tun",
-      "url": "https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
         "name": "17 Aniversario",
         "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
       },
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
+        "name": "Los A\u00f1os De Oro - La Orquesta De Siempre",
+        "url": "https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Pasito Tun, Tun",
+      "url": "https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
         "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
       },
@@ -1871,6 +1871,22 @@
       "duration_ms": 212293,
       "name": "Las Cale\u00f1as",
       "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
+    },
+    {
+      "added_at": "2022-07-19 18:07:08",
+      "album": {
+        "name": "El Sabanero Mayor, Vol. 2",
+        "url": "https://open.spotify.com/album/1v5KxYDzN5EijqNLin1K90"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 254641,
+      "name": "Te Llevare",
+      "url": "https://open.spotify.com/track/7s4bnNogaYgchCC2z5sn4Z"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -1903,22 +1919,6 @@
       "duration_ms": 179762,
       "name": "El Viajecito",
       "url": "https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ"
-    },
-    {
-      "added_at": "2022-07-19 18:07:08",
-      "album": {
-        "name": "El Sabanero Mayor, Vol. 2",
-        "url": "https://open.spotify.com/album/1v5KxYDzN5EijqNLin1K90"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 254641,
-      "name": "Te Llevare",
-      "url": "https://open.spotify.com/track/7s4bnNogaYgchCC2z5sn4Z"
     },
     {
       "added_at": "2022-07-19 18:07:08",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2022-07-19 18:07:08",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
+        "name": "Y Es por Ti",
+        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
       },
       "artists": [
         {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
         }
       ],
-      "duration_ms": 202200,
-      "name": "Cumbia de las Flores",
-      "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
+      "duration_ms": 193146,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
     },
     {
       "added_at": "2022-07-19 18:07:08",

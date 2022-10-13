@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover, Stefan Thev
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 13 | [sex! money! violence!](https://open.spotify.com/track/7JwV5GYsVIRW5wrJw3lvAI) | [STEFAN THEV](https://open.spotify.com/artist/3kggahr7S6paKpAN6EMKVM), [DAN OTYA](https://open.spotify.com/artist/4mFWbLSOiaF35VEop1bMG8) | [sex! money! violence!](https://open.spotify.com/album/4fnDaPd2fiWOqaakEU2jhJ) | 2:56 |
 | 14 | [MIA Freestyle](https://open.spotify.com/track/2DAWd9getY6cG4mpUOBdt4) | [euro](https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC) | [MIA Freestyle](https://open.spotify.com/album/4kXVVOTcmOs7kHG9Z5Qow2) | 2:11 |
 | 15 | [Excited](https://open.spotify.com/track/0DSFmiaYwLQO4as7r1t3W3) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Blanco 5](https://open.spotify.com/album/2LxbbBRZaTSmWZI42G99t3) | 3:12 |
-| 16 | [Leave the Party](https://open.spotify.com/track/0Mxh4inXATNeyzreyU0GrA) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [Girl on Rhode](https://open.spotify.com/album/69MgBANi5r9PxRJwzPDV9w) | 1:47 |
+| 16 | [Leave the Party](https://open.spotify.com/track/4tFF4rUola2OtZbesM6PFo) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [Girl on Rhode](https://open.spotify.com/album/5NHhAlpHoZPWzhEbg7nMga) | 1:47 |
 | 17 | [THINK ITS TIME!](https://open.spotify.com/track/0oeE4Pu2wThxPH8TCyuFa4) | [JORD4NEVERDIED](https://open.spotify.com/artist/2UPrUSRrUq2ZNSN7kiQFD6) | [PORTAL](https://open.spotify.com/album/5NB9B6DnDWSfr4VOSueGH6) | 2:15 |
 | 18 | [WYWM](https://open.spotify.com/track/0wJ0jSNRxttS5NifH4Vk5X) | [Notebook P](https://open.spotify.com/artist/6NCw0TVDOWRcp6bhxXZhrc), [Clyde Black](https://open.spotify.com/artist/2zeV4qg08SRujhN7rRwmkt) | [Book of Sun](https://open.spotify.com/album/5RwOHxwBjsPybtYlbc1vPQ) | 3:08 |
 | 19 | [By Now](https://open.spotify.com/track/29bVVMiVYtBoDhV56nQuyR) | [Najee Janey](https://open.spotify.com/artist/2whc6gja7yTVsL7EqWEQnF) | [By Now](https://open.spotify.com/album/2SFtO9DqVuZuK7X0znR1pm) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 49 | [Lights Out](https://open.spotify.com/track/47apDG3Hq3HNXMDanJ5b9v) | [Rebel Mafia Global](https://open.spotify.com/artist/76adkmxsrkIT6eDqfqVhzc), [Big Super](https://open.spotify.com/artist/4BgZiBtnUFKNx62M3YIIqh), [Messy Money Sav](https://open.spotify.com/artist/13SmRDpZnsMINtZnH0230f), [Ken Frank](https://open.spotify.com/artist/36A8ykIWSdqME291FZKke6), [Rugby LoSport](https://open.spotify.com/artist/1vLCXFbZ7UiAw9EVNZTFJT), [Kye Bills](https://open.spotify.com/artist/7yWoldRQWzWXMT5TrPGvkC) | [Lights Out](https://open.spotify.com/album/1LwN1zvSImu6H0JMblOwAv) | 3:24 |
 | 50 | [10 On a One](https://open.spotify.com/track/7nXWHvpMTz2Mx5J3l56nbw) | [Dun Dealy](https://open.spotify.com/artist/6GjQh4aojWl1rPSkN3kBgE) | [10 On a One](https://open.spotify.com/album/0maeEjuWdqxhHNX2mIOsRT) | 2:29 |
 
-Snapshot ID: `MTY2NDU3NzczMCwwMDAwMDAwMGNmNjYyYTI2MDE5ZjJmYzkxZjAxOTYwNDE1NmVmODBm`
+Snapshot ID: `MTY2NDU3NzczMCwwMDAwMDAwMDhkOWU0ZTgyYzFlYTZmZDg5NTU5ZmEzZDg0NWIxYjFl`

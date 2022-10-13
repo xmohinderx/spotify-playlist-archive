@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover: \bCRAVITY(\ud06c\ub798\ube44\ud2f0) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover: \bUP10TION(\uc5c5\ud150\uc158) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "published_playlist_ids": [
     "1rQmqTB8OYYXGSYSv738KR"
@@ -1257,6 +1257,24 @@
       "duration_ms": 171106,
       "name": "Can\u2019t Stop Shining",
       "url": "https://open.spotify.com/track/0oJZzuHUjpKAFrSHqjJKZM"
+    },
+    {
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191964,
+      "name": "CASE 143",
+      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
     },
     {
       "album": {
@@ -4227,7 +4245,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 207617,
       "name": "MIROH",
       "url": "https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH"
@@ -6449,7 +6467,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 180000,
       "name": "Uh-Heung",
       "url": "https://open.spotify.com/track/6ZqN3lxg9UjZCdOZAAquU6"
@@ -6669,6 +6687,24 @@
       "duration_ms": 203866,
       "name": "What a life",
       "url": "https://open.spotify.com/track/3TfLZodlQ1TzNpdrc4KXR5"
+    },
+    {
+      "album": {
+        "name": "Code Name: Arrow",
+        "url": "https://open.spotify.com/album/6lGBHQBYL3eRzQ2ONYaxYc"
+      },
+      "artists": [
+        {
+          "name": "UP10TION",
+          "url": "https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190360,
+      "name": "What If Love",
+      "url": "https://open.spotify.com/track/5M2fQ0KSLYRwrpIm4SxDl8"
     },
     {
       "album": {

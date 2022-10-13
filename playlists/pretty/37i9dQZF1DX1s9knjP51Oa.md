@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Slow down with some calming keys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,467 likes - 313 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,850 likes - 313 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

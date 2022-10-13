@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz?si=IrA26cUAS5W88Q9mtXvX2A&nd=1">Mickey Guyton,</a> Emma\-Lee, and Karen Kosowski.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,093 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,116 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 3 | [Before You Gotta Go](https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 3:45 |
 | 4 | [the sooner it stops, the sooner it starts](https://open.spotify.com/track/2tCDY5eO3qPvbkcBcG0tJf) | [LACES](https://open.spotify.com/artist/6yMmGdc524t6LunXvGeffb), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [the sooner it stops, the sooner it starts](https://open.spotify.com/album/6MoOm7MxNXn9zxI6hYNxjM) | 3:07 |
 | 5 | [Bitter](https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Bitter](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u) | 3:14 |
-| 6 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 |
+| 6 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 |
 | 7 | [On Your Own](https://open.spotify.com/track/60ActAiZgHEewjuxfYCpOp) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 2:37 |
 | 8 | [Conexão](https://open.spotify.com/track/4vvFklYoPTicMqbYUo7qyG) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:59 |
 | 9 | [All In For You](https://open.spotify.com/track/1822UM5hXl4HTZoWteVZCI) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Don't Sleep](https://open.spotify.com/album/71vXspFj2kT6IQn1IuNpEd) | 4:20 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Red To Violet \- Feat\. Jamila Woods](https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Red To Violet \(Feat\. Jamila Woods\)](https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv) | 3:22 |
 | 40 | [If He Wanted to He Would](https://open.spotify.com/track/7dORAUbJ8pGvB4SaH0KbUx) | [Sarah Catharine](https://open.spotify.com/artist/78iX5058y1HoOivCzmz8Av) | [If He Wanted to He Would](https://open.spotify.com/album/49fQeumi6IE0Dppm5JQbK6) | 3:47 |
 
-Snapshot ID: `MTY2NDk4NjcxNiwwMDAwMDAwMGRlYWM3YTMxNDRiMWRkMzc2YTY4ZmMxZDZiNWRhY2M4`
+Snapshot ID: `MTY2NDk4NjcxNiwwMDAwMDAwMDQzOGMzZjdiYTQ1OGZiM2JiNWJiYjFlNGNmZGZmMGEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,744 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,019 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 10 | [SIMPLE \(feat\. I DONT KNOW HOW BUT THEY FOUND ME\)](https://open.spotify.com/track/6jLIepXJGYHxNsdtn0sOP6) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [SIMPLE \(feat\. I DONT KNOW HOW BUT THEY FOUND ME\)](https://open.spotify.com/album/61Lk7onZ1FIkOX2VqqX4e5) | 2:51 |
 | 11 | [Star](https://open.spotify.com/track/3htTIczJijYQUMhuExSOED) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Star](https://open.spotify.com/album/57wIEJkgUzg17Qyns6JvXz) | 3:35 |
 | 12 | [Randall Flagg](https://open.spotify.com/track/4eRoGhykyQCIzhOaFf35zX) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Magic Hour](https://open.spotify.com/album/4SjIdmDhVUA1eunwERtgPv) | 3:39 |
-| 13 | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/01LhaD0h5dDWsBzQ0LFq8V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/6wKQ8HKDS7HKKsodVBRT5z) | 3:08 |
+| 13 | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/track/2oal7Q9v9hFQXFZbaiGNsy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [I Think My Mind Has Made Its Mind Up](https://open.spotify.com/album/1q132A3KkxRLRrEiWZXWqN) | 3:08 |
 | 14 | [Black Wax](https://open.spotify.com/track/4V31QTDG2d8ljBOpp0Y0E4) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Black Wax](https://open.spotify.com/album/4qVsaVR3UeytC0EOyYQhmX) | 2:56 |
 | 15 | [Come Down](https://open.spotify.com/track/4MJ0O6EGhlE4dsEwbvFhWk) | [Tarnish](https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW), [Test The Waters](https://open.spotify.com/artist/5ULMvdqhzkJPsTvwdsSNDH) | [Come Down](https://open.spotify.com/album/1MNBIn1BOZGIBF8lkoFrMi) | 3:37 |
 | 16 | [Never Too Late \(To Get Some Pussy Tonight\)](https://open.spotify.com/track/5I7d2Ixd9lEAzFzm5KuKRX) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Never Too Late \(To Get Some Pussy Tonight\)](https://open.spotify.com/album/4T7pguaaUJrJ0w67EiLmip) | 3:59 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 31 | [Mercy](https://open.spotify.com/track/4GVNWk25wDMuWbAl9UqPkw) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Mercy](https://open.spotify.com/album/2WJFoYU2b08ZhD8OA0j921) | 2:48 |
 | 32 | [Embers In The Dark](https://open.spotify.com/track/3tSQUN52YzNzVBFwNBPaOe) | [Blackbird Hill](https://open.spotify.com/artist/49Ypkl4ltiWhxXcLILO8W1) | [Embers In The Dark](https://open.spotify.com/album/1DOMiVuusKUbTi1JdQl3wo) | 5:59 |
 | 33 | [Canzone 9](https://open.spotify.com/track/3Lkbk6U4UUyxdseqGmip1b) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Ologenesi](https://open.spotify.com/album/37CdwSrQ0Rexb7EVLfQppx) | 3:22 |
-| 34 | [Newman](https://open.spotify.com/track/2f3Vg7P7ibs63VlLFzDMWe) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [Newman](https://open.spotify.com/album/3L4iURSKuHJjq3Akx13wxi) | 3:32 |
+| 34 | [Newman](https://open.spotify.com/track/69YmuDhmJAwNHrpTk8Qoxh) | [Selfish Things](https://open.spotify.com/artist/4iQ7b56FZ0A06oJ0rt0paz) | [Newman](https://open.spotify.com/album/4eqZoNbIbnOBka7qfYPovh) | 3:32 |
 | 35 | [Creeper](https://open.spotify.com/track/7vYFmPUcMgRmhoUGHfPfDe) | [Gnarlah](https://open.spotify.com/artist/5PWdH4Kq3yHxP0CwaDFBB4) | [Creeper](https://open.spotify.com/album/68NYAtyFDakRZn78nSUxbv) | 3:26 |
 | 36 | [Satellite](https://open.spotify.com/track/1SqKMi2GPaKaY8vIRPBDCc) | [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f) | [Satellite](https://open.spotify.com/album/7ak5jBCv2yZ0l2A39UJetA) | 3:59 |
 | 37 | [Roll On](https://open.spotify.com/track/5RPP2w1gbGZBmBupb9L8iv) | [Pretty Uglys](https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9) | [Roll On](https://open.spotify.com/album/2abTyy7O1Y4FGJzcBQGOks) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Grind Me into the Paste](https://open.spotify.com/track/6skPs6cxNqGJRXVEH3zxKI) | [Bony Macaroni](https://open.spotify.com/artist/5RsdlcuYtj4bWyGPVJCuet) | [Grind Me into the Paste](https://open.spotify.com/album/48RjA89AwcrX1tQ8Hy85Dp) | 2:58 |
 | 50 | [Defective Supersight](https://open.spotify.com/track/75edXIj9lMn82jTlzOwUf3) | [Nobody Cried For Dinosaurs](https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo) | [Defective Supersight](https://open.spotify.com/album/1cbY5ev5FxZPHP3grGgMau) | 3:36 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGQ2YTBlOGExNTUxZTQ1OWVlNzUxYmE0YWVkMGM2YmFi`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDcwOGY5YjRlODViOWQwZTI5ZjljNDZkMTZjMmQ1YjBh`

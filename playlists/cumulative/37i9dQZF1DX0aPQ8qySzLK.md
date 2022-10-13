@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-125 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
+126 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [The Veil](https://open.spotify.com/track/2wxdIEWyKSUcpAekpsYtPe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:59 | 2021-12-01 |  |
 | [The Veil](https://open.spotify.com/track/47nmrMtS8qDXdn9ubjX6Hz) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [The Veil](https://open.spotify.com/album/1s60A6C8IrSUOkY6lPTFvq) | 3:59 | 2021-12-01 | 2022-07-29 |
 | [The Way It Would Be](https://open.spotify.com/track/21zGHj2ZNYkfJqslTDK1zd) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [The Way It Would Be](https://open.spotify.com/album/2338VGJXbLAMn5ZrTM2NKw) | 3:16 | 2021-12-01 |  |
-| [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 | 2021-12-01 |  |
+| [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 | 2021-12-01 | 2022-10-13 |
+| [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 | 2021-12-01 |  |
 | [Tripover](https://open.spotify.com/track/52Wf6E7Vc2eBSCybpsJyJY) | [Morning Show](https://open.spotify.com/artist/4VDzfUv0TOTJhYtOW4pWMm) | [Come Around](https://open.spotify.com/album/3JqkBDzazIhIG2IujqVDGA) | 3:48 | 2021-12-01 |  |
 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 | 2021-12-01 |  |
 | [Untitled \#4](https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Third Gleam](https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2) | 4:04 | 2021-12-01 |  |

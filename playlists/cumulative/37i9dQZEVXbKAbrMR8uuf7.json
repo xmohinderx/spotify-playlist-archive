@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 210989,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI"
@@ -3622,6 +3622,24 @@
     },
     {
       "album": {
+        "name": "EN EL BAMESA",
+        "url": "https://open.spotify.com/album/3EU9aNgjdkA043tUUysaC0"
+      },
+      "artists": [
+        {
+          "name": "Treinta-trenta",
+          "url": "https://open.spotify.com/artist/3sgyXlUMPrDE8a9VqBf99W"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208378,
+      "name": "EN EL BAMESA",
+      "url": "https://open.spotify.com/track/6IyQaF4Zrnbperzno2AKxT"
+    },
+    {
+      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -6217,7 +6235,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 208320,
       "name": "Lebron en el Bameso",
       "url": "https://open.spotify.com/track/2aWCcyGIG4ia5vlWIDKn7i"
@@ -6826,6 +6844,28 @@
     },
     {
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182724,
+      "name": "Lugar Seguro",
+      "url": "https://open.spotify.com/track/2VF8TTWczzupwrhtsQfx48"
+    },
+    {
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -7357,7 +7397,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 176285,
       "name": "Mi Area",
       "url": "https://open.spotify.com/track/1w0oaaPLWVXGJWtUrYjuO8"
@@ -11657,7 +11697,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 182564,
       "name": "TOMALA",
       "url": "https://open.spotify.com/track/73u8KWnLOQykesSgYic6nD"

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 250216,
+  "num_followers": 250272,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE4Nzk5MjQ5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE4ODg5NDM4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Do Tanca",
         "url": "https://open.spotify.com/album/1ALPpmj1jQP88ynngg9wtJ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4nv5o5Xo4ySBaIVnXr75Xs"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "JESTEM POJ384NY",
         "url": "https://open.spotify.com/album/0z8cYvhL11Txp6qF1MojKc"
@@ -45,27 +45,7 @@
       "url": "https://open.spotify.com/track/4lPAZiTJbaQ4irMzcq0GOU"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "Sheraton",
-        "url": "https://open.spotify.com/album/6oea85vGtHNTZeIMxpcecb"
-      },
-      "artists": [
-        {
-          "name": "Miszel",
-          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
-        },
-        {
-          "name": "Kabe",
-          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
-        }
-      ],
-      "duration_ms": 164858,
-      "name": "Sheraton",
-      "url": "https://open.spotify.com/track/1t33hewgrIxkdnzOgscAN8"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Dopehouse Mixtape",
         "url": "https://open.spotify.com/album/6ELqUBxrTSFFjaTratUXMI"
@@ -89,7 +69,7 @@
       "url": "https://open.spotify.com/track/3f9Ugg030LDe0p6ospTORC"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -109,7 +89,27 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "Sheraton",
+        "url": "https://open.spotify.com/album/6oea85vGtHNTZeIMxpcecb"
+      },
+      "artists": [
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        },
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        }
+      ],
+      "duration_ms": 164858,
+      "name": "Sheraton",
+      "url": "https://open.spotify.com/track/1t33hewgrIxkdnzOgscAN8"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "KETCHUP",
         "url": "https://open.spotify.com/album/3tayt2Q0PZdnJCVKLLWYvn"
@@ -141,7 +141,23 @@
       "url": "https://open.spotify.com/track/23GIMk2WNqdSxe93u3eOmm"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "Poland",
+        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 83200,
+      "name": "Poland",
+      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "To co masz Ty!",
         "url": "https://open.spotify.com/album/6ZmRlpg8x8sC0dW41ZjcKg"
@@ -157,7 +173,23 @@
       "url": "https://open.spotify.com/track/3RYR0I1GeqV3Qw5IgLcByW"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "m\u0142ody say10",
+        "url": "https://open.spotify.com/album/4r0SGmxQ5XgR5nGyyOiO91"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "duration_ms": 147374,
+      "name": "kupi\u0107 jej gaz czy torebk\u0119?",
+      "url": "https://open.spotify.com/track/1J3rvvPqfplUP3w1y9y8In"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Klej",
         "url": "https://open.spotify.com/album/1ipi6D1WvsHXSZSTrWYmER"
@@ -177,23 +209,7 @@
       "url": "https://open.spotify.com/track/17KqatlEaJPfxlZI6i0PRF"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "m\u0142ody say10",
-        "url": "https://open.spotify.com/album/4r0SGmxQ5XgR5nGyyOiO91"
-      },
-      "artists": [
-        {
-          "name": "Chivas",
-          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
-        }
-      ],
-      "duration_ms": 147374,
-      "name": "kupi\u0107 jej gaz czy torebk\u0119?",
-      "url": "https://open.spotify.com/track/1J3rvvPqfplUP3w1y9y8In"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "SI\u0118 WJE\u017bD\u017bA",
         "url": "https://open.spotify.com/album/4gdA2bLBvDoTq5ymkn8rP0"
@@ -213,23 +229,7 @@
       "url": "https://open.spotify.com/track/2yEWVnp65tTXSrRW03IqXs"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "m\u0142ody say10",
-        "url": "https://open.spotify.com/album/4r0SGmxQ5XgR5nGyyOiO91"
-      },
-      "artists": [
-        {
-          "name": "Chivas",
-          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "kole\u017canko mojej by\u0142ej",
-      "url": "https://open.spotify.com/track/5NbxvSCL1xLqqWLqG6LjwE"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "PRODUKT47",
         "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
@@ -249,7 +249,23 @@
       "url": "https://open.spotify.com/track/1SDoIIjDCFjJuglM7qbIqf"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "m\u0142ody say10",
+        "url": "https://open.spotify.com/album/4r0SGmxQ5XgR5nGyyOiO91"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "kole\u017canko mojej by\u0142ej",
+      "url": "https://open.spotify.com/track/5NbxvSCL1xLqqWLqG6LjwE"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Pretty Boy",
         "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
@@ -285,23 +301,7 @@
       "url": "https://open.spotify.com/track/5YvL3ytkusKcM5ozxD9fKN"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "Ma\u0142e Krople",
-        "url": "https://open.spotify.com/album/3dD3hIgOhQo7zZph0rkhu6"
-      },
-      "artists": [
-        {
-          "name": "Young Igi",
-          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
-        }
-      ],
-      "duration_ms": 164363,
-      "name": "Ma\u0142e Krople",
-      "url": "https://open.spotify.com/track/6wkV4uyxWrfNim5QmLmQnp"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "UCZTA",
         "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
@@ -321,7 +321,43 @@
       "url": "https://open.spotify.com/track/3YqafSKCCazkxZUdO23iWf"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "Ma\u0142e Krople",
+        "url": "https://open.spotify.com/album/3dD3hIgOhQo7zZph0rkhu6"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        }
+      ],
+      "duration_ms": 164363,
+      "name": "Ma\u0142e Krople",
+      "url": "https://open.spotify.com/track/6wkV4uyxWrfNim5QmLmQnp"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "PRODUKT47",
         "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
@@ -341,7 +377,7 @@
       "url": "https://open.spotify.com/track/5GqUS2hyZj73WXpIamn5gA"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "UCZTA",
         "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
@@ -361,7 +397,31 @@
       "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "B\u0141\u0104D W SYMULACJI",
+        "url": "https://open.spotify.com/album/641IacAURXU6OOvAZcGYWn"
+      },
+      "artists": [
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        },
+        {
+          "name": "Pako",
+          "url": "https://open.spotify.com/artist/3xLiWZ3znvRdfD3Xv3bjIt"
+        },
+        {
+          "name": "BAHsick",
+          "url": "https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv"
+        }
+      ],
+      "duration_ms": 227105,
+      "name": "B\u0141\u0104D W SYMULACJI",
+      "url": "https://open.spotify.com/track/1PWk4dgJhx5BbzBJxX9Oh8"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "m\u0142ody say10",
         "url": "https://open.spotify.com/album/4r0SGmxQ5XgR5nGyyOiO91"
@@ -377,7 +437,7 @@
       "url": "https://open.spotify.com/track/2qqiGxy47FbviXuPW7crUH"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -393,7 +453,7 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "ztb",
         "url": "https://open.spotify.com/album/4yHA2yzXi7CrdsaXE9Kw8V"
@@ -413,7 +473,7 @@
       "url": "https://open.spotify.com/track/3NI7tfqky48mPo9KUxK4RI"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "TURYSTA",
         "url": "https://open.spotify.com/album/4OeyU2KLcFH1OiljSDxUbZ"
@@ -445,7 +505,7 @@
       "url": "https://open.spotify.com/track/1A9coun3RG2nHmxAnajLYG"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -461,7 +521,7 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Nie Mam Czasu Na Wakacje",
         "url": "https://open.spotify.com/album/6HFlpGs0TiNuCl3RZAWFH3"
@@ -489,7 +549,7 @@
       "url": "https://open.spotify.com/track/5FYjUbPN2SDxLVBWGxkb9z"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Pijemy Za Lepszy Czas",
         "url": "https://open.spotify.com/album/7ev2BtFyL6h0hBOU5igPyb"
@@ -513,7 +573,7 @@
       "url": "https://open.spotify.com/track/032CWjRKDdkVHAsrdgOj1w"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -533,27 +593,7 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "NO FACE",
         "url": "https://open.spotify.com/album/2d1hxwcJ7FPkZzEToQ0eB7"
@@ -577,7 +617,7 @@
       "url": "https://open.spotify.com/track/15TrHBCTobTCJ4ojq9mABc"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -593,23 +633,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
@@ -625,7 +649,23 @@
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
@@ -645,7 +685,23 @@
       "url": "https://open.spotify.com/track/5sGv8YdAa3XjggnbpF9NC9"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "we fell in love in october / forget her",
+        "url": "https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Pleasure",
         "url": "https://open.spotify.com/album/2ZUw9QFESdKdlBb54HVJBI"
@@ -665,63 +721,35 @@
       "url": "https://open.spotify.com/track/30eyshp22VdtdZElqlyglF"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
-        "name": "Z\u0142ote Tarasy",
-        "url": "https://open.spotify.com/album/7zmwRrJPhyxLiVgtMtJlW1"
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
       "artists": [
         {
-          "name": "Mr. Polska",
-          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Abel de Jong",
-          "url": "https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt"
-        }
-      ],
-      "duration_ms": 146269,
-      "name": "Z\u0142ote Tarasy",
-      "url": "https://open.spotify.com/track/0dorKIz071s55Jy0zxb4aW"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "we fell in love in october / forget her",
-        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "Dopehouse Mixtape",
-        "url": "https://open.spotify.com/album/6ELqUBxrTSFFjaTratUXMI"
-      },
-      "artists": [
-        {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
         },
         {
-          "name": "Dopehouse",
-          "url": "https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 271759,
-      "name": "Znikam",
-      "url": "https://open.spotify.com/track/7wE9mPOd1BMrDiq3sQBYfM"
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "PATOPROHIBICJA (28.01.2022)",
         "url": "https://open.spotify.com/album/6uc56byB6pbNq0P1irTCn7"
@@ -741,7 +769,27 @@
       "url": "https://open.spotify.com/track/4uOHYc6dCVLcNdQBRUlA0G"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "Z\u0142ote Tarasy",
+        "url": "https://open.spotify.com/album/7zmwRrJPhyxLiVgtMtJlW1"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Abel de Jong",
+          "url": "https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt"
+        }
+      ],
+      "duration_ms": 146269,
+      "name": "Z\u0142ote Tarasy",
+      "url": "https://open.spotify.com/track/0dorKIz071s55Jy0zxb4aW"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Jeszcze B\u0119dzie Pi\u0119knie",
         "url": "https://open.spotify.com/album/6xIt4xgrninCqwBOscisnb"
@@ -757,7 +805,63 @@
       "url": "https://open.spotify.com/track/0IANgBgdiyhHg0gXdN8zdW"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "Dopehouse Mixtape",
+        "url": "https://open.spotify.com/album/6ELqUBxrTSFFjaTratUXMI"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Dopehouse",
+          "url": "https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN"
+        }
+      ],
+      "duration_ms": 271759,
+      "name": "Znikam",
+      "url": "https://open.spotify.com/track/7wE9mPOd1BMrDiq3sQBYfM"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
+        "url": "https://open.spotify.com/album/1VgKMJgE2oTIExXLyvp1ub"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "Kuba\u0144czyk",
+          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
+      "url": "https://open.spotify.com/track/7mJlWux2bUOGUFMyCeDU8R"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "Fiu Fiu",
         "url": "https://open.spotify.com/album/5fHamGBdPAohRNyKrrgnGd"
@@ -781,7 +885,23 @@
       "url": "https://open.spotify.com/track/015G3HCwWqUdTfXfXkMwX2"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
+      "album": {
+        "name": "M\u0142ody Matczak",
+        "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Szmata",
+      "url": "https://open.spotify.com/track/1BwnO14BpmoRjGt2lla75r"
+    },
+    {
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "BEDOESIARA",
         "url": "https://open.spotify.com/album/4VhH1mvUxQfk9lr8jZ2Y0W"
@@ -813,55 +933,7 @@
       "url": "https://open.spotify.com/track/0wMGcWjZ2Lymgnbxjy5FXN"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "M\u0142ody Matczak",
-        "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Szmata",
-      "url": "https://open.spotify.com/track/1BwnO14BpmoRjGt2lla75r"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "Narcyz",
-        "url": "https://open.spotify.com/album/6swlvP1UMJYx6ny4PBbjph"
-      },
-      "artists": [
-        {
-          "name": "Chivas",
-          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Narcyz",
-      "url": "https://open.spotify.com/track/0tTy9lib8CQg7mwFF6lBbD"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "UCZTA",
         "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
@@ -881,35 +953,7 @@
       "url": "https://open.spotify.com/track/0IeTXtlaZaJ31r0TfPu6Gc"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 148629,
-      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
         "name": "KOCIMI\u0118TKA",
         "url": "https://open.spotify.com/album/463SxeYyF3ZsGSIoCuH9MT"
@@ -929,84 +973,36 @@
       "url": "https://open.spotify.com/track/0czMIykCNrza3OEmWvJEYO"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
-        "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
-        "url": "https://open.spotify.com/album/1VgKMJgE2oTIExXLyvp1ub"
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
       },
       "artists": [
         {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
-        },
-        {
-          "name": "Kuba\u0144czyk",
-          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 183750,
-      "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
-      "url": "https://open.spotify.com/track/7mJlWux2bUOGUFMyCeDU8R"
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
-      "added_at": "2022-10-11 10:27:29",
+      "added_at": "2022-10-12 11:30:38",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+        "name": "Narcyz",
+        "url": "https://open.spotify.com/album/6swlvP1UMJYx6ny4PBbjph"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
         }
       ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "La Manga",
-        "url": "https://open.spotify.com/album/159tAKVX40G35wTbZ7Efk0"
-      },
-      "artists": [
-        {
-          "name": "Alberto",
-          "url": "https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni"
-        },
-        {
-          "name": "Josef Bratan",
-          "url": "https://open.spotify.com/artist/4RoVw3AbSvjr1KFpzjBZgA"
-        }
-      ],
-      "duration_ms": 180806,
-      "name": "La Manga",
-      "url": "https://open.spotify.com/track/7ApeFeWYcnTTGOpo5b9Yx6"
-    },
-    {
-      "added_at": "2022-10-11 10:27:29",
-      "album": {
-        "name": "M\u0142ody Matczak",
-        "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "GOMBAO 33",
-          "url": "https://open.spotify.com/artist/52vstSwpIEImkm06cG6kJD"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 276706,
-      "name": "M\u0142ody Bachor (outro)",
-      "url": "https://open.spotify.com/track/5IU8x0JVDXxVSX5IJ9YbEH"
+      "duration_ms": 144000,
+      "name": "Narcyz",
+      "url": "https://open.spotify.com/track/0tTy9lib8CQg7mwFF6lBbD"
     }
   ],
   "unique_name": "Top 50 - Poland",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: One True God
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,752 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,901 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 34 | [Bass Music](https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [TVBOO](https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW) | [Bass Music](https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28) | 4:06 |
 | 35 | [Every Time \(feat\. So Below\)](https://open.spotify.com/track/6AkEP2vEcpTRn2ilHVPNsa) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [So Below](https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi) | [Every Time \(feat\. So Below\)](https://open.spotify.com/album/1I9Bg2BoorxcedzgQrlvuU) | 5:42 |
 | 36 | [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 |
-| 37 | [Trials \(feat\. IDK\)](https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Trials \(feat\. IDK\)](https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg) | 2:13 |
+| 37 | [Trials](https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 2:13 |
 | 38 | [Not About You](https://open.spotify.com/track/4rRmrn7Z5qySuAjD4Ep9bR) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Not About You](https://open.spotify.com/album/6zZCXte8GWJPvFOS2UUKYV) | 2:57 |
 | 39 | [We Make It Pop](https://open.spotify.com/track/4VH8x8g1v3BfERMMEHpudm) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [We Make It Pop](https://open.spotify.com/album/1xSKqKJAjZseHGYhBnVXgw) | 2:16 |
 | 40 | [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 74 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 75 | [True Colours](https://open.spotify.com/track/2WCA3a7LQRdsKYf93AleId) | [Sivz](https://open.spotify.com/artist/0NUhITSw1R757ncPIm3pGq), [Tinywiings](https://open.spotify.com/artist/1VUJORAhVbWM59xRLR8DY3) | [True Colours](https://open.spotify.com/album/1SDYcBpXWtPNYPtfRwc2XV) | 2:55 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDU5NjlmNWE2YjJjZmRiNmRkMWVkMzEyNDg1MThiYzk5`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDE4NzJlNDI1YzNhMjk5N2Y0MDk4OWZiMThhODFiYWM3`

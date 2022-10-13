@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock driving the current, every week\. Cover: James Mantis
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,119 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,153 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 17 | [DIRTY WHITE VANS REMIX// \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4itBuIySoAuWR1gVk1xA1S) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [DIRTY WHITE VANS REMIX// \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/5jODAtLZwHOfDaOWprFtZL) | 2:21 |
 | 18 | [schizophrenia](https://open.spotify.com/track/5b6zjsBrZCqe6RFycLz2tc) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:20 |
 | 19 | [Change](https://open.spotify.com/track/1Iq8H2uEpjyfkLQbUYdY5V) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Change](https://open.spotify.com/album/1Og1tMxcRr64qwuA5T6BKu) | 2:51 |
-| 20 | [•OUTSIDE•](https://open.spotify.com/track/5VSVz6wsmWEP1PiFfzPcn7) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•OUTSIDE•](https://open.spotify.com/album/4LDezpH6gU6VfBFkSdtNxc) | 1:46 |
+| 20 | [•OUTSIDE•](https://open.spotify.com/track/4HateMT8YtbMll1LmQmMB7) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•OUTSIDE•](https://open.spotify.com/album/6Y9hVwqc0HGINlORyTVzI8) | 1:46 |
 | 21 | [Little](https://open.spotify.com/track/2fozfsVzd6kCYp5OA3sOUJ) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Little](https://open.spotify.com/album/6Vr5O6l6WpEMfAXS1AB9iv) | 2:37 |
 | 22 | [Don't Look At Me](https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 3:08 |
 | 23 | [PURGE ft\. Siiickbrain](https://open.spotify.com/track/1DtlyZk7uxrg5T29zQls44) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PURGE ft\. Siiickbrain](https://open.spotify.com/album/5O7wZ6lbvfTi7OJexsULS1) | 2:37 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 50 | [Kids Don't Buy Groceries](https://open.spotify.com/track/3qpZF480vZzafyfVqIaf4f) | [Hyattsvillain](https://open.spotify.com/artist/1X8K2CJ9gE4QDrh8TVRMKr) | [Kids Don't Buy Groceries](https://open.spotify.com/album/7gy5MwfTEMiom8RoUdIBLp) | 2:03 |
 | 51 | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/track/7kgppSWLikBRTcyuCs1hfC) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [L'exquisite Douleur](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/album/0Jbwtz6ss80zTuTwgQsVgH) | 3:08 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDNiNDhmNDllNDdlZThiOTk4NjgwMWFkY2QwMTgzYWNl`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDlmMDNlMzE0NDdlMjUwZDk2ODJhYWNmODU2MjM3MzA5`

@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 247946,
       "name": "A Clearing - Remastered 2004",
       "url": "https://open.spotify.com/track/4y5qZUZU5sojHT033PFP26"
@@ -117,6 +117,28 @@
       "duration_ms": 236746,
       "name": "A Stream With Bright Fish - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/4IN34Iq5T9x1vN6MASxvS9"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175746,
+      "name": "Above Chiangmai - Remastered 2004",
+      "url": "https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX"
     },
     {
       "album": {
@@ -219,7 +241,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148293,
       "name": "An Echo Of Night - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/1PoRGnn6KqdOnY22gBVrzw"
@@ -273,7 +295,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 319373,
       "name": "Baby's On Fire - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/2PV9sorI2h94qEPke7SlGI"
@@ -309,10 +331,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 236760,
       "name": "Becalmed - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/3qq8XPwF2DoBhENRgLQ7ET"
+    },
+    {
+      "album": {
+        "name": "Mixing Colours",
+        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250040,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/3y32oCGBAn9rYHMvcndmNf"
     },
     {
       "album": {
@@ -349,7 +393,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 262920,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
@@ -451,7 +495,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 1894893,
       "name": "Discreet Music - Remastered 2004",
       "url": "https://open.spotify.com/track/69eD0IfAqEIUnKX63Npksy"
@@ -469,7 +513,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 189466,
       "name": "Drift - Remastered 2005",
       "url": "https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK"
@@ -495,7 +539,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 182373,
       "name": "Emerald and Lime",
       "url": "https://open.spotify.com/track/5hbTbKQXJuZ0qFVerk6jRp"
@@ -543,7 +587,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 470921,
       "name": "Evening Star",
       "url": "https://open.spotify.com/track/5lpw5NewnpIgO1yal6Vjl4"
@@ -561,7 +605,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 239306,
       "name": "Everything Merges With The Night - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/5pAR56gg3tYThEeH0VM3iB"
@@ -583,7 +627,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 254000,
       "name": "Failing Light - Remastered 2004",
       "url": "https://open.spotify.com/track/6AlMwXm6QSGErCZU2rhtoi"
@@ -627,7 +671,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 232440,
       "name": "Foreshadowed - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS"
@@ -703,7 +747,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 229784,
       "name": "I'll Come Running - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/6ZWVeMysm8Q8zZu3lKnY2v"
@@ -721,7 +765,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 151573,
       "name": "In Dark Trees - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/41RiTUEXw8uoCtLd8pcHVy"
@@ -772,6 +816,28 @@
     },
     {
       "album": {
+        "name": "Wrong Way Up [Expanded Edition]",
+        "url": "https://open.spotify.com/album/60iUtvboDimzQEiZjGfkzP"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284133,
+      "name": "Lay My Love",
+      "url": "https://open.spotify.com/track/70MtQkoCPrL5LgI3ky6Jtw"
+    },
+    {
+      "album": {
         "name": "Ambient 4: On Land (Remastered 2004)",
         "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
       },
@@ -805,7 +871,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 261560,
       "name": "Lost In The Humming Air - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
@@ -872,6 +938,28 @@
     },
     {
       "album": {
+        "name": "Cluster & Eno",
+        "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92786,
+      "name": "Mit Simaen",
+      "url": "https://open.spotify.com/track/6x3bTSmI3kLMMXA8uh7Jyr"
+    },
+    {
+      "album": {
         "name": "Here Come The Warm Jets",
         "url": "https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi"
       },
@@ -923,7 +1011,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 230853,
       "name": "Not Yet Remembered - Remastered 2004",
       "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
@@ -941,7 +1029,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 276026,
       "name": "On Some Faraway Beach - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/1ip0bzSgZsMrp7bSuxlKoa"
@@ -967,7 +1055,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 261320,
       "name": "Prophecy Theme",
       "url": "https://open.spotify.com/track/2FOZhjP4KGNWoLnUb7pkK1"
@@ -985,7 +1073,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 260834,
       "name": "Reflection (Excerpt)",
       "url": "https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36"
@@ -1029,7 +1117,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 185720,
       "name": "Sch\u00f6ne H\u00e4nde",
       "url": "https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv"
@@ -1153,7 +1241,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 141040,
       "name": "Sombre Reptiles - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/09owruFWkS2w3SXKdbmBbw"
@@ -1171,7 +1259,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 250733,
       "name": "Spider And I - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/6nDzGTp2IvrtEEEgCTInMX"
@@ -1299,7 +1387,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 252346,
       "name": "Still Return - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t"
@@ -1325,7 +1413,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 379066,
       "name": "The Belldog",
       "url": "https://open.spotify.com/track/0d2HX14emol25j4C8yL7SP"
@@ -1365,7 +1453,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 133706,
       "name": "The Chill Air - Remastered 2004",
       "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
@@ -1533,7 +1621,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 3650800,
       "name": "Thursday Afternoon - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/4t3Yh6tKkxXrc458pNI7zZ"
@@ -1551,7 +1639,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 270280,
       "name": "Under Stars - 2005 Mix",
       "url": "https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl"
@@ -1591,7 +1679,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 243306,
       "name": "Verdigris",
       "url": "https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp"
@@ -1649,7 +1737,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 329468,
       "name": "Wind On Water",
       "url": "https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt"
@@ -1671,7 +1759,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 193280,
       "name": "Wind On Wind",
       "url": "https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl"

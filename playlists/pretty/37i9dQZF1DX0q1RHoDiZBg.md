@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,643 likes - 92 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,714 likes - 92 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Forever Young \- From NBC's Parenthood](https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Forever Young \(From NBC's Parenthood\)](https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN) | 4:21 |
-| 2 | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/track/4bVP0pq7lIhDQBXSkejNS4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/album/6B9TsVfCDUB3YdEvhb6OeO) | 3:55 |
+| 2 | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/track/7xnKChdFA6DHWPzULuAWf1) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/album/3AWqkqOqGumXVfKfw4TdiX) | 3:55 |
 | 3 | [Like a Rolling Stone](https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Polyhymnia](https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz) | 6:35 |
 | 4 | [Just Like a Woman](https://open.spotify.com/track/3uIQZXaYnPrl7ROe1BkKtA) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [You and I \(Expanded Edition\)](https://open.spotify.com/album/4pmq7Cvj5fkPcspI8FaqPm) | 6:28 |
 | 5 | [The Times They Are a\-Changin' \- Live at Madison Square Garden, New York, NY \- October 1992](https://open.spotify.com/track/0IvdJ0V3Sl6ClrmJLrGEUV) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Bob Dylan \- 30th Anniversary Concert Celebration \[\(Deluxe Edition\) \[Remastered\]\]](https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu) | 3:02 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 21 | [Let Me Die in My Footsteps](https://open.spotify.com/track/4a17Q8L8npMkjfc09a5d9X) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Out in the Open](https://open.spotify.com/album/0ua1zWDDg2brY46TtBp687) | 3:23 |
 | 22 | [Rainy Day Women \#12 & 35 \(Live\)](https://open.spotify.com/track/1V64DUCRrEFgZwEwANKTw9) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 4:10 |
 | 23 | [Heart Of Mine](https://open.spotify.com/track/4DEg4egOEGJIFu2VYF8yK5) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 5:30 |
-| 24 | [Things We Said Today](https://open.spotify.com/track/7JGfNWelhCfiykNk5QGleG) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Things We Said Today](https://open.spotify.com/album/4PBqDqlTpCHOw3MGTPE8K2) | 3:01 |
+| 24 | [Things We Said Today](https://open.spotify.com/track/1a1U3YQ4JZcVKUDKKQkJpz) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Things We Said Today](https://open.spotify.com/album/1Fvwf1nAFcGNoStW4MTz3D) | 3:01 |
 | 25 | [Just Like Tom Thumb's Blues](https://open.spotify.com/track/1E1qWlczlv3IEpAZfQ5lJr) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Scattered](https://open.spotify.com/album/06iGGLNnQrEjhP9JkG7Kgo) | 5:39 |
 | 26 | [Blowin' in the Wind \- 2004 Remaster](https://open.spotify.com/track/0XIe81wYNtdvIttRAUEau4) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:56 |
 | 27 | [Baby, I'm In The Mood For You](https://open.spotify.com/track/50ZHlDg707OUDn61nba1gy) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 2:48 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 91 | [Sad Eyed Lady of the Lowlands \(Live\)](https://open.spotify.com/track/5voOTLOA7LPegmOdNJU7vV) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 9:27 |
 | 92 | [I Can't Get You Off Of My Mind](https://open.spotify.com/track/6O37wVoMQFeh7vZ9mJnoMH) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Hank Williams Timeless](https://open.spotify.com/album/6Wuq8Fn9q0QmTchA8xnR3L) | 2:55 |
 
-Snapshot ID: `MTUzMzIyMzE3NCwwMDAwMDAwMDZiNDBkZWIxYWEyM2U0MTdlYzM2NTI3ZTBiNTEzYTI0`
+Snapshot ID: `MTUzMzIyMzE3NCwwMDAwMDAwMGFhYTYzZmM3MjM3MTYxYTJhYzEwZTE0Mzg4N2Y4ODNl`

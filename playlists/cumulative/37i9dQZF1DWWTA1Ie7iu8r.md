@@ -4,7 +4,7 @@
 
 > Get your creep on with these freaky 'love' songs.
 
-79 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/1CeHWW3TBs23WTaZQc2mAZ)
+80 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/1CeHWW3TBs23WTaZQc2mAZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Sucker for Pain \(with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat\. X Ambassadors\)](https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Sucker for Pain \(with Logic & Ty Dolla $ign feat\. X Ambassadors\)](https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv) | 4:03 | 2019-10-30 |  |
 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 | 2019-10-30 |  |
 | [Terrified](https://open.spotify.com/track/1D1oE9i8sxo8fJ1Jbgr3Ys) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4xnq1L6P551Qcb9gBXNMK7) | 4:15 | 2019-10-30 | 2022-07-29 |
-| [Terrified](https://open.spotify.com/track/5MKSl2ZHsImt0wOfBAs87U) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 4:15 | 2019-10-30 |  |
+| [Terrified](https://open.spotify.com/track/5MKSl2ZHsImt0wOfBAs87U) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 4:15 | 2019-10-30 | 2022-10-13 |
+| [Terrified](https://open.spotify.com/track/6UKb1qcw5jqmoVeln2i3ZL) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 4:15 | 2019-10-30 |  |
 | [Turn Around, Look at Me](https://open.spotify.com/track/6w8Pnj2aUSJysc0b5FSJyr) | [The Vogues](https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F) | [Turn Around, Look At Me](https://open.spotify.com/album/5bq7lXvSaFD4xlhb8FQjbM) | 2:46 | 2019-10-30 |  |
 | [Two Ghosts](https://open.spotify.com/track/4B1rpPmQXwj78wk6aIGwwU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:49 | 2019-10-30 |  |
 | [Where the Wild Roses Grow](https://open.spotify.com/track/1L8SrVwjhIRsUdM7TkQprW) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(Remastered\)](https://open.spotify.com/album/7rShDcOhzRIRNAowXWCxbA) | 3:57 | 2019-10-30 | 2022-07-29 |

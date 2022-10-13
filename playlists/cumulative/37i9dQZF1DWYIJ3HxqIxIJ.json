@@ -573,6 +573,24 @@
     {
       "album": {
         "name": "Ego",
+        "url": "https://open.spotify.com/album/1t7JB13GN0Zn5pwGHcKe3i"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135593,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/2EDGTV01iqpjgZrVG6IcJ4"
+    },
+    {
+      "album": {
+        "name": "Ego",
         "url": "https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn"
       },
       "artists": [
@@ -583,7 +601,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 135593,
       "name": "Ego",
       "url": "https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID"
@@ -891,6 +909,24 @@
     {
       "album": {
         "name": "GTFO",
+        "url": "https://open.spotify.com/album/5hAPhhrqcSGlLHW3uNgJof"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200920,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/01nSzyIB57M50XlmuGGqjE"
+    },
+    {
+      "album": {
+        "name": "GTFO",
         "url": "https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y"
       },
       "artists": [
@@ -901,7 +937,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 200920,
       "name": "GTFO",
       "url": "https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967"
@@ -1151,10 +1187,28 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 207150,
       "name": "it's not how it used to be",
       "url": "https://open.spotify.com/track/48r0FCzpeVpFP4KMW7G8CI"
+    },
+    {
+      "album": {
+        "name": "Breakfast for Dinner",
+        "url": "https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD"
+      },
+      "artists": [
+        {
+          "name": "Lola Scott",
+          "url": "https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207150,
+      "name": "it's not how it used to be",
+      "url": "https://open.spotify.com/track/5eYJJXpmTUiIBdqnJDongW"
     },
     {
       "album": {

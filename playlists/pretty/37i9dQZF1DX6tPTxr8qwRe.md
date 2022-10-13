@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, karma driven, hard hitting pop\. This is SALT\. Cover: Maisie Peters
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,395 likes - 66 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,544 likes - 66 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 30 | [till you hate me](https://open.spotify.com/track/1QG6ItNSNxIswkFV4Bp7MJ) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [till you hate me](https://open.spotify.com/album/1MbdzIis9KoyqqYFxR7om2) | 2:59 |
 | 31 | [When You Say My Name](https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [When You Say My Name](https://open.spotify.com/album/4xoST8PDJr9fDe8OKhT0a5) | 2:28 |
 | 32 | [Mouthwash](https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Melancholia](https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi) | 2:54 |
-| 33 | [BAD B!TCH](https://open.spotify.com/track/7tN1ARlynrlNNZN7UB9PPf) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [BAD B!TCH](https://open.spotify.com/album/2Qvht1jKHMmAWGDv0BSRCQ) | 3:02 |
+| 33 | [BAD B!TCH](https://open.spotify.com/track/1hQytzOArHdHZuFDRLLurh) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [BAD B!TCH](https://open.spotify.com/album/2X0N7b14wqy5XtkzXvmUgU) | 3:02 |
 | 34 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 |
 | 35 | [Midas](https://open.spotify.com/track/54hhLiIkQmKvoF3WtakcQk) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Midas](https://open.spotify.com/album/0ZVinMifIaIicM53K91vs7) | 2:35 |
 | 36 | [EVERYBODY'S GONNA DIE!](https://open.spotify.com/track/3YG44aJtUMUtT1OB85s4LK) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [EVERYBODY'S GONNA DIE!](https://open.spotify.com/album/23ZAsoQQ5Bjnxihm4sAsBm) | 2:25 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 65 | [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 |
 | 66 | [this is how i learn to say no](https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [this is how i learn to say no](https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG) | 2:22 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDEzYjkyYjIyZTk1ODNlYWZiN2U3ZmU2OTk5YmI2YmE0`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDU4MjQ3ZjAzZmJjNTRkYzI2ZjEzMGNlYTIzZTgwMzE0`

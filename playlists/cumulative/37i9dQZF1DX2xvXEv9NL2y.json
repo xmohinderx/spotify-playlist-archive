@@ -359,7 +359,7 @@
     {
       "album": {
         "name": "Moby",
-        "url": "https://open.spotify.com/album/0KfKzsskBe8a8Cf3JheeSm"
+        "url": "https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk"
       },
       "artists": [
         {
@@ -370,6 +370,24 @@
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217240,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC"
+    },
+    {
+      "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/0KfKzsskBe8a8Cf3JheeSm"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 217240,
       "name": "Go",
       "url": "https://open.spotify.com/track/6bzV0xGO4dROmmL9GmVkjM"
@@ -913,7 +931,7 @@
     {
       "album": {
         "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
-        "url": "https://open.spotify.com/album/1RgsyWsNXGTWHahRADx6DI"
+        "url": "https://open.spotify.com/album/3DOPqkVGLObaxnNhc7GMwI"
       },
       "artists": [
         {
@@ -932,6 +950,32 @@
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 439906,
+      "name": "Watch Them Come!!! - Jazzanova Remix",
+      "url": "https://open.spotify.com/track/5uWnD024DfAuaINzO1QFPs"
+    },
+    {
+      "album": {
+        "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
+        "url": "https://open.spotify.com/album/1RgsyWsNXGTWHahRADx6DI"
+      },
+      "artists": [
+        {
+          "name": "Men From The Nile",
+          "url": "https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO"
+        },
+        {
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
+        },
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 439906,
       "name": "Watch Them Come!!! - Jazzanova Remix",
       "url": "https://open.spotify.com/track/7HAIShEFzJqqB6FQoFN8Qs"

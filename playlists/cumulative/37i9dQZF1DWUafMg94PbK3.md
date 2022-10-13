@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-85 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/3xQc98EzemNzLKHcZqjikd)
+87 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/3xQc98EzemNzLKHcZqjikd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Street Sweeper](https://open.spotify.com/track/00rrWEJGAPjIX7CuIcpuEw) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 4: Vehicles](https://open.spotify.com/album/27S5LgtyQbiX0EQFfhBFFl) | 1:59 | 2020-09-25 |  |
 | [Street Sweeper](https://open.spotify.com/track/6FYkE4CDAGFPVfZX7qvNpG) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 4: Vehicles](https://open.spotify.com/album/1TbfXoVpPCMDp9PoBTm2an) | 1:59 | 2020-09-25 | 2022-07-29 |
 | [Subway Train](https://open.spotify.com/track/42FFOjM6H3ISwFIZNO3IE5) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Outside Voices](https://open.spotify.com/album/0Pesak1vor7VVB7IbKmcgY) | 3:46 | 2019-10-29 |  |
-| [Take Me Away on a Train](https://open.spotify.com/track/1d0bSpuxKXmPvwLgQlxLTu) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:21 | 2019-10-29 |  |
+| [Take Me Away on a Train](https://open.spotify.com/track/1d0bSpuxKXmPvwLgQlxLTu) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:21 | 2019-10-29 | 2022-10-13 |
+| [Take Me Away on a Train](https://open.spotify.com/track/5CM0rrp9h6ZAaVSZaPOlLO) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:21 | 2019-10-29 |  |
 | [The Airplane Song](https://open.spotify.com/track/2ezjsQ4Ovf5gQfllhja85v) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 2: Machines \(Music for Toddlers\)](https://open.spotify.com/album/3uD0l4haHJADqL4I3ykb8b) | 2:44 | 2019-10-29 |  |
 | [The Airplane Song](https://open.spotify.com/track/6qBDXAIxumtwgXW7ryNZ1b) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 2: Machines \(Music for Toddlers\)](https://open.spotify.com/album/7FW8yYv5Ox3CJjkEJCA8Se) | 2:46 | 2019-10-29 | 2022-07-29 |
 | [The Airplane Song](https://open.spotify.com/track/0jTEx9RPIPKJIwdFcCcfkk) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Whaddaya Think Of That?](https://open.spotify.com/album/43laH3uvyD7glYUOQ6RnjB) | 3:02 | 2019-10-29 |  |
@@ -85,7 +86,8 @@
 | [Tricycle](https://open.spotify.com/track/0kWvtFgFjgRsOTjqEpab1k) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 1:36 | 2019-10-29 |  |
 | [Trucks](https://open.spotify.com/track/0zcMjwUeRuhCSOUflcJ3y1) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Victor Vito](https://open.spotify.com/album/2zvFlAi9Xy2IGXlaMYLgfl) | 2:56 | 2019-10-29 |  |
 | [Trucks](https://open.spotify.com/track/6ZmcrgCpnJ0wBumxHQTrQ1) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Victor Vito](https://open.spotify.com/album/43RB81zUywXWyPpFBEvxU0) | 2:56 | 2019-10-29 | 2022-07-29 |
-| [Trucks Are Tough](https://open.spotify.com/track/3RTdm0xgHyKVUMZX8dFruP) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:54 | 2019-10-29 |  |
+| [Trucks Are Tough](https://open.spotify.com/track/3RTdm0xgHyKVUMZX8dFruP) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:54 | 2019-10-29 | 2022-10-13 |
+| [Trucks Are Tough](https://open.spotify.com/track/61Ah7gJJAmcbbdoRDMEEQM) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:54 | 2019-10-29 |  |
 | [Vroom Goes the Red Race Car](https://open.spotify.com/track/0lmaLEqdTZu5flBvcmJGx3) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [I Can Do It!](https://open.spotify.com/album/2vAisqjcxnZYDnbll8Z6q1) | 2:02 | 2019-10-29 |  |
 | [Wheels In The City](https://open.spotify.com/track/7oRnunrwZCnDomjCvivJFm) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 1:51 | 2019-10-29 |  |
 | [Wheels On The Bus](https://open.spotify.com/track/6fWbq3vHFs1Ggorg8JkJ23) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Wheels On The Bus](https://open.spotify.com/album/3di2EUUcC0LEP3JV9NlqOW) | 1:41 | 2020-08-07 |  |

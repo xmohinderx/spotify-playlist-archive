@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring nia archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,542 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,639 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 80 | [Hypnotize Me Baby](https://open.spotify.com/track/4X4PLwuWE5FoLIwvWy4jdg) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4ZfLd6L4zANgqtMWr3sDlO) | 2:22 |
 | 81 | [Gift](https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Gift EP](https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW) | 3:55 |
 | 82 | [Long Time No See](https://open.spotify.com/track/0Tm7G3FNuVfUgeJ4SzPIAQ) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Long Time No See](https://open.spotify.com/album/48SnkQ3ugM4QwvkFNzEuyW) | 1:51 |
-| 83 | [Lose Our Minds](https://open.spotify.com/track/3ct8fBd9ZmhZjAmFAE5u5P) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Lose Our Minds](https://open.spotify.com/album/286fCu34pH9RIuXoDWJNHJ) | 3:21 |
+| 83 | [Lose Our Minds](https://open.spotify.com/track/4C5dI7ps3TgYSijQZv95gF) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Lose Our Minds](https://open.spotify.com/album/7ajdIFTb0yueDF5X4IhYr9) | 3:21 |
 | 84 | [miss me](https://open.spotify.com/track/6z0IGnMYKfbb6rDCCLE0lE) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [miss me](https://open.spotify.com/album/6QhP58dR15iuzAVxKQ6seG) | 3:33 |
 | 85 | [dune](https://open.spotify.com/track/5m8eFMfMToHYKRoxgJVRfw) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [dune](https://open.spotify.com/album/1dsKxU3rVrWFDDg7PDskV9) | 2:29 |
 | 86 | [heavensleep](https://open.spotify.com/track/7jqiOS9oxnSpCooYGHlNbR) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [heavensleep](https://open.spotify.com/album/3Rn7Lgvtgm3BIUpQBdFn0w) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 99 | [C\-C\-Come On](https://open.spotify.com/track/0M1c4H0xUfMzbw1RZD7D7R) | [Harmful Logic](https://open.spotify.com/artist/2bJhXmBzIW5xTAL2LGc6iw) | [C\-C\-Come On](https://open.spotify.com/album/1RZIuaEENRWBqVRDKtyHuW) | 3:39 |
 | 100 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGIxMmI4MzU4OWRhMGFlZjNjM2Q5ZGNjMDBlNTUzNTdm`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGYzNzI1YTNhZGQ3NzIwOTJhZDYzNDUzMjAwZDE1ZGM4`

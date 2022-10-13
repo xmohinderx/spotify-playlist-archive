@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,958 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,473,241 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 6 | [Strongholds](https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:00 |
 | 7 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 |
 | 8 | [Common Ground \(feat\. Dee Wilson\) \- Live](https://open.spotify.com/track/3armidhEXA4Ky23Wj97pFQ) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [Common Ground \- EP](https://open.spotify.com/album/7MJvVVKJZANsWfQfCz70r6) | 6:05 |
-| 9 | [HOLY ONLY \(feat\. Tony Fresh & Chaquanna Iman\)](https://open.spotify.com/track/63wxAGw6zp0Y2EcXQNUrJj) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Tony Fresh](https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I), [Chaquanna Iman](https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe) | [TENT REVIVAL](https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw) | 5:39 |
+| 9 | [HOLY ONLY \(feat\. Tony Fresh & Chaquanna Iman\)](https://open.spotify.com/track/63wxAGw6zp0Y2EcXQNUrJj) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Tony Fresh](https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I), [Chaquanna Iman](https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe) | [Tent Revival](https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw) | 5:39 |
 | 10 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 |
 | 11 | [Son of Suffering](https://open.spotify.com/track/3mNVXuLY3MHMRc8CMKLGuu) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Son of Suffering](https://open.spotify.com/album/1oVEmVcK4UIQwYSGHAmFRk) | 7:35 |
 | 12 | [Hallelujah Anyway](https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Whosoever](https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ) | 3:45 |

@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
 
-707 songs - 1 day 8 hr 10 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
+708 songs - 1 day 8 hr 13 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,8 @@
 | [Lamborghini Geeski](https://open.spotify.com/track/6zKn5ATZWR6XUeK53UoOKC) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Lamborghini Geeski](https://open.spotify.com/album/1VLwpYslYyCkYprCaPJyEU) | 2:51 | 2021-11-19 | 2022-01-13 |
 | [Last One Left \(with Roddy Ricch\)](https://open.spotify.com/track/0UO48o2FQlksTxH1o8m4kS) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Two\-Face Bang 2](https://open.spotify.com/album/5AqfTcATeonwu2i5yLV6Zy) | 3:15 | 2022-04-15 | 2022-05-20 |
 | [Lately](https://open.spotify.com/track/77OMY86vNpNk304RSucxNr) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Lately](https://open.spotify.com/album/5YJFDKrHWunjpNJYtAVC6N) | 2:30 | 2022-03-04 | 2022-04-16 |
-| [LECTRIC SLIDE](https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/6Z6nRjRrfbP1RwzI730m7i) | 2:32 | 2022-09-23 |  |
+| [LECTRIC SLIDE](https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/6Z6nRjRrfbP1RwzI730m7i) | 2:32 | 2022-09-23 | 2022-10-13 |
+| [LECTRIC SLIDE](https://open.spotify.com/track/2Cw6qLeiePD8OgSLvl39PO) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 2:32 | 2022-09-23 |  |
 | [less than me \(with NoCap\)](https://open.spotify.com/track/1giAAC2ehzhihRYA7sxYHO) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [WORLD DAMINATION](https://open.spotify.com/album/3N8tj0jEEDRSKwET5u3xgW) | 3:14 | 2022-09-16 |  |
 | [Lesson Learned](https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Beautiful Michi Girls](https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo) | 2:31 | 2022-05-20 | 2022-07-16 |
 | [Let Me In](https://open.spotify.com/track/4iYlas8ppT52QQE30MNXnk) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [Let Me In](https://open.spotify.com/album/36c3JDQ0EC1HCi14Z0H9ZG) | 2:51 | 2022-04-22 | 2022-06-04 |

@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Berubah",
+        "url": "https://open.spotify.com/album/7ldfXTwlEZChKWBTBL81LY"
+      },
+      "artists": [
+        {
+          "name": "De Fam",
+          "url": "https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Berubah",
+      "url": "https://open.spotify.com/track/1WhkLfwJ0rJtAeNQ0ylYKh"
+    },
+    {
+      "album": {
         "name": "BILA NANTI",
         "url": "https://open.spotify.com/album/6cMJGxJB6TGFIo4BmDSA8C"
       },
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 164127,
       "name": "Isteri",
       "url": "https://open.spotify.com/track/1H50k7ZiylQVuuVOYIvlZr"
@@ -837,6 +855,28 @@
       "duration_ms": 196573,
       "name": "Janji Manis",
       "url": "https://open.spotify.com/track/31ECplyzYRmbQihescMh6N"
+    },
+    {
+      "album": {
+        "name": "Jika",
+        "url": "https://open.spotify.com/album/7IRGPklzUkOw1uhYlXHIPS"
+      },
+      "artists": [
+        {
+          "name": "Nuha Bahrin",
+          "url": "https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65"
+        },
+        {
+          "name": "Naufal Azrin",
+          "url": "https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/6zLvxuwVGs0a9ztrEpYmI3"
     },
     {
       "album": {
@@ -1289,7 +1329,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 203454,
       "name": "Payung (From \"Abang Long Fadil 3\")",
       "url": "https://open.spotify.com/track/0ghWT2H4sSI5nZtHwY4iwn"
@@ -1785,10 +1825,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 278500,
       "name": "Tak Ingin Usai",
       "url": "https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU"
+    },
+    {
+      "album": {
+        "name": "Tak Ingin Usai (Duet Version)",
+        "url": "https://open.spotify.com/album/16K8rQ5maxmxeJb5L3uuo4"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        },
+        {
+          "name": "Nabila Razali",
+          "url": "https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278500,
+      "name": "Tak Ingin Usai - Duet Version",
+      "url": "https://open.spotify.com/track/0qPiK7vHmTMAckxIgKETN9"
     },
     {
       "album": {

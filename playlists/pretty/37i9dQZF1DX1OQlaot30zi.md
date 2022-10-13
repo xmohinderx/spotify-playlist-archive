@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Side e Mikush, thasup, Night Skinny, Medy, Rose Villain e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,192 likes - 68 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,220 likes - 68 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

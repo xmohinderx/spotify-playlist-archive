@@ -4,11 +4,12 @@
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-57 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
+58 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/00T5sUZpIOM8SUBV1DQ66W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [After the Sun](https://open.spotify.com/track/3VqkvcP3j3kSr1FsKwctBp) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/7D8yJ8artbOzMvz5Q2HZXX) | 3:33 | 2021-11-30 |  |
+| [After the Sun](https://open.spotify.com/track/3VqkvcP3j3kSr1FsKwctBp) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/7D8yJ8artbOzMvz5Q2HZXX) | 3:33 | 2021-11-30 | 2022-10-13 |
+| [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 | 2021-11-30 |  |
 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 | 2021-11-30 |  |
 | [Always](https://open.spotify.com/track/2rapj0PNYacYq9HiGJTJ4o) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Deadly Hearts \- Walking Together](https://open.spotify.com/album/2K7G4yBnvKCVnqrZNWwImT) | 3:50 | 2021-11-30 |  |
 | [Be Slow](https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ) | 3:25 | 2021-11-30 |  |

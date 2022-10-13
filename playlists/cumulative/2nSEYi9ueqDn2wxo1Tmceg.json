@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/5ifRlHZX33kTfE5kb1Cpf1"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/3wAcEO1ZpR4qFJaVw3k8QS"
+    },
+    {
+      "album": {
         "name": "Agreeing For Two",
         "url": "https://open.spotify.com/album/4zL7YyyHC47HFDbLYgDEVB"
       },
@@ -63,6 +81,24 @@
       "duration_ms": 285066,
       "name": "Agreeing For Two",
       "url": "https://open.spotify.com/track/0OaZ3lUufHXFuSd67agjS4"
+    },
+    {
+      "album": {
+        "name": "Tableau",
+        "url": "https://open.spotify.com/album/4pbyC0CkZkqmnBDqpykCTo"
+      },
+      "artists": [
+        {
+          "name": "The Orielles",
+          "url": "https://open.spotify.com/artist/5JWEBEt8VxHHxYKFmpzjwD"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256350,
+      "name": "Airtight",
+      "url": "https://open.spotify.com/track/1fPkD5UAKGHyGB7MSIFaC6"
     },
     {
       "album": {
@@ -135,6 +171,24 @@
       "duration_ms": 270316,
       "name": "All These Things",
       "url": "https://open.spotify.com/track/5k0FUO0GmHOELaM8tJlmjP"
+    },
+    {
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221846,
+      "name": "Always There",
+      "url": "https://open.spotify.com/track/0vq5vqbGfNydG2XaSBVRxx"
     },
     {
       "album": {
@@ -639,10 +693,28 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 226800,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
+    },
+    {
+      "album": {
+        "name": "Anywhere But Here",
+        "url": "https://open.spotify.com/album/18w7oi2HN7XeQD2CMNCFHV"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2fmyHaJBaPrT6cf1igqLgJ"
     },
     {
       "album": {
@@ -787,7 +859,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 387520,
       "name": "Coyotes",
       "url": "https://open.spotify.com/track/0Ap3RZ5lv127IZZxUpcBku"
@@ -1503,7 +1575,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 130479,
       "name": "Gary Ashby",
       "url": "https://open.spotify.com/track/30erf27MriGIsvb4rzria6"
@@ -1586,6 +1658,24 @@
     },
     {
       "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "Girl Behind The Glass",
+      "url": "https://open.spotify.com/track/70LWfy4gnw3wqhYrNp0yn9"
+    },
+    {
+      "album": {
         "name": "Glasgow",
         "url": "https://open.spotify.com/album/1t2DMbdSiAKi75cbTTqKDz"
       },
@@ -1637,7 +1727,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 267080,
       "name": "Greatest Hits",
       "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
@@ -1760,6 +1850,24 @@
     },
     {
       "album": {
+        "name": "High & Tired",
+        "url": "https://open.spotify.com/album/0SnRennD8T02I92I0d8ANT"
+      },
+      "artists": [
+        {
+          "name": "96 Back",
+          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321800,
+      "name": "High & Tired",
+      "url": "https://open.spotify.com/track/3ZWVMyPoiwSGk5yaeiY6f7"
+    },
+    {
+      "album": {
         "name": "Highgrade",
         "url": "https://open.spotify.com/album/265QPtbwG6htcTXh3GBk9z"
       },
@@ -1779,6 +1887,42 @@
       "duration_ms": 197770,
       "name": "Hips - Loraine James Remix",
       "url": "https://open.spotify.com/track/26VIhDNSWMxf2FBaTLQEeI"
+    },
+    {
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243221,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/0tCgJnSBX2A6vB8KMP7p1A"
+    },
+    {
+      "album": {
+        "name": "En \u00c4r F\u00f6r Mycket Och Tusen Aldrig Nog",
+        "url": "https://open.spotify.com/album/7DmBpVv1p9SemMSn7bqGyj"
+      },
+      "artists": [
+        {
+          "name": "Dungen",
+          "url": "https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210509,
+      "name": "H\u00f6stens F\u00e4rger",
+      "url": "https://open.spotify.com/track/3OGOiGoPT72xrse02X6Btw"
     },
     {
       "album": {
@@ -1894,6 +2038,24 @@
     },
     {
       "album": {
+        "name": "Desperately Imagining Someplace Quiet",
+        "url": "https://open.spotify.com/album/7cYFcPZ0TMDsDefppHIbgG"
+      },
+      "artists": [
+        {
+          "name": "Disq",
+          "url": "https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/1uuyTx9LBviZrJWT67oX4I"
+    },
+    {
+      "album": {
         "name": "God Save The Animals",
         "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
       },
@@ -1923,7 +2085,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 183477,
       "name": "In Sensitivity",
       "url": "https://open.spotify.com/track/7gN1ZoWIhwjp3SMn1VeNvW"
@@ -2203,7 +2365,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 236097,
       "name": "Look Like A Man",
       "url": "https://open.spotify.com/track/3vsj5mcbqHy7y5ca4vG7lg"
@@ -2649,7 +2811,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 241087,
       "name": "Passed Tense",
       "url": "https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui"
@@ -3707,7 +3869,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 90127,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/5qVKHlxI3sOEylfdjj1IEx"
@@ -3729,6 +3891,24 @@
       "duration_ms": 216568,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/316Co4rvVxEFZ40FY8BbK8"
+    },
+    {
+      "album": {
+        "name": "Waiting Game",
+        "url": "https://open.spotify.com/album/0SWx85JBX6hDzzWZZWbSuP"
+      },
+      "artists": [
+        {
+          "name": "Junior Boys",
+          "url": "https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329093,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/76k91hWeo3IEP9re5hKbt0"
     },
     {
       "album": {
@@ -3801,7 +3981,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 258000,
       "name": "What You Don't Want Me to Be",
       "url": "https://open.spotify.com/track/4k9AruafjtBsuwTUA4qQIu"
@@ -3841,7 +4021,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 253309,
       "name": "White Science",
       "url": "https://open.spotify.com/track/20uWNggVIdMpdFNVXZi9iR"

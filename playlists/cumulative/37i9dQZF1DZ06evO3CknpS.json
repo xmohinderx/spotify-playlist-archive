@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 272306,
       "name": "Adagio from Cantata 156 - Opening Commentary",
       "url": "https://open.spotify.com/track/3gEiwlj4eSYmqBNjqHimD1"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 68560,
       "name": "Commentary 2",
       "url": "https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 291266,
       "name": "Concluding Commentary",
       "url": "https://open.spotify.com/track/0dRnK0LPz48bh0R0CUVRlZ"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 179106,
       "name": "Habanera",
       "url": "https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 309920,
       "name": "Kaddish",
       "url": "https://open.spotify.com/track/37kvas2O1pnaDrSGLwyhi4"
@@ -619,6 +619,32 @@
       "duration_ms": 297040,
       "name": "O Cease Thy Singing, Maiden Fair, Op. 4: No. 4",
       "url": "https://open.spotify.com/track/5rnadrQ6ud2mfwonOcC2s6"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Piece en forme de habanera: Vocalise-etude en forme de habanera (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/7MHZLkzhdDKi1F46A4F4nW"
     },
     {
       "album": {
@@ -793,7 +819,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 256466,
       "name": "Song of Grusia, Op. 4, No. 4",
       "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
@@ -897,7 +923,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 190400,
       "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
@@ -953,7 +979,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 745600,
       "name": "Theremin Concerto",
       "url": "https://open.spotify.com/track/164RuJFLGfWUnvLPZaoDEH"
@@ -983,7 +1009,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 37800,
       "name": "Theremin Concerto: Broadcast Commentary",
       "url": "https://open.spotify.com/track/1VIn2VcadnLfJYizznzpad"

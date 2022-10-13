@@ -4,7 +4,7 @@
 
 > A pride playlist for the whole family.
 
-41 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/3KLEVcPpbMJmbRBCH8WJUJ)
+42 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/3KLEVcPpbMJmbRBCH8WJUJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Keep It Up](https://open.spotify.com/track/2a4OFdKFvRGVcbdsDnYmj6) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Sugar Free Allstars](https://open.spotify.com/artist/7BSCguaUAUrg4jftlh6RoQ) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:30 | 2021-08-27 |  |
 | [Love is Love \(Rainbow Family\)](https://open.spotify.com/track/7cdbC2vaPV8zNuxcY1pTPj) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Love is Love \(Rainbow Family\)](https://open.spotify.com/album/5iFErWG7QTWmwqtzoeW54H) | 2:24 | 2021-08-27 |  |
 | [Love Me for Who I Am](https://open.spotify.com/track/6qaFqV4xpkAT7PuKq1yqqB) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Love Me for Who I Am](https://open.spotify.com/album/5Xo9zh9RWeBkQFqLFSaL9r) | 2:59 | 2021-08-27 |  |
-| [Nonstop](https://open.spotify.com/track/07sscPQA6fR2yGVf3vMmld) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/75Ihw1IDFXtLMkqqLE57xg) | 2:20 | 2021-08-27 |  |
+| [Nonstop](https://open.spotify.com/track/07sscPQA6fR2yGVf3vMmld) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/75Ihw1IDFXtLMkqqLE57xg) | 2:20 | 2021-08-27 | 2022-10-13 |
+| [Nonstop](https://open.spotify.com/track/28t4A1DdvuZzub3p8E7qFF) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/3Rfex8n3nRVBZyN0JX059j) | 2:20 | 2022-06-02 |  |
 | [Not Pink, Not Blue](https://open.spotify.com/track/6hHNC2RKZrK5ZiMMu3ZkW4) | [Beppie](https://open.spotify.com/artist/3qqbOzcv92blBFWevIAJMw) | [Song Soup](https://open.spotify.com/album/1289GHMdmnbf9Hhanf51Tw) | 2:50 | 2021-08-27 |  |
 | [OK Not To Be OK](https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [OK Not To Be OK](https://open.spotify.com/album/3wCtCJ8O6SlGBWYfzAlsb2) | 2:39 | 2021-08-27 |  |
 | [Old Town Road](https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:53 | 2021-08-27 |  |

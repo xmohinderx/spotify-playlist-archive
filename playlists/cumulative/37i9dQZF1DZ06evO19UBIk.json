@@ -39,6 +39,28 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "An American Prayer",
+      "url": "https://open.spotify.com/track/2VDkE9sdVpQAgEqH5fvTMV"
+    },
+    {
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -97,9 +119,31 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63773,
+      "name": "Bird of Prey",
+      "url": "https://open.spotify.com/track/0psPuObi7UupQnXjaex39e"
+    },
+    {
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 67880,
       "name": "Black Polished Chrome",
       "url": "https://open.spotify.com/track/2txVWU6tG6NdEyTnm1P1WQ"
@@ -313,7 +357,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 95226,
       "name": "Horse Latitudes",
       "url": "https://open.spotify.com/track/6vcqR6rCL2k4EDhqH8gzeO"
@@ -605,7 +649,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 144933,
       "name": "Newborn Awakening",
       "url": "https://open.spotify.com/track/2EStd4GGmC155o0ZQROmqB"
@@ -771,7 +815,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 546304,
       "name": "Ships With Sails - Live 1972",
       "url": "https://open.spotify.com/track/0hwYcIHthQpv0jl9tfYjZ3"
@@ -843,7 +887,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 199426,
       "name": "Summer's Almost Gone",
       "url": "https://open.spotify.com/track/657O4nJxZktsNDvBimhZ0i"
@@ -879,7 +923,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 200266,
       "name": "Tell All the People",
       "url": "https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG"
@@ -969,7 +1013,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 201106,
       "name": "The Unknown Soldier",
       "url": "https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT"
@@ -1149,7 +1193,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 180573,
       "name": "You're Lost Little Girl",
       "url": "https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Freddie Gibbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,061 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,536 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Note To Self \(Feat\. Big Sean, Wale, Joey Bada$$ & Hitboy\)](https://open.spotify.com/track/5GSUrmDtxynQhBDLz7X2Mt) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [CHOMP 2](https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK) | 5:23 |
 | 100 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
 
-Snapshot ID: `MTY2NTUwNTI4NiwwMDAwMDAwMDRlODkzMTg1Yjg2ZTEyMzk5MjUxNzRkYTgxZTY5YTJk`
+Snapshot ID: `MTY2NTU4OTkwOSwwMDAwMDAwMDAzOThkMDI1YjNiNzliMWQ5NGQyY2Y0Y2Y5MTc1YTNl`

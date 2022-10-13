@@ -1839,7 +1839,7 @@
     {
       "album": {
         "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/4smcIFiMaa5cnFpLIwX4OB"
+        "url": "https://open.spotify.com/album/2O9bYMKmR7Nkuo1mvFvJkc"
       },
       "artists": [
         {
@@ -1854,6 +1854,28 @@
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 117087,
+      "name": "Down to Earth",
+      "url": "https://open.spotify.com/track/3nwRDFiDJZlXhpfGZifdTo"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/4smcIFiMaa5cnFpLIwX4OB"
+      },
+      "artists": [
+        {
+          "name": "love-sadKID",
+          "url": "https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s"
+        },
+        {
+          "name": "Erameld",
+          "url": "https://open.spotify.com/artist/7onTqmjsNs182OQexatI7N"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 117087,
       "name": "Down to Earth",
       "url": "https://open.spotify.com/track/7oOSDG6vMNZSuEwcIdB8Hy"
@@ -2119,10 +2141,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 173640,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e"
+    },
+    {
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
     },
     {
       "album": {
@@ -5599,7 +5639,7 @@
     {
       "album": {
         "name": "Strawberry",
-        "url": "https://open.spotify.com/album/1VTmYlNHYrTs22mHOGVPDR"
+        "url": "https://open.spotify.com/album/53lI2ay35ks4BOQqCPGVeD"
       },
       "artists": [
         {
@@ -5614,6 +5654,28 @@
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 150333,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/46ZmZ48eTglTAnb7BqQjON"
+    },
+    {
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/1VTmYlNHYrTs22mHOGVPDR"
+      },
+      "artists": [
+        {
+          "name": "love-sadKID",
+          "url": "https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s"
+        },
+        {
+          "name": "Garrett.",
+          "url": "https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 150333,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/4e2NJh3yhNT4eNXYaNs3Zr"

@@ -1,6 +1,6 @@
 {
   "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Israel & New Breed",
-  "num_followers": 209564,
+  "num_followers": 209746,
   "original_name": "Fresh Gospel",
   "owner": {
     "name": "Spotify",
@@ -55,7 +55,7 @@
     {
       "added_at": "2022-10-07 09:32:17",
       "album": {
-        "name": "TENT REVIVAL",
+        "name": "Tent Revival",
         "url": "https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw"
       },
       "artists": [
@@ -791,17 +791,17 @@
     {
       "added_at": "2022-10-07 09:32:17",
       "album": {
-        "name": "Jesus (feat. Le'andria Johnson)",
+        "name": "Jesus (feat. Le'Andria Johnson)",
         "url": "https://open.spotify.com/album/2O1Bu8dQtT2X1ZrJ2mC16r"
       },
       "artists": [
         {
-          "name": "Faith City Music",
-          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
-        },
-        {
           "name": "Tim Bowman Jr.",
           "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        },
+        {
+          "name": "Faith City Music",
+          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
         },
         {
           "name": "Le'Andria Johnson",

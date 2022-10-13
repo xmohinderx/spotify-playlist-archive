@@ -4,7 +4,7 @@
 
 > The electro revival with Dawn Richard.
 
-40 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
+41 songs - 2 hr 22 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 | 2021-03-16 |  |
 | [Don't Hold Out](https://open.spotify.com/track/6al3h38eQyMeIb3e0CgeSh) | [Hannah Lucia](https://open.spotify.com/artist/7EwTG8jbkCxqNfKoiFqKMd) | [Don't Hold Out](https://open.spotify.com/album/0FVNHCE9g6NO6uB34s8sCg) | 3:27 | 2021-03-16 |  |
 | [Got Em](https://open.spotify.com/track/7CJ7daBPHsCMdrivYPlZ3F) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Got Em](https://open.spotify.com/album/1wgHAs407GxQtqR3lj4NSf) | 3:46 | 2021-03-16 |  |
-| [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 | 2021-03-16 |  |
+| [IN IN IN](https://open.spotify.com/track/3APSXl8dTTumv9L1HHpCCV) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:17 | 2021-03-16 |  |
+| [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 | 2021-03-16 | 2022-10-13 |
 | [In the Morning](https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:06 | 2021-03-16 |  |
 | [Jennifer](https://open.spotify.com/track/3YlUuMG4Guve8SxlxYqJ2W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Jennifer](https://open.spotify.com/album/4IluqHZGQUxXellf1ycOYt) | 2:34 | 2021-03-16 |  |
 | [Lapdance from Asia](https://open.spotify.com/track/70Tn7Qn1LyVCTTd8EyyXGW) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lapdance from Asia](https://open.spotify.com/album/39FgCD5p3mfqX17D5e5hMe) | 3:28 | 2021-03-16 |  |

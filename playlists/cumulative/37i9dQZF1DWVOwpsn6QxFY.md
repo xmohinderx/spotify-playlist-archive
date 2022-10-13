@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-214 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
+215 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Couple Things](https://open.spotify.com/track/3RMfsHdRlQRlaK7Szrosi6) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A Couple Things](https://open.spotify.com/album/0nj3aFMmrKfmJ7rCEg38IB) | 2:40 | 2021-11-12 | 2022-07-29 |
 | [A Little Less Bored](https://open.spotify.com/track/7Mf4X2WRdXV3GCCkc6dlk0) | [Sir Simon](https://open.spotify.com/artist/66s4j0fEi6h0xeQfbh54FP) | [A Little Less Bored](https://open.spotify.com/album/4YbZzBoYBVEZeEceOu85iP) | 3:13 | 2021-11-12 | 2022-07-29 |
 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 | 2022-03-31 |  |
-| [Addicted](https://open.spotify.com/track/2kUECVQY40DQoXymT323jg) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [0151](https://open.spotify.com/album/4hGB7HUJu4oD3TqJvYPqr9) | 4:41 | 2021-11-12 |  |
+| [Addicted](https://open.spotify.com/track/2kUECVQY40DQoXymT323jg) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [0151](https://open.spotify.com/album/4hGB7HUJu4oD3TqJvYPqr9) | 4:41 | 2021-11-12 | 2022-10-13 |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2021-11-12 |  |
 | [Alive](https://open.spotify.com/track/6lDeFVC7tCXEzdOcjnqTQj) | [James Beau Barclay](https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q), [Blu Wiley](https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy) | [Alive](https://open.spotify.com/album/0X0GLbObJxR2teWozrUTlb) | 3:37 | 2021-11-12 | 2022-07-29 |
 | [Alluvium](https://open.spotify.com/track/7fV1z13hx5Iic0WIqCRfuA) | [C Duncan](https://open.spotify.com/artist/0x3sTIYnP56TnL6bbyMU2i) | [Alluvium](https://open.spotify.com/album/4iLy4FA1ZteEJZYc1jGBxA) | 3:42 | 2021-11-12 | 2022-07-19 |
@@ -128,8 +128,9 @@
 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 | 2021-11-12 |  |
 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 | 2022-06-23 |  |
 | [Monster](https://open.spotify.com/track/33YsXUWwYpOJD6cUCPhHs7) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:36 | 2021-11-12 | 2022-09-15 |
+| [Monster](https://open.spotify.com/track/7dXeYB0vGhwbnA5tRKGdWF) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:36 | 2022-08-12 |  |
 | [Mortals](https://open.spotify.com/track/05ysa8MWYb7MvixPonb1Fp) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Mortals](https://open.spotify.com/album/3H7MViLKyTi0IjwbJY1pwm) | 3:08 | 2022-03-31 | 2022-04-21 |
-| [Mortals](https://open.spotify.com/track/3pa1oaOXwmoxLoDTn2oFVq) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 3:08 | 2022-06-23 |  |
+| [Mortals](https://open.spotify.com/track/3pa1oaOXwmoxLoDTn2oFVq) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 3:08 | 2022-06-23 | 2022-10-13 |
 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 | 2021-11-12 | 2022-10-06 |
 | [My House](https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP) | 4:16 | 2021-11-12 | 2022-07-29 |
 | [My House](https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD) | 4:16 | 2022-06-23 |  |
@@ -153,7 +154,7 @@
 | [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 | 2022-03-31 |  |
 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 | 2022-06-23 |  |
 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/5fwabfmJtYmNbcNd2ISl3x) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/album/3hzBgKpVyownETEhtDeuMS) | 4:15 | 2021-11-12 | 2022-07-29 |
-| [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 | 2021-11-12 | 2022-10-09 |
+| [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 | 2021-11-12 |  |
 | [Pink Pools](https://open.spotify.com/track/01IeBj8Ep24Pgeh2WilK3E) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Can't Stop The Dawn](https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL) | 3:18 | 2021-11-12 | 2022-07-26 |
 | [Pink Pools](https://open.spotify.com/track/2RR5kSUsSzde2ybCa2VOhP) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Pink Pools](https://open.spotify.com/album/3hwL7txBctOFSiWmIaOofH) | 3:18 | 2021-11-12 | 2022-07-29 |
 | [Please Don't Hide Yourself Away](https://open.spotify.com/track/4BeOtHTrVDazx007bGFFNL) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Please Don't Hide Yourself Away](https://open.spotify.com/album/5HFkJLsDlD7eudQ2DQNRIx) | 3:10 | 2022-08-12 | 2022-09-21 |
@@ -202,7 +203,7 @@
 | [The Ballad Of Joyce Vincent](https://open.spotify.com/track/77qOxCnfWeY1jKrYqMdvZd) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [The Ballad of Joyce Vincent](https://open.spotify.com/album/7aP3R5r1PgDqEIGUuZHmtR) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [The Call](https://open.spotify.com/track/6covI0tCdNCKqp7yoKeUtD) | [Honey Moon](https://open.spotify.com/artist/1BuCh3XyQ6QfIecry9IcUl) | [The Call](https://open.spotify.com/album/03w1adHMnGMw8QSDphpZI2) | 3:39 | 2022-04-08 | 2022-05-18 |
 | [The Desperate Kingdom of Love](https://open.spotify.com/track/7ulI3Txmmm5YwuxVhvT7b5) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [The Desperate Kingdom of Love](https://open.spotify.com/album/4ceCAZwfAsyMJcveuXTa9Z) | 2:52 | 2021-11-12 | 2022-04-26 |
-| [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 | 2022-06-06 | 2022-09-29 |
+| [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 | 2022-06-06 |  |
 | [The Man I Admire](https://open.spotify.com/track/2c0zQJJo3IFUxMjNZqspyw) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [The Man I Admire](https://open.spotify.com/album/0HwQQtPpXIDEah8U8udW0T) | 2:12 | 2021-11-12 | 2022-07-14 |
 | [The Mersey Line](https://open.spotify.com/track/1CB9cgyrhcSfH3ppqLeMQV) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/0Gbwl02JtqoiyxHZtcYZYe) | 2:14 | 2021-11-12 | 2022-07-27 |
 | [The Sun Won't Shine On Me](https://open.spotify.com/track/6PWC4ts0y5kxqLQz4V74hz) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [The Sun Won't Shine On Me](https://open.spotify.com/album/63r5VfmmPeBi4xadvCO5Ke) | 2:39 | 2021-11-12 | 2022-06-05 |
@@ -220,7 +221,7 @@
 | [When It Calls](https://open.spotify.com/track/2HJMJT8O9bUL42ftUpLRWM) | [A\. Smyth](https://open.spotify.com/artist/1W8wCW1bueJLSneFMyYReA) | [When It Calls](https://open.spotify.com/album/7Lj2Fjpd0u4RraGKfUsFsn) | 4:42 | 2021-11-12 | 2022-05-15 |
 | [Wild Side](https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:55 | 2022-06-23 |  |
 | [Wild Side](https://open.spotify.com/track/5pSJMVYX93VnOgOtnvAO6V) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Wild Side](https://open.spotify.com/album/2C4CTmdg1LxR9cqJmfEdKT) | 3:55 | 2022-04-08 | 2022-07-24 |
-| [Woah Man](https://open.spotify.com/track/0PGnwDPPMoJ1s49hQQXHFR) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:28 | 2022-06-23 |  |
+| [Woah Man](https://open.spotify.com/track/0PGnwDPPMoJ1s49hQQXHFR) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:28 | 2022-06-23 | 2022-10-13 |
 | [Woah Man](https://open.spotify.com/track/1cURTWQdBWRjUaJI6Fdbsg) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Woah Man](https://open.spotify.com/album/7KrFIcXSNVl52AbtxRtRlp) | 3:28 | 2021-11-12 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-65 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
+66 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Water \(with Mahalia\)](https://open.spotify.com/track/6I15UB0IPWQhJNJEPQ1gLE) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ) | [Water](https://open.spotify.com/album/4XcNB4VTSkl2cKVRci10Z4) | 3:27 | 2020-06-17 |  |
 | [We Don't Eat](https://open.spotify.com/track/2Fpf5a5fGDWSHNj1iIPc5W) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 4:53 | 2020-06-17 | 2022-07-29 |
 | [We Don't Eat](https://open.spotify.com/track/1y3PhboJrxMNOpLxkMsTiM) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Bonus Version\)](https://open.spotify.com/album/4Lluitxz8wV7jq5qljjG4I) | 4:53 | 2020-06-17 |  |
-| [Wings](https://open.spotify.com/track/67ChP2tyLa1NABp3fifvBc) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM) | 4:06 | 2020-06-17 |  |
+| [Wings](https://open.spotify.com/track/67ChP2tyLa1NABp3fifvBc) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM) | 4:06 | 2020-06-17 | 2022-10-13 |
+| [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 | 2020-06-17 |  |
 | [Within the Rose](https://open.spotify.com/track/2YVIbDK4GjSR9jaGLXMYM1) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/4Xuo3WeGm636KmRGZjsYwC) | 3:52 | 2020-06-17 | 2022-07-29 |
 | [Within The Rose](https://open.spotify.com/track/3RGPlHgxzIVMnrpdWR0EgM) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3) | 3:52 | 2020-06-17 |  |
 | [Your Love Is Strong](https://open.spotify.com/track/4dKh33Yvn0nsE6p4kgVFHK) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Spring \- EP](https://open.spotify.com/album/1eLTcQe8ZIQ6tFsuiQQ3Ps) | 5:09 | 2020-06-17 | 2022-07-29 |

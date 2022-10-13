@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 565 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 578 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 34 | [F bounce](https://open.spotify.com/track/35O8zEXyhh1SuJIQ8DkY4o) | [Hakey!](https://open.spotify.com/artist/47PUGhRs62FkExtYhQdRq9) | [ONE & ONLY](https://open.spotify.com/album/4i6d1tI5HvydJUhROb1aci) | 2:35 |
 | 35 | [MOAB](https://open.spotify.com/track/20yjVD5V9XT87BhgmScgxG) | [GLDN](https://open.spotify.com/artist/6a4KLb4BJJNm3uJVKNEvWP), [Mykris](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC) | [MOAB](https://open.spotify.com/album/55M9ApHxvAbAGvG5lbWyj0) | 3:02 |
 | 36 | [All We Are](https://open.spotify.com/track/3ve9uFSUtkEhk22tmcHHuK) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Wicked Fever](https://open.spotify.com/album/24AO60xtlSOo98ZobfTRqI) | 4:13 |
-| 37 | [Stand Strong](https://open.spotify.com/track/32jbAQXzokV72zXiU6MwDk) | [SVNF8](https://open.spotify.com/artist/5K3s5fnJzDpLDd622LmQVX), [Mariel Jacoda](https://open.spotify.com/artist/6Kes5J1pMUQE5jxeOx5MO4) | [Stand Strong](https://open.spotify.com/album/0vaMNDgLAbfPbBvW35vyjo) | 4:22 |
+| 37 | [Stand Strong](https://open.spotify.com/track/2Vl9YLdLXa6oViIhKJIxCe) | [SVNF8](https://open.spotify.com/artist/5K3s5fnJzDpLDd622LmQVX), [Mariel Jacoda](https://open.spotify.com/artist/0eqWbinsRY0hNZ2cW9zwwQ) | [Stand Strong](https://open.spotify.com/album/7MVNs6WRm0gUdPu1r62z2U) | 4:22 |
 | 38 | [Dead At Dawn](https://open.spotify.com/track/3aAC4lB26XRbCfJePIfANg) | [DJ UZI](https://open.spotify.com/artist/6RFHrECDirZboa7o1tdJrF) | [Dead At Dawn](https://open.spotify.com/album/3V6jEyjSAT0RhMPs5x4iGc) | 4:50 |
 | 39 | [Just Wanna Dance](https://open.spotify.com/track/4ID2pHUWPPXPiJzaEwbCEH) | [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR) | [Just Wanna Dance](https://open.spotify.com/album/6ZGmi3zSmG1sScW8ru5MQL) | 2:07 |
 | 40 | [At Least We Lived](https://open.spotify.com/track/29WqnrGn0sDbmvQThjzccT) | [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [At Least We Lived](https://open.spotify.com/album/6cy1GfyhnUxiIIvNxzkFfT) | 3:00 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 47 | [Be Strong](https://open.spotify.com/track/3HYlMMRwGfDtbJBTA5XJ5c) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Be Strong / Feel So Alive](https://open.spotify.com/album/56MfOl25QadLcpTnGND4p0) | 3:20 |
 | 48 | [Matured Gentility](https://open.spotify.com/track/75qHcAAqzajbzKV9WLmdbk) | [Dj Void](https://open.spotify.com/artist/53Cd2RdnIpJIjiSNBSz7GQ) | [Matured Gentility](https://open.spotify.com/album/37ew4eBhDg3RXKCOHlr2Zn) | 12:55 |
 
-Snapshot ID: `MTY2MzIyMzA4MywwMDAwMDAwMDVhMDBmZGFiYWFiZjI0ODA3YTg5NzUzMmY0NjI2ZTFl`
+Snapshot ID: `MTY2MzIyMzA4MywwMDAwMDAwMDBhZjJhMDQ5NmQxMWI3YWRjNDAxZGVkODE5YTk5MTY2`

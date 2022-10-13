@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-141 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/5NOIpWlRTcXEkgjmyodxCT)
+142 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/5NOIpWlRTcXEkgjmyodxCT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 | 2022-06-06 | 2022-07-29 |
 | [Blush](https://open.spotify.com/track/3Yq6TLvajhIBIIGtx57r3N) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [Blush](https://open.spotify.com/album/5IwO8jLcDjEip9Y3t2t0tq) | 3:33 | 2022-06-06 | 2022-07-29 |
 | [Bodies](https://open.spotify.com/track/24ZhIGmqatQWhIDBhoLq2a) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [Bodies](https://open.spotify.com/album/4dbDCsQirM7V0tthrVgpze) | 3:27 | 2022-06-06 | 2022-07-29 |
+| [Body Like A Back Road](https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 2:42 | 2022-10-10 |  |
 | [boyfriend material](https://open.spotify.com/track/20dYdhOwY8nfGsVaIockAR) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [boyfriend material](https://open.spotify.com/album/1puIY6s30W5p5r5X3NjVIU) | 2:30 | 2022-06-06 | 2022-07-23 |
 | [Breakdown](https://open.spotify.com/track/4RpK4bIUQWwrCJwRCQcAVZ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ESTERO](https://open.spotify.com/album/0eknrlSMX6nOZZ6l0fgvBW) | 4:05 | 2022-07-11 | 2022-07-17 |
 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 | 2022-09-19 | 2022-10-04 |
@@ -81,7 +82,7 @@
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-06-06 | 2022-07-29 |
 | [Let Love Go](https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Let Love Go](https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj) | 2:53 | 2022-07-04 | 2022-07-12 |
 | [Let You Down](https://open.spotify.com/track/2UwJWhNPeYfpTaNbI8MNkJ) | [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [Let You Down](https://open.spotify.com/album/0vZ4pVjynDiIPGz5WPyveN) | 2:45 | 2022-06-06 | 2022-07-29 |
-| [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2022-07-25 |  |
+| [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2022-07-25 | 2022-10-13 |
 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 | 2022-07-25 | 2022-09-20 |
 | [Lighter](https://open.spotify.com/track/5s3RCDdbxRL0ykNxv20Sdk) | [Alyn Wee](https://open.spotify.com/artist/7DJh9nDNvYCoQnmhGaFJiH) | [Alyn](https://open.spotify.com/album/2CViWGevIoTpyB1WwIua6d) | 4:21 | 2022-06-06 | 2022-07-28 |
 | [Lighthouse \- Remastered](https://open.spotify.com/track/5oXQCEgLQxhzVDIodLgC6T) | [Scarlet Avenue](https://open.spotify.com/artist/6EY542nuCIu9Q0TXwGKd05) | [2024](https://open.spotify.com/album/2ID16fz9ZIyhUHqNZrs4TS) | 3:48 | 2022-06-13 | 2022-07-29 |

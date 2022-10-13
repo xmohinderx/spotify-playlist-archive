@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,738 songs - 4 day 4 hr 49 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,739 songs - 4 day 4 hr 52 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1182,6 +1182,7 @@
 | [Pick Up Your Feelings](https://open.spotify.com/track/2I7CJZLo2nDqGuzZJA1XlZ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/1btIckWsQDd7fAx0BBZF0n) | 3:49 | 2021-07-11 |  |
 | [Piero l'alcolista](https://open.spotify.com/track/2lWhNw8IRC1sB2gfAwleMo) | [Rumori Sospetti](https://open.spotify.com/artist/4jUQPw0JvZCKnt3VrNC9rj) | [Piero l'alcolista](https://open.spotify.com/album/5F7bU9PcJjVsnoDI0r5rEA) | 3:01 | 2020-06-01 | 2020-07-02 |
 | [Pink](https://open.spotify.com/track/1TyDvm0QokpBLekSqhcVSF) | [Comforts](https://open.spotify.com/artist/0DTo7Y75bhTLMs5vlUSaxM) | [Pink](https://open.spotify.com/album/0pMKqDogGoFVJuDersfQ0d) | 3:33 | 2022-06-10 | 2022-06-26 |
+| [Pink Flowers](https://open.spotify.com/track/3QnNU8xJq6uzrYqUj36qd5) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [Pink Flowers](https://open.spotify.com/album/4FZWZ23S4T2FxAaQZIKEsN) | 2:55 | 2022-10-12 |  |
 | [Pippins](https://open.spotify.com/track/1gc9zvRUC8XiUtp0FO6cAW) | [Flo Chase](https://open.spotify.com/artist/6wCdPDfNu7kWsDTuBFe8x8) | [Toi](https://open.spotify.com/album/4EnrmhjL0cRbzQSj5saOcD) | 3:26 | 2021-06-26 | 2021-07-11 |
 | [Piña Colada \(Instrumental\)](https://open.spotify.com/track/70ohvxDajvfgG6WJZNugGv) | [Petrichor](https://open.spotify.com/artist/4CHoqO65i96zDV4M18BYlm) | [Piña Colada \(Instrumental\)](https://open.spotify.com/album/6YhcsbSNibjrzYI7W9YjVp) | 2:37 | 2022-03-11 | 2022-03-31 |
 | [Platinum](https://open.spotify.com/track/3VWSUhXqZWMemBR7i0lWYP) | [Jay Watts](https://open.spotify.com/artist/2lGHglX5dA9A4IAw9kjDm6) | [Platinum](https://open.spotify.com/album/5HflEJsBKAVZf56iu37zvr) | 2:32 | 2020-07-05 | 2020-07-28 |

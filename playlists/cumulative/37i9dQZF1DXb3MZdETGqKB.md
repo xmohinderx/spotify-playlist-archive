@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Dylan Triplett
 
-156 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+157 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-02-25 |  |
 | [Wintertime](https://open.spotify.com/track/2GuN81w2lPTNfMiKyMLnLR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Wintertime](https://open.spotify.com/album/7x0QccFsF6oUTHCeaJ3wRf) | 3:59 | 2021-11-12 |  |
 | [Wolves All Around Me](https://open.spotify.com/track/5yX5XWU1JaOq3tYeuqGfVE) | [Hebron Shane](https://open.spotify.com/artist/3wVOcyphZAxmjMtasFzsJ2) | [Wolves All Around Me](https://open.spotify.com/album/4K7QDZ8Fldny1DYn9C5nbN) | 3:27 | 2021-03-19 | 2022-03-26 |
-| [Workin' Man](https://open.spotify.com/track/3vlialdlumHyXrZq6Em5Tq) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/3awKF4xhQXpiPCGNten5ts) | 3:52 | 2022-03-25 |  |
+| [Workin' Man](https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Closure](https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J) | 3:52 | 2022-03-25 |  |
+| [Workin' Man](https://open.spotify.com/track/3vlialdlumHyXrZq6Em5Tq) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/3awKF4xhQXpiPCGNten5ts) | 3:52 | 2022-03-25 | 2022-10-13 |
 | [World on Fire \- Warrior Remix](https://open.spotify.com/track/3CzTG4duyqR9YXXDK9k4pc) | [Micki Free](https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l), [Karl Perazzo](https://open.spotify.com/artist/6YOWrQBPl6xB6yA73jqUny), [Andy Vargas](https://open.spotify.com/artist/3oqXjhbfHHAkNaZLsP8qZH), [Cindy Blackman Santana](https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF) | [World on Fire \(Warrior Remix\)](https://open.spotify.com/album/272hzAwKezSFfwYcH0uazk) | 5:13 | 2022-09-16 |  |
 | [Yada Yada](https://open.spotify.com/track/2IXvJ4KQFzo1TnqMgTk12w) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [Yada Yada](https://open.spotify.com/album/2CbfiGqSkYci5rPVgYRUGk) | 2:35 | 2022-05-06 |  |
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR) | 3:01 | 2021-09-17 |  |

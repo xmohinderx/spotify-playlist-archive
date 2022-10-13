@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 
 > A pride playlist for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,857 likes - 39 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,858 likes - 39 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nonstop](https://open.spotify.com/track/07sscPQA6fR2yGVf3vMmld) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/75Ihw1IDFXtLMkqqLE57xg) | 2:20 |
+| 1 | [Nonstop](https://open.spotify.com/track/28t4A1DdvuZzub3p8E7qFF) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/3Rfex8n3nRVBZyN0JX059j) | 2:20 |
 | 2 | [I'm Coming Out](https://open.spotify.com/track/1y64vN0BUPtCYsl64QlfGS) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [I'm Coming Out](https://open.spotify.com/album/5gR7VjAFxTNKonQJINiH7J) | 3:43 |
 | 3 | [We Royal](https://open.spotify.com/track/5NBea5qyOZ6MzUdmIZS9NK) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [The Love](https://open.spotify.com/album/1KXBAJuLCtlby4JpDcvcTt) | 3:02 |
 | 4 | [Born This Way](https://open.spotify.com/track/6aDi4gOE2Cfc6ecynvP81R) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 4:20 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 38 | [And Mom and Kid](https://open.spotify.com/track/4WImM9b0Fk1SMhwyeRtKh7) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Why?](https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK) | 1:22 |
 | 39 | [Go Shine \(Song for Elm\)](https://open.spotify.com/track/4gZcqkqfdKDA6UBn93B7bk) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz), [Heather Mae](https://open.spotify.com/artist/3wdm6k2HSsI6uWkYPuKj7V) | [Be a Pain \- An Album for Young \(and Old\) Leaders](https://open.spotify.com/album/5nDOikFiHs1P1jJUv5YgTk) | 2:58 |
 
-Snapshot ID: `MTY1NTI5NTg5MywwMDAwMDAwMGZlNjU4NDhjYTBlNGNmODIxYTBkMGNlNWY4Y2M4MDhj`
+Snapshot ID: `MTY1NTI5NTg5MywwMDAwMDAwMGM3YTFlYzI2YjRjN2E4NWVjODY4ZDE3NzNlZjQ3ZGFh`

@@ -2,9 +2,9 @@
 
 ### [Best of: Coke Studio Fusion](https://open.spotify.com/playlist/37i9dQZF1DX5k2NQZIn7LE)
 
-> Fusion hits of Coke Studio Pakistan\. Cover: Hadiqa Kiani
+> Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-76 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/0XQM5ONk6GhW4OcFYlBuNy)
+77 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/0XQM5ONk6GhW4OcFYlBuNy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Par Chanaa De](https://open.spotify.com/track/3ycWX9C27LyqxYNOrAn5ZI) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 11:06 | 2022-03-15 | 2022-07-29 |
 | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/track/7292h5pidNaLfrse63T3dQ) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/album/3kVakoirMWEX5BwkicGWZv) | 11:06 | 2022-03-15 |  |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2022-03-15 |  |
+| [Peechay Hutt](https://open.spotify.com/track/6ePcfMCQ7uUKwAamUiVtXL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Peechay Hutt](https://open.spotify.com/album/3rkEv4z7rgqYXgP0aLsBm0) | 3:45 | 2022-10-12 |  |
 | [Piya Dehkan Ko](https://open.spotify.com/track/1frGW887ZzFysJHMdq2Mmj) | [Nafees Ahmed Khan](https://open.spotify.com/artist/6wa7LgT2horYsbx5pmbOa9), [Hamid Ali Khan](https://open.spotify.com/artist/4PA27e3ypP9ssjueNFy6PA) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:31 | 2022-03-15 |  |
 | [Piya Ghar Aaya](https://open.spotify.com/track/7108Wtu2P9a81kbSm1boVA) | [Fareed Ayaz Abu Muhammad Qawwal & Brothers](https://open.spotify.com/artist/7koP6nz3zSkVbi2TQfZfV8) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 13:04 | 2022-03-15 |  |
 | [Roshe](https://open.spotify.com/track/4Ar7mEFWCQVg1keCZfGtqL) | [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24) | [Roshe](https://open.spotify.com/album/6IcI3XoZIkJvJlTR7RQ3Ch) | 7:52 | 2022-03-15 |  |

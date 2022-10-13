@@ -4,7 +4,7 @@
 
 > A collection of traditional carols and new classics by the biggest, brightest stars! Cover: Kristin Chenoweth
 
-130 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/7cn8GzbNCrgnadfJ65Q1Jc)
+131 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/7cn8GzbNCrgnadfJ65Q1Jc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Sleigh Ride](https://open.spotify.com/track/7d5mB4fn8vIM5qGVr5FDy2) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG) | 2:21 | 2021-12-17 | 2022-07-29 |
 | [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2021-12-17 |  |
 | [Step Into Christmas](https://open.spotify.com/track/0m8JScKN5AX29Lejm6Z7wI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/3TklXHH0ZQtDBw06qalt28) | 4:32 | 2021-12-17 | 2022-07-29 |
-| [That Spirit of Christmas](https://open.spotify.com/track/13lde8UEEgE4GRTagH2paS) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Today Is Christmas](https://open.spotify.com/album/2P4jHpHDEBsvnHN1htI824) | 4:52 | 2021-12-17 |  |
+| [That Spirit of Christmas](https://open.spotify.com/track/5qCRwHgVObT892gl0hH0Kj) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Today Is Christmas](https://open.spotify.com/album/4p1Qw5G8LHuiV7Iz1cAyAj) | 4:52 | 2021-12-17 |  |
+| [That Spirit of Christmas](https://open.spotify.com/track/13lde8UEEgE4GRTagH2paS) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Today Is Christmas](https://open.spotify.com/album/2P4jHpHDEBsvnHN1htI824) | 4:52 | 2021-12-17 | 2022-10-13 |
 | [The Christmas Song](https://open.spotify.com/track/0C2AvaDXgN5SHi3YOTsV5E) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [The Christmas Song](https://open.spotify.com/album/0cxMc8IiLNNgysi4F9zRxV) | 4:30 | 2021-12-17 |  |
 | [The Christmas Song](https://open.spotify.com/track/3jRBwf09lbRAp2DSPlRx8p) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [The Christmas Song](https://open.spotify.com/album/4oCWt4XrDOdwnpJZsfCqZt) | 4:30 | 2021-12-17 | 2022-07-29 |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\) \(duet with John Legend\)](https://open.spotify.com/track/1O9ML3Bv8XvQ3xWUVL0jj7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Christmas Song \(Chestnuts Roasting On An Open Fire\) \(duet with John Legend\)](https://open.spotify.com/album/6qSiSv2qh4fTiqjvmSQLCy) | 3:30 | 2021-12-17 |  |

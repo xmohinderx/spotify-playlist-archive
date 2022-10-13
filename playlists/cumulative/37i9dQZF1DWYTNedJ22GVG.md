@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-132 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
+133 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [I'll Be Home For Christmas \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6pbS3SMfbLLrcOMR9SDpsZ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4PSFPnCtOqJCpM4igcp7P9) | 3:26 | 2021-12-07 | 2022-07-29 |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 2:29 | 2021-12-07 |  |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/7GBuc4Sh26BLDLCsLWuCde) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/55qxgy5RW3lwMxPlpOdlAC) | 2:29 | 2021-12-07 | 2022-07-29 |
-| [It's Christmas Now!](https://open.spotify.com/track/4rcoY9VWWQkzFeEsxGDbUX) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n) | 2:40 | 2021-12-07 |  |
+| [It's Christmas Now!](https://open.spotify.com/track/4rcoY9VWWQkzFeEsxGDbUX) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n) | 2:40 | 2021-12-07 | 2022-10-13 |
+| [It's Christmas Now!](https://open.spotify.com/track/6tc2mMOQTiMMH238j1UieZ) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/5OK4C8RKMEDrTKuN6YKrOC) | 2:40 | 2021-12-07 |  |
 | [It’s the Most Wonderful Time of the Year](https://open.spotify.com/track/5n9OArDe2XxJhGOtKKMZ7C) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas Wish List](https://open.spotify.com/album/4PprECLcYiT8IGZjgivKTJ) | 2:30 | 2021-12-07 | 2022-07-29 |
 | [It’s The Most Wonderful Time Of The Year](https://open.spotify.com/track/02i04SaGvLTl8yQZCnuBnN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Christmas!](https://open.spotify.com/album/2wiCCX3B5AVPbE1pugk04N) | 2:31 | 2021-12-07 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/5WcBc2jpgWemNJFz5K5s2B) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/2uFYxUG2I67ddvtgP8W7Gt) | 2:15 | 2021-12-07 |  |

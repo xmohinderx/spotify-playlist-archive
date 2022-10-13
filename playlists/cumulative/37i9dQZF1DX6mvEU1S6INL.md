@@ -4,7 +4,7 @@
 
 > It's just us—and this awesome alt soundtrack.
 
-188 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
+190 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [I Wanna Be Yours](https://open.spotify.com/track/0t6eWxZFkm89DuTj8tJ2fz) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 3:03 | 2019-05-26\* | 2021-01-29 |
 | [I Won't Fight It](https://open.spotify.com/track/1wnFpv1gSsFZeuNlHOX1ch) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2lctdjQcxDUo9Q93GScAKC) | 5:31 | 2019-05-26\* | 2021-12-10 |
 | [If I Get High](https://open.spotify.com/track/3O2pB9JHreUZ9F83qSNmu8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:26 | 2019-05-26\* |  |
-| [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/1BiRaCcUqWpLLb4LZpvRMF) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR) | 2:49 | 2022-05-27 |  |
+| [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/1BiRaCcUqWpLLb4LZpvRMF) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR) | 2:49 | 2022-05-27 | 2022-10-13 |
+| [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/3LQDkH5zNQ4x0UUsmH4zkj) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 2:49 | 2022-08-26 |  |
 | [Indigo Puff](https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Indigo Puff](https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w) | 3:51 | 2019-05-26\* |  |
 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 | 2022-05-27 |  |
 | [It's Too Much](https://open.spotify.com/track/27xAj9PZbv3PUNXVnELgXm) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [It's Too Much](https://open.spotify.com/album/4oYSt8W2tS3wacfrgPzHom) | 3:56 | 2019-05-26\* | 2022-05-28 |
@@ -140,7 +141,8 @@
 | [Play with Fire](https://open.spotify.com/track/0d0bU9qHxAHvuJRjio7cU6) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [God Loves You When You're Dancing](https://open.spotify.com/album/4i9ynTHhVP8XNoV85smGvE) | 4:23 | 2019-05-26\* | 2021-12-10 |
 | [Purple](https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Purple](https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE) | 4:25 | 2022-05-27 |  |
 | [Purple](https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Purple](https://open.spotify.com/album/4V1aYX6FrcKWr2rBuIIlOM) | 4:25 | 2021-12-10 | 2022-07-29 |
-| [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/track/14NUzP69qYaAdkU0fUGwD5) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:09 | 2022-05-27 |  |
+| [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 | 2022-08-26 |  |
+| [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/track/14NUzP69qYaAdkU0fUGwD5) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:09 | 2022-05-27 | 2022-10-13 |
 | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/track/3rX7jCeMKpyHH6bFohXcWd) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/album/3L9UO9abdjQko3suZnjDdr) | 3:09 | 2022-02-25 | 2022-07-29 |
 | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/track/4677jRCDMa05jcA94EQ0hG) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/album/2uAuylgnp2HX5mLl3M5OW1) | 2:53 | 2020-05-20 | 2021-06-26 |
 | [Scary Love](https://open.spotify.com/track/6TA5aymvVrtiPVbuAwmPIc) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:42 | 2022-05-27 |  |

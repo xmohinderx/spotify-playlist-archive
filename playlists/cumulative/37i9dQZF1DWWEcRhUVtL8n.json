@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "2000 Miles",
+        "url": "https://open.spotify.com/album/3U5QaOkgxVKjBqDlO69b4T"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179478,
+      "name": "2000 Miles",
+      "url": "https://open.spotify.com/track/6jmIH21TDBlLlszYWbc9rd"
+    },
+    {
+      "album": {
         "name": "202\u00d8",
         "url": "https://open.spotify.com/album/2V6NsSiH2Gl307v8YhKFqZ"
       },
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 247327,
       "name": "Be with You",
       "url": "https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW"
@@ -3514,6 +3532,24 @@
     },
     {
       "album": {
+        "name": "Burning Up Slow",
+        "url": "https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124987,
+      "name": "Burning Up Slow",
+      "url": "https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw"
+    },
+    {
+      "album": {
         "name": "Busy",
         "url": "https://open.spotify.com/album/3bvUadr6ldYuCapGdpOjC9"
       },
@@ -3601,7 +3637,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 176480,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/4aHrviUXxabPdIgWxdYQLt"
@@ -3925,7 +3961,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 168447,
       "name": "Candyfloss",
       "url": "https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i"
@@ -3979,7 +4015,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 215814,
       "name": "Catch Me In The Air",
       "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
@@ -4473,7 +4509,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 194693,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK"
@@ -5595,7 +5631,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 187850,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S"
@@ -5769,7 +5805,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 218000,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi"
@@ -6369,7 +6405,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 268432,
       "name": "doomsday",
       "url": "https://open.spotify.com/track/6bpZMLiRQDm2XcjZudu3xV"
@@ -7199,6 +7235,28 @@
       "duration_ms": 213906,
       "name": "Everything Matters",
       "url": "https://open.spotify.com/track/06VyY12p1DHswetQudIbiT"
+    },
+    {
+      "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/1BoEwjMurwYEQLgx9ocuf1"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213906,
+      "name": "Everything Matters",
+      "url": "https://open.spotify.com/track/4X00YoOQUD49hwdXmWBXHM"
     },
     {
       "album": {
@@ -8123,7 +8181,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 139386,
       "name": "frown",
       "url": "https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp"
@@ -8141,7 +8199,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 193133,
       "name": "Fruity",
       "url": "https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy"
@@ -11501,7 +11559,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 97293,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi"
@@ -12181,7 +12239,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 214909,
       "name": "I\u2019M BLESSED",
       "url": "https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG"
@@ -14655,7 +14713,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 194630,
       "name": "Meteorite",
       "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
@@ -16831,10 +16889,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 217816,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/3nDlV6GuRRKqT3nK3nSwtM"
+    },
+    {
+      "album": {
+        "name": "Orpheus",
+        "url": "https://open.spotify.com/album/6hyunqfV9PzG6N4SsPyYKF"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217816,
+      "name": "Orpheus",
+      "url": "https://open.spotify.com/track/5jhplymMubt3XgOkEKfAJF"
     },
     {
       "album": {
@@ -16993,7 +17069,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 190320,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br"
@@ -17047,7 +17123,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW"
@@ -18095,7 +18171,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 153783,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9"
@@ -18355,10 +18431,28 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 194800,
       "name": "Radio",
       "url": "https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w"
+    },
+    {
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio"
     },
     {
       "album": {
@@ -19249,7 +19343,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 347146,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/0Kqo7V39HrgjMaDwL5uvq7"
@@ -19415,7 +19509,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb"
@@ -22629,7 +22723,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI"

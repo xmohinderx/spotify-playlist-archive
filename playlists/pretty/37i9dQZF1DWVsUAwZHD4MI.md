@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,249 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,278 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 21 | [D Way You Do Me \(Prod\. Plata\)](https://open.spotify.com/track/0VfPpXQUmi1i6mUOac5VLi) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:50 |
 | 22 | [Horns](https://open.spotify.com/track/0rcyKRZTyfM0y6qmDPH548) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [XTC \(The Lost Scrolls\)](https://open.spotify.com/album/0PBqzcm8XBZ873Ib5OWGdM) | 2:09 |
 | 23 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 |
-| 24 | [Catastral](https://open.spotify.com/track/3MEAIsuHmcUZCk5Qfp97Zl) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Catastral](https://open.spotify.com/album/6BGSFd5qRboHBAEfF0q1Ig) | 3:13 |
+| 24 | [Catastral](https://open.spotify.com/track/3MEAIsuHmcUZCk5Qfp97Zl) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/6BGSFd5qRboHBAEfF0q1Ig) | 3:13 |
 | 25 | [Head on Fire \- Danny L Harle Remix](https://open.spotify.com/track/3iDHkSTaDcFzsqGCsv5S5J) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Head on Fire \(Danny L Harle Remix\)](https://open.spotify.com/album/1jh1ugyuAmyGDQ5MYyAjAI) | 3:05 |
 | 26 | [Six Seven Times](https://open.spotify.com/track/2jknEB3TLUX5vEaLI4gttE) | [Flunk](https://open.spotify.com/artist/1Tz1kM5vFyBpzD22fHW609) | [Morning Star](https://open.spotify.com/album/5CcQRGb2CV6AofHROdyvHg) | 4:38 |
 | 27 | [In a Manner of Speaking](https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:58 |

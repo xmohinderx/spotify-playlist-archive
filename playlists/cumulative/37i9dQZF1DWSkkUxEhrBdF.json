@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 212587,
       "name": "Already There",
       "url": "https://open.spotify.com/track/09zn6XBm2k46tBiano8uoo"
@@ -107,6 +107,24 @@
       "duration_ms": 212587,
       "name": "Already There",
       "url": "https://open.spotify.com/track/67MpXN05qxu09WaM98n6RD"
+    },
+    {
+      "album": {
+        "name": "Hope It Gets Better",
+        "url": "https://open.spotify.com/album/7p9pChA6KBpvqq8En6bE9B"
+      },
+      "artists": [
+        {
+          "name": "Nesta",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212587,
+      "name": "Already There",
+      "url": "https://open.spotify.com/track/7pWE9Saa0N4wUZZXBZPZVY"
     },
     {
       "album": {
@@ -853,7 +871,7 @@
     {
       "album": {
         "name": "The Familiar Stranger",
-        "url": "https://open.spotify.com/album/31r2AedXvvd13nNpVRfcC6"
+        "url": "https://open.spotify.com/album/2wIVGAaTdqqc7OsOkCUfih"
       },
       "artists": [
         {
@@ -864,6 +882,24 @@
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 234340,
+      "name": "Money Call",
+      "url": "https://open.spotify.com/track/4GOHRjfZXRZDHkv6RRMNcq"
+    },
+    {
+      "album": {
+        "name": "The Familiar Stranger",
+        "url": "https://open.spotify.com/album/31r2AedXvvd13nNpVRfcC6"
+      },
+      "artists": [
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 234340,
       "name": "Money Call",
       "url": "https://open.spotify.com/track/4Xa68Oy7He9wkodJuRQEXW"

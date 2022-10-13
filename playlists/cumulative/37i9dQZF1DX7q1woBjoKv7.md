@@ -4,7 +4,7 @@
 
 > California music breaking waves\. Cover: YG
 
-528 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/7aCz9WTkVveWry6ECm9qAk)
+529 songs - 1 day 2 hr 30 min - [published](https://open.spotify.com/playlist/7aCz9WTkVveWry6ECm9qAk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [dec 11th](https://open.spotify.com/track/5svK1ysz8yk6sLC3bhxUGt) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 1:13 | 2022-07-18 | 2022-08-06 |
 | [Deep Green](https://open.spotify.com/track/0hHnuKAlRRLyG7bYg474B8) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Deep Green](https://open.spotify.com/album/6c2FgkDmUjHtgXjTa59SfF) | 3:23 | 2022-09-24 |  |
 | [Diamond Mind \(with Nipsey Hussle & Ty Dolla $ign\)](https://open.spotify.com/track/6v9trAkgvJuexOnxQXum0h) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Diamond Mind \(with Nipsey Hussle & Ty Dolla $ign\)](https://open.spotify.com/album/2yfzOPiUFh8gNcFwHnmVPa) | 4:53 | 2022-02-25 | 2022-03-18 |
-| [Dis N Dat \(with VanJess\)](https://open.spotify.com/track/2WOAeCRc28zrEpCmkNYFRj) | [drumaq](https://open.spotify.com/artist/6YxiJtz5oCCcDsMGiLNMh5), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Dis N Dat \(with VanJess\)](https://open.spotify.com/album/59Bb8gaMK4Szc60Ib8Pf9L) | 2:35 | 2022-09-24 |  |
+| [Dis N Dat](https://open.spotify.com/track/47l61SN0LmVnzMc1jSpUdJ) | [drumaq](https://open.spotify.com/artist/6YxiJtz5oCCcDsMGiLNMh5), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Dis N Dat](https://open.spotify.com/album/0ohVWsW5RSKamDG6oTvQRx) | 2:35 | 2022-09-24 |  |
+| [Dis N Dat \(with VanJess\)](https://open.spotify.com/track/2WOAeCRc28zrEpCmkNYFRj) | [drumaq](https://open.spotify.com/artist/6YxiJtz5oCCcDsMGiLNMh5), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Dis N Dat \(with VanJess\)](https://open.spotify.com/album/59Bb8gaMK4Szc60Ib8Pf9L) | 2:35 | 2022-09-24 | 2022-10-13 |
 | [Disrespectful](https://open.spotify.com/track/2VB8KK5Mpw5faIEuOpHhqJ) | [Smiles Davis](https://open.spotify.com/artist/6vjhuQY1IzfsaJJIKskfZD) | [Disrespectful](https://open.spotify.com/album/6lMQiGo4VMFgA2rzqQVL9I) | 2:36 | 2022-09-30 |  |
 | [Distance](https://open.spotify.com/track/3g4BMmbJKvheEbXSuRvSPy) | [Armani Cemone](https://open.spotify.com/artist/5DipOgFXNc9oLGd1QbcNVB), [Tyler Reese](https://open.spotify.com/artist/5n5THbrksUfHTi6UPaXvQF) | [Long Story Short](https://open.spotify.com/album/7lS6sHqQuLm4BkTbDGPYW9) | 2:44 | 2022-02-25 | 2022-03-05 |
 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-08-12 | 2022-08-14 |

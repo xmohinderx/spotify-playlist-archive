@@ -4,7 +4,7 @@
 
 > ur favorite queer bedroom club
 
-195 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
+196 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Take It Off](https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:35 | 2022-03-16 | 2022-04-20 |
 | [Taste My Body](https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6) | [James Indigo](https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Taste My Body](https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO) | 2:14 | 2022-03-16 | 2022-07-22 |
 | [TASTY](https://open.spotify.com/track/3V3ijKDFFwPM9ADBAW41XQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:24 | 2022-04-11 | 2022-09-30 |
-| [Tear the House Up](https://open.spotify.com/track/2niTP3UJywDtTQj6dP1axR) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear the House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 4:40 | 2022-03-16 |  |
+| [Tear the House Up](https://open.spotify.com/track/2niTP3UJywDtTQj6dP1axR) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear the House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 4:40 | 2022-03-16 | 2022-10-13 |
+| [Tear the House Up](https://open.spotify.com/track/5NHMpUXObw7wi2cTjDIAPW) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear The House Up](https://open.spotify.com/album/7xRaM4csKANBCc9QHxQ6da) | 4:40 | 2022-09-29 |  |
 | [THAT](https://open.spotify.com/track/6yGxfjVzv3u3b85FuUSJaN) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [JACKIE EXTREME](https://open.spotify.com/album/0Mn2OXVX6vGMWkqJWVoZuP) | 2:12 | 2022-09-02 |  |
 | [THAT](https://open.spotify.com/track/6arwyWT9aIkzj7jRedpRN0) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [JACKIE EXTREME](https://open.spotify.com/album/2EgLkW1shKJc43nqvzToYN) | 2:12 | 2022-03-16 | 2022-08-03 |
 | [The Cure & The Cause \- Dennis Ferrer Remix](https://open.spotify.com/track/4oS2Gik6Vo9csv7teQsPoG) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [The Cure & The Cause \(Dennis Ferrer Remix\)](https://open.spotify.com/album/5iBc6MUn7M8S8oCbOIJiT6) | 6:18 | 2022-03-16 | 2022-04-21 |

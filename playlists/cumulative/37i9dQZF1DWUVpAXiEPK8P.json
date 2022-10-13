@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 209693,
       "name": "Back2Roadz",
       "url": "https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN"
@@ -5447,12 +5447,30 @@
           "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
         }
       ],
-      "date_added": "2022-10-07",
+      "date_added": "2022-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167832,
       "name": "Warm",
       "url": "https://open.spotify.com/track/7JWYtvZzxAptMETUfm37oL"
+    },
+    {
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151510,
+      "name": "Wasteman",
+      "url": "https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv"
     },
     {
       "album": {

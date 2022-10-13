@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Courtney Marie Andrews
 
-811 songs - 2 day 1 hr 52 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+812 songs - 2 day 1 hr 55 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-07-29 | 2022-08-27 |
 | [Green Book](https://open.spotify.com/track/2NcKWbWXShSy60ruFNqu3K) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Green Book](https://open.spotify.com/album/0mQrvULsNc3shwhYuv2Uej) | 3:03 | 2021-12-31 | 2022-02-19 |
 | [Guthrie](https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Guthrie](https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy) | 4:53 | 2022-07-08 |  |
-| [Half the Story \(with Alix Page\)](https://open.spotify.com/track/4Q48kYYUtJkxMZXal19xjq) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Half the Story \(with Alix Page\)](https://open.spotify.com/album/73OM6ZQ0D8VuYPJ4HEayBS) | 3:24 | 2022-09-02 |  |
+| [Half the Story](https://open.spotify.com/track/73j46sAcr4IumQBuFZGk60) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Half the Story](https://open.spotify.com/album/0hQsIQXwzzGvGvJa8c2oI2) | 3:24 | 2022-10-07 |  |
+| [Half the Story \(with Alix Page\)](https://open.spotify.com/track/4Q48kYYUtJkxMZXal19xjq) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Half the Story \(with Alix Page\)](https://open.spotify.com/album/73OM6ZQ0D8VuYPJ4HEayBS) | 3:24 | 2022-09-02 | 2022-10-13 |
 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 | 2022-08-12 |  |
 | [Hanging My Heart on You](https://open.spotify.com/track/6ShWCDu2Y26PLa2ZqXf9OU) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [JOHNNYSWIM](https://open.spotify.com/album/4kBQc7EkPlTUi6bIo8HfhI) | 3:43 | 2022-04-08 | 2022-05-14 |
 | [Hangover](https://open.spotify.com/track/57lBDEtlUhzU18Co0DToLg) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Hangover](https://open.spotify.com/album/304pJgIaQAkuG19OLfjfyi) | 3:35 | 2022-07-15 | 2022-08-20 |

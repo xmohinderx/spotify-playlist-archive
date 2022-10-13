@@ -1882,6 +1882,24 @@
     },
     {
       "album": {
+        "name": "jams 2",
+        "url": "https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69051,
+      "name": "daydream",
+      "url": "https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7"
+    },
+    {
+      "album": {
         "name": "Dead to You",
         "url": "https://open.spotify.com/album/3e1zOzZmghrlUxi9LNiBky"
       },
@@ -5261,6 +5279,24 @@
     {
       "album": {
         "name": "My People",
+        "url": "https://open.spotify.com/album/4vy5JvUyxYs2O0X8dzxfBe"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192755,
+      "name": "My People",
+      "url": "https://open.spotify.com/track/7LI7D9mKjw5nadfq41LkRr"
+    },
+    {
+      "album": {
+        "name": "My People",
         "url": "https://open.spotify.com/album/2XQHkcuL2h2qwDeOrvSxZq"
       },
       "artists": [
@@ -5271,7 +5307,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 192756,
       "name": "My People",
       "url": "https://open.spotify.com/track/2JfaFEVbcB05sbzl6CKk8d"
@@ -9525,7 +9561,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 296571,
       "name": "Woah Vicky (feat. Michie Mee, Nanna Goodie, LolaBunz, Layla Hendryxx, Charmaine, Keesh) [Remix]",
       "url": "https://open.spotify.com/track/5btK7AGkGad0DaappYjwQ4"

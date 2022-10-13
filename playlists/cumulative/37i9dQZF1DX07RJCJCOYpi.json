@@ -717,8 +717,8 @@
       },
       "artists": [
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
           "name": "Skrillex",
@@ -1397,10 +1397,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 259074,
       "name": "Loco Toditos",
       "url": "https://open.spotify.com/track/3PCnoYjmTmOEZvTOopA8nJ"
+    },
+    {
+      "album": {
+        "name": "Loco Toditos",
+        "url": "https://open.spotify.com/album/3Oo25Wcclg5ivALG00Dkpb"
+      },
+      "artists": [
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259074,
+      "name": "Loco Toditos",
+      "url": "https://open.spotify.com/track/523MYItBrJ5NCxJMrSZTFI"
     },
     {
       "album": {
@@ -2431,6 +2449,24 @@
     {
       "album": {
         "name": "Sweet Potato",
+        "url": "https://open.spotify.com/album/5CAbEja62qpe4nzETlwQhg"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Sweet Potato",
+      "url": "https://open.spotify.com/track/37Irxjh40DtOug3lCHIwIa"
+    },
+    {
+      "album": {
+        "name": "Sweet Potato",
         "url": "https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV"
       },
       "artists": [
@@ -2441,7 +2477,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 166451,
       "name": "Sweet Potato",
       "url": "https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx"

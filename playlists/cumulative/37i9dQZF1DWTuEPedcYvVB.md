@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-48 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
+49 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Dice it](https://open.spotify.com/track/4eXz2UBxtdkcR8rXo3NyGp) | [Lzino](https://open.spotify.com/artist/2CAEUNH0Pp2Qv01LsjkMiK) | [Dice it](https://open.spotify.com/album/7vMjUj6WJD1xpiqhkAtWwP) | 3:20 | 2022-04-14 |  |
 | [Electric](https://open.spotify.com/track/1g3GvbzoNjOqKNK9Z7srQ5) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb) | [Electric](https://open.spotify.com/album/4mi5IauJU5FowQivOCg4un) | 3:07 | 2022-04-14 |  |
 | [EN MI CONTRA](https://open.spotify.com/track/2GDyAwz1vg3p73aSgmjdtm) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:23 | 2022-04-14 |  |
-| [Fly Em' High](https://open.spotify.com/track/0SVUSnoAWRbbr9bLa0aWsZ) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Fly Em' High](https://open.spotify.com/album/6gEmQKtNvecC0HMJ2fX8To) | 3:01 | 2022-04-14 |  |
+| [Fly Em' High](https://open.spotify.com/track/0SVUSnoAWRbbr9bLa0aWsZ) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Fly Em' High](https://open.spotify.com/album/6gEmQKtNvecC0HMJ2fX8To) | 3:01 | 2022-04-14 | 2022-10-13 |
+| [Fly Em' High](https://open.spotify.com/track/3kfqqWkmkEHj1OdGh9E7PL) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Blame It On The Youts](https://open.spotify.com/album/5SV7FBn5PvryAIPZ4iPblN) | 3:01 | 2022-04-14 |  |
 | [Forget Me](https://open.spotify.com/track/0DbGuU3KHbTig1AWT8sTez) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:51 | 2022-04-14 |  |
 | [Game Is Da Game](https://open.spotify.com/track/4Vs3knfUbY1IAfrdTACvHt) | [Kyze](https://open.spotify.com/artist/7DIkSZ5iZaV3DROy7pnnJS), [RB The Producer](https://open.spotify.com/artist/0ZSV4R03fVVwzCiS9Lsv4k) | [Hell or High Water](https://open.spotify.com/album/7erDAQfKwfF5vQjf3FuEDX) | 2:13 | 2022-04-14 |  |
 | [Gangsteritus](https://open.spotify.com/track/2Gg9UhRTym4rztR9vU0Pvu) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Thanks For Waiting](https://open.spotify.com/album/2IHcdrRhnzXoH8ilmhWujM) | 3:42 | 2022-04-14 |  |

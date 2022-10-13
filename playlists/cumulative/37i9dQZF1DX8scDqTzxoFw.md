@@ -4,7 +4,7 @@
 
 > Watch the kids go wild for these party tunes!
 
-139 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/0e2GAgSIxFVmpVZxEgmPmE)
+141 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/0e2GAgSIxFVmpVZxEgmPmE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Cool Kids](https://open.spotify.com/track/0YnqT6B89ZgOwbSz8SKX0G) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Cool Kids](https://open.spotify.com/album/78IZNqs80hIMFNXo2RpkNj) | 3:35 | 2021-10-08 | 2022-07-29 |
 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2022-07-05 |  |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2021-10-08 |  |
-| [Dance Through the Day](https://open.spotify.com/track/4vMrdBYA0UxkXRii8Ayi6M) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/784cFhESN44WTceqtXcPLN) | 2:35 | 2021-10-08 |  |
+| [Dance Through the Day](https://open.spotify.com/track/3VNxMj6URsie6GJbHGWmmO) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB) | 2:35 | 2022-08-18 |  |
+| [Dance Through the Day](https://open.spotify.com/track/4vMrdBYA0UxkXRii8Ayi6M) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/784cFhESN44WTceqtXcPLN) | 2:35 | 2021-10-08 | 2022-10-13 |
 | [Dance To The Music \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5PB5GPADqc74DvB6vxhD3I) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Dance To The Music \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/1dAzt59wZ2lkkJNgecsO1a) | 2:43 | 2022-07-05 |  |
 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2021-10-08 |  |
 | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2zy9TMoZlYGuCNY4TLqG24) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 3:03 | 2021-10-08 | 2022-07-29 |
@@ -52,7 +53,8 @@
 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/3PLyl3Ir75VkGgX0KEehqh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Don't You Worry 'Bout A Thing \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25walIhXLHe6MyWFCT6vNL) | 4:01 | 2021-10-08 |  |
 | [Dynamite](https://open.spotify.com/track/0t1kP63rueHleOhQkYSXFY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/6K4chJALBBMYmXjwgvqahx) | 3:19 | 2021-10-08 | 2022-07-29 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-07-05 |  |
-| [Every Girl's a Super Girl](https://open.spotify.com/track/0WGJuuIaiouHXSMMVRKhyy) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Every Girl's a Super Girl](https://open.spotify.com/album/4aFkC96yXXnbYIH32hSi4V) | 2:56 | 2021-10-08 |  |
+| [Every Girl's a Super Girl](https://open.spotify.com/track/0WGJuuIaiouHXSMMVRKhyy) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Every Girl's a Super Girl](https://open.spotify.com/album/4aFkC96yXXnbYIH32hSi4V) | 2:56 | 2021-10-08 | 2022-10-13 |
+| [Every Girl's a Super Girl](https://open.spotify.com/track/33Xp5ALbMvoFuj9H8mDF8V) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Every Girl's a Super Girl](https://open.spotify.com/album/75ig6zkEOIUdVhdmjX6opA) | 2:56 | 2022-08-18 |  |
 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 | 2021-10-08 |  |
 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3KuZx7FPNcqXG8YFN5Y0OG) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Faith \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vcfCbzB0B72zI8fF5zBEv) | 2:40 | 2021-10-08 |  |
 | [Falling to Pieces](https://open.spotify.com/track/0xJvnVngNvftnyYMvp6rDK) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Falling to Pieces](https://open.spotify.com/album/2L7YILiyCS4lPvfAFwuBDv) | 4:21 | 2021-10-08 |  |

@@ -4,7 +4,7 @@
 
 > Sounds to wrap you in relaxation and ease\. Curated by the <a href="https://mamaglowfoundation.org/">Mama Glow Foundation</a> advancing reproductive justice and birth equity through education, advocacy and the arts \| Cover: A Beautiful Chorus
 
-53 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/31D8aL5P5FRmx6GLWrdxLs)
+56 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/31D8aL5P5FRmx6GLWrdxLs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,13 +15,15 @@
 | [Baby Girl](https://open.spotify.com/track/1AYn4YyxEF0SR3fGr6x7KN) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/2HIaUwS0PTUeqFFYHBBGAN) | 3:32 | 2022-03-08 |  |
 | [Beige](https://open.spotify.com/track/3dvRD7tnKF9Kxocks07jue) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [Beige](https://open.spotify.com/album/67VkDUL4cKcQeMrV2CDPHf) | 3:17 | 2022-03-08 |  |
 | [Bluebird](https://open.spotify.com/track/1w1UFvNdHZZLhozS2Ysdub) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:14 | 2022-03-08 |  |
-| [Brown](https://open.spotify.com/track/0S8mtofOXVslUNzpHLuPW0) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SUGA](https://open.spotify.com/album/4ZQjhcYbZl4KhMoBekUzUL) | 3:54 | 2022-03-08 |  |
+| [Brown](https://open.spotify.com/track/0EDzxUaUO4j9knZsytC3V8) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SUGA](https://open.spotify.com/album/5E5QGOClKXPXlVwOW9cWUz) | 3:54 | 2022-03-08 |  |
+| [Brown](https://open.spotify.com/track/0S8mtofOXVslUNzpHLuPW0) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SUGA](https://open.spotify.com/album/4ZQjhcYbZl4KhMoBekUzUL) | 3:54 | 2022-03-08 | 2022-10-13 |
 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 | 2022-03-08 |  |
 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2022-03-08 |  |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2022-03-08 |  |
 | [Easy](https://open.spotify.com/track/58dSdjfEYNSxte1aNVxuNf) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Drive Slow](https://open.spotify.com/album/0qQKOuHPlCPKaNgeOh3ytH) | 5:14 | 2022-03-08 |  |
 | [February 3rd](https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:02 | 2022-03-08 |  |
-| [Fool For You](https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:14 | 2022-03-08 |  |
+| [Fool For You](https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz) | 3:14 | 2022-03-08 |  |
+| [Fool For You](https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:14 | 2022-03-08 | 2022-10-13 |
 | [Frequency](https://open.spotify.com/track/5mymZaPY1A5x7or2TB7TJ3) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 3:50 | 2022-03-08 |  |
 | [Friday Morning](https://open.spotify.com/track/2M45IIrFLjMgsNSSxee31h) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 6:50 | 2022-03-08 |  |
 | [Friday Morning](https://open.spotify.com/track/5gYGXwHud7JFReP9W61wGt) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/42j41uUwuHZT3bnedq2XtM) | 6:50 | 2022-03-08 | 2022-07-29 |
@@ -54,7 +56,8 @@
 | [Struttin' on Sunshine](https://open.spotify.com/track/162b695khjTl8hAIiyM8Cd) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [The Collections Volume I](https://open.spotify.com/album/5qS0jdXWbEFlvOzaHkSxrI) | 2:48 | 2022-03-08 |  |
 | [Sunshine](https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:22 | 2022-03-08 |  |
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2022-03-08 |  |
-| [Time](https://open.spotify.com/track/3GTpHuThSwghiUEvVQCwsz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:44 | 2022-03-08 |  |
+| [Time](https://open.spotify.com/track/3GTpHuThSwghiUEvVQCwsz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:44 | 2022-03-08 | 2022-10-13 |
+| [Time](https://open.spotify.com/track/6S19yjLFU8FK0D5hJgnaUy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz) | 3:44 | 2022-03-08 |  |
 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 | 2022-03-08 |  |
 | [Trigger Protection Mantra](https://open.spotify.com/track/10OJeHia1lrq7OCY2lSJiP) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trigger Protection Mantra](https://open.spotify.com/album/2NGGOdyDlyb4bu3vqQqF83) | 6:54 | 2022-03-08 |  |
 | [vanishing \- A COLORS SHOW](https://open.spotify.com/track/3noFeCe86lQkdejwHxPBzB) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [vanishing \- A COLORS SHOW](https://open.spotify.com/album/2CSOwAzDgG7PsZTwuQc3QG) | 3:46 | 2022-03-08 |  |

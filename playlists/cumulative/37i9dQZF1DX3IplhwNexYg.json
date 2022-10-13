@@ -747,6 +747,24 @@
     {
       "album": {
         "name": "Blu Shirt Boy",
+        "url": "https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223703,
+      "name": "Blu Shirt Boy",
+      "url": "https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3"
+    },
+    {
+      "album": {
+        "name": "Blu Shirt Boy",
         "url": "https://open.spotify.com/album/0wIdXaa8pAUQh5H0DBVmXK"
       },
       "artists": [
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 223703,
       "name": "Blu Shirt Boy",
       "url": "https://open.spotify.com/track/7bAT6eo8VuSTPKA52CxPTJ"
@@ -2003,10 +2021,28 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 157000,
       "name": "Gr8 Timing!",
       "url": "https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3"
+    },
+    {
+      "album": {
+        "name": "You Have Got to Be Kidding Me",
+        "url": "https://open.spotify.com/album/3KKsv36GD6Nsmr2KrgQEA0"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Gr8 Timing!",
+      "url": "https://open.spotify.com/track/2jGNWnhAg5G7GbjJB6jQ3I"
     },
     {
       "album": {
@@ -2460,6 +2496,24 @@
     },
     {
       "album": {
+        "name": "Dreams, Pains & Paper Planes",
+        "url": "https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201942,
+      "name": "I'm Just High",
+      "url": "https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA"
+    },
+    {
+      "album": {
         "name": "I\u2019m Just High",
         "url": "https://open.spotify.com/album/0QAcRow6Z3bgb1rNtRPDEh"
       },
@@ -2471,7 +2525,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 201942,
       "name": "I'm Just High",
       "url": "https://open.spotify.com/track/6HSXtGantJn5oWHwUcS01C"
@@ -2511,10 +2565,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 225278,
       "name": "ILY2",
       "url": "https://open.spotify.com/track/6TFNpbspD3whCDW98LvMSY"
+    },
+    {
+      "album": {
+        "name": "ILY2",
+        "url": "https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225278,
+      "name": "ILY2",
+      "url": "https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr"
     },
     {
       "album": {
@@ -3563,10 +3635,28 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 226140,
       "name": "Point of You",
       "url": "https://open.spotify.com/track/39fakXfQYhUVYQuEZn0J2O"
+    },
+    {
+      "album": {
+        "name": "Point of You",
+        "url": "https://open.spotify.com/album/1WgQkyXp97iyc9SqMcXdml"
+      },
+      "artists": [
+        {
+          "name": "Kynsy",
+          "url": "https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226140,
+      "name": "Point of You",
+      "url": "https://open.spotify.com/track/4sq6yGk8Njg37wvEdwWOVY"
     },
     {
       "album": {
@@ -4547,10 +4637,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 178212,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/3kBeOovTQnNlsRL6nxoWeD"
+    },
+    {
+      "album": {
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178212,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
     },
     {
       "album": {
@@ -4932,6 +5040,24 @@
     },
     {
       "album": {
+        "name": "Weird Me Out",
+        "url": "https://open.spotify.com/album/2o3vklwlNruYNFLbmtX58r"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181043,
+      "name": "Weird Me Out",
+      "url": "https://open.spotify.com/track/5P0iRet3L91fC6SipKKsPl"
+    },
+    {
+      "album": {
         "name": "Nothing Is Real",
         "url": "https://open.spotify.com/album/4O8ZUAxWtfxWxxkGqRaAbZ"
       },
@@ -4943,7 +5069,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 181043,
       "name": "Weird Me Out",
       "url": "https://open.spotify.com/track/7u51xdzTY7W1PgaVMVSyIU"

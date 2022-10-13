@@ -4,7 +4,7 @@
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-98 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
+99 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 | 2021-10-26 |  |
 | [Come On](https://open.spotify.com/track/5pc6PL2JYnJ8tvyW2ciinU) | [The 4th Coming](https://open.spotify.com/artist/1CeSvNOGIf68AZ9MH1zwhr) | [Strange Things \(The Complete Works, 1970 \- 1974\)](https://open.spotify.com/album/4kwIasWUTsii5bSXUFFlDT) | 2:57 | 2021-10-26 |  |
 | [Continents](https://open.spotify.com/track/2XxUxNGLh4rQppREz9lMK9) | [Hembree](https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ) | [House on Fire](https://open.spotify.com/album/6Wxo89c6cczQFhH8i8YDTH) | 3:08 | 2021-10-26 |  |
+| [Crashed My Bike](https://open.spotify.com/track/0DX6TehELIsI9N3wKAM0fV) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/2pRVYKpvfRzCCGCEImrvTr) | 3:03 | 2021-10-26 |  |
 | [Crashed My Bike](https://open.spotify.com/track/1CrSOYgDKMg2aU48FmRFsQ) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/72FchzzTvWhylxrFSR7Y8l) | 3:03 | 2021-10-26 | 2022-07-29 |
-| [Crashed My Bike](https://open.spotify.com/track/4Kqa4GdRQux0hEXtHzfd6x) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/7txeejhG7IZECo9VLTNO8b) | 3:03 | 2021-10-26 |  |
+| [Crashed My Bike](https://open.spotify.com/track/4Kqa4GdRQux0hEXtHzfd6x) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/7txeejhG7IZECo9VLTNO8b) | 3:03 | 2021-10-26 | 2022-10-13 |
 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 | 2021-10-26 |  |
 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 | 2021-10-26 |  |
 | [December](https://open.spotify.com/track/34WYAjF4l7fx3l97DmKgPM) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/2QNw7unWsqcNwdXExn73zD) | 4:32 | 2021-10-26 |  |

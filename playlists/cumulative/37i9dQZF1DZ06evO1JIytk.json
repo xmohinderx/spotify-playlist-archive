@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 206205,
       "name": "A Dying Plea Vol. 1",
       "url": "https://open.spotify.com/track/0NlxbDDwdVSQm1DQz2EZUo"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 115533,
       "name": "Death of a Nation",
       "url": "https://open.spotify.com/track/35zEFTbVh7KVLwMXCUkihJ"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 184253,
       "name": "Kill the Rich",
       "url": "https://open.spotify.com/track/5JC5yGA0tcayDEWMMUbcYR"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 226560,
       "name": "Rank-n-File",
       "url": "https://open.spotify.com/track/1lcSbWCkd56TB7NPedWPDs"
@@ -685,6 +685,24 @@
       "duration_ms": 163946,
       "name": "Should I Stay or Should I Go - Live Version",
       "url": "https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB"
+    },
+    {
+      "album": {
+        "name": "The General Strike (10 Year Anniversary)",
+        "url": "https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78576,
+      "name": "SKATE",
+      "url": "https://open.spotify.com/track/6yd9HSGpSnunM8kLum15HC"
     },
     {
       "album": {
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 31111,
       "name": "Song for Jesus Christ - Demo 1992",
       "url": "https://open.spotify.com/track/5KnC2asOnAoTsJd1K8zikT"

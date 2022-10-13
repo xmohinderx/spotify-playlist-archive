@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQzNjY4MSwwMDAwMDAwMGI2Njg3MzYzM2I4NGU4MDQxNmUxNjRlMGZmNDJjMmY2",
+  "snapshot_id": "MTY2NTQzNjY4MSwwMDAwMDAwMGI1ZjIzMzBlNGI2YmM5NWM1NTE3YzkwN2IxM2Y2Njg2",
   "tracks": [
     {
       "added_at": "2022-10-10 21:18:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
+        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
+        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Snapphaneklanen",
+      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
         "name": "V\u00e5r Dans",
         "url": "https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 181115,
       "name": "V\u00e5r Dans",
       "url": "https://open.spotify.com/track/0akrglttILrVEe2ncifHsH"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
-        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
-        "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "Snapphaneklanen",
-      "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -703,8 +703,8 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Trodal",
-        "url": "https://open.spotify.com/album/3NJujcbx0smsffJx4vOode"
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 208057,
-      "name": "V\u00e4gsj\u00e4l",
-      "url": "https://open.spotify.com/track/28258RcG0K7cj4LirbIYlm"
+      "duration_ms": 233934,
+      "name": "Bida Din Tid",
+      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -775,18 +775,22 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "G\u00f6r Det \u00c4nd\u00e5",
-        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
+        "name": "Baluns",
+        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
       },
       "artists": [
         {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Dirty Jens",
+          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
         }
       ],
-      "duration_ms": 212786,
-      "name": "Vakna",
-      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
+      "duration_ms": 155294,
+      "name": "Baluns",
+      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -811,22 +815,18 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Baluns",
-        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
+        "name": "G\u00f6r Det \u00c4nd\u00e5",
+        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Dirty Jens",
-          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
         }
       ],
-      "duration_ms": 155294,
-      "name": "Baluns",
-      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
+      "duration_ms": 212786,
+      "name": "Vakna",
+      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
     },
     {
       "added_at": "2022-10-10 21:18:00",

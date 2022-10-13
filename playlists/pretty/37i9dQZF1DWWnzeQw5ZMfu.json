@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 41529,
+  "num_followers": 41600,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgwOTIwMSwwMDAwMDAwMGQ2ZGJiMGQ0MDljZjg4ODUzNWFmODg3NTczYzZjYTgz",
+  "snapshot_id": "MTY2MDgwOTIwMSwwMDAwMDAwMDdhNjVmN2U0NTJjZjlmNTAzMDFjYzI1OWIyY2YyOThj",
   "tracks": [
     {
       "added_at": "2022-08-09 09:45:24",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "You're The One That I Want - Live",
-      "url": "https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
         "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 337920,
       "name": "It Must Have Been Love - Live from Santiago 2012",
       "url": "https://open.spotify.com/track/2LR6DrmvCAIAnL0eCftTQg"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "You're The One That I Want - Live",
+      "url": "https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 298051,
-      "name": "Praying For Time - Live",
-      "url": "https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Shakira Oral Fixation Tour (Live)",
         "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 436026,
       "name": "Hips Don't Lie (feat. Wyclef Jean) - Live - December 2006",
       "url": "https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 298051,
+      "name": "Praying For Time - Live",
+      "url": "https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Shakira In Concert: El Dorado World Tour",
+        "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 340880,
+      "name": "She Wolf - El Dorado World Tour Live",
+      "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "Jason Mraz's Beautiful Mess: Live on Earth",
         "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 200826,
       "name": "Lucky (feat. Colbie Caillat) - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
       "url": "https://open.spotify.com/track/7FMqPuhsyqfA65Mw0QgU1i"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Shakira In Concert: El Dorado World Tour",
-        "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 340880,
-      "name": "She Wolf - El Dorado World Tour Live",
-      "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 304973,
-      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Progress Live",
         "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 314240,
       "name": "Back For Good - Progress Tour Live / 2011",
       "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "BADLANDS (Live From Webster Hall)",
-        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 199829,
-      "name": "New Americana - Live From Webster Hall",
-      "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "A New Day...Live In Las Vegas",
         "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 256866,
       "name": "I'm Alive - Live",
       "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "BADLANDS (Live From Webster Hall)",
+        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 199829,
+      "name": "New Americana - Live From Webster Hall",
+      "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
     }
   ],
   "unique_name": "Pop Live",

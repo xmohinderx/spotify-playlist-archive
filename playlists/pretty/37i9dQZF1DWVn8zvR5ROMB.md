@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Justin Moore and Priscilla Block, Restless Road and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,442 likes - 63 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,607 likes - 63 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 56 | [Somebody Tonight](https://open.spotify.com/track/1L7MPKQFZF5z6Z2c8qw8hw) | [Cort Carpenter](https://open.spotify.com/artist/6lfRjPeIhzhxRovhoTGtsn) | [Somebody Tonight](https://open.spotify.com/album/4z331KAcpGbbNNav8Po25q) | 2:48 |
 | 57 | [Until the Morning](https://open.spotify.com/track/4EHZ8Nt8vCe7b4LpQm6SzH) | [Dylan David Fader](https://open.spotify.com/artist/1kFpdTetDdgggUpA8G3723) | [Until the Morning](https://open.spotify.com/album/5TOLK1D7PM2BEpVZWBDlo8) | 3:28 |
 | 58 | [Always Moving On](https://open.spotify.com/track/3LX8mj2ryIgXFrXUmZJjvN) | [Brandon Ratcliff](https://open.spotify.com/artist/3nUBs75tDCL2pzPZGHoljy) | [Always Moving On](https://open.spotify.com/album/4KdDjjIRGI7LDV0yPMyxVf) | 3:12 |
-| 59 | [You Could Break My Heart \(feat\. Lauren Weintraub\)](https://open.spotify.com/track/2bAZn47QF9dbLZwCO2L1Ki) | [Huey Mack](https://open.spotify.com/artist/5l5JD2LJPnIoVeco82Tk4q), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [You Could Break My Heart \(feat\. Lauren Weintraub\)](https://open.spotify.com/album/5LoNNu9Q7IXRvxGdho19UH) | 3:42 |
+| 59 | [You Could Break My Heart \(feat\. Lauren Weintraub\)](https://open.spotify.com/track/2bAZn47QF9dbLZwCO2L1Ki) | [Huey Mack](https://open.spotify.com/artist/5l5JD2LJPnIoVeco82Tk4q), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [You Could Break My Heart \(feat\. Lauren Weintraub\)](https://open.spotify.com/album/5LoNNu9Q7IXRvxGdho19UH) | 3:35 |
 | 60 | [Ain't Too Late](https://open.spotify.com/track/1DctDZpyDNAu27gOFDyh1b) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Ain't Too Late](https://open.spotify.com/album/2nZuAdXy7JRntdv6p8QShg) | 2:54 |
 | 61 | [Looking out for You](https://open.spotify.com/track/6e2YY1akl0xsNcfHniBpbm) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [Looking out for You](https://open.spotify.com/album/4zn15PsAdzlbLHqYfdw999) | 3:11 |
 | 62 | [So Far Away](https://open.spotify.com/track/56IwjNZOKanFXIHh0PoL2f) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [So Far Away](https://open.spotify.com/album/5Twb0YfYBjqaQDs9ABe1mV) | 3:49 |

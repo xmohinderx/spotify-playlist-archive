@@ -1,12 +1,12 @@
 {
   "description": "Hot noise for summer days.",
-  "num_followers": 27397,
+  "num_followers": 27407,
   "original_name": "Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjkyOTIyNCwwMDAwMDAwMDQ4MTQ5YmIzODQ5NmUxNmUwOWI4NjljMDUyNDNlMmE5",
+  "snapshot_id": "MTY1NjkyOTIyNCwwMDAwMDAwMGU4NDBhYmIwOTRmMTljMGNhY2MxYzM3NmViNDhkNjdh",
   "tracks": [
     {
       "added_at": "2022-04-01 17:23:34",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 195951,
-      "name": "You Stupid Bitch",
-      "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "Holy Fire",
         "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
@@ -191,22 +175,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "FANDOM",
-        "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 133351,
-      "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
-      "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
@@ -219,6 +187,22 @@
       "duration_ms": 212853,
       "name": "Rose-Colored Boy",
       "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "FANDOM",
+        "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 133351,
+      "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
+      "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -351,22 +335,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 167365,
-      "name": "cotton candy",
-      "url": "https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -379,6 +347,22 @@
       "duration_ms": 284798,
       "name": "Hey Gringo",
       "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 167365,
+      "name": "cotton candy",
+      "url": "https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps"
     },
     {
       "added_at": "2022-06-17 12:12:36",
@@ -547,6 +531,22 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
+        "name": "Everything's Electric",
+        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "Everything's Electric",
+      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
-        "name": "Everything's Electric",
-        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Everything's Electric",
-      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -763,22 +747,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "This is Our Life",
-        "url": "https://open.spotify.com/album/7GIxrgLPIKexc7d5FwNtuX"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 224306,
-      "name": "This is Our Life",
-      "url": "https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "What Did You Think When You Made Me This Way?",
         "url": "https://open.spotify.com/album/6qP4UnWRNlBMdsqanPhFuJ"
       },
@@ -791,6 +759,22 @@
       "duration_ms": 208133,
       "name": "Forever & Ever More",
       "url": "https://open.spotify.com/track/0GCENWl11MluqJbz1Dqm0i"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "This is Our Life",
+        "url": "https://open.spotify.com/album/7GIxrgLPIKexc7d5FwNtuX"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 224306,
+      "name": "This is Our Life",
+      "url": "https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -883,22 +867,6 @@
       "duration_ms": 194789,
       "name": "Rage (feat. Travis Barker and Aimee Interrupter of The Interrupters)",
       "url": "https://open.spotify.com/track/7Eta7z7ofiykxOyk9HVWij"
-    },
-    {
-      "added_at": "2022-06-17 12:12:36",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 216547,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -1297,6 +1265,22 @@
       "url": "https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7"
     },
     {
+      "added_at": "2022-06-17 12:12:36",
+      "album": {
+        "name": "ACT I & II",
+        "url": "https://open.spotify.com/album/03V8BTCJiId2kr7HktYpJb"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 216547,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4h29sbk9D6LsjFPrOw6CZn"
+    },
+    {
       "added_at": "2022-04-01 17:23:34",
       "album": {
         "name": "The Knife",
@@ -1327,6 +1311,22 @@
       "duration_ms": 168253,
       "name": "Anything",
       "url": "https://open.spotify.com/track/6gjiOko3nMCSgZciFm7zpX"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "Gone Are The Good Days",
+        "url": "https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2"
+      },
+      "artists": [
+        {
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Complete You",
+      "url": "https://open.spotify.com/track/6Gfz0ojUwlcQv2CUeaD2Pq"
     }
   ],
   "unique_name": "Summer Rock",

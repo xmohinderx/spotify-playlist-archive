@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. Bladee
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,945 likes - 129 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,120 likes - 129 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 49 | [cabin fever](https://open.spotify.com/track/3c3oUMxOr2cVFBY6V3v08C) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [cabin fever](https://open.spotify.com/album/5vBNS1doHgvNiV0XbncVZ6) | 1:13 |
 | 50 | [reasons](https://open.spotify.com/track/0Zkgu2BputAbvd1HhoXMQC) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [reasons](https://open.spotify.com/album/3Zy4PSc2ucpzhO8YzQLYJC) | 5:00 |
 | 51 | [stay away \(do you think it gets better?\)](https://open.spotify.com/track/2gexTEQ9VoVvVq776ImBUQ) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [stay away \(do you think it gets better?\)](https://open.spotify.com/album/0WKkH7ThSeVmk94kQ4vaHJ) | 1:33 |
-| 52 | [MAKE U 3 ME](https://open.spotify.com/track/0OWLrL8FBvdxUmW0875LIx) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [MAKE U 3 ME](https://open.spotify.com/album/6A68pudOFLyCfYCVpG7LaS) | 3:02 |
+| 52 | [MAKE U 3 ME](https://open.spotify.com/track/49IOKR62Do5CItTkB7sB4c) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [MAKE U 3 ME](https://open.spotify.com/album/6Ik7T8xdpPqZvcI0g74a2h) | 3:02 |
 | 53 | [MISA & LIGHT](https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr) | [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k), [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [Hen848](https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo) | [MISA & LIGHT](https://open.spotify.com/album/3VuoJuyQGrWF3r1X3zZHLY) | 2:50 |
 | 54 | [shooting star](https://open.spotify.com/track/6cutZu2pvxF6yTfB9zhuV6) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [shooting star](https://open.spotify.com/album/3hIW6mxTBNcuejh80gkqhI) | 2:18 |
 | 55 | [Naked](https://open.spotify.com/track/4bnMjvwpv1eVUn0xz8sItQ) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Superstar](https://open.spotify.com/album/2nWaVG4ZaLj1J41LBBwzLA) | 3:25 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 128 | [Chaeri \- Danny L Harle Remix](https://open.spotify.com/track/7J7RRxuYT8HYl41NqSO63P) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Chaeri \(Danny L Harle Remix\)](https://open.spotify.com/album/1p9eQZIVql8ZbVVVYay9HD) | 3:22 |
 | 129 | [nvr](https://open.spotify.com/track/6RzQkHU58a2nkI8yTRFjoh) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [nvr](https://open.spotify.com/album/2Dx2EbRyuEnR6bSY7Bk8K6) | 2:44 |
 
-Snapshot ID: `MTY2NTExODU2MCwwMDAwMDAwMDdmZTVlM2YzZDE5MDU2NWVmMDg1NzkxZTBjNjEwODdj`
+Snapshot ID: `MTY2NTExODU2MCwwMDAwMDAwMDljMWRjYjdlNTBmNmMyODEzZGE4MTM0MTkzMzQwMWY1`

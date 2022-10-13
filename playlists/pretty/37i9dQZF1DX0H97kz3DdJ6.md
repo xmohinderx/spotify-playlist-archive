@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil/Number Teddie
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,178 likes - 83 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,205 likes - 83 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 10 | [Me Sinto Feio](https://open.spotify.com/track/3gNq7VguwQLV4Xfj5HDAi3) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Me Sinto Feio](https://open.spotify.com/album/2YtiZtDUwFhK84M5RVW6gj) | 3:09 |
 | 11 | [Diário de um Ex\-Amor](https://open.spotify.com/track/76JTOcSuSbj0ZeAqIVnl56) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Kayno](https://open.spotify.com/artist/1HwPQ8sTeEufVDCt2XfLlb), [Firee](https://open.spotify.com/artist/6hlcifXN2YLzpRIg8wvJIP) | [Diário de um Ex\-Amor](https://open.spotify.com/album/5GXgV5Ub8lKMAMRz8Ggd9E) | 2:20 |
 | 12 | [Faltam Palavras](https://open.spotify.com/track/4TnbzKpiC9Us4I6E71o0uz) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE) | [Faltam Palavras](https://open.spotify.com/album/1XnHyT1lXkLZc9UQYizWiC) | 2:43 |
-| 13 | [this is what sadness feels like](https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:11 |
+| 13 | [this is what sadness feels like](https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:11 |
 | 14 | [Movimento](https://open.spotify.com/track/58UHu0BkydzUIOcp1Gru3H) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Movimento](https://open.spotify.com/album/3CsfvJspB9VavWbHTdeB8f) | 2:53 |
 | 15 | [Eu Odeio Amar Você](https://open.spotify.com/track/72ABPmfEqqoVGpPniqbuaC) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Eu Odeio Amar Você](https://open.spotify.com/album/2F9ahQk5nNNyDLSzJmVWLu) | 3:22 |
 | 16 | [Vazio Existencial](https://open.spotify.com/track/5L2qdvLOqZ6VtLJTm1jmfl) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Kayno](https://open.spotify.com/artist/1HwPQ8sTeEufVDCt2XfLlb) | [Vazio Existencial](https://open.spotify.com/album/4nH3T3kvlGk9Jc7stU1n0G) | 2:35 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 82 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 |
 | 83 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 |
 
-Snapshot ID: `MTY2NTE1OTc4NywwMDAwMDAwMGNmNGJlOGUzYWZjODkwNjVkOTA2NGJhODkwMTVkZjEw`
+Snapshot ID: `MTY2NTE1OTc4NywwMDAwMDAwMDYwNjEzNDUwZDM0OGY0ZjNiOTA3NDQ0NTY0OWRiYzZk`

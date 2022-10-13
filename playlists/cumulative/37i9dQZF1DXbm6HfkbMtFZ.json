@@ -1609,6 +1609,24 @@
     {
       "album": {
         "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231965,
+      "name": "Crying Shame",
+      "url": "https://open.spotify.com/track/0VBKbgt7Q8fvR4B5DrvVph"
+    },
+    {
+      "album": {
+        "name": "Half Mile Harvest",
         "url": "https://open.spotify.com/album/5z4DOERCGnhGHovVe1RuXh"
       },
       "artists": [
@@ -3170,6 +3188,24 @@
     },
     {
       "album": {
+        "name": "Some Twist",
+        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138097,
+      "name": "I Root",
+      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
+    },
+    {
+      "album": {
         "name": "The Hi Records Singles Collection",
         "url": "https://open.spotify.com/album/6gFbwjfZlO5NKSFD5THsSJ"
       },
@@ -3589,7 +3625,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 214893,
       "name": "Just Another Honky",
       "url": "https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es"
@@ -4083,7 +4119,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 201873,
       "name": "Look At What the Light Did Now",
       "url": "https://open.spotify.com/track/4CeJERRqKjaZXrNmbYJncu"
@@ -4123,7 +4159,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 272333,
       "name": "Loose Tonight",
       "url": "https://open.spotify.com/track/3PE4AQbEvRXZf8Vdj1ph1V"
@@ -5009,7 +5045,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 201988,
       "name": "Obvious Guy",
       "url": "https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea"
@@ -5171,7 +5207,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 253165,
       "name": "Only the Wild Ones",
       "url": "https://open.spotify.com/track/0ErpHxNt1kTyCQGlh43wr1"
@@ -7643,7 +7679,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 162280,
       "name": "Watch What Happens",
       "url": "https://open.spotify.com/track/5pLYbOJYUHdnim9lbjhN2C"

@@ -737,7 +737,7 @@
     {
       "album": {
         "name": "Apollo XXI",
-        "url": "https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE"
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
       },
       "artists": [
         {
@@ -748,6 +748,24 @@
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+    },
+    {
+      "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 224444,
       "name": "N Side",
       "url": "https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz"

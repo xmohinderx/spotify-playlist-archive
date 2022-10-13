@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2022\. Esteban Gabriel en portada.
 
-193 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
+194 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [El Gabito](https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Gabito](https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR) | 2:43 | 2022-09-02 |  |
 | [El Gucci \(En Vivo\)](https://open.spotify.com/track/1GYgWRnEmggyY0LcyXH8CC) | [Miguel Gonzalez](https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Gucci \(En Vivo\)](https://open.spotify.com/album/5nQ52DxbePaKViVUyPUcGj) | 3:56 | 2022-07-15 | 2022-09-03 |
 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2022-07-15 |  |
-| [El Jami](https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S) | [Grupo 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO) | 2:59 | 2022-08-29 |  |
+| [El Jami](https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S) | [Grupo 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO) | 2:59 | 2022-08-29 | 2022-10-13 |
+| [El Jami](https://open.spotify.com/track/0v4ySxml0fwgYJAYazBBJB) | [Grupo 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/1nRul8PMSoyoLfdJ2JDgne) | 2:59 | 2022-09-23 |  |
 | [El JR 01](https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [El JR 01](https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT) | 4:02 | 2022-07-29 | 2022-09-03 |
 | [El Mago De La Sierra](https://open.spotify.com/track/2qswq3CUicWehvXi7MUzee) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Mago De La Sierra](https://open.spotify.com/album/0RGlldh6E8O3TnD8sOixFp) | 4:15 | 2022-08-19 | 2022-09-03 |
 | [El Mediano](https://open.spotify.com/track/5FCinSrYAOVPYS4Q9q87rb) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Kompa Marley](https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea) | [El Mediano](https://open.spotify.com/album/4bFy6VPzY7WVovKbE4ssDI) | 2:24 | 2022-08-19 | 2022-09-03 |

@@ -1389,6 +1389,32 @@
     {
       "album": {
         "name": "Pounce",
+        "url": "https://open.spotify.com/album/4aPyjcIQmlVzXuePvMBID7"
+      },
+      "artists": [
+        {
+          "name": "FLOHIO",
+          "url": "https://open.spotify.com/artist/7qffELscxpltKCso3ByH67"
+        },
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Cadenza",
+          "url": "https://open.spotify.com/artist/1bNzXbgsvRae7iPvgdwLsh"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204714,
+      "name": "Pounce",
+      "url": "https://open.spotify.com/track/0wdgTXpl7C4Y1bCDSGObH1"
+    },
+    {
+      "album": {
+        "name": "Pounce",
         "url": "https://open.spotify.com/album/0jCZQwU8ez3ozZVjNvW9um"
       },
       "artists": [
@@ -1433,7 +1459,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 204714,
       "name": "Pounce",
       "url": "https://open.spotify.com/track/3SrEARFQQeB1jPvcdY0TzR"

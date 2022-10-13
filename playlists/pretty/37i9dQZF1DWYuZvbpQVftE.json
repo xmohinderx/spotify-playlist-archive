@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 11440,
+  "num_followers": 11458,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMDdjZmMxZjcyZDE0NjNjZGE1YmJhZDgyYzczY2IxN2Jh",
+  "snapshot_id": "MTY2NTEzMjQ4MSwwMDAwMDAwMDI4MmFhYjRmODBlY2ZjN2NmMDdlNGI2ZDg4ZjllZTk2",
   "tracks": [
     {
       "added_at": "2022-10-07 08:48:01",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "The Latin Side Of Vince Guaraldi",
-        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Star Song",
-      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
         "name": "Four!",
         "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 294600,
       "name": "Thou Swell",
       "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
+        "name": "The Latin Side Of Vince Guaraldi",
+        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
     },
     {
       "added_at": "2022-10-07 08:48:01",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-10-07 08:48:01",
       "album": {
-        "name": "This Is How I Feel About Jazz",
-        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 340773,
-      "name": "Stockholm Sweetnin'",
-      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
-    },
-    {
-      "added_at": "2022-10-07 08:48:01",
-      "album": {
         "name": "Chico Hamilton Quintet In Hi-Fi",
         "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 219760,
       "name": "The Wind",
       "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+    },
+    {
+      "added_at": "2022-10-07 08:48:01",
+      "album": {
+        "name": "This Is How I Feel About Jazz",
+        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 340773,
+      "name": "Stockholm Sweetnin'",
+      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
     },
     {
       "added_at": "2022-10-07 08:48:01",

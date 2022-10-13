@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-963 songs - 2 day 5 hr 36 min - [published](https://open.spotify.com/playlist/3Rgnj48dhQD0TIHePADQ4d)
+964 songs - 2 day 5 hr 38 min - [published](https://open.spotify.com/playlist/3Rgnj48dhQD0TIHePADQ4d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [A Tale By Quincy](https://open.spotify.com/track/759ndr57jb0URg4j9YSWml) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-08 | 2022-01-13 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-24 | 2022-05-11 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-03 | 2022-07-17 |
-| [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-16 |  |
+| [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-16 | 2022-10-13 |
 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 | 2021-05-21 | 2021-06-02 |
 | [Af hverju er enginn hérna reiður nema ég?](https://open.spotify.com/track/2hvtHjHv1zwA0bxLdfulMG) | [kef LAVÍK](https://open.spotify.com/artist/6Z8ft9FEbj1ECFHEWfR9Ku), [Big Hamka](https://open.spotify.com/artist/5CizCtfww3srtVFOMPlZGS) | [Eilífur snjór í augunum](https://open.spotify.com/album/4q5wDVKZaUHsgWMFutpQOL) | 2:41 | 2021-08-29 | 2021-08-30 |
 | [Afgan](https://open.spotify.com/track/3T7Dil6DmABypEgSrKrLnv) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Fingraför](https://open.spotify.com/album/7p8toyIHleb6ZiLRaxE0aB) | 5:24 | 2021-03-29 | 2022-04-21 |
@@ -643,6 +643,7 @@
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-09 |
 | [Planið](https://open.spotify.com/track/0IzM8sxWJMvAcMEwGa2UDj) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL) | [ISSI DEPOSIT](https://open.spotify.com/album/0LE9qiDtWAiIIzB9BUZljo) | 2:21 | 2021-12-05 | 2021-12-09 |
 | [please don't trust me](https://open.spotify.com/track/2OjHNAk9fzdpuoCv1gfQV8) | [ClubDub](https://open.spotify.com/artist/5A5hVxY3BogJUch1IUcuw7) | [clubdub ungir snillar](https://open.spotify.com/album/7z9zv8ZCZxnvVsX3Pl5eLi) | 2:22 | 2021-07-11 | 2021-08-31 |
+| [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-12 |  |
 | [poochie gown](https://open.spotify.com/track/5UwA4sYMyaLALd3F2hUgjR) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:21 | 2022-01-08 | 2022-01-10 |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-05-28 | 2022-06-05 |
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2021-10-13 | 2021-11-19 |

@@ -4,7 +4,7 @@
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-155 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/1uamJwZjgxkyJHjt785hKa)
+156 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/1uamJwZjgxkyJHjt785hKa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Silhouettes](https://open.spotify.com/track/0XyzWblB7CbLVVIPlf7ZJk) | [Tambour](https://open.spotify.com/artist/4AiSaEOdhGLXyM1UGObDdi) | [Silhouettes](https://open.spotify.com/album/1JQXIhSibWiAVIWTJXP6Z7) | 7:36 | 2021-02-06 | 2022-07-29 |
 | [Super ordinaire](https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u) | [TRICOT MACHINE](https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7) | [Tricot machine](https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe) | 3:23 | 2021-02-06 |  |
 | [Ta Chance](https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU) | [Nerina Pallot](https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK) | [Ta Chance](https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T) | 4:28 | 2021-02-06 |  |
-| [Throes](https://open.spotify.com/track/4ML6c9GgZbCEf1XTHzZCXd) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n), [Dylan Phillips](https://open.spotify.com/artist/5hH80bWKv0SEYAFlESiiQP) | [Sun Leads Me On](https://open.spotify.com/album/5JX80KwJlB847fFVrQxNPV) | 0:54 | 2021-02-06 |  |
+| [Throes](https://open.spotify.com/track/1gHFlTISmwfVsmGLt9fzcj) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n), [Dylan Phillips](https://open.spotify.com/artist/5hH80bWKv0SEYAFlESiiQP) | [Sun Leads Me On](https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK) | 0:54 | 2021-02-06 |  |
+| [Throes](https://open.spotify.com/track/4ML6c9GgZbCEf1XTHzZCXd) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n), [Dylan Phillips](https://open.spotify.com/artist/5hH80bWKv0SEYAFlESiiQP) | [Sun Leads Me On](https://open.spotify.com/album/5JX80KwJlB847fFVrQxNPV) | 0:54 | 2021-02-06 | 2022-10-13 |
 | [Throes](https://open.spotify.com/track/5mBkv8yj6OIN7E8Td1LcMC) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n), [Dylan Phillips](https://open.spotify.com/artist/5hH80bWKv0SEYAFlESiiQP) | [Sun Leads Me On](https://open.spotify.com/album/524nTFaECBD4ftiDNLYDKM) | 0:54 | 2021-02-06 | 2022-07-29 |
 | [Trente ans](https://open.spotify.com/track/4i3MtW5nk16Ct5lzeI9x1s) | [Laurence Hélie](https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE) | [À présent le passé](https://open.spotify.com/album/04FLJLihX94PnInFUonkY5) | 4:29 | 2021-02-06 | 2022-07-29 |
 | [Trente ans](https://open.spotify.com/track/6r3cIFIGFvyPSfUr5Zo3TH) | [Laurence Hélie](https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE) | [À présent le passé](https://open.spotify.com/album/0bOhCZxJxzmagub38daJi4) | 4:29 | 2021-02-06 |  |

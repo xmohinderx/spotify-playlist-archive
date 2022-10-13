@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,073 likes - 126 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,144 likes - 126 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 75 | [Hello World](https://open.spotify.com/track/4Z3dv0ea4R11kqqBkFV1nQ) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Hello World](https://open.spotify.com/album/2FQxYhaN3AULlomg0TNefH) | 4:31 |
 | 76 | [Blood Moon](https://open.spotify.com/track/3hc3l7HTFkssQZ5kiMRQOJ) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [Blood Moon](https://open.spotify.com/album/4fSMRqzD5cbXuGGjUC3z6O) | 3:22 |
 | 77 | [STATUES \(v2\)](https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [STATUES \(v2\)](https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH) | 4:53 |
-| 78 | [lipstick](https://open.spotify.com/track/308sxRJm5aLy3tuEGQOeMp) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [DOOMED](https://open.spotify.com/album/16Q1K1wcD7dFBzOADTvdDZ) | 3:23 |
+| 78 | [lipstick](https://open.spotify.com/track/1mo0KiCkdaVV3i9Jhsu82o) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [DOOMED](https://open.spotify.com/album/2Rvn0NG5DRDxIFGWscilpi) | 3:23 |
 | 79 | [Beachtown](https://open.spotify.com/track/1hiN1elmKq5lK4cepuFhrP) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Beachtown](https://open.spotify.com/album/425tOEXepyVo5xnKObzq5h) | 3:54 |
 | 80 | [Heaven Bends](https://open.spotify.com/track/3zefDfolQqBb1cKEYVv289) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J) | [Heaven Bends](https://open.spotify.com/album/4DaPxz8GiNxHNFbUNpdpdr) | 4:37 |
 | 81 | [lord](https://open.spotify.com/track/6qChjd3xCRVFylEhH6CJmD) | [Mobley](https://open.spotify.com/artist/6ZGf9hyQy1jpBZFb7nBWcP) | [Cry Havoc!](https://open.spotify.com/album/6XZpuctNAvmpzxnGfSY2os) | 2:08 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [Better With](https://open.spotify.com/track/1O1GLjtl8cMiTLWWLU9hQc) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Better With](https://open.spotify.com/album/74RwAWj0wKofIBAyDLrxPS) | 2:43 |
 | 126 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 |
 
-Snapshot ID: `MTY2NTE2MjIxNCwwMDAwMDAwMDVmMjc5NDRiZmEwZjRmNmU3ODQzNmJjNzk1ZDQyOWQx`
+Snapshot ID: `MTY2NTE2MjIxNCwwMDAwMDAwMGMxZTAyOTVlOGZhMTQ1ZWMzYWU0YWMwNTU5YWQ2MDc1`

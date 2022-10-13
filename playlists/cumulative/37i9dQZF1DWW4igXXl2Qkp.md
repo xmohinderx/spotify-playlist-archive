@@ -4,7 +4,7 @@
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Anti Da Menace
 
-501 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+502 songs - 22 hr 22 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,8 @@
 | [Shisha](https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 | 2022-01-13 | 2022-02-10 |
 | [SIDEWAYS](https://open.spotify.com/track/7851KeFyRMfXN0Qux5dFRL) | [Aldeezy](https://open.spotify.com/artist/7JHZnBE9nSxBz9OLdBlmU1) | [SIDEWAYS](https://open.spotify.com/album/6xFfweLQOsikby2Q0epRas) | 2:20 | 2022-06-30 | 2022-08-12 |
 | [Since I Got On](https://open.spotify.com/track/5Z4GK9abBnD6QVJijpatvU) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [fernospazzin](https://open.spotify.com/artist/6O9CfRjEddj1DVd3G2CE7l) | [Since I Got On](https://open.spotify.com/album/5DR2ESxbSSoChc8cII9smz) | 2:40 | 2021-12-01 | 2022-01-14 |
-| [SINCERELY](https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [SINCERELY](https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0) | 3:04 | 2022-09-14 |  |
+| [SINCERELY](https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [SINCERELY](https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0) | 3:04 | 2022-09-14 | 2022-10-13 |
+| [SINCERELY](https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 3:04 | 2022-09-14 |  |
 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2022-07-27 | 2022-08-25 |
 | [Skate](https://open.spotify.com/track/1A0msuvhMnM2FcVgx6Sec2) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Ascension \(Deluxe\) – Virtual World 2](https://open.spotify.com/album/6vfyj8L1dnjGJbon4gWS8c) | 2:19 | 2021-12-01 | 2022-01-14 |
 | [skinny jeans & rick owens](https://open.spotify.com/track/7ipiu6AX4PSEZC0n0IouGP) | [Suigeneris](https://open.spotify.com/artist/4Y9WLkcmY5hFef5bFV8gNf) | [skinny jeans & rick owens](https://open.spotify.com/album/4qSwISAp6oU0ydUYKHqsER) | 2:04 | 2022-03-16 | 2022-04-14 |

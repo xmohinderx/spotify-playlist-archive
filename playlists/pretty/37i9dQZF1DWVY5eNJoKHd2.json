@@ -1,15 +1,15 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 515437,
+  "num_followers": 516277,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODU2MCwwMDAwMDAwMDc2N2Q5YjExZGQ3Y2U1NTBlYmQzNWIwMGI1OGM0MGMw",
+  "snapshot_id": "MTY2NTExODU2MCwwMDAwMDAwMDg4YWMxYmVkNzQ2YTQyZDdjNDM2NDExNDU3ODUyNmYw",
   "tracks": [
     {
-      "added_at": "2022-10-12 01:34:49",
+      "added_at": "2022-10-13 01:25:59",
       "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
@@ -256,7 +256,7 @@
       "added_at": "2022-09-15 19:29:15",
       "album": {
         "name": "Hues",
-        "url": "https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0"
+        "url": "https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09"
       },
       "artists": [
         {
@@ -266,7 +266,7 @@
       ],
       "duration_ms": 150182,
       "name": "Icarus",
-      "url": "https://open.spotify.com/track/1iSOrS6dfgPvENu0G4WhAd"
+      "url": "https://open.spotify.com/track/0rlX8acfJKPQ3NVHjxR7ml"
     },
     {
       "added_at": "2022-09-15 19:29:15",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-09-15 19:29:15",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
-    },
-    {
-      "added_at": "2022-09-15 19:29:15",
-      "album": {
         "name": "Pretty Girl",
         "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 178352,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
+    },
+    {
+      "added_at": "2022-09-15 19:29:15",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
     },
     {
       "added_at": "2022-09-15 19:29:15",

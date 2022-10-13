@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 83785,
+  "num_followers": 83806,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA1NTgwNCwwMDAwMDAwMDc4OTllYjdiZjMxZWI5OWJjZjcxMzQyZWVmYzZiY2Ux",
+  "snapshot_id": "MTY2NTA1NTgwNCwwMDAwMDAwMGI2OTM4NDM1OTYyYTM4NGIyNmI2NDg1NWUzYjhhZmFi",
   "tracks": [
     {
       "added_at": "2022-08-30 15:34:49",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2022-08-30 15:34:49",
       "album": {
+        "name": "LOKKO",
+        "url": "https://open.spotify.com/album/4rnvgJNI65psp1SwM4gzve"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "LOKKO",
+      "url": "https://open.spotify.com/track/2xRyucSeonJTOAK8EBKFuC"
+    },
+    {
+      "added_at": "2022-08-30 15:34:49",
+      "album": {
         "name": "No Llores M\u00e1s",
         "url": "https://open.spotify.com/album/5yBVHG6wgeyZjRxYQPRQs8"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 169806,
       "name": "No Llores M\u00e1s",
       "url": "https://open.spotify.com/track/0C3hl4giyPEnDQf2IlWpk2"
-    },
-    {
-      "added_at": "2022-08-30 15:34:49",
-      "album": {
-        "name": "LOKKO",
-        "url": "https://open.spotify.com/album/4rnvgJNI65psp1SwM4gzve"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "LOKKO",
-      "url": "https://open.spotify.com/track/2xRyucSeonJTOAK8EBKFuC"
     },
     {
       "added_at": "2022-08-30 15:34:49",

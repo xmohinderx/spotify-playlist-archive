@@ -5923,10 +5923,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 225278,
       "name": "ILY2",
       "url": "https://open.spotify.com/track/6TFNpbspD3whCDW98LvMSY"
+    },
+    {
+      "album": {
+        "name": "ILY2",
+        "url": "https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225278,
+      "name": "ILY2",
+      "url": "https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr"
     },
     {
       "album": {
@@ -6349,6 +6367,24 @@
       "duration_ms": 188506,
       "name": "Keeper",
       "url": "https://open.spotify.com/track/5IGU1JWZSHU6ivB7pYxONX"
+    },
+    {
+      "album": {
+        "name": "Goose Bumps",
+        "url": "https://open.spotify.com/album/54WA4vkcrqGV7Jo7vLCevE"
+      },
+      "artists": [
+        {
+          "name": "Boyscott",
+          "url": "https://open.spotify.com/artist/3WPt7OfKDirWGEDH9kHahw"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147939,
+      "name": "Killer Whale",
+      "url": "https://open.spotify.com/track/3My7lwGD0D1SvJ2JzSipUN"
     },
     {
       "album": {
@@ -7109,7 +7145,7 @@
     {
       "album": {
         "name": "Miracles",
-        "url": "https://open.spotify.com/album/4YAJF85EawIdkZfsxa4NDe"
+        "url": "https://open.spotify.com/album/3MjUsKkgDivwM51Ew1sAgK"
       },
       "artists": [
         {
@@ -7120,6 +7156,24 @@
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196266,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/1aTHfnCCB8RleVKfq5u0bD"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/4YAJF85EawIdkZfsxa4NDe"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 196266,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/2H0Aiqfj2ipE7xAHadLu7M"
@@ -7413,7 +7467,7 @@
     {
       "album": {
         "name": "Never Want to Leave",
-        "url": "https://open.spotify.com/album/4MBWusrHJl4N8FjXiWWbqT"
+        "url": "https://open.spotify.com/album/05QFzhwkX0wMv4KsUiSuUf"
       },
       "artists": [
         {
@@ -7424,6 +7478,24 @@
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 154386,
+      "name": "Never Want to Leave",
+      "url": "https://open.spotify.com/track/2RgHZv1fA9vFEsFouCvvd5"
+    },
+    {
+      "album": {
+        "name": "Never Want to Leave",
+        "url": "https://open.spotify.com/album/4MBWusrHJl4N8FjXiWWbqT"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 154386,
       "name": "Never Want to Leave",
       "url": "https://open.spotify.com/track/5Cwh8m0uYNK7N2JfLOjoTA"

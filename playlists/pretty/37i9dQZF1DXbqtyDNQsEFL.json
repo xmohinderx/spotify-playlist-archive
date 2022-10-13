@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 22356,
+  "num_followers": 22405,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUyMDQzOCwwMDAwMDAwMDhmOTYwODQ4YTNlZjVmZTY3NmMwODZjNGQ5M2U4OWNk",
+  "snapshot_id": "MTY2NDUyMDQzOCwwMDAwMDAwMDRlMmRmYTc4ODVjYWFhZTVjMGRjYmZlYTZiZjYxMDUz",
   "tracks": [
     {
       "added_at": "2022-09-09 09:05:38",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "The Kadosh (Live)",
+        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 364762,
+      "name": "Kadosh",
+      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
+    },
+    {
       "added_at": "2022-06-09 11:11:30",
       "album": {
         "name": "As I Am (with Peter CottonTale)",
@@ -855,22 +871,6 @@
       "duration_ms": 205520,
       "name": "As I Am (with Peter CottonTale)",
       "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "The Kadosh (Live)",
-        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 364762,
-      "name": "Kadosh",
-      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 296751,
-      "name": "Strong Tower",
-      "url": "https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "Who Else",
         "url": "https://open.spotify.com/album/77T5fBnTJSgDT0nHrUseTO"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 296751,
+      "name": "Strong Tower",
+      "url": "https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
         "name": "Nsenkyerene Nyankopon (Live)",
         "url": "https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1"
       },
@@ -1119,42 +1119,6 @@
       "duration_ms": 464677,
       "name": "Nsenkyerene Nyankopon (Live)",
       "url": "https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog"
-    },
-    {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Unbroken",
-        "url": "https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH"
-      },
-      "artists": [
-        {
-          "name": "Waje",
-          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
-        }
-      ],
-      "duration_ms": 209437,
-      "name": "Na Me Be This",
-      "url": "https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "Greatest Lord",
-        "url": "https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        },
-        {
-          "name": "Darlene Zschech",
-          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "King of Glory",
-      "url": "https://open.spotify.com/track/27E4LObyzj6OiszOv221pI"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1179,6 +1143,42 @@
       "duration_ms": 1147000,
       "name": "Great is Your Faithfulness",
       "url": "https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "Greatest Lord",
+        "url": "https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Darlene Zschech",
+          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "King of Glory",
+      "url": "https://open.spotify.com/track/27E4LObyzj6OiszOv221pI"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH"
+      },
+      "artists": [
+        {
+          "name": "Waje",
+          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
+        }
+      ],
+      "duration_ms": 209437,
+      "name": "Na Me Be This",
+      "url": "https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 403560,
-      "name": "Ns3nkyer3ne Nhyankopon",
-      "url": "https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
         "name": "A Great Work",
         "url": "https://open.spotify.com/album/6WL4I0vQ7siPfkjtHbABhp"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 251186,
       "name": "Won't Let Go",
       "url": "https://open.spotify.com/track/2AOk4SEj1TYDbdTwewUQgq"
+    },
+    {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 403560,
+      "name": "Ns3nkyer3ne Nhyankopon",
+      "url": "https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1369,6 +1369,22 @@
       "url": "https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg"
     },
     {
+      "added_at": "2022-06-09 11:11:30",
+      "album": {
+        "name": "Messengers",
+        "url": "https://open.spotify.com/album/0upBIxCFfX69fL1uB0NhTO"
+      },
+      "artists": [
+        {
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        }
+      ],
+      "duration_ms": 288654,
+      "name": "Messengers",
+      "url": "https://open.spotify.com/track/16QyjYsEnTcPhmpjqTg1Ad"
+    },
+    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "Worship Medley",
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2022-06-09 11:11:30",
       "album": {
-        "name": "Messengers",
-        "url": "https://open.spotify.com/album/0upBIxCFfX69fL1uB0NhTO"
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
       },
       "artists": [
         {
-          "name": "Chidiya Ohiagu",
-          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
         }
       ],
-      "duration_ms": 288654,
-      "name": "Messengers",
-      "url": "https://open.spotify.com/track/16QyjYsEnTcPhmpjqTg1Ad"
+      "duration_ms": 415920,
+      "name": "Nara Testimony",
+      "url": "https://open.spotify.com/track/4XNERMODQosvkyZwRh0rNg"
     },
     {
       "added_at": "2022-06-09 11:11:30",
@@ -1415,22 +1431,6 @@
       "duration_ms": 397531,
       "name": "Nailed - Live",
       "url": "https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K"
-    },
-    {
-      "added_at": "2022-06-09 11:11:30",
-      "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        }
-      ],
-      "duration_ms": 415920,
-      "name": "Nara Testimony",
-      "url": "https://open.spotify.com/track/4XNERMODQosvkyZwRh0rNg"
     },
     {
       "added_at": "2022-06-09 11:11:30",

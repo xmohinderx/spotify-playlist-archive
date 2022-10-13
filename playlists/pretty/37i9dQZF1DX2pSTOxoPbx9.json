@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 672074,
+  "num_followers": 672316,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU3NDY3MCwwMDAwMDAwMDQ4OWQ2NDI0NDIwNDM1Zjg4NjQyMDlkMmRlMmU4YzM3",
+  "snapshot_id": "MTY1NzU3NDY3MCwwMDAwMDAwMGRjOTY2ODczZDU2MDFmZTQ0ZDdjMDFhMzA5MTY1OGRk",
   "tracks": [
     {
       "added_at": "2022-07-11 21:24:30",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Agape",
-        "url": "https://open.spotify.com/album/4baa1BQ5dRO8Bsvjnt3FwH"
+        "name": "Run, Lucifer",
+        "url": "https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal"
       },
       "artists": [
         {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+          "name": "Adna",
+          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
         }
       ],
-      "duration_ms": 285677,
-      "name": "When You Break",
-      "url": "https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU"
+      "duration_ms": 176167,
+      "name": "Beautiful Hell",
+      "url": "https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Run, Lucifer",
-        "url": "https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal"
+        "name": "Agape",
+        "url": "https://open.spotify.com/album/4baa1BQ5dRO8Bsvjnt3FwH"
       },
       "artists": [
         {
-          "name": "Adna",
-          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
         }
       ],
-      "duration_ms": 176167,
-      "name": "Beautiful Hell",
-      "url": "https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3"
+      "duration_ms": 285677,
+      "name": "When You Break",
+      "url": "https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -647,22 +647,6 @@
       "duration_ms": 222600,
       "name": "I Love You, But I Need Another Year",
       "url": "https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -855,22 +839,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Don't You Cry For Me",
-        "url": "https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs"
-      },
-      "artists": [
-        {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
-        }
-      ],
-      "duration_ms": 256333,
-      "name": "Don't You Cry For Me",
-      "url": "https://open.spotify.com/track/6fhEYtnORqxaEoxSrMH2bx"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Take Me to Church EP",
         "url": "https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY"
       },
@@ -883,6 +851,22 @@
       "duration_ms": 218986,
       "name": "Angel of Small Death and the Codeine Scene",
       "url": "https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Don't You Cry For Me",
+        "url": "https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "duration_ms": 256333,
+      "name": "Don't You Cry For Me",
+      "url": "https://open.spotify.com/track/6fhEYtnORqxaEoxSrMH2bx"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -935,22 +919,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Crush (Stripped)",
-        "url": "https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Crush - Stripped",
-      "url": "https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Deaf Heat EP",
         "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
       },
@@ -995,6 +963,22 @@
       "duration_ms": 205614,
       "name": "Rescue My Heart",
       "url": "https://open.spotify.com/track/4mdmOqTv0ZBeHNjT2Pf63n"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Fire of Love",
+        "url": "https://open.spotify.com/album/2FXiYzdQcU5btMt1BfK9UL"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jo Stark",
+          "url": "https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0"
+        }
+      ],
+      "duration_ms": 280497,
+      "name": "Fire of Love",
+      "url": "https://open.spotify.com/track/4lnAR9AH0WZoRUNsOgwHXd"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
+        "name": "Metals",
+        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "How Come You Never Go There",
+      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
         "name": "The Devil's Walk",
         "url": "https://open.spotify.com/album/5EHvg6pPmS7wBzcCjXZIs3"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 266277,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
-        "name": "Metals",
-        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "How Come You Never Go There",
-      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1383,22 +1367,6 @@
       "duration_ms": 288140,
       "name": "B a noBody",
       "url": "https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf"
-      },
-      "artists": [
-        {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
-        }
-      ],
-      "duration_ms": 300960,
-      "name": "My Love Took Me Down To the River To Silence Me",
-      "url": "https://open.spotify.com/track/5wTh0TKsazGQ6iE2wJLOBH"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1655,6 +1623,42 @@
       "duration_ms": 251692,
       "name": "Coming of Age (demo)",
       "url": "https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "William Crighton",
+        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 362280,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 198313,
+      "name": "Ain't No Grave (Sparse)",
+      "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
     }
   ],
   "unique_name": "Dark & Stormy",

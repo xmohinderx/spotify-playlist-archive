@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,640 likes - 113 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,701 likes - 113 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 26 | [Kiss From A Rose](https://open.spotify.com/track/3k3rsujAAKrvCXcyCzFtsU) | [Mustered Courage](https://open.spotify.com/artist/7A2mhKFpbcw6VrN64VPmOY) | [Kiss From A Rose](https://open.spotify.com/album/7FRzhL5VqBkKdo4JWc8vMP) | 2:36 |
 | 27 | [Crocodile Man](https://open.spotify.com/track/59Jutc9omKOR5lrlA4eScj) | [The High 48s](https://open.spotify.com/artist/2J7WvdhzleWvO1XRa5xBZK) | [Crocodile Man](https://open.spotify.com/album/0vBMq00TPJsHCFeXxlffPj) | 3:01 |
 | 28 | [Counting Stars](https://open.spotify.com/track/0QRywzlUdSlC8qtayAEpkD) | [Mountain Faith](https://open.spotify.com/artist/0AOY0FBz2frjClgCdTWOlD) | [Mountain Faith Pop Series](https://open.spotify.com/album/6jn2ods9b838kQ5oQh7WtF) | 1:36 |
-| 29 | [I Believe in a Thing Called Love](https://open.spotify.com/track/6YdSvvnhkppxBNZgdFB301) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:04 |
+| 29 | [I Believe in a Thing Called Love](https://open.spotify.com/track/7kcAK7HvIuHHDHJoGXlSPv) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:04 |
 | 30 | [Big Iron](https://open.spotify.com/track/7ykYzVrLJzL3TgWvLGHrnD) | [Southern Raised](https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH) | [Big Iron](https://open.spotify.com/album/47plHNfuDrN3zubm8Iy2MM) | 4:49 |
 | 31 | [Brain Damage](https://open.spotify.com/track/2dcZFrC8XkdxhVxmb8p2kO) | [The Austin Lounge Lizards](https://open.spotify.com/artist/4O4nf1pPdZh0crQObAC8um) | [Lizard Vision](https://open.spotify.com/album/39wW3gZkVGupQpLXw2ogs9) | 2:31 |
 | 32 | [You Are My Sunshine](https://open.spotify.com/track/2VTUz4vnpsKwR9wluFNP59) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:20 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 62 | [Down Under](https://open.spotify.com/track/4ghmwqS5ipMJjmiJwKsugt) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 3](https://open.spotify.com/album/6rwHXOhNQXHfE0KRvL84rZ) | 4:43 |
 | 63 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/5hOaRdlUqUSZ5nv8kQx1DF) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Covers One](https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F) | 4:09 |
 | 64 | [Summer's End](https://open.spotify.com/track/03aaUI9oLXdo9TRAvKy62T) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Summer's End](https://open.spotify.com/album/5zgTm1cISmkEXTC6Vo2IYH) | 3:48 |
-| 65 | [Karma Police](https://open.spotify.com/track/6IievBse1PXM8OSR6GkjSs) | [Mother Falcon](https://open.spotify.com/artist/5AcIoQwjyBFFjzxh8UAQlj) | [MF Computer \(Radiohead's OK Computer Reimagined\)](https://open.spotify.com/album/6Pq7wbwhhZBUcpnvmgapys) | 4:22 |
+| 65 | [Karma Police](https://open.spotify.com/track/3kheDV1ejUQP1Ty4gQ3N92) | [Mother Falcon](https://open.spotify.com/artist/5AcIoQwjyBFFjzxh8UAQlj) | [MF Computer \(Radiohead's OK Computer Reimagined\)](https://open.spotify.com/album/5kEv3TTDmTJgOE9iaDBWm2) | 4:22 |
 | 66 | [Dead Leaves And The Dirty Ground](https://open.spotify.com/track/3JZteSHBgqZ8T1SWNLr56x) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [How To Grow A Woman From The Ground](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) | 3:07 |
 | 67 | [Crossing Muddy Waters](https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Crossing Muddy Waters / Be My Husband](https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO) | 3:48 |
 | 68 | [Safe and Sound](https://open.spotify.com/track/7b6xD3ols9DgVfj53SmENK) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' on the Hits of 2013](https://open.spotify.com/album/292fsG4QD09hcPL5FYgENM) | 3:10 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 112 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/58KlChZMUnuITA871NPyls) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/4scGLabYRn5ZGwv7ult8jN) | 5:01 |
 | 113 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDFjNjYwMzI4ZmI2ZDUxYjU4YmMxMjU1YjFhNjAxOGMw`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDJlYzMzN2VhYTVhZjVlMDhlOGU3NWIwYWFiM2FlYmZl`

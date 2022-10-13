@@ -4,11 +4,12 @@
 
 > Nick and Charlie's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-36 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/4bUrxD9GxEYmFXldvKnbCp)
+37 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/4bUrxD9GxEYmFXldvKnbCp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Shitty Gay Song About You](https://open.spotify.com/track/15ZQD1iYC6kZ0Z07D2aTcT) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [A Shitty Gay Song About You](https://open.spotify.com/album/0j4m5d4NaTU2y94sVAWz25) | 1:55 | 2022-05-26 |  |
+| [A Shitty Gay Song About You](https://open.spotify.com/track/15ZQD1iYC6kZ0Z07D2aTcT) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [A Shitty Gay Song About You](https://open.spotify.com/album/0j4m5d4NaTU2y94sVAWz25) | 1:55 | 2022-05-26 | 2022-10-13 |
+| [A Shitty Gay Song About You](https://open.spotify.com/track/7cA93NpGWT5pgyxNtsszSR) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [A Shitty Gay Song About You](https://open.spotify.com/album/5kPGmWHhhg25uk0lh3d229) | 1:55 | 2022-05-31 |  |
 | [A Young Understanding](https://open.spotify.com/track/69O1kiLyWiyDlGau81SykI) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 4:03 | 2022-05-26 |  |
 | [Addicted \- 2015 Version](https://open.spotify.com/track/6DgioNcBP8WnylwB3sA6pl) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Addicted \(2015 Version\)](https://open.spotify.com/album/5IpASQqHiGYuxOh8NSfSyv) | 4:45 | 2022-05-26 | 2022-06-01 |
 | [As the World Caves In](https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M) | 3:38 | 2022-05-26 |  |

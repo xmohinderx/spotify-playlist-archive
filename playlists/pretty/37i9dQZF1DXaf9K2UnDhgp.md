@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,666 likes - 110 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,675 likes - 110 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 47 | [Father Christmas](https://open.spotify.com/track/5L8JAy13dLqNeJE6M2bAQr) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [Father Christmas](https://open.spotify.com/album/3cJPXPWAnO3dyBwoMDyuHU) | 3:22 |
 | 48 | [Punk Drunk Xmas Eve](https://open.spotify.com/track/31Tdc27vGq26sb2DXQI8CN) | [Holy Moly & The Crackers](https://open.spotify.com/artist/73Y01xwhmpeq2qq9KLaRFZ) | [Punk Drunk Xmas Eve](https://open.spotify.com/album/75XYdSVrIvIPffcxMDifqd) | 3:33 |
 | 49 | [2000 Miles](https://open.spotify.com/track/5fuxsXRSVytRUuPERWKLLX) | [LAPêCHE](https://open.spotify.com/artist/05C4NTbWKEoEQs3VchkSlL) | [2000 Miles](https://open.spotify.com/album/48lvWQwclOvTDXY22ZHgLl) | 3:54 |
-| 50 | [Last Christmas](https://open.spotify.com/track/1tOim0NqaqQpJ6dlIunIkB) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl) | 4:18 |
+| 50 | [Last Christmas](https://open.spotify.com/track/1oMDICe4Bbv7NnYXXTBg5j) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N) | 4:18 |
 | 51 | [Oh Holy Night](https://open.spotify.com/track/3YbjsDg6swqZPjmOobf6Hs) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Oh Holy Night](https://open.spotify.com/album/7AamTlpklHzHo8Ki6mhQfK) | 4:55 |
 | 52 | [Hold Your Tongue And Say Apple](https://open.spotify.com/track/5IS1FZfIQZHTDvLcHzoTnt) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Hold Your Tongue And Say Apple](https://open.spotify.com/album/2ngxr8CzWieAdVNdqsDwNf) | 2:12 |
 | 53 | [Santa Looked A Lot Like Daddy](https://open.spotify.com/track/5Z7nEu5UHwEZd1Xi08jGQl) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Santa Looked A Lot Like Daddy](https://open.spotify.com/album/71ewK9ZO3P59hr9z4w25z7) | 1:58 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 109 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
 | 110 | [Sally Sweet Tooth](https://open.spotify.com/track/3zQIGDsyha7U1oOqBI0tp2) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Sally Sweet Tooth](https://open.spotify.com/album/2SPl2Y34jBPaW7w1SlG8N3) | 2:39 |
 
-Snapshot ID: `MTYzOTQxNjgwMSwwMDAwMDAwMGFjZWI2NjBiNDdjMjI1MDlkNjczY2EzNmNiNzg4M2Yz`
+Snapshot ID: `MTYzOTQxNjgwMSwwMDAwMDAwMDI0YmExNWM0N2IzNjUwNDE5YzMwOTM3N2U5ZDVjN2Ew`

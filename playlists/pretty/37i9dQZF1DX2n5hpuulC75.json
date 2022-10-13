@@ -1,29 +1,13 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 241146,
+  "num_followers": 241190,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDI4ZGIwZGQyNGJlZmExZDQ5MDRhMWVkNzQ0ZDNmYTNh",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDY1MzIxYjg1ODhiNmYwYjI5YTc3ZjRmMWU0NWI5Nzg4",
   "tracks": [
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Edition",
-        "url": "https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Edition",
-      "url": "https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk"
-    },
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
@@ -111,6 +95,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "D97",
         "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
       },
@@ -127,22 +127,6 @@
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
-      },
-      "artists": [
-        {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -335,6 +319,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Bet She Looks Like You",
+      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Wave002",
         "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 508601,
       "name": "Ayahuasca",
       "url": "https://open.spotify.com/track/6oVm5ocTB8B0rjO5dZk8Px"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Bet She Looks Like You",
-      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -459,6 +443,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
         "url": "https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 255214,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -661,22 +645,6 @@
       "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
-      "added_at": "2019-06-07 08:01:00",
-      "album": {
-        "name": "Boys by Girls",
-        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 210745,
-      "name": "Pinch",
-      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Self Edit",
@@ -691,6 +659,22 @@
       "duration_ms": 236842,
       "name": "Zender",
       "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
+    },
+    {
+      "added_at": "2019-06-07 08:01:00",
+      "album": {
+        "name": "Boys by Girls",
+        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 210745,
+      "name": "Pinch",
+      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -711,22 +695,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
-      },
-      "artists": [
-        {
-          "name": "Glded",
-          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
-        }
-      ],
-      "duration_ms": 189445,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Surf",
         "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
       },
@@ -739,6 +707,22 @@
       "duration_ms": 175412,
       "name": "Surf",
       "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+      },
+      "artists": [
+        {
+          "name": "Glded",
+          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+        }
+      ],
+      "duration_ms": 189445,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -799,6 +783,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub"
+      },
+      "artists": [
+        {
+          "name": "Drinker",
+          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
+        }
+      ],
+      "duration_ms": 339921,
+      "name": "Fragment II",
+      "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Fleur",
         "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 259427,
       "name": "Fleur",
       "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub"
-      },
-      "artists": [
-        {
-          "name": "Drinker",
-          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
-        }
-      ],
-      "duration_ms": 339921,
-      "name": "Fragment II",
-      "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
+      },
+      "artists": [
+        {
+          "name": "Hazey Eyes",
+          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Our Story",
+      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "EP 2",
         "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
+        "name": "They Came Along",
+        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
       },
       "artists": [
         {
-          "name": "Hazey Eyes",
-          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+          "name": "Haulm",
+          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Our Story",
-      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
+      "duration_ms": 357894,
+      "name": "They Came Along",
+      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     }
   ],
   "unique_name": "Mellow Mood",

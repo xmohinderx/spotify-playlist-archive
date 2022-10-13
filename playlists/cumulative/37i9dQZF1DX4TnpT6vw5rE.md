@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-198 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+199 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Ghost Pong](https://open.spotify.com/track/00gWNp9jpTJbT5TsGdHwla) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Ghost Pong](https://open.spotify.com/album/5VZ6W1glrfShr200XiOAUp) | 4:51 | 2020-12-08\* | 2021-03-18 |
 | [Glaciers](https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Glaciers](https://open.spotify.com/album/5DAdHl1zMFWuxnpF72sqP7) | 3:04 | 2020-12-08\* |  |
 | [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-02-03 |  |
+| [Gratefulness](https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Gratefulness](https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh) | 2:33 | 2022-09-30 |  |
 | [Greenland](https://open.spotify.com/track/2SPTGg9SC5MT1FwNX4IYfx) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:11 | 2020-12-08\* | 2021-03-06 |
 | [Healing Stones](https://open.spotify.com/track/3W2j6BipXBlTPfErJTyJWo) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Healing Stones](https://open.spotify.com/album/0N4dk5ISyVfLM7Es4zEsCr) | 2:37 | 2022-04-21 |  |
 | [Hidden Track](https://open.spotify.com/track/4abHSCaJj851TyH79IvBJ2) | [DEVOTED](https://open.spotify.com/artist/3G0UGz2ulKDrTkl3g3qGJN) | [Hidden Track](https://open.spotify.com/album/0zfTCeq90Hqy38fhijlPtz) | 2:52 | 2021-01-15 |  |
@@ -128,7 +129,7 @@
 | [Natural Cause](https://open.spotify.com/track/30u5328ERA8OFk3qrla5m2) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 5:15 | 2020-12-08\* | 2021-05-27 |
 | [Navi](https://open.spotify.com/track/37XRBuSza57EcexazvYqQy) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Summer](https://open.spotify.com/album/3iEJDeVcMLzAFJToGcih34) | 1:22 | 2020-12-08\* | 2021-01-07 |
 | [Near Light](https://open.spotify.com/track/5ykXsKJqx0GE0dsogxjylG) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:28 | 2020-12-08\* | 2021-05-27 |
-| [Nest](https://open.spotify.com/track/5GaRRamkVUErMUVVnNoQRF) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/0ChlHHVziwSh8UbBMEeiH5) | 1:35 | 2022-07-22 |  |
+| [Nest](https://open.spotify.com/track/5GaRRamkVUErMUVVnNoQRF) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/0ChlHHVziwSh8UbBMEeiH5) | 1:35 | 2022-07-22 | 2022-10-13 |
 | [Nest](https://open.spotify.com/track/2lrHZUfgnVMPmFLEwXR8CD) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/4K1bUcDd62JYkD2AJ7zQ2H) | 1:35 | 2020-12-08\* | 2022-07-29 |
 | [Neume](https://open.spotify.com/track/2S0irMcT7nWLMn0DZpxcZX) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/6OFgF0S3CCyfTgZw4U0vrd) | 5:17 | 2022-07-22 |  |
 | [Neume](https://open.spotify.com/track/6fOfjh3At26n5ouoYP6z8X) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/3zClJLuzmzdBzc2XhaJJE5) | 5:17 | 2020-12-08\* | 2022-07-29 |

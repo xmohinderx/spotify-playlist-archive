@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5?si=z9VxVVX5SYK2kCKNBl5HmQ">Quavo</a> and <a href="https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J?si=yPfLjUUcRE2pogKiqfM\_cQ">Takeoff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,864 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,926 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

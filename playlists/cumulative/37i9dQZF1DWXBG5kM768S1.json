@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Hjarteskjell",
+        "url": "https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195906,
+      "name": "Bror",
+      "url": "https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS"
+    },
+    {
+      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -1315,6 +1333,28 @@
       "duration_ms": 288078,
       "name": "God Natt Oslo",
       "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
+    },
+    {
+      "album": {
+        "name": "Inn i skogen",
+        "url": "https://open.spotify.com/album/6IMNPChZ6uTdewFHcbv9Wq"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        },
+        {
+          "name": "Sigrid Aase",
+          "url": "https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Godt nok",
+      "url": "https://open.spotify.com/track/534GzSVJHfkIWPNkwobLAi"
     },
     {
       "album": {
@@ -2745,7 +2785,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 281955,
       "name": "S\u00e5 fullt av ja",
       "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
@@ -2781,7 +2821,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 229209,
       "name": "S\u00e5 lett som ingenting",
       "url": "https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9"

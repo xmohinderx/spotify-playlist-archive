@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Agnes
 
-112 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
+113 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Juiceboy](https://open.spotify.com/track/4voImA5OPckTXJz5m8ZQy4) | [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB), [Mondgomery](https://open.spotify.com/artist/05eMmbSBU5u0L6XIAU0esH) | [Girls](https://open.spotify.com/album/2qAHhBd41CXvguVJc0UJ5u) | 2:51 | 2022-07-01 |  |
 | [Jump Into The Light \- Wash House Dub](https://open.spotify.com/track/6Jd8t7HR1g8LBS53mhOwXM) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Kathy Sledge](https://open.spotify.com/artist/1uSgUZ6BhPQycUUc6Wo30K) | [Jump Into The Light \(Wash House Dub\)](https://open.spotify.com/album/2ME0JUq8lspfSwMUcHrINz) | 4:13 | 2022-05-06 |  |
 | [JUST US TWO](https://open.spotify.com/track/3ipRosZucAVvarAmxKWH1A) | [Scotty Sire](https://open.spotify.com/artist/24vm5FBjvLpwUiVNcYc8qy) | [JUST US TWO](https://open.spotify.com/album/6NMaqBL0rfysZBo4mcyWTY) | 2:10 | 2022-02-11 |  |
-| [Keep Moving \- Dave Lee Remix](https://open.spotify.com/track/1xnlffPIq3yKph87VmCiqc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Keep Moving \(Dave Lee Remix\)](https://open.spotify.com/album/6n3JSbR3ONbiGvh9Rb9DiP) | 6:03 | 2021-12-03 |  |
+| [Keep Moving \- Dave Lee Remix](https://open.spotify.com/track/0h2Z6MjprW1IVfIyqpZcrg) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Keep Moving \(Dave Lee Remix\)](https://open.spotify.com/album/58EPf9YRS5Xvdc0fMFElkl) | 6:03 | 2021-12-03 |  |
+| [Keep Moving \- Dave Lee Remix](https://open.spotify.com/track/1xnlffPIq3yKph87VmCiqc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Keep Moving \(Dave Lee Remix\)](https://open.spotify.com/album/6n3JSbR3ONbiGvh9Rb9DiP) | 6:03 | 2021-12-03 | 2022-10-13 |
 | [Knock Knock](https://open.spotify.com/track/70dmZtJ2NDuFsPdlQgdnbh) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Knock Knock](https://open.spotify.com/album/52Aj733Z1QNSshBALGbFNP) | 4:01 | 2021-10-15 |  |
 | [Let Your Body Move](https://open.spotify.com/track/0yQ5KcZnBCrUycJ81ewF5F) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Let Your Body Move](https://open.spotify.com/album/3lqdJrVDVedT2dfnDWhxTG) | 4:02 | 2021-09-24 |  |
 | [Living the Fantasy \- Edit](https://open.spotify.com/track/1YpxUaqkz9YOscGXTjkd5i) | [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ) | [Living the Fantasy](https://open.spotify.com/album/3CcdvFekEwCCuFAuIF683D) | 4:42 | 2022-04-29 |  |

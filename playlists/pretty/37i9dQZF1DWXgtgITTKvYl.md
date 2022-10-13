@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,281 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,307 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 21 | [The Dream](https://open.spotify.com/track/6LIIqVZuBG7FjZiQfLJTfz) | [Knight Area](https://open.spotify.com/artist/0fMZgh9eXEgjBq5X9f87NK) | [The Dream](https://open.spotify.com/album/0Vx9BHrCUB2GALTeytL6rN) | 5:00 |
 | 22 | [Blood Moon Night](https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e) | 11:04 |
 | 23 | [The Great Pretender](https://open.spotify.com/track/1M0efSydvXC2nvnuom88OB) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [The Great Pretender](https://open.spotify.com/album/3oz2p8bwC9E5A4bvmExyAQ) | 6:58 |
-| 24 | [Sand Castles](https://open.spotify.com/track/6OnldEmtrkeWxgPrkPhxwQ) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/5t4yOG7cuIj1yQdMxgpuQa) | 5:15 |
+| 24 | [Sand Castles](https://open.spotify.com/track/1veybHpjhAehZ9tM2ftDVD) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/7EEhufz4k2e5Vvhe94QSl8) | 5:15 |
 | 25 | [I Can't Stay Here Anymore](https://open.spotify.com/track/2wj1ZSQ32XsMKIvMNO61R2) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [I Can't Stay Here Anymore](https://open.spotify.com/album/2vP68Dxqg2tWue80ASr1HR) | 6:05 |
 | 26 | [The Pursuit](https://open.spotify.com/track/2VMVBdS8oZ4BzAxTABWdE9) | [Carlotta Valdes](https://open.spotify.com/artist/2u7iH1kPQUPFS4WaNcUMu6) | [The Pursuit](https://open.spotify.com/album/1wPYB7hjyCQjbrYcTqzLvv) | 4:57 |
 | 27 | [Revel in Time](https://open.spotify.com/track/2CmQeA8YUtZDMp2tUsuqj1) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Revel in Time](https://open.spotify.com/album/4F4zzCVXkFuDiH9pnf88Jk) | 4:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Unheavenly Creatures](https://open.spotify.com/track/3cExGgQKsI12aa7Fs3FoId) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Unheavenly Creatures](https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm) | 4:13 |
 | 75 | [Inertiatic Esp](https://open.spotify.com/track/16Elz7HJPLZPMylp13ewxv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 4:23 |
 
-Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDE5MjA0NzQ1ODY5YmJhMDJkNTg0YTY1OTMzZTcyNmZm`
+Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDdiMzhhYThjN2IzZWU4N2Q4NTg4MjJlNDgxYTdjOWYx`

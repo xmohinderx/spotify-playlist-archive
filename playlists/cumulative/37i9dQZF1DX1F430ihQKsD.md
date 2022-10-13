@@ -4,7 +4,7 @@
 
 > La crème de la crème of Montréal's music scene\. Photo: Men I Trust
 
-215 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+216 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Fuel](https://open.spotify.com/track/4QeienZEwF2dZ09pIvDllc) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Fuel](https://open.spotify.com/album/5qSAmaMFLK5Cu8TliExrhe) | 2:12 | 2022-09-16 |  |
 | [Funambule \(tout restera pareil\)](https://open.spotify.com/track/2U8q4Oydvvbc9OIfqVUW4i) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Funambule \(tout restera pareil\)](https://open.spotify.com/album/70NVJKvlYKqS8Tsmh2LYIk) | 3:56 | 2022-06-10 |  |
 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-07-08 | 2022-09-24 |
-| [Go Write with the Stars](https://open.spotify.com/track/0LIojBe01OpupDLuMUYwHK) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write with the Stars](https://open.spotify.com/album/1WSBhoawi94swRpqd0weQF) | 3:33 | 2022-10-07 |  |
+| [Go Write It In The Stars](https://open.spotify.com/track/4I7ly7eSt1raF0ZSOAlWKP) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write It In The Stars](https://open.spotify.com/album/6SAJNqTw4P8uVV8qeApNbJ) | 3:35 | 2022-10-07 |  |
+| [Go Write with the Stars](https://open.spotify.com/track/0LIojBe01OpupDLuMUYwHK) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write with the Stars](https://open.spotify.com/album/1WSBhoawi94swRpqd0weQF) | 3:33 | 2022-10-07 | 2022-10-13 |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2022-07-01 | 2022-10-01 |
 | [Heartbeat](https://open.spotify.com/track/7BjZD4TVbmqNAJpEbvS6By) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait](https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS) | 3:50 | 2022-03-25 |  |
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-03-25 | 2022-09-24 |

@@ -2,7 +2,7 @@
 
 ### [Best of: Coke Studio Sufi ](https://open.spotify.com/playlist/37i9dQZF1DXajUwYhWkg4J)
 
-> Top Sufi tracks of Coke Studio Pakistan\. Cover: Rahat Fateh Ali Khan
+> Top Sufi tracks of Coke Studio Pakistan\. Cover: Abida Parveen
 
 56 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/0TDkgFavNJdJUa4b2z7oKf)
 

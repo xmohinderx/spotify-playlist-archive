@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,461 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,500 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 51 | [In the Dark](https://open.spotify.com/track/2xETgec2TnBkVct3J2G3yh) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [In the Dark](https://open.spotify.com/album/5p0ILU7DFbjTFhu7di07Ke) | 3:16 |
 | 52 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
 | 53 | [Easy v2](https://open.spotify.com/track/1ZNOwjcEAqka5feaa5dEko) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Easy v2](https://open.spotify.com/album/01c1TtxDepIhj3i14YiRzA) | 2:55 |
-| 54 | [Japanese Black Pine](https://open.spotify.com/track/4WYtahAVDnkTAjRqCalZ6d) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Japanese Black Pine](https://open.spotify.com/album/5KUWNSIDYCyQscEiyhWjjE) | 3:14 |
-| 55 | [‎whiskey](https://open.spotify.com/track/0bRq2UOu3CNuH0dvwukfMc) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/6Rfaj1WW6a9B1wjjP77fpC) | 2:25 |
+| 54 | [Japanese Black Pine](https://open.spotify.com/track/1k1RnBXKfruZerrRtNq1qe) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Japanese Black Pine](https://open.spotify.com/album/4dPJhXTprt8iEqaZTDgJ81) | 3:14 |
+| 55 | [‎whiskey](https://open.spotify.com/track/7yH1ewkwvwh2SaKFqXnXYW) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF) | 2:25 |
 | 56 | [Isolated](https://open.spotify.com/track/6I1M2IDs6w8qWRSvQMGifg) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U) | 1:36 |
 | 57 | [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 |
 | 58 | [The Local](https://open.spotify.com/track/3sWAonad48wm55cmQRjIZj) | [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [The Local](https://open.spotify.com/album/6hSxj7BtaD76EmD5CLPfEW) | 4:11 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 90 | [FASHION](https://open.spotify.com/track/7KeN7Y9vhberYnuEjEcCds) | [Eryn Martin](https://open.spotify.com/artist/58nhaWrZa0dN2OxZ1Pr2Ph) | [FASHION](https://open.spotify.com/album/4cSmibwJwreVftp0gAhJE2) | 2:11 |
 | 91 | [Pull Up \(Aleqs Notal Remix\)](https://open.spotify.com/track/43VFaii69iTLH7fJw8e5Zk) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Aleqs Notal](https://open.spotify.com/artist/3NfDWSGUqHYSW4lAtRWlPF) | [Pull Up \(Aleqs Notal Remix\)](https://open.spotify.com/album/2NQMzZCOleYIXactxb2oIQ) | 5:31 |
 | 92 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 |
-| 93 | [Separation](https://open.spotify.com/track/1x2TnGBqJPTmDy3gAjJ05h) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Separation](https://open.spotify.com/album/7F7T36RnF5k6eJGYjtT4Iz) | 3:10 |
+| 93 | [Separation](https://open.spotify.com/track/4V5aNcb4CBVou9uWTodMYB) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Separation](https://open.spotify.com/album/1bNyD1b6LuqQUTR8yJvKmI) | 3:10 |
 | 94 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 |
 | 95 | [Relay \- Skee Mask Remix](https://open.spotify.com/track/6gjZSzhvquIxLlGvU1BdS8) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Relay](https://open.spotify.com/album/56EaBbe1nuA5GNfn8i68O5) | 4:32 |
 | 96 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Forever](https://open.spotify.com/track/0z7mJ4dACjuoBqH7RC3mbm) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Forever](https://open.spotify.com/album/4rubgFY3CcvXg0dqQd18LH) | 4:28 |
 | 100 | [LAWD](https://open.spotify.com/track/0G7FTrrupbGvXYPFfAPr7M) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [Tibe](https://open.spotify.com/artist/4AIBWTy1SuwnrbO2LhIZU2) | [LAWD](https://open.spotify.com/album/2C80TjyKrG3GFKnyYfEZHs) | 2:45 |
 
-Snapshot ID: `MTY2NTI0MjI4MywwMDAwMDAwMDVmYWE4M2ZjYmM2NWM5NDQ5NWZkNzVlMTY4Y2NmNWVj`
+Snapshot ID: `MTY2NTI0MjI4MywwMDAwMDAwMDhkYWVmMTI3NjM5YWI3MjBhYzliZTAwZmUzZWUzN2Nh`

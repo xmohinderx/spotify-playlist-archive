@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-311 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+312 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,8 @@
 | [Phonk666](https://open.spotify.com/track/6cK2drtAlODxRxEQmaaMRP) | [Yavomag](https://open.spotify.com/artist/7n0FLC0AmAsdOb30OAzRzz) | [Phonk666](https://open.spotify.com/album/39o5MZ9vtDcZPiBCImFuOl) | 1:30 | 2021-05-12 | 2022-02-05 |
 | [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 | 2021-05-12 |  |
 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 | 2021-05-12 | 2022-07-29 |
-| [Phonky Tribu](https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK) | 4:46 | 2022-09-16 |  |
+| [Phonky Tribu](https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK) | 4:46 | 2022-09-16 | 2022-10-13 |
+| [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-09-16 |  |
 | [Pleasure](https://open.spotify.com/track/56DUuT3T0rKQsq0NH2jY5y) | [OGNEYAR](https://open.spotify.com/artist/5VNFlLgFFTUOLOVNAkIJdc) | [Pleasure](https://open.spotify.com/album/5LEAEsMHNT8rxrP4QOro9Y) | 2:18 | 2021-10-15 | 2022-02-05 |
 | [Poison](https://open.spotify.com/track/0Uym38yYXOvZLjiIFYP8T0) | [HXELLPLAYA](https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH), [Daft Culture](https://open.spotify.com/artist/3IA6UawCGO9Om0DJEU8FOt) | [Poison](https://open.spotify.com/album/5ms0HwGA2tl2wO6W8zNs1U) | 3:04 | 2022-09-02 |  |
 | [POLTERGEIST](https://open.spotify.com/track/7MJ1uKHspGlEng5tuHoQLE) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [POLTERGEIST](https://open.spotify.com/album/20K8uAeyCqqcz0zkI4aKj8) | 2:20 | 2022-06-10 | 2022-08-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,128 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,127 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 33 | [Camera](https://open.spotify.com/track/7eSjpSUNaP55QMwPY2C7fb) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Young Enough](https://open.spotify.com/album/1r4TaIR9nZHCM2umwoEiWB) | 3:11 |
 | 34 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 |
 | 35 | [dancing around](https://open.spotify.com/track/5UAOuU3YK9xo76vtrhyDng) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [ley lines](https://open.spotify.com/album/0gSkJ8vX0yW1mkNKORxhMP) | 3:55 |
-| 36 | [Drift](https://open.spotify.com/track/4CfIRbigdkyDGmgHtHONw3) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/0U1y40quTVSQcDC6IXomkY) | 3:30 |
-| 37 | [Won't Come Down](https://open.spotify.com/track/5tMTwCXoqeRXda2ZQWHEIU) | [Flyers](https://open.spotify.com/artist/5CWnjPFhtLWbquaXL25zZI) | [Dreaming](https://open.spotify.com/album/6BGfVQLnzsBWG4qZaca0Ga) | 3:06 |
+| 36 | [Drift](https://open.spotify.com/track/1bJulrRtEET3KyjpYpaAlX) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/1JXoCmmLYvbifDmKOOneYM) | 3:30 |
+| 37 | [Won't Come Down](https://open.spotify.com/track/13ZgxPhiygvQBknfoYiUze) | [Flyers](https://open.spotify.com/artist/5CWnjPFhtLWbquaXL25zZI) | [Dreaming](https://open.spotify.com/album/2DyFATyLL55DlX2KrcYs5q) | 3:06 |
 | 38 | [Nevermore](https://open.spotify.com/track/4dvLOP9XOBUgrWAnHMJf8m) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Deception Bay](https://open.spotify.com/album/32lqkV59tbtXqcQeyasTmO) | 3:35 |
 | 39 | [Daydream](https://open.spotify.com/track/7JcOhztbr6Qvhycgyx0Ea9) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Deception Bay](https://open.spotify.com/album/32lqkV59tbtXqcQeyasTmO) | 3:48 |
 | 40 | [Big Boy Cruising](https://open.spotify.com/track/27utWLwggttKhJlO6AdtBd) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [Big Boy Cruising](https://open.spotify.com/album/7LFYlpx3ROVKEBv0c0Drv5) | 3:53 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 51 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 |
 | 52 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 
-Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMGQwNGJlOGI1ZjRhMzM3YTBjMzQ2NGEyMTY1ZTFmNDVj`
+Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDE4NmZjZjU1YTNlZGYxZGNmNTE2Y2JkZjljMjliZWVl`

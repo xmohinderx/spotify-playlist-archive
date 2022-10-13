@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1133181,
+  "num_followers": 1133323,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ3MzIxMCwwMDAwMDAwMGY4M2U2ZmY3YTc1YmUwY2FlZjNiMzQ0MTU1YjU5NzI2",
+  "snapshot_id": "MTY2NTQ3MzIxMCwwMDAwMDAwMDMwNjU5YmJkNGUzMTViOTQxNDE2N2I2N2QwZGJkM2Vj",
   "tracks": [
     {
       "added_at": "2022-10-11 07:26:50",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
       },
       "artists": [
         {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
         }
       ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
+      "duration_ms": 235866,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -631,18 +631,18 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
       },
       "artists": [
         {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
         }
       ],
-      "duration_ms": 235866,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6"
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/4DeblNB0dvJEm2icN9mv2L"
+    },
+    {
+      "added_at": "2022-10-11 07:26:50",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 376085,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
-    },
-    {
-      "added_at": "2022-10-11 07:26:50",
-      "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/4DeblNB0dvJEm2icN9mv2L"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
+        "name": "Bria",
+        "url": "https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 355120,
+      "name": "From This Moment On",
+      "url": "https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2"
+    },
+    {
+      "added_at": "2022-10-11 07:26:50",
+      "album": {
         "name": "It Had To be You... The Great American Songbook",
         "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
       },
@@ -1687,18 +1703,38 @@
     {
       "added_at": "2022-10-11 07:26:50",
       "album": {
-        "name": "Bria",
-        "url": "https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N"
+        "name": "Love Is... The Tender Trap",
+        "url": "https://open.spotify.com/album/0BnOXskh6wArTePmqEGIfs"
       },
       "artists": [
         {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Colin Oxley",
+          "url": "https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs"
+        },
+        {
+          "name": "David Newton",
+          "url": "https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy"
+        },
+        {
+          "name": "Jim Tomlinson",
+          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
+        },
+        {
+          "name": "Simon Thorpe",
+          "url": "https://open.spotify.com/artist/73R87wFxKX8jZu9zdfFSmm"
+        },
+        {
+          "name": "Steve Brown",
+          "url": "https://open.spotify.com/artist/7DLSRkdZGUdCN98UT44PAd"
         }
       ],
-      "duration_ms": 355120,
-      "name": "From This Moment On",
-      "url": "https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2"
+      "duration_ms": 283933,
+      "name": "Fools Rush In (Where Angels Fear To Tread)",
+      "url": "https://open.spotify.com/track/4mxR3iB1bvDEUsSuFLeIWF"
     },
     {
       "added_at": "2022-10-11 07:26:50",
@@ -1735,22 +1771,6 @@
       "duration_ms": 222106,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
-    },
-    {
-      "added_at": "2022-10-11 07:26:50",
-      "album": {
-        "name": "JetSetJazz",
-        "url": "https://open.spotify.com/album/3AHn8d2XYYLNCPO4BKbMaW"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "All Because Of You",
-      "url": "https://open.spotify.com/track/7bZTJI3YNXUnC6Hpqk2wpX"
     }
   ],
   "unique_name": "Jazzy Romance",

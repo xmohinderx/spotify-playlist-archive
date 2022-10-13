@@ -287,6 +287,24 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278159,
+      "name": "Fight",
+      "url": "https://open.spotify.com/track/7uGKVP3MSeWevLYFI0FOvI"
+    },
+    {
+      "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 270560,
       "name": "La Barca",
       "url": "https://open.spotify.com/track/7LTXQnitAcwSdZdl2t7E13"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 240893,
       "name": "Libertad",
       "url": "https://open.spotify.com/track/2wod4OhxL86a2qLBiTumLH"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 226560,
       "name": "Nuestro Don",
       "url": "https://open.spotify.com/track/5pJy4HaC21CyAF7SZ5XJ0B"
@@ -818,6 +836,32 @@
     },
     {
       "album": {
+        "name": "Terc3ra Llamada",
+        "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+        },
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Los Rastrillos",
+          "url": "https://open.spotify.com/artist/1NEJuKkyrGHKALbX1AaIoy"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155996,
+      "name": "Quiero acercarme a ti",
+      "url": "https://open.spotify.com/track/5Uyd0HavtHIMTPsDDN82yC"
+    },
+    {
+      "album": {
         "name": "Revoluci\u00f3n (Bonus Track Version)",
         "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
       },
@@ -829,7 +873,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 166213,
       "name": "Reflejos de Luz",
       "url": "https://open.spotify.com/track/44iYQwUFs6s8rIk4H1TAi4"
@@ -1057,7 +1101,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 298173,
       "name": "S\u00f3lo Es Verdadero (El Amor De Jah)",
       "url": "https://open.spotify.com/track/5rbiiKLMsgT2m2pz57Hxaf"
@@ -1075,7 +1119,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 329573,
       "name": "Te Recuerdo Amanda",
       "url": "https://open.spotify.com/track/337eg34bKb97zZce5PUXQs"
@@ -1147,7 +1191,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 224413,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/4hN7zGsnymEBrhUwLnaQbZ"
@@ -1205,6 +1249,24 @@
       "duration_ms": 208718,
       "name": "Volver a sentir",
       "url": "https://open.spotify.com/track/35xXFaqG8xlx5x0HtHpzyv"
+    },
+    {
+      "album": {
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243330,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/7BXaBIZDHaUdAD7mcCSjH7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2z72hy"

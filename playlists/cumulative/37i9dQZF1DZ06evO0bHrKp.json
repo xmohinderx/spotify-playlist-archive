@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 279960,
       "name": "88",
       "url": "https://open.spotify.com/track/3IHyZQILPYl3cgFEu1TJSJ"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 256706,
       "name": "Blood In My Eyes",
       "url": "https://open.spotify.com/track/6sfU2LwBKxjbukPZnUbGtt"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 243098,
       "name": "Breaking The Chain",
       "url": "https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 232173,
       "name": "Dear Father",
       "url": "https://open.spotify.com/track/4KtFCX32H4sBAIlRL4G96x"
@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164986,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/3wl4ZUBsuH7n2lsW4WjU05"
+    },
+    {
+      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -736,6 +754,24 @@
     },
     {
       "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238693,
+      "name": "Speak Of The Devil",
+      "url": "https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB"
+    },
+    {
+      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
@@ -855,7 +891,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 199460,
       "name": "The People Vs\u2026",
       "url": "https://open.spotify.com/track/2oWGNem9V4PhlpIbRclo8a"
@@ -873,7 +909,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 181480,
       "name": "Time For You To Go",
       "url": "https://open.spotify.com/track/4YZcr09gdEqBN43BS5kAVR"
@@ -909,7 +945,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 328986,
       "name": "Twisted By Design",
       "url": "https://open.spotify.com/track/2Tqp1sFnq5GpPHsUVjcdnE"
@@ -1017,7 +1053,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 169493,
       "name": "What I Believe",
       "url": "https://open.spotify.com/track/25aUn2fekP8MN2y4WcseVL"

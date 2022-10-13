@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Usted Se\u00f1alemelo",
+        "url": "https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251853,
+      "name": "Agua Marfil",
+      "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1ecas",
         "url": "https://open.spotify.com/album/4Zj3UQH2PK5dmUe0MgTJlj"
       },
@@ -431,7 +449,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 185573,
       "name": "Ayer",
       "url": "https://open.spotify.com/track/74VnW6FcqDA0dIya9myWhA"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 145000,
       "name": "Dentro",
       "url": "https://open.spotify.com/track/4597p3R2HZ24bvpussazH9"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 182937,
       "name": "El Podio del TC",
       "url": "https://open.spotify.com/track/5Xl50bMwdD7WY2veOxmAi7"
@@ -3301,6 +3319,28 @@
       "duration_ms": 239162,
       "name": "La Habitaci\u00f3n II",
       "url": "https://open.spotify.com/track/15fLGGV39q6EX9FgtSW7UA"
+    },
+    {
+      "album": {
+        "name": "La Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/5DVRGgvC9qX7k7dZPz8ok7"
+      },
+      "artists": [
+        {
+          "name": "Mauro Conforti & La Vida Marciana",
+          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
+        },
+        {
+          "name": "Haien",
+          "url": "https://open.spotify.com/artist/3hZeDi28TENOJwzyYR1dxu"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175065,
+      "name": "La Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/4Pi4u4y0MNy3Il74fQHy3q"
     },
     {
       "album": {
@@ -6055,6 +6095,24 @@
       "duration_ms": 124552,
       "name": "surfing caracol",
       "url": "https://open.spotify.com/track/2B5vdXagsT3RN8uGzBdeTk"
+    },
+    {
+      "album": {
+        "name": "Tan Capaz",
+        "url": "https://open.spotify.com/album/0XxiIUxCsCmnhoUBNAiVS4"
+      },
+      "artists": [
+        {
+          "name": "Los L\u00e1tigos",
+          "url": "https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247246,
+      "name": "Tan Capaz",
+      "url": "https://open.spotify.com/track/7rfTrFMb6pHxYZE8HpkSVe"
     },
     {
       "album": {

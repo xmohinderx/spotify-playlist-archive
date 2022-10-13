@@ -624,6 +624,24 @@
     },
     {
       "album": {
+        "name": "Ignition (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152466,
+      "name": "Session - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
+    },
+    {
+      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },

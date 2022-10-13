@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
 
-280 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+282 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Bus Stop](https://open.spotify.com/track/4mjLbpVgQwz6nFtdOnCB1L) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Bus Stop](https://open.spotify.com/album/6sWmfS1qh28Jler0wUmqbY) | 4:10 | 2022-02-03 | 2022-04-06 |
 | [Buttercup](https://open.spotify.com/track/72dgu4KCdzOBYJP7YvqCkM) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Meadow](https://open.spotify.com/album/4FDZdAYlV11jeR3kjb1wWh) | 2:58 | 2022-02-03 | 2022-03-02 |
 | [By The Sea](https://open.spotify.com/track/0MT743d5eAbybSc1Sl0stR) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [I Don't Know Who to Call](https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P) | 4:16 | 2022-05-27 |  |
-| [Can't Be Enough](https://open.spotify.com/track/0M2o4vmqNyiMySMs3e9i8m) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Can't Be Enough](https://open.spotify.com/album/13qki0Gl6TJ4YmuEmQ6kdM) | 3:07 | 2022-09-05 |  |
+| [Can't Be Enough](https://open.spotify.com/track/0M2o4vmqNyiMySMs3e9i8m) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Can't Be Enough](https://open.spotify.com/album/13qki0Gl6TJ4YmuEmQ6kdM) | 3:07 | 2022-09-05 | 2022-10-13 |
+| [Can't Be Enough](https://open.spotify.com/track/19ZXw4HTvvQniJU6z66Zlf) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Breakfast for Dinner](https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD) | 3:07 | 2022-10-02 |  |
 | [can't get laid](https://open.spotify.com/track/3GyLZPZlnVteR6NpvPAJq7) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [can't get laid](https://open.spotify.com/album/43r40totUGXyIiUH0OE0iI) | 2:54 | 2022-09-05 |  |
 | [Carry On](https://open.spotify.com/track/74v01w8LrgHx160eddEaXO) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Carry On](https://open.spotify.com/album/1bw1o1FyHLJAXORWUABCHh) | 4:17 | 2022-02-03 | 2022-03-07 |
 | [cemetery dreams](https://open.spotify.com/track/1zI9d9Fg0Cj6Xu2P0JlY2N) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [cemetery dreams](https://open.spotify.com/album/5wT9yU6yTpQhwuWFTDD21m) | 3:01 | 2022-02-03 | 2022-04-06 |
@@ -110,7 +111,8 @@
 | [Headroom](https://open.spotify.com/track/60H0HIt7mIPD3dZnlOCc97) | [Micra](https://open.spotify.com/artist/0riJKpNDw4fboGdUimavkK) | [Headroom](https://open.spotify.com/album/2pE7v0KHgpvx2ss1ggtbDF) | 3:55 | 2022-04-05 | 2022-10-03 |
 | [Heaven](https://open.spotify.com/track/6zTKXx4SE7FjwWx7CAzArx) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr) | [Coming In From The Dark](https://open.spotify.com/album/0tjAAn3o0FPW3Fmqxf8ogq) | 3:28 | 2022-02-03 | 2022-04-06 |
 | [Heavy](https://open.spotify.com/track/70f71uZ7egz2Vshwx4D425) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Heavy](https://open.spotify.com/album/2ycoGTMxZ684swkDhzgv4s) | 2:52 | 2022-02-03 | 2022-03-02 |
-| [Hey](https://open.spotify.com/track/7rBNJKnqq8m717RsTOsJQi) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Hey](https://open.spotify.com/album/4kiVwF4algaMfLFsqmM0SW) | 3:08 | 2022-09-05 |  |
+| [Hey](https://open.spotify.com/track/7oHpeKNritBgbBMm93Dx62) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Hey](https://open.spotify.com/album/17mr7GvqLCWjERFbKt765D) | 3:08 | 2022-10-02 |  |
+| [Hey](https://open.spotify.com/track/7rBNJKnqq8m717RsTOsJQi) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Hey](https://open.spotify.com/album/4kiVwF4algaMfLFsqmM0SW) | 3:08 | 2022-09-05 | 2022-10-13 |
 | [Hi Lo](https://open.spotify.com/track/7crSXx6HOFrB7aTRgJXVAy) | [MANE](https://open.spotify.com/artist/1CtWPi5HGDgyjTTL4o2SvO) | [Hi Lo](https://open.spotify.com/album/2p09JJe77lsUy5jrQmJZvZ) | 4:02 | 2022-02-03 | 2022-07-04 |
 | [High Fidelity](https://open.spotify.com/track/6Fp3Zh7rCRiICGnPWVcCUk) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [High Fidelity](https://open.spotify.com/album/5ck0FDIBSpWzOgnEvSv6Uk) | 3:30 | 2022-02-03 | 2022-08-01 |
 | [Higher Love](https://open.spotify.com/track/1yf7KpJKsDEWtBdznkkGAH) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Queen Of Turbulent Hearts](https://open.spotify.com/album/1Djbaj0U3owtsuQSY7Q2Ly) | 3:04 | 2022-04-14 |  |

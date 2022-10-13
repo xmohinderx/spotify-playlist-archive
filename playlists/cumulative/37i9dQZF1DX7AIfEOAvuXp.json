@@ -135,7 +135,7 @@
     {
       "album": {
         "name": "Duality",
-        "url": "https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC"
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
       "artists": [
         {
@@ -146,6 +146,24 @@
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198466,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
+    },
+    {
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n"
@@ -289,10 +307,28 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 176781,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/2wQoKMGGqhndLMjEgdnQi1"
+    },
+    {
+      "album": {
+        "name": "Thursday Friday",
+        "url": "https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176781,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/4TpGdf05nm8lYiBPbXjwv2"
     },
     {
       "album": {
@@ -369,7 +405,7 @@
     {
       "album": {
         "name": "boys lie",
-        "url": "https://open.spotify.com/album/29LcSRoFAKrH7dNE5MGQym"
+        "url": "https://open.spotify.com/album/1t3y9LahH5pUediQTB1Eht"
       },
       "artists": [
         {
@@ -380,6 +416,24 @@
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 145857,
+      "name": "boys lie",
+      "url": "https://open.spotify.com/track/3LsgzGDQMbt1VVQeO99IJb"
+    },
+    {
+      "album": {
+        "name": "boys lie",
+        "url": "https://open.spotify.com/album/29LcSRoFAKrH7dNE5MGQym"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 145857,
       "name": "boys lie",
       "url": "https://open.spotify.com/track/3ZYTHmGaFzW55UnXYmXZFD"
@@ -947,10 +1001,28 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 160052,
       "name": "Holy Shit",
       "url": "https://open.spotify.com/track/0FmvnhTgzPslHRufnpNjsz"
+    },
+    {
+      "album": {
+        "name": "Holy Shit",
+        "url": "https://open.spotify.com/album/22ds4Dxf4qzzGww2lznCeW"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160052,
+      "name": "Holy Shit",
+      "url": "https://open.spotify.com/track/3AXiBIeLoChBL3McZtMLy2"
     },
     {
       "album": {
@@ -1037,10 +1109,28 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 149870,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/58UVZ68VQiQ4EHeIIcX0gb"
+    },
+    {
+      "album": {
+        "name": "Hues",
+        "url": "https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150182,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/0rlX8acfJKPQ3NVHjxR7ml"
     },
     {
       "album": {
@@ -1559,10 +1649,28 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 224422,
       "name": "NO !",
       "url": "https://open.spotify.com/track/0yZcbEhhBUixa85MQL9t5B"
+    },
+    {
+      "album": {
+        "name": "NO !",
+        "url": "https://open.spotify.com/album/1ndLXbMIeHH3cczAMwgQHT"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224422,
+      "name": "NO !",
+      "url": "https://open.spotify.com/track/7I9MF93LZ0MFz7n4avNkb3"
     },
     {
       "album": {
@@ -1909,7 +2017,7 @@
     {
       "album": {
         "name": "Sensitive",
-        "url": "https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte"
+        "url": "https://open.spotify.com/album/1KkWCmPdnd4Cv86DHNQctM"
       },
       "artists": [
         {
@@ -1920,6 +2028,24 @@
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/06DPYEqSX1jMaxvnXNVshB"
+    },
+    {
+      "album": {
+        "name": "Sensitive",
+        "url": "https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 174720,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3"
@@ -1981,7 +2107,7 @@
     {
       "album": {
         "name": "Sola",
-        "url": "https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546"
+        "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
       },
       "artists": [
         {
@@ -1992,6 +2118,24 @@
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198594,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
+    },
+    {
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 198594,
       "name": "Sola",
       "url": "https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9"
@@ -2179,6 +2323,24 @@
     {
       "album": {
         "name": "Summer",
+        "url": "https://open.spotify.com/album/5c7eIja7Gujs91dCl4U8oo"
+      },
+      "artists": [
+        {
+          "name": "Simpson",
+          "url": "https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242227,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/2xFXakgIwHNK4POqclbhRe"
+    },
+    {
+      "album": {
+        "name": "Summer",
         "url": "https://open.spotify.com/album/1YHlj5gp5YYLcBscSxBNHA"
       },
       "artists": [
@@ -2207,7 +2369,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 242227,
       "name": "Summer",
       "url": "https://open.spotify.com/track/51xpZKrnRMlcmwWCv7jcfd"
@@ -2517,10 +2679,28 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 188380,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4Zc6fjadh1ONHDtec9poAD"
+    },
+    {
+      "album": {
+        "name": "Are We Going Too Slow?",
+        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188380,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
     },
     {
       "album": {
@@ -2597,7 +2777,7 @@
     {
       "album": {
         "name": "Winona",
-        "url": "https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY"
+        "url": "https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx"
       },
       "artists": [
         {
@@ -2608,6 +2788,24 @@
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 145186,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n"
+    },
+    {
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY"
+      },
+      "artists": [
+        {
+          "name": "Miloe",
+          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 145186,
       "name": "Winona",
       "url": "https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy"

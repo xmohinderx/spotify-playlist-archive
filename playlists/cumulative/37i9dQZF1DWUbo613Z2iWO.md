@@ -4,7 +4,7 @@
 
 > Our favorite R&B artists on the rise! Cover: Dylan Sinclair, JVCK JAMES and Destin Conrad.
 
-376 songs - 19 hr 30 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+379 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Another](https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Another](https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di) | 2:32 | 2022-07-09 | 2022-07-16 |
 | [Arz Interlude](https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Imperfections](https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm) | 1:50 | 2022-04-01 | 2022-04-29 |
 | [Back to Back \(feat\. Jordan Hawkins\)](https://open.spotify.com/track/0gvG9jO8DdIctLEatJAYq1) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Yam Grier](https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q) | 2:23 | 2022-09-09 |  |
-| [BAD bad](https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:49 | 2022-07-15 |  |
+| [BAD bad](https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:49 | 2022-07-15 |  |
+| [BAD bad](https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:49 | 2022-07-15 | 2022-10-13 |
 | [Bad Decisions](https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Bad Decisions](https://open.spotify.com/album/2z5UVuFfqfUTX5sVqxoSkK) | 2:47 | 2022-09-02 |  |
 | [Bad Idea \(feat\. Blxst\)](https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 3:36 | 2022-06-03 | 2022-08-27 |
 | [Baddie](https://open.spotify.com/track/64cHs4MX20D7ExGWQyZHLd) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Baddie](https://open.spotify.com/album/242NIZnYlcRGtHpD1CH7nd) | 2:38 | 2022-09-02 |  |
@@ -69,7 +70,8 @@
 | [Cherry Wine](https://open.spotify.com/track/1yGfEpb5rYRSrdEsX3RCpX) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Cherry Wine](https://open.spotify.com/album/5xm6ly6zx7KN3JqtnJXY5T) | 2:59 | 2022-09-30 |  |
 | [chosen](https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [chosen](https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z) | 2:49 | 2022-07-15 | 2022-09-03 |
 | [Church](https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 2:40 | 2022-03-11 | 2022-04-09 |
-| [City of Angels](https://open.spotify.com/track/6dQ2LusAx9Lr7NwkwHkYIC) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [City of Angels](https://open.spotify.com/album/7LuzVcbZIaIH3MYWo81k2q) | 2:10 | 2022-08-12 |  |
+| [City of Angels](https://open.spotify.com/track/1Da2hZsE9CaUM7xxEpEWyq) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Hope It Gets Better](https://open.spotify.com/album/7p9pChA6KBpvqq8En6bE9B) | 2:10 | 2022-08-12 |  |
+| [City of Angels](https://open.spotify.com/track/6dQ2LusAx9Lr7NwkwHkYIC) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [City of Angels](https://open.spotify.com/album/7LuzVcbZIaIH3MYWo81k2q) | 2:10 | 2022-08-12 | 2022-10-13 |
 | [Clearly](https://open.spotify.com/track/0SyCWDjhJuqcglYm79x1So) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Clearly](https://open.spotify.com/album/1ZN9S3bFT4e0r56FyOmF4I) | 2:22 | 2022-04-29 | 2022-06-25 |
 | [Climax](https://open.spotify.com/track/07k53RXDWkB63k7UreIXER) | [Swsh](https://open.spotify.com/artist/4mNJoaGdBbtAwFTbMC4mdV) | [Goodboy](https://open.spotify.com/album/5RfD44RAOxAEgInDSytS7v) | 3:51 | 2022-04-29 | 2022-06-18 |
 | [Closure](https://open.spotify.com/track/1OcnAp6rB3ZbQbXw1ncAI3) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Closure](https://open.spotify.com/album/1MqcGz8uF79zpVcH75JH19) | 2:57 | 2022-08-26 | 2022-09-10 |
@@ -158,7 +160,8 @@
 | [Happy Lonely Boy](https://open.spotify.com/track/5pEsbKaHJ0IrCiaGulBFBp) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Happy Lonely Boy](https://open.spotify.com/album/0E8tk6z5nzJUZAfKsC6Wck) | 2:15 | 2022-07-09 | 2022-09-03 |
 | [Hate to see it](https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [My Side](https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq) | 2:53 | 2022-07-22 | 2022-09-03 |
 | [heartache](https://open.spotify.com/track/1jQMaxQQk0q0XSepGSnoys) | [fiction.](https://open.spotify.com/artist/2moT8pNvWKrULiMq8DQBfa) | [heartbreak szn](https://open.spotify.com/album/35T4P88Hxz0b3ZgZ1FBLOI) | 3:00 | 2022-04-29 | 2022-06-18 |
-| [Heatwave](https://open.spotify.com/track/1klIcWCcdnwTI3fJlT5pcO) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SASSY \(Deluxe\)](https://open.spotify.com/album/51sUPyQRFL5HlwIqQYop4q) | 2:36 | 2022-07-29 |  |
+| [Heatwave](https://open.spotify.com/track/0MZcjyFmlR4OUSa45Z3Wtz) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SASSY \(Deluxe\)](https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38) | 2:36 | 2022-07-29 |  |
+| [Heatwave](https://open.spotify.com/track/1klIcWCcdnwTI3fJlT5pcO) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SASSY \(Deluxe\)](https://open.spotify.com/album/51sUPyQRFL5HlwIqQYop4q) | 2:36 | 2022-07-29 | 2022-10-13 |
 | [Highway](https://open.spotify.com/track/6PU6jUiadiaPA4VaXhtpqp) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Highway](https://open.spotify.com/album/70XI6LyZx4d1n4JmmbxWSJ) | 3:12 | 2022-02-28 | 2022-03-18 |
 | [History](https://open.spotify.com/track/0O39nIQSeYJP9yHouKKZvP) | [Marti](https://open.spotify.com/artist/4pVaOJ2YYHHvy80Aau5BDs) | [History](https://open.spotify.com/album/3pqOqlgUJ39OPL3F2EqPcN) | 2:50 | 2022-04-01 | 2022-05-07 |
 | [HOLY](https://open.spotify.com/track/03reiJNuSFum7GhLNmtjZr) | [Jay Wile](https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU) | [BETTER TIMES \(REDUX VERSION\)](https://open.spotify.com/album/7kgfo2dcVQj1nk2oMaNxzi) | 2:54 | 2022-04-01 | 2022-05-14 |

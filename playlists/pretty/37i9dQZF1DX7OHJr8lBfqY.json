@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 23004,
+  "num_followers": 23016,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDFlNWFkNzRjMjA0Y2ZkY2ZiNmMyZTNmMzI0ZjVmODA0",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMGNiMWJiODJjOWFhOGQ2ZmY4MDZmZmQ5NmYyOWViOGEy",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
+        "url": "https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
+      "url": "https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Arrebata",
         "url": "https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 175174,
       "name": "Arrebata",
       "url": "https://open.spotify.com/track/2MkQo1z3xzYcoONHNoXWEr"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
-        "url": "https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT"
-      },
-      "artists": [
-        {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
-      "url": "https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "En Cuarentena",
-        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 259586,
-      "name": "El Combo del Mundo",
-      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "ALTER EGO",
         "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
       },
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "En Cuarentena",
+        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 259586,
+      "name": "El Combo del Mundo",
+      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Hasta el Sol de Hoy",
         "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
       },
@@ -1735,26 +1735,6 @@
       "duration_ms": 236611,
       "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Reggaetonista Salsaton (Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen)",
-        "url": "https://open.spotify.com/album/5U8TwxqlnkjcWw14Svv3Bs"
-      },
-      "artists": [
-        {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 157522,
-      "name": "Reggaetonista Salsaton (Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen)",
-      "url": "https://open.spotify.com/track/2jjS5j292q9RoNwNXNRM6x"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1783,6 +1763,26 @@
       "duration_ms": 231520,
       "name": "Sanga Zoo (feat. Farruko)",
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Reggaetonista Salsaton (Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen)",
+        "url": "https://open.spotify.com/album/5U8TwxqlnkjcWw14Svv3Bs"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 157522,
+      "name": "Reggaetonista Salsaton (Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen)",
+      "url": "https://open.spotify.com/track/2jjS5j292q9RoNwNXNRM6x"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Cornettazos (Vol.2)",
-        "url": "https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd"
-      },
-      "artists": [
-        {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "Mara Del Carmen",
-      "url": "https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Nuestra Esquina",
         "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 248173,
       "name": "Tranquila Bebe",
       "url": "https://open.spotify.com/track/2NisBr13bzzrleg25GDcKv"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Cornettazos (Vol.2)",
+        "url": "https://open.spotify.com/album/2rKPE4P2hCes0wCdZZzMkd"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "Mara Del Carmen",
+      "url": "https://open.spotify.com/track/4uTVQlPkL2rlVDbNheskYx"
     },
     {
       "added_at": "2022-08-31 07:37:37",

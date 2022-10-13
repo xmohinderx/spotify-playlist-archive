@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 252533,
       "name": "Got Soul",
       "url": "https://open.spotify.com/track/64Z3YM5ZdbIRRdZKbPLxzq"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 210520,
       "name": "If And",
       "url": "https://open.spotify.com/track/0xnirEyt7tGGvC63fpYfrb"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 314320,
       "name": "Pushin\u2019 Against A Stone",
       "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 269720,
       "name": "Stardust Scattering",
       "url": "https://open.spotify.com/track/0yKkIOvCiTmiPVUTZ3EbQ7"
@@ -567,6 +567,24 @@
       "duration_ms": 181786,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo"
+    },
+    {
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54746,
+      "name": "Stay Meditation",
+      "url": "https://open.spotify.com/track/2dm0jizi5StxHnOWuhub85"
     },
     {
       "album": {
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 182093,
       "name": "Trials, Troubles, Tribulations",
       "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"

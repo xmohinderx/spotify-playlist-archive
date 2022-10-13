@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Amaria
 
-448 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
+450 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 4:04 | 2022-05-19 | 2022-07-09 |
 | [Damn](https://open.spotify.com/track/3GI61nYQMfL6diHPFU0YLB) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [To Myself \(Deluxe\)](https://open.spotify.com/album/2RKhRRDOU32gaoNRrQICbG) | 2:54 | 2020-09-23 | 2021-07-10 |
 | [Dangerous](https://open.spotify.com/track/378YlqIlwyrOTk8QiqREAI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Dangerous](https://open.spotify.com/album/2Qm6Qdji6SbV40zuLlt7qd) | 3:12 | 2019-10-09 | 2020-01-30 |
-| [dayxday](https://open.spotify.com/track/11aVNQ4YUtietboYqeh8GG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:19 | 2022-07-08 |  |
+| [dayxday](https://open.spotify.com/track/11aVNQ4YUtietboYqeh8GG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:19 | 2022-07-08 | 2022-10-13 |
+| [dayxday](https://open.spotify.com/track/7ypJGtLwV9ss5uAmJyTXjK) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:19 | 2022-07-08 |  |
 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 | 2020-09-23 | 2021-03-14 |
 | [Decide](https://open.spotify.com/track/7kgkHtqxN1es6hHW6SQJPG) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Decide](https://open.spotify.com/album/1eqrynMJ4HC4MJ5ycoHMsW) | 3:51 | 2021-06-26 | 2022-02-12 |
 | [Deeper](https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 2:58 | 2020-07-18 | 2021-02-27 |
@@ -405,7 +406,8 @@
 | [The Mood \(feat\. D Smoke\)](https://open.spotify.com/track/6qrKGpH3OFoob1JbCibDn0) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 4:15 | 2022-07-08 |  |
 | [THE NEWS](https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [THE NEWS](https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN) | 4:27 | 2019-11-23 | 2020-09-04 |
 | [The Rain](https://open.spotify.com/track/6LrZnsh8bhn70OEnDqXskh) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [The Rain](https://open.spotify.com/album/6ExLS4kgzEY5MGL9RbiTgJ) | 3:29 | 2019-11-05 | 2020-05-15 |
-| [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 | 2022-08-26 |  |
+| [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 | 2022-08-26 | 2022-10-13 |
+| [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 | 2022-08-26 |  |
 | [Thing Called Love](https://open.spotify.com/track/7cdqv6XfTVx1vhMT8Py3Yg) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Thing Called Love](https://open.spotify.com/album/6UKVJcIbw10lI2v8ESUiqk) | 3:17 | 2019-10-16 | 2020-04-18 |
 | [Think About You \- Notion Mix](https://open.spotify.com/track/698qfbrci5r8U0EKceXhml) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Think About You \(Notion Mix\)](https://open.spotify.com/album/3LDQk8fS6P9E2lJVO0vUY4) | 3:14 | 2020-04-18 | 2020-07-21 |
 | [Thinking of You](https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Thinking of You](https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0) | 3:21 | 2022-09-02 |  |

@@ -908,6 +908,24 @@
     },
     {
       "album": {
+        "name": "Nocturne Interlude / Unholy Appetite",
+        "url": "https://open.spotify.com/album/2naRj9IUpRB5dyWstiTRkm"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89343,
+      "name": "Nocturne Interlude",
+      "url": "https://open.spotify.com/track/5jpnoBnHSxRARxZhAXgOzb"
+    },
+    {
+      "album": {
         "name": "Who Really Cares",
         "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
       },

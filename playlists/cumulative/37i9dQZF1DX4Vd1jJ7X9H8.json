@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 168447,
       "name": "Candyfloss",
       "url": "https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 177483,
       "name": "day to day",
       "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
@@ -1990,6 +1990,24 @@
     },
     {
       "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/2Hnlavdkpy4vZhva8VsTfq"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164317,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/5G5qyRHlLmZgy915TBTCkB"
+    },
+    {
+      "album": {
         "name": "Fiire",
         "url": "https://open.spotify.com/album/5vynu58xVb4kxmlQsF913s"
       },
@@ -2255,7 +2273,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 166021,
       "name": "God's Plan",
       "url": "https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
@@ -2498,6 +2516,24 @@
     },
     {
       "album": {
+        "name": "TECHNICOLOR",
+        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162135,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/3HwOQx5ROlGQjQgu0YByuL"
+    },
+    {
+      "album": {
         "name": "HELLO",
         "url": "https://open.spotify.com/album/7ENTmmB50lQi4pvn0w6v25"
       },
@@ -2509,7 +2545,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 162135,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY"
@@ -3913,7 +3949,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 191072,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1FpAKPGuR8SoIUw5t0I5vn"
@@ -4305,7 +4341,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 201988,
       "name": "Obvious Guy",
       "url": "https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea"
@@ -5299,7 +5335,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 183896,
       "name": "Skin on Skin",
       "url": "https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF"
@@ -5895,7 +5931,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 173385,
       "name": "Think About Things",
       "url": "https://open.spotify.com/track/2iRniYXjMHKmwXqA2jYXP7"
@@ -6403,7 +6439,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 188380,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4Zc6fjadh1ONHDtec9poAD"

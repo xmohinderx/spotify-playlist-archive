@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 11722,
+  "num_followers": 11727,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMGUzNmFkODI3NmM2ZGM5NDMzNjdjNjIwZTEwYmE2ZmMw",
+  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMDYzMTU3NGY1MWM4NDZjNmIwMzhlNzAwN2U4ODBmODVl",
   "tracks": [
     {
       "added_at": "2020-11-25 03:15:55",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "The Story of You",
+        "url": "https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx"
+      },
+      "artists": [
+        {
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 238767,
       "name": "Summertime (feat. Citizen Cope)",
       "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "The Story of You",
-        "url": "https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx"
-      },
-      "artists": [
-        {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -499,6 +499,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Leylines",
+        "url": "https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "Harmonize",
+      "url": "https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Indigo Sea",
         "url": "https://open.spotify.com/album/22uesuPEjJxkT7X8aa2r2N"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 251840,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "Leylines",
-        "url": "https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "Harmonize",
-      "url": "https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Stay Human Vol. II",
-        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 169689,
-      "name": "Just to Say I Love You",
-      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 262174,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "Stay Human Vol. II",
+        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 169689,
+      "name": "Just to Say I Love You",
+      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -843,18 +843,18 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Sometimes I",
-        "url": "https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp"
+        "name": "Uneven Days",
+        "url": "https://open.spotify.com/album/5NgCiRb6LH8wEtseBuOuy9"
       },
       "artists": [
         {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 377258,
-      "name": "Sometimes I",
-      "url": "https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp"
+      "duration_ms": 260171,
+      "name": "Uneven Days",
+      "url": "https://open.spotify.com/track/5NQhbua3fjGBeIUDDq1ozD"
     }
   ],
   "unique_name": "Peace Of Mind",

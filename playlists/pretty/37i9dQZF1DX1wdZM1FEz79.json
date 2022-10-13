@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: 10CM, BIG Naughty) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 224959,
+  "num_followers": 225023,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODE1NiwwMDAwMDAwMDIxNDlmNDdhZWYxMGQ5ODI3NjI0MjhlYzI5MjkyOTQz",
+  "snapshot_id": "MTY2NTExODE1NiwwMDAwMDAwMDNlZWQ3YTM4NmFhNjYxY2QzNmNhOWMyZDJlYTFhODFi",
   "tracks": [
     {
       "added_at": "2022-10-03 12:34:16",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
-        "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
-        "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
-      },
-      "artists": [
-        {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
-        }
-      ],
-      "duration_ms": 171680,
-      "name": "Love, Maybe (Acoustic Ver.)",
-      "url": "https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 188666,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
+        "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
+        "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "duration_ms": 171680,
+      "name": "Love, Maybe (Acoustic Ver.)",
+      "url": "https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip"
     },
     {
       "added_at": "2022-10-03 12:34:16",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
-        "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 166968,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
         "name": "Nevertheless, (Original Drama Sound Track, Pt. 1)",
         "url": "https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 238266,
       "name": "We're Already",
       "url": "https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 166968,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
     },
     {
       "added_at": "2022-10-03 12:34:16",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
         "name": "Chancellor",
         "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
       "added_at": "2022-10-03 12:34:16",
@@ -469,6 +469,22 @@
       "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
     },
     {
+      "added_at": "2022-10-13 01:39:09",
+      "album": {
+        "name": "Cape",
+        "url": "https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "duration_ms": 264119,
+      "name": "Cape",
+      "url": "https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK"
+    },
+    {
       "added_at": "2022-10-03 12:34:16",
       "album": {
         "name": "Paint",
@@ -483,6 +499,22 @@
       "duration_ms": 188196,
       "name": "Paint",
       "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+      },
+      "artists": [
+        {
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+        }
+      ],
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
       "added_at": "2022-10-03 12:34:16",
@@ -507,22 +539,6 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
-      },
-      "artists": [
-        {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
-        }
-      ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 248768,
       "name": "Wait",
       "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
-    },
-    {
-      "added_at": "2022-10-12 01:48:00",
-      "album": {
-        "name": "Cape",
-        "url": "https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu"
-      },
-      "artists": [
-        {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        }
-      ],
-      "duration_ms": 264119,
-      "name": "Cape",
-      "url": "https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK"
     },
     {
       "added_at": "2022-10-03 12:34:16",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
-        "name": "Tofu Personified Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "with you",
-      "url": "https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
         "name": "Uncontrollably Fond OST Part.1",
         "url": "https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 205683,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
+        "name": "Tofu Personified Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "with you",
+      "url": "https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP"
     },
     {
       "added_at": "2022-10-03 12:34:16",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-03 12:34:16",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
-    },
-    {
-      "added_at": "2022-10-03 12:34:16",
-      "album": {
         "name": "Uncontrollably Fond OST Part.14",
         "url": "https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 206854,
       "name": "A Little Braver",
       "url": "https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH"
+    },
+    {
+      "added_at": "2022-10-03 12:34:16",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
     },
     {
       "added_at": "2022-10-03 12:34:16",

@@ -1171,6 +1171,28 @@
     {
       "album": {
         "name": "Can't Get Over It",
+        "url": "https://open.spotify.com/album/0FU4QT9PPS9KV2dPev2xY3"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        },
+        {
+          "name": "Dead Space",
+          "url": "https://open.spotify.com/artist/7J0vmZ5neXBGAoa8s79R9b"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215238,
+      "name": "Can't Get Over It",
+      "url": "https://open.spotify.com/track/15c08h5TBoj5SvhlzaruVl"
+    },
+    {
+      "album": {
+        "name": "Can't Get Over It",
         "url": "https://open.spotify.com/album/0ooyjvsUgs6bj3vPijGncb"
       },
       "artists": [
@@ -1185,7 +1207,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 215238,
       "name": "Can't Get Over It",
       "url": "https://open.spotify.com/track/6wAx9MSumgFDUTW62vTs8L"
@@ -1229,10 +1251,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 170000,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/570IBDs5wg3IfbHLHOPJss"
+    },
+    {
+      "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/4V0mWPP1Z2zwUxSizqeYhN"
+      },
+      "artists": [
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        },
+        {
+          "name": "Drew Ray Tanner",
+          "url": "https://open.spotify.com/artist/1b8U8JnyaUcNpiaoBk80ue"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/6jhKRW3jPPTaKRwKd2GWN9"
     },
     {
       "album": {
@@ -8897,7 +8941,7 @@
     {
       "album": {
         "name": "Take Me High",
-        "url": "https://open.spotify.com/album/7B1o7ADGNrli4kqnxTH4fL"
+        "url": "https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7"
       },
       "artists": [
         {
@@ -8916,6 +8960,32 @@
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt"
+    },
+    {
+      "album": {
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/7B1o7ADGNrli4kqnxTH4fL"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 255000,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/4gjN40eaGDu02UhcIB0mVi"
@@ -9807,6 +9877,24 @@
     {
       "album": {
         "name": "Transitory",
+        "url": "https://open.spotify.com/album/5gXoYOWrqIDWbPpWqYLuCd"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301960,
+      "name": "Transitory",
+      "url": "https://open.spotify.com/track/50hwmsntHKjqLOHJCRykdH"
+    },
+    {
+      "album": {
+        "name": "Transitory",
         "url": "https://open.spotify.com/album/0NH5ptXUhDmNKKeAyqdWma"
       },
       "artists": [
@@ -9817,7 +9905,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 301960,
       "name": "Transitory",
       "url": "https://open.spotify.com/track/52peIXHrnQpSuANcws9IBr"

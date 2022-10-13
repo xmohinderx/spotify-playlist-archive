@@ -22119,7 +22119,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 113618,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/3ko8fiPX0re8ZLhferPvLy"
@@ -42680,6 +42680,24 @@
     },
     {
       "album": {
+        "name": "Red Beach",
+        "url": "https://open.spotify.com/album/6VqWW7O74ee5p0uCQwUAfu"
+      },
+      "artists": [
+        {
+          "name": "Peter Kind",
+          "url": "https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134876,
+      "name": "Red Beach",
+      "url": "https://open.spotify.com/track/6YAroh1egcZehP7e7TnxzV"
+    },
+    {
+      "album": {
         "name": "Red Canyon",
         "url": "https://open.spotify.com/album/08FKdBj2P0jkzWlPhHRLnY"
       },
@@ -45597,7 +45615,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 131052,
       "name": "Secret Hideout",
       "url": "https://open.spotify.com/track/3pLzDaKb0lzJCVRNp37oFy"
@@ -60777,6 +60795,24 @@
       "duration_ms": 44149,
       "name": "You Go?!",
       "url": "https://open.spotify.com/track/1ik7xZMTedPed4uN8lxDDW"
+    },
+    {
+      "album": {
+        "name": "you know",
+        "url": "https://open.spotify.com/album/7CMezD7MYhwln1HRbpqhdU"
+      },
+      "artists": [
+        {
+          "name": "Wieland & Ulrich",
+          "url": "https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "you know",
+      "url": "https://open.spotify.com/track/13V0lxxImhqXZrm8610JnO"
     },
     {
       "album": {

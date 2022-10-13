@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for when you're having fun in the sun.
 
-59 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/3LCmoDT9YdMiDU2JUfP0Gb)
+61 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/3LCmoDT9YdMiDU2JUfP0Gb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,11 +48,13 @@
 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 | 2021-05-25 |  |
 | [Summertime!](https://open.spotify.com/track/1gAaCOTfapa9tB4nWkUWP2) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Aquabats! Super Show! \(Television Soundtrack\), Vol\. 1](https://open.spotify.com/album/2zfV24Z3J5tYbbITneW2Ju) | 1:19 | 2021-05-25 |  |
 | [SUMMERTIME!](https://open.spotify.com/track/5MwfVQ4xXUMzKTmG9RuoHZ) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Super Show! Vol\. 1 \(Music from The Aquabats! Super Show! Soundtrack\)](https://open.spotify.com/album/3IrSAQW0Hzh2o4qwoPAmOx) | 1:19 | 2021-05-25 | 2022-07-29 |
-| [Sunscreen](https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps) | 1:23 | 2021-05-25 |  |
+| [Sunscreen](https://open.spotify.com/track/2x9P9IOZIj9t5SNWesDlHe) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/17nFvyQzMs0pbiz9ukUuA5) | 1:23 | 2021-05-25 |  |
+| [Sunscreen](https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps) | 1:23 | 2021-05-25 | 2022-10-13 |
 | [Surf City \- Remastered 1990/Stereo Remix](https://open.spotify.com/track/4ZzXPeOfMXk0iKNQGdlzDq) | [Jan & Dean](https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y) | [Surf City: The Best Of Jan & Dean](https://open.spotify.com/album/1q3jhhU1DSw1zNAoeyhCsE) | 2:43 | 2021-05-25 |  |
 | [Surfer Girl \(Stereo\)](https://open.spotify.com/track/0yQLW0FSYo8fye3FsMgAQU) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Mono & Stereo\)](https://open.spotify.com/album/11HAwlOWpKxJVbGIxnZ3qI) | 2:28 | 2021-05-25 |  |
 | [Surfer Shake](https://open.spotify.com/track/3KrrtXZHE3w9Aiy5E9pZl1) | [The Baby Grands](https://open.spotify.com/artist/5utOgNLzDC1fg5EuztlYbC) | [The Baby Grands](https://open.spotify.com/album/4QNuQTPY9OzOSoiY6BWYc9) | 1:56 | 2021-05-25 |  |
-| [Surfin' And Sunnin'](https://open.spotify.com/track/4abQIptzx1pXZBDq8PF71o) | [Sunny Day](https://open.spotify.com/artist/4KqqosG1rMSwHl0AyLeatP) | [Keep Styling, Keep Singing](https://open.spotify.com/album/7cgGVrEHEiJLhjzWfMfItx) | 0:49 | 2021-05-25 |  |
+| [Surfin' And Sunnin'](https://open.spotify.com/track/1YAZmYEermeBg0RZfLMARL) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing](https://open.spotify.com/album/21oqj4VIaceueMP4WuDWv7) | 0:49 | 2021-05-25 |  |
+| [Surfin' And Sunnin'](https://open.spotify.com/track/4abQIptzx1pXZBDq8PF71o) | [Sunny Day](https://open.spotify.com/artist/4KqqosG1rMSwHl0AyLeatP) | [Keep Styling, Keep Singing](https://open.spotify.com/album/7cgGVrEHEiJLhjzWfMfItx) | 0:49 | 2021-05-25 | 2022-10-13 |
 | [Surfin' Safari \- Mono/Remastered 2001](https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' Safari \(Remastered\)](https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB) | 2:06 | 2021-05-25 |  |
 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 | 2021-05-25 |  |
 | [Surf’s Up \- From "Teen Beach Movie"](https://open.spotify.com/track/4FLwksoBdffxACteswhNlU) | [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Maia Mitchell](https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC), [Teen Beach Movie Cast](https://open.spotify.com/artist/7CU7ADIkPVCEZU9miqxSzy) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 3:01 | 2021-05-25 |  |

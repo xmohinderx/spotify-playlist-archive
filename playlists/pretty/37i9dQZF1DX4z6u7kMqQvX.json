@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 86997,
+  "num_followers": 87086,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGRkMDAxYTEwMmRhMWE4YzU2NjI5MTBhM2Q1OGYyNWFh",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDllMGM1ZTg5NjhmNWY4Mjc2MDM5YWZjZDJmNTVkYmVk",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Nocturna",
+        "url": "https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 149900,
+      "name": "Me Gustas T\u00fa",
+      "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Para Vivir Mejor",
         "url": "https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Nocturna",
-        "url": "https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 149900,
-      "name": "Me Gustas T\u00fa",
-      "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "DE ESTE LADO DE LA FOTO",
         "url": "https://open.spotify.com/album/27tu8mkYCoWvqgGvbECS1O"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 206738,
       "name": "La Mexicana",
       "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Cerca de Ti",
-        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 157849,
-      "name": "Cerca de Ti",
-      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -923,6 +907,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Cerca de Ti",
+        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 157849,
+      "name": "Cerca de Ti",
+      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Ya Me Hiciste Mal",
         "url": "https://open.spotify.com/album/4Z6qD5QRi4xbFUhTxmd5au"
       },
@@ -935,26 +935,6 @@
       "duration_ms": 199189,
       "name": "Ya Me Hiciste Mal",
       "url": "https://open.spotify.com/track/5FO2fNgerif5MMQMGQ6GXt"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "A D\u00f3nde Vamos?",
-        "url": "https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        },
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 202230,
-      "name": "A D\u00f3nde Vamos?",
-      "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1007,6 +987,26 @@
       "duration_ms": 188660,
       "name": "Me Conecto (feat. Jorge Drexler)",
       "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "A D\u00f3nde Vamos?",
+        "url": "https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        },
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 202230,
+      "name": "A D\u00f3nde Vamos?",
+      "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Entra En Mi Vida",
-        "url": "https://open.spotify.com/album/4MtfCKfYPxHrZlDBGFWlPa"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
       },
       "artists": [
         {
-          "name": "La Casa Azul",
-          "url": "https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd"
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
         }
       ],
-      "duration_ms": 218117,
-      "name": "Entra En Mi Vida",
-      "url": "https://open.spotify.com/track/6kpB9L4r25GM9i6a8YF8hC"
+      "duration_ms": 207809,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
+        "name": "Entra En Mi Vida",
+        "url": "https://open.spotify.com/album/4MtfCKfYPxHrZlDBGFWlPa"
       },
       "artists": [
         {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+          "name": "La Casa Azul",
+          "url": "https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd"
         }
       ],
-      "duration_ms": 207809,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
+      "duration_ms": 218117,
+      "name": "Entra En Mi Vida",
+      "url": "https://open.spotify.com/track/6kpB9L4r25GM9i6a8YF8hC"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Frontera / Fuji",
-        "url": "https://open.spotify.com/album/2ZUxEEF8UXDzh0OgEJwylB"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        }
-      ],
-      "duration_ms": 278712,
-      "name": "Fuji",
-      "url": "https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/2AhJpW85a5KzalPxVJLvTp"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 160678,
       "name": "Modo Avi\u00f3n",
       "url": "https://open.spotify.com/track/5qZNL9BORsrXLEzysCGXEc"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Frontera / Fuji",
+        "url": "https://open.spotify.com/album/2ZUxEEF8UXDzh0OgEJwylB"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "duration_ms": 278712,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1335,38 +1335,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "1312 (Portarme Mal)",
-        "url": "https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 218613,
-      "name": "1312 (Portarme Mal)",
-      "url": "https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Lo que necesitas es amor",
-        "url": "https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 303920,
-      "name": "Lo que necesitas es amor",
-      "url": "https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "D\u00e9jame Dejarte Atr\u00e1s",
         "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
       },
@@ -1395,6 +1363,22 @@
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Lo que necesitas es amor",
+        "url": "https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 303920,
+      "name": "Lo que necesitas es amor",
+      "url": "https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 231154,
       "name": "Amante",
       "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "1312 (Portarme Mal)",
+        "url": "https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 218613,
+      "name": "1312 (Portarme Mal)",
+      "url": "https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Mujeres Bellas y Fuertes",
+        "url": "https://open.spotify.com/album/5aEkGG6aAyvEYVxhaB6tGi"
+      },
+      "artists": [
+        {
+          "name": "El Mato",
+          "url": "https://open.spotify.com/artist/2pOYOOflbI58JsE1IHbwUq"
+        },
+        {
+          "name": "Un Policia Motorizado",
+          "url": "https://open.spotify.com/artist/7u1y4Oo6EnaRmZQuEmDyQn"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Dos Galaxias",
+      "url": "https://open.spotify.com/track/6zWr8KVQ5gLbXY43KgxJNI"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Ni una Gota de Amor",
         "url": "https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 212386,
       "name": "SOMOS TAN INTENSOS",
       "url": "https://open.spotify.com/track/6LTS9XjUZXVDr0DY0b8AQA"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Mujeres Bellas y Fuertes",
-        "url": "https://open.spotify.com/album/5aEkGG6aAyvEYVxhaB6tGi"
-      },
-      "artists": [
-        {
-          "name": "El Mato",
-          "url": "https://open.spotify.com/artist/2pOYOOflbI58JsE1IHbwUq"
-        },
-        {
-          "name": "Un Policia Motorizado",
-          "url": "https://open.spotify.com/artist/7u1y4Oo6EnaRmZQuEmDyQn"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Dos Galaxias",
-      "url": "https://open.spotify.com/track/6zWr8KVQ5gLbXY43KgxJNI"
     }
   ],
   "unique_name": "Amor Indie",

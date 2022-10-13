@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-158 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/1MGkYmGQ7StCIsRe8pezD4)
+159 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/1MGkYmGQ7StCIsRe8pezD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,8 +47,9 @@
 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 | 2022-05-06 |  |
 | [Easy From Now On](https://open.spotify.com/track/1zKF9MlZymZ5uuMVv4Us1G) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Easy From Now On](https://open.spotify.com/album/27eQoki17KCvSJWtta6xlq) | 3:18 | 2022-06-03 |  |
 | [Elliot's Song](https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Elliot's Song](https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy) | 2:33 | 2022-08-03 |  |
-| [Faith You Might](https://open.spotify.com/track/1sj1zSyFRj72niCZRhjjPJ) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Hoax](https://open.spotify.com/album/4o8bLB3eE8zNngen1PmGMz) | 4:12 | 2022-07-26 |  |
+| [Faith You Might](https://open.spotify.com/track/1sj1zSyFRj72niCZRhjjPJ) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Hoax](https://open.spotify.com/album/4o8bLB3eE8zNngen1PmGMz) | 4:12 | 2022-07-26 | 2022-10-13 |
 | [Faith You Might](https://open.spotify.com/track/6UUL6mVus7dn7sw5O6Zd7p) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Faith You Might / In Case I Don't Feel](https://open.spotify.com/album/1xroovsaQjS7u5DmTvd0VT) | 4:12 | 2022-01-12 | 2022-07-29 |
+| [Faith You Might](https://open.spotify.com/track/7MmaUyUT4BZ34h0efprslf) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Hoax](https://open.spotify.com/album/4dfCzW5PNzNIcYLZaVbuqs) | 4:12 | 2022-08-29 |  |
 | [Fake \- Acoustic Piano](https://open.spotify.com/track/5LYV8k6E1cq7CCInekuueR) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Fake \(Acoustic Piano\)](https://open.spotify.com/album/1Egm1GBWycUQBlpcq7oOYh) | 2:27 | 2022-01-12 |  |
 | [Falling Short](https://open.spotify.com/track/6u9cWDkxbTXaqf4GZP5MHh) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/6yhHW85d9Z6D3uyvLZSZxI) | 3:23 | 2022-01-12 | 2022-06-04 |
 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 | 2022-01-12 |  |

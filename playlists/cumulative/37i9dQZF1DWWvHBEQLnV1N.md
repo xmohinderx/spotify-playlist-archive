@@ -4,7 +4,7 @@
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-82 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/2Kr0huhuGmwKqVDH3tUmr8)
+83 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/2Kr0huhuGmwKqVDH3tUmr8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Do They Know It's Christmas?](https://open.spotify.com/track/6Z7nSvnAhMasviVPmdEZKC) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Christmas Music 100 Hits](https://open.spotify.com/album/2whKuzNvFl6OnkiOvN1vA0) | 3:49 | 2021-12-17 | 2022-07-29 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 | 2021-12-17 |  |
 | [Driving Home for Christmas](https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [New Light Through Old Windows](https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH) | 3:59 | 2021-12-17 |  |
-| [Every Moment Is Christmas with You](https://open.spotify.com/track/7c83JUp9KUcPFl04clDuwZ) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Every Moment Is Christmas with You](https://open.spotify.com/album/08oR8mbmEwvxetlQ4mnwCY) | 2:47 | 2021-12-17 |  |
+| [Every Moment Is Christmas with You](https://open.spotify.com/track/2fZpSzvmXmWR7beaOY5eBy) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Every Moment Is Christmas with You](https://open.spotify.com/album/2p40roIIQlBS0trttMKPye) | 2:47 | 2021-12-17 |  |
+| [Every Moment Is Christmas with You](https://open.spotify.com/track/7c83JUp9KUcPFl04clDuwZ) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Every Moment Is Christmas with You](https://open.spotify.com/album/08oR8mbmEwvxetlQ4mnwCY) | 2:47 | 2021-12-17 | 2022-10-13 |
 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 | 2021-12-17 |  |
 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3wV9G5BhrJ1ntlCQYko0if) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [Fairytale of New York](https://open.spotify.com/album/2MJV1Nr37QoEDeAo9cz6mr) | 4:32 | 2021-12-17 | 2022-07-29 |
 | [Hang Your Lights \(Edit\)](https://open.spotify.com/track/7yBk4hLd8Nc4m446yllbdD) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:01 | 2021-12-17 |  |

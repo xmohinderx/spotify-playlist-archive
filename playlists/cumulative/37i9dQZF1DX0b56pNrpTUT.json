@@ -223,7 +223,7 @@
     {
       "album": {
         "name": "Flipside",
-        "url": "https://open.spotify.com/album/2c0TD1qSLFsAhKoAXb7qZd"
+        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
       },
       "artists": [
         {
@@ -234,6 +234,24 @@
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191453,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
+    },
+    {
+      "album": {
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/2c0TD1qSLFsAhKoAXb7qZd"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 191453,
       "name": "Flipside",
       "url": "https://open.spotify.com/track/6PBVyALVJlwRK97115oiED"
@@ -553,7 +571,7 @@
     {
       "album": {
         "name": "Out the Way",
-        "url": "https://open.spotify.com/album/2mspUbKzrsZXINyUXBfMhA"
+        "url": "https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ"
       },
       "artists": [
         {
@@ -564,6 +582,24 @@
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 155414,
+      "name": "Out the Way",
+      "url": "https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8"
+    },
+    {
+      "album": {
+        "name": "Out the Way",
+        "url": "https://open.spotify.com/album/2mspUbKzrsZXINyUXBfMhA"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 155414,
       "name": "Out the Way",
       "url": "https://open.spotify.com/track/4gT03zyHBC3ushZZ16gGFK"
@@ -723,7 +759,7 @@
     {
       "album": {
         "name": "Serial",
-        "url": "https://open.spotify.com/album/4eSxIjJeG94DnoC2Nk1xAy"
+        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
       },
       "artists": [
         {
@@ -734,6 +770,24 @@
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 227535,
+      "name": "Serial",
+      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
+    },
+    {
+      "album": {
+        "name": "Serial",
+        "url": "https://open.spotify.com/album/4eSxIjJeG94DnoC2Nk1xAy"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 227535,
       "name": "Serial",
       "url": "https://open.spotify.com/track/5RRl7Hio98AB5JsGo9acb0"
@@ -899,10 +953,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 192880,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ"
+    },
+    {
+      "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "album": {

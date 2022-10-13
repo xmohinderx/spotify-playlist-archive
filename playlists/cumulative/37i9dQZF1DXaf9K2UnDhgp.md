@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-153 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/5lFt6f9bgWuVMt1UoMEajh)
+154 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/5lFt6f9bgWuVMt1UoMEajh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 | 2021-11-26 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/4DAWtJ9AtRjOMRKJYzdFKW) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [Cole Rolland](https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc) | [Jingle Bell Rock / Dance of the Sugar Plum Fairy](https://open.spotify.com/album/4XaF5rkbxBH0PArJqK6kFp) | 2:03 | 2021-11-26 |  |
 | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk) | 2:22 | 2021-11-26 |  |
-| [Last Christmas](https://open.spotify.com/track/1tOim0NqaqQpJ6dlIunIkB) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl) | 4:18 | 2021-11-26 |  |
+| [Last Christmas](https://open.spotify.com/track/1oMDICe4Bbv7NnYXXTBg5j) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N) | 4:18 | 2021-11-26 |  |
+| [Last Christmas](https://open.spotify.com/track/1tOim0NqaqQpJ6dlIunIkB) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl) | 4:18 | 2021-11-26 | 2022-10-13 |
 | [Last Christmas](https://open.spotify.com/track/6VV8EboIsnmgv8Yy11g6Ww) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8) | 4:27 | 2021-11-26 |  |
 | [Last Christmas](https://open.spotify.com/track/6ZGwQBPjikhN8L2xoDw9IF) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ), [Downer Inc.](https://open.spotify.com/artist/5MPsaugll7lskvPsYaRvGr), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Last Christmas](https://open.spotify.com/album/2InfiszrMb4YWyXo3pIfyA) | 4:06 | 2021-11-26 |  |
 | [Last Christmas \- Studio Version](https://open.spotify.com/track/4XktdsM5pn4QfzfIbQmbE2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Christmas EP](https://open.spotify.com/album/2doWCGfknSdgTc7pM1N6Rf) | 4:27 | 2021-11-26 | 2022-07-29 |

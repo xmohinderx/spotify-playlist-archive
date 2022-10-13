@@ -491,6 +491,28 @@
     {
       "album": {
         "name": "DEATH TRIP",
+        "url": "https://open.spotify.com/album/6RF7gZXUtYNfLngg1ziZQJ"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "Soft Lipa",
+          "url": "https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222687,
+      "name": "DEATH TRIP",
+      "url": "https://open.spotify.com/track/1cENnHoIyYcBm5ubz3h1q9"
+    },
+    {
+      "album": {
+        "name": "DEATH TRIP",
         "url": "https://open.spotify.com/album/3n4hIndd4ApUv0FUG2KbLO"
       },
       "artists": [
@@ -505,7 +527,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 222687,
       "name": "DEATH TRIP",
       "url": "https://open.spotify.com/track/77nvm4SGjSDyAjdBpBCxuO"
@@ -1664,6 +1686,28 @@
     },
     {
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201869,
+      "name": "Silver Into Rain",
+      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+    },
+    {
+      "album": {
         "name": "Silver Into Rain",
         "url": "https://open.spotify.com/album/6JlD7QPsUqPZQDoiYmENzd"
       },
@@ -1679,7 +1723,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY"

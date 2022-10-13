@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-75 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
+76 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Punto Cero](https://open.spotify.com/track/7i650ozZjXNUNT1AFqxAI4) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf), [Santi](https://open.spotify.com/artist/3y89DR1J1RB96pJUByabwi) | [Punto Cero](https://open.spotify.com/album/3myUaKhlvdBmSQlKxYugTQ) | 8:42 | 2022-07-23 |  |
 | [Queen of the Highway](https://open.spotify.com/track/0yMkBK3Mfe6zRZnqEAm30B) | [Kalaha Moon](https://open.spotify.com/artist/5ZzHOBBOXZdhypyaffUrJG) | [Queen of the Highway](https://open.spotify.com/album/2GC1gz92bTF1lDg1ttMjql) | 7:52 | 2022-07-23 |  |
 | [Reign \- Okuma Remix](https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [One by One Remixes](https://open.spotify.com/album/2VFxjPMUpN6n2aU8UdN4Ap) | 7:11 | 2022-07-23 |  |
-| [Resiliencia](https://open.spotify.com/track/1sYbjIz5jBAqE8n9nbdDDI) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resiliencia](https://open.spotify.com/album/6WiwJthVBqLR7rd5tQ4jzz) | 4:49 | 2022-07-23 |  |
+| [Resiliencia](https://open.spotify.com/track/1sYbjIz5jBAqE8n9nbdDDI) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resiliencia](https://open.spotify.com/album/6WiwJthVBqLR7rd5tQ4jzz) | 4:49 | 2022-07-23 | 2022-10-13 |
+| [Resiliencia](https://open.spotify.com/track/590gL4Fk4eHhLazuvVefLn) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX) | 4:49 | 2022-07-23 |  |
 | [Rosas \- Nu Remix](https://open.spotify.com/track/3kfd2K9w54Rqwkr6uFhr6Z) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [PL004](https://open.spotify.com/album/3S9nHXSKFLCrfy8oICa3AS) | 5:32 | 2022-07-23 |  |
 | [Sa Trinxa](https://open.spotify.com/track/63sdXKmp8TPxbq4q3hPLaU) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q) | [Sa Trinxa](https://open.spotify.com/album/5nGk3xC7Lj9xmCre5EgloY) | 5:11 | 2022-07-23 |  |
 | [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 | 2022-07-23 |  |

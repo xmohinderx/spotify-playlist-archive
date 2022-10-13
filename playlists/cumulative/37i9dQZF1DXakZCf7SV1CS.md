@@ -4,7 +4,7 @@
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-112 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/7osmwtkMAqCNF1RA6866nT)
+113 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/7osmwtkMAqCNF1RA6866nT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 | 2021-09-23 |  |
 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 | 2021-12-21 | 2022-05-13 |
 | [FARAWAY199X/TAPE 2](https://open.spotify.com/track/4zOfSQJhPaHVdNIPrOJJVl) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [RUBBER](https://open.spotify.com/album/0Qs20YY6v8ktvJP1RP84hC) | 3:04 | 2021-09-23 |  |
-| [Flamingo](https://open.spotify.com/track/3AaiEsiqHO2ylnnOdWninE) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Flamingo](https://open.spotify.com/album/2xLjorF0M6LHPqk2qmZJOV) | 3:17 | 2021-09-23 |  |
+| [Flamingo](https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Flamingo](https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq) | 3:17 | 2022-05-12 |  |
+| [Flamingo](https://open.spotify.com/track/3AaiEsiqHO2ylnnOdWninE) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Flamingo](https://open.spotify.com/album/2xLjorF0M6LHPqk2qmZJOV) | 3:17 | 2021-09-23 | 2022-10-13 |
 | [FREAK](https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [FREAK](https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF) | 2:47 | 2021-09-23 |  |
 | [Friday Night](https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 3:25 | 2021-09-23 |  |
 | [from paris, with love](https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [Drive\-By Lullabies](https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp) | 3:02 | 2022-05-12 |  |

@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-170 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+172 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:56 | 2021-08-20 |  |
 | [Hot In Herre](https://open.spotify.com/track/5cnPBp42sCF1GrN0GsPhQM) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [The Take Off All Your Clothes EP](https://open.spotify.com/album/2KtIjCHTYOzzmHYscHVZzo) | 4:16 | 2022-05-27 |  |
 | [Hot In Herre](https://open.spotify.com/track/6EmwBRFDI25uukoQ9jCU6J) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [The Take Off All Your Clothes \- EP](https://open.spotify.com/album/1btCWMYWuQSFojQJoGHfHj) | 4:16 | 2021-08-20 | 2022-07-29 |
-| [I Believe in a Thing Called Love](https://open.spotify.com/track/6YdSvvnhkppxBNZgdFB301) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:04 | 2022-05-27 |  |
+| [I Believe in a Thing Called Love](https://open.spotify.com/track/6YdSvvnhkppxBNZgdFB301) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:04 | 2022-05-27 | 2022-10-13 |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/6mEeutpoC30B6yALroRlFW) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:04 | 2021-08-20 | 2022-07-29 |
+| [I Believe in a Thing Called Love](https://open.spotify.com/track/7kcAK7HvIuHHDHJoGXlSPv) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:04 | 2022-10-07 |  |
 | [I Bet My Life](https://open.spotify.com/track/7jHpuHfI0bhd4gYiz7jVL0) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' on the Hits of 2015](https://open.spotify.com/album/3gi2gORW66TUEFYq2X0LK3) | 3:16 | 2021-08-20 |  |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:32 | 2022-01-21 |  |
 | [I Will](https://open.spotify.com/track/3ei99dge15PXGB99SCSA4y) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Now That I've Found You: A Collection](https://open.spotify.com/album/1yt29znD6KxC2ayfnT1Cqk) | 4:04 | 2021-08-20 | 2022-07-29 |
@@ -96,7 +97,8 @@
 | [Jolene](https://open.spotify.com/track/2NAxj5QpHT7YqpxQdil0jF) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Back Home Again](https://open.spotify.com/album/4ilyNd7mmBL3EdkHl6vAc3) | 3:16 | 2022-05-27 |  |
 | [Just One Look](https://open.spotify.com/track/3I8lVQEo7B4tHERQK88MAw) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:08 | 2022-05-27 | 2022-10-01 |
 | [Just One Look](https://open.spotify.com/track/525z8O4TTjzSn6gfLItXtd) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:08 | 2021-08-20 | 2022-07-29 |
-| [Karma Police](https://open.spotify.com/track/6IievBse1PXM8OSR6GkjSs) | [Mother Falcon](https://open.spotify.com/artist/5AcIoQwjyBFFjzxh8UAQlj) | [MF Computer \(Radiohead's OK Computer Reimagined\)](https://open.spotify.com/album/6Pq7wbwhhZBUcpnvmgapys) | 4:22 | 2021-08-20 |  |
+| [Karma Police](https://open.spotify.com/track/3kheDV1ejUQP1Ty4gQ3N92) | [Mother Falcon](https://open.spotify.com/artist/5AcIoQwjyBFFjzxh8UAQlj) | [MF Computer \(Radiohead's OK Computer Reimagined\)](https://open.spotify.com/album/5kEv3TTDmTJgOE9iaDBWm2) | 4:22 | 2022-10-07 |  |
+| [Karma Police](https://open.spotify.com/track/6IievBse1PXM8OSR6GkjSs) | [Mother Falcon](https://open.spotify.com/artist/5AcIoQwjyBFFjzxh8UAQlj) | [MF Computer \(Radiohead's OK Computer Reimagined\)](https://open.spotify.com/album/6Pq7wbwhhZBUcpnvmgapys) | 4:22 | 2021-08-20 | 2022-10-13 |
 | [Kid A](https://open.spotify.com/track/7J4jNen0x3Y8Gy89aRIzyK) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Who's Feeling Young Now?](https://open.spotify.com/album/6RknB2bw00sWWLJms0MiR3) | 4:52 | 2021-08-20 |  |
 | [Kiss From A Rose](https://open.spotify.com/track/3k3rsujAAKrvCXcyCzFtsU) | [Mustered Courage](https://open.spotify.com/artist/7A2mhKFpbcw6VrN64VPmOY) | [Kiss From A Rose](https://open.spotify.com/album/7FRzhL5VqBkKdo4JWc8vMP) | 2:36 | 2021-08-20 |  |
 | [Kryptonite](https://open.spotify.com/track/5nkAJwICnwnzsriZCcastc) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Cornbread Red](https://open.spotify.com/artist/6WGUADHV7LnpbmNi5PhfYO) | [Pickin' On 3 Doors Down: A Bluegrass Tribute \- Down to This:](https://open.spotify.com/album/4j19jxzQmLk1Iqu8jLfbnt) | 3:45 | 2021-08-20 |  |

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-836 songs - 19 hr 42 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+838 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Fading Embers](https://open.spotify.com/track/7ixfffgKZ9PDaNrNTbEHOV) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:12 | 2022-01-12 |  |
 | [Fading Moon Revisited Lullaby](https://open.spotify.com/track/5fGOVb7HyenXbRWo37dEum) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Nostalgic, Vol\. 1](https://open.spotify.com/album/1Dk8ujbZK0JWtk1h3A9sd1) | 1:02 | 2022-02-11 |  |
 | [Faith](https://open.spotify.com/track/7kWoKGCXEP588jZUlSJCAX) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Faith, Forgive, Free](https://open.spotify.com/album/42xVbiyi3NBXtkALBBBL0j) | 1:54 | 2022-01-12 |  |
+| [Fall Moon](https://open.spotify.com/track/0AdQOxtRyMwMKOxS32RDhj) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Fall Moon](https://open.spotify.com/album/1TKxRTwKcA4KDQ27upbdKe) | 1:02 | 2022-10-12 |  |
 | [Fallen](https://open.spotify.com/track/378SZkxxxqtjnM519Le50R) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:34 | 2022-01-12 |  |
 | [Fallen \- Piano Version](https://open.spotify.com/track/4aaAdMp5UglOF1aDZ0XYlG) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:35 | 2022-01-24 |  |
 | [Fallen Again \- Alternate Cello Version](https://open.spotify.com/track/28nAmfmZ3BsfHy5h5cKfv0) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soft Cello](https://open.spotify.com/album/2e8LTImP3X4WN7mQBAIRCO) | 1:10 | 2022-01-13 |  |
@@ -319,6 +320,7 @@
 | [Fragments Of Light](https://open.spotify.com/track/3oLxYRaOguIDRFoalOnS7U) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dreaming in the Rain](https://open.spotify.com/album/3rGGRbwcJXPeVxaNEiBHyW) | 1:21 | 2022-01-12 |  |
 | [Frailty](https://open.spotify.com/track/2M5NDnrmoorOMDjEndzgvw) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Hope In Silence](https://open.spotify.com/album/6eE0uY90mWQ20vcz3MOtvP) | 1:03 | 2022-03-02 |  |
 | [Free](https://open.spotify.com/track/0bknNgGRRNNyQ70UBhZPOx) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:44 | 2022-01-20 |  |
+| [From Above](https://open.spotify.com/track/5GgDKqJaLip9Bb2GqSUeTV) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [From Above](https://open.spotify.com/album/6OQvF4pvB3hzegaqbCwk8g) | 1:01 | 2022-10-12 |  |
 | [From Dream to Dream](https://open.spotify.com/track/2e9FQGZnnl5Us52CDEssjZ) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Abstract](https://open.spotify.com/album/6zXvhgdKBac71HBB0YFxgt) | 1:35 | 2022-01-20 |  |
 | [From The Horizon \- Cello Version](https://open.spotify.com/track/59DBSs0GXSGXas1CQrJY53) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soft Cello](https://open.spotify.com/album/2e8LTImP3X4WN7mQBAIRCO) | 1:03 | 2022-01-13 |  |
 | [Fulfilled](https://open.spotify.com/track/4eND28NxSHuh3kAYDDrhPg) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Beautiful Shadows](https://open.spotify.com/album/64il19i2VgQx3ZRS7mT0mu) | 1:02 | 2022-07-25 |  |

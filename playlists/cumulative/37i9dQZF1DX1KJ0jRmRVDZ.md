@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-506 songs - 1 day 4 hr 59 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+507 songs - 1 day 5 hr 3 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 | 2022-06-09 | 2022-10-07 |
 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 | 2022-06-13 |  |
 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 | 2022-07-28 |  |
+| [Paradise Lost](https://open.spotify.com/track/6pdi51BIJZMFolAjocMeFd) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Paradise Lost](https://open.spotify.com/album/0vnIfdckK1V6rAbhZDlHvp) | 3:35 | 2022-10-13 |  |
 | [Penguin's Detour](https://open.spotify.com/track/0HrRw92cShhABjnqNWOi19) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Penguin's Detour](https://open.spotify.com/album/0PGYyFLnGsl3LguARVroW5) | 3:35 | 2022-06-09 | 2022-07-29 |
 | [PLAYer](https://open.spotify.com/track/77bzrrMdwLa7CDKu62l7jT) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [黎\-ray\-](https://open.spotify.com/album/3ODHhgn1GAznuAHw4Mcdea) | 4:20 | 2022-07-12 | 2022-07-14 |
 | [position talk](https://open.spotify.com/track/4FkSBeVGH6BsXrctM08JGe) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [position talk](https://open.spotify.com/album/6kacmngtser9bpPL1oDODu) | 3:01 | 2022-09-06 | 2022-09-15 |
@@ -366,7 +367,7 @@
 | [天国の改札](https://open.spotify.com/track/7dIvHqdCVZGukFm7t5pCDm) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [天国の改札](https://open.spotify.com/album/2zsjn8Uim7Av20vNKJCLQn) | 0:53 | 2022-06-09 | 2022-07-27 |
 | [太陽観測](https://open.spotify.com/track/6nxwjODzvThfnFaBVPfExO) | [あたし](https://open.spotify.com/artist/7cXVvrtPmYeDXGSSTvOoSU) | [太陽観測](https://open.spotify.com/album/25Q46GKHDdFYtglOUaqmSI) | 4:06 | 2022-06-16 | 2022-06-18 |
 | [失星](https://open.spotify.com/track/7dJuriFabSCJb3000gLy5K) | [Layla.](https://open.spotify.com/artist/0Xa3pagXhcADT5ZAddyfka) | [失星](https://open.spotify.com/album/2xiNJjC1r0oPg6coKtwqvc) | 2:52 | 2022-06-23 | 2022-06-26 |
-| [失楽園](https://open.spotify.com/track/5QVMFQYQndc0qyzXzJcD8P) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [失楽園](https://open.spotify.com/album/0xhrDqFnWl8WdOKU1TN3Qn) | 3:35 | 2022-10-12 |  |
+| [失楽園](https://open.spotify.com/track/5QVMFQYQndc0qyzXzJcD8P) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [失楽園](https://open.spotify.com/album/0xhrDqFnWl8WdOKU1TN3Qn) | 3:35 | 2022-10-12 | 2022-10-13 |
 | [奇跡のようなこの世界で](https://open.spotify.com/track/5YBqpJoDWuiWVO4pjSnwWC) | [シエロ・アスール](https://open.spotify.com/artist/2YIkrrC79o7QRSO8sVKV6z) | [奇跡のようなこの世界で](https://open.spotify.com/album/7qR6fTKfiiinXnqKLkbmbK) | 4:40 | 2022-06-09 | 2022-06-14 |
 | [好きだ](https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [好きだ](https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0) | 3:37 | 2022-06-14 |  |
 | [婆心古狸](https://open.spotify.com/track/5HoFhKtBgX9Pcyi1IpbUFn) | [悒うつぼ](https://open.spotify.com/artist/46JcLfNgVQ8zNtSZU3vXB1) | [婆心古狸](https://open.spotify.com/album/19GGsauyJgEMZw83jcuy5L) | 1:57 | 2022-07-14 | 2022-07-19 |
