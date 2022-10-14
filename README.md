@@ -1610,6 +1610,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fright Fest](/playlists/pretty/37i9dQZF1DX6dCTsdzLHOw.md)
 - [Friozinho](/playlists/pretty/37i9dQZF1DX6e81LupkkgG.md)
 - [From the Delta to Chicago](/playlists/pretty/37i9dQZF1DXdkAbM8agIbA.md)
+- [Fromage](/playlists/pretty/37i9dQZF1DX4NFCksjqsSg.md)
 - [Front Left](/playlists/pretty/37i9dQZF1DX5WTH49Vcnqp.md)
 - [Front Porch](/playlists/pretty/37i9dQZF1DXa2PsvJSPnPf.md)
 - [Fuck Valentine!](/playlists/pretty/5Dn14a8hNIhT3NLLjUUBGL.md)
